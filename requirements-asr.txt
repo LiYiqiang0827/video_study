@@ -1,0 +1,7 @@
+# Verified Apple Silicon inference runtime. Install into an external virtualenv.
+mlx-audio[stt]==0.5.8
+mlx==0.32.3
+numpy==2.5.3
+soundfile==0.14.0
+transformers==5.19.0
+huggingface-hub==2.2.0

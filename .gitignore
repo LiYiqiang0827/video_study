@@ -1,0 +1,15 @@
+# A code-only skill/tool repository: inputs, media, outputs and runtimes live elsewhere.
+*
+!.gitignore
+!README.md
+!SKILL.md
+!requirements*.txt
+!scripts/
+!scripts/*.py
+!agents/
+!agents/*.yaml
+!references/
+!references/*.md
+**/__pycache__/
+**/*.pyc
+**/.DS_Store

@@ -1,0 +1,4 @@
+interface:
+  display_name: "云聪视频音频与字幕"
+  short_description: "提取已下载视频的音频，转写并对齐句级字幕，自动整理与归档"
+  default_prompt: "使用 $yuncong-video-subtitles 处理我已下载的云聪视频，生成音频、字幕与全文，并按上传北京时间统一归档。"
