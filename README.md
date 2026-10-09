@@ -2,6 +2,8 @@
 
 云聪视频下载后的纯工具工程：音频提取、Qwen MLX 转写与对齐、自动字幕、Mac mini 结果同步及统一归档。此仓库同时是 `yuncong-video-subtitles` 技能包，入口为 [SKILL.md](SKILL.md)。
 
+已完成字幕的视频还可生成带北京时间的观点解析、原始画线截图与视频切片，见 [视频解析工作流](references/video_analysis.md)。
+
 代码位于 `/Users/nickzhang/YuncongVideoTools`；媒体与运行资料默认位于 `/Users/nickzhang/YuncongVideoAnalysis`。默认路径可通过 `YUNCONG_DATA_ROOT` 修改。代码库不包含视频、音频、模型、虚拟环境、处理结果、测试脚本或临时脚本。
 
 ## 正式入口
@@ -16,8 +18,13 @@
 | `scripts/sync_asr_batch.py` | 将 Mac mini 的闭合结果按 SHA 同步到本机 |
 | `scripts/organize_video_collection.py` | 七文件归档、统一上传时间命名与核验 |
 | `scripts/prepare_asr_models.py` | 准备或核对两个正式 Qwen 模型 |
+| `scripts/video_clock.py` | 等距抽帧、桌面时钟 OCR、录制时间区间映射 |
+| `scripts/analyze_video_transcript.py` | 用 Qwen 或 MiniMax 整理有字幕依据的讲者观点 |
+| `scripts/build_video_analysis.py` | 组装双时间、截图与切片，再生成解析产物 |
+| `scripts/render_video_analysis.py` | 从既有分析生成离线 HTML 与纯文本摘要 |
+| `scripts/serve_video_analysis.py` | 本地预览解析页面，支持源视频跳转和拖动 |
 
-其余 Python 文件是以上入口实际调用的字幕、来源与路径模块，不是独立试验。使用方式见 [workflow](references/workflow.md)，环境与模型见 [runtime](references/runtime.md)。
+其余 Python 文件是以上入口实际调用的字幕、来源、媒体与路径模块，不是独立试验。使用方式见 [workflow](references/workflow.md)，环境与模型见 [runtime](references/runtime.md)。
 
 ## 安装技能
 

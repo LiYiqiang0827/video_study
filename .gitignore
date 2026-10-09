@@ -10,6 +10,8 @@
 !agents/*.yaml
 !references/
 !references/*.md
+!prompts/
+!prompts/*.md
 **/__pycache__/
 **/*.pyc
 **/.DS_Store
