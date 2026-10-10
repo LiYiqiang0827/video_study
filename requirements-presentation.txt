@@ -1,0 +1,2 @@
+# Optional native MP4 embedding adapter; the Codex bundled runtime includes it.
+lxml>=6.0,<7

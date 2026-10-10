@@ -31,6 +31,16 @@ PPT、页面和纯文本摘要只展示观点、操作思路、时间、原始�
 
 已有 `analysis.json` 和大纲时只做导出，不再次调用观点模型。需要新大纲时从已审阅分析提炼，不重新检索行情或添加交易建议；提示词定义的是内容计划，不能用截图替代原文证明实际持仓。
 
+## 可选内嵌视频
+
+详情页可将截图附近的原始讲解压缩并嵌入 PPT。原截图用作原生视频海报，文字和位置不变；在演示软件中点击画面播放声音和画线过程。只保存截图对应的同票、同段片段，不借相邻股票视频，也不为凑长度跨过话题。当前 11 页样例嵌入后仍为 11 页，不新增视频页。
+
+`prepare_ppt_video_clips.py` 默认围绕截图选择约 32 秒，优先靠近登记的字幕句界；短于目标时长的段落保留全段。最长边不超过 1280×720 且不放大原分辨率，15 fps、H.264 Main/yuv420p、CRF 24、AAC 64 kbps，保留声音和完整原图范围。参数可改，但更改输入或参数应换新输出目录。相同输入重跑会核对缓存哈希并重新解码，不重新调用模型或改原七文件。
+
+生成 `yuncong_ppt_media_v1` 媒体清单，绑定 `analysis_sha256`、`plan_sha256`、原视频与字幕哈希；`clips` 每项含 `entity_id`、`frame_path`、`segment_id`、相对 `path`、原视频 `start_seconds/end_seconds` 和文件 `sha256`，另有编码与解码记录。主导出器通过 `--media-manifest` 消费该清单。它先用 Artifact Tool 创建 PPT，再调用 `embed_ppt_videos.py` 追加内部 MP4、视频关系和点击播放时序；该适配器本身不提取视频、不转写、不总结。独立使用时接受 `--input`、`--spec`、`--output`、`--receipt`，匹配输入 PPT 哈希及各页海报哈希，不修改布局或覆盖源文件。
+
+MP4 直接存入 PPT 包内，移动 PPT 不需要旁边附带视频文件。先核对媒体关系没有外链、文件字节与清单一致、每段完整解码，再在原生演示软件实际点击播放，检查画面进展和声音。仅包内有 MP4 或导入后媒体数量正确，不表示已经成功播放。当前本机没有 PowerPoint，可用已装 Keynote/WPS 试播并记录实际软件、版本与范围；不能据此称所有 PowerPoint 版本已验证。阅读页不添加这些内部验收记录。
+
 ## 命令示例
 
 以下变量必须换成实际路径。工程不保存任何输入、输出、模型或凭据。
@@ -69,6 +79,17 @@ BUILD_DIR='/工程外工作目录/视频PPT构建'
 node "$TOOLS/scripts/export_video_analysis_pptx.mjs" \
   --analysis "$OUT/analysis.json" --plan "$OUT/ppt_plan.json" \
   --output "$OUT/观点摘要.pptx" --build-dir "$BUILD_DIR"
+
+# 可选：从同票同段原视频准备有声短片。输出位于解析目录内的新子目录。
+python3 "$TOOLS/scripts/prepare_ppt_video_clips.py" \
+  --analysis "$OUT/analysis.json" --plan "$OUT/ppt_plan.json" \
+  --output-dir "$OUT/ppt_media"
+
+# 用新成品与新构建目录保存内嵌版本，既有纯截图 PPT 保留。
+node "$TOOLS/scripts/export_video_analysis_pptx.mjs" \
+  --analysis "$OUT/analysis.json" --plan "$OUT/ppt_plan.json" \
+  --media-manifest "$OUT/ppt_media/media_manifest.json" \
+  --output "$OUT/观点摘要_内嵌视频.pptx" --build-dir "${BUILD_DIR}_media"
 ```
 
 `--timezone-confirmed` 只有在独立证据确认桌面时区时才使用。时钟未知时可以省略对齐文件，内部保留未知状态，不以视频上传时间回填；阅读页不展示时间不确定性附注。抽帧依赖 FFmpeg/FFprobe；自动 OCR 依赖 macOS Vision 和 Swift 编译器，编译结果位于数据 runtime。可用 `--no-ocr` 保留原图后做视觉核对。
@@ -87,6 +108,7 @@ node "$TOOLS/scripts/export_video_analysis_pptx.mjs" \
   解析/
     观点摘要.pptx           # 默认阅读交付，文字可编辑、截图嵌入
     ppt_plan.json          # 精简大纲、态度与同票截图选择
+    ppt_media/             # 可选：压缩短片、媒体清单与缓存核验记录
     index.html             # 本地浏览：目录、时间线、图像、切片
     summary.txt            # 纯文本摘要，每段双时间
     analysis.json          # 完整观点、出处、媒体关联与来源
@@ -100,6 +122,8 @@ node "$TOOLS/scripts/export_video_analysis_pptx.mjs" \
 HTML 不依赖 CDN，视频路径相对解析目录；VTT 同时内嵌以适应 `file://`。可以直接打开 `index.html`，也可用绑定 `127.0.0.1` 的本地预览服务。移动资料时保持视频父目录与解析子目录关系。
 
 检查原七文件未改、名字与引用无遗漏、连续片段没跨过其他话题、pass与条件例外均保留、历史收益/当前计划没有混淆；检查截图的讨论对象、视频可播放、字幕为切片局部时间。PPT 检查主动/网友归类依据、每票态度与一句话、同票截图、裁切未伤图表信息、离线嵌图与可编辑正文。没有独立大盘观点时写“本片未作独立判断”，不从屏幕行情补观点。
+
+内嵌 PPT 另检查冻结分析与大纲哈希、截图和视频段的一一关联、音视频同步、包内视频哈希、海报点击与实际试播；确认原七文件和已有分析未改。试播报告与构建检查保存在工程外，不写入股票观点或阅读页。
 
 同一输入与工具可重用已核验媒体；推理输入或工具变化时默认用新的直接子目录（例如 `解析_v2`），不要覆盖已冻结或用户修改的结果。用户已明确授权仅修订阅读展示或采用已确认术语时，先将旧 `analysis.json`、`index.html`、`summary.txt` 备份到工程外审查目录、记录备份与来源哈希，再更新同一个解析链接；保留内部证据、原七文件、原始units和模型原响应，不新增模型调用，可复用已校验媒体。首次样例验证不等于全库自动解析准确率验证。
 

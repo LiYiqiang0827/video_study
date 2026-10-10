@@ -8,14 +8,17 @@ import path from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import { createHash } from 'node:crypto';
 import { parseArgs } from 'node:util';
+import { execFile } from 'node:child_process';
+import { promisify } from 'node:util';
 
 const { values: args } = parseArgs({ options: {
   analysis: { type: 'string' }, plan: { type: 'string' }, output: { type: 'string' },
   'build-dir': { type: 'string' }, font: { type: 'string', default: 'PingFang SC' },
+  'media-manifest': { type: 'string' },
   help: { type: 'boolean', default: false },
 }});
 if (args.help) {
-  console.log('Usage: export_video_analysis_pptx.mjs --analysis analysis.json --plan ppt_plan.json --output result.pptx --build-dir EXTERNAL_DIR [--font "PingFang SC"]\nEnvironment: RUNTIME_NODE_MODULES, PRESENTATIONS_SKILL_DIR, RUNTIME_PYTHON');
+  console.log('Usage: export_video_analysis_pptx.mjs --analysis analysis.json --plan ppt_plan.json --output result.pptx --build-dir EXTERNAL_DIR [--font "PingFang SC"] [--media-manifest media_manifest.json]\nEnvironment: RUNTIME_NODE_MODULES, PRESENTATIONS_SKILL_DIR, RUNTIME_PYTHON');
   process.exit(0);
 }
 
@@ -46,6 +49,7 @@ async function main() {
   await fs.mkdir(build, { recursive: true }); await fs.mkdir(path.dirname(output), { recursive: true });
   const buildReal = await fs.realpath(build), parentReal = await fs.realpath(path.dirname(output));
   if (inside(buildReal, toolRoot) || inside(parentReal, toolRoot)) throw new Error('Output symlink points into tools checkout');
+  if (inside(buildReal, parentReal)) throw new Error('The private build directory must be outside the final output directory');
   const candidate = path.join(buildReal, 'candidate.pptx');
   try { await fs.lstat(candidate); throw new Error('Existing build preserved; use a new build directory'); } catch (error) { if (error.code !== 'ENOENT') throw error; }
   const analysisBytes = await fs.readFile(analysisPath), planBytes = await fs.readFile(planPath);
@@ -54,7 +58,13 @@ async function main() {
   requireText(plan.title, 'title', 45);
   for (const key of ['market', 'self_analysis', 'viewer_questions', 'focus']) requireText(plan.overview?.[key], `overview.${key}`, 65);
   const entities = new Map(analysis.entities.filter(e => e.kind === 'stock').map(e => [e.id, e]));
-  const seen = new Set(), frameInputs = [];
+  const seen = new Set(), frameInputs = [], videoInputs = [], embeddingItems = [];
+  let mediaBytes, mediaPath, media;
+  if (args['media-manifest']) {
+    mediaPath = await fs.realpath(args['media-manifest']);
+    mediaBytes = await fs.readFile(mediaPath); media = JSON.parse(mediaBytes);
+    if (media.schema_version !== 'yuncong_ppt_media_v1' || media.analysis_sha256 !== sha(analysisBytes) || media.plan_sha256 !== sha(planBytes) || media.source_video_sha256 !== analysis.metadata.source_video_sha256 || !Array.isArray(media.clips)) throw new Error('Media manifest must match the frozen source, analysis and plan');
+  }
   for (const stock of plan.stocks ?? []) {
     const entity = entities.get(stock.entity_id);
     if (!entity || seen.has(stock.entity_id)) throw new Error('Invalid or repeated stock entity');
@@ -81,6 +91,20 @@ async function main() {
       }
       detail.sourceFrame = selected; detail.imageBytes = bytes;
       frameInputs.push({ path: framePath, sha256: sha(bytes) });
+      if (media) {
+        const clips = media.clips.filter(c => c.entity_id === entity.id && c.frame_path === detail.frame_path);
+        if (clips.length !== 1) throw new Error('Each detail needs exactly one registered video');
+        const clip = clips[0], segment = entity.segments.find(s => s.id === selected.segment_id);
+        if (clip.validation?.state !== 'passed' || clip.validation?.complete_decode !== true || clip.frame_sha256 !== sha(bytes)) throw new Error('Video lacks verified decoding and poster provenance');
+        if (clip.segment_id !== segment.id || !Number.isFinite(clip.start_seconds) || !Number.isFinite(clip.end_seconds) || clip.end_seconds <= clip.start_seconds || selected.video_seconds < clip.start_seconds || selected.video_seconds > clip.end_seconds) throw new Error('Video range does not match the registered screenshot');
+        if (clip.start_seconds < segment.start_seconds - 0.05 || clip.end_seconds > segment.end_seconds + 0.05) throw new Error('Video range crosses its source segment');
+        const videoPath = await fs.realpath(path.resolve(path.dirname(analysisPath), clip.path));
+        if (!inside(videoPath, path.dirname(analysisPath)) || path.extname(videoPath).toLowerCase() !== '.mp4') throw new Error('Video must be a local MP4 in the analysis folder');
+        const clipBytes = await fs.readFile(videoPath);
+        if (sha(clipBytes) !== clip.sha256) throw new Error('Video hash differs from the verified manifest');
+        detail.video = { ...clip, path: videoPath, poster_sha256: sha(bytes) };
+        videoInputs.push({ path: videoPath, sha256: clip.sha256 });
+      }
     }
   }
   if (seen.size !== entities.size) throw new Error('PPT must cover every analyzed stock');
@@ -147,9 +171,13 @@ async function main() {
       y += 42 + height + 20;
     }
     if (y > 670) throw new Error(`Too much slide text: ${detail.title}; shorten before reducing fonts`);
-    text(slide, detail.caption, 56, 643, 815, 33, 22);
+    text(slide, detail.video ? `点击画面播放原讲解（${Math.round(detail.video.end_seconds - detail.video.start_seconds)}秒）` : detail.caption, 56, 643, 815, 33, 22);
     text(slide, `视频 ${clock(detail.sourceFrame.video_seconds)}    北京时间 ${cleanTime(detail.sourceFrame.beijing_time_text)}`, 56, 682, 1100, 23, 16, false, colours.muted);
     note(slide, detail);
+    if (detail.video) {
+      embeddingItems.push({ slide: presentation.slides.items.length, entity_id: stock.entity_id, ...detail.video });
+      slide.speakerNotes.text += `\n内嵌原讲解：视频 ${clock(detail.video.start_seconds)} 至 ${clock(detail.video.end_seconds)}`;
+    }
   }
   for (let i = 0; i < presentation.slides.items.length; i++) {
     const slide = presentation.slides.items[i], blob = await presentation.export({ slide, format: 'png', scale: 1 });
@@ -161,17 +189,26 @@ async function main() {
   await (await PresentationFile.exportPptx(presentation)).save(candidate);
   if (sha(await fs.readFile(analysisPath)) !== sha(analysisBytes) || sha(await fs.readFile(planPath)) !== sha(planBytes)) throw new Error('Input changed during export');
   for (const frame of frameInputs) if (sha(await fs.readFile(frame.path)) !== frame.sha256) throw new Error('Screenshot changed during export');
+  for (const video of videoInputs) if (sha(await fs.readFile(video.path)) !== video.sha256) throw new Error('Video changed during export');
+  if (mediaPath && sha(await fs.readFile(mediaPath)) !== sha(mediaBytes)) throw new Error('Media manifest changed during export');
+  let candidatePath = candidate;
+  if (embeddingItems.length) {
+    const specPath = path.join(buildReal, 'embedding_spec.json');
+    await fs.writeFile(specPath, JSON.stringify({ schema_version: 'yuncong_ppt_embedding_v1', input_pptx_sha256: sha(await fs.readFile(candidate)), videos: embeddingItems }, null, 2) + '\n');
+    candidatePath = path.join(buildReal, 'candidate_embedded.pptx');
+    await promisify(execFile)(process.env.RUNTIME_PYTHON, [path.join(toolRoot, 'scripts/embed_ppt_videos.py'), '--input', candidate, '--spec', specPath, '--output', candidatePath, '--receipt', path.join(buildReal, 'MEDIA_EMBEDDING.json')], { maxBuffer: 1048576 });
+  }
   let workspaceDir = parentReal;
   while (!inside(buildReal, workspaceDir)) workspaceDir = path.dirname(workspaceDir);
   if (workspaceDir === path.parse(workspaceDir).root) throw new Error('Build and output need a shared data workspace');
-  await finalizePresentation({ workspaceDir, candidatePath: candidate, finalPath: output, pythonExecutable: process.env.RUNTIME_PYTHON,
+  await finalizePresentation({ workspaceDir, candidatePath, finalPath: output, pythonExecutable: process.env.RUNTIME_PYTHON,
     integrityValidatorPath: path.join(skillDir, 'container_tools/inspect_presentation_package_integrity.py'),
     layoutValidatorPath: path.join(skillDir, 'container_tools/inspect_presentation_layout_geometry.py'),
     layoutArgs: ['--expected-slide-size-emu', '12192000,6858000', '--validate-heading-fit', ...outlineOwners.flatMap(n => ['--require-native-table-slide', String(n)])],
     requiredNativeTableOwnerSlides: outlineOwners, fontPolicy: { basis: 'design', families: [args.font] },
     verifyArtifactToolImport: true, receiptPath: path.join(buildReal, 'VALIDATION.json') });
   const result = { state: 'exported', output, slides: presentation.slides.items.length, stocks: plan.stocks.length,
-    sha256: sha(await fs.readFile(output)), inputs: { analysis_sha256: sha(analysisBytes), plan_sha256: sha(planBytes), frames: frameInputs }, model_calls: 0 };
+    sha256: sha(await fs.readFile(output)), embedded_videos: embeddingItems.length, inputs: { analysis_sha256: sha(analysisBytes), plan_sha256: sha(planBytes), frames: frameInputs, videos: videoInputs, ...(mediaPath ? { media_manifest_sha256: sha(mediaBytes) } : {}) }, model_calls: 0 };
   await fs.writeFile(path.join(buildReal, 'EXPORT_RESULT.json'), JSON.stringify(result, null, 2) + '\n');
   console.log(JSON.stringify(result));
 }
