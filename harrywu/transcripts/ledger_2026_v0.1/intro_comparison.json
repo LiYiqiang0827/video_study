@@ -1,0 +1,27 @@
+{
+  "stream_id": "XSFwu5KOo5Y",
+  "reason": "Baseline first recognized segment begins near 69.84s, initial audio contains non-silence",
+  "variant": "Same model/precision, VAD off, only 0-90s",
+  "earlier_candidates": [
+    {
+      "start": 0.0,
+      "end": 29.98,
+      "text": "中文字幕提供",
+      "avg_logprob": -0.6883,
+      "no_speech_prob": 0.4077,
+      "review": false,
+      "id": "s00001"
+    },
+    {
+      "start": 60.0,
+      "end": 70.32,
+      "text": "好",
+      "avg_logprob": -0.6172,
+      "no_speech_prob": 0.1853,
+      "review": false,
+      "id": "s00002"
+    }
+  ],
+  "status": "requires_audio_review_if_new_text",
+  "baseline_preserved": true
+}

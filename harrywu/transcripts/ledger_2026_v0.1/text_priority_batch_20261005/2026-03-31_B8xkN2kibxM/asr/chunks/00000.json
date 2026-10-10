@@ -1,0 +1,568 @@
+{
+  "begin": 0.0,
+  "finish": 300.0,
+  "segments": [
+    {
+      "start": 97.45,
+      "end": 107.25,
+      "text": "好,大家好,今天没有啥,我就是按照我的每天选股的方法,我们来一起看一下",
+      "avg_logprob": -0.1116,
+      "no_speech_prob": 0.5239,
+      "review": true
+    },
+    {
+      "start": 107.25,
+      "end": 116.5,
+      "text": "因为A股我觉得今天可能会有机会,为什么会有机会呢?",
+      "avg_logprob": -0.1116,
+      "no_speech_prob": 0.5239,
+      "review": true
+    },
+    {
+      "start": 116.54,
+      "end": 123.0,
+      "text": "大家看,美股现在盘后是暴涨,本来从跌到0.46一口气就涨上去了",
+      "avg_logprob": -0.1116,
+      "no_speech_prob": 0.5239,
+      "review": true
+    },
+    {
+      "start": 123.0,
+      "end": 131.18,
+      "text": "为什么美股暴涨呢?是因为特朗普这边,你看,他说了,你看,他已经说了,彻底怂了",
+      "avg_logprob": -0.1064,
+      "no_speech_prob": 0.2854,
+      "review": false
+    },
+    {
+      "start": 131.18,
+      "end": 140.12,
+      "text": "他说呢,即使霍尔木斯海峡关闭,我仍然愿意结束美国对伊朗的军事冲突",
+      "avg_logprob": -0.1064,
+      "no_speech_prob": 0.2854,
+      "review": false
+    },
+    {
+      "start": 140.12,
+      "end": 146.75,
+      "text": "此举可能会延长德克兰对盖世德的控制,但是先不管了,我先不打了",
+      "avg_logprob": -0.1064,
+      "no_speech_prob": 0.2854,
+      "review": false
+    },
+    {
+      "start": 146.75,
+      "end": 151.05,
+      "text": "就是也就是说他又开始画K线了啊",
+      "avg_logprob": -0.1178,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 151.05,
+      "end": 155.57,
+      "text": "前几天还说的我都还逼人家说我要把你全国给你炸掉",
+      "avg_logprob": -0.1178,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 155.57,
+      "end": 156.95,
+      "text": "什么都给你炸掉",
+      "avg_logprob": -0.1178,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 156.95,
+      "end": 158.27,
+      "text": "马上改口",
+      "avg_logprob": -0.1178,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 158.27,
+      "end": 160.89,
+      "text": "马上改口说我可能要走了",
+      "avg_logprob": -0.1178,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 160.89,
+      "end": 161.53,
+      "text": "是吧",
+      "avg_logprob": -0.1178,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 161.53,
+      "end": 162.19,
+      "text": "我也结束了",
+      "avg_logprob": -0.1178,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 162.19,
+      "end": 163.29,
+      "text": "我的任务已经达到了",
+      "avg_logprob": -0.1178,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 163.29,
+      "end": 164.77,
+      "text": "反正你他最近不是说吗",
+      "avg_logprob": -0.1178,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 164.77,
+      "end": 166.21,
+      "text": "你政权已经更替了",
+      "avg_logprob": -0.1178,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 166.21,
+      "end": 167.13,
+      "text": "所以我任务达到了",
+      "avg_logprob": -0.1178,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 167.13,
+      "end": 167.75,
+      "text": "我不管了",
+      "avg_logprob": -0.1178,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 167.75,
+      "end": 169.33,
+      "text": "他可能会撤军呢",
+      "avg_logprob": -0.1178,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 169.33,
+      "end": 169.71,
+      "text": "搞不好",
+      "avg_logprob": -0.1178,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 169.71,
+      "end": 172.31,
+      "text": "他就是一个极限施压",
+      "avg_logprob": -0.1178,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 172.31,
+      "end": 174.07,
+      "text": "把士兵全打过去",
+      "avg_logprob": -0.1178,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 174.07,
+      "end": 174.93,
+      "text": "但是呢",
+      "avg_logprob": -0.1178,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 174.93,
+      "end": 176.37,
+      "text": "最后可能最后一刻怂了",
+      "avg_logprob": -0.1178,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 176.37,
+      "end": 183.21,
+      "text": "不打了,走了,这个烂摊子你们自己处理了,反正我美国又不需要那么多缘由,就是当然他这么说的",
+      "avg_logprob": -0.0997,
+      "no_speech_prob": 0.9775,
+      "review": true
+    },
+    {
+      "start": 183.21,
+      "end": 188.8,
+      "text": "但是他只要是这个表态,就证明一个问题,就是他真想走了",
+      "avg_logprob": -0.0997,
+      "no_speech_prob": 0.9775,
+      "review": true
+    },
+    {
+      "start": 188.8,
+      "end": 195.82,
+      "text": "那么伊朗如果愿意接他的话,这个仗就不打了,后面可能就不打了",
+      "avg_logprob": -0.0997,
+      "no_speech_prob": 0.9775,
+      "review": true
+    },
+    {
+      "start": 195.82,
+      "end": 202.76,
+      "text": "然后呢,最后伊朗反倒把这个海,把这个,因为伊朗以前赚钱嘛,他把这个霍尔姆斯海峡控制起来",
+      "avg_logprob": -0.0997,
+      "no_speech_prob": 0.9775,
+      "review": true
+    },
+    {
+      "start": 202.76,
+      "end": 210.1,
+      "text": "大家一两赚他的钱,美国也不管了,烂摊子,反正你们交钱,反正最后倒霉的是日本韩国,又不是美国倒霉",
+      "avg_logprob": -0.081,
+      "no_speech_prob": 0.0589,
+      "review": false
+    },
+    {
+      "start": 210.1,
+      "end": 223.3,
+      "text": "所以我估计啊,我估计到最后他一想,反正死道有不死平道,反正你们倒霉又不是我倒霉",
+      "avg_logprob": -0.081,
+      "no_speech_prob": 0.0589,
+      "review": false
+    },
+    {
+      "start": 223.3,
+      "end": 226.64,
+      "text": "所以说这个就不管了,我搞不好啊,他可能会这么做",
+      "avg_logprob": -0.081,
+      "no_speech_prob": 0.0589,
+      "review": false
+    },
+    {
+      "start": 226.64,
+      "end": 230.06,
+      "text": "所以他如果真的是这样子愿意结束战争",
+      "avg_logprob": -0.1195,
+      "no_speech_prob": 0.9956,
+      "review": true
+    },
+    {
+      "start": 230.06,
+      "end": 232.82,
+      "text": "那么美股A股肯定会反弹",
+      "avg_logprob": -0.1195,
+      "no_speech_prob": 0.9956,
+      "review": true
+    },
+    {
+      "start": 232.82,
+      "end": 234.2,
+      "text": "所以这为什么说",
+      "avg_logprob": -0.1195,
+      "no_speech_prob": 0.9956,
+      "review": true
+    },
+    {
+      "start": 234.2,
+      "end": 236.76,
+      "text": "本来我还期待说今天啊",
+      "avg_logprob": -0.1195,
+      "no_speech_prob": 0.9956,
+      "review": true
+    },
+    {
+      "start": 236.76,
+      "end": 239.4,
+      "text": "明天一开盘到550左右去DC",
+      "avg_logprob": -0.1195,
+      "no_speech_prob": 0.9956,
+      "review": true
+    },
+    {
+      "start": 239.4,
+      "end": 241.38,
+      "text": "没想到已经没有机会了",
+      "avg_logprob": -0.1195,
+      "no_speech_prob": 0.9956,
+      "review": true
+    },
+    {
+      "start": 241.38,
+      "end": 242.92,
+      "text": "美国这边没有机会了",
+      "avg_logprob": -0.1195,
+      "no_speech_prob": 0.9956,
+      "review": true
+    },
+    {
+      "start": 242.92,
+      "end": 245.38,
+      "text": "但是正好A股可以打个信息差",
+      "avg_logprob": -0.1195,
+      "no_speech_prob": 0.9956,
+      "review": true
+    },
+    {
+      "start": 245.38,
+      "end": 248.34,
+      "text": "也就是说A股其实很多人不知道美股排后在这",
+      "avg_logprob": -0.1195,
+      "no_speech_prob": 0.9956,
+      "review": true
+    },
+    {
+      "start": 248.34,
+      "end": 251.5,
+      "text": "很多做美股的A股的人",
+      "avg_logprob": -0.1195,
+      "no_speech_prob": 0.9956,
+      "review": true
+    },
+    {
+      "start": 251.5,
+      "end": 253.32,
+      "text": "他只关心第二天",
+      "avg_logprob": -0.1195,
+      "no_speech_prob": 0.9956,
+      "review": true
+    },
+    {
+      "start": 253.32,
+      "end": 254.46,
+      "text": "他不关心",
+      "avg_logprob": -0.1195,
+      "no_speech_prob": 0.9956,
+      "review": true
+    },
+    {
+      "start": 254.46,
+      "end": 255.66,
+      "text": "他不知道美股排后",
+      "avg_logprob": -0.1415,
+      "no_speech_prob": 0.3218,
+      "review": false
+    },
+    {
+      "start": 255.66,
+      "end": 256.82,
+      "text": "对他影响这么大",
+      "avg_logprob": -0.1415,
+      "no_speech_prob": 0.3218,
+      "review": false
+    },
+    {
+      "start": 256.82,
+      "end": 258.84,
+      "text": "所以正好可以利用这个信息差",
+      "avg_logprob": -0.1415,
+      "no_speech_prob": 0.3218,
+      "review": false
+    },
+    {
+      "start": 258.84,
+      "end": 260.72,
+      "text": "我们来找一找A股",
+      "avg_logprob": -0.1415,
+      "no_speech_prob": 0.3218,
+      "review": false
+    },
+    {
+      "start": 260.72,
+      "end": 262.36,
+      "text": "我们找一找看看A股这个情况",
+      "avg_logprob": -0.1415,
+      "no_speech_prob": 0.3218,
+      "review": false
+    },
+    {
+      "start": 262.36,
+      "end": 263.88,
+      "text": "那么A股呢",
+      "avg_logprob": -0.1415,
+      "no_speech_prob": 0.3218,
+      "review": false
+    },
+    {
+      "start": 263.88,
+      "end": 264.54,
+      "text": "今天上阵",
+      "avg_logprob": -0.1415,
+      "no_speech_prob": 0.3218,
+      "review": false
+    },
+    {
+      "start": 264.54,
+      "end": 265.74,
+      "text": "整体来说呢",
+      "avg_logprob": -0.1415,
+      "no_speech_prob": 0.3218,
+      "review": false
+    },
+    {
+      "start": 265.74,
+      "end": 266.02,
+      "text": "今天",
+      "avg_logprob": -0.1415,
+      "no_speech_prob": 0.3218,
+      "review": false
+    },
+    {
+      "start": 266.02,
+      "end": 268.5,
+      "text": "今天我看看啊",
+      "avg_logprob": -0.1415,
+      "no_speech_prob": 0.3218,
+      "review": false
+    },
+    {
+      "start": 268.5,
+      "end": 271.32,
+      "text": "今天在高开低走吧",
+      "avg_logprob": -0.1415,
+      "no_speech_prob": 0.3218,
+      "review": false
+    },
+    {
+      "start": 271.32,
+      "end": 272.62,
+      "text": "也没有高开低走",
+      "avg_logprob": -0.1415,
+      "no_speech_prob": 0.3218,
+      "review": false
+    },
+    {
+      "start": 272.62,
+      "end": 274.18,
+      "text": "就是平开平走吧",
+      "avg_logprob": -0.1415,
+      "no_speech_prob": 0.3218,
+      "review": false
+    },
+    {
+      "start": 274.18,
+      "end": 275.32,
+      "text": "平开平走",
+      "avg_logprob": -0.1415,
+      "no_speech_prob": 0.3218,
+      "review": false
+    },
+    {
+      "start": 275.32,
+      "end": 276.8,
+      "text": "平开平走呢",
+      "avg_logprob": -0.1415,
+      "no_speech_prob": 0.3218,
+      "review": false
+    },
+    {
+      "start": 276.8,
+      "end": 277.44,
+      "text": "这个位置",
+      "avg_logprob": -0.1415,
+      "no_speech_prob": 0.3218,
+      "review": false
+    },
+    {
+      "start": 277.44,
+      "end": 278.44,
+      "text": "基本上",
+      "avg_logprob": -0.1415,
+      "no_speech_prob": 0.3218,
+      "review": false
+    },
+    {
+      "start": 278.44,
+      "end": 280.0,
+      "text": "如果你看的话",
+      "avg_logprob": -0.1415,
+      "no_speech_prob": 0.3218,
+      "review": false
+    },
+    {
+      "start": 280.0,
+      "end": 281.58,
+      "text": "他连续两天",
+      "avg_logprob": -0.1415,
+      "no_speech_prob": 0.3218,
+      "review": false
+    },
+    {
+      "start": 281.58,
+      "end": 282.6,
+      "text": "美股这么跌",
+      "avg_logprob": -0.1415,
+      "no_speech_prob": 0.3218,
+      "review": false
+    },
+    {
+      "start": 282.6,
+      "end": 284.04,
+      "text": "A股都看了跌",
+      "avg_logprob": -0.1415,
+      "no_speech_prob": 0.3218,
+      "review": false
+    },
+    {
+      "start": 284.04,
+      "end": 287.1,
+      "text": "所以大概率我认为今天应该是一个反弹",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.2057,
+      "review": false
+    },
+    {
+      "start": 287.1,
+      "end": 290.1,
+      "text": "那么如果是一个反弹我怎么选股呢",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.2057,
+      "review": false
+    },
+    {
+      "start": 290.1,
+      "end": 291.32,
+      "text": "今天因为我直播就很快",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.2057,
+      "review": false
+    },
+    {
+      "start": 291.32,
+      "end": 292.76,
+      "text": "最多就是半个小时",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.2057,
+      "review": false
+    },
+    {
+      "start": 292.76,
+      "end": 295.4,
+      "text": "我就是和大家一块我们来一块看一看",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.2057,
+      "review": false
+    },
+    {
+      "start": 295.4,
+      "end": 300.76,
+      "text": "我自己前几天选了一些低位",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.2057,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 19.11
+}

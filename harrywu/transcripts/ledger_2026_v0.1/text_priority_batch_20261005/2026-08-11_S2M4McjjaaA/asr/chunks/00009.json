@@ -1,0 +1,296 @@
+{
+  "begin": 2700.0,
+  "finish": 3000.0,
+  "segments": [
+    {
+      "start": 2701.69,
+      "end": 2763.9,
+      "text": "嗯?哦,我是不是设了一个,诶,等一下,我看到这怎么回事,怎么不能动啊,哦,知道了,知道了,好,没问题,同花顺捡点餐啊,其他的没有啥,今天反正尽量少出手吧,今天,你看嘛,这个大概率,而且今天整个市场都不好,反正尽量少买啊,我们尽量少买,除非好的不能再好的,除非好的不能再好的,一般的情况下咱们也尽量少买,好不好?",
+      "avg_logprob": -0.0989,
+      "no_speech_prob": 0.7559,
+      "review": true
+    },
+    {
+      "start": 2764.44,
+      "end": 2765.3,
+      "text": "鸡蛋烧卖",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.0571,
+      "review": false
+    },
+    {
+      "start": 2765.3,
+      "end": 2767.88,
+      "text": "中央行业现在我又不加仓",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.0571,
+      "review": false
+    },
+    {
+      "start": 2767.88,
+      "end": 2769.9,
+      "text": "它明天跌到这儿我加点仓",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.0571,
+      "review": false
+    },
+    {
+      "start": 2769.9,
+      "end": 2771.52,
+      "text": "跌到这儿我加点仓",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.0571,
+      "review": false
+    },
+    {
+      "start": 2771.52,
+      "end": 2774.18,
+      "text": "我们买的时候也还行吧",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.0571,
+      "review": false
+    },
+    {
+      "start": 2774.18,
+      "end": 2775.66,
+      "text": "我们买的时候是这天买的吗",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.0571,
+      "review": false
+    },
+    {
+      "start": 2775.66,
+      "end": 2776.66,
+      "text": "哪天买的",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.0571,
+      "review": false
+    },
+    {
+      "start": 2776.66,
+      "end": 2777.98,
+      "text": "还是这天买的",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.0571,
+      "review": false
+    },
+    {
+      "start": 2777.98,
+      "end": 2779.48,
+      "text": "反正买的时候是这几天嘛",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.0571,
+      "review": false
+    },
+    {
+      "start": 2779.48,
+      "end": 2780.22,
+      "text": "也没亏钱",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.0571,
+      "review": false
+    },
+    {
+      "start": 2780.22,
+      "end": 2781.52,
+      "text": "还是这一天",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.0571,
+      "review": false
+    },
+    {
+      "start": 2781.52,
+      "end": 2782.98,
+      "text": "还是亏了",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.0571,
+      "review": false
+    },
+    {
+      "start": 2782.98,
+      "end": 2783.68,
+      "text": "这一天买的",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.0571,
+      "review": false
+    },
+    {
+      "start": 2783.68,
+      "end": 2785.4,
+      "text": "反正我记得也没有怎么亏",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.0571,
+      "review": false
+    },
+    {
+      "start": 2785.4,
+      "end": 2787.12,
+      "text": "好",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.0571,
+      "review": false
+    },
+    {
+      "start": 2787.12,
+      "end": 2788.94,
+      "text": "还是昨天买的",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.0571,
+      "review": false
+    },
+    {
+      "start": 2788.94,
+      "end": 2790.14,
+      "text": "我现在都忘了哪天买的了",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.0571,
+      "review": false
+    },
+    {
+      "start": 2790.14,
+      "end": 2791.34,
+      "text": "我买的票比较多",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.0571,
+      "review": false
+    },
+    {
+      "start": 2795.72,
+      "end": 2797.0,
+      "text": "今天我就说你看吧",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.0571,
+      "review": false
+    },
+    {
+      "start": 2797.0,
+      "end": 2798.74,
+      "text": "我开始就说没意思,今天就是没意思",
+      "avg_logprob": -0.1317,
+      "no_speech_prob": 0.4026,
+      "review": false
+    },
+    {
+      "start": 2798.74,
+      "end": 2804.22,
+      "text": "最后再回答一些问题,我们再刷一刷资金吧",
+      "avg_logprob": -0.1317,
+      "no_speech_prob": 0.4026,
+      "review": false
+    },
+    {
+      "start": 2804.22,
+      "end": 2808.48,
+      "text": "刷刷资金,刷一下量笔就结束了",
+      "avg_logprob": -0.1317,
+      "no_speech_prob": 0.4026,
+      "review": false
+    },
+    {
+      "start": 2808.48,
+      "end": 2812.06,
+      "text": "这没有啥意思,这也没有啥票可买的",
+      "avg_logprob": -0.1317,
+      "no_speech_prob": 0.4026,
+      "review": false
+    },
+    {
+      "start": 2812.06,
+      "end": 2821.42,
+      "text": "互联白银我有,但是仓位低,这个比较好,但是仓位轻",
+      "avg_logprob": -0.1317,
+      "no_speech_prob": 0.4026,
+      "review": false
+    },
+    {
+      "start": 2821.42,
+      "end": 2823.58,
+      "text": "我就没办法放进去了,轻仓票",
+      "avg_logprob": -0.1317,
+      "no_speech_prob": 0.4026,
+      "review": false
+    },
+    {
+      "start": 2823.58,
+      "end": 2827.4,
+      "text": "哇,凤凰高科,你看我以前买的几只凤凰高科还是好",
+      "avg_logprob": -0.1317,
+      "no_speech_prob": 0.4026,
+      "review": false
+    },
+    {
+      "start": 2827.4,
+      "end": 2857.38,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0575,
+      "no_speech_prob": 0.0396,
+      "review": false
+    },
+    {
+      "start": 2857.4,
+      "end": 2889.28,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1113,
+      "no_speech_prob": 0.1554,
+      "review": false
+    },
+    {
+      "start": 2889.3,
+      "end": 2896.22,
+      "text": "电力起来了吗?它倒是不错诶,它不错的,它不错的",
+      "avg_logprob": -0.1361,
+      "no_speech_prob": 0.0008,
+      "review": false
+    },
+    {
+      "start": 2896.22,
+      "end": 2902.74,
+      "text": "但是我都要看电力有没有起来啊,不能光这一支票,要整个电力板块",
+      "avg_logprob": -0.1361,
+      "no_speech_prob": 0.0008,
+      "review": false
+    },
+    {
+      "start": 2902.74,
+      "end": 2906.98,
+      "text": "我现在是不会单买一支的,整个电力板块起来了我才会去买",
+      "avg_logprob": -0.1361,
+      "no_speech_prob": 0.0008,
+      "review": false
+    },
+    {
+      "start": 2906.98,
+      "end": 2912.22,
+      "text": "就是资金在做整个电力板块我才会去做它,单就一支我觉得不行",
+      "avg_logprob": -0.1361,
+      "no_speech_prob": 0.0008,
+      "review": false
+    },
+    {
+      "start": 2912.22,
+      "end": 2928.66,
+      "text": "红博算了,红博这种纯底部启动的我不符,不是不符合我的标准",
+      "avg_logprob": -0.1361,
+      "no_speech_prob": 0.0008,
+      "review": false
+    },
+    {
+      "start": 2928.66,
+      "end": 2970.38,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0973,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 2970.4,
+      "end": 3008.29,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0979,
+      "no_speech_prob": 0.0,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 19.05
+}

@@ -1,0 +1,17 @@
+{
+  "status": "asr_complete",
+  "started_utc": "2026-10-04T08:44:10.060317+00:00",
+  "pid": 137464,
+  "model": {
+    "id": "Systran/faster-whisper-large-v3",
+    "revision": "edaa852ec7e145841d8ffdb056a99866b5f0a478",
+    "cache": "C:\\Users\\HarryWu_IOKI\\.cache\\huggingface\\hub\\models--Systran--faster-whisper-large-v3\\snapshots\\edaa852ec7e145841d8ffdb056a99866b5f0a478",
+    "hotwords_sha256": "bb7209225833d3c42da25ea3207ea1644b1cd3fe53578bee44fc34c07b7c4bd4"
+  },
+  "processed_media_seconds": 6025.903311,
+  "completed_calls": 21,
+  "model_load_seconds": 9.704,
+  "updated_utc": "2026-10-04T09:00:07.463796+00:00",
+  "last_call_seconds": 5.141,
+  "last_call_segments": 16
+}

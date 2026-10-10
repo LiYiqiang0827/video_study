@@ -1,0 +1,1344 @@
+{
+  "begin": 7200.0,
+  "finish": 7500.0,
+  "segments": [
+    {
+      "start": 7200.35,
+      "end": 7202.59,
+      "text": "我后面今天不回了",
+      "avg_logprob": -0.1503,
+      "no_speech_prob": 0.8984,
+      "review": true
+    },
+    {
+      "start": 7202.59,
+      "end": 7203.99,
+      "text": "我开始准备七八月份回",
+      "avg_logprob": -0.1503,
+      "no_speech_prob": 0.8984,
+      "review": true
+    },
+    {
+      "start": 7203.99,
+      "end": 7205.15,
+      "text": "后面有些点也不回了",
+      "avg_logprob": -0.1503,
+      "no_speech_prob": 0.8984,
+      "review": true
+    },
+    {
+      "start": 7205.15,
+      "end": 7206.83,
+      "text": "我后面一直要待到年底",
+      "avg_logprob": -0.1503,
+      "no_speech_prob": 0.8984,
+      "review": true
+    },
+    {
+      "start": 7206.83,
+      "end": 7209.32,
+      "text": "在巴西",
+      "avg_logprob": -0.1503,
+      "no_speech_prob": 0.8984,
+      "review": true
+    },
+    {
+      "start": 7209.32,
+      "end": 7210.28,
+      "text": "海南香蕉",
+      "avg_logprob": -0.1503,
+      "no_speech_prob": 0.8984,
+      "review": true
+    },
+    {
+      "start": 7210.28,
+      "end": 7211.02,
+      "text": "看一眼",
+      "avg_logprob": -0.1503,
+      "no_speech_prob": 0.8984,
+      "review": true
+    },
+    {
+      "start": 7211.02,
+      "end": 7212.42,
+      "text": "因为你是会员的话",
+      "avg_logprob": -0.1503,
+      "no_speech_prob": 0.8984,
+      "review": true
+    },
+    {
+      "start": 7212.42,
+      "end": 7213.36,
+      "text": "看一眼",
+      "avg_logprob": -0.1503,
+      "no_speech_prob": 0.8984,
+      "review": true
+    },
+    {
+      "start": 7213.36,
+      "end": 7224.02,
+      "text": "海南香蕉这些怎么说呢",
+      "avg_logprob": -0.1503,
+      "no_speech_prob": 0.8984,
+      "review": true
+    },
+    {
+      "start": 7224.02,
+      "end": 7227.09,
+      "text": "反正这些点都不太好买",
+      "avg_logprob": -0.1503,
+      "no_speech_prob": 0.8984,
+      "review": true
+    },
+    {
+      "start": 7227.09,
+      "end": 7229.23,
+      "text": "他第一次还好",
+      "avg_logprob": -0.1503,
+      "no_speech_prob": 0.8984,
+      "review": true
+    },
+    {
+      "start": 7229.23,
+      "end": 7230.69,
+      "text": "第一次这种点还好",
+      "avg_logprob": -0.1503,
+      "no_speech_prob": 0.8984,
+      "review": true
+    },
+    {
+      "start": 7230.69,
+      "end": 7233.53,
+      "text": "这第二次第三次的同一个道理",
+      "avg_logprob": -0.1503,
+      "no_speech_prob": 0.8984,
+      "review": true
+    },
+    {
+      "start": 7233.53,
+      "end": 7234.59,
+      "text": "就是你们尽量买这种",
+      "avg_logprob": -0.1503,
+      "no_speech_prob": 0.8984,
+      "review": true
+    },
+    {
+      "start": 7234.59,
+      "end": 7235.81,
+      "text": "就是我说的尽量买这种",
+      "avg_logprob": -0.1503,
+      "no_speech_prob": 0.8984,
+      "review": true
+    },
+    {
+      "start": 7235.81,
+      "end": 7236.61,
+      "text": "为什么呢",
+      "avg_logprob": -0.1503,
+      "no_speech_prob": 0.8984,
+      "review": true
+    },
+    {
+      "start": 7236.61,
+      "end": 7237.23,
+      "text": "还是一句话",
+      "avg_logprob": -0.1503,
+      "no_speech_prob": 0.8984,
+      "review": true
+    },
+    {
+      "start": 7237.23,
+      "end": 7238.43,
+      "text": "前面没有套楼盘",
+      "avg_logprob": -0.1503,
+      "no_speech_prob": 0.8984,
+      "review": true
+    },
+    {
+      "start": 7238.43,
+      "end": 7241.63,
+      "text": "他把长期盘整突破是最好的",
+      "avg_logprob": -0.137,
+      "no_speech_prob": 0.9385,
+      "review": true
+    },
+    {
+      "start": 7241.63,
+      "end": 7244.97,
+      "text": "就是后面这一波就压力很大了",
+      "avg_logprob": -0.137,
+      "no_speech_prob": 0.9385,
+      "review": true
+    },
+    {
+      "start": 7244.97,
+      "end": 7245.41,
+      "text": "你看吧",
+      "avg_logprob": -0.137,
+      "no_speech_prob": 0.9385,
+      "review": true
+    },
+    {
+      "start": 7245.41,
+      "end": 7246.59,
+      "text": "这一波又全是套牢盘",
+      "avg_logprob": -0.137,
+      "no_speech_prob": 0.9385,
+      "review": true
+    },
+    {
+      "start": 7246.59,
+      "end": 7248.83,
+      "text": "很多很多很多很多人被套在这",
+      "avg_logprob": -0.137,
+      "no_speech_prob": 0.9385,
+      "review": true
+    },
+    {
+      "start": 7248.83,
+      "end": 7251.41,
+      "text": "那么你往上只要一冲",
+      "avg_logprob": -0.137,
+      "no_speech_prob": 0.9385,
+      "review": true
+    },
+    {
+      "start": 7251.41,
+      "end": 7252.37,
+      "text": "马上这些套牢盘",
+      "avg_logprob": -0.137,
+      "no_speech_prob": 0.9385,
+      "review": true
+    },
+    {
+      "start": 7252.37,
+      "end": 7253.05,
+      "text": "他可能会出来",
+      "avg_logprob": -0.137,
+      "no_speech_prob": 0.9385,
+      "review": true
+    },
+    {
+      "start": 7253.05,
+      "end": 7253.57,
+      "text": "为什么",
+      "avg_logprob": -0.137,
+      "no_speech_prob": 0.9385,
+      "review": true
+    },
+    {
+      "start": 7253.57,
+      "end": 7254.41,
+      "text": "他没赚到钱吗",
+      "avg_logprob": -0.137,
+      "no_speech_prob": 0.9385,
+      "review": true
+    },
+    {
+      "start": 7254.41,
+      "end": 7255.33,
+      "text": "他被套住了",
+      "avg_logprob": -0.137,
+      "no_speech_prob": 0.9385,
+      "review": true
+    },
+    {
+      "start": 7255.33,
+      "end": 7256.35,
+      "text": "套了几个月了",
+      "avg_logprob": -0.137,
+      "no_speech_prob": 0.9385,
+      "review": true
+    },
+    {
+      "start": 7256.35,
+      "end": 7257.21,
+      "text": "他受不了了",
+      "avg_logprob": -0.137,
+      "no_speech_prob": 0.9385,
+      "review": true
+    },
+    {
+      "start": 7257.21,
+      "end": 7258.23,
+      "text": "你往上涨他就跑",
+      "avg_logprob": -0.137,
+      "no_speech_prob": 0.9385,
+      "review": true
+    },
+    {
+      "start": 7258.23,
+      "end": 7260.77,
+      "text": "而且现在还是亏损的",
+      "avg_logprob": -0.137,
+      "no_speech_prob": 0.9385,
+      "review": true
+    },
+    {
+      "start": 7260.77,
+      "end": 7261.51,
+      "text": "是吧",
+      "avg_logprob": -0.137,
+      "no_speech_prob": 0.9385,
+      "review": true
+    },
+    {
+      "start": 7261.51,
+      "end": 7263.95,
+      "text": "所以这个东西不好说",
+      "avg_logprob": -0.137,
+      "no_speech_prob": 0.9385,
+      "review": true
+    },
+    {
+      "start": 7263.95,
+      "end": 7264.55,
+      "text": "好不好",
+      "avg_logprob": -0.137,
+      "no_speech_prob": 0.9385,
+      "review": true
+    },
+    {
+      "start": 7264.55,
+      "end": 7266.75,
+      "text": "我只能说现在买这个位置吧",
+      "avg_logprob": -0.137,
+      "no_speech_prob": 0.9385,
+      "review": true
+    },
+    {
+      "start": 7266.75,
+      "end": 7268.13,
+      "text": "你说错吗",
+      "avg_logprob": -0.137,
+      "no_speech_prob": 0.9385,
+      "review": true
+    },
+    {
+      "start": 7268.13,
+      "end": 7268.51,
+      "text": "也没错",
+      "avg_logprob": -0.2051,
+      "no_speech_prob": 0.834,
+      "review": true
+    },
+    {
+      "start": 7268.51,
+      "end": 7269.03,
+      "text": "为什么呀",
+      "avg_logprob": -0.2051,
+      "no_speech_prob": 0.834,
+      "review": true
+    },
+    {
+      "start": 7269.03,
+      "end": 7270.37,
+      "text": "它是一个小形态突破",
+      "avg_logprob": -0.2051,
+      "no_speech_prob": 0.834,
+      "review": true
+    },
+    {
+      "start": 7270.37,
+      "end": 7270.79,
+      "text": "是吧",
+      "avg_logprob": -0.2051,
+      "no_speech_prob": 0.834,
+      "review": true
+    },
+    {
+      "start": 7270.79,
+      "end": 7272.91,
+      "text": "小的一个底部形态突破",
+      "avg_logprob": -0.2051,
+      "no_speech_prob": 0.834,
+      "review": true
+    },
+    {
+      "start": 7272.91,
+      "end": 7273.71,
+      "text": "但是呢",
+      "avg_logprob": -0.2051,
+      "no_speech_prob": 0.834,
+      "review": true
+    },
+    {
+      "start": 7273.71,
+      "end": 7274.49,
+      "text": "如果我买的话",
+      "avg_logprob": -0.2051,
+      "no_speech_prob": 0.834,
+      "review": true
+    },
+    {
+      "start": 7274.49,
+      "end": 7275.25,
+      "text": "我可以这样子",
+      "avg_logprob": -0.2051,
+      "no_speech_prob": 0.834,
+      "review": true
+    },
+    {
+      "start": 7275.25,
+      "end": 7276.19,
+      "text": "我买了",
+      "avg_logprob": -0.2051,
+      "no_speech_prob": 0.834,
+      "review": true
+    },
+    {
+      "start": 7276.19,
+      "end": 7277.39,
+      "text": "它只要跌破这个线",
+      "avg_logprob": -0.2051,
+      "no_speech_prob": 0.834,
+      "review": true
+    },
+    {
+      "start": 7277.39,
+      "end": 7278.07,
+      "text": "我一定会走",
+      "avg_logprob": -0.2051,
+      "no_speech_prob": 0.834,
+      "review": true
+    },
+    {
+      "start": 7278.07,
+      "end": 7278.57,
+      "text": "一定会走",
+      "avg_logprob": -0.2051,
+      "no_speech_prob": 0.834,
+      "review": true
+    },
+    {
+      "start": 7278.57,
+      "end": 7278.99,
+      "text": "一定会走",
+      "avg_logprob": -0.2051,
+      "no_speech_prob": 0.834,
+      "review": true
+    },
+    {
+      "start": 7278.99,
+      "end": 7280.23,
+      "text": "绝对不会具有任何的疑问",
+      "avg_logprob": -0.2051,
+      "no_speech_prob": 0.834,
+      "review": true
+    },
+    {
+      "start": 7280.23,
+      "end": 7281.03,
+      "text": "好不好",
+      "avg_logprob": -0.2051,
+      "no_speech_prob": 0.834,
+      "review": true
+    },
+    {
+      "start": 7281.03,
+      "end": 7282.95,
+      "text": "我自己是这样子的啊",
+      "avg_logprob": -0.2051,
+      "no_speech_prob": 0.834,
+      "review": true
+    },
+    {
+      "start": 7282.95,
+      "end": 7285.28,
+      "text": "量也不行",
+      "avg_logprob": -0.2051,
+      "no_speech_prob": 0.834,
+      "review": true
+    },
+    {
+      "start": 7285.28,
+      "end": 7286.56,
+      "text": "你看量也不行",
+      "avg_logprob": -0.2051,
+      "no_speech_prob": 0.834,
+      "review": true
+    },
+    {
+      "start": 7286.56,
+      "end": 7309.04,
+      "text": "我主要是",
+      "avg_logprob": -0.2051,
+      "no_speech_prob": 0.834,
+      "review": true
+    },
+    {
+      "start": 7309.04,
+      "end": 7310.32,
+      "text": "我来说一下",
+      "avg_logprob": -0.2051,
+      "no_speech_prob": 0.834,
+      "review": true
+    },
+    {
+      "start": 7310.32,
+      "end": 7323.44,
+      "text": "好",
+      "avg_logprob": -0.2051,
+      "no_speech_prob": 0.834,
+      "review": true
+    },
+    {
+      "start": 7323.44,
+      "end": 7324.2,
+      "text": "你看啊",
+      "avg_logprob": -0.2051,
+      "no_speech_prob": 0.834,
+      "review": true
+    },
+    {
+      "start": 7324.2,
+      "end": 7325.64,
+      "text": "我的计划是什么呢",
+      "avg_logprob": -0.2051,
+      "no_speech_prob": 0.834,
+      "review": true
+    },
+    {
+      "start": 7325.64,
+      "end": 7327.52,
+      "text": "我的计划是",
+      "avg_logprob": -0.2051,
+      "no_speech_prob": 0.834,
+      "review": true
+    },
+    {
+      "start": 7327.52,
+      "end": 7328.36,
+      "text": "从",
+      "avg_logprob": -0.2051,
+      "no_speech_prob": 0.834,
+      "review": true
+    },
+    {
+      "start": 7328.36,
+      "end": 7329.84,
+      "text": "马西南部",
+      "avg_logprob": -0.2051,
+      "no_speech_prob": 0.834,
+      "review": true
+    },
+    {
+      "start": 7329.84,
+      "end": 7330.86,
+      "text": "啊",
+      "avg_logprob": -0.2051,
+      "no_speech_prob": 0.834,
+      "review": true
+    },
+    {
+      "start": 7330.86,
+      "end": 7334.36,
+      "text": "他这个图是巴西地图啊",
+      "avg_logprob": -0.1659,
+      "no_speech_prob": 0.7837,
+      "review": true
+    },
+    {
+      "start": 7334.36,
+      "end": 7336.46,
+      "text": "巴西地图大概是很大很大很大",
+      "avg_logprob": -0.1659,
+      "no_speech_prob": 0.7837,
+      "review": true
+    },
+    {
+      "start": 7336.46,
+      "end": 7337.28,
+      "text": "巴西超级大",
+      "avg_logprob": -0.1659,
+      "no_speech_prob": 0.7837,
+      "review": true
+    },
+    {
+      "start": 7337.28,
+      "end": 7338.28,
+      "text": "啊",
+      "avg_logprob": -0.1659,
+      "no_speech_prob": 0.7837,
+      "review": true
+    },
+    {
+      "start": 7338.28,
+      "end": 7338.84,
+      "text": "哦",
+      "avg_logprob": -0.1659,
+      "no_speech_prob": 0.7837,
+      "review": true
+    },
+    {
+      "start": 7338.84,
+      "end": 7339.5,
+      "text": "这巴拉贵了",
+      "avg_logprob": -0.1659,
+      "no_speech_prob": 0.7837,
+      "review": true
+    },
+    {
+      "start": 7339.5,
+      "end": 7339.9,
+      "text": "这这这",
+      "avg_logprob": -0.1659,
+      "no_speech_prob": 0.7837,
+      "review": true
+    },
+    {
+      "start": 7339.9,
+      "end": 7343.32,
+      "text": "我的计划就是从巴西南部啊",
+      "avg_logprob": -0.1659,
+      "no_speech_prob": 0.7837,
+      "review": true
+    },
+    {
+      "start": 7343.32,
+      "end": 7344.38,
+      "text": "这样子一直玩",
+      "avg_logprob": -0.1659,
+      "no_speech_prob": 0.7837,
+      "review": true
+    },
+    {
+      "start": 7344.38,
+      "end": 7345.94,
+      "text": "边走边玩啊",
+      "avg_logprob": -0.1659,
+      "no_speech_prob": 0.7837,
+      "review": true
+    },
+    {
+      "start": 7345.94,
+      "end": 7347.88,
+      "text": "这几个州先玩一个圈圈",
+      "avg_logprob": -0.1659,
+      "no_speech_prob": 0.7837,
+      "review": true
+    },
+    {
+      "start": 7347.88,
+      "end": 7348.86,
+      "text": "然后呢",
+      "avg_logprob": -0.1659,
+      "no_speech_prob": 0.7837,
+      "review": true
+    },
+    {
+      "start": 7348.86,
+      "end": 7351.66,
+      "text": "把这边的海滩先玩一个圈圈",
+      "avg_logprob": -0.1659,
+      "no_speech_prob": 0.7837,
+      "review": true
+    },
+    {
+      "start": 7351.66,
+      "end": 7352.74,
+      "text": "啊",
+      "avg_logprob": -0.1659,
+      "no_speech_prob": 0.7837,
+      "review": true
+    },
+    {
+      "start": 7352.74,
+      "end": 7353.86,
+      "text": "然后呢",
+      "avg_logprob": -0.1659,
+      "no_speech_prob": 0.7837,
+      "review": true
+    },
+    {
+      "start": 7353.86,
+      "end": 7354.58,
+      "text": "去做视频呢",
+      "avg_logprob": -0.1659,
+      "no_speech_prob": 0.7837,
+      "review": true
+    },
+    {
+      "start": 7354.58,
+      "end": 7354.9,
+      "text": "怎么样",
+      "avg_logprob": -0.1659,
+      "no_speech_prob": 0.7837,
+      "review": true
+    },
+    {
+      "start": 7354.9,
+      "end": 7356.3,
+      "text": "然后呢",
+      "avg_logprob": -0.1659,
+      "no_speech_prob": 0.7837,
+      "review": true
+    },
+    {
+      "start": 7356.3,
+      "end": 7360.66,
+      "text": "我就准备开始从这个地方去穿亚马逊",
+      "avg_logprob": -0.1659,
+      "no_speech_prob": 0.7837,
+      "review": true
+    },
+    {
+      "start": 7360.66,
+      "end": 7361.7,
+      "text": "亚马逊在这儿",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 7361.7,
+      "end": 7362.64,
+      "text": "在这儿",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 7362.64,
+      "end": 7363.88,
+      "text": "从这个地方过去到亚马逊",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 7363.88,
+      "end": 7367.08,
+      "text": "亚马逊整个里面还有两条路",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 7367.08,
+      "end": 7367.88,
+      "text": "它还是土",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 7367.88,
+      "end": 7368.5,
+      "text": "尼巴路",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 7368.5,
+      "end": 7369.48,
+      "text": "土路啊",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 7369.48,
+      "end": 7371.66,
+      "text": "一条是从这儿到这儿",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 7371.66,
+      "end": 7373.5,
+      "text": "一条是从这儿到这儿",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 7373.5,
+      "end": 7375.78,
+      "text": "这两条就是穿越亚马逊的路",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 7375.78,
+      "end": 7377.7,
+      "text": "到时候我会做很多节目",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 7377.7,
+      "end": 7378.54,
+      "text": "觉得很有意思",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 7378.54,
+      "end": 7379.76,
+      "text": "这个穿越亚马逊",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 7379.76,
+      "end": 7381.18,
+      "text": "它有的是水泥路",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 7381.18,
+      "end": 7382.28,
+      "text": "也有的是尼巴路",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 7382.28,
+      "end": 7385.04,
+      "text": "就是这是两段整个巴西",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 7385.04,
+      "end": 7387.24,
+      "text": "唯一的尼巴路的国道",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 7387.24,
+      "end": 7388.08,
+      "text": "它也没有",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 7388.08,
+      "end": 7389.02,
+      "text": "没有博士吗",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 7389.02,
+      "end": 7390.14,
+      "text": "博士什么都没有啊",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 7390.14,
+      "end": 7391.46,
+      "text": "就是在大概是这两段",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.5688,
+      "review": true
+    },
+    {
+      "start": 7391.46,
+      "end": 7395.36,
+      "text": "大概是一段是从波多维尼尔到马纳奥斯",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.5688,
+      "review": true
+    },
+    {
+      "start": 7395.36,
+      "end": 7398.3,
+      "text": "一段是从波多维尼尔到这边",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.5688,
+      "review": true
+    },
+    {
+      "start": 7398.3,
+      "end": 7399.4,
+      "text": "大概是这样子",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.5688,
+      "review": true
+    },
+    {
+      "start": 7399.4,
+      "end": 7403.24,
+      "text": "这两段我以后重点的会做视频",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.5688,
+      "review": true
+    },
+    {
+      "start": 7403.24,
+      "end": 7406.06,
+      "text": "因为这种穿越原始的亚马逊",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.5688,
+      "review": true
+    },
+    {
+      "start": 7406.06,
+      "end": 7408.4,
+      "text": "这种是很有意思的",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.5688,
+      "review": true
+    },
+    {
+      "start": 7408.4,
+      "end": 7409.76,
+      "text": "我觉得我也喜欢做",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.5688,
+      "review": true
+    },
+    {
+      "start": 7409.76,
+      "end": 7411.2,
+      "text": "这很有意思的",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.5688,
+      "review": true
+    },
+    {
+      "start": 7411.2,
+      "end": 7417.71,
+      "text": "好像316",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.5688,
+      "review": true
+    },
+    {
+      "start": 7417.71,
+      "end": 7418.71,
+      "text": "一个是316",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.5688,
+      "review": true
+    },
+    {
+      "start": 7418.71,
+      "end": 7421.91,
+      "text": "你看你看",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.5688,
+      "review": true
+    },
+    {
+      "start": 7421.91,
+      "end": 7424.23,
+      "text": "还有几段都是泥巴路",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.5688,
+      "review": true
+    },
+    {
+      "start": 7424.23,
+      "end": 7425.53,
+      "text": "所以他一定要很好的越野车",
+      "avg_logprob": -0.1817,
+      "no_speech_prob": 0.7817,
+      "review": true
+    },
+    {
+      "start": 7425.53,
+      "end": 7428.89,
+      "text": "你看这就是在很好的越野车才行",
+      "avg_logprob": -0.1817,
+      "no_speech_prob": 0.7817,
+      "review": true
+    },
+    {
+      "start": 7428.89,
+      "end": 7431.73,
+      "text": "雨季雨季就更危险",
+      "avg_logprob": -0.1817,
+      "no_speech_prob": 0.7817,
+      "review": true
+    },
+    {
+      "start": 7431.73,
+      "end": 7434.45,
+      "text": "所以说如果喜欢玩越野的人",
+      "avg_logprob": -0.1817,
+      "no_speech_prob": 0.7817,
+      "review": true
+    },
+    {
+      "start": 7434.45,
+      "end": 7435.69,
+      "text": "太爽了",
+      "avg_logprob": -0.1817,
+      "no_speech_prob": 0.7817,
+      "review": true
+    },
+    {
+      "start": 7435.69,
+      "end": 7436.03,
+      "text": "是不是",
+      "avg_logprob": -0.1817,
+      "no_speech_prob": 0.7817,
+      "review": true
+    },
+    {
+      "start": 7436.03,
+      "end": 7437.45,
+      "text": "现在哪还能",
+      "avg_logprob": -0.1817,
+      "no_speech_prob": 0.7817,
+      "review": true
+    },
+    {
+      "start": 7437.45,
+      "end": 7439.23,
+      "text": "国内都找不到泥巴路了",
+      "avg_logprob": -0.1817,
+      "no_speech_prob": 0.7817,
+      "review": true
+    },
+    {
+      "start": 7439.23,
+      "end": 7440.25,
+      "text": "那些玩越野的人",
+      "avg_logprob": -0.1817,
+      "no_speech_prob": 0.7817,
+      "review": true
+    },
+    {
+      "start": 7440.25,
+      "end": 7441.51,
+      "text": "就是想去找这种泥巴路",
+      "avg_logprob": -0.1817,
+      "no_speech_prob": 0.7817,
+      "review": true
+    },
+    {
+      "start": 7441.51,
+      "end": 7442.23,
+      "text": "是吧",
+      "avg_logprob": -0.1817,
+      "no_speech_prob": 0.7817,
+      "review": true
+    },
+    {
+      "start": 7442.23,
+      "end": 7443.63,
+      "text": "国内都找不到泥巴路了",
+      "avg_logprob": -0.1817,
+      "no_speech_prob": 0.7817,
+      "review": true
+    },
+    {
+      "start": 7443.63,
+      "end": 7445.01,
+      "text": "你看这种这种泥巴路",
+      "avg_logprob": -0.1817,
+      "no_speech_prob": 0.7817,
+      "review": true
+    },
+    {
+      "start": 7445.01,
+      "end": 7446.61,
+      "text": "就是还有几百公里",
+      "avg_logprob": -0.1817,
+      "no_speech_prob": 0.7817,
+      "review": true
+    },
+    {
+      "start": 7446.61,
+      "end": 7449.31,
+      "text": "三百四百公里的这种泥巴路",
+      "avg_logprob": -0.1817,
+      "no_speech_prob": 0.7817,
+      "review": true
+    },
+    {
+      "start": 7449.31,
+      "end": 7450.53,
+      "text": "哇天",
+      "avg_logprob": -0.1817,
+      "no_speech_prob": 0.7817,
+      "review": true
+    },
+    {
+      "start": 7450.53,
+      "end": 7453.63,
+      "text": "要开几天几夜的",
+      "avg_logprob": -0.1817,
+      "no_speech_prob": 0.7817,
+      "review": true
+    },
+    {
+      "start": 7453.63,
+      "end": 7456.55,
+      "text": "现在玩越野的人就喜欢",
+      "avg_logprob": -0.1753,
+      "no_speech_prob": 0.7017,
+      "review": true
+    },
+    {
+      "start": 7456.55,
+      "end": 7459.03,
+      "text": "玩越野的人都不正常",
+      "avg_logprob": -0.1753,
+      "no_speech_prob": 0.7017,
+      "review": true
+    },
+    {
+      "start": 7459.03,
+      "end": 7459.67,
+      "text": "开玩笑说",
+      "avg_logprob": -0.1753,
+      "no_speech_prob": 0.7017,
+      "review": true
+    },
+    {
+      "start": 7459.67,
+      "end": 7461.31,
+      "text": "为什么他就喜欢那种痛苦",
+      "avg_logprob": -0.1753,
+      "no_speech_prob": 0.7017,
+      "review": true
+    },
+    {
+      "start": 7461.31,
+      "end": 7462.37,
+      "text": "好路不走",
+      "avg_logprob": -0.1753,
+      "no_speech_prob": 0.7017,
+      "review": true
+    },
+    {
+      "start": 7462.37,
+      "end": 7463.19,
+      "text": "就是要走烂路",
+      "avg_logprob": -0.1753,
+      "no_speech_prob": 0.7017,
+      "review": true
+    },
+    {
+      "start": 7463.19,
+      "end": 7464.79,
+      "text": "你看就是这种",
+      "avg_logprob": -0.1753,
+      "no_speech_prob": 0.7017,
+      "review": true
+    },
+    {
+      "start": 7464.79,
+      "end": 7468.68,
+      "text": "我是肯定要走的",
+      "avg_logprob": -0.1753,
+      "no_speech_prob": 0.7017,
+      "review": true
+    },
+    {
+      "start": 7468.68,
+      "end": 7469.56,
+      "text": "到最后就是",
+      "avg_logprob": -0.1753,
+      "no_speech_prob": 0.7017,
+      "review": true
+    },
+    {
+      "start": 7469.56,
+      "end": 7470.96,
+      "text": "我这半年先去",
+      "avg_logprob": -0.1753,
+      "no_speech_prob": 0.7017,
+      "review": true
+    },
+    {
+      "start": 7470.96,
+      "end": 7471.94,
+      "text": "先去我就说",
+      "avg_logprob": -0.1753,
+      "no_speech_prob": 0.7017,
+      "review": true
+    },
+    {
+      "start": 7471.94,
+      "end": 7472.72,
+      "text": "先去南部",
+      "avg_logprob": -0.1753,
+      "no_speech_prob": 0.7017,
+      "review": true
+    },
+    {
+      "start": 7472.72,
+      "end": 7473.66,
+      "text": "因为南部比较好",
+      "avg_logprob": -0.1753,
+      "no_speech_prob": 0.7017,
+      "review": true
+    },
+    {
+      "start": 7473.66,
+      "end": 7474.62,
+      "text": "和欧洲一样的",
+      "avg_logprob": -0.1753,
+      "no_speech_prob": 0.7017,
+      "review": true
+    },
+    {
+      "start": 7474.62,
+      "end": 7476.44,
+      "text": "但是比较差的",
+      "avg_logprob": -0.1753,
+      "no_speech_prob": 0.7017,
+      "review": true
+    },
+    {
+      "start": 7476.44,
+      "end": 7477.22,
+      "text": "我是放到最后",
+      "avg_logprob": -0.1753,
+      "no_speech_prob": 0.7017,
+      "review": true
+    },
+    {
+      "start": 7477.22,
+      "end": 7478.98,
+      "text": "那个时候到时候流浪又起来了",
+      "avg_logprob": -0.1753,
+      "no_speech_prob": 0.7017,
+      "review": true
+    },
+    {
+      "start": 7478.98,
+      "end": 7479.72,
+      "text": "什么又起来了",
+      "avg_logprob": -0.1753,
+      "no_speech_prob": 0.7017,
+      "review": true
+    },
+    {
+      "start": 7479.72,
+      "end": 7481.7,
+      "text": "这两条川亚马逊一定要穿",
+      "avg_logprob": -0.1753,
+      "no_speech_prob": 0.7017,
+      "review": true
+    },
+    {
+      "start": 7481.7,
+      "end": 7482.76,
+      "text": "然后不这个走完",
+      "avg_logprob": -0.1753,
+      "no_speech_prob": 0.7017,
+      "review": true
+    },
+    {
+      "start": 7482.76,
+      "end": 7483.5,
+      "text": "我是怎么走",
+      "avg_logprob": -0.1753,
+      "no_speech_prob": 0.7017,
+      "review": true
+    },
+    {
+      "start": 7483.5,
+      "end": 7485.56,
+      "text": "我就准备从里约要去秘鲁",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.0992,
+      "review": false
+    },
+    {
+      "start": 7485.56,
+      "end": 7486.66,
+      "text": "秘鲁从这边",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.0992,
+      "review": false
+    },
+    {
+      "start": 7486.66,
+      "end": 7488.28,
+      "text": "那是全世界最长的一个",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.0992,
+      "review": false
+    },
+    {
+      "start": 7488.28,
+      "end": 7490.06,
+      "text": "一个一个公认的",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.0992,
+      "review": false
+    },
+    {
+      "start": 7490.06,
+      "end": 7491.06,
+      "text": "就是全世界公认的",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.0992,
+      "review": false
+    },
+    {
+      "start": 7491.06,
+      "end": 7492.66,
+      "text": "最长的汽车航运线",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.0992,
+      "review": false
+    },
+    {
+      "start": 7492.66,
+      "end": 7493.98,
+      "text": "从这边过去",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.0992,
+      "review": false
+    },
+    {
+      "start": 7493.98,
+      "end": 7494.78,
+      "text": "然后呢",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.0992,
+      "review": false
+    },
+    {
+      "start": 7494.78,
+      "end": 7496.04,
+      "text": "将来到达阿根廷",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.0992,
+      "review": false
+    },
+    {
+      "start": 7496.04,
+      "end": 7497.22,
+      "text": "去乌斯维亚",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.0992,
+      "review": false
+    },
+    {
+      "start": 7497.22,
+      "end": 7499.94,
+      "text": "然后从阿根廷再走这个泛美公路",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.0992,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 39.67
+}

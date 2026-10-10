@@ -1,0 +1,1608 @@
+{
+  "begin": 6000.0,
+  "finish": 6300.0,
+  "segments": [
+    {
+      "start": 6000.14,
+      "end": 6001.2,
+      "text": "我就会先买前面的",
+      "avg_logprob": -0.1285,
+      "no_speech_prob": 0.8711,
+      "review": true
+    },
+    {
+      "start": 6001.2,
+      "end": 6002.6,
+      "text": "我先不挂拖挂房车",
+      "avg_logprob": -0.1285,
+      "no_speech_prob": 0.8711,
+      "review": true
+    },
+    {
+      "start": 6002.6,
+      "end": 6004.2,
+      "text": "但是我房车肯定不买",
+      "avg_logprob": -0.1285,
+      "no_speech_prob": 0.8711,
+      "review": true
+    },
+    {
+      "start": 6004.2,
+      "end": 6005.64,
+      "text": "房车我觉得不行啊",
+      "avg_logprob": -0.1285,
+      "no_speech_prob": 0.8711,
+      "review": true
+    },
+    {
+      "start": 6005.64,
+      "end": 6006.72,
+      "text": "那么越野房车",
+      "avg_logprob": -0.1285,
+      "no_speech_prob": 0.8711,
+      "review": true
+    },
+    {
+      "start": 6006.72,
+      "end": 6009.66,
+      "text": "反正我觉得我可能是先先先搞越野",
+      "avg_logprob": -0.1285,
+      "no_speech_prob": 0.8711,
+      "review": true
+    },
+    {
+      "start": 6009.66,
+      "end": 6012.6,
+      "text": "先先就先自己先再先先去玩一玩",
+      "avg_logprob": -0.1285,
+      "no_speech_prob": 0.8711,
+      "review": true
+    },
+    {
+      "start": 6012.6,
+      "end": 6014.12,
+      "text": "然后再考虑拖挂",
+      "avg_logprob": -0.1285,
+      "no_speech_prob": 0.8711,
+      "review": true
+    },
+    {
+      "start": 6014.12,
+      "end": 6015.76,
+      "text": "但是我我觉得哈",
+      "avg_logprob": -0.1285,
+      "no_speech_prob": 0.8711,
+      "review": true
+    },
+    {
+      "start": 6015.76,
+      "end": 6016.86,
+      "text": "90%的概率",
+      "avg_logprob": -0.1285,
+      "no_speech_prob": 0.8711,
+      "review": true
+    },
+    {
+      "start": 6016.86,
+      "end": 6018.82,
+      "text": "我是要买一个特别好的越野车",
+      "avg_logprob": -0.1285,
+      "no_speech_prob": 0.8711,
+      "review": true
+    },
+    {
+      "start": 6018.82,
+      "end": 6021.24,
+      "text": "然后呢再拖挂房车",
+      "avg_logprob": -0.1285,
+      "no_speech_prob": 0.8711,
+      "review": true
+    },
+    {
+      "start": 6021.24,
+      "end": 6022.56,
+      "text": "这是一个考虑的啊",
+      "avg_logprob": -0.1285,
+      "no_speech_prob": 0.8711,
+      "review": true
+    },
+    {
+      "start": 6022.56,
+      "end": 6023.2,
+      "text": "这样子",
+      "avg_logprob": -0.1285,
+      "no_speech_prob": 0.8711,
+      "review": true
+    },
+    {
+      "start": 6023.2,
+      "end": 6027.88,
+      "text": "巴西不进墙啊",
+      "avg_logprob": -0.1285,
+      "no_speech_prob": 0.8711,
+      "review": true
+    },
+    {
+      "start": 6027.88,
+      "end": 6028.52,
+      "text": "可以带枪",
+      "avg_logprob": -0.1285,
+      "no_speech_prob": 0.8711,
+      "review": true
+    },
+    {
+      "start": 6028.52,
+      "end": 6030.56,
+      "text": "但是我可能不带枪了",
+      "avg_logprob": -0.1285,
+      "no_speech_prob": 0.8711,
+      "review": true
+    },
+    {
+      "start": 6030.56,
+      "end": 6032.44,
+      "text": "我觉得还是算了",
+      "avg_logprob": -0.1274,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 6032.44,
+      "end": 6034.54,
+      "text": "因为还考持枪证啊",
+      "avg_logprob": -0.1274,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 6034.54,
+      "end": 6035.5,
+      "text": "还有好多好多事情",
+      "avg_logprob": -0.1274,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 6035.5,
+      "end": 6036.9,
+      "text": "我觉得也没那么危险",
+      "avg_logprob": -0.1274,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 6036.9,
+      "end": 6037.36,
+      "text": "说实话",
+      "avg_logprob": -0.1274,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 6037.36,
+      "end": 6039.16,
+      "text": "你在那个你把营地选好了",
+      "avg_logprob": -0.1274,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 6039.16,
+      "end": 6040.16,
+      "text": "因为营地啊",
+      "avg_logprob": -0.1274,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 6040.16,
+      "end": 6040.9,
+      "text": "它里面一般呢",
+      "avg_logprob": -0.1274,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 6040.9,
+      "end": 6041.68,
+      "text": "不会出问题的",
+      "avg_logprob": -0.1274,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 6041.68,
+      "end": 6042.6,
+      "text": "我个人觉得啊",
+      "avg_logprob": -0.1274,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 6042.6,
+      "end": 6043.94,
+      "text": "我个人觉得不会出问题的",
+      "avg_logprob": -0.1274,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 6043.94,
+      "end": 6045.1,
+      "text": "而且到现在为止",
+      "avg_logprob": -0.1274,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 6045.1,
+      "end": 6046.92,
+      "text": "反正我没有看到说营地出事",
+      "avg_logprob": -0.1274,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 6046.92,
+      "end": 6048.4,
+      "text": "被抢了死人的新闻",
+      "avg_logprob": -0.1274,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 6048.4,
+      "end": 6049.04,
+      "text": "一个都没有",
+      "avg_logprob": -0.1274,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 6049.04,
+      "end": 6049.94,
+      "text": "从来没有吧",
+      "avg_logprob": -0.1274,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 6049.94,
+      "end": 6051.22,
+      "text": "我个人认为没有",
+      "avg_logprob": -0.1274,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 6051.22,
+      "end": 6054.18,
+      "text": "我不讲白酒好不好",
+      "avg_logprob": -0.1274,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 6054.18,
+      "end": 6055.16,
+      "text": "我不讲白酒",
+      "avg_logprob": -0.1274,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 6055.16,
+      "end": 6058.08,
+      "text": "白酒我认为消费都不行",
+      "avg_logprob": -0.1274,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 6058.08,
+      "end": 6059.94,
+      "text": "这不是一个上升行业",
+      "avg_logprob": -0.1274,
+      "no_speech_prob": 0.6948,
+      "review": true
+    },
+    {
+      "start": 6059.94,
+      "end": 6061.84,
+      "text": "既然上次我上次直播也说了",
+      "avg_logprob": -0.1273,
+      "no_speech_prob": 0.4026,
+      "review": false
+    },
+    {
+      "start": 6061.84,
+      "end": 6063.3,
+      "text": "我说你买白酒不能买半道题",
+      "avg_logprob": -0.1273,
+      "no_speech_prob": 0.4026,
+      "review": false
+    },
+    {
+      "start": 6063.3,
+      "end": 6064.38,
+      "text": "我上次有说过话了",
+      "avg_logprob": -0.1273,
+      "no_speech_prob": 0.4026,
+      "review": false
+    },
+    {
+      "start": 6064.38,
+      "end": 6066.2,
+      "text": "当然我自己买了一点点白酒",
+      "avg_logprob": -0.1273,
+      "no_speech_prob": 0.4026,
+      "review": false
+    },
+    {
+      "start": 6066.2,
+      "end": 6068.66,
+      "text": "是因为我手里面有七八只股票",
+      "avg_logprob": -0.1273,
+      "no_speech_prob": 0.4026,
+      "review": false
+    },
+    {
+      "start": 6068.66,
+      "end": 6069.68,
+      "text": "十只",
+      "avg_logprob": -0.1273,
+      "no_speech_prob": 0.4026,
+      "review": false
+    },
+    {
+      "start": 6069.68,
+      "end": 6071.4,
+      "text": "白酒只是我一个配置而已",
+      "avg_logprob": -0.1273,
+      "no_speech_prob": 0.4026,
+      "review": false
+    },
+    {
+      "start": 6071.4,
+      "end": 6071.8,
+      "text": "好不好",
+      "avg_logprob": -0.1273,
+      "no_speech_prob": 0.4026,
+      "review": false
+    },
+    {
+      "start": 6071.8,
+      "end": 6073.04,
+      "text": "但是我自己认为",
+      "avg_logprob": -0.1273,
+      "no_speech_prob": 0.4026,
+      "review": false
+    },
+    {
+      "start": 6073.04,
+      "end": 6074.46,
+      "text": "如果你只想买一只票",
+      "avg_logprob": -0.1273,
+      "no_speech_prob": 0.4026,
+      "review": false
+    },
+    {
+      "start": 6074.46,
+      "end": 6076.38,
+      "text": "我还是建议先选板块",
+      "avg_logprob": -0.1273,
+      "no_speech_prob": 0.4026,
+      "review": false
+    },
+    {
+      "start": 6076.38,
+      "end": 6078.76,
+      "text": "不是说你这个跌久了",
+      "avg_logprob": -0.1273,
+      "no_speech_prob": 0.4026,
+      "review": false
+    },
+    {
+      "start": 6078.76,
+      "end": 6080.38,
+      "text": "我觉得白酒一直不行",
+      "avg_logprob": -0.1273,
+      "no_speech_prob": 0.4026,
+      "review": false
+    },
+    {
+      "start": 6080.38,
+      "end": 6081.36,
+      "text": "消费一直不行",
+      "avg_logprob": -0.1273,
+      "no_speech_prob": 0.4026,
+      "review": false
+    },
+    {
+      "start": 6081.36,
+      "end": 6085.28,
+      "text": "知识星球还没有开始",
+      "avg_logprob": -0.1273,
+      "no_speech_prob": 0.4026,
+      "review": false
+    },
+    {
+      "start": 6085.28,
+      "end": 6085.7,
+      "text": "不好意思",
+      "avg_logprob": -0.1273,
+      "no_speech_prob": 0.4026,
+      "review": false
+    },
+    {
+      "start": 6085.7,
+      "end": 6088.3,
+      "text": "知识星球因为我现在在知识星球",
+      "avg_logprob": -0.1273,
+      "no_speech_prob": 0.4026,
+      "review": false
+    },
+    {
+      "start": 6088.3,
+      "end": 6089.76,
+      "text": "他还有一些东西还没有做完",
+      "avg_logprob": -0.1273,
+      "no_speech_prob": 0.4026,
+      "review": false
+    },
+    {
+      "start": 6089.76,
+      "end": 6092.38,
+      "text": "我是准备下个月才转去",
+      "avg_logprob": -0.1242,
+      "no_speech_prob": 0.6143,
+      "review": true
+    },
+    {
+      "start": 6092.38,
+      "end": 6094.16,
+      "text": "大家不用再先等一等",
+      "avg_logprob": -0.1242,
+      "no_speech_prob": 0.6143,
+      "review": true
+    },
+    {
+      "start": 6094.16,
+      "end": 6099.02,
+      "text": "从老师说特斯拉可以买",
+      "avg_logprob": -0.1242,
+      "no_speech_prob": 0.6143,
+      "review": true
+    },
+    {
+      "start": 6099.02,
+      "end": 6100.5,
+      "text": "到现在涨到20块了",
+      "avg_logprob": -0.1242,
+      "no_speech_prob": 0.6143,
+      "review": true
+    },
+    {
+      "start": 6100.5,
+      "end": 6101.22,
+      "text": "那很早了",
+      "avg_logprob": -0.1242,
+      "no_speech_prob": 0.6143,
+      "review": true
+    },
+    {
+      "start": 6101.22,
+      "end": 6104.9,
+      "text": "不是我在几年前还说为特斯拉",
+      "avg_logprob": -0.1242,
+      "no_speech_prob": 0.6143,
+      "review": true
+    },
+    {
+      "start": 6104.9,
+      "end": 6106.4,
+      "text": "那才是我风神操作",
+      "avg_logprob": -0.1242,
+      "no_speech_prob": 0.6143,
+      "review": true
+    },
+    {
+      "start": 6106.4,
+      "end": 6108.48,
+      "text": "你看大家看我这个可不是自己吹牛",
+      "avg_logprob": -0.1242,
+      "no_speech_prob": 0.6143,
+      "review": true
+    },
+    {
+      "start": 6108.48,
+      "end": 6110.08,
+      "text": "你们说到这了",
+      "avg_logprob": -0.1242,
+      "no_speech_prob": 0.6143,
+      "review": true
+    },
+    {
+      "start": 6110.08,
+      "end": 6111.0,
+      "text": "我还是要炫耀一下",
+      "avg_logprob": -0.1242,
+      "no_speech_prob": 0.6143,
+      "review": true
+    },
+    {
+      "start": 6111.0,
+      "end": 6112.36,
+      "text": "我给你看这个",
+      "avg_logprob": -0.1242,
+      "no_speech_prob": 0.6143,
+      "review": true
+    },
+    {
+      "start": 6112.36,
+      "end": 6114.76,
+      "text": "这个才是我认为我真正风神的一个操作",
+      "avg_logprob": -0.1242,
+      "no_speech_prob": 0.6143,
+      "review": true
+    },
+    {
+      "start": 6114.76,
+      "end": 6115.34,
+      "text": "你们看",
+      "avg_logprob": -0.1242,
+      "no_speech_prob": 0.6143,
+      "review": true
+    },
+    {
+      "start": 6115.34,
+      "end": 6117.58,
+      "text": "这个才是我风神的操作",
+      "avg_logprob": -0.1242,
+      "no_speech_prob": 0.6143,
+      "review": true
+    },
+    {
+      "start": 6117.58,
+      "end": 6118.56,
+      "text": "你知道我什么时候说的吗",
+      "avg_logprob": -0.1242,
+      "no_speech_prob": 0.6143,
+      "review": true
+    },
+    {
+      "start": 6118.56,
+      "end": 6120.5,
+      "text": "我这个位置说的简直是",
+      "avg_logprob": -0.1242,
+      "no_speech_prob": 0.6143,
+      "review": true
+    },
+    {
+      "start": 6120.5,
+      "end": 6122.1,
+      "text": "因为美国有一个人",
+      "avg_logprob": -0.1403,
+      "no_speech_prob": 0.5728,
+      "review": true
+    },
+    {
+      "start": 6122.1,
+      "end": 6123.48,
+      "text": "看我这个期权赚了一百倍",
+      "avg_logprob": -0.1403,
+      "no_speech_prob": 0.5728,
+      "review": true
+    },
+    {
+      "start": 6123.48,
+      "end": 6124.64,
+      "text": "当时过来感谢我",
+      "avg_logprob": -0.1403,
+      "no_speech_prob": 0.5728,
+      "review": true
+    },
+    {
+      "start": 6124.64,
+      "end": 6125.74,
+      "text": "他一直感谢的不得了",
+      "avg_logprob": -0.1403,
+      "no_speech_prob": 0.5728,
+      "review": true
+    },
+    {
+      "start": 6125.74,
+      "end": 6126.58,
+      "text": "但是没给我钱",
+      "avg_logprob": -0.1403,
+      "no_speech_prob": 0.5728,
+      "review": true
+    },
+    {
+      "start": 6126.58,
+      "end": 6128.24,
+      "text": "云聪",
+      "avg_logprob": -0.1403,
+      "no_speech_prob": 0.5728,
+      "review": true
+    },
+    {
+      "start": 6128.24,
+      "end": 6130.7,
+      "text": "那个时候很早一切",
+      "avg_logprob": -0.1403,
+      "no_speech_prob": 0.5728,
+      "review": true
+    },
+    {
+      "start": 6130.7,
+      "end": 6131.86,
+      "text": "你看我跟你说",
+      "avg_logprob": -0.1403,
+      "no_speech_prob": 0.5728,
+      "review": true
+    },
+    {
+      "start": 6131.86,
+      "end": 6133.78,
+      "text": "这才是两年前",
+      "avg_logprob": -0.1403,
+      "no_speech_prob": 0.5728,
+      "review": true
+    },
+    {
+      "start": 6133.78,
+      "end": 6135.6,
+      "text": "特斯拉可以买了吗",
+      "avg_logprob": -0.1403,
+      "no_speech_prob": 0.5728,
+      "review": true
+    },
+    {
+      "start": 6135.6,
+      "end": 6136.08,
+      "text": "你们看",
+      "avg_logprob": -0.1403,
+      "no_speech_prob": 0.5728,
+      "review": true
+    },
+    {
+      "start": 6136.08,
+      "end": 6138.04,
+      "text": "这个时候是哪一年",
+      "avg_logprob": -0.1403,
+      "no_speech_prob": 0.5728,
+      "review": true
+    },
+    {
+      "start": 6138.04,
+      "end": 6140.58,
+      "text": "这个是两年前的具体的",
+      "avg_logprob": -0.1403,
+      "no_speech_prob": 0.5728,
+      "review": true
+    },
+    {
+      "start": 6140.58,
+      "end": 6141.34,
+      "text": "什么时间点",
+      "avg_logprob": -0.1403,
+      "no_speech_prob": 0.5728,
+      "review": true
+    },
+    {
+      "start": 6141.34,
+      "end": 6141.76,
+      "text": "两年前",
+      "avg_logprob": -0.1403,
+      "no_speech_prob": 0.5728,
+      "review": true
+    },
+    {
+      "start": 6141.76,
+      "end": 6144.86,
+      "text": "你看说云聪是太神奇了",
+      "avg_logprob": -0.1403,
+      "no_speech_prob": 0.5728,
+      "review": true
+    },
+    {
+      "start": 6144.86,
+      "end": 6146.0,
+      "text": "两年前那个位置",
+      "avg_logprob": -0.1403,
+      "no_speech_prob": 0.5728,
+      "review": true
+    },
+    {
+      "start": 6146.0,
+      "end": 6147.02,
+      "text": "在哪个位置",
+      "avg_logprob": -0.1403,
+      "no_speech_prob": 0.5728,
+      "review": true
+    },
+    {
+      "start": 6147.02,
+      "end": 6148.24,
+      "text": "这个位置我说特斯拉",
+      "avg_logprob": -0.1403,
+      "no_speech_prob": 0.5728,
+      "review": true
+    },
+    {
+      "start": 6148.24,
+      "end": 6149.12,
+      "text": "专门说特斯拉",
+      "avg_logprob": -0.1403,
+      "no_speech_prob": 0.5728,
+      "review": true
+    },
+    {
+      "start": 6149.12,
+      "end": 6150.24,
+      "text": "我在哪说的",
+      "avg_logprob": -0.1403,
+      "no_speech_prob": 0.5728,
+      "review": true
+    },
+    {
+      "start": 6150.24,
+      "end": 6151.87,
+      "text": "这个才是",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 6151.87,
+      "end": 6152.83,
+      "text": "我看哪里",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 6152.83,
+      "end": 6154.81,
+      "text": "反正这个时候才是我真正的是风神的那一站",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 6154.81,
+      "end": 6155.89,
+      "text": "我忘了",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 6155.89,
+      "end": 6157.75,
+      "text": "两年前的那个位置",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 6157.75,
+      "end": 6159.69,
+      "text": "那个位置我猪安门出来去视频特斯拉",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 6159.69,
+      "end": 6160.77,
+      "text": "好像是在这",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 6160.77,
+      "end": 6161.57,
+      "text": "我跟大家说一下",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 6161.57,
+      "end": 6162.37,
+      "text": "我知道是在哪了",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 6162.37,
+      "end": 6162.81,
+      "text": "我知道了",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 6162.81,
+      "end": 6163.47,
+      "text": "我印象很深刻",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 6163.47,
+      "end": 6164.97,
+      "text": "因为他这个没有具体时间",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 6164.97,
+      "end": 6165.69,
+      "text": "但是我知道",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 6165.69,
+      "end": 6168.21,
+      "text": "因为当时就是在这一天",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 6168.21,
+      "end": 6170.75,
+      "text": "最完美最完美最完美最完美最完美的这一天",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 6170.75,
+      "end": 6172.01,
+      "text": "我印象非常深刻",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 6172.01,
+      "end": 6173.19,
+      "text": "都没在这",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 6173.19,
+      "end": 6174.03,
+      "text": "这一天",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 6174.03,
+      "end": 6176.57,
+      "text": "这一天我说特斯拉可以买了",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 6182.28,
+      "end": 6182.88,
+      "text": "这要不是",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 6182.88,
+      "end": 6183.76,
+      "text": "这还是前面的",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 6183.76,
+      "end": 6184.66,
+      "text": "2023年那一次",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 6184.66,
+      "end": 6186.38,
+      "text": "那是最省的2013年的一次",
+      "avg_logprob": -0.2253,
+      "no_speech_prob": 0.9287,
+      "review": true
+    },
+    {
+      "start": 6186.38,
+      "end": 6187.36,
+      "text": "特斯拉",
+      "avg_logprob": -0.2253,
+      "no_speech_prob": 0.9287,
+      "review": true
+    },
+    {
+      "start": 6187.36,
+      "end": 6188.18,
+      "text": "我说特斯拉",
+      "avg_logprob": -0.2253,
+      "no_speech_prob": 0.9287,
+      "review": true
+    },
+    {
+      "start": 6188.18,
+      "end": 6189.58,
+      "text": "在这一天说的",
+      "avg_logprob": -0.2253,
+      "no_speech_prob": 0.9287,
+      "review": true
+    },
+    {
+      "start": 6189.58,
+      "end": 6190.92,
+      "text": "2013年的一次",
+      "avg_logprob": -0.2253,
+      "no_speech_prob": 0.9287,
+      "review": true
+    },
+    {
+      "start": 6190.92,
+      "end": 6192.3,
+      "text": "这一天说的",
+      "avg_logprob": -0.2253,
+      "no_speech_prob": 0.9287,
+      "review": true
+    },
+    {
+      "start": 6192.3,
+      "end": 6192.9,
+      "text": "还往前找",
+      "avg_logprob": -0.2253,
+      "no_speech_prob": 0.9287,
+      "review": true
+    },
+    {
+      "start": 6192.9,
+      "end": 6194.22,
+      "text": "还往前找",
+      "avg_logprob": -0.2253,
+      "no_speech_prob": 0.9287,
+      "review": true
+    },
+    {
+      "start": 6194.22,
+      "end": 6195.92,
+      "text": "后面我又说特斯拉可以买",
+      "avg_logprob": -0.2253,
+      "no_speech_prob": 0.9287,
+      "review": true
+    },
+    {
+      "start": 6195.92,
+      "end": 6196.42,
+      "text": "又可以买了",
+      "avg_logprob": -0.2253,
+      "no_speech_prob": 0.9287,
+      "review": true
+    },
+    {
+      "start": 6196.42,
+      "end": 6196.88,
+      "text": "又对了",
+      "avg_logprob": -0.2253,
+      "no_speech_prob": 0.9287,
+      "review": true
+    },
+    {
+      "start": 6196.88,
+      "end": 6197.64,
+      "text": "我们再看看",
+      "avg_logprob": -0.2253,
+      "no_speech_prob": 0.9287,
+      "review": true
+    },
+    {
+      "start": 6197.64,
+      "end": 6198.28,
+      "text": "还往前找",
+      "avg_logprob": -0.2253,
+      "no_speech_prob": 0.9287,
+      "review": true
+    },
+    {
+      "start": 6198.28,
+      "end": 6200.28,
+      "text": "我把2013年的一次",
+      "avg_logprob": -0.2253,
+      "no_speech_prob": 0.9287,
+      "review": true
+    },
+    {
+      "start": 6200.28,
+      "end": 6201.04,
+      "text": "丰实的找出来",
+      "avg_logprob": -0.2253,
+      "no_speech_prob": 0.9287,
+      "review": true
+    },
+    {
+      "start": 6201.04,
+      "end": 6203.04,
+      "text": "2013年说特斯拉",
+      "avg_logprob": -0.2253,
+      "no_speech_prob": 0.9287,
+      "review": true
+    },
+    {
+      "start": 6203.04,
+      "end": 6204.26,
+      "text": "这是两年前",
+      "avg_logprob": -0.2253,
+      "no_speech_prob": 0.9287,
+      "review": true
+    },
+    {
+      "start": 6204.26,
+      "end": 6205.26,
+      "text": "2013年前",
+      "avg_logprob": -0.2253,
+      "no_speech_prob": 0.9287,
+      "review": true
+    },
+    {
+      "start": 6205.26,
+      "end": 6205.98,
+      "text": "三年前了",
+      "avg_logprob": -0.2253,
+      "no_speech_prob": 0.9287,
+      "review": true
+    },
+    {
+      "start": 6205.98,
+      "end": 6207.56,
+      "text": "三年前还说过一次",
+      "avg_logprob": -0.2253,
+      "no_speech_prob": 0.9287,
+      "review": true
+    },
+    {
+      "start": 6207.56,
+      "end": 6209.62,
+      "text": "好你看",
+      "avg_logprob": -0.2253,
+      "no_speech_prob": 0.9287,
+      "review": true
+    },
+    {
+      "start": 6209.62,
+      "end": 6211.72,
+      "text": "特斯拉可以抄底了吗",
+      "avg_logprob": -0.2253,
+      "no_speech_prob": 0.9287,
+      "review": true
+    },
+    {
+      "start": 6211.72,
+      "end": 6212.3,
+      "text": "看到没有",
+      "avg_logprob": -0.2253,
+      "no_speech_prob": 0.9287,
+      "review": true
+    },
+    {
+      "start": 6212.3,
+      "end": 6214.38,
+      "text": "三年前",
+      "avg_logprob": -0.2253,
+      "no_speech_prob": 0.9287,
+      "review": true
+    },
+    {
+      "start": 6214.38,
+      "end": 6216.37,
+      "text": "三年前",
+      "avg_logprob": -0.2073,
+      "no_speech_prob": 0.8838,
+      "review": true
+    },
+    {
+      "start": 6216.37,
+      "end": 6217.47,
+      "text": "那一次",
+      "avg_logprob": -0.2073,
+      "no_speech_prob": 0.8838,
+      "review": true
+    },
+    {
+      "start": 6217.47,
+      "end": 6219.03,
+      "text": "专门说特斯拉可以炒饼",
+      "avg_logprob": -0.2073,
+      "no_speech_prob": 0.8838,
+      "review": true
+    },
+    {
+      "start": 6219.03,
+      "end": 6221.93,
+      "text": "反正",
+      "avg_logprob": -0.2073,
+      "no_speech_prob": 0.8838,
+      "review": true
+    },
+    {
+      "start": 6221.93,
+      "end": 6225.32,
+      "text": "都是我的来时路",
+      "avg_logprob": -0.2073,
+      "no_speech_prob": 0.8838,
+      "review": true
+    },
+    {
+      "start": 6225.32,
+      "end": 6226.02,
+      "text": "是不是",
+      "avg_logprob": -0.2073,
+      "no_speech_prob": 0.8838,
+      "review": true
+    },
+    {
+      "start": 6226.02,
+      "end": 6231.57,
+      "text": "你看专门说的",
+      "avg_logprob": -0.2073,
+      "no_speech_prob": 0.8838,
+      "review": true
+    },
+    {
+      "start": 6231.57,
+      "end": 6232.29,
+      "text": "专门做解释",
+      "avg_logprob": -0.2073,
+      "no_speech_prob": 0.8838,
+      "review": true
+    },
+    {
+      "start": 6232.29,
+      "end": 6233.19,
+      "text": "还不是直播说的",
+      "avg_logprob": -0.2073,
+      "no_speech_prob": 0.8838,
+      "review": true
+    },
+    {
+      "start": 6233.19,
+      "end": 6235.15,
+      "text": "我专门做一期视频说的",
+      "avg_logprob": -0.2073,
+      "no_speech_prob": 0.8838,
+      "review": true
+    },
+    {
+      "start": 6235.15,
+      "end": 6237.02,
+      "text": "中心科技回调",
+      "avg_logprob": -0.2073,
+      "no_speech_prob": 0.8838,
+      "review": true
+    },
+    {
+      "start": 6237.02,
+      "end": 6238.34,
+      "text": "先不要管回调了",
+      "avg_logprob": -0.2073,
+      "no_speech_prob": 0.8838,
+      "review": true
+    },
+    {
+      "start": 6238.34,
+      "end": 6239.32,
+      "text": "我个人人先买买",
+      "avg_logprob": -0.2073,
+      "no_speech_prob": 0.8838,
+      "review": true
+    },
+    {
+      "start": 6239.32,
+      "end": 6240.28,
+      "text": "这回调再加仓",
+      "avg_logprob": -0.2073,
+      "no_speech_prob": 0.8838,
+      "review": true
+    },
+    {
+      "start": 6240.28,
+      "end": 6242.02,
+      "text": "好的票他给你不回调了",
+      "avg_logprob": -0.2073,
+      "no_speech_prob": 0.8838,
+      "review": true
+    },
+    {
+      "start": 6242.02,
+      "end": 6242.38,
+      "text": "我跟你说",
+      "avg_logprob": -0.2073,
+      "no_speech_prob": 0.8838,
+      "review": true
+    },
+    {
+      "start": 6242.38,
+      "end": 6243.72,
+      "text": "好的票也说不回",
+      "avg_logprob": -0.2073,
+      "no_speech_prob": 0.8838,
+      "review": true
+    },
+    {
+      "start": 6243.72,
+      "end": 6244.78,
+      "text": "我不用discord",
+      "avg_logprob": -0.2073,
+      "no_speech_prob": 0.8838,
+      "review": true
+    },
+    {
+      "start": 6244.78,
+      "end": 6245.14,
+      "text": "不好意思",
+      "avg_logprob": -0.2073,
+      "no_speech_prob": 0.8838,
+      "review": true
+    },
+    {
+      "start": 6245.14,
+      "end": 6246.16,
+      "text": "我决定不用了",
+      "avg_logprob": -0.2073,
+      "no_speech_prob": 0.8838,
+      "review": true
+    },
+    {
+      "start": 6246.16,
+      "end": 6246.84,
+      "text": "我不搞了",
+      "avg_logprob": -0.2073,
+      "no_speech_prob": 0.8838,
+      "review": true
+    },
+    {
+      "start": 6246.84,
+      "end": 6247.6,
+      "text": "哎呀因为什么呢",
+      "avg_logprob": -0.1218,
+      "no_speech_prob": 0.4407,
+      "review": false
+    },
+    {
+      "start": 6247.6,
+      "end": 6248.76,
+      "text": "我交易我都不做了",
+      "avg_logprob": -0.1218,
+      "no_speech_prob": 0.4407,
+      "review": false
+    },
+    {
+      "start": 6248.76,
+      "end": 6250.5,
+      "text": "我交易以后都不建群了",
+      "avg_logprob": -0.1218,
+      "no_speech_prob": 0.4407,
+      "review": false
+    },
+    {
+      "start": 6250.5,
+      "end": 6251.4,
+      "text": "我不建交易群了",
+      "avg_logprob": -0.1218,
+      "no_speech_prob": 0.4407,
+      "review": false
+    },
+    {
+      "start": 6251.4,
+      "end": 6252.32,
+      "text": "好不好",
+      "avg_logprob": -0.1218,
+      "no_speech_prob": 0.4407,
+      "review": false
+    },
+    {
+      "start": 6252.32,
+      "end": 6254.0,
+      "text": "因为我交易都不收你们的钱了",
+      "avg_logprob": -0.1218,
+      "no_speech_prob": 0.4407,
+      "review": false
+    },
+    {
+      "start": 6254.0,
+      "end": 6255.48,
+      "text": "那我不建交易群了",
+      "avg_logprob": -0.1218,
+      "no_speech_prob": 0.4407,
+      "review": false
+    },
+    {
+      "start": 6255.48,
+      "end": 6256.3,
+      "text": "所以我不用discord了",
+      "avg_logprob": -0.1218,
+      "no_speech_prob": 0.4407,
+      "review": false
+    },
+    {
+      "start": 6256.3,
+      "end": 6257.18,
+      "text": "我已经决定了啊",
+      "avg_logprob": -0.1218,
+      "no_speech_prob": 0.4407,
+      "review": false
+    },
+    {
+      "start": 6257.18,
+      "end": 6257.5,
+      "text": "好不好",
+      "avg_logprob": -0.1218,
+      "no_speech_prob": 0.4407,
+      "review": false
+    },
+    {
+      "start": 6257.5,
+      "end": 6258.6,
+      "text": "感谢大家啊",
+      "avg_logprob": -0.1218,
+      "no_speech_prob": 0.4407,
+      "review": false
+    },
+    {
+      "start": 6258.6,
+      "end": 6259.28,
+      "text": "感谢大家理解",
+      "avg_logprob": -0.1218,
+      "no_speech_prob": 0.4407,
+      "review": false
+    },
+    {
+      "start": 6259.28,
+      "end": 6260.86,
+      "text": "因为我慢慢的淡出交易圈了",
+      "avg_logprob": -0.1218,
+      "no_speech_prob": 0.4407,
+      "review": false
+    },
+    {
+      "start": 6260.86,
+      "end": 6261.38,
+      "text": "就是我不是",
+      "avg_logprob": -0.1218,
+      "no_speech_prob": 0.4407,
+      "review": false
+    },
+    {
+      "start": 6261.38,
+      "end": 6262.46,
+      "text": "我不是淡出交易圈",
+      "avg_logprob": -0.1218,
+      "no_speech_prob": 0.4407,
+      "review": false
+    },
+    {
+      "start": 6262.46,
+      "end": 6263.32,
+      "text": "交易我还会做的",
+      "avg_logprob": -0.1218,
+      "no_speech_prob": 0.4407,
+      "review": false
+    },
+    {
+      "start": 6263.32,
+      "end": 6264.7,
+      "text": "就是我不收费了",
+      "avg_logprob": -0.1218,
+      "no_speech_prob": 0.4407,
+      "review": false
+    },
+    {
+      "start": 6264.7,
+      "end": 6266.54,
+      "text": "就是反正你们愿意支持",
+      "avg_logprob": -0.1218,
+      "no_speech_prob": 0.4407,
+      "review": false
+    },
+    {
+      "start": 6266.54,
+      "end": 6267.44,
+      "text": "我会愿意继续支持",
+      "avg_logprob": -0.1218,
+      "no_speech_prob": 0.4407,
+      "review": false
+    },
+    {
+      "start": 6267.44,
+      "end": 6268.48,
+      "text": "然后这个",
+      "avg_logprob": -0.1218,
+      "no_speech_prob": 0.4407,
+      "review": false
+    },
+    {
+      "start": 6268.48,
+      "end": 6269.42,
+      "text": "那既然我不收费了",
+      "avg_logprob": -0.1218,
+      "no_speech_prob": 0.4407,
+      "review": false
+    },
+    {
+      "start": 6269.42,
+      "end": 6270.26,
+      "text": "我没有必要建了",
+      "avg_logprob": -0.1218,
+      "no_speech_prob": 0.4407,
+      "review": false
+    },
+    {
+      "start": 6270.26,
+      "end": 6270.52,
+      "text": "是吧",
+      "avg_logprob": -0.1218,
+      "no_speech_prob": 0.4407,
+      "review": false
+    },
+    {
+      "start": 6270.52,
+      "end": 6271.42,
+      "text": "我还回答你问题啊",
+      "avg_logprob": -0.1218,
+      "no_speech_prob": 0.4407,
+      "review": false
+    },
+    {
+      "start": 6271.42,
+      "end": 6272.14,
+      "text": "还怎么样讨论",
+      "avg_logprob": -0.1218,
+      "no_speech_prob": 0.4407,
+      "review": false
+    },
+    {
+      "start": 6272.14,
+      "end": 6273.08,
+      "text": "我也不想讨论了",
+      "avg_logprob": -0.1218,
+      "no_speech_prob": 0.4407,
+      "review": false
+    },
+    {
+      "start": 6273.08,
+      "end": 6274.56,
+      "text": "我不想讨论了",
+      "avg_logprob": -0.1514,
+      "no_speech_prob": 0.0244,
+      "review": false
+    },
+    {
+      "start": 6274.56,
+      "end": 6276.68,
+      "text": "我就因为我现在以后的经历",
+      "avg_logprob": -0.1514,
+      "no_speech_prob": 0.0244,
+      "review": false
+    },
+    {
+      "start": 6276.68,
+      "end": 6278.92,
+      "text": "就是主要是去玩",
+      "avg_logprob": -0.1514,
+      "no_speech_prob": 0.0244,
+      "review": false
+    },
+    {
+      "start": 6278.92,
+      "end": 6280.16,
+      "text": "做旅游",
+      "avg_logprob": -0.1514,
+      "no_speech_prob": 0.0244,
+      "review": false
+    },
+    {
+      "start": 6280.16,
+      "end": 6281.16,
+      "text": "做这些事情了",
+      "avg_logprob": -0.1514,
+      "no_speech_prob": 0.0244,
+      "review": false
+    },
+    {
+      "start": 6281.16,
+      "end": 6281.36,
+      "text": "好不好",
+      "avg_logprob": -0.1514,
+      "no_speech_prob": 0.0244,
+      "review": false
+    },
+    {
+      "start": 6281.36,
+      "end": 6282.64,
+      "text": "我已经不在了",
+      "avg_logprob": -0.1514,
+      "no_speech_prob": 0.0244,
+      "review": false
+    },
+    {
+      "start": 6282.64,
+      "end": 6284.22,
+      "text": "我也不去回答你们的问题了",
+      "avg_logprob": -0.1514,
+      "no_speech_prob": 0.0244,
+      "review": false
+    },
+    {
+      "start": 6284.22,
+      "end": 6286.3,
+      "text": "我就直播回答一下会员的问题",
+      "avg_logprob": -0.1514,
+      "no_speech_prob": 0.0244,
+      "review": false
+    },
+    {
+      "start": 6286.3,
+      "end": 6291.14,
+      "text": "好",
+      "avg_logprob": -0.1514,
+      "no_speech_prob": 0.0244,
+      "review": false
+    },
+    {
+      "start": 6291.14,
+      "end": 6292.28,
+      "text": "紫光谷我又看一下",
+      "avg_logprob": -0.1514,
+      "no_speech_prob": 0.0244,
+      "review": false
+    },
+    {
+      "start": 6292.28,
+      "end": 6299.31,
+      "text": "所以我最终决定不做discord了",
+      "avg_logprob": -0.1514,
+      "no_speech_prob": 0.0244,
+      "review": false
+    },
+    {
+      "start": 6299.31,
+      "end": 6299.51,
+      "text": "好",
+      "avg_logprob": -0.1514,
+      "no_speech_prob": 0.0244,
+      "review": false
+    },
+    {
+      "start": 6299.51,
+      "end": 6300.05,
+      "text": "感谢大家",
+      "avg_logprob": -0.1514,
+      "no_speech_prob": 0.0244,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 60.66
+}

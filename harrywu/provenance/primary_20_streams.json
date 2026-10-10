@@ -1,0 +1,842 @@
+[
+  {
+    "date": "2026-01-09",
+    "stream_id": "XSFwu5KOo5Y",
+    "title": "A股 交易策略 实盘直播（1月9日）",
+    "files": [
+      {
+        "name": "研究文本_切分版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-01-09_XSFwu5KOo5Y/研究文本_切分版.txt",
+        "sha256": "6ef9a1fc2fb0a558f6033bd1c005db127508515369dc5a76ac5a8dc40e96174d"
+      },
+      {
+        "name": "学员个股快评.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-01-09_XSFwu5KOo5Y/学员个股快评.txt",
+        "sha256": "61b9783d2382cc2954502648564ea86459608b3961add7746a08640a547636f3"
+      },
+      {
+        "name": "全文_带时间_股票名校正版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-01-09_XSFwu5KOo5Y/全文_带时间_股票名校正版.txt",
+        "sha256": "0f9b6b1e7bccbbd4d7b184f3853dc7b413e608836c33ebd26eeb95f736a10763"
+      },
+      {
+        "name": "全文_带时间.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-01-09_XSFwu5KOo5Y/全文_带时间.txt",
+        "sha256": "e2f7edf69c2de66f12690054362a7b4ff5d1256f1e3633832d61d501191bba04"
+      },
+      {
+        "name": "股票名称校正记录.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-01-09_XSFwu5KOo5Y/股票名称校正记录.csv",
+        "sha256": "ddf2e30b90bfca45ceb9bf73f57c5e5dc50e60f3f1a709c6811bf1275988e0b3"
+      },
+      {
+        "name": "切分索引.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-01-09_XSFwu5KOo5Y/切分索引.csv",
+        "sha256": "8fccadcd8dc5eac89c336e037449af315fa7eba2f46098a4981975cfc5ace39c"
+      },
+      {
+        "name": "试跑结果.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-01-09_XSFwu5KOo5Y/试跑结果.txt",
+        "sha256": "51fe3a2982225bebadfc12f3475d5de7da1bedbde0f0c196ee996563dd077b39"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-20",
+    "stream_id": "sH-gxN2M6iw",
+    "title": "A股盘中直播（3月20日早 北京时间）",
+    "files": [
+      {
+        "name": "研究文本_切分版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-03-20_sH-gxN2M6iw/研究文本_切分版.txt",
+        "sha256": "b58948d27a3bf0f97708d75c7b6ac10c2e64889c4d96f107ae2be1eaa598a065"
+      },
+      {
+        "name": "学员个股快评.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-03-20_sH-gxN2M6iw/学员个股快评.txt",
+        "sha256": "3489dff46e3c0207aa78c0419c37745c22f74dd7e125d77e8af48ad1542d251c"
+      },
+      {
+        "name": "全文_带时间_股票名校正版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-03-20_sH-gxN2M6iw/全文_带时间_股票名校正版.txt",
+        "sha256": "374333a50c1029ed515fc14d770e0cbd07766f7281d4d20cf101005ad1821801"
+      },
+      {
+        "name": "全文_带时间.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-03-20_sH-gxN2M6iw/全文_带时间.txt",
+        "sha256": "eff5758e111dc20d9e9114f214233068f9ed08b76b84c87272693a60813c38c9"
+      },
+      {
+        "name": "股票名称校正记录.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-03-20_sH-gxN2M6iw/股票名称校正记录.csv",
+        "sha256": "5afd958c783190f7a0fb9e302af85d7858ae3a8266181b8f311c04c754fe3725"
+      },
+      {
+        "name": "切分索引.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-03-20_sH-gxN2M6iw/切分索引.csv",
+        "sha256": "852932795e9af6de6bbdd07a6a6c3cedeb8dcb263cf9df1d9424f0306dd55b8b"
+      },
+      {
+        "name": "试跑结果.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-03-20_sH-gxN2M6iw/试跑结果.txt",
+        "sha256": "9b321db7969b1df70e8ea939887ccac18de9cb05725bfdcad703e4c536b9b322"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-31",
+    "stream_id": "B8xkN2kibxM",
+    "title": "老川怂了想撤退，A股盘中选股博反弹（3月31日早10点 北京时间）",
+    "files": [
+      {
+        "name": "研究文本_切分版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-03-31_B8xkN2kibxM/研究文本_切分版.txt",
+        "sha256": "c5dbac7a4e4111f3ad58339035976ab5576520212e0df139e17d5d4fb9cb85ab"
+      },
+      {
+        "name": "学员个股快评.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-03-31_B8xkN2kibxM/学员个股快评.txt",
+        "sha256": "dfb7fa3f4aa2885bf81c0ab40c6c2126880f23983a9427e927caa07b811e63a0"
+      },
+      {
+        "name": "全文_带时间_股票名校正版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-03-31_B8xkN2kibxM/全文_带时间_股票名校正版.txt",
+        "sha256": "94b7a69125c72f40d44f8dbb0b1f88032e9009c5eeaee3adaeaa477caac05bb0"
+      },
+      {
+        "name": "全文_带时间.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-03-31_B8xkN2kibxM/全文_带时间.txt",
+        "sha256": "932721c9cb6d27786155a54b0894a89c470d523dc842adc120df8dcab22d7835"
+      },
+      {
+        "name": "股票名称校正记录.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-03-31_B8xkN2kibxM/股票名称校正记录.csv",
+        "sha256": "20098b6d3c84b1547cf3a6b8f608c99824bcd921deb32230acee24b0bd7b9de5"
+      },
+      {
+        "name": "切分索引.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-03-31_B8xkN2kibxM/切分索引.csv",
+        "sha256": "8b09b745253eaa33fe86ad8fd96c0fbc56c56e75950e514121966ce13fa1f7d5"
+      },
+      {
+        "name": "试跑结果.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-03-31_B8xkN2kibxM/试跑结果.txt",
+        "sha256": "5a1a608bb21800bd822b9d31909c6e85de0d8ac7f9c8c2cfe3b9073b806bf9c0"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-13",
+    "stream_id": "l6qVt1gAIuk",
+    "title": "震荡！震荡！ 震荡！ （4月13日早9:00点 北京时间）",
+    "files": [
+      {
+        "name": "研究文本_切分版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-04-13_l6qVt1gAIuk/研究文本_切分版.txt",
+        "sha256": "4b1435ce8aaf66b03fc7ed152540090a6fb99b12ea61b213078f4959d37594ef"
+      },
+      {
+        "name": "学员个股快评.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-04-13_l6qVt1gAIuk/学员个股快评.txt",
+        "sha256": "33101a26951db119999acd490e0ce72c71a36382b6277c23a0aac9b1c73dc27a"
+      },
+      {
+        "name": "全文_带时间_股票名校正版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-04-13_l6qVt1gAIuk/全文_带时间_股票名校正版.txt",
+        "sha256": "e3a08ae0f9495655786946b0eb8b88ed14e29c91ab64efe9ce49cceb4c6d8ef5"
+      },
+      {
+        "name": "全文_带时间.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-04-13_l6qVt1gAIuk/全文_带时间.txt",
+        "sha256": "38d15b9f430ef484aea13b3feba3687a6ae8a06f65163c27084bf80bdf34b4cf"
+      },
+      {
+        "name": "股票名称校正记录.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-04-13_l6qVt1gAIuk/股票名称校正记录.csv",
+        "sha256": "9c9510d48510d11190c89a30fff4ee6d688db767f0e1ef05793f3f60fdb9929a"
+      },
+      {
+        "name": "切分索引.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-04-13_l6qVt1gAIuk/切分索引.csv",
+        "sha256": "3c4f5c2814feaee45dc5533c4f09f6fd77458c9400628e3cbd9fb644f2bf1000"
+      },
+      {
+        "name": "试跑结果.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-04-13_l6qVt1gAIuk/试跑结果.txt",
+        "sha256": "520a732b1fc03019f44ac0f6a99e35115797fc7d98169c7fd16026989aef13ff"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-10",
+    "stream_id": "0sDh6RgtVR0",
+    "title": "A股盘中直播 题材为王 （6月10日早9:42点 北京时间）",
+    "files": [
+      {
+        "name": "研究文本_切分版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-06-10_0sDh6RgtVR0/研究文本_切分版.txt",
+        "sha256": "b06f0c2364003b4b0602c5547f78c816831f248b117ae9753b72edcfd3b71af1"
+      },
+      {
+        "name": "学员个股快评.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-06-10_0sDh6RgtVR0/学员个股快评.txt",
+        "sha256": "5dcd73940f24d9d35d2df98e771e0b700280c13ac4c5b07a0f1bc7a3d906a097"
+      },
+      {
+        "name": "全文_带时间_股票名校正版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-06-10_0sDh6RgtVR0/全文_带时间_股票名校正版.txt",
+        "sha256": "4d8f65d137b98462fbd6843db8c652ea971ec6676af12bdd99d116a06fdf21fb"
+      },
+      {
+        "name": "全文_带时间.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-06-10_0sDh6RgtVR0/全文_带时间.txt",
+        "sha256": "6ea55f94f3fe1cd6f7f76c6f15f60fad286cd56adc4373f8d3b9418f2c290669"
+      },
+      {
+        "name": "股票名称校正记录.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-06-10_0sDh6RgtVR0/股票名称校正记录.csv",
+        "sha256": "8904271f71d31fd113a888d0645110fe0f00f6c55de06ca486253866150e00c9"
+      },
+      {
+        "name": "切分索引.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-06-10_0sDh6RgtVR0/切分索引.csv",
+        "sha256": "10b6ce00cc1b0d2195daf818a57e83f9a7aac80c7b8710319fdc6c29e086663d"
+      },
+      {
+        "name": "试跑结果.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-06-10_0sDh6RgtVR0/试跑结果.txt",
+        "sha256": "8872f50ac2158c86fe14a09502788dc07ba28e54624540ffd93a7c077f3ff6d7"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-29",
+    "stream_id": "MonICnSdMwU",
+    "title": "一人苦，不如一起苦 ;) A股一起看盘（7月29日 上午9:30点 ）",
+    "files": [
+      {
+        "name": "研究文本_切分版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-07-29_MonICnSdMwU/研究文本_切分版.txt",
+        "sha256": "6a320b96987a54d6feda0faec3412baed0c63b798abed87ca315bf7fb4d09fc9"
+      },
+      {
+        "name": "学员个股快评.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-07-29_MonICnSdMwU/学员个股快评.txt",
+        "sha256": "290045d04200acc1ab4e03d5cf9f1df61b2468eec12913608358a19e5ccaa9fc"
+      },
+      {
+        "name": "全文_带时间_股票名校正版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-07-29_MonICnSdMwU/全文_带时间_股票名校正版.txt",
+        "sha256": "d2f33344e3f27e491d79cba69b029928ec0a220e2811a1bbb3a1cf863bcd0681"
+      },
+      {
+        "name": "全文_带时间.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-07-29_MonICnSdMwU/全文_带时间.txt",
+        "sha256": "dcac3e3f47e0c0ecad874fb2ff4851a6673d1c95edd12487980fb5fbe723892e"
+      },
+      {
+        "name": "股票名称校正记录.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-07-29_MonICnSdMwU/股票名称校正记录.csv",
+        "sha256": "72f59f30ed78a2650f77a32215fb5f64d89cde8c72af601ba188155a7999040f"
+      },
+      {
+        "name": "切分索引.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-07-29_MonICnSdMwU/切分索引.csv",
+        "sha256": "f5afbb819fb9800641afc66f6e5bf5858e154e64638944df11158a01585c54e3"
+      },
+      {
+        "name": "试跑结果.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-07-29_MonICnSdMwU/试跑结果.txt",
+        "sha256": "94c567f79fbaf9c44e712314ccc2ade5b468d7119180404d0d4c703d15681360"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-30",
+    "stream_id": "2PoupEXV2WA",
+    "title": "继续A股一起看盘（7月30日 上午9:20点 ）",
+    "files": [
+      {
+        "name": "研究文本_切分版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-07-30_2PoupEXV2WA/研究文本_切分版.txt",
+        "sha256": "221ad233e955f43dd55c01a93b737920b60c5fb764773102a08ceb814df46733"
+      },
+      {
+        "name": "学员个股快评.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-07-30_2PoupEXV2WA/学员个股快评.txt",
+        "sha256": "9c58544d020d4e4eaefbb288ef587169be9ed4333a9f5cec63381812f64aa528"
+      },
+      {
+        "name": "全文_带时间_股票名校正版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-07-30_2PoupEXV2WA/全文_带时间_股票名校正版.txt",
+        "sha256": "9f06418036496182b11ab709f409665f0bc08b61ec807b2373c95ae5c8121d2e"
+      },
+      {
+        "name": "全文_带时间.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-07-30_2PoupEXV2WA/全文_带时间.txt",
+        "sha256": "15deadfcf919533e1801a0fc21baff2a8dab6a29e3cd7fc6057272d770b4d091"
+      },
+      {
+        "name": "股票名称校正记录.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-07-30_2PoupEXV2WA/股票名称校正记录.csv",
+        "sha256": "0a8792cee3d8262ef4798b1fe8e9cff054f19d0f555f210fa1e9ebae43269b98"
+      },
+      {
+        "name": "切分索引.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-07-30_2PoupEXV2WA/切分索引.csv",
+        "sha256": "639161fd5dd9d1d93b0720023c4999295e034413594d52a17df81e65a7feac74"
+      },
+      {
+        "name": "试跑结果.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-07-30_2PoupEXV2WA/试跑结果.txt",
+        "sha256": "92257268df62ff9a66535a43b301cf9deefb320f7f8cac1b71faee3c4517e692"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-31",
+    "stream_id": "hJ9pvgAY4qg",
+    "title": "柳暗花明 A股盘中看盘（7月31日 上午9:20点 ）",
+    "files": [
+      {
+        "name": "研究文本_切分版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-07-31_hJ9pvgAY4qg/研究文本_切分版.txt",
+        "sha256": "f0b0a07e1732cc1fed08c2b09abadeb952de85c50de4fb7a476d4848cfc90cea"
+      },
+      {
+        "name": "学员个股快评.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-07-31_hJ9pvgAY4qg/学员个股快评.txt",
+        "sha256": "cff51478e0975673439343555ad1244e7157b1ac2584e46b0f055f25ad5bea30"
+      },
+      {
+        "name": "全文_带时间_股票名校正版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-07-31_hJ9pvgAY4qg/全文_带时间_股票名校正版.txt",
+        "sha256": "2296b0a4c6eefd209c9feb0c414c3114c9802dc15bb651d32093e2b138e32c0c"
+      },
+      {
+        "name": "全文_带时间.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-07-31_hJ9pvgAY4qg/全文_带时间.txt",
+        "sha256": "eccfd73ac939405215164b6c505bc6f3ff950491b7e307a83752f5588631e8ea"
+      },
+      {
+        "name": "股票名称校正记录.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-07-31_hJ9pvgAY4qg/股票名称校正记录.csv",
+        "sha256": "fa466b4a7bfbd7f59730e0c30d56205d4692f3ae9203ad557eb7654f72fe0168"
+      },
+      {
+        "name": "切分索引.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-07-31_hJ9pvgAY4qg/切分索引.csv",
+        "sha256": "a2c6b4dc45b199dd3853c57ecaead0fae0aa1e915ec13db89e312ce75b1c62f1"
+      },
+      {
+        "name": "试跑结果.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-07-31_hJ9pvgAY4qg/试跑结果.txt",
+        "sha256": "0cd5a04d9e49c1f1c5f2a98efa604afe495982b4bd7afadc2ea0a9d05c6dc2dd"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-04",
+    "stream_id": "-9HY0rxruC0",
+    "title": "A股盘中看盘（8月4日 上午09:20点 北京时间）",
+    "files": [
+      {
+        "name": "研究文本_切分版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_pilot_20261004_0804/研究文本_切分版.txt",
+        "sha256": "889e58f9ba45081659fab19fedc7816d6cecc44b0f071007baf1b3f4b97a1999"
+      },
+      {
+        "name": "学员个股快评.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_pilot_20261004_0804/学员个股快评.txt",
+        "sha256": "92016d3114dd1a58a796e149b6f9d84abf44c657c691e43be55c2f4a579fcdac"
+      },
+      {
+        "name": "全文_带时间_股票名校正版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_pilot_20261004_0804/全文_带时间_股票名校正版.txt",
+        "sha256": "4c73d3a32af18b63b2e343bdf31b008e7dddfcc69a7d9010d3111a10bd626b82"
+      },
+      {
+        "name": "全文_带时间.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_pilot_20261004_0804/全文_带时间.txt",
+        "sha256": "4dc07e637dcc8ce8f9f15f37ba2624e57b5419652c6e4a9a399ca6d3a75fab38"
+      },
+      {
+        "name": "股票名称校正记录.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_pilot_20261004_0804/股票名称校正记录.csv",
+        "sha256": "9bd07f86d0521f47d6e0313b3f8bdddaf231f691078e27e3104b81f90d5bcc00"
+      },
+      {
+        "name": "切分索引.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_pilot_20261004_0804/切分索引.csv",
+        "sha256": "01af1677530f927c170092176aa6640714c5de5f4808418fbfee26c9189ad901"
+      },
+      {
+        "name": "试跑结果.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_pilot_20261004_0804/试跑结果.txt",
+        "sha256": "fbbdaf46759358151eeb7d3573007ed24cd97e51fe94423b5c79c86b07221bc4"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-05",
+    "stream_id": "69zkfFusgM8",
+    "title": "A股盘中看盘 持续盈利（8月5日 上午09:20点 北京时间）",
+    "files": [
+      {
+        "name": "研究文本_切分版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-05_69zkfFusgM8/研究文本_切分版.txt",
+        "sha256": "91d562a1828556fd4c2864bd380f505051d93e4056a6af481c0946fb713a589d"
+      },
+      {
+        "name": "学员个股快评.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-05_69zkfFusgM8/学员个股快评.txt",
+        "sha256": "c2a9060885f78dc5027298ba2151dd2e9942da507d77c5837e8ba12abec6fc66"
+      },
+      {
+        "name": "全文_带时间_股票名校正版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-05_69zkfFusgM8/全文_带时间_股票名校正版.txt",
+        "sha256": "f4c3274821cd26013eb37920dcf522fc58cf6b0eb8721ed7c3e362ef2e6a18f4"
+      },
+      {
+        "name": "全文_带时间.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-05_69zkfFusgM8/全文_带时间.txt",
+        "sha256": "a2f5a26b387e57bba7e4e536bfcef2fcd1ad7f3d158c2cbdef472244d6283c70"
+      },
+      {
+        "name": "股票名称校正记录.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-05_69zkfFusgM8/股票名称校正记录.csv",
+        "sha256": "4cc53e4be185f6d7749a21bd6521f261bea9afb771ecf496f9f4dfd456790d6e"
+      },
+      {
+        "name": "切分索引.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-05_69zkfFusgM8/切分索引.csv",
+        "sha256": "e76b3530040cef42f4fbd9adb311ed9d3a1406ee95585cda3be75c35aaed49be"
+      },
+      {
+        "name": "试跑结果.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-05_69zkfFusgM8/试跑结果.txt",
+        "sha256": "eb5e6b139238c2726ca8a6241b1775473a72c958165e921e3a72f16c8ef88b71"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-06",
+    "stream_id": "11uEocTvLcU",
+    "title": "A股盘中看盘 （8月6日 上午09:20点 北京时间）",
+    "files": [
+      {
+        "name": "研究文本_切分版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-06_11uEocTvLcU/研究文本_切分版.txt",
+        "sha256": "6001aa3048a4a3ebdeca412834fcdbc2365722d648b8f488e03a3d2be40a6f4b"
+      },
+      {
+        "name": "学员个股快评.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-06_11uEocTvLcU/学员个股快评.txt",
+        "sha256": "821cf1de607f4cfea30e2a240391295d55dee141d12b5079ad376df9df74fcae"
+      },
+      {
+        "name": "全文_带时间_股票名校正版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-06_11uEocTvLcU/全文_带时间_股票名校正版.txt",
+        "sha256": "c99398ae9319e0568c223148c45af787d00639deecb6fc1ab9d88ae80bf0902f"
+      },
+      {
+        "name": "全文_带时间.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-06_11uEocTvLcU/全文_带时间.txt",
+        "sha256": "18838cc8e2e132ac66035d7a45f60b9761dd24eb815870d921a66388f1a9ac56"
+      },
+      {
+        "name": "股票名称校正记录.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-06_11uEocTvLcU/股票名称校正记录.csv",
+        "sha256": "33c7c1b6dbaaf6a334aae5fe3256f017e36bb54ad07de2c9e28cce5b1eed48f7"
+      },
+      {
+        "name": "切分索引.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-06_11uEocTvLcU/切分索引.csv",
+        "sha256": "6564b4694af8b59b7bfc970d9821e15f0c0afedd4cecc30794de0f5876d460dd"
+      },
+      {
+        "name": "试跑结果.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-06_11uEocTvLcU/试跑结果.txt",
+        "sha256": "9800c5e298ad03adeac9e4107179fe13ce41a94cf5beafc71d7315fc273c0d34"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-07",
+    "stream_id": "2r7MxJs-Lz0",
+    "title": "A股盘中看盘 （8月7日 上午09:20点 北京时间）",
+    "files": [
+      {
+        "name": "研究文本_切分版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-07_2r7MxJs-Lz0/研究文本_切分版.txt",
+        "sha256": "559e1c734f7db94fd194d3df679ee58e12696c8cb7c5ffe985a6e940871087e5"
+      },
+      {
+        "name": "学员个股快评.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-07_2r7MxJs-Lz0/学员个股快评.txt",
+        "sha256": "64c620ef75577a93a7d43f70446a0dff6d1e7601ed0e66eb4f5bb1627945f0b0"
+      },
+      {
+        "name": "全文_带时间_股票名校正版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-07_2r7MxJs-Lz0/全文_带时间_股票名校正版.txt",
+        "sha256": "e5fa333b8475d121739a6c4d28e1da568e9b00a2e7e0b038f4c89cd527118a05"
+      },
+      {
+        "name": "全文_带时间.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-07_2r7MxJs-Lz0/全文_带时间.txt",
+        "sha256": "c86c300fe4783b44353b57e6be3d47e8b393d4a85730623d2bf07efe76b46d6c"
+      },
+      {
+        "name": "股票名称校正记录.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-07_2r7MxJs-Lz0/股票名称校正记录.csv",
+        "sha256": "3039c5f66331a9c763cef0556e6132487943406b4160462dee672b63d2aee419"
+      },
+      {
+        "name": "切分索引.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-07_2r7MxJs-Lz0/切分索引.csv",
+        "sha256": "47bfb2245fd5b1a67c5272bf11f00ab074fbf35ce7dd3fa047be3f25adc3665a"
+      },
+      {
+        "name": "试跑结果.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-07_2r7MxJs-Lz0/试跑结果.txt",
+        "sha256": "88bed160665dfe3e4ff9cd735d3439a973dba4345c5abd3e6450d91a33f37751"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-11",
+    "stream_id": "S2M4McjjaaA",
+    "title": "今天估计没行情（8月11日 晚上09:30点 北京时间）",
+    "files": [
+      {
+        "name": "研究文本_切分版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-11_S2M4McjjaaA/研究文本_切分版.txt",
+        "sha256": "64a48047112b13e58b20031a3512dfc17f74e38b5a55b1fabf85e46a42f637c2"
+      },
+      {
+        "name": "学员个股快评.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-11_S2M4McjjaaA/学员个股快评.txt",
+        "sha256": "d009a3c164f3027c705f3bcb5873b1166e54b98ee41649edc6e8ecf4ce54f786"
+      },
+      {
+        "name": "全文_带时间_股票名校正版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-11_S2M4McjjaaA/全文_带时间_股票名校正版.txt",
+        "sha256": "9f9023246a8cdfd5f4de6a466f159ef460115a81d9062e111e218d2ac7f2181b"
+      },
+      {
+        "name": "全文_带时间.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-11_S2M4McjjaaA/全文_带时间.txt",
+        "sha256": "1f6a213e22440566b92d195fe3fc253153336fd92fff8005afe020693198be8c"
+      },
+      {
+        "name": "股票名称校正记录.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-11_S2M4McjjaaA/股票名称校正记录.csv",
+        "sha256": "32f1693d51d0784bd3d05f131d88681c1be4c9ead4f89c66581fef2c2b0a0078"
+      },
+      {
+        "name": "切分索引.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-11_S2M4McjjaaA/切分索引.csv",
+        "sha256": "05c6dfffb22c4a15b42b55900c07c54f97ebca2587f856b9bb46991ee7e092a5"
+      },
+      {
+        "name": "试跑结果.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-11_S2M4McjjaaA/试跑结果.txt",
+        "sha256": "0ba5c251d7fb9b070d0595040ba68ac57c4d2a73f996bf81599357d3a01e80fe"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-12",
+    "stream_id": "EC_gdo1osts",
+    "title": "A原以为没有行情，没想到10:19分成经典 （8月12日 早上09:30点 北京时间）",
+    "files": [
+      {
+        "name": "研究文本_切分版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-12_EC_gdo1osts/研究文本_切分版.txt",
+        "sha256": "f1c335a025e058f6336350d50d76d9009acb8693ed4f2ad9ad797262cf3f1d1e"
+      },
+      {
+        "name": "学员个股快评.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-12_EC_gdo1osts/学员个股快评.txt",
+        "sha256": "f0bec4857c95132a8be86e84539ffd56b4a7a51c859b308b3b8713fca66e7505"
+      },
+      {
+        "name": "全文_带时间_股票名校正版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-12_EC_gdo1osts/全文_带时间_股票名校正版.txt",
+        "sha256": "d9db84700d334c3af5272313abd6d5316986b258632854d759d7e512364ad844"
+      },
+      {
+        "name": "全文_带时间.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-12_EC_gdo1osts/全文_带时间.txt",
+        "sha256": "a5e7c18dc7c3c3b572d04d8317459639abc27d6952c82ae0ca59a82b2c06a1fe"
+      },
+      {
+        "name": "股票名称校正记录.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-12_EC_gdo1osts/股票名称校正记录.csv",
+        "sha256": "ce5d436b950323d627a833562f22c9f3d77083fd2bfdca188fd4432a812be882"
+      },
+      {
+        "name": "切分索引.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-12_EC_gdo1osts/切分索引.csv",
+        "sha256": "2c1ea98cbe78464b73b5a3eabdc587c7ae9833b5fa0673cf2b460a0320a4f210"
+      },
+      {
+        "name": "试跑结果.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-12_EC_gdo1osts/试跑结果.txt",
+        "sha256": "d2a200a4fd9f674cf0b75ada03bafdae03f32910a16f84de22a122f5903ecf92"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "stream_id": "U15sH8So7PA",
+    "title": "A股正常看盘 （8月13日 早上09:30点 北京时间）",
+    "files": [
+      {
+        "name": "研究文本_切分版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-13_U15sH8So7PA/研究文本_切分版.txt",
+        "sha256": "99d56c7070a714ccd32a87a9be245e073b43be7fb2c5baac02abc48c76ab2d4c"
+      },
+      {
+        "name": "学员个股快评.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-13_U15sH8So7PA/学员个股快评.txt",
+        "sha256": "bc92e6af95846b3a2e1c0e051c5abf9b2fbbf7efb1dbb84cb144297eaa1d6dfe"
+      },
+      {
+        "name": "全文_带时间_股票名校正版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-13_U15sH8So7PA/全文_带时间_股票名校正版.txt",
+        "sha256": "5851abccd656a65f3480f0e2056fc3ed300688e69dd8418e1b36230757e2c479"
+      },
+      {
+        "name": "全文_带时间.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-13_U15sH8So7PA/全文_带时间.txt",
+        "sha256": "6f69129f4496df89f291e7fafe6840741e46bb922c588bd08c8450325cae9950"
+      },
+      {
+        "name": "股票名称校正记录.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-13_U15sH8So7PA/股票名称校正记录.csv",
+        "sha256": "7b12f641ecc9615c3253d501d2cbae3d3b96abc9cda0589b2c805d2fc9148958"
+      },
+      {
+        "name": "切分索引.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-13_U15sH8So7PA/切分索引.csv",
+        "sha256": "83a551eccf821c2ffc4040b1ba7f8fee077a32d21251f8e3cc94793bccfec73f"
+      },
+      {
+        "name": "试跑结果.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-13_U15sH8So7PA/试跑结果.txt",
+        "sha256": "b16e2866be81c7fe8b2da8876fc0113df50d4c9f43091b7e3ade5df13ebe09b9"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-14",
+    "stream_id": "TYWWyMSc4t0",
+    "title": "A股正常看盘 （8月14日 早上09:15点 北京时间）",
+    "files": [
+      {
+        "name": "研究文本_切分版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-14_TYWWyMSc4t0/研究文本_切分版.txt",
+        "sha256": "1d5565cb0bb271aac5ecfe8fc985c279ccdf229ddaac500f1fab4c17628d9115"
+      },
+      {
+        "name": "学员个股快评.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-14_TYWWyMSc4t0/学员个股快评.txt",
+        "sha256": "da1453e69f5e8db22dbd7129fde602aaf3f72ad1b91ab26e6f5a26a920b7b40a"
+      },
+      {
+        "name": "全文_带时间_股票名校正版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-14_TYWWyMSc4t0/全文_带时间_股票名校正版.txt",
+        "sha256": "11d5ba8b217fbe1ef34604c7769e73464d8165f6d777cc85f265fb186d71c9ac"
+      },
+      {
+        "name": "全文_带时间.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-14_TYWWyMSc4t0/全文_带时间.txt",
+        "sha256": "e28c2f73a8bd12fe795e301bc47dc9a6fffa14889271762ea97defacc6001cb0"
+      },
+      {
+        "name": "股票名称校正记录.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-14_TYWWyMSc4t0/股票名称校正记录.csv",
+        "sha256": "4e4f47c36961487b4a225d047d095245cb4dbaa71f4612d12035c25d9b81ff80"
+      },
+      {
+        "name": "切分索引.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-14_TYWWyMSc4t0/切分索引.csv",
+        "sha256": "295bef740c60ce7088952b834fd107fe1485b5b77bd35657e260607ea71f4c5a"
+      },
+      {
+        "name": "试跑结果.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-14_TYWWyMSc4t0/试跑结果.txt",
+        "sha256": "bb6d5b124d84ce5616846582ee58d5f051a91cfdb6371c0203754b43c518c898"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-19",
+    "stream_id": "vzoh9dRVuUU",
+    "title": "A股正常看盘 （8月19日 早上09:15点 北京时间）",
+    "files": [
+      {
+        "name": "研究文本_切分版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-19_vzoh9dRVuUU/研究文本_切分版.txt",
+        "sha256": "ff0d83ae799d5ee8e7f5dcea7e867ba74dd511496a1c7d68b4a182b362510eb0"
+      },
+      {
+        "name": "学员个股快评.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-19_vzoh9dRVuUU/学员个股快评.txt",
+        "sha256": "85114919bf47e2c518e92d83b3465c32e2289722c40529833c7ad43c678b43ce"
+      },
+      {
+        "name": "全文_带时间_股票名校正版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-19_vzoh9dRVuUU/全文_带时间_股票名校正版.txt",
+        "sha256": "b00cebcbb80d143773cb0ca424b78d84b05b66b91f35e86342db134a473da0f6"
+      },
+      {
+        "name": "全文_带时间.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-19_vzoh9dRVuUU/全文_带时间.txt",
+        "sha256": "3b6c8ef55ad0abd773c478948b91af31c255df809b708544839c1356d323eeae"
+      },
+      {
+        "name": "股票名称校正记录.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-19_vzoh9dRVuUU/股票名称校正记录.csv",
+        "sha256": "7eb31fdece3fa7761a369c1b5e04936882ed090de0856b24be6f6f56a55307c3"
+      },
+      {
+        "name": "切分索引.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-19_vzoh9dRVuUU/切分索引.csv",
+        "sha256": "457dcfd741e0c557f199c1f7819b433ddd8a47291907544ff6e33a933e1fc461"
+      },
+      {
+        "name": "试跑结果.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-19_vzoh9dRVuUU/试跑结果.txt",
+        "sha256": "8798360ef3c33430d0442b623253b5ce7bfc623ad7caa0b5aef7b966f843205e"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-20",
+    "stream_id": "Xb9Zns7PFW0",
+    "title": "A股重仓股又涨停回来了！ （8月20日 早上09:15点 北京时间）",
+    "files": [
+      {
+        "name": "研究文本_切分版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-20_Xb9Zns7PFW0/研究文本_切分版.txt",
+        "sha256": "01bcf34a102780346f7244a774a295f986a69340e8a9e7c468387e45e6fa90bd"
+      },
+      {
+        "name": "学员个股快评.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-20_Xb9Zns7PFW0/学员个股快评.txt",
+        "sha256": "1511b736a86f4a0e03e5c08d4abb1c97f174e535a9be76bde54637f7345221e0"
+      },
+      {
+        "name": "全文_带时间_股票名校正版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-20_Xb9Zns7PFW0/全文_带时间_股票名校正版.txt",
+        "sha256": "2543738cca9cf3c7ba457a3cf5b0d4b75568f2b5fe7add60db7b2a90ee6771d5"
+      },
+      {
+        "name": "全文_带时间.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-20_Xb9Zns7PFW0/全文_带时间.txt",
+        "sha256": "ff026b1eb0da6ed3cc91cf432bb17f97c43765d0d66e322d65ceaf949f05c1dc"
+      },
+      {
+        "name": "股票名称校正记录.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-20_Xb9Zns7PFW0/股票名称校正记录.csv",
+        "sha256": "26befb06ad378fc9b0075c4ee37958d50a4b4ef4296ac9cac5804cdab0bad90c"
+      },
+      {
+        "name": "切分索引.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-20_Xb9Zns7PFW0/切分索引.csv",
+        "sha256": "645600f833b060cdc69441b2c23d9f02c603773e02735a87b9421cfc2c43e93e"
+      },
+      {
+        "name": "试跑结果.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-20_Xb9Zns7PFW0/试跑结果.txt",
+        "sha256": "7149a645687f9755b825a4cd04b72931c3975c983fe4cbce412a0d46556127f9"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-26",
+    "stream_id": "6LMNw-7qaM0",
+    "title": "A股看盘直播 （8月26日 早上9:15点 北京时间）",
+    "files": [
+      {
+        "name": "研究文本_切分版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-26_6LMNw-7qaM0/研究文本_切分版.txt",
+        "sha256": "fc04999060fe16ba6272c03ec5409fa9008fb3190efe3350db8f83a9b06338d3"
+      },
+      {
+        "name": "学员个股快评.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-26_6LMNw-7qaM0/学员个股快评.txt",
+        "sha256": "465716bf681d1d1f8b02e57696d7d978dcacb94c637f408df6ffcf8893fa2093"
+      },
+      {
+        "name": "全文_带时间_股票名校正版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-26_6LMNw-7qaM0/全文_带时间_股票名校正版.txt",
+        "sha256": "11a8d13e4399d69ffac09a90d9537172778f54744c540e9bd5437cf08be789c0"
+      },
+      {
+        "name": "全文_带时间.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-26_6LMNw-7qaM0/全文_带时间.txt",
+        "sha256": "adbde43d156fcde8bbece3c1f1e946fb0ac33f70fe2ac075975bb43c3a1e804b"
+      },
+      {
+        "name": "股票名称校正记录.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-26_6LMNw-7qaM0/股票名称校正记录.csv",
+        "sha256": "da783e4fb7b76899ce0ad2ac759c96ba323937213c328d2d6e53dda56c37b4ce"
+      },
+      {
+        "name": "切分索引.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-26_6LMNw-7qaM0/切分索引.csv",
+        "sha256": "75686d518f20fd5e20bf8551ac623827fc2c4ef68c4a0901edd11587888c91b7"
+      },
+      {
+        "name": "试跑结果.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-08-26_6LMNw-7qaM0/试跑结果.txt",
+        "sha256": "0605fa3e82a0311c6595aef47361538f6f82e6c4b132cfd4753ce457b6e519b4"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-02",
+    "stream_id": "cpIxmR2ryic",
+    "title": "A股无聊，看盘直播 （9月2日 早上9:15点 北京时间）",
+    "files": [
+      {
+        "name": "研究文本_切分版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-09-02_cpIxmR2ryic/研究文本_切分版.txt",
+        "sha256": "b6bd54664931b9eab71dd225c6ab1f8a7970a6d87eb99e93dd5d1d7858970b62"
+      },
+      {
+        "name": "学员个股快评.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-09-02_cpIxmR2ryic/学员个股快评.txt",
+        "sha256": "7a6bdd2b92bae6852c0be2f12fb6a0695b8e851ede1e355a31fece5a35dffa7f"
+      },
+      {
+        "name": "全文_带时间_股票名校正版.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-09-02_cpIxmR2ryic/全文_带时间_股票名校正版.txt",
+        "sha256": "eae7e6b85f1d3c6cef2fb8e2ae26b94a104a9acf1e9d0d826a4fecf1734dc94d"
+      },
+      {
+        "name": "全文_带时间.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-09-02_cpIxmR2ryic/全文_带时间.txt",
+        "sha256": "7f4f7b472d8bc5b4bf984a113be29909a84a739b8216a535711f871a971c6dfd"
+      },
+      {
+        "name": "股票名称校正记录.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-09-02_cpIxmR2ryic/股票名称校正记录.csv",
+        "sha256": "edebe279cf072e7326fb1b46339580df83032aa431a63752981cc5b2b45c19a3"
+      },
+      {
+        "name": "切分索引.csv",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-09-02_cpIxmR2ryic/切分索引.csv",
+        "sha256": "60abe266acf1f72e16da2a796624169a5ef0ca60ca34ec585d31c569148d4ee7"
+      },
+      {
+        "name": "试跑结果.txt",
+        "path": "harrywu/transcripts/ledger_2026_v0.1/text_priority_batch_20261005/2026-09-02_cpIxmR2ryic/试跑结果.txt",
+        "sha256": "071ac8ac6b4953d8cd4d2efb897ffb42d39c8b5053af75afa9afe426e028389c"
+      }
+    ]
+  }
+]

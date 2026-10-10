@@ -1,0 +1,102 @@
+{
+  "stream_id": "zuo8FhWIdow",
+  "region": [
+    995,
+    19,
+    1125,
+    38
+  ],
+  "upscale": 1,
+  "method": "RapidOCR recognition only, fixed title region",
+  "scope": "Main Tongdaxin title only; not whole-frame OCR",
+  "limitation": "Other layouts, prices, holding tables and clocks require separate OCR/review. No stock identity matching or event classification is done.",
+  "frames": [
+    {
+      "time": 600.0,
+      "frame": "D:\\YuncongVideoAnalysis\\ledger_2026_v0.1\\quality_frames\\zuo8FhWIdow\\frame_00000_000600000.jpg",
+      "frame_sha256": "2997335a5fa3c1896a377f1d519ba8621cc5369192a5bfdbd5df4e5c06057515",
+      "ocr": [
+        {
+          "text": "",
+          "confidence": 0.0,
+          "recognition_region_original_pixels": [
+            [
+              995,
+              19
+            ],
+            [
+              1125,
+              19
+            ],
+            [
+              1125,
+              38
+            ],
+            [
+              995,
+              38
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "time": 3600.0,
+      "frame": "D:\\YuncongVideoAnalysis\\ledger_2026_v0.1\\quality_frames\\zuo8FhWIdow\\frame_00001_003600000.jpg",
+      "frame_sha256": "046b74fabccad0501fdcb2e23e348fbe7aeaec17eb83af2dedee3084948803b3",
+      "ocr": [
+        {
+          "text": "688658悦康药业",
+          "confidence": 0.9458264887332917,
+          "recognition_region_original_pixels": [
+            [
+              995,
+              19
+            ],
+            [
+              1125,
+              19
+            ],
+            [
+              1125,
+              38
+            ],
+            [
+              995,
+              38
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "time": 6600.0,
+      "frame": "D:\\YuncongVideoAnalysis\\ledger_2026_v0.1\\quality_frames\\zuo8FhWIdow\\frame_00002_006600000.jpg",
+      "frame_sha256": "0da85d9dce8119162beb296a5e69790281ed668faf1bf59a561dbe43ed7856f2",
+      "ocr": [
+        {
+          "text": "VSFIO口报价",
+          "confidence": 0.8315333276987076,
+          "recognition_region_original_pixels": [
+            [
+              995,
+              19
+            ],
+            [
+              1125,
+              19
+            ],
+            [
+              1125,
+              38
+            ],
+            [
+              995,
+              38
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

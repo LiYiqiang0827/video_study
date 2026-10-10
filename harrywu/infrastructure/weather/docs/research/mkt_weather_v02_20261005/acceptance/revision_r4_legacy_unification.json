@@ -1,0 +1,227 @@
+{
+  "task_id": "MKT-R4-LEGACY-SOURCECHECK",
+  "model_requested": "gpt-6.1-sol",
+  "effort": "xhigh",
+  "status": "bounded_legacy_sourcecheck_completed_pending_controller_acceptance",
+  "started_at": "2026-10-06T23:29:18.013160+00:00",
+  "commands": [
+    {
+      "name": "existing_f1_synthetic_tests",
+      "argv": [
+        "C:\\Project Rocket\\Codex\\TradingAgent\\.venv\\Scripts\\python.exe",
+        "-m",
+        "pytest",
+        "policyStudy/policy/speculation_sentiment_lite/tests/test_core.py",
+        "policyStudy/policy/speculation_sentiment_lite/tests/test_production.py",
+        "-q",
+        "-p",
+        "no:cacheprovider",
+        "--basetemp",
+        "D:\\ProjectRocketData\\processed\\TradingAgent\\outputs\\market_sentiment\\mkt_weather_v02_20261005_01\\revision_r4\\legacy_tests\\pytest_tmp_20261006T232918006676Z",
+        "--junitxml",
+        "D:\\ProjectRocketData\\processed\\TradingAgent\\outputs\\market_sentiment\\mkt_weather_v02_20261005_01\\revision_r4\\legacy_tests\\pytest_20261006T232918006676Z.xml"
+      ],
+      "powershell_command": "& \"C:\\Project Rocket\\Codex\\TradingAgent\\.venv\\Scripts\\python.exe\" -m pytest policyStudy/policy/speculation_sentiment_lite/tests/test_core.py policyStudy/policy/speculation_sentiment_lite/tests/test_production.py -q -p no:cacheprovider --basetemp D:\\ProjectRocketData\\processed\\TradingAgent\\outputs\\market_sentiment\\mkt_weather_v02_20261005_01\\revision_r4\\legacy_tests\\pytest_tmp_20261006T232918006676Z --junitxml D:\\ProjectRocketData\\processed\\TradingAgent\\outputs\\market_sentiment\\mkt_weather_v02_20261005_01\\revision_r4\\legacy_tests\\pytest_20261006T232918006676Z.xml",
+      "cwd": "C:\\Project Rocket\\worktrees\\tradingagent-claude-mrwu-20261005",
+      "exit_code": 0,
+      "elapsed_seconds": 4.277215100009926,
+      "log": "D:\\ProjectRocketData\\processed\\TradingAgent\\outputs\\market_sentiment\\mkt_weather_v02_20261005_01\\revision_r4\\legacy_tests\\pytest_20261006T232918006676Z.log"
+    }
+  ],
+  "results": {
+    "head": "971af3e8cca3900902ea57988a6b77aa137601ac",
+    "git_status_before": " M policyStudy/policy/market_sentiment/run.py\n?? docs/research/mkt_weather_v02_20261005/METHOD_REVIEW_R4.md\n?? docs/research/mkt_weather_v02_20261005/acceptance/USER_CHANGE_R4.md\n?? docs/research/mkt_weather_v02_20261005/human/private_key/tests/\n?? policyStudy/policy/market_sentiment/review.py\n?? policyStudy/policy/market_sentiment/tests/test_review.py\n",
+    "final_state_sentiment_acceptance": {
+      "published_csv": "C:\\Project Rocket\\worktrees\\tradingagent-claude-mrwu-20261005\\docs\\research\\mrwu_sentiment_cycle_20261005\\data\\sentiment_daily.csv",
+      "recomputed_csv": "D:\\ProjectRocketData\\processed\\data_unify_20261005_01\\recomputed\\sentiment_daily.csv",
+      "published_days": 181,
+      "recomputed_days": 181,
+      "scores_and_grades_exact": true,
+      "differences": [],
+      "comparison": "Decimal equality of score5; literal grade5; exact 2026 date sets; no tolerance"
+    },
+    "synthetic_tests": {
+      "tests": 37,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0,
+      "exit_code": 0,
+      "per_file_collected_cases": {
+        "test_core.py": 13,
+        "test_production.py": 24
+      },
+      "failed_cases": [],
+      "count_basis": "Fresh JUnit testcase instances, including pytest parameter expansions; no invented 114 count",
+      "coverage": [
+        "cycle priority, all phase branches and past-prefix invariance",
+        "missing observations and no bridge across history gaps",
+        "fixed weights, pooled shrinkage, panic boundaries, clipping/endpoints/constant anchors",
+        "frozen cohorts: pauses, missing prices, unusable references and ST changes",
+        "height resets, tied high levels, cents/nominal limit regimes and listing/name boundaries",
+        "physical raw-fixture cutoff and synthetic production CLI without private B0"
+      ],
+      "real_databases_read_or_written": false,
+      "synthetic_sqlite_fixture_writes": "D:\\ProjectRocketData\\processed\\TradingAgent\\outputs\\market_sentiment\\mkt_weather_v02_20261005_01\\revision_r4\\legacy_tests\\pytest_tmp_20261006T232918006676Z"
+    },
+    "independent_181_day_comparison": {
+      "published_total_rows": 181,
+      "recomputed_total_rows": 424,
+      "published_2026_days": 181,
+      "recomputed_2026_days": 181,
+      "aligned_days": 181,
+      "first_date": "2026-01-05",
+      "last_date": "2026-09-30",
+      "dates_unique": true,
+      "date_sets_exact": true,
+      "published_only_dates": [],
+      "recomputed_only_dates": [],
+      "score5_decimal_exact": true,
+      "grade5_literal_exact": true,
+      "differences": [],
+      "comparison": "CSV strings parsed with decimal.Decimal for score5, literal grade5, unique exact 2026 date sets, no tolerance",
+      "elapsed_seconds": 0.028327599982731044
+    },
+    "final_state_claim_consistent_with_independent_check": true,
+    "git_status_after": " M policyStudy/policy/market_sentiment/run.py\n?? docs/research/mkt_weather_v02_20261005/METHOD_REVIEW_R4.md\n?? docs/research/mkt_weather_v02_20261005/acceptance/USER_CHANGE_R4.md\n?? docs/research/mkt_weather_v02_20261005/human/private_key/tests/\n?? policyStudy/policy/market_sentiment/review.py\n?? policyStudy/policy/market_sentiment/tests/test_review.py\n"
+  },
+  "fingerprints": {
+    "before": {
+      "D:\\ProjectRocketData\\processed\\data_unify_20261005_01\\final_state.json": {
+        "sha256": "57b129927968a28cdf3f9fd1fae9104e980fe6f4410cf0fd904bf64f47a5b64d",
+        "bytes": 34478
+      },
+      "D:\\ProjectRocketData\\processed\\data_unify_20261005_01\\recomputed\\sentiment_daily.csv": {
+        "sha256": "8d6e499d6ef752fef11d97a3f31f705651ffd18fb18c94b150202ef9805f44e0",
+        "bytes": 722702
+      },
+      "C:\\Project Rocket\\worktrees\\tradingagent-claude-mrwu-20261005\\docs\\research\\mrwu_sentiment_cycle_20261005\\data\\sentiment_daily.csv": {
+        "sha256": "b903475c1f3698fd08486ee82cb21de04ee103dc097626392a2b5d76b0c1face",
+        "bytes": 307572
+      },
+      "C:\\Project Rocket\\worktrees\\tradingagent-claude-mrwu-20261005\\policyStudy\\policy\\speculation_sentiment_lite\\baseline.py": {
+        "sha256": "a1d89d436cfee46bedf1dd85619a233e54bd8ce327bb9ef6cfb7cb155be35c4e",
+        "bytes": 3418
+      },
+      "C:\\Project Rocket\\worktrees\\tradingagent-claude-mrwu-20261005\\policyStudy\\policy\\speculation_sentiment_lite\\cycle.py": {
+        "sha256": "27a03541b3a4fde16be57b4aa5cedc5c9dde3b14f75235040d25e3ea810092b9",
+        "bytes": 2562
+      },
+      "C:\\Project Rocket\\worktrees\\tradingagent-claude-mrwu-20261005\\policyStudy\\policy\\speculation_sentiment_lite\\production.py": {
+        "sha256": "73a0e4ae9344837811369e9d7bbf07d648968e863a49e2f5c84a54523fa92dd5",
+        "bytes": 44070
+      },
+      "C:\\Project Rocket\\worktrees\\tradingagent-claude-mrwu-20261005\\policyStudy\\policy\\speculation_sentiment_lite\\score.py": {
+        "sha256": "e5d3f22537769be436f14b9ea13358acee12052ef290aa6f7c737551bffaa853",
+        "bytes": 4287
+      },
+      "C:\\Project Rocket\\worktrees\\tradingagent-claude-mrwu-20261005\\policyStudy\\policy\\speculation_sentiment_lite\\theme_export.py": {
+        "sha256": "b9fd6cab654c4556f81df98af1d1f06ab012057c49b43ed5a9a606ffad63e8bf",
+        "bytes": 3147
+      },
+      "C:\\Project Rocket\\worktrees\\tradingagent-claude-mrwu-20261005\\policyStudy\\policy\\speculation_sentiment_lite\\config\\formal_spec.json": {
+        "sha256": "6229cfc9be8f0c0fb794ffe71a28b6edc49f456e82f5fb7d7a211781a298bb42",
+        "bytes": 1300
+      },
+      "C:\\Project Rocket\\worktrees\\tradingagent-claude-mrwu-20261005\\policyStudy\\policy\\speculation_sentiment_lite\\config\\REUSED_CODE.json": {
+        "sha256": "1663fae316398ffc6d942deee6551f82e928db71f7437c824ac94e57962b9600",
+        "bytes": 2659
+      },
+      "C:\\Project Rocket\\worktrees\\tradingagent-claude-mrwu-20261005\\policyStudy\\policy\\speculation_sentiment_lite\\tests\\test_core.py": {
+        "sha256": "f804a9eeee5f826c099cb6adc79ea2a89f4b3ffcda74d4d9bd16f859268ade38",
+        "bytes": 3584
+      },
+      "C:\\Project Rocket\\worktrees\\tradingagent-claude-mrwu-20261005\\policyStudy\\policy\\speculation_sentiment_lite\\tests\\test_production.py": {
+        "sha256": "2707541176a0e6f9db30abe6cdcc14cb8ec6a9028e851a746c99de5b4b910bd7",
+        "bytes": 18729
+      }
+    },
+    "after": {
+      "D:\\ProjectRocketData\\processed\\data_unify_20261005_01\\final_state.json": {
+        "sha256": "57b129927968a28cdf3f9fd1fae9104e980fe6f4410cf0fd904bf64f47a5b64d",
+        "bytes": 34478
+      },
+      "D:\\ProjectRocketData\\processed\\data_unify_20261005_01\\recomputed\\sentiment_daily.csv": {
+        "sha256": "8d6e499d6ef752fef11d97a3f31f705651ffd18fb18c94b150202ef9805f44e0",
+        "bytes": 722702
+      },
+      "C:\\Project Rocket\\worktrees\\tradingagent-claude-mrwu-20261005\\docs\\research\\mrwu_sentiment_cycle_20261005\\data\\sentiment_daily.csv": {
+        "sha256": "b903475c1f3698fd08486ee82cb21de04ee103dc097626392a2b5d76b0c1face",
+        "bytes": 307572
+      },
+      "C:\\Project Rocket\\worktrees\\tradingagent-claude-mrwu-20261005\\policyStudy\\policy\\speculation_sentiment_lite\\baseline.py": {
+        "sha256": "a1d89d436cfee46bedf1dd85619a233e54bd8ce327bb9ef6cfb7cb155be35c4e",
+        "bytes": 3418
+      },
+      "C:\\Project Rocket\\worktrees\\tradingagent-claude-mrwu-20261005\\policyStudy\\policy\\speculation_sentiment_lite\\cycle.py": {
+        "sha256": "27a03541b3a4fde16be57b4aa5cedc5c9dde3b14f75235040d25e3ea810092b9",
+        "bytes": 2562
+      },
+      "C:\\Project Rocket\\worktrees\\tradingagent-claude-mrwu-20261005\\policyStudy\\policy\\speculation_sentiment_lite\\production.py": {
+        "sha256": "73a0e4ae9344837811369e9d7bbf07d648968e863a49e2f5c84a54523fa92dd5",
+        "bytes": 44070
+      },
+      "C:\\Project Rocket\\worktrees\\tradingagent-claude-mrwu-20261005\\policyStudy\\policy\\speculation_sentiment_lite\\score.py": {
+        "sha256": "e5d3f22537769be436f14b9ea13358acee12052ef290aa6f7c737551bffaa853",
+        "bytes": 4287
+      },
+      "C:\\Project Rocket\\worktrees\\tradingagent-claude-mrwu-20261005\\policyStudy\\policy\\speculation_sentiment_lite\\theme_export.py": {
+        "sha256": "b9fd6cab654c4556f81df98af1d1f06ab012057c49b43ed5a9a606ffad63e8bf",
+        "bytes": 3147
+      },
+      "C:\\Project Rocket\\worktrees\\tradingagent-claude-mrwu-20261005\\policyStudy\\policy\\speculation_sentiment_lite\\config\\formal_spec.json": {
+        "sha256": "6229cfc9be8f0c0fb794ffe71a28b6edc49f456e82f5fb7d7a211781a298bb42",
+        "bytes": 1300
+      },
+      "C:\\Project Rocket\\worktrees\\tradingagent-claude-mrwu-20261005\\policyStudy\\policy\\speculation_sentiment_lite\\config\\REUSED_CODE.json": {
+        "sha256": "1663fae316398ffc6d942deee6551f82e928db71f7437c824ac94e57962b9600",
+        "bytes": 2659
+      },
+      "C:\\Project Rocket\\worktrees\\tradingagent-claude-mrwu-20261005\\policyStudy\\policy\\speculation_sentiment_lite\\tests\\test_core.py": {
+        "sha256": "f804a9eeee5f826c099cb6adc79ea2a89f4b3ffcda74d4d9bd16f859268ade38",
+        "bytes": 3584
+      },
+      "C:\\Project Rocket\\worktrees\\tradingagent-claude-mrwu-20261005\\policyStudy\\policy\\speculation_sentiment_lite\\tests\\test_production.py": {
+        "sha256": "2707541176a0e6f9db30abe6cdcc14cb8ec6a9028e851a746c99de5b4b910bd7",
+        "bytes": 18729
+      }
+    },
+    "before_after_equal": true,
+    "file_count": 12
+  },
+  "output_paths": {
+    "result": "D:\\ProjectRocketData\\processed\\TradingAgent\\outputs\\market_sentiment\\mkt_weather_v02_20261005_01\\revision_r4\\r4_legacy_and_unification.json",
+    "temporary_write_root": "D:\\ProjectRocketData\\processed\\TradingAgent\\outputs\\market_sentiment\\mkt_weather_v02_20261005_01\\revision_r4\\legacy_tests",
+    "runner": "D:\\ProjectRocketData\\processed\\TradingAgent\\outputs\\market_sentiment\\mkt_weather_v02_20261005_01\\revision_r4\\legacy_tests\\run_legacy_and_unification.py",
+    "junit": "D:\\ProjectRocketData\\processed\\TradingAgent\\outputs\\market_sentiment\\mkt_weather_v02_20261005_01\\revision_r4\\legacy_tests\\pytest_20261006T232918006676Z.xml",
+    "pytest_log": "D:\\ProjectRocketData\\processed\\TradingAgent\\outputs\\market_sentiment\\mkt_weather_v02_20261005_01\\revision_r4\\legacy_tests\\pytest_20261006T232918006676Z.log",
+    "pytest_basetemp": "D:\\ProjectRocketData\\processed\\TradingAgent\\outputs\\market_sentiment\\mkt_weather_v02_20261005_01\\revision_r4\\legacy_tests\\pytest_tmp_20261006T232918006676Z",
+    "alignment": "D:\\ProjectRocketData\\processed\\TradingAgent\\outputs\\market_sentiment\\mkt_weather_v02_20261005_01\\revision_r4\\legacy_tests\\alignment_181_score5_grade5.csv"
+  },
+  "known_issues": [
+    {
+      "kind": "calendar_horizon_insufficient",
+      "source": "Controller reported original-database today preflight failure on 2026-10-07",
+      "retained": true,
+      "calendar_repair_attempted": false,
+      "verified_in_this_task": false,
+      "impact": "This synthetic-test and derived-table equality task does not validate production today/automation."
+    }
+  ],
+  "elapsed_seconds": 4.700871500011999,
+  "execution_controls": {
+    "repository_source_write_attempts": 0,
+    "repository_source_hashes_unchanged": true,
+    "raw_database_scan": false,
+    "real_database_write": false,
+    "credential_read": false,
+    "calendar_repair": false,
+    "parameters_changed": false,
+    "git_push": false,
+    "execution_retries": 0,
+    "cpu_threads": 1,
+    "pytest_cacheprovider": "disabled",
+    "pycache_disabled": true,
+    "controller_uncommitted_R4_changes_existed_before_this_run": true
+  },
+  "completed_at": "2026-10-06T23:29:22.707140+00:00"
+}

@@ -1,0 +1,768 @@
+{
+  "begin": 2400.0,
+  "finish": 2700.0,
+  "segments": [
+    {
+      "start": 2400.51,
+      "end": 2403.87,
+      "text": "黄河旋风昨天排队为加持没成功,小幅低开",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.2443,
+      "review": false
+    },
+    {
+      "start": 2403.87,
+      "end": 2408.77,
+      "text": "一般的昨天涨停就不要去小幅低开,不要进了",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.2443,
+      "review": false
+    },
+    {
+      "start": 2408.77,
+      "end": 2410.45,
+      "text": "还是要涨起来再进",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.2443,
+      "review": false
+    },
+    {
+      "start": 2410.45,
+      "end": 2419.88,
+      "text": "比如说现在黄河旋风如果涨起来了,你再看看,仓位再控制一下",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.2443,
+      "review": false
+    },
+    {
+      "start": 2419.88,
+      "end": 2424.8,
+      "text": "看有没有,黄河旋风有没有",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.2443,
+      "review": false
+    },
+    {
+      "start": 2424.8,
+      "end": 2430.02,
+      "text": "黄河旋风其实是现在啊,现在其实就是涨起来之后现在可以进一些",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.2443,
+      "review": false
+    },
+    {
+      "start": 2430.02,
+      "end": 2432.16,
+      "text": "但是我也不太建议说句真心话",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.2443,
+      "review": false
+    },
+    {
+      "start": 2432.16,
+      "end": 2435.06,
+      "text": "反正你注意今天买的大概率要被捶",
+      "avg_logprob": -0.1055,
+      "no_speech_prob": 0.1558,
+      "review": false
+    },
+    {
+      "start": 2435.06,
+      "end": 2438.98,
+      "text": "明天A股大概率80%的概率是会跌的",
+      "avg_logprob": -0.1055,
+      "no_speech_prob": 0.1558,
+      "review": false
+    },
+    {
+      "start": 2438.98,
+      "end": 2440.72,
+      "text": "你自己心里要有个底",
+      "avg_logprob": -0.1055,
+      "no_speech_prob": 0.1558,
+      "review": false
+    },
+    {
+      "start": 2440.72,
+      "end": 2443.24,
+      "text": "你今天买的不是特别特别好的票",
+      "avg_logprob": -0.1055,
+      "no_speech_prob": 0.1558,
+      "review": false
+    },
+    {
+      "start": 2443.24,
+      "end": 2444.18,
+      "text": "你就尽量少买",
+      "avg_logprob": -0.1055,
+      "no_speech_prob": 0.1558,
+      "review": false
+    },
+    {
+      "start": 2444.18,
+      "end": 2446.12,
+      "text": "大概率都要跌的",
+      "avg_logprob": -0.1055,
+      "no_speech_prob": 0.1558,
+      "review": false
+    },
+    {
+      "start": 2446.12,
+      "end": 2447.18,
+      "text": "明天你看嘛",
+      "avg_logprob": -0.1055,
+      "no_speech_prob": 0.1558,
+      "review": false
+    },
+    {
+      "start": 2447.18,
+      "end": 2448.18,
+      "text": "明天我话说在这",
+      "avg_logprob": -0.1055,
+      "no_speech_prob": 0.1558,
+      "review": false
+    },
+    {
+      "start": 2448.18,
+      "end": 2451.04,
+      "text": "80%的这个票明天都会跌的",
+      "avg_logprob": -0.1055,
+      "no_speech_prob": 0.1558,
+      "review": false
+    },
+    {
+      "start": 2451.04,
+      "end": 2453.92,
+      "text": "今天不是特别特别好的票就不要买了",
+      "avg_logprob": -0.1055,
+      "no_speech_prob": 0.1558,
+      "review": false
+    },
+    {
+      "start": 2453.92,
+      "end": 2455.16,
+      "text": "也不要新买",
+      "avg_logprob": -0.1055,
+      "no_speech_prob": 0.1558,
+      "review": false
+    },
+    {
+      "start": 2455.16,
+      "end": 2458.08,
+      "text": "反正是你要胜之又胜",
+      "avg_logprob": -0.1055,
+      "no_speech_prob": 0.1558,
+      "review": false
+    },
+    {
+      "start": 2458.08,
+      "end": 2461.66,
+      "text": "新开仓的票一定要胜之又胜",
+      "avg_logprob": -0.1055,
+      "no_speech_prob": 0.1558,
+      "review": false
+    },
+    {
+      "start": 2461.66,
+      "end": 2464.68,
+      "text": "你看康诺化成这种好公司就是好公司",
+      "avg_logprob": -0.1919,
+      "no_speech_prob": 0.9927,
+      "review": true
+    },
+    {
+      "start": 2464.68,
+      "end": 2468.38,
+      "text": "是不是好公司就是起来了起来很快的",
+      "avg_logprob": -0.1919,
+      "no_speech_prob": 0.9927,
+      "review": true
+    },
+    {
+      "start": 2468.38,
+      "end": 2470.64,
+      "text": "它就一跌就有人买一跌就有人买",
+      "avg_logprob": -0.1919,
+      "no_speech_prob": 0.9927,
+      "review": true
+    },
+    {
+      "start": 2470.64,
+      "end": 2471.58,
+      "text": "它跌不下去",
+      "avg_logprob": -0.1919,
+      "no_speech_prob": 0.9927,
+      "review": true
+    },
+    {
+      "start": 2471.58,
+      "end": 2473.6,
+      "text": "这是真的好公司好不好",
+      "avg_logprob": -0.1919,
+      "no_speech_prob": 0.9927,
+      "review": true
+    },
+    {
+      "start": 2473.6,
+      "end": 2474.96,
+      "text": "这真的好公司",
+      "avg_logprob": -0.1919,
+      "no_speech_prob": 0.9927,
+      "review": true
+    },
+    {
+      "start": 2474.96,
+      "end": 2476.42,
+      "text": "它趋势起来了",
+      "avg_logprob": -0.1919,
+      "no_speech_prob": 0.9927,
+      "review": true
+    },
+    {
+      "start": 2476.42,
+      "end": 2477.78,
+      "text": "它就跌不下去了",
+      "avg_logprob": -0.1919,
+      "no_speech_prob": 0.9927,
+      "review": true
+    },
+    {
+      "start": 2477.78,
+      "end": 2482.88,
+      "text": "你们有人知道景望电子吗",
+      "avg_logprob": -0.1919,
+      "no_speech_prob": 0.9927,
+      "review": true
+    },
+    {
+      "start": 2482.88,
+      "end": 2484.18,
+      "text": "冰化股份",
+      "avg_logprob": -0.1919,
+      "no_speech_prob": 0.9927,
+      "review": true
+    },
+    {
+      "start": 2484.18,
+      "end": 2488.0,
+      "text": "冰化但是这种我不是特别的喜欢",
+      "avg_logprob": -0.1919,
+      "no_speech_prob": 0.9927,
+      "review": true
+    },
+    {
+      "start": 2488.0,
+      "end": 2489.98,
+      "text": "这个微软微的太厉害了",
+      "avg_logprob": -0.1919,
+      "no_speech_prob": 0.9927,
+      "review": true
+    },
+    {
+      "start": 2489.98,
+      "end": 2491.56,
+      "text": "哎呀我看看AI吧",
+      "avg_logprob": -0.1919,
+      "no_speech_prob": 0.9927,
+      "review": true
+    },
+    {
+      "start": 2491.56,
+      "end": 2493.46,
+      "text": "我们看看AI查查AI的看看",
+      "avg_logprob": -0.1919,
+      "no_speech_prob": 0.9927,
+      "review": true
+    },
+    {
+      "start": 2493.46,
+      "end": 2500.96,
+      "text": "你看我比较喜欢用这个引导词",
+      "avg_logprob": -0.155,
+      "no_speech_prob": 0.8057,
+      "review": true
+    },
+    {
+      "start": 2500.96,
+      "end": 2503.3,
+      "text": "我比较喜欢用这个词",
+      "avg_logprob": -0.155,
+      "no_speech_prob": 0.8057,
+      "review": true
+    },
+    {
+      "start": 2503.3,
+      "end": 2506.44,
+      "text": "A股某某公司它有没有独特的技术",
+      "avg_logprob": -0.155,
+      "no_speech_prob": 0.8057,
+      "review": true
+    },
+    {
+      "start": 2506.44,
+      "end": 2509.33,
+      "text": "它有没有自己的护城河",
+      "avg_logprob": -0.155,
+      "no_speech_prob": 0.8057,
+      "review": true
+    },
+    {
+      "start": 2509.33,
+      "end": 2510.65,
+      "text": "市场占益率如何",
+      "avg_logprob": -0.155,
+      "no_speech_prob": 0.8057,
+      "review": true
+    },
+    {
+      "start": 2510.65,
+      "end": 2512.11,
+      "text": "我比较喜欢这样子",
+      "avg_logprob": -0.155,
+      "no_speech_prob": 0.8057,
+      "review": true
+    },
+    {
+      "start": 2512.11,
+      "end": 2518.82,
+      "text": "我们看看哪两只",
+      "avg_logprob": -0.155,
+      "no_speech_prob": 0.8057,
+      "review": true
+    },
+    {
+      "start": 2518.82,
+      "end": 2519.4,
+      "text": "我们看一下",
+      "avg_logprob": -0.155,
+      "no_speech_prob": 0.8057,
+      "review": true
+    },
+    {
+      "start": 2519.4,
+      "end": 2525.51,
+      "text": "几万603228",
+      "avg_logprob": -0.155,
+      "no_speech_prob": 0.8057,
+      "review": true
+    },
+    {
+      "start": 2525.51,
+      "end": 2535.64,
+      "text": "还有一个是601678",
+      "avg_logprob": -0.155,
+      "no_speech_prob": 0.8057,
+      "review": true
+    },
+    {
+      "start": 2535.64,
+      "end": 2540.06,
+      "text": "但是这两只可能都买不到",
+      "avg_logprob": -0.155,
+      "no_speech_prob": 0.8057,
+      "review": true
+    },
+    {
+      "start": 2540.06,
+      "end": 2541.82,
+      "text": "他们可能都买不到",
+      "avg_logprob": -0.155,
+      "no_speech_prob": 0.8057,
+      "review": true
+    },
+    {
+      "start": 2541.82,
+      "end": 2542.84,
+      "text": "因为它都涨停了",
+      "avg_logprob": -0.155,
+      "no_speech_prob": 0.8057,
+      "review": true
+    },
+    {
+      "start": 2542.84,
+      "end": 2544.6,
+      "text": "只是我看值不值得追",
+      "avg_logprob": -0.1529,
+      "no_speech_prob": 0.0481,
+      "review": false
+    },
+    {
+      "start": 2544.6,
+      "end": 2549.42,
+      "text": "竞争电子制造和电子行业",
+      "avg_logprob": -0.1529,
+      "no_speech_prob": 0.0481,
+      "review": false
+    },
+    {
+      "start": 2549.42,
+      "end": 2551.69,
+      "text": "不是动力源吧",
+      "avg_logprob": -0.1529,
+      "no_speech_prob": 0.0481,
+      "review": false
+    },
+    {
+      "start": 2551.69,
+      "end": 2552.69,
+      "text": "搞错了搞错了",
+      "avg_logprob": -0.1529,
+      "no_speech_prob": 0.0481,
+      "review": false
+    },
+    {
+      "start": 2552.69,
+      "end": 2553.27,
+      "text": "它不是动力源",
+      "avg_logprob": -0.1529,
+      "no_speech_prob": 0.0481,
+      "review": false
+    },
+    {
+      "start": 2553.27,
+      "end": 2555.17,
+      "text": "60167吧",
+      "avg_logprob": -0.1529,
+      "no_speech_prob": 0.0481,
+      "review": false
+    },
+    {
+      "start": 2555.17,
+      "end": 2561.78,
+      "text": "那个搞错了",
+      "avg_logprob": -0.1529,
+      "no_speech_prob": 0.0481,
+      "review": false
+    },
+    {
+      "start": 2561.78,
+      "end": 2562.42,
+      "text": "那个不是动力源",
+      "avg_logprob": -0.1529,
+      "no_speech_prob": 0.0481,
+      "review": false
+    },
+    {
+      "start": 2562.42,
+      "end": 2563.58,
+      "text": "我们等会从现在说",
+      "avg_logprob": -0.1529,
+      "no_speech_prob": 0.0481,
+      "review": false
+    },
+    {
+      "start": 2563.58,
+      "end": 2566.62,
+      "text": "PCB行业",
+      "avg_logprob": -0.1529,
+      "no_speech_prob": 0.0481,
+      "review": false
+    },
+    {
+      "start": 2566.62,
+      "end": 2570.86,
+      "text": "硬质电路板",
+      "avg_logprob": -0.1529,
+      "no_speech_prob": 0.0481,
+      "review": false
+    },
+    {
+      "start": 2570.86,
+      "end": 2573.18,
+      "text": "传统的硬核龙头之一",
+      "avg_logprob": -0.1529,
+      "no_speech_prob": 0.0481,
+      "review": false
+    },
+    {
+      "start": 2573.18,
+      "end": 2580.16,
+      "text": "少数实现钢性电路板",
+      "avg_logprob": -0.1529,
+      "no_speech_prob": 0.0481,
+      "review": false
+    },
+    {
+      "start": 2580.16,
+      "end": 2581.18,
+      "text": "柔性电路板",
+      "avg_logprob": -0.1529,
+      "no_speech_prob": 0.0481,
+      "review": false
+    },
+    {
+      "start": 2581.18,
+      "end": 2582.86,
+      "text": "金属基层电路板",
+      "avg_logprob": -0.1529,
+      "no_speech_prob": 0.0481,
+      "review": false
+    },
+    {
+      "start": 2582.86,
+      "end": 2584.04,
+      "text": "全覆盖的厂商",
+      "avg_logprob": -0.1529,
+      "no_speech_prob": 0.0481,
+      "review": false
+    },
+    {
+      "start": 2584.04,
+      "end": 2585.72,
+      "text": "汽车与AI",
+      "avg_logprob": -0.0995,
+      "no_speech_prob": 0.2275,
+      "review": false
+    },
+    {
+      "start": 2585.72,
+      "end": 2587.64,
+      "text": "它这个还不光是炒AI",
+      "avg_logprob": -0.0995,
+      "no_speech_prob": 0.2275,
+      "review": false
+    },
+    {
+      "start": 2587.64,
+      "end": 2588.4,
+      "text": "它炒汽车",
+      "avg_logprob": -0.0995,
+      "no_speech_prob": 0.2275,
+      "review": false
+    },
+    {
+      "start": 2588.4,
+      "end": 2590.16,
+      "text": "它主要是汽车电路板",
+      "avg_logprob": -0.0995,
+      "no_speech_prob": 0.2275,
+      "review": false
+    },
+    {
+      "start": 2590.16,
+      "end": 2591.22,
+      "text": "汽车的PCB",
+      "avg_logprob": -0.0995,
+      "no_speech_prob": 0.2275,
+      "review": false
+    },
+    {
+      "start": 2591.22,
+      "end": 2593.87,
+      "text": "还有高端AI服务器",
+      "avg_logprob": -0.0995,
+      "no_speech_prob": 0.2275,
+      "review": false
+    },
+    {
+      "start": 2593.87,
+      "end": 2598.96,
+      "text": "市场占有率是全球及国内第一梯队",
+      "avg_logprob": -0.0995,
+      "no_speech_prob": 0.2275,
+      "review": false
+    },
+    {
+      "start": 2598.96,
+      "end": 2599.74,
+      "text": "那就值得排",
+      "avg_logprob": -0.0995,
+      "no_speech_prob": 0.2275,
+      "review": false
+    },
+    {
+      "start": 2599.74,
+      "end": 2601.34,
+      "text": "你看它这种",
+      "avg_logprob": -0.0995,
+      "no_speech_prob": 0.2275,
+      "review": false
+    },
+    {
+      "start": 2601.34,
+      "end": 2603.88,
+      "text": "它就是相当于说产业龙头",
+      "avg_logprob": -0.0995,
+      "no_speech_prob": 0.2275,
+      "review": false
+    },
+    {
+      "start": 2603.88,
+      "end": 2606.28,
+      "text": "它是全球甚至国内的第一梯队",
+      "avg_logprob": -0.0995,
+      "no_speech_prob": 0.2275,
+      "review": false
+    },
+    {
+      "start": 2606.28,
+      "end": 2609.02,
+      "text": "极光电子常年稳居全球前20名",
+      "avg_logprob": -0.0995,
+      "no_speech_prob": 0.2275,
+      "review": false
+    },
+    {
+      "start": 2609.02,
+      "end": 2611.34,
+      "text": "在内资的PCB高居三甲",
+      "avg_logprob": -0.0995,
+      "no_speech_prob": 0.2275,
+      "review": false
+    },
+    {
+      "start": 2611.34,
+      "end": 2612.26,
+      "text": "那就值得排",
+      "avg_logprob": -0.0995,
+      "no_speech_prob": 0.2275,
+      "review": false
+    },
+    {
+      "start": 2612.26,
+      "end": 2613.86,
+      "text": "那如果是一个小公司",
+      "avg_logprob": -0.0995,
+      "no_speech_prob": 0.2275,
+      "review": false
+    },
+    {
+      "start": 2613.86,
+      "end": 2615.98,
+      "text": "他没有这种没有一个规模效应",
+      "avg_logprob": -0.1454,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 2615.98,
+      "end": 2616.98,
+      "text": "他没有一个技术效应",
+      "avg_logprob": -0.1454,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 2616.98,
+      "end": 2617.9,
+      "text": "我一般都不会去排",
+      "avg_logprob": -0.1454,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 2617.9,
+      "end": 2622.3,
+      "text": "几乎全新能源汽车半壁江山",
+      "avg_logprob": -0.1454,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 2622.3,
+      "end": 2627.16,
+      "text": "通过深度绑定通信与算力",
+      "avg_logprob": -0.1454,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 2627.16,
+      "end": 2632.09,
+      "text": "是华为中兴联想长期游戏工业上",
+      "avg_logprob": -0.1454,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 2632.09,
+      "end": 2636.95,
+      "text": "这个嗓子有问题",
+      "avg_logprob": -0.1454,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 2636.95,
+      "end": 2637.65,
+      "text": "趁热封交",
+      "avg_logprob": -0.1454,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 2637.65,
+      "end": 2639.83,
+      "text": "好",
+      "avg_logprob": -0.1454,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 2639.83,
+      "end": 2641.33,
+      "text": "那这个还是值得排的",
+      "avg_logprob": -0.1454,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 2641.33,
+      "end": 2642.19,
+      "text": "我再说一下",
+      "avg_logprob": -0.1454,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 2642.19,
+      "end": 2644.39,
+      "text": "我个人认为这个几万电池",
+      "avg_logprob": -0.1454,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 2644.39,
+      "end": 2645.59,
+      "text": "看起来它是龙头之一",
+      "avg_logprob": -0.1454,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 2645.59,
+      "end": 2646.65,
+      "text": "还是值得排队的",
+      "avg_logprob": -0.1454,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 2646.65,
+      "end": 2647.63,
+      "text": "但是我估计买不到",
+      "avg_logprob": -0.1454,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 2647.63,
+      "end": 2649.15,
+      "text": "但是还是可以排的",
+      "avg_logprob": -0.1454,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 2649.15,
+      "end": 2701.97,
+      "text": "从这个能不能赚钱的角度来讲",
+      "avg_logprob": -0.052,
+      "no_speech_prob": 0.0,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 19.59
+}

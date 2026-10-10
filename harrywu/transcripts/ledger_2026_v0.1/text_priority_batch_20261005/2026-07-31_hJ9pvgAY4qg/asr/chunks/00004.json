@@ -1,0 +1,424 @@
+{
+  "begin": 1200.0,
+  "finish": 1500.0,
+  "segments": [
+    {
+      "start": 1198.0,
+      "end": 1231.48,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0693,
+      "no_speech_prob": 0.7036,
+      "review": true
+    },
+    {
+      "start": 1231.5,
+      "end": 1262.76,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0772,
+      "no_speech_prob": 0.6685,
+      "review": true
+    },
+    {
+      "start": 1262.78,
+      "end": 1264.78,
+      "text": "中芯的柴油机替换这个概念",
+      "avg_logprob": -0.1705,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1264.78,
+      "end": 1271.26,
+      "text": "你看每一个你就要知道他炒什么",
+      "avg_logprob": -0.1705,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1271.26,
+      "end": 1274.57,
+      "text": "这个明报是咋回事",
+      "avg_logprob": -0.1705,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1274.57,
+      "end": 1275.47,
+      "text": "直接这样子",
+      "avg_logprob": -0.1705,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1275.47,
+      "end": 1276.29,
+      "text": "持股变根",
+      "avg_logprob": -0.1705,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1276.29,
+      "end": 1278.07,
+      "text": "他是股东变根",
+      "avg_logprob": -0.1705,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1278.07,
+      "end": 1278.85,
+      "text": "花天",
+      "avg_logprob": -0.1705,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1278.85,
+      "end": 1280.83,
+      "text": "基本没有",
+      "avg_logprob": -0.1705,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1280.83,
+      "end": 1284.69,
+      "text": "今天前面前20全是超级反弹",
+      "avg_logprob": -0.1705,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1284.69,
+      "end": 1286.29,
+      "text": "全是超级反弹",
+      "avg_logprob": -0.1705,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1286.29,
+      "end": 1289.35,
+      "text": "几乎没有一个不是超级反弹的",
+      "avg_logprob": -0.1705,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1289.35,
+      "end": 1290.87,
+      "text": "手里你没有票的话",
+      "avg_logprob": -0.1705,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1290.87,
+      "end": 1291.87,
+      "text": "你也不要去追了",
+      "avg_logprob": -0.1705,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1291.87,
+      "end": 1292.69,
+      "text": "没有意义了",
+      "avg_logprob": -0.1705,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1292.69,
+      "end": 1293.91,
+      "text": "你有票的话",
+      "avg_logprob": -0.1705,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1293.91,
+      "end": 1295.25,
+      "text": "你再考虑",
+      "avg_logprob": -0.1705,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1295.25,
+      "end": 1295.59,
+      "text": "OK",
+      "avg_logprob": -0.1705,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1295.59,
+      "end": 1301.48,
+      "text": "嗯,没有啥可看的,今天估计又没有啥可看的了",
+      "avg_logprob": -0.1082,
+      "no_speech_prob": 0.2058,
+      "review": false
+    },
+    {
+      "start": 1301.48,
+      "end": 1307.48,
+      "text": "我们就聊聊天吧,回答一下问题,没有啥可看的啊",
+      "avg_logprob": -0.1082,
+      "no_speech_prob": 0.2058,
+      "review": false
+    },
+    {
+      "start": 1307.48,
+      "end": 1312.42,
+      "text": "这个呢,有一点底,还有一点点仓位啊,没有走,但是大部分走完了啊",
+      "avg_logprob": -0.1082,
+      "no_speech_prob": 0.2058,
+      "review": false
+    },
+    {
+      "start": 1312.42,
+      "end": 1315.52,
+      "text": "说到做到,哎,今天蓝色光标起来了,你看,是不是",
+      "avg_logprob": -0.1082,
+      "no_speech_prob": 0.2058,
+      "review": false
+    },
+    {
+      "start": 1315.52,
+      "end": 1321.36,
+      "text": "我昨天我们买的,我就说嘛,它不会这么失败,虽然今天低开,但是低开高走,起来了啊",
+      "avg_logprob": -0.1082,
+      "no_speech_prob": 0.2058,
+      "review": false
+    },
+    {
+      "start": 1321.36,
+      "end": 1325.4,
+      "text": "我没有成功了,算是成功了,当然啊,指数给力啊,也是指数给力",
+      "avg_logprob": -0.1082,
+      "no_speech_prob": 0.2058,
+      "review": false
+    },
+    {
+      "start": 1325.4,
+      "end": 1331.3,
+      "text": "好,没有啥,没有啥,非常成功",
+      "avg_logprob": -0.1082,
+      "no_speech_prob": 0.2058,
+      "review": false
+    },
+    {
+      "start": 1331.3,
+      "end": 1333.02,
+      "text": "今天所有的都很成功",
+      "avg_logprob": -0.2525,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1333.02,
+      "end": 1357.11,
+      "text": "等一下",
+      "avg_logprob": -0.2525,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1357.11,
+      "end": 1367.04,
+      "text": "看包括集合金价走的这个",
+      "avg_logprob": -0.2525,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1367.04,
+      "end": 1369.46,
+      "text": "风华高科也是正确的",
+      "avg_logprob": -0.2525,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1369.46,
+      "end": 1375.93,
+      "text": "OK",
+      "avg_logprob": -0.2525,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1375.93,
+      "end": 1399.04,
+      "text": "我已经这一波交易没有亏损而且赚钱的了",
+      "avg_logprob": -0.2525,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1399.04,
+      "end": 1400.84,
+      "text": "没有任何问题了",
+      "avg_logprob": -0.2525,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1424.96,
+      "end": 1426.78,
+      "text": "好我们回家一些问题就可以了",
+      "avg_logprob": -0.2525,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1426.78,
+      "end": 1432.21,
+      "text": "好随便聊一聊啊",
+      "avg_logprob": -0.2525,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1432.21,
+      "end": 1436.28,
+      "text": "南斯国肯定不走啊",
+      "avg_logprob": -0.2525,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1436.28,
+      "end": 1437.56,
+      "text": "南斯国没有走什么这么好的票",
+      "avg_logprob": -0.2525,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1437.56,
+      "end": 1439.18,
+      "text": "南斯国绝对不走啊",
+      "avg_logprob": -0.2525,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1439.18,
+      "end": 1442.14,
+      "text": "现在男子光标这种位置就是要拿中长线的",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.978,
+      "review": true
+    },
+    {
+      "start": 1442.14,
+      "end": 1443.8,
+      "text": "像这种就拿中长线的",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.978,
+      "review": true
+    },
+    {
+      "start": 1443.8,
+      "end": 1445.9,
+      "text": "你看嘛这是一个标准的底部啊",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.978,
+      "review": true
+    },
+    {
+      "start": 1445.9,
+      "end": 1447.66,
+      "text": "这种是个标准的底部啊",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.978,
+      "review": true
+    },
+    {
+      "start": 1447.66,
+      "end": 1449.06,
+      "text": "这就和前面康伦花城一样",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.978,
+      "review": true
+    },
+    {
+      "start": 1449.06,
+      "end": 1454.28,
+      "text": "一个非常标准的一个下降通道第一天突破",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.978,
+      "review": true
+    },
+    {
+      "start": 1454.28,
+      "end": 1456.34,
+      "text": "而且它还不是这个半导体",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.978,
+      "review": true
+    },
+    {
+      "start": 1456.34,
+      "end": 1457.8,
+      "text": "哎咋回事",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.978,
+      "review": true
+    },
+    {
+      "start": 1457.8,
+      "end": 1461.6,
+      "text": "我说半导体我还不敢拿",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.978,
+      "review": true
+    },
+    {
+      "start": 1461.6,
+      "end": 1463.62,
+      "text": "因为这个东西你们不要看",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.978,
+      "review": true
+    },
+    {
+      "start": 1463.62,
+      "end": 1466.38,
+      "text": "是不是你们不能说今天半导体长得好",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.978,
+      "review": true
+    },
+    {
+      "start": 1466.38,
+      "end": 1468.54,
+      "text": "你们就忘了前几天跌了多惨啊",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.978,
+      "review": true
+    },
+    {
+      "start": 1468.54,
+      "end": 1470.26,
+      "text": "那毕竟半导体是个下降趋势啊",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.978,
+      "review": true
+    },
+    {
+      "start": 1470.26,
+      "end": 1497.64,
+      "text": "是不是,而且这么多各种新闻,现在绝对只是一个反弹,搞不好明天就下去了,所以我才不会赌呢,我不赌不赌,这个东西我不赌,说不清楚,但是它不一样,它不是半导体,它算是一个新题材,那么这个新题材刚好资金在进,然后前几天资金又一直在进,资金一直在这些位置进,为什么我知道呢,因为我虽然你这个量看不出来,但是我每天都观察这个主力企额,每天都观察,我心里很有底,所以没有问题的,不要走,这个不要走",
+      "avg_logprob": -0.0561,
+      "no_speech_prob": 0.9912,
+      "review": true
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 18.92
+}

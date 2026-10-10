@@ -1,0 +1,800 @@
+{
+  "begin": 3300.0,
+  "finish": 3600.0,
+  "segments": [
+    {
+      "start": 3299.4,
+      "end": 3301.68,
+      "text": "他除非他有一些特殊题材",
+      "avg_logprob": -0.1459,
+      "no_speech_prob": 0.9736,
+      "review": true
+    },
+    {
+      "start": 3301.68,
+      "end": 3302.96,
+      "text": "比如沾上军工啊",
+      "avg_logprob": -0.1459,
+      "no_speech_prob": 0.9736,
+      "review": true
+    },
+    {
+      "start": 3302.96,
+      "end": 3303.6,
+      "text": "沾上这些",
+      "avg_logprob": -0.1459,
+      "no_speech_prob": 0.9736,
+      "review": true
+    },
+    {
+      "start": 3303.6,
+      "end": 3305.42,
+      "text": "他有些特殊原因啊",
+      "avg_logprob": -0.1459,
+      "no_speech_prob": 0.9736,
+      "review": true
+    },
+    {
+      "start": 3305.42,
+      "end": 3307.0,
+      "text": "但是他的这个",
+      "avg_logprob": -0.1459,
+      "no_speech_prob": 0.9736,
+      "review": true
+    },
+    {
+      "start": 3307.0,
+      "end": 3311.12,
+      "text": "很难排一排吧",
+      "avg_logprob": -0.1459,
+      "no_speech_prob": 0.9736,
+      "review": true
+    },
+    {
+      "start": 3311.12,
+      "end": 3311.52,
+      "text": "排一排",
+      "avg_logprob": -0.1459,
+      "no_speech_prob": 0.9736,
+      "review": true
+    },
+    {
+      "start": 3311.52,
+      "end": 3313.7,
+      "text": "这个无所谓的啊",
+      "avg_logprob": -0.1459,
+      "no_speech_prob": 0.9736,
+      "review": true
+    },
+    {
+      "start": 3313.7,
+      "end": 3320.04,
+      "text": "刚才说蓝丝啊",
+      "avg_logprob": -0.1459,
+      "no_speech_prob": 0.9736,
+      "review": true
+    },
+    {
+      "start": 3320.04,
+      "end": 3320.54,
+      "text": "蓝丝",
+      "avg_logprob": -0.1459,
+      "no_speech_prob": 0.9736,
+      "review": true
+    },
+    {
+      "start": 3320.54,
+      "end": 3321.64,
+      "text": "蓝丝7%",
+      "avg_logprob": -0.1459,
+      "no_speech_prob": 0.9736,
+      "review": true
+    },
+    {
+      "start": 3321.64,
+      "end": 3329.25,
+      "text": "有的我研究过",
+      "avg_logprob": -0.1459,
+      "no_speech_prob": 0.9736,
+      "review": true
+    },
+    {
+      "start": 3329.25,
+      "end": 3330.15,
+      "text": "有的我也不知道",
+      "avg_logprob": -0.1459,
+      "no_speech_prob": 0.9736,
+      "review": true
+    },
+    {
+      "start": 3330.15,
+      "end": 3334.33,
+      "text": "有的一些我研究很透",
+      "avg_logprob": -0.1459,
+      "no_speech_prob": 0.9736,
+      "review": true
+    },
+    {
+      "start": 3334.33,
+      "end": 3334.79,
+      "text": "像那个",
+      "avg_logprob": -0.1459,
+      "no_speech_prob": 0.9736,
+      "review": true
+    },
+    {
+      "start": 3334.79,
+      "end": 3337.11,
+      "text": "像那这一波的商业航天",
+      "avg_logprob": -0.1459,
+      "no_speech_prob": 0.9736,
+      "review": true
+    },
+    {
+      "start": 3337.11,
+      "end": 3338.15,
+      "text": "我的研究很透的",
+      "avg_logprob": -0.1459,
+      "no_speech_prob": 0.9736,
+      "review": true
+    },
+    {
+      "start": 3338.15,
+      "end": 3340.69,
+      "text": "蓝丝是玻璃金属一体化平台",
+      "avg_logprob": -0.1459,
+      "no_speech_prob": 0.9736,
+      "review": true
+    },
+    {
+      "start": 3340.69,
+      "end": 3343.39,
+      "text": "龙头垂直打开时间增长空间",
+      "avg_logprob": -0.1832,
+      "no_speech_prob": 0.9771,
+      "review": true
+    },
+    {
+      "start": 3343.39,
+      "end": 3347.32,
+      "text": "题材主要是有马斯克的机器人",
+      "avg_logprob": -0.1832,
+      "no_speech_prob": 0.9771,
+      "review": true
+    },
+    {
+      "start": 3347.32,
+      "end": 3349.24,
+      "text": "供货机器人驱赶",
+      "avg_logprob": -0.1832,
+      "no_speech_prob": 0.9771,
+      "review": true
+    },
+    {
+      "start": 3349.24,
+      "end": 3351.88,
+      "text": "这个可以啊",
+      "avg_logprob": -0.1832,
+      "no_speech_prob": 0.9771,
+      "review": true
+    },
+    {
+      "start": 3351.88,
+      "end": 3352.64,
+      "text": "特斯拉机器人",
+      "avg_logprob": -0.1832,
+      "no_speech_prob": 0.9771,
+      "review": true
+    },
+    {
+      "start": 3352.64,
+      "end": 3354.74,
+      "text": "而且是12月通过神厂",
+      "avg_logprob": -0.1832,
+      "no_speech_prob": 0.9771,
+      "review": true
+    },
+    {
+      "start": 3354.74,
+      "end": 3356.2,
+      "text": "这个可以啊",
+      "avg_logprob": -0.1832,
+      "no_speech_prob": 0.9771,
+      "review": true
+    },
+    {
+      "start": 3356.2,
+      "end": 3357.16,
+      "text": "这个可以啊",
+      "avg_logprob": -0.1832,
+      "no_speech_prob": 0.9771,
+      "review": true
+    },
+    {
+      "start": 3357.16,
+      "end": 3358.44,
+      "text": "重型机器人也有合作",
+      "avg_logprob": -0.1832,
+      "no_speech_prob": 0.9771,
+      "review": true
+    },
+    {
+      "start": 3358.44,
+      "end": 3360.14,
+      "text": "这个可以啊",
+      "avg_logprob": -0.1832,
+      "no_speech_prob": 0.9771,
+      "review": true
+    },
+    {
+      "start": 3360.14,
+      "end": 3360.76,
+      "text": "这个可以啊",
+      "avg_logprob": -0.1832,
+      "no_speech_prob": 0.9771,
+      "review": true
+    },
+    {
+      "start": 3360.76,
+      "end": 3361.42,
+      "text": "这个可以啊",
+      "avg_logprob": -0.1832,
+      "no_speech_prob": 0.9771,
+      "review": true
+    },
+    {
+      "start": 3361.42,
+      "end": 3362.24,
+      "text": "好OK",
+      "avg_logprob": -0.1832,
+      "no_speech_prob": 0.9771,
+      "review": true
+    },
+    {
+      "start": 3362.24,
+      "end": 3363.86,
+      "text": "那比如说那这是我的工作了",
+      "avg_logprob": -0.1832,
+      "no_speech_prob": 0.9771,
+      "review": true
+    },
+    {
+      "start": 3363.86,
+      "end": 3366.82,
+      "text": "那么今天我就会给会员说",
+      "avg_logprob": -0.1832,
+      "no_speech_prob": 0.9771,
+      "review": true
+    },
+    {
+      "start": 3366.82,
+      "end": 3367.44,
+      "text": "那有可能",
+      "avg_logprob": -0.1832,
+      "no_speech_prob": 0.9771,
+      "review": true
+    },
+    {
+      "start": 3367.44,
+      "end": 3369.3,
+      "text": "如果没有涨停的",
+      "avg_logprob": -0.1832,
+      "no_speech_prob": 0.9771,
+      "review": true
+    },
+    {
+      "start": 3369.3,
+      "end": 3370.46,
+      "text": "那么就是难死啊",
+      "avg_logprob": -0.1832,
+      "no_speech_prob": 0.9771,
+      "review": true
+    },
+    {
+      "start": 3370.46,
+      "end": 3373.44,
+      "text": "如果涨停的排队的就是其他几个",
+      "avg_logprob": -0.185,
+      "no_speech_prob": 0.729,
+      "review": true
+    },
+    {
+      "start": 3373.44,
+      "end": 3375.4,
+      "text": "我看除了南斯还有没有",
+      "avg_logprob": -0.185,
+      "no_speech_prob": 0.729,
+      "review": true
+    },
+    {
+      "start": 3375.4,
+      "end": 3377.45,
+      "text": "这个不行",
+      "avg_logprob": -0.185,
+      "no_speech_prob": 0.729,
+      "review": true
+    },
+    {
+      "start": 3377.45,
+      "end": 3378.33,
+      "text": "这个战士不行",
+      "avg_logprob": -0.185,
+      "no_speech_prob": 0.729,
+      "review": true
+    },
+    {
+      "start": 3378.33,
+      "end": 3379.25,
+      "text": "郭恒",
+      "avg_logprob": -0.185,
+      "no_speech_prob": 0.729,
+      "review": true
+    },
+    {
+      "start": 3379.25,
+      "end": 3379.95,
+      "text": "可泰",
+      "avg_logprob": -0.185,
+      "no_speech_prob": 0.729,
+      "review": true
+    },
+    {
+      "start": 3379.95,
+      "end": 3381.61,
+      "text": "这个也战士不行",
+      "avg_logprob": -0.185,
+      "no_speech_prob": 0.729,
+      "review": true
+    },
+    {
+      "start": 3381.61,
+      "end": 3382.67,
+      "text": "没有南斯好",
+      "avg_logprob": -0.185,
+      "no_speech_prob": 0.729,
+      "review": true
+    },
+    {
+      "start": 3382.67,
+      "end": 3383.83,
+      "text": "四川九州差不多了",
+      "avg_logprob": -0.185,
+      "no_speech_prob": 0.729,
+      "review": true
+    },
+    {
+      "start": 3383.83,
+      "end": 3385.21,
+      "text": "四川九州大家可以重视一下",
+      "avg_logprob": -0.185,
+      "no_speech_prob": 0.729,
+      "review": true
+    },
+    {
+      "start": 3385.21,
+      "end": 3386.47,
+      "text": "还没有亏钱",
+      "avg_logprob": -0.185,
+      "no_speech_prob": 0.729,
+      "review": true
+    },
+    {
+      "start": 3386.47,
+      "end": 3388.87,
+      "text": "DN打开了",
+      "avg_logprob": -0.185,
+      "no_speech_prob": 0.729,
+      "review": true
+    },
+    {
+      "start": 3391.83,
+      "end": 3392.2,
+      "text": "OK",
+      "avg_logprob": -0.185,
+      "no_speech_prob": 0.729,
+      "review": true
+    },
+    {
+      "start": 3392.2,
+      "end": 3393.32,
+      "text": "我觉得南斯比这个好",
+      "avg_logprob": -0.185,
+      "no_speech_prob": 0.729,
+      "review": true
+    },
+    {
+      "start": 3393.32,
+      "end": 3395.34,
+      "text": "我个人觉得南斯比这个好",
+      "avg_logprob": -0.185,
+      "no_speech_prob": 0.729,
+      "review": true
+    },
+    {
+      "start": 3395.34,
+      "end": 3397.3,
+      "text": "因为他毕竟逻辑比较硬",
+      "avg_logprob": -0.185,
+      "no_speech_prob": 0.729,
+      "review": true
+    },
+    {
+      "start": 3397.3,
+      "end": 3398.8,
+      "text": "他给马斯克供货",
+      "avg_logprob": -0.185,
+      "no_speech_prob": 0.729,
+      "review": true
+    },
+    {
+      "start": 3398.8,
+      "end": 3399.8,
+      "text": "他给很多供货",
+      "avg_logprob": -0.185,
+      "no_speech_prob": 0.729,
+      "review": true
+    },
+    {
+      "start": 3399.8,
+      "end": 3439.33,
+      "text": "敌人打开了就不说了",
+      "avg_logprob": -0.1643,
+      "no_speech_prob": 0.8169,
+      "review": true
+    },
+    {
+      "start": 3439.33,
+      "end": 3440.11,
+      "text": "那没办法了",
+      "avg_logprob": -0.1643,
+      "no_speech_prob": 0.8169,
+      "review": true
+    },
+    {
+      "start": 3440.11,
+      "end": 3440.93,
+      "text": "那就每年吧",
+      "avg_logprob": -0.1643,
+      "no_speech_prob": 0.8169,
+      "review": true
+    },
+    {
+      "start": 3440.93,
+      "end": 3502.09,
+      "text": "大家等我一下啊",
+      "avg_logprob": -0.1643,
+      "no_speech_prob": 0.8169,
+      "review": true
+    },
+    {
+      "start": 3502.09,
+      "end": 3504.73,
+      "text": "我要给那个会员发东西",
+      "avg_logprob": -0.1643,
+      "no_speech_prob": 0.8169,
+      "review": true
+    },
+    {
+      "start": 3504.73,
+      "end": 3507.25,
+      "text": "这个东西仅供参考啊",
+      "avg_logprob": -0.1643,
+      "no_speech_prob": 0.8169,
+      "review": true
+    },
+    {
+      "start": 3507.25,
+      "end": 3509.35,
+      "text": "这个就是技术分析的一个模式而已",
+      "avg_logprob": -0.1643,
+      "no_speech_prob": 0.8169,
+      "review": true
+    },
+    {
+      "start": 3509.35,
+      "end": 3510.41,
+      "text": "这些他",
+      "avg_logprob": -0.1643,
+      "no_speech_prob": 0.8169,
+      "review": true
+    },
+    {
+      "start": 3510.41,
+      "end": 3514.57,
+      "text": "这些不是给大家建股啊",
+      "avg_logprob": -0.1643,
+      "no_speech_prob": 0.8169,
+      "review": true
+    },
+    {
+      "start": 3514.57,
+      "end": 3515.55,
+      "text": "就是因为这些东西",
+      "avg_logprob": -0.1643,
+      "no_speech_prob": 0.8169,
+      "review": true
+    },
+    {
+      "start": 3515.55,
+      "end": 3517.61,
+      "text": "我们技术分析一些模式",
+      "avg_logprob": -0.1643,
+      "no_speech_prob": 0.8169,
+      "review": true
+    },
+    {
+      "start": 3517.61,
+      "end": 3518.31,
+      "text": "和这个",
+      "avg_logprob": -0.1643,
+      "no_speech_prob": 0.8169,
+      "review": true
+    },
+    {
+      "start": 3518.31,
+      "end": 3520.5,
+      "text": "大家自负盈亏啊",
+      "avg_logprob": -0.1643,
+      "no_speech_prob": 0.8169,
+      "review": true
+    },
+    {
+      "start": 3520.5,
+      "end": 3536.7,
+      "text": "A股啊",
+      "avg_logprob": -0.1643,
+      "no_speech_prob": 0.8169,
+      "review": true
+    },
+    {
+      "start": 3536.7,
+      "end": 3538.02,
+      "text": "其实只要分批分仓",
+      "avg_logprob": -0.1643,
+      "no_speech_prob": 0.8169,
+      "review": true
+    },
+    {
+      "start": 3538.02,
+      "end": 3539.12,
+      "text": "只按照我这个来",
+      "avg_logprob": -0.1643,
+      "no_speech_prob": 0.8169,
+      "review": true
+    },
+    {
+      "start": 3539.12,
+      "end": 3540.4,
+      "text": "先按题材",
+      "avg_logprob": -0.1643,
+      "no_speech_prob": 0.8169,
+      "review": true
+    },
+    {
+      "start": 3540.4,
+      "end": 3542.02,
+      "text": "严格的先找题材",
+      "avg_logprob": -0.1643,
+      "no_speech_prob": 0.8169,
+      "review": true
+    },
+    {
+      "start": 3542.02,
+      "end": 3544.66,
+      "text": "从题材里面再去找量价结构形态",
+      "avg_logprob": -0.0872,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 3544.66,
+      "end": 3546.3,
+      "text": "你再愿意分批分仓",
+      "avg_logprob": -0.0872,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 3546.3,
+      "end": 3547.98,
+      "text": "只要指数不跌",
+      "avg_logprob": -0.0872,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 3547.98,
+      "end": 3550.0,
+      "text": "A股你按我的方法几乎是稳赚",
+      "avg_logprob": -0.0872,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 3550.0,
+      "end": 3551.56,
+      "text": "几乎是稳赚",
+      "avg_logprob": -0.0872,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 3551.56,
+      "end": 3553.3,
+      "text": "但是你不要去",
+      "avg_logprob": -0.0872,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 3553.3,
+      "end": 3554.68,
+      "text": "第一个你不要去赌一两只",
+      "avg_logprob": -0.0872,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 3554.68,
+      "end": 3557.1,
+      "text": "那就有时候一个回撤你就会很惨",
+      "avg_logprob": -0.0872,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 3557.1,
+      "end": 3560.2,
+      "text": "第二个就是你不要去做和今天热点不关的",
+      "avg_logprob": -0.0872,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 3560.2,
+      "end": 3561.26,
+      "text": "你看有些时候",
+      "avg_logprob": -0.0872,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 3561.26,
+      "end": 3564.92,
+      "text": "你看我会做一两只和热点不关",
+      "avg_logprob": -0.0872,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 3564.92,
+      "end": 3569.8,
+      "text": "但是也是一定要尽量的去买热点",
+      "avg_logprob": -0.0872,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 3569.8,
+      "end": 3571.88,
+      "text": "我一定是先买热点",
+      "avg_logprob": -0.0872,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 3571.88,
+      "end": 3574.04,
+      "text": "然后再去看其他的",
+      "avg_logprob": -0.114,
+      "no_speech_prob": 0.5801,
+      "review": true
+    },
+    {
+      "start": 3574.04,
+      "end": 3575.9,
+      "text": "热点没有好的",
+      "avg_logprob": -0.114,
+      "no_speech_prob": 0.5801,
+      "review": true
+    },
+    {
+      "start": 3575.9,
+      "end": 3576.88,
+      "text": "我再去买其他的",
+      "avg_logprob": -0.114,
+      "no_speech_prob": 0.5801,
+      "review": true
+    },
+    {
+      "start": 3576.88,
+      "end": 3578.64,
+      "text": "我为什么不买商业航天呢",
+      "avg_logprob": -0.114,
+      "no_speech_prob": 0.5801,
+      "review": true
+    },
+    {
+      "start": 3578.64,
+      "end": 3579.72,
+      "text": "因为商业航天我太多了",
+      "avg_logprob": -0.114,
+      "no_speech_prob": 0.5801,
+      "review": true
+    },
+    {
+      "start": 3579.72,
+      "end": 3580.58,
+      "text": "我做了太多了",
+      "avg_logprob": -0.114,
+      "no_speech_prob": 0.5801,
+      "review": true
+    },
+    {
+      "start": 3580.58,
+      "end": 3582.24,
+      "text": "我最近一直做商业航天赚钱",
+      "avg_logprob": -0.114,
+      "no_speech_prob": 0.5801,
+      "review": true
+    },
+    {
+      "start": 3582.24,
+      "end": 3583.46,
+      "text": "这些位置太高了",
+      "avg_logprob": -0.114,
+      "no_speech_prob": 0.5801,
+      "review": true
+    },
+    {
+      "start": 3583.46,
+      "end": 3584.5,
+      "text": "我做不了商业航天了",
+      "avg_logprob": -0.114,
+      "no_speech_prob": 0.5801,
+      "review": true
+    },
+    {
+      "start": 3584.5,
+      "end": 3585.4,
+      "text": "现在这个位置",
+      "avg_logprob": -0.114,
+      "no_speech_prob": 0.5801,
+      "review": true
+    },
+    {
+      "start": 3585.4,
+      "end": 3587.58,
+      "text": "四三二一",
+      "avg_logprob": -0.114,
+      "no_speech_prob": 0.5801,
+      "review": true
+    },
+    {
+      "start": 3587.58,
+      "end": 3591.39,
+      "text": "所以我这个商业航天",
+      "avg_logprob": -0.114,
+      "no_speech_prob": 0.5801,
+      "review": true
+    },
+    {
+      "start": 3591.39,
+      "end": 3592.29,
+      "text": "现在太高了",
+      "avg_logprob": -0.114,
+      "no_speech_prob": 0.5801,
+      "review": true
+    },
+    {
+      "start": 3592.29,
+      "end": 3593.65,
+      "text": "做不了商业航天了",
+      "avg_logprob": -0.114,
+      "no_speech_prob": 0.5801,
+      "review": true
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 33.73
+}

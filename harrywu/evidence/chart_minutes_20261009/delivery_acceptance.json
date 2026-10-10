@@ -1,0 +1,67 @@
+{
+  "status": "PASS",
+  "production_enabled": true,
+  "source_id": "csv_1min_original",
+  "stock_days_validated": 10,
+  "production_caches_match_sha_verified_fixtures": true,
+  "tests": {
+    "passed": 411,
+    "failed": 0,
+    "skipped": 1,
+    "skip_reason": "Windows symbolic-link privilege unavailable; deterministic reparse check covered separately",
+    "log": "C:\\Project Rocket\\outputs\\chart_tool_minutes_enabled_20261009\\full_tests2.log"
+  },
+  "charts": [
+    {
+      "png": "C:\\Project Rocket\\outputs\\chart_tool_minutes_enabled_20261009\\charts\\002025_20260918_100730.png",
+      "sha256": "06bf51f26bb3d621b76ddb45572b59dcfceec438c76f613390ca2e3700fcd82d",
+      "cutoff": "2026-09-18T10:07:30+08:00",
+      "five_days": [
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18"
+      ],
+      "fifteen_rows": 67,
+      "candle_width_px": 19.0,
+      "candle_slot_px": 26.67297979797981,
+      "intraday_rows": 37,
+      "prev_close": 73.16,
+      "avg_price_max_error": 0.0,
+      "pixel_check": "pass",
+      "auction": null,
+      "warning": "AUCTION_UNAVAILABLE",
+      "production_source": "csv_1min_original",
+      "manual_visual_review": "PASS: primary inspected full PNGs and detail crops; five sessions separated, candles nonoverlapping, average and previous-close lines, complete percent ticks, Chinese header"
+    },
+    {
+      "png": "C:\\Project Rocket\\outputs\\chart_tool_minutes_enabled_20261009\\charts\\航天电器_20260109_092233.png",
+      "sha256": "17c603a688f54163b5a95d2aa5bdc93cbd17cf13d357d5a09cdcdd08a27c2efa",
+      "cutoff": "2026-01-09T09:22:33+08:00",
+      "five_days": [
+        "2025-12-31",
+        "2026-01-05",
+        "2026-01-06",
+        "2026-01-07",
+        "2026-01-08"
+      ],
+      "fifteen_rows": 80,
+      "candle_width_px": 16.0,
+      "candle_slot_px": 22.349429456661387,
+      "intraday_rows": 240,
+      "prev_close": 57.26,
+      "avg_price_max_error": 0.0,
+      "pixel_check": "pass",
+      "auction": null,
+      "warning": "AUCTION_UNAVAILABLE",
+      "production_source": "csv_1min_original",
+      "manual_visual_review": "PASS: primary inspected full PNGs and detail crops; five sessions separated, candles nonoverlapping, average and previous-close lines, complete percent ticks, Chinese header"
+    }
+  ],
+  "known_limitations": [
+    "Full historical coverage has not been validated; each requested day remains gated.",
+    "Pandas/NumPy timedelta deprecation warnings remain; no dependencies installed.",
+    "Default 3840px output clipped percent suffixes; delivered charts use existing --width 5600 option."
+  ]
+}

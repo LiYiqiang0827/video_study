@@ -1,0 +1,33 @@
+{
+  "status": "asr_complete_pending_video_review",
+  "started": "2026-10-03T03:20:53.399166+00:00",
+  "runner_pid": 43880,
+  "config": "config_v0.1.json",
+  "completed": [
+    {
+      "stream_id": "XSFwu5KOo5Y",
+      "segments": 4312,
+      "chunks": 30,
+      "duration_seconds": 8710.222948,
+      "completed": "2026-10-03T03:42:27.507113+00:00"
+    },
+    {
+      "stream_id": "dMgT48e5NQo",
+      "segments": 2698,
+      "chunks": 15,
+      "duration_seconds": 4227.796463,
+      "completed": "2026-10-03T03:57:10.289593+00:00"
+    },
+    {
+      "stream_id": "zuo8FhWIdow",
+      "segments": 5128,
+      "chunks": 28,
+      "duration_seconds": 8258.200091,
+      "completed": "2026-10-03T04:22:17.874750+00:00"
+    }
+  ],
+  "current": null,
+  "child_pid": null,
+  "stream_started": "2026-10-03T03:57:10.295231+00:00",
+  "ended": "2026-10-03T04:22:17.876770+00:00"
+}

@@ -1,0 +1,176 @@
+{
+  "begin": 0.0,
+  "finish": 300.0,
+  "segments": [
+    {
+      "start": 63.44,
+      "end": 74.84,
+      "text": "大家早安,这个今天呢,我也就看一下,还是按照我的节奏来啊,按照我自己的节奏来",
+      "avg_logprob": -0.1367,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 74.84,
+      "end": 89.12,
+      "text": "市场还行,也没有暴涨的,没有在跌的了,医药,医药起来,医药今天肯定会起来,美国医药涨那么好,肯定要起来",
+      "avg_logprob": -0.1367,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 89.12,
+      "end": 99.75,
+      "text": "软件嘛,软件中央行业,风范,都很正常,还好哈,都没有大涨,也没有大跌,正常",
+      "avg_logprob": -0.1367,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 100.15,
+      "end": 108.92,
+      "text": "这期软件不用太担心",
+      "avg_logprob": -0.1732,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 108.92,
+      "end": 109.54,
+      "text": "说句实话",
+      "avg_logprob": -0.1732,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 109.54,
+      "end": 111.32,
+      "text": "这个位置不用太担心",
+      "avg_logprob": -0.1732,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 111.32,
+      "end": 114.71,
+      "text": "软件买了就放那边",
+      "avg_logprob": -0.1732,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 114.71,
+      "end": 115.35,
+      "text": "不要管它",
+      "avg_logprob": -0.1732,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 115.35,
+      "end": 117.35,
+      "text": "它一定会起来的",
+      "avg_logprob": -0.1732,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 117.35,
+      "end": 120.0,
+      "text": "等一下",
+      "avg_logprob": -0.1732,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 120.0,
+      "end": 132.32,
+      "text": "今天就播一个小时",
+      "avg_logprob": -0.1732,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 132.32,
+      "end": 135.19,
+      "text": "因为今天这个比较累",
+      "avg_logprob": -0.1732,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 135.19,
+      "end": 136.13,
+      "text": "也比较忙",
+      "avg_logprob": -0.1732,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 136.13,
+      "end": 142.77,
+      "text": "其实我自己说实话",
+      "avg_logprob": -0.1732,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 142.77,
+      "end": 145.35,
+      "text": "晚上我自己不在外面说的话",
+      "avg_logprob": -0.1732,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 145.35,
+      "end": 148.07,
+      "text": "自己直接就睡觉了",
+      "avg_logprob": -0.1732,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 148.07,
+      "end": 190.1,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1038,
+      "no_speech_prob": 0.0951,
+      "review": false
+    },
+    {
+      "start": 190.12,
+      "end": 220.47,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0915,
+      "no_speech_prob": 0.5732,
+      "review": true
+    },
+    {
+      "start": 220.49,
+      "end": 250.47,
+      "text": "中文字幕志愿者 李宗盛",
+      "avg_logprob": -0.324,
+      "no_speech_prob": 0.2217,
+      "review": false
+    },
+    {
+      "start": 250.49,
+      "end": 280.47,
+      "text": "中文字幕志愿者 杨栋梁",
+      "avg_logprob": -0.3655,
+      "no_speech_prob": 0.0557,
+      "review": false
+    },
+    {
+      "start": 280.49,
+      "end": 299.77,
+      "text": "这两个我认为如果是能够走出这样子的话还行",
+      "avg_logprob": -0.2025,
+      "no_speech_prob": 0.0806,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 10.67
+}

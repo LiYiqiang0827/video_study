@@ -1,0 +1,107 @@
+{
+  "schema": 1,
+  "source": "C:\\Users\\HarryWu_IOKI\\Videos\\飞云双突破\\For GPT\\8.逆转与持续 沽压盈亏比.mkv",
+  "duration": 648.35,
+  "params": {
+    "source_sha256": "2fc315dd8850621b2480eb3287d7bbcdf810230554754613d215db5197302277",
+    "times": [
+      0.5,
+      60.5,
+      120.5,
+      180.5,
+      240.5,
+      300.5,
+      360.5,
+      420.5,
+      480.5,
+      540.5,
+      600.5
+    ],
+    "method": "accurate-seek-copyts-original-v1"
+  },
+  "frames": [
+    {
+      "requested_time": 0.5,
+      "time": 0.5,
+      "decoded_pts": 0.5,
+      "frame": "frame_00000_000000500.jpg",
+      "sha256": "96ed65c5bf2ceaeba516c0126ae31a9357120499958d4c390578f5b6ed064022"
+    },
+    {
+      "requested_time": 60.5,
+      "time": 60.5,
+      "decoded_pts": 60.5,
+      "frame": "frame_00001_000060500.jpg",
+      "sha256": "fc71c8350b6a14bda75f894382ea2246aeb06560b44bcf82de6669bf39d87cc9"
+    },
+    {
+      "requested_time": 120.5,
+      "time": 120.5,
+      "decoded_pts": 120.5,
+      "frame": "frame_00002_000120500.jpg",
+      "sha256": "45af44a0186aed7925756fd69c459ef70db8c49d85c75dce9ac3f2b5da028a2a"
+    },
+    {
+      "requested_time": 180.5,
+      "time": 180.5,
+      "decoded_pts": 180.5,
+      "frame": "frame_00003_000180500.jpg",
+      "sha256": "c0561588e8645da41a2e059f1b628ec4541fdf7a858af4ef11927e7f224efb54"
+    },
+    {
+      "requested_time": 240.5,
+      "time": 240.5,
+      "decoded_pts": 240.5,
+      "frame": "frame_00004_000240500.jpg",
+      "sha256": "cd0a569e6871862dfb4231cbb3f6d3caf1502a7481e9fbaad2566b584dec1398"
+    },
+    {
+      "requested_time": 300.5,
+      "time": 300.5,
+      "decoded_pts": 300.5,
+      "frame": "frame_00005_000300500.jpg",
+      "sha256": "1b56b0e9b42dd3ee5941d3bc90e310f64bc648237685c710e0b1687bafc75a43"
+    },
+    {
+      "requested_time": 360.5,
+      "time": 360.5,
+      "decoded_pts": 360.5,
+      "frame": "frame_00006_000360500.jpg",
+      "sha256": "adb6c057d8e5130146943c3b26a661839ba7bfe0338443eb0a66b3ab015f133e"
+    },
+    {
+      "requested_time": 420.5,
+      "time": 420.5,
+      "decoded_pts": 420.5,
+      "frame": "frame_00007_000420500.jpg",
+      "sha256": "b932d0b0ea30c1d5dad850cfb836931e73803e790f16364233d32e54e72c935c"
+    },
+    {
+      "requested_time": 480.5,
+      "time": 480.5,
+      "decoded_pts": 480.5,
+      "frame": "frame_00008_000480500.jpg",
+      "sha256": "047fc33cb5926a6a9d5ee3c54cff619254bd4eff7a8a9a41b67234d6f1366cdb"
+    },
+    {
+      "requested_time": 540.5,
+      "time": 540.5,
+      "decoded_pts": 540.5,
+      "frame": "frame_00009_000540500.jpg",
+      "sha256": "28adcc6ba388ae5c63551b6b88f19e0e7fd9701e1d9b3c7738f4ebc12aa30658"
+    },
+    {
+      "requested_time": 600.5,
+      "time": 600.5,
+      "decoded_pts": 600.5,
+      "frame": "frame_00010_000600500.jpg",
+      "sha256": "8b50d5f5d023b6dd0ee471870e43ba63a3e6989880aebc26dd69e13aea135b09"
+    }
+  ],
+  "status": "complete",
+  "sheets": [
+    "sheet_001.jpg",
+    "sheet_002.jpg"
+  ],
+  "speech_extraction": "C:\\Project Rocket\\output\\feiyun_double_breakout\\platform_large_v3_v1\\8.逆转与持续 沽压盈亏比_2fc315dd88_0s_66f4580d"
+}

@@ -1,0 +1,399 @@
+{
+  "status": "ok",
+  "output_path": "C:\\Project Rocket\\outputs\\chart_tool_minutes_enabled_20261009\\charts\\航天电器_20260109_092233.png",
+  "ts_code": "002025.SZ",
+  "requested_cutoff": "2026-01-09T09:22:33+08:00",
+  "effective_cutoff": "2026-01-08T15:00:00+08:00",
+  "stage": "restore",
+  "panels": {
+    "daily": {
+      "input_rows": 250,
+      "displayed_rows": 250,
+      "candle_count": 250,
+      "line_point_count": 0,
+      "volume_bar_count": 250,
+      "actual_start": "2024-12-27",
+      "actual_end": "2026-01-08",
+      "partial_count": 0,
+      "view_identity": {
+        "contract_version": "chart.v1",
+        "ts_code": "002025.SZ",
+        "period": "daily",
+        "metadata": {
+          "contract_version": "chart.v1",
+          "stage": "restore",
+          "window": "10y",
+          "requested_cutoff": "2026-01-09T09:22:33+08:00",
+          "effective_cutoff": "2026-01-08T15:00:00+08:00",
+          "cutoff_source": {
+            "calibration_segment": "XSFwu5KOo5Y at video632s; screen09:22:33 vs offset09:23:06; use earlier; preopen daily-only",
+            "candidates": [
+              {
+                "cutoff": "2026-01-09T09:22:33+08:00",
+                "evidence_ref": "inputs/source_frame_000632.jpg"
+              },
+              {
+                "cutoff": "2026-01-09T09:23:06+08:00",
+                "evidence_ref": "stream inventory verified start plus video offset632s"
+              }
+            ],
+            "confidence": "medium",
+            "evidence_refs": [
+              "inputs/source_frame_000632.jpg",
+              "inputs/transcript_excerpt.md"
+            ],
+            "kind": "screen_clock"
+          },
+          "cutoff_policy": "minute_end_v1",
+          "timezone": "Asia/Shanghai",
+          "price_unit": "CNY/share",
+          "volume_unit": "shares",
+          "amount_unit": "CNY",
+          "price_basis": "fixed_anchor_qfq",
+          "source_version": "7a4d9b9c0fbdda87a131865d70180e5a648a5b31a9e86797eff95f7fade47039",
+          "source_ids": [
+            "tushare:tbl_cn_day",
+            "tushare:tbl_cn_adj_factor",
+            "csv_1min_original"
+          ],
+          "factor_lineage": {
+            "source_id": "tushare:tbl_cn_adj_factor",
+            "source_version": "e25a5af1055e3fda84095868be899aa6e939d691c56df13f093f05f9768aa8bc",
+            "anchor_trade_date": "2026-01-08",
+            "anchor_value": 6.694,
+            "anchor_available_at": null,
+            "selection": "last_closed_date",
+            "visible_factor_digest": "cb62ad148c563b6b8ddace0c2f058310c6a44df1c2530c82600354b7b46acef2",
+            "visible_factor_count": 2236,
+            "formula": "raw_price * row_factor / anchor_factor"
+          },
+          "labels": {},
+          "labels_missing": [
+            "name",
+            "st_status",
+            "themes",
+            "boards"
+          ],
+          "incomplete": false,
+          "warnings": [
+            "AUCTION_NOT_YET_REVEALED",
+            "AUCTION_UNAVAILABLE",
+            "DISPLAY_SESSION_PREVIOUS",
+            "HISTORICAL_CALENDAR_COVERAGE_UNAVAILABLE",
+            "DISPLAY_ZOOM_WITHIN_CUTOFF"
+          ],
+          "gap_dates": [],
+          "auctions": {},
+          "prev_close": {
+            "2025-12-31": 48.56,
+            "2026-01-05": 50.13,
+            "2026-01-06": 51.68,
+            "2026-01-07": 56.85,
+            "2026-01-08": 57.26
+          }
+        },
+        "bars_sha256": "69c000314b383e7ee4dcaf369815b103c1f148e296390383d83c6e11958b32d0"
+      },
+      "warnings": [
+        "AUCTION_NOT_YET_REVEALED",
+        "AUCTION_UNAVAILABLE",
+        "DISPLAY_SESSION_PREVIOUS",
+        "HISTORICAL_CALENDAR_COVERAGE_UNAVAILABLE",
+        "DISPLAY_ZOOM_WITHIN_CUTOFF"
+      ]
+    },
+    "15m": {
+      "input_rows": 80,
+      "displayed_rows": 80,
+      "candle_count": 80,
+      "line_point_count": 0,
+      "volume_bar_count": 80,
+      "actual_start": "2025-12-31T09:45:00+08:00",
+      "actual_end": "2026-01-08T15:00:00+08:00",
+      "partial_count": 0,
+      "view_identity": {
+        "contract_version": "chart.v1",
+        "ts_code": "002025.SZ",
+        "period": "15m",
+        "metadata": {
+          "contract_version": "chart.v1",
+          "stage": "restore",
+          "window": "10y",
+          "requested_cutoff": "2026-01-09T09:22:33+08:00",
+          "effective_cutoff": "2026-01-08T15:00:00+08:00",
+          "cutoff_source": {
+            "calibration_segment": "XSFwu5KOo5Y at video632s; screen09:22:33 vs offset09:23:06; use earlier; preopen daily-only",
+            "candidates": [
+              {
+                "cutoff": "2026-01-09T09:22:33+08:00",
+                "evidence_ref": "inputs/source_frame_000632.jpg"
+              },
+              {
+                "cutoff": "2026-01-09T09:23:06+08:00",
+                "evidence_ref": "stream inventory verified start plus video offset632s"
+              }
+            ],
+            "confidence": "medium",
+            "evidence_refs": [
+              "inputs/source_frame_000632.jpg",
+              "inputs/transcript_excerpt.md"
+            ],
+            "kind": "screen_clock"
+          },
+          "cutoff_policy": "minute_end_v1",
+          "timezone": "Asia/Shanghai",
+          "price_unit": "CNY/share",
+          "volume_unit": "shares",
+          "amount_unit": "CNY",
+          "price_basis": "fixed_anchor_qfq",
+          "source_version": "7a4d9b9c0fbdda87a131865d70180e5a648a5b31a9e86797eff95f7fade47039",
+          "source_ids": [
+            "csv_1min_original",
+            "tushare:tbl_cn_adj_factor"
+          ],
+          "factor_lineage": {
+            "source_id": "tushare:tbl_cn_adj_factor",
+            "source_version": "e25a5af1055e3fda84095868be899aa6e939d691c56df13f093f05f9768aa8bc",
+            "anchor_trade_date": "2026-01-08",
+            "anchor_value": 6.694,
+            "anchor_available_at": null,
+            "selection": "last_closed_date",
+            "visible_factor_digest": "cb62ad148c563b6b8ddace0c2f058310c6a44df1c2530c82600354b7b46acef2",
+            "visible_factor_count": 2236,
+            "formula": "raw_price * row_factor / anchor_factor"
+          },
+          "labels": {},
+          "labels_missing": [
+            "name",
+            "st_status",
+            "themes",
+            "boards"
+          ],
+          "incomplete": false,
+          "warnings": [
+            "AUCTION_NOT_YET_REVEALED",
+            "AUCTION_UNAVAILABLE",
+            "DISPLAY_SESSION_PREVIOUS",
+            "HISTORICAL_CALENDAR_COVERAGE_UNAVAILABLE",
+            "FIFTEEN_MINUTES_DERIVED_FROM_ONE_MINUTE"
+          ],
+          "gap_dates": [],
+          "auctions": {},
+          "prev_close": {
+            "2025-12-31": 48.56,
+            "2026-01-05": 50.13,
+            "2026-01-06": 51.68,
+            "2026-01-07": 56.85,
+            "2026-01-08": 57.26
+          }
+        },
+        "bars_sha256": "c47bf98b3065893da8eac9b93af51b99562f06e788cbe4874aaa6cad98aa4ef1"
+      },
+      "warnings": [
+        "AUCTION_NOT_YET_REVEALED",
+        "AUCTION_UNAVAILABLE",
+        "DISPLAY_SESSION_PREVIOUS",
+        "HISTORICAL_CALENDAR_COVERAGE_UNAVAILABLE",
+        "FIFTEEN_MINUTES_DERIVED_FROM_ONE_MINUTE"
+      ]
+    },
+    "1m": {
+      "input_rows": 240,
+      "displayed_rows": 240,
+      "candle_count": 240,
+      "line_point_count": 0,
+      "volume_bar_count": 240,
+      "actual_start": "2026-01-08T09:31:00+08:00",
+      "actual_end": "2026-01-08T15:00:00+08:00",
+      "partial_count": 0,
+      "view_identity": {
+        "contract_version": "chart.v1",
+        "ts_code": "002025.SZ",
+        "period": "1m",
+        "metadata": {
+          "contract_version": "chart.v1",
+          "stage": "restore",
+          "window": "10y",
+          "requested_cutoff": "2026-01-09T09:22:33+08:00",
+          "effective_cutoff": "2026-01-08T15:00:00+08:00",
+          "cutoff_source": {
+            "calibration_segment": "XSFwu5KOo5Y at video632s; screen09:22:33 vs offset09:23:06; use earlier; preopen daily-only",
+            "candidates": [
+              {
+                "cutoff": "2026-01-09T09:22:33+08:00",
+                "evidence_ref": "inputs/source_frame_000632.jpg"
+              },
+              {
+                "cutoff": "2026-01-09T09:23:06+08:00",
+                "evidence_ref": "stream inventory verified start plus video offset632s"
+              }
+            ],
+            "confidence": "medium",
+            "evidence_refs": [
+              "inputs/source_frame_000632.jpg",
+              "inputs/transcript_excerpt.md"
+            ],
+            "kind": "screen_clock"
+          },
+          "cutoff_policy": "minute_end_v1",
+          "timezone": "Asia/Shanghai",
+          "price_unit": "CNY/share",
+          "volume_unit": "shares",
+          "amount_unit": "CNY",
+          "price_basis": "fixed_anchor_qfq",
+          "source_version": "7a4d9b9c0fbdda87a131865d70180e5a648a5b31a9e86797eff95f7fade47039",
+          "source_ids": [
+            "csv_1min_original",
+            "tushare:tbl_cn_adj_factor"
+          ],
+          "factor_lineage": {
+            "source_id": "tushare:tbl_cn_adj_factor",
+            "source_version": "e25a5af1055e3fda84095868be899aa6e939d691c56df13f093f05f9768aa8bc",
+            "anchor_trade_date": "2026-01-08",
+            "anchor_value": 6.694,
+            "anchor_available_at": null,
+            "selection": "last_closed_date",
+            "visible_factor_digest": "cb62ad148c563b6b8ddace0c2f058310c6a44df1c2530c82600354b7b46acef2",
+            "visible_factor_count": 2236,
+            "formula": "raw_price * row_factor / anchor_factor"
+          },
+          "labels": {},
+          "labels_missing": [
+            "name",
+            "st_status",
+            "themes",
+            "boards"
+          ],
+          "incomplete": false,
+          "warnings": [
+            "AUCTION_NOT_YET_REVEALED",
+            "AUCTION_UNAVAILABLE",
+            "DISPLAY_SESSION_PREVIOUS",
+            "HISTORICAL_CALENDAR_COVERAGE_UNAVAILABLE"
+          ],
+          "gap_dates": [],
+          "auctions": {},
+          "prev_close": {
+            "2025-12-31": 48.56,
+            "2026-01-05": 50.13,
+            "2026-01-06": 51.68,
+            "2026-01-07": 56.85,
+            "2026-01-08": 57.26
+          }
+        },
+        "bars_sha256": "c31528db5d1b81662a668442cfeef123b16aaf992ee9bcd59cd1a5e7a175ea2b"
+      },
+      "warnings": [
+        "AUCTION_NOT_YET_REVEALED",
+        "AUCTION_UNAVAILABLE",
+        "DISPLAY_SESSION_PREVIOUS",
+        "HISTORICAL_CALENDAR_COVERAGE_UNAVAILABLE"
+      ]
+    },
+    "intraday": {
+      "input_rows": 240,
+      "displayed_rows": 240,
+      "candle_count": 0,
+      "line_point_count": 240,
+      "volume_bar_count": 240,
+      "actual_start": "2026-01-08T09:31:00+08:00",
+      "actual_end": "2026-01-08T15:00:00+08:00",
+      "partial_count": 0,
+      "view_identity": {
+        "contract_version": "chart.v1",
+        "ts_code": "002025.SZ",
+        "period": "intraday",
+        "metadata": {
+          "contract_version": "chart.v1",
+          "stage": "restore",
+          "window": "10y",
+          "requested_cutoff": "2026-01-09T09:22:33+08:00",
+          "effective_cutoff": "2026-01-08T15:00:00+08:00",
+          "cutoff_source": {
+            "calibration_segment": "XSFwu5KOo5Y at video632s; screen09:22:33 vs offset09:23:06; use earlier; preopen daily-only",
+            "candidates": [
+              {
+                "cutoff": "2026-01-09T09:22:33+08:00",
+                "evidence_ref": "inputs/source_frame_000632.jpg"
+              },
+              {
+                "cutoff": "2026-01-09T09:23:06+08:00",
+                "evidence_ref": "stream inventory verified start plus video offset632s"
+              }
+            ],
+            "confidence": "medium",
+            "evidence_refs": [
+              "inputs/source_frame_000632.jpg",
+              "inputs/transcript_excerpt.md"
+            ],
+            "kind": "screen_clock"
+          },
+          "cutoff_policy": "minute_end_v1",
+          "timezone": "Asia/Shanghai",
+          "price_unit": "CNY/share",
+          "volume_unit": "shares",
+          "amount_unit": "CNY",
+          "price_basis": "fixed_anchor_qfq",
+          "source_version": "7a4d9b9c0fbdda87a131865d70180e5a648a5b31a9e86797eff95f7fade47039",
+          "source_ids": [
+            "csv_1min_original",
+            "tushare:tbl_cn_adj_factor"
+          ],
+          "factor_lineage": {
+            "source_id": "tushare:tbl_cn_adj_factor",
+            "source_version": "e25a5af1055e3fda84095868be899aa6e939d691c56df13f093f05f9768aa8bc",
+            "anchor_trade_date": "2026-01-08",
+            "anchor_value": 6.694,
+            "anchor_available_at": null,
+            "selection": "last_closed_date",
+            "visible_factor_digest": "cb62ad148c563b6b8ddace0c2f058310c6a44df1c2530c82600354b7b46acef2",
+            "visible_factor_count": 2236,
+            "formula": "raw_price * row_factor / anchor_factor"
+          },
+          "labels": {},
+          "labels_missing": [
+            "name",
+            "st_status",
+            "themes",
+            "boards"
+          ],
+          "incomplete": false,
+          "warnings": [
+            "AUCTION_NOT_YET_REVEALED",
+            "AUCTION_UNAVAILABLE",
+            "DISPLAY_SESSION_PREVIOUS",
+            "HISTORICAL_CALENDAR_COVERAGE_UNAVAILABLE"
+          ],
+          "gap_dates": [],
+          "auctions": {},
+          "prev_close": {
+            "2025-12-31": 48.56,
+            "2026-01-05": 50.13,
+            "2026-01-06": 51.68,
+            "2026-01-07": 56.85,
+            "2026-01-08": 57.26
+          }
+        },
+        "bars_sha256": "d3acd5e6238a99e06640d384691f05f1980ab62804ff405bdb4b5bb42249dbbc"
+      },
+      "warnings": [
+        "AUCTION_NOT_YET_REVEALED",
+        "AUCTION_UNAVAILABLE",
+        "DISPLAY_SESSION_PREVIOUS",
+        "HISTORICAL_CALENDAR_COVERAGE_UNAVAILABLE"
+      ]
+    }
+  },
+  "timings": {
+    "drawing_seconds": 0.435739000007743,
+    "encoding_seconds": 0.20648910000454634
+  },
+  "warnings": [
+    "AUCTION_NOT_YET_REVEALED",
+    "AUCTION_UNAVAILABLE",
+    "DISPLAY_SESSION_PREVIOUS",
+    "HISTORICAL_CALENDAR_COVERAGE_UNAVAILABLE",
+    "DISPLAY_ZOOM_WITHIN_CUTOFF",
+    "FIFTEEN_MINUTES_DERIVED_FROM_ONE_MINUTE"
+  ]
+}

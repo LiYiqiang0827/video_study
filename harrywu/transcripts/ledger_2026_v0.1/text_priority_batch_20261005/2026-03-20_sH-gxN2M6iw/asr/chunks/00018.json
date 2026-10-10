@@ -1,0 +1,120 @@
+{
+  "begin": 5400.0,
+  "finish": 5426.735601,
+  "segments": [
+    {
+      "start": 5399.74,
+      "end": 5401.38,
+      "text": "好,非常感谢",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.1499,
+      "review": false
+    },
+    {
+      "start": 5401.38,
+      "end": 5402.54,
+      "text": "我们下次见",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.1499,
+      "review": false
+    },
+    {
+      "start": 5402.54,
+      "end": 5404.99,
+      "text": "你不要问我有没有好不好",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.1499,
+      "review": false
+    },
+    {
+      "start": 5404.99,
+      "end": 5406.27,
+      "text": "我不要问我还停不停",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.1499,
+      "review": false
+    },
+    {
+      "start": 5406.27,
+      "end": 5408.19,
+      "text": "我的交易计划不是跟大家说了吗",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.1499,
+      "review": false
+    },
+    {
+      "start": 5408.19,
+      "end": 5409.11,
+      "text": "我前两天清仓了",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.1499,
+      "review": false
+    },
+    {
+      "start": 5409.11,
+      "end": 5409.85,
+      "text": "今天买回来了",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.1499,
+      "review": false
+    },
+    {
+      "start": 5409.85,
+      "end": 5412.39,
+      "text": "所以说你自己要有套自己的方法",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.1499,
+      "review": false
+    },
+    {
+      "start": 5412.39,
+      "end": 5412.85,
+      "text": "你问我",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.1499,
+      "review": false
+    },
+    {
+      "start": 5412.85,
+      "end": 5414.13,
+      "text": "我问了之后你也不能做",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.1499,
+      "review": false
+    },
+    {
+      "start": 5414.13,
+      "end": 5414.69,
+      "text": "你也做不到",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.1499,
+      "review": false
+    },
+    {
+      "start": 5414.69,
+      "end": 5415.81,
+      "text": "你也不能参考",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.1499,
+      "review": false
+    },
+    {
+      "start": 5415.81,
+      "end": 5416.19,
+      "text": "好不好",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.1499,
+      "review": false
+    },
+    {
+      "start": 5416.19,
+      "end": 5426.28,
+      "text": "我们下次见",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.1499,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 2.17
+}

@@ -1,0 +1,3041 @@
+{
+  "task_id": "V2-X1",
+  "generated_at": "2026-10-09T13:37:16+08:00",
+  "disk_gate": {
+    "disks": [
+      {
+        "DeviceID": "D:",
+        "FreeSpace": 980064301056,
+        "Size": 2000363188224
+      }
+    ],
+    "observed_at": "2026-10-09T14:29:56.7567356+09:00",
+    "extraction_processes": []
+  },
+  "limits": {
+    "max_source_file_equivalents": 60,
+    "max_directory_depth": 2,
+    "serial_source_reads": true,
+    "budget_definition": "Each single-day CSV/Parquet is one file; multi-day sources charged by selected stock-days. Selected stock-days also tracked conservatively."
+  },
+  "inventory": {
+    "root": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min",
+    "years": [
+      {
+        "year": 2009,
+        "root": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2009",
+        "direct_csv_count": 244,
+        "first_date": "20090105",
+        "last_date": "20091231",
+        "archives": [],
+        "unlisted_subdirectories": []
+      },
+      {
+        "year": 2010,
+        "root": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2010",
+        "direct_csv_count": 242,
+        "first_date": "20100104",
+        "last_date": "20101231",
+        "archives": [],
+        "unlisted_subdirectories": []
+      },
+      {
+        "year": 2011,
+        "root": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2011",
+        "direct_csv_count": 244,
+        "first_date": "20110104",
+        "last_date": "20111230",
+        "archives": [],
+        "unlisted_subdirectories": []
+      },
+      {
+        "year": 2012,
+        "root": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2012",
+        "direct_csv_count": 243,
+        "first_date": "20120104",
+        "last_date": "20121231",
+        "archives": [],
+        "unlisted_subdirectories": []
+      },
+      {
+        "year": 2013,
+        "root": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2013",
+        "direct_csv_count": 238,
+        "first_date": "20130104",
+        "last_date": "20131231",
+        "archives": [],
+        "unlisted_subdirectories": []
+      },
+      {
+        "year": 2014,
+        "root": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2014",
+        "direct_csv_count": 245,
+        "first_date": "20140102",
+        "last_date": "20141231",
+        "archives": [],
+        "unlisted_subdirectories": []
+      },
+      {
+        "year": 2015,
+        "root": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2015",
+        "direct_csv_count": 244,
+        "first_date": "20150105",
+        "last_date": "20151231",
+        "archives": [],
+        "unlisted_subdirectories": []
+      },
+      {
+        "year": 2016,
+        "root": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2016",
+        "direct_csv_count": 244,
+        "first_date": "20160104",
+        "last_date": "20161230",
+        "archives": [],
+        "unlisted_subdirectories": []
+      },
+      {
+        "year": 2017,
+        "root": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2017",
+        "direct_csv_count": 244,
+        "first_date": "20170103",
+        "last_date": "20171229",
+        "archives": [],
+        "unlisted_subdirectories": []
+      },
+      {
+        "year": 2018,
+        "root": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2018",
+        "direct_csv_count": 243,
+        "first_date": "20180102",
+        "last_date": "20181228",
+        "archives": [],
+        "unlisted_subdirectories": []
+      },
+      {
+        "year": 2019,
+        "root": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2019",
+        "direct_csv_count": 244,
+        "first_date": "20190102",
+        "last_date": "20191231",
+        "archives": [],
+        "unlisted_subdirectories": []
+      },
+      {
+        "year": 2020,
+        "root": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2020",
+        "direct_csv_count": 243,
+        "first_date": "20200102",
+        "last_date": "20201231",
+        "archives": [],
+        "unlisted_subdirectories": []
+      },
+      {
+        "year": 2021,
+        "root": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2021",
+        "direct_csv_count": 243,
+        "first_date": "20210104",
+        "last_date": "20211231",
+        "archives": [],
+        "unlisted_subdirectories": []
+      },
+      {
+        "year": 2022,
+        "root": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2022",
+        "direct_csv_count": 242,
+        "first_date": "20220104",
+        "last_date": "20221230",
+        "archives": [],
+        "unlisted_subdirectories": []
+      },
+      {
+        "year": 2023,
+        "root": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2023",
+        "direct_csv_count": 242,
+        "first_date": "20230103",
+        "last_date": "20231229",
+        "archives": [],
+        "unlisted_subdirectories": []
+      },
+      {
+        "year": 2024,
+        "root": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2024",
+        "direct_csv_count": 242,
+        "first_date": "20240102",
+        "last_date": "20241231",
+        "archives": [],
+        "unlisted_subdirectories": []
+      },
+      {
+        "year": 2025,
+        "root": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2025",
+        "direct_csv_count": 243,
+        "first_date": "20250102",
+        "last_date": "20251231",
+        "archives": [],
+        "unlisted_subdirectories": []
+      },
+      {
+        "year": 2026,
+        "root": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026",
+        "direct_csv_count": 174,
+        "first_date": "20260105",
+        "last_date": "20260918",
+        "archives": [],
+        "unlisted_subdirectories": []
+      }
+    ],
+    "selected_paths": {
+      "20180627": [
+        "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2018\\20180627_A股1分钟K线@余哈哈的数据仓库 原创整理.csv"
+      ],
+      "20190628": [
+        "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2019\\20190628_A股1分钟K线@余哈哈的数据仓库 原创整理.csv"
+      ],
+      "20200624": [
+        "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2020\\20200624_A股1分钟K线@余哈哈的数据仓库 原创整理.csv"
+      ],
+      "20210625": [
+        "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2021\\20210625_A股1分钟K线@余哈哈的数据仓库 原创整理.csv"
+      ],
+      "20220624": [
+        "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2022\\20220624_A股1分钟K线@余哈哈的数据仓库 原创整理.csv"
+      ],
+      "20230519": [
+        "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2023\\20230519_A股1分钟K线@余哈哈的数据仓库 原创整理.csv"
+      ],
+      "20240614": [
+        "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2024\\20240614_A股1分钟K线@余哈哈的数据仓库 原创整理.csv"
+      ],
+      "20250711": [
+        "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2025\\20250711_A股1分钟K线@余哈哈的数据仓库 原创整理.csv"
+      ],
+      "20251231": [
+        "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2025\\20251231_A股1分钟K线@余哈哈的数据仓库 原创整理.csv"
+      ],
+      "20260105": [
+        "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260105_A股1分钟K线@余哈哈的数据仓库 原创整理.csv"
+      ],
+      "20260106": [
+        "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260106_A股1分钟K线@余哈哈的数据仓库 原创整理.csv"
+      ],
+      "20260107": [
+        "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260107_A股1分钟K线@余哈哈的数据仓库 原创整理.csv"
+      ],
+      "20260108": [
+        "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260108_A股1分钟K线@余哈哈的数据仓库 原创整理.csv"
+      ],
+      "20260914": [
+        "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260914_A股1分钟K线@余哈哈的数据仓库 原创整理.csv"
+      ],
+      "20260915": [
+        "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260915_A股1分钟K线@余哈哈的数据仓库 原创整理.csv"
+      ],
+      "20260916": [
+        "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260916_A股1分钟K线@余哈哈的数据仓库 原创整理.csv"
+      ],
+      "20260917": [
+        "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260917_A股1分钟K线@余哈哈的数据仓库 原创整理.csv"
+      ],
+      "20260918": [
+        "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260918_A股1分钟K线@余哈哈的数据仓库 原创整理.csv"
+      ]
+    },
+    "missing_requested_dates": []
+  },
+  "source_reads": [
+    {
+      "path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2018\\20180627_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "kind": "csv",
+      "sha256": "e7698aabc6aa943464ce0bf3efd27f9e77d258113cd70e0dd993caac18101367",
+      "encoding": "utf-8",
+      "source_columns": [
+        "证券代码",
+        "证券名称",
+        "交易日期",
+        "分钟时间",
+        "开盘价（元）",
+        "最高价（元）",
+        "最低价（元）",
+        "收盘价（元）",
+        "成交量",
+        "成交额",
+        "复权因子"
+      ],
+      "bytes": 78817310,
+      "stock_days_selected": 2,
+      "content_open_count": 1,
+      "rows_decoded_for_target_filter": 850730,
+      "selected_rows": 482,
+      "seconds": 5.0187637000053655,
+      "stat_before": {
+        "size": 78817310,
+        "mtime_ns": 1790748305017005500
+      },
+      "stat_after": {
+        "size": 78817310,
+        "mtime_ns": 1790748305017005500
+      },
+      "unchanged": true
+    },
+    {
+      "path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2019\\20190628_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "kind": "csv",
+      "sha256": "e1cc42eba15ac2a59e1bd1cd568e19ea3eb326d33f798f128837e30a26c2beb8",
+      "encoding": "utf-8",
+      "source_columns": [
+        "证券代码",
+        "证券名称",
+        "交易日期",
+        "分钟时间",
+        "开盘价（元）",
+        "最高价（元）",
+        "最低价（元）",
+        "收盘价（元）",
+        "成交量",
+        "成交额",
+        "复权因子"
+      ],
+      "bytes": 82281614,
+      "stock_days_selected": 2,
+      "content_open_count": 1,
+      "rows_decoded_for_target_filter": 872902,
+      "selected_rows": 482,
+      "seconds": 1.5083676999929594,
+      "stat_before": {
+        "size": 82281614,
+        "mtime_ns": 1790747873543125700
+      },
+      "stat_after": {
+        "size": 82281614,
+        "mtime_ns": 1790747873543125700
+      },
+      "unchanged": true
+    },
+    {
+      "path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2020\\20200624_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "kind": "csv",
+      "sha256": "1418c664d32229777e0b83ec5b44b897bcc7eefce259640b19a5283335315128",
+      "encoding": "utf-8",
+      "source_columns": [
+        "证券代码",
+        "证券名称",
+        "交易日期",
+        "分钟时间",
+        "开盘价（元）",
+        "最高价（元）",
+        "最低价（元）",
+        "收盘价（元）",
+        "成交量",
+        "成交额",
+        "复权因子"
+      ],
+      "bytes": 88662479,
+      "stock_days_selected": 2,
+      "content_open_count": 1,
+      "rows_decoded_for_target_filter": 930019,
+      "selected_rows": 482,
+      "seconds": 1.569868000005954,
+      "stat_before": {
+        "size": 88662479,
+        "mtime_ns": 1790747403304513500
+      },
+      "stat_after": {
+        "size": 88662479,
+        "mtime_ns": 1790747403304513500
+      },
+      "unchanged": true
+    },
+    {
+      "path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2021\\20210625_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "kind": "csv",
+      "sha256": "94ec5e1dd3283ff0a695d33221f4672ed46abe9f4757d5b032e62c2170ec1d2b",
+      "encoding": "utf-8",
+      "source_columns": [
+        "证券代码",
+        "证券名称",
+        "交易日期",
+        "分钟时间",
+        "开盘价（元）",
+        "最高价（元）",
+        "最低价（元）",
+        "收盘价（元）",
+        "成交量",
+        "成交额",
+        "复权因子"
+      ],
+      "bytes": 99721488,
+      "stock_days_selected": 2,
+      "content_open_count": 1,
+      "rows_decoded_for_target_filter": 1050760,
+      "selected_rows": 482,
+      "seconds": 2.28800179999962,
+      "stat_before": {
+        "size": 99721488,
+        "mtime_ns": 1790746840304767800
+      },
+      "stat_after": {
+        "size": 99721488,
+        "mtime_ns": 1790746840304767800
+      },
+      "unchanged": true
+    },
+    {
+      "path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2022\\20220624_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "kind": "csv",
+      "sha256": "31f47de4beb27230c4bb6615b9c6c40fd7a94a056d3aad31cf15fd969dfa8cc5",
+      "encoding": "utf-8",
+      "source_columns": [
+        "证券代码",
+        "证券名称",
+        "交易日期",
+        "分钟时间",
+        "开盘价（元）",
+        "最高价（元）",
+        "最低价（元）",
+        "收盘价（元）",
+        "成交量",
+        "成交额",
+        "复权因子"
+      ],
+      "bytes": 108898568,
+      "stock_days_selected": 2,
+      "content_open_count": 1,
+      "rows_decoded_for_target_filter": 1139207,
+      "selected_rows": 482,
+      "seconds": 2.160063999996055,
+      "stat_before": {
+        "size": 108898568,
+        "mtime_ns": 1790746008767879800
+      },
+      "stat_after": {
+        "size": 108898568,
+        "mtime_ns": 1790746008767879800
+      },
+      "unchanged": true
+    },
+    {
+      "path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2023\\20230519_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "kind": "csv",
+      "sha256": "824402eb43178850d9775420c591e5b59e61fe6cadb838e211452fccb51f802b",
+      "encoding": "utf-8",
+      "source_columns": [
+        "证券代码",
+        "证券名称",
+        "交易日期",
+        "分钟时间",
+        "开盘价（元）",
+        "最高价（元）",
+        "最低价（元）",
+        "收盘价（元）",
+        "成交量",
+        "成交额",
+        "复权因子"
+      ],
+      "bytes": 119477201,
+      "stock_days_selected": 2,
+      "content_open_count": 1,
+      "rows_decoded_for_target_filter": 1254953,
+      "selected_rows": 482,
+      "seconds": 2.9126411999895936,
+      "stat_before": {
+        "size": 119477201,
+        "mtime_ns": 1790745245725328300
+      },
+      "stat_after": {
+        "size": 119477201,
+        "mtime_ns": 1790745245725328300
+      },
+      "unchanged": true
+    },
+    {
+      "path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2024\\20240614_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "kind": "csv",
+      "sha256": "989a4cc528221c9e399eff993d8465814c11b96c74ccca1c51f16d6aa2fe2720",
+      "encoding": "utf-8",
+      "source_columns": [
+        "证券代码",
+        "证券名称",
+        "交易日期",
+        "分钟时间",
+        "开盘价（元）",
+        "最高价（元）",
+        "最低价（元）",
+        "收盘价（元）",
+        "成交量",
+        "成交额",
+        "复权因子"
+      ],
+      "bytes": 123452854,
+      "stock_days_selected": 2,
+      "content_open_count": 1,
+      "rows_decoded_for_target_filter": 1300194,
+      "selected_rows": 482,
+      "seconds": 3.0784205999952974,
+      "stat_before": {
+        "size": 123452854,
+        "mtime_ns": 1790744604290071600
+      },
+      "stat_after": {
+        "size": 123452854,
+        "mtime_ns": 1790744604290071600
+      },
+      "unchanged": true
+    },
+    {
+      "path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2025\\20250711_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "kind": "csv",
+      "sha256": "757925937e829cfc9706c8168cc170a76df7fdfc1eabf6265a4d4162cd5535cf",
+      "encoding": "utf-8",
+      "source_columns": [
+        "证券代码",
+        "证券名称",
+        "交易日期",
+        "分钟时间",
+        "开盘价（元）",
+        "最高价（元）",
+        "最低价（元）",
+        "收盘价（元）",
+        "成交量",
+        "成交额",
+        "复权因子"
+      ],
+      "bytes": 127274289,
+      "stock_days_selected": 2,
+      "content_open_count": 1,
+      "rows_decoded_for_target_filter": 1313778,
+      "selected_rows": 482,
+      "seconds": 2.320465700002387,
+      "stat_before": {
+        "size": 127274289,
+        "mtime_ns": 1790743940473399200
+      },
+      "stat_after": {
+        "size": 127274289,
+        "mtime_ns": 1790743940473399200
+      },
+      "unchanged": true
+    },
+    {
+      "path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2025\\20251231_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "kind": "csv",
+      "sha256": "0e4c5771eefaf2638fa5f4e14519a91829279830c0045e0ba13104ebaea1423f",
+      "encoding": "utf-8",
+      "source_columns": [
+        "证券代码",
+        "证券名称",
+        "交易日期",
+        "分钟时间",
+        "开盘价（元）",
+        "最高价（元）",
+        "最低价（元）",
+        "收盘价（元）",
+        "成交量",
+        "成交额",
+        "复权因子"
+      ],
+      "bytes": 127748703,
+      "stock_days_selected": 1,
+      "content_open_count": 1,
+      "rows_decoded_for_target_filter": 1318270,
+      "selected_rows": 241,
+      "seconds": 3.1768726000009337,
+      "stat_before": {
+        "size": 127748703,
+        "mtime_ns": 1790744187244277000
+      },
+      "stat_after": {
+        "size": 127748703,
+        "mtime_ns": 1790744187244277000
+      },
+      "unchanged": true
+    },
+    {
+      "path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260105_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "kind": "csv",
+      "sha256": "4482d023a9f48e3e34e6c896117080e939baa48dbee7c69b2bd466184c0875e6",
+      "encoding": "utf-8",
+      "source_columns": [
+        "证券代码",
+        "证券名称",
+        "交易日期",
+        "分钟时间",
+        "开盘价（元）",
+        "最高价（元）",
+        "最低价（元）",
+        "收盘价（元）",
+        "成交量",
+        "成交额",
+        "复权因子"
+      ],
+      "bytes": 128199350,
+      "stock_days_selected": 1,
+      "content_open_count": 1,
+      "rows_decoded_for_target_filter": 1318029,
+      "selected_rows": 241,
+      "seconds": 2.9194165999942925,
+      "stat_before": {
+        "size": 128199350,
+        "mtime_ns": 1789958066326775300
+      },
+      "stat_after": {
+        "size": 128199350,
+        "mtime_ns": 1789958066326775300
+      },
+      "unchanged": true
+    },
+    {
+      "path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260106_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "kind": "csv",
+      "sha256": "8eff0e0aa8d591b13af93eeccbd889f856031a54c42cddf782de058e9b24dec3",
+      "encoding": "utf-8",
+      "source_columns": [
+        "证券代码",
+        "证券名称",
+        "交易日期",
+        "分钟时间",
+        "开盘价（元）",
+        "最高价（元）",
+        "最低价（元）",
+        "收盘价（元）",
+        "成交量",
+        "成交额",
+        "复权因子"
+      ],
+      "bytes": 128337777,
+      "stock_days_selected": 1,
+      "content_open_count": 1,
+      "rows_decoded_for_target_filter": 1318270,
+      "selected_rows": 241,
+      "seconds": 2.907847900001798,
+      "stat_before": {
+        "size": 128337777,
+        "mtime_ns": 1789958072694215100
+      },
+      "stat_after": {
+        "size": 128337777,
+        "mtime_ns": 1789958072694215100
+      },
+      "unchanged": true
+    },
+    {
+      "path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260107_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "kind": "csv",
+      "sha256": "06f46912fe1062f17b6aec2de6a9b4fc0a0ac6c742934fd9d8efff09641c3bbc",
+      "encoding": "utf-8",
+      "source_columns": [
+        "证券代码",
+        "证券名称",
+        "交易日期",
+        "分钟时间",
+        "开盘价（元）",
+        "最高价（元）",
+        "最低价（元）",
+        "收盘价（元）",
+        "成交量",
+        "成交额",
+        "复权因子"
+      ],
+      "bytes": 128332242,
+      "stock_days_selected": 1,
+      "content_open_count": 1,
+      "rows_decoded_for_target_filter": 1318270,
+      "selected_rows": 241,
+      "seconds": 2.8516057999950135,
+      "stat_before": {
+        "size": 128332242,
+        "mtime_ns": 1789958065760171700
+      },
+      "stat_after": {
+        "size": 128332242,
+        "mtime_ns": 1789958065760171700
+      },
+      "unchanged": true
+    },
+    {
+      "path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260108_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "kind": "csv",
+      "sha256": "f34a2af02e366bff24d9c5cbc281c96780eaddb649e4b396a2295e6483ca6c1a",
+      "encoding": "utf-8",
+      "source_columns": [
+        "证券代码",
+        "证券名称",
+        "交易日期",
+        "分钟时间",
+        "开盘价（元）",
+        "最高价（元）",
+        "最低价（元）",
+        "收盘价（元）",
+        "成交量",
+        "成交额",
+        "复权因子"
+      ],
+      "bytes": 128378930,
+      "stock_days_selected": 1,
+      "content_open_count": 1,
+      "rows_decoded_for_target_filter": 1318270,
+      "selected_rows": 241,
+      "seconds": 3.1288788999954704,
+      "stat_before": {
+        "size": 128378930,
+        "mtime_ns": 1789958065905581500
+      },
+      "stat_after": {
+        "size": 128378930,
+        "mtime_ns": 1789958065905581500
+      },
+      "unchanged": true
+    },
+    {
+      "path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260914_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "kind": "csv",
+      "sha256": "ad733d664133b50c639f8352232ba53289fa6d0edec43f0670e5d4ab9bc25805",
+      "encoding": "utf-8",
+      "source_columns": [
+        "证券代码",
+        "证券名称",
+        "交易日期",
+        "分钟时间",
+        "开盘价（元）",
+        "最高价（元）",
+        "最低价（元）",
+        "收盘价（元）",
+        "成交量",
+        "成交额",
+        "复权因子"
+      ],
+      "bytes": 129623443,
+      "stock_days_selected": 1,
+      "content_open_count": 1,
+      "rows_decoded_for_target_filter": 1340442,
+      "selected_rows": 241,
+      "seconds": 2.373796800005948,
+      "stat_before": {
+        "size": 129623443,
+        "mtime_ns": 1789959161545874400
+      },
+      "stat_after": {
+        "size": 129623443,
+        "mtime_ns": 1789959161545874400
+      },
+      "unchanged": true
+    },
+    {
+      "path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260915_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "kind": "csv",
+      "sha256": "13cc1d5337ffe3eb460664be0214d1f74dd26d46963fbf290a1aefe3299b4ece",
+      "encoding": "utf-8",
+      "source_columns": [
+        "证券代码",
+        "证券名称",
+        "交易日期",
+        "分钟时间",
+        "开盘价（元）",
+        "最高价（元）",
+        "最低价（元）",
+        "收盘价（元）",
+        "成交量",
+        "成交额",
+        "复权因子"
+      ],
+      "bytes": 129543218,
+      "stock_days_selected": 1,
+      "content_open_count": 1,
+      "rows_decoded_for_target_filter": 1340442,
+      "selected_rows": 241,
+      "seconds": 2.734962299990002,
+      "stat_before": {
+        "size": 129543218,
+        "mtime_ns": 1789959175452296500
+      },
+      "stat_after": {
+        "size": 129543218,
+        "mtime_ns": 1789959175452296500
+      },
+      "unchanged": true
+    },
+    {
+      "path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260916_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "kind": "csv",
+      "sha256": "63bfe092b8fe4ada9c36a88c2cbae8f4e0a65c034dd7991e1cfc9628e39ee372",
+      "encoding": "utf-8",
+      "source_columns": [
+        "证券代码",
+        "证券名称",
+        "交易日期",
+        "分钟时间",
+        "开盘价（元）",
+        "最高价（元）",
+        "最低价（元）",
+        "收盘价（元）",
+        "成交量",
+        "成交额",
+        "复权因子"
+      ],
+      "bytes": 129710247,
+      "stock_days_selected": 1,
+      "content_open_count": 1,
+      "rows_decoded_for_target_filter": 1340924,
+      "selected_rows": 241,
+      "seconds": 2.6399108999903547,
+      "stat_before": {
+        "size": 129710247,
+        "mtime_ns": 1789959179063304500
+      },
+      "stat_after": {
+        "size": 129710247,
+        "mtime_ns": 1789959179063304500
+      },
+      "unchanged": true
+    },
+    {
+      "path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260917_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "kind": "csv",
+      "sha256": "634b0e7738f784e0a418d73e46cdc7043be756eb7b7bda3948a6fdfc31f89531",
+      "encoding": "utf-8",
+      "source_columns": [
+        "证券代码",
+        "证券名称",
+        "交易日期",
+        "分钟时间",
+        "开盘价（元）",
+        "最高价（元）",
+        "最低价（元）",
+        "收盘价（元）",
+        "成交量",
+        "成交额",
+        "复权因子"
+      ],
+      "bytes": 129612445,
+      "stock_days_selected": 1,
+      "content_open_count": 1,
+      "rows_decoded_for_target_filter": 1341165,
+      "selected_rows": 241,
+      "seconds": 2.688975400000345,
+      "stat_before": {
+        "size": 129612445,
+        "mtime_ns": 1789959190371544200
+      },
+      "stat_after": {
+        "size": 129612445,
+        "mtime_ns": 1789959190371544200
+      },
+      "unchanged": true
+    },
+    {
+      "path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260918_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "kind": "csv",
+      "sha256": "470389b24ef249e7100a5f4f24378632990133e6ec1859be7f223acf2203962c",
+      "encoding": "utf-8",
+      "source_columns": [
+        "证券代码",
+        "证券名称",
+        "交易日期",
+        "分钟时间",
+        "开盘价（元）",
+        "最高价（元）",
+        "最低价（元）",
+        "收盘价（元）",
+        "成交量",
+        "成交额",
+        "复权因子"
+      ],
+      "bytes": 129882813,
+      "stock_days_selected": 2,
+      "content_open_count": 1,
+      "rows_decoded_for_target_filter": 1341165,
+      "selected_rows": 482,
+      "seconds": 0.846473599987803,
+      "stat_before": {
+        "size": 129882813,
+        "mtime_ns": 1789959230121467100
+      },
+      "stat_after": {
+        "size": 129882813,
+        "mtime_ns": 1789959230121467100
+      },
+      "unchanged": true
+    },
+    {
+      "path": "D:\\ProjectRocketData\\processed\\TradingAgent\\oneMinute\\parquet\\schema_v2\\_manifest\\trade_date=20260108.json",
+      "kind": "manifest",
+      "content_open_count": 1,
+      "sha256": "46f397ef38812610ffcbc4d8d558bfd90ee94b3724c3e8cbb717efea1767066b"
+    },
+    {
+      "path": "D:\\ProjectRocketData\\processed\\TradingAgent\\oneMinute\\parquet\\schema_v2\\year=2026\\month=01\\trade_date=20260108\\part-000.parquet",
+      "kind": "parquet",
+      "sha256": "e588b762f0b63b2da598eada06518932ae9bde4a137b3c48216a834590dba8e2",
+      "content_open_count": 1,
+      "stock_days_selected": 1,
+      "stat_before": {
+        "size": 16780053,
+        "mtime_ns": 1790601214005863600
+      },
+      "stat_after": {
+        "size": 16780053,
+        "mtime_ns": 1790601214005863600
+      },
+      "unchanged": true
+    },
+    {
+      "path": "D:\\ProjectRocketData\\processed\\TradingAgent\\oneMinute\\parquet\\schema_v2\\_manifest\\trade_date=20260918.json",
+      "kind": "manifest",
+      "content_open_count": 1,
+      "sha256": "9001aa33efe2e77912b88527fc993620fe8c986a5c81593ea0cbb00425d14bae"
+    },
+    {
+      "path": "D:\\ProjectRocketData\\processed\\TradingAgent\\oneMinute\\parquet\\schema_v2\\year=2026\\month=09\\trade_date=20260918\\part-000.parquet",
+      "kind": "parquet",
+      "sha256": "e42b807a643aa1be3c3849c538c8023a84fdbdbad5fddd519aef998d252320c5",
+      "content_open_count": 1,
+      "stock_days_selected": 1,
+      "stat_before": {
+        "size": 16490859,
+        "mtime_ns": 1790601828226942700
+      },
+      "stat_after": {
+        "size": 16490859,
+        "mtime_ns": 1790601828226942700
+      },
+      "unchanged": true
+    },
+    {
+      "path": "D:\\ProjectRocketData\\processed\\TradingAgent\\oneMinute\\parquet\\schema_v2\\_manifest\\trade_date=20210625.json",
+      "kind": "manifest",
+      "content_open_count": 1,
+      "sha256": "49a2675f50ede2bb5119fa113d86002f0a10623dbdd4515ba3e5508480083836"
+    },
+    {
+      "path": "D:\\ProjectRocketData\\processed\\TradingAgent\\oneMinute\\parquet\\schema_v2\\year=2021\\month=06\\trade_date=20210625\\part-000.parquet",
+      "kind": "parquet",
+      "sha256": "9995e3a3fb8742395f1e3249794f4893ca396fb0b2328f1dfa0f514d391a1d3c",
+      "content_open_count": 1,
+      "stock_days_selected": 1,
+      "stat_before": {
+        "size": 12568066,
+        "mtime_ns": 1790608460863355200
+      },
+      "stat_after": {
+        "size": 12568066,
+        "mtime_ns": 1790608460863355200
+      },
+      "unchanged": true
+    },
+    {
+      "path": "D:\\ProjectRocketData\\processed\\TradingAgent\\oneMinute\\catalog.duckdb",
+      "kind": "catalog_metadata",
+      "content_open_count": 1
+    }
+  ],
+  "stock_days": [
+    {
+      "ts_code": "002025.SZ",
+      "trade_date": "2018-06-27",
+      "source_path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2018\\20180627_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "available": true,
+      "rows": 241,
+      "continuous_rows": 240,
+      "has_0930": true,
+      "duplicate_timestamps": 0,
+      "missing_expected_times": [],
+      "first_time": "2018-06-27 09:30:00",
+      "last_time": "2018-06-27 15:00:00",
+      "source_name": "航天电器",
+      "official_unadjusted": {
+        "open": 22.98,
+        "high": 23.21,
+        "low": 22.41,
+        "close": 22.71,
+        "vol": 25047.3,
+        "amount": 56996.867
+      },
+      "full_day_including_0930": {
+        "vol_shares": 2504730.0,
+        "amount_CNY": 56996867.370000005,
+        "vol_rel": 0.0,
+        "amount_rel": 6.491584963229147e-09,
+        "high": 23.21,
+        "low": 22.41,
+        "last_close": 22.71,
+        "close_diff": 0.0,
+        "high_diff": 0.0,
+        "low_diff": 0.0
+      },
+      "without_0930": {
+        "vol_rel": -0.0015171295908141796,
+        "amount_rel": -0.001532077719289294
+      },
+      "csv_factor_unique": [
+        6.461
+      ],
+      "row_0930": {
+        "open": 22.98,
+        "high": 22.98,
+        "low": 22.98,
+        "close": 22.98,
+        "vol": 3800.0,
+        "amount": 87324.0,
+        "open_diff": 0.0,
+        "close_diff": 0.0,
+        "high_low_range": 0.0,
+        "all_ohlc_equal": true,
+        "vwap": 22.98
+      }
+    },
+    {
+      "ts_code": "600990.SH",
+      "trade_date": "2018-06-27",
+      "source_path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2018\\20180627_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "available": true,
+      "rows": 241,
+      "continuous_rows": 240,
+      "has_0930": true,
+      "duplicate_timestamps": 0,
+      "missing_expected_times": [],
+      "first_time": "2018-06-27 09:30:00",
+      "last_time": "2018-06-27 15:00:00",
+      "source_name": "四创电子",
+      "official_unadjusted": {
+        "open": 48.72,
+        "high": 49.56,
+        "low": 48.26,
+        "close": 48.54,
+        "vol": 14433.0,
+        "amount": 70772.194
+      },
+      "full_day_including_0930": {
+        "vol_shares": 1443300.0,
+        "amount_CNY": 70772194.0,
+        "vol_rel": 0.0,
+        "amount_rel": 0.0,
+        "high": 49.56,
+        "low": 48.26,
+        "last_close": 48.48,
+        "close_diff": -0.060000000000002274,
+        "high_diff": 0.0,
+        "low_diff": 0.0
+      },
+      "without_0930": {
+        "vol_rel": -0.0004157139887757223,
+        "amount_rel": -0.00041304357471240753
+      },
+      "csv_factor_unique": [
+        2.771
+      ],
+      "row_0930": {
+        "open": 48.72,
+        "high": 48.72,
+        "low": 48.72,
+        "close": 48.72,
+        "vol": 600.0,
+        "amount": 29232.0,
+        "open_diff": 0.0,
+        "close_diff": 0.0,
+        "high_low_range": 0.0,
+        "all_ohlc_equal": true,
+        "vwap": 48.72
+      }
+    },
+    {
+      "ts_code": "002025.SZ",
+      "trade_date": "2019-06-28",
+      "source_path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2019\\20190628_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "available": true,
+      "rows": 241,
+      "continuous_rows": 240,
+      "has_0930": true,
+      "duplicate_timestamps": 0,
+      "missing_expected_times": [],
+      "first_time": "2019-06-28 09:30:00",
+      "last_time": "2019-06-28 15:00:00",
+      "source_name": "航天电器",
+      "official_unadjusted": {
+        "open": 24.75,
+        "high": 24.78,
+        "low": 24.3,
+        "close": 24.38,
+        "vol": 35135.04,
+        "amount": 85992.605
+      },
+      "full_day_including_0930": {
+        "vol_shares": 3513504.0,
+        "amount_CNY": 85992605.68,
+        "vol_rel": 0.0,
+        "amount_rel": 7.907656793890095e-09,
+        "high": 24.78,
+        "low": 24.3,
+        "last_close": 24.38,
+        "close_diff": 0.0,
+        "high_diff": 0.0,
+        "low_diff": 0.0
+      },
+      "without_0930": {
+        "vol_rel": -0.0016792353160833173,
+        "amount_rel": -0.0016981032264343295
+      },
+      "csv_factor_unique": [
+        6.5
+      ],
+      "row_0930": {
+        "open": 24.75,
+        "high": 24.75,
+        "low": 24.75,
+        "close": 24.75,
+        "vol": 5900.0,
+        "amount": 146025.0,
+        "open_diff": 0.0,
+        "close_diff": 0.0,
+        "high_low_range": 0.0,
+        "all_ohlc_equal": true,
+        "vwap": 24.75
+      }
+    },
+    {
+      "ts_code": "600990.SH",
+      "trade_date": "2019-06-28",
+      "source_path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2019\\20190628_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "available": true,
+      "rows": 241,
+      "continuous_rows": 240,
+      "has_0930": true,
+      "duplicate_timestamps": 0,
+      "missing_expected_times": [],
+      "first_time": "2019-06-28 09:30:00",
+      "last_time": "2019-06-28 15:00:00",
+      "source_name": "四创电子",
+      "official_unadjusted": {
+        "open": 46.18,
+        "high": 47.53,
+        "low": 46.03,
+        "close": 46.52,
+        "vol": 15833.23,
+        "amount": 73969.349
+      },
+      "full_day_including_0930": {
+        "vol_shares": 1583323.0,
+        "amount_CNY": 73969349.0,
+        "vol_rel": 0.0,
+        "amount_rel": 0.0,
+        "high": 47.53,
+        "low": 46.03,
+        "last_close": 46.52,
+        "close_diff": 0.0,
+        "high_diff": 0.0,
+        "low_diff": 0.0
+      },
+      "without_0930": {
+        "vol_rel": -0.0011368495247021612,
+        "amount_rel": -0.0011237627628708751
+      },
+      "csv_factor_unique": [
+        2.789
+      ],
+      "row_0930": {
+        "open": 46.18,
+        "high": 46.18,
+        "low": 46.18,
+        "close": 46.18,
+        "vol": 1800.0,
+        "amount": 83124.0,
+        "open_diff": 0.0,
+        "close_diff": 0.0,
+        "high_low_range": 0.0,
+        "all_ohlc_equal": true,
+        "vwap": 46.18
+      }
+    },
+    {
+      "ts_code": "002025.SZ",
+      "trade_date": "2020-06-24",
+      "source_path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2020\\20200624_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "available": true,
+      "rows": 241,
+      "continuous_rows": 240,
+      "has_0930": true,
+      "duplicate_timestamps": 0,
+      "missing_expected_times": [],
+      "first_time": "2020-06-24 09:30:00",
+      "last_time": "2020-06-24 15:00:00",
+      "source_name": "航天电器",
+      "official_unadjusted": {
+        "open": 33.91,
+        "high": 34.99,
+        "low": 33.35,
+        "close": 34.0,
+        "vol": 139006.84,
+        "amount": 474269.833
+      },
+      "full_day_including_0930": {
+        "vol_shares": 13900684.0,
+        "amount_CNY": 474269832.03999996,
+        "vol_rel": 0.0,
+        "amount_rel": -2.0241642443806303e-09,
+        "high": 34.98,
+        "low": 33.38,
+        "last_close": 34.0,
+        "close_diff": 0.0,
+        "high_diff": -0.010000000000005116,
+        "low_diff": 0.030000000000001137
+      },
+      "without_0930": {
+        "vol_rel": -0.0113735410430163,
+        "amount_rel": -0.01130526461294037
+      },
+      "csv_factor_unique": [
+        6.5294
+      ],
+      "row_0930": {
+        "open": 33.91,
+        "high": 33.91,
+        "low": 33.91,
+        "close": 33.91,
+        "vol": 158100.0,
+        "amount": 5361745.0,
+        "open_diff": 0.0,
+        "close_diff": 0.0,
+        "high_low_range": 0.0,
+        "all_ohlc_equal": true,
+        "vwap": 33.91363061353574
+      }
+    },
+    {
+      "ts_code": "600990.SH",
+      "trade_date": "2020-06-24",
+      "source_path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2020\\20200624_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "available": true,
+      "rows": 241,
+      "continuous_rows": 240,
+      "has_0930": true,
+      "duplicate_timestamps": 0,
+      "missing_expected_times": [],
+      "first_time": "2020-06-24 09:30:00",
+      "last_time": "2020-06-24 15:00:00",
+      "source_name": "四创电子",
+      "official_unadjusted": {
+        "open": 39.7,
+        "high": 39.8,
+        "low": 39.0,
+        "close": 39.2,
+        "vol": 17708.2,
+        "amount": 69463.321
+      },
+      "full_day_including_0930": {
+        "vol_shares": 1770820.0,
+        "amount_CNY": 69463321.0,
+        "vol_rel": 0.0,
+        "amount_rel": 0.0,
+        "high": 39.8,
+        "low": 39.0,
+        "last_close": 39.2,
+        "close_diff": 0.0,
+        "high_diff": 0.0,
+        "low_diff": 0.0
+      },
+      "without_0930": {
+        "vol_rel": -0.0007341231745744909,
+        "amount_rel": -0.0007429820408385024
+      },
+      "csv_factor_unique": [
+        2.7886
+      ],
+      "row_0930": {
+        "open": 39.7,
+        "high": 39.7,
+        "low": 39.7,
+        "close": 39.7,
+        "vol": 1300.0,
+        "amount": 51610.0,
+        "open_diff": 0.0,
+        "close_diff": 0.0,
+        "high_low_range": 0.0,
+        "all_ohlc_equal": true,
+        "vwap": 39.7
+      }
+    },
+    {
+      "ts_code": "002025.SZ",
+      "trade_date": "2021-06-25",
+      "source_path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2021\\20210625_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "available": true,
+      "rows": 241,
+      "continuous_rows": 240,
+      "has_0930": true,
+      "duplicate_timestamps": 0,
+      "missing_expected_times": [],
+      "first_time": "2021-06-25 09:30:00",
+      "last_time": "2021-06-25 15:00:00",
+      "source_name": "航天电器",
+      "official_unadjusted": {
+        "open": 50.8,
+        "high": 51.66,
+        "low": 49.64,
+        "close": 51.5,
+        "vol": 41453.97,
+        "amount": 209170.545
+      },
+      "full_day_including_0930": {
+        "vol_shares": 4145397.0,
+        "amount_CNY": 209170545.74,
+        "vol_rel": 0.0,
+        "amount_rel": 3.5377830541902694e-09,
+        "high": 51.66,
+        "low": 49.64,
+        "last_close": 51.5,
+        "close_diff": 0.0,
+        "high_diff": 0.0,
+        "low_diff": 0.0
+      },
+      "without_0930": {
+        "vol_rel": -0.0030395158774901413,
+        "amount_rel": -0.0030601213951994065
+      },
+      "csv_factor_unique": [
+        6.555
+      ],
+      "row_0930": {
+        "open": 50.8,
+        "high": 50.81,
+        "low": 50.8,
+        "close": 50.81,
+        "vol": 12600.0,
+        "amount": 640088.0,
+        "open_diff": 0.0,
+        "close_diff": 0.010000000000005116,
+        "high_low_range": 0.010000000000005116,
+        "all_ohlc_equal": false,
+        "vwap": 50.80063492063492
+      }
+    },
+    {
+      "ts_code": "600990.SH",
+      "trade_date": "2021-06-25",
+      "source_path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2021\\20210625_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "available": true,
+      "rows": 241,
+      "continuous_rows": 240,
+      "has_0930": true,
+      "duplicate_timestamps": 0,
+      "missing_expected_times": [],
+      "first_time": "2021-06-25 09:30:00",
+      "last_time": "2021-06-25 15:00:00",
+      "source_name": "四创电子",
+      "official_unadjusted": {
+        "open": 40.69,
+        "high": 41.0,
+        "low": 40.02,
+        "close": 40.5,
+        "vol": 17027.35,
+        "amount": 68806.311
+      },
+      "full_day_including_0930": {
+        "vol_shares": 1702735.0,
+        "amount_CNY": 68806311.0,
+        "vol_rel": 1.3673921288625046e-16,
+        "amount_rel": 0.0,
+        "high": 41.0,
+        "low": 40.02,
+        "last_close": 40.5,
+        "close_diff": 0.0,
+        "high_diff": 0.0,
+        "low_diff": 0.0
+      },
+      "without_0930": {
+        "vol_rel": -0.004111033131990455,
+        "amount_rel": -0.004139591206975186
+      },
+      "csv_factor_unique": [
+        2.793
+      ],
+      "row_0930": {
+        "open": 40.69,
+        "high": 40.69,
+        "low": 40.69,
+        "close": 40.69,
+        "vol": 7000.0,
+        "amount": 284830.0,
+        "open_diff": 0.0,
+        "close_diff": 0.0,
+        "high_low_range": 0.0,
+        "all_ohlc_equal": true,
+        "vwap": 40.69
+      }
+    },
+    {
+      "ts_code": "002025.SZ",
+      "trade_date": "2022-06-24",
+      "source_path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2022\\20220624_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "available": true,
+      "rows": 241,
+      "continuous_rows": 240,
+      "has_0930": true,
+      "duplicate_timestamps": 0,
+      "missing_expected_times": [],
+      "first_time": "2022-06-24 09:30:00",
+      "last_time": "2022-06-24 15:00:00",
+      "source_name": "航天电器",
+      "official_unadjusted": {
+        "open": 72.8,
+        "high": 74.8,
+        "low": 70.61,
+        "close": 71.4,
+        "vol": 47067.23,
+        "amount": 340333.608
+      },
+      "full_day_including_0930": {
+        "vol_shares": 4706723.0,
+        "amount_CNY": 340333608.17,
+        "vol_rel": 0.0,
+        "amount_rel": 4.995099299429181e-10,
+        "high": 74.8,
+        "low": 70.61,
+        "last_close": 71.4,
+        "close_diff": 0.0,
+        "high_diff": 0.0,
+        "low_diff": 0.0
+      },
+      "without_0930": {
+        "vol_rel": -0.0021246204631120208,
+        "amount_rel": -0.002138830291482829
+      },
+      "csv_factor_unique": [
+        6.5732
+      ],
+      "row_0930": {
+        "open": 72.8,
+        "high": 72.8,
+        "low": 72.35,
+        "close": 72.35,
+        "vol": 10000.0,
+        "amount": 727916.0,
+        "open_diff": 0.0,
+        "close_diff": -0.45000000000000284,
+        "high_low_range": 0.45000000000000284,
+        "all_ohlc_equal": false,
+        "vwap": 72.7916
+      }
+    },
+    {
+      "ts_code": "600990.SH",
+      "trade_date": "2022-06-24",
+      "source_path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2022\\20220624_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "available": true,
+      "rows": 241,
+      "continuous_rows": 240,
+      "has_0930": true,
+      "duplicate_timestamps": 0,
+      "missing_expected_times": [],
+      "first_time": "2022-06-24 09:30:00",
+      "last_time": "2022-06-24 15:00:00",
+      "source_name": "四创电子",
+      "official_unadjusted": {
+        "open": 42.49,
+        "high": 43.99,
+        "low": 42.13,
+        "close": 42.98,
+        "vol": 28741.21,
+        "amount": 124082.123
+      },
+      "full_day_including_0930": {
+        "vol_shares": 2874121.0,
+        "amount_CNY": 124082123.0,
+        "vol_rel": 0.0,
+        "amount_rel": 0.0,
+        "high": 43.99,
+        "low": 42.13,
+        "last_close": 42.98,
+        "close_diff": 0.0,
+        "high_diff": 0.0,
+        "low_diff": 0.0
+      },
+      "without_0930": {
+        "vol_rel": -0.003514117881606237,
+        "amount_rel": -0.003458588470476122
+      },
+      "csv_factor_unique": [
+        2.817
+      ],
+      "row_0930": {
+        "open": 42.49,
+        "high": 42.49,
+        "low": 42.49,
+        "close": 42.49,
+        "vol": 10100.0,
+        "amount": 429149.0,
+        "open_diff": 0.0,
+        "close_diff": 0.0,
+        "high_low_range": 0.0,
+        "all_ohlc_equal": true,
+        "vwap": 42.49
+      }
+    },
+    {
+      "ts_code": "002025.SZ",
+      "trade_date": "2023-05-19",
+      "source_path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2023\\20230519_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "available": true,
+      "rows": 241,
+      "continuous_rows": 240,
+      "has_0930": true,
+      "duplicate_timestamps": 0,
+      "missing_expected_times": [],
+      "first_time": "2023-05-19 09:30:00",
+      "last_time": "2023-05-19 15:00:00",
+      "source_name": "航天电器",
+      "official_unadjusted": {
+        "open": 65.17,
+        "high": 65.98,
+        "low": 65.09,
+        "close": 65.45,
+        "vol": 17697.35,
+        "amount": 116016.505
+      },
+      "full_day_including_0930": {
+        "vol_shares": 1769735.0,
+        "amount_CNY": 116016504.5,
+        "vol_rel": 1.315624337281399e-16,
+        "amount_rel": -4.3097316196518764e-09,
+        "high": 65.98,
+        "low": 65.09,
+        "last_close": 65.45,
+        "close_diff": 0.0,
+        "high_diff": 0.0,
+        "low_diff": 0.0
+      },
+      "without_0930": {
+        "vol_rel": -0.000452045080195491,
+        "amount_rel": -0.0004493627867862422
+      },
+      "csv_factor_unique": [
+        6.6104
+      ],
+      "row_0930": {
+        "open": 65.17,
+        "high": 65.17,
+        "low": 65.15,
+        "close": 65.15,
+        "vol": 800.0,
+        "amount": 52133.0,
+        "open_diff": 0.0,
+        "close_diff": -0.01999999999999602,
+        "high_low_range": 0.01999999999999602,
+        "all_ohlc_equal": false,
+        "vwap": 65.16625
+      }
+    },
+    {
+      "ts_code": "600990.SH",
+      "trade_date": "2023-05-19",
+      "source_path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2023\\20230519_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "available": true,
+      "rows": 241,
+      "continuous_rows": 240,
+      "has_0930": true,
+      "duplicate_timestamps": 0,
+      "missing_expected_times": [],
+      "first_time": "2023-05-19 09:30:00",
+      "last_time": "2023-05-19 15:00:00",
+      "source_name": "四创电子",
+      "official_unadjusted": {
+        "open": 30.62,
+        "high": 31.12,
+        "low": 30.6,
+        "close": 30.97,
+        "vol": 15117.41,
+        "amount": 46751.882
+      },
+      "full_day_including_0930": {
+        "vol_shares": 1511741.0,
+        "amount_CNY": 46751882.0,
+        "vol_rel": 0.0,
+        "amount_rel": 0.0,
+        "high": 31.12,
+        "low": 30.6,
+        "last_close": 30.97,
+        "close_diff": 0.0,
+        "high_diff": 0.0,
+        "low_diff": 0.0
+      },
+      "without_0930": {
+        "vol_rel": -0.0012568290467745468,
+        "amount_rel": -0.001244399102478912
+      },
+      "csv_factor_unique": [
+        3.6931
+      ],
+      "row_0930": {
+        "open": 30.62,
+        "high": 30.62,
+        "low": 30.62,
+        "close": 30.62,
+        "vol": 1900.0,
+        "amount": 58178.0,
+        "open_diff": 0.0,
+        "close_diff": 0.0,
+        "high_low_range": 0.0,
+        "all_ohlc_equal": true,
+        "vwap": 30.62
+      }
+    },
+    {
+      "ts_code": "002025.SZ",
+      "trade_date": "2024-06-14",
+      "source_path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2024\\20240614_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "available": true,
+      "rows": 241,
+      "continuous_rows": 240,
+      "has_0930": true,
+      "duplicate_timestamps": 0,
+      "missing_expected_times": [],
+      "first_time": "2024-06-14 09:30:00",
+      "last_time": "2024-06-14 15:00:00",
+      "source_name": "航天电器",
+      "official_unadjusted": {
+        "open": 48.49,
+        "high": 50.01,
+        "low": 48.11,
+        "close": 49.58,
+        "vol": 68907.18,
+        "amount": 339336.128
+      },
+      "full_day_including_0930": {
+        "vol_shares": 6890718.0,
+        "amount_CNY": 339336128.21000004,
+        "vol_rel": 1.3515610051310743e-16,
+        "amount_rel": 6.18855526479552e-10,
+        "high": 50.01,
+        "low": 48.11,
+        "last_close": 49.58,
+        "close_diff": 0.0,
+        "high_diff": 0.0,
+        "low_diff": 0.0
+      },
+      "without_0930": {
+        "vol_rel": -0.0019591572315104276,
+        "amount_rel": -0.0019291868327087232
+      },
+      "csv_factor_unique": [
+        6.6616
+      ],
+      "row_0930": {
+        "open": 48.49,
+        "high": 48.5,
+        "low": 48.48,
+        "close": 48.5,
+        "vol": 13500.0,
+        "amount": 654643.0,
+        "open_diff": 0.0,
+        "close_diff": 0.00999999999999801,
+        "high_low_range": 0.020000000000003126,
+        "all_ohlc_equal": false,
+        "vwap": 48.492074074074075
+      }
+    },
+    {
+      "ts_code": "600990.SH",
+      "trade_date": "2024-06-14",
+      "source_path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2024\\20240614_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "available": true,
+      "rows": 241,
+      "continuous_rows": 240,
+      "has_0930": true,
+      "duplicate_timestamps": 0,
+      "missing_expected_times": [],
+      "first_time": "2024-06-14 09:30:00",
+      "last_time": "2024-06-14 15:00:00",
+      "source_name": "四创电子",
+      "official_unadjusted": {
+        "open": 18.68,
+        "high": 18.7,
+        "low": 18.34,
+        "close": 18.69,
+        "vol": 54474.56,
+        "amount": 100871.695
+      },
+      "full_day_including_0930": {
+        "vol_shares": 5447456.0,
+        "amount_CNY": 100871695.0,
+        "vol_rel": 0.0,
+        "amount_rel": 0.0,
+        "high": 18.7,
+        "low": 18.34,
+        "last_close": 18.69,
+        "close_diff": 0.0,
+        "high_diff": 0.0,
+        "low_diff": 0.0
+      },
+      "without_0930": {
+        "vol_rel": -0.0011932175312659708,
+        "amount_rel": -0.0012037073432740472
+      },
+      "csv_factor_unique": [
+        4.815
+      ],
+      "row_0930": {
+        "open": 18.68,
+        "high": 18.68,
+        "low": 18.68,
+        "close": 18.68,
+        "vol": 6500.0,
+        "amount": 121420.0,
+        "open_diff": 0.0,
+        "close_diff": 0.0,
+        "high_low_range": 0.0,
+        "all_ohlc_equal": true,
+        "vwap": 18.68
+      }
+    },
+    {
+      "ts_code": "002025.SZ",
+      "trade_date": "2025-07-11",
+      "source_path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2025\\20250711_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "available": true,
+      "rows": 241,
+      "continuous_rows": 240,
+      "has_0930": true,
+      "duplicate_timestamps": 0,
+      "missing_expected_times": [],
+      "first_time": "2025-07-11 09:30:00",
+      "last_time": "2025-07-11 15:00:00",
+      "source_name": "航天电器",
+      "official_unadjusted": {
+        "open": 47.77,
+        "high": 48.58,
+        "low": 47.7,
+        "close": 48.3,
+        "vol": 53509.01,
+        "amount": 257324.651
+      },
+      "full_day_including_0930": {
+        "vol_shares": 5350901.0,
+        "amount_CNY": 257324651.02,
+        "vol_rel": 0.0,
+        "amount_rel": 7.772287128774172e-11,
+        "high": 48.58,
+        "low": 47.7,
+        "last_close": 48.3,
+        "close_diff": 0.0,
+        "high_diff": 0.0,
+        "low_diff": 0.0
+      },
+      "without_0930": {
+        "vol_rel": -0.0035881807568482393,
+        "amount_rel": -0.0035675127759136416
+      },
+      "csv_factor_unique": [
+        6.694
+      ],
+      "row_0930": {
+        "open": 47.77,
+        "high": 47.9,
+        "low": 47.77,
+        "close": 47.8,
+        "vol": 19200.0,
+        "amount": 918009.0,
+        "open_diff": 0.0,
+        "close_diff": 0.02999999999999403,
+        "high_low_range": 0.12999999999999545,
+        "all_ohlc_equal": false,
+        "vwap": 47.81296875
+      }
+    },
+    {
+      "ts_code": "600990.SH",
+      "trade_date": "2025-07-11",
+      "source_path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2025\\20250711_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "available": true,
+      "rows": 241,
+      "continuous_rows": 240,
+      "has_0930": true,
+      "duplicate_timestamps": 0,
+      "missing_expected_times": [],
+      "first_time": "2025-07-11 09:30:00",
+      "last_time": "2025-07-11 15:00:00",
+      "source_name": "四创电子",
+      "official_unadjusted": {
+        "open": 27.08,
+        "high": 28.08,
+        "low": 27.08,
+        "close": 27.77,
+        "vol": 137088.43,
+        "amount": 380066.141
+      },
+      "full_day_including_0930": {
+        "vol_shares": 13708843.0,
+        "amount_CNY": 380066141.0,
+        "vol_rel": 0.0,
+        "amount_rel": 0.0,
+        "high": 28.08,
+        "low": 27.08,
+        "last_close": 27.77,
+        "close_diff": 0.0,
+        "high_diff": 0.0,
+        "low_diff": 0.0
+      },
+      "without_0930": {
+        "vol_rel": -0.004598856373218367,
+        "amount_rel": -0.004492004984995493
+      },
+      "csv_factor_unique": [
+        4.815
+      ],
+      "row_0930": {
+        "open": 27.08,
+        "high": 27.08,
+        "low": 27.08,
+        "close": 27.08,
+        "vol": 63045.0,
+        "amount": 1707259.0,
+        "open_diff": 0.0,
+        "close_diff": 0.0,
+        "high_low_range": 0.0,
+        "all_ohlc_equal": true,
+        "vwap": 27.080006344674437
+      }
+    },
+    {
+      "ts_code": "002025.SZ",
+      "trade_date": "2025-12-31",
+      "source_path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2025\\20251231_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "available": true,
+      "rows": 241,
+      "continuous_rows": 240,
+      "has_0930": true,
+      "duplicate_timestamps": 0,
+      "missing_expected_times": [],
+      "first_time": "2025-12-31 09:30:00",
+      "last_time": "2025-12-31 15:00:00",
+      "source_name": "航天电器",
+      "official_unadjusted": {
+        "open": 48.56,
+        "high": 50.8,
+        "low": 47.89,
+        "close": 50.13,
+        "vol": 372294.85,
+        "amount": 1841552.509
+      },
+      "full_day_including_0930": {
+        "vol_shares": 37229485.0,
+        "amount_CNY": 1841552510.0,
+        "vol_rel": 0.0,
+        "amount_rel": 5.430200850167558e-10,
+        "high": 50.8,
+        "low": 47.89,
+        "last_close": 50.13,
+        "close_diff": 0.0,
+        "high_diff": 0.0,
+        "low_diff": 0.0
+      },
+      "without_0930": {
+        "vol_rel": -0.010158614872056382,
+        "amount_rel": -0.009972972755456739
+      },
+      "csv_factor_unique": [
+        6.694
+      ],
+      "row_0930": {
+        "open": 48.56,
+        "high": 48.7,
+        "low": 48.53,
+        "close": 48.65,
+        "vol": 378200.0,
+        "amount": 18365754.0,
+        "open_diff": 0.0,
+        "close_diff": 0.0899999999999963,
+        "high_low_range": 0.1700000000000017,
+        "all_ohlc_equal": false,
+        "vwap": 48.56095716552089
+      }
+    },
+    {
+      "ts_code": "002025.SZ",
+      "trade_date": "2026-01-05",
+      "source_path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260105_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "available": true,
+      "rows": 241,
+      "continuous_rows": 240,
+      "has_0930": true,
+      "duplicate_timestamps": 0,
+      "missing_expected_times": [],
+      "first_time": "2026-01-05 09:30:00",
+      "last_time": "2026-01-05 15:00:00",
+      "source_name": "航天电器",
+      "official_unadjusted": {
+        "open": 51.19,
+        "high": 53.55,
+        "low": 49.57,
+        "close": 51.68,
+        "vol": 507980.93,
+        "amount": 2595781.199
+      },
+      "full_day_including_0930": {
+        "vol_shares": 50798093.0,
+        "amount_CNY": 2595781197.5,
+        "vol_rel": 0.0,
+        "amount_rel": -5.778607228443833e-10,
+        "high": 53.55,
+        "low": 49.57,
+        "last_close": 51.68,
+        "close_diff": 0.0,
+        "high_diff": 0.0,
+        "low_diff": 0.0
+      },
+      "without_0930": {
+        "vol_rel": -0.022329578395787416,
+        "amount_rel": -0.022353821470913582
+      },
+      "csv_factor_unique": [
+        6.694
+      ],
+      "row_0930": {
+        "open": 51.19,
+        "high": 51.37,
+        "low": 50.88,
+        "close": 51.13,
+        "vol": 1134300.0,
+        "amount": 58025628.0,
+        "open_diff": 0.0,
+        "close_diff": -0.05999999999999517,
+        "high_low_range": 0.4899999999999949,
+        "all_ohlc_equal": false,
+        "vwap": 51.155450938905055
+      }
+    },
+    {
+      "ts_code": "002025.SZ",
+      "trade_date": "2026-01-06",
+      "source_path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260106_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "available": true,
+      "rows": 241,
+      "continuous_rows": 240,
+      "has_0930": true,
+      "duplicate_timestamps": 0,
+      "missing_expected_times": [],
+      "first_time": "2026-01-06 09:30:00",
+      "last_time": "2026-01-06 15:00:00",
+      "source_name": "航天电器",
+      "official_unadjusted": {
+        "open": 51.17,
+        "high": 56.85,
+        "low": 50.7,
+        "close": 56.85,
+        "vol": 578538.54,
+        "amount": 3178132.013
+      },
+      "full_day_including_0930": {
+        "vol_shares": 57853854.0,
+        "amount_CNY": 3178131997.75,
+        "vol_rel": 0.0,
+        "amount_rel": -4.798416156918778e-09,
+        "high": 56.85,
+        "low": 50.7,
+        "last_close": 56.85,
+        "close_diff": 0.0,
+        "high_diff": 0.0,
+        "low_diff": 0.0
+      },
+      "without_0930": {
+        "vol_rel": -0.008815315916550694,
+        "amount_rel": -0.008209693978498684
+      },
+      "csv_factor_unique": [
+        6.694
+      ],
+      "row_0930": {
+        "open": 51.17,
+        "high": 51.17,
+        "low": 51.13,
+        "close": 51.14,
+        "vol": 510000.0,
+        "amount": 26091476.0,
+        "open_diff": 0.0,
+        "close_diff": -0.030000000000001137,
+        "high_low_range": 0.03999999999999915,
+        "all_ohlc_equal": false,
+        "vwap": 51.1597568627451
+      }
+    },
+    {
+      "ts_code": "002025.SZ",
+      "trade_date": "2026-01-07",
+      "source_path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260107_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "available": true,
+      "rows": 241,
+      "continuous_rows": 240,
+      "has_0930": true,
+      "duplicate_timestamps": 0,
+      "missing_expected_times": [],
+      "first_time": "2026-01-07 09:30:00",
+      "last_time": "2026-01-07 15:00:00",
+      "source_name": "航天电器",
+      "official_unadjusted": {
+        "open": 57.0,
+        "high": 62.2,
+        "low": 56.8,
+        "close": 57.26,
+        "vol": 731051.86,
+        "amount": 4284915.419
+      },
+      "full_day_including_0930": {
+        "vol_shares": 73105186.0,
+        "amount_CNY": 4284915429.6,
+        "vol_rel": 0.0,
+        "amount_rel": 2.473794431887844e-09,
+        "high": 62.2,
+        "low": 56.8,
+        "last_close": 57.26,
+        "close_diff": 0.0,
+        "high_diff": 0.0,
+        "low_diff": 0.0
+      },
+      "without_0930": {
+        "vol_rel": -0.026408276972306726,
+        "amount_rel": -0.02569113007735663
+      },
+      "csv_factor_unique": [
+        6.694
+      ],
+      "row_0930": {
+        "open": 57.0,
+        "high": 57.5,
+        "low": 56.95,
+        "close": 57.09,
+        "vol": 1930582.0,
+        "amount": 110084330.0,
+        "open_diff": 0.0,
+        "close_diff": 0.09000000000000341,
+        "high_low_range": 0.5499999999999972,
+        "all_ohlc_equal": false,
+        "vwap": 57.02131792381779
+      }
+    },
+    {
+      "ts_code": "002025.SZ",
+      "trade_date": "2026-01-08",
+      "source_path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260108_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "available": true,
+      "rows": 241,
+      "continuous_rows": 240,
+      "has_0930": true,
+      "duplicate_timestamps": 0,
+      "missing_expected_times": [],
+      "first_time": "2026-01-08 09:30:00",
+      "last_time": "2026-01-08 15:00:00",
+      "source_name": "航天电器",
+      "official_unadjusted": {
+        "open": 57.23,
+        "high": 62.99,
+        "low": 57.23,
+        "close": 62.99,
+        "vol": 710291.73,
+        "amount": 4354154.525
+      },
+      "full_day_including_0930": {
+        "vol_shares": 71029173.0,
+        "amount_CNY": 4354154532.95,
+        "vol_rel": 0.0,
+        "amount_rel": 1.8258423681610466e-09,
+        "high": 62.99,
+        "low": 57.23,
+        "last_close": 62.99,
+        "close_diff": 0.0,
+        "high_diff": 0.0,
+        "low_diff": 0.0
+      },
+      "without_0930": {
+        "vol_rel": -0.017940473557252312,
+        "amount_rel": -0.016780939130771937
+      },
+      "csv_factor_unique": [
+        6.694
+      ],
+      "row_0930": {
+        "open": 57.23,
+        "high": 58.18,
+        "low": 57.23,
+        "close": 57.36,
+        "vol": 1274297.0,
+        "amount": 73066810.0,
+        "open_diff": 0.0,
+        "close_diff": 0.13000000000000256,
+        "high_low_range": 0.9500000000000028,
+        "all_ohlc_equal": false,
+        "vwap": 57.33891706564482
+      }
+    },
+    {
+      "ts_code": "002025.SZ",
+      "trade_date": "2026-09-14",
+      "source_path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260914_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "available": true,
+      "rows": 241,
+      "continuous_rows": 240,
+      "has_0930": true,
+      "duplicate_timestamps": 0,
+      "missing_expected_times": [],
+      "first_time": "2026-09-14 09:30:00",
+      "last_time": "2026-09-14 15:00:00",
+      "source_name": "航天电器",
+      "official_unadjusted": {
+        "open": 62.39,
+        "high": 65.75,
+        "low": 62.0,
+        "close": 65.3,
+        "vol": 96702.71,
+        "amount": 619313.02097
+      },
+      "full_day_including_0930": {
+        "vol_shares": 9670271.0,
+        "amount_CNY": 619313019.73,
+        "vol_rel": 0.0,
+        "amount_rel": -2.002218342487458e-09,
+        "high": 65.75,
+        "low": 62.0,
+        "last_close": 65.3,
+        "close_diff": 0.0,
+        "high_diff": 0.0,
+        "low_diff": 0.0
+      },
+      "without_0930": {
+        "vol_rel": -0.008179708717573685,
+        "amount_rel": -0.007981909103505429
+      },
+      "csv_factor_unique": [
+        6.7061
+      ],
+      "row_0930": {
+        "open": 62.39,
+        "high": 63.0,
+        "low": 62.39,
+        "close": 62.46,
+        "vol": 79100.0,
+        "amount": 4943299.0,
+        "open_diff": 0.0,
+        "close_diff": 0.07000000000000028,
+        "high_low_range": 0.6099999999999994,
+        "all_ohlc_equal": false,
+        "vwap": 62.49429835651075
+      }
+    },
+    {
+      "ts_code": "002025.SZ",
+      "trade_date": "2026-09-15",
+      "source_path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260915_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "available": true,
+      "rows": 241,
+      "continuous_rows": 240,
+      "has_0930": true,
+      "duplicate_timestamps": 0,
+      "missing_expected_times": [],
+      "first_time": "2026-09-15 09:30:00",
+      "last_time": "2026-09-15 15:00:00",
+      "source_name": "航天电器",
+      "official_unadjusted": {
+        "open": 64.58,
+        "high": 70.28,
+        "low": 64.57,
+        "close": 68.78,
+        "vol": 212104.01,
+        "amount": 1447791.39679
+      },
+      "full_day_including_0930": {
+        "vol_shares": 21210401.0,
+        "amount_CNY": 1447791405.1,
+        "vol_rel": 0.0,
+        "amount_rel": 5.739777126182837e-09,
+        "high": 70.28,
+        "low": 64.57,
+        "last_close": 68.78,
+        "close_diff": 0.0,
+        "high_diff": 0.0,
+        "low_diff": 0.0
+      },
+      "without_0930": {
+        "vol_rel": -0.004771244070303056,
+        "amount_rel": -0.004542242552746657
+      },
+      "csv_factor_unique": [
+        6.7061
+      ],
+      "row_0930": {
+        "open": 64.58,
+        "high": 66.0,
+        "low": 64.57,
+        "close": 65.3,
+        "vol": 101200.0,
+        "amount": 6576228.0,
+        "open_diff": 0.0,
+        "close_diff": 0.7199999999999989,
+        "high_low_range": 1.4300000000000068,
+        "all_ohlc_equal": false,
+        "vwap": 64.98249011857708
+      }
+    },
+    {
+      "ts_code": "002025.SZ",
+      "trade_date": "2026-09-16",
+      "source_path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260916_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "available": true,
+      "rows": 241,
+      "continuous_rows": 240,
+      "has_0930": true,
+      "duplicate_timestamps": 0,
+      "missing_expected_times": [],
+      "first_time": "2026-09-16 09:30:00",
+      "last_time": "2026-09-16 15:00:00",
+      "source_name": "航天电器",
+      "official_unadjusted": {
+        "open": 68.82,
+        "high": 70.72,
+        "low": 67.68,
+        "close": 70.36,
+        "vol": 149497.9,
+        "amount": 1041917.94642
+      },
+      "full_day_including_0930": {
+        "vol_shares": 14949790.0,
+        "amount_CNY": 1041917944.7,
+        "vol_rel": 0.0,
+        "amount_rel": -1.6508018069178094e-09,
+        "high": 70.72,
+        "low": 67.68,
+        "last_close": 70.36,
+        "close_diff": 0.0,
+        "high_diff": 0.0,
+        "low_diff": 0.0
+      },
+      "without_0930": {
+        "vol_rel": -0.013746012485794115,
+        "amount_rel": -0.01357184101549188
+      },
+      "csv_factor_unique": [
+        6.7061
+      ],
+      "row_0930": {
+        "open": 68.82,
+        "high": 68.82,
+        "low": 68.76,
+        "close": 68.76,
+        "vol": 205500.0,
+        "amount": 14140743.0,
+        "open_diff": 0.0,
+        "close_diff": -0.05999999999998806,
+        "high_low_range": 0.05999999999998806,
+        "all_ohlc_equal": false,
+        "vwap": 68.81140145985401
+      }
+    },
+    {
+      "ts_code": "002025.SZ",
+      "trade_date": "2026-09-17",
+      "source_path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260917_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "available": true,
+      "rows": 241,
+      "continuous_rows": 240,
+      "has_0930": true,
+      "duplicate_timestamps": 0,
+      "missing_expected_times": [],
+      "first_time": "2026-09-17 09:30:00",
+      "last_time": "2026-09-17 15:00:00",
+      "source_name": "航天电器",
+      "official_unadjusted": {
+        "open": 71.22,
+        "high": 76.37,
+        "low": 70.5,
+        "close": 73.16,
+        "vol": 222615.89,
+        "amount": 1641533.38696
+      },
+      "full_day_including_0930": {
+        "vol_shares": 22261589.0,
+        "amount_CNY": 1641533378.9,
+        "vol_rel": 0.0,
+        "amount_rel": -4.910043260043631e-09,
+        "high": 76.37,
+        "low": 70.5,
+        "last_close": 73.16,
+        "close_diff": 0.0,
+        "high_diff": 0.0,
+        "low_diff": 0.0
+      },
+      "without_0930": {
+        "vol_rel": -0.01848924620789648,
+        "amount_rel": -0.01785573677199547
+      },
+      "csv_factor_unique": [
+        6.7061
+      ],
+      "row_0930": {
+        "open": 71.22,
+        "high": 71.3,
+        "low": 71.09,
+        "close": 71.21,
+        "vol": 411600.0,
+        "amount": 29310780.0,
+        "open_diff": 0.0,
+        "close_diff": -0.010000000000005116,
+        "high_low_range": 0.20999999999999375,
+        "all_ohlc_equal": false,
+        "vwap": 71.21180758017493
+      }
+    },
+    {
+      "ts_code": "002025.SZ",
+      "trade_date": "2026-09-18",
+      "source_path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260918_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "available": true,
+      "rows": 241,
+      "continuous_rows": 240,
+      "has_0930": true,
+      "duplicate_timestamps": 0,
+      "missing_expected_times": [],
+      "first_time": "2026-09-18 09:30:00",
+      "last_time": "2026-09-18 15:00:00",
+      "source_name": "航天电器",
+      "official_unadjusted": {
+        "open": 74.1,
+        "high": 75.54,
+        "low": 72.69,
+        "close": 74.2,
+        "vol": 178700.06,
+        "amount": 1328685.63302
+      },
+      "full_day_including_0930": {
+        "vol_shares": 17870006.0,
+        "amount_CNY": 1328685634.2,
+        "vol_rel": 0.0,
+        "amount_rel": 8.880957522473943e-10,
+        "high": 75.54,
+        "low": 72.69,
+        "last_close": 74.2,
+        "close_diff": 0.0,
+        "high_diff": 0.0,
+        "low_diff": 0.0
+      },
+      "without_0930": {
+        "vol_rel": -0.012367091538749344,
+        "amount_rel": -0.012320584653867121
+      },
+      "csv_factor_unique": [
+        6.7061
+      ],
+      "row_0930": {
+        "open": 74.1,
+        "high": 74.45,
+        "low": 73.71,
+        "close": 73.95,
+        "vol": 221000.0,
+        "amount": 16370185.0,
+        "open_diff": 0.0,
+        "close_diff": -0.14999999999999147,
+        "high_low_range": 0.7400000000000091,
+        "all_ohlc_equal": false,
+        "vwap": 74.07323529411765
+      }
+    },
+    {
+      "ts_code": "600990.SH",
+      "trade_date": "2026-09-18",
+      "source_path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260918_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "available": true,
+      "rows": 241,
+      "continuous_rows": 240,
+      "has_0930": true,
+      "duplicate_timestamps": 0,
+      "missing_expected_times": [],
+      "first_time": "2026-09-18 09:30:00",
+      "last_time": "2026-09-18 15:00:00",
+      "source_name": "四创电子",
+      "official_unadjusted": {
+        "open": 17.98,
+        "high": 18.28,
+        "low": 17.98,
+        "close": 18.06,
+        "vol": 20265.65,
+        "amount": 36732.736
+      },
+      "full_day_including_0930": {
+        "vol_shares": 2026565.0,
+        "amount_CNY": 36732736.0,
+        "vol_rel": -1.1488930463807952e-16,
+        "amount_rel": 0.0,
+        "high": 18.28,
+        "low": 17.98,
+        "last_close": 18.06,
+        "close_diff": 0.0,
+        "high_diff": 0.0,
+        "low_diff": 0.0
+      },
+      "without_0930": {
+        "vol_rel": -0.0029606748364845105,
+        "amount_rel": -0.002936889863036611
+      },
+      "csv_factor_unique": [
+        4.815
+      ],
+      "row_0930": {
+        "open": 17.98,
+        "high": 17.98,
+        "low": 17.98,
+        "close": 17.98,
+        "vol": 6000.0,
+        "amount": 107880.0,
+        "open_diff": 0.0,
+        "close_diff": 0.0,
+        "high_low_range": 0.0,
+        "all_ohlc_equal": true,
+        "vwap": 17.98
+      }
+    }
+  ],
+  "processed_comparisons": [
+    {
+      "trade_date": "2026-01-08",
+      "path": "D:\\ProjectRocketData\\processed\\TradingAgent\\oneMinute\\parquet\\schema_v2\\year=2026\\month=01\\trade_date=20260108\\part-000.parquet",
+      "exists": true,
+      "manifest_path": "D:\\ProjectRocketData\\processed\\TradingAgent\\oneMinute\\parquet\\schema_v2\\_manifest\\trade_date=20260108.json",
+      "manifest_exists": true,
+      "manifest": {
+        "schema_version": "one_min_ohlc.v3_240bars",
+        "status": "ok",
+        "trade_date": "20260108",
+        "source_file": "C:\\Project Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260108_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+        "rows": 1312800,
+        "stock_count": 5470,
+        "source_lineage": null
+      },
+      "columns": [
+        "ts_code",
+        "name",
+        "trade_date",
+        "datetime",
+        "time_idx",
+        "open",
+        "high",
+        "low",
+        "close",
+        "vol",
+        "amount",
+        "adj_factor",
+        "month",
+        "year"
+      ],
+      "rows": 240,
+      "has_0930": false,
+      "raw_csv_retained_rows_equal": true
+    },
+    {
+      "trade_date": "2026-09-18",
+      "path": "D:\\ProjectRocketData\\processed\\TradingAgent\\oneMinute\\parquet\\schema_v2\\year=2026\\month=09\\trade_date=20260918\\part-000.parquet",
+      "exists": true,
+      "manifest_path": "D:\\ProjectRocketData\\processed\\TradingAgent\\oneMinute\\parquet\\schema_v2\\_manifest\\trade_date=20260918.json",
+      "manifest_exists": true,
+      "manifest": {
+        "schema_version": "one_min_ohlc.v3_240bars",
+        "status": "ok",
+        "trade_date": "20260918",
+        "source_file": "C:\\Project Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260918_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+        "rows": 1335600,
+        "stock_count": 5565,
+        "source_lineage": null
+      },
+      "columns": [
+        "ts_code",
+        "name",
+        "trade_date",
+        "datetime",
+        "time_idx",
+        "open",
+        "high",
+        "low",
+        "close",
+        "vol",
+        "amount",
+        "adj_factor",
+        "month",
+        "year"
+      ],
+      "rows": 240,
+      "has_0930": false,
+      "raw_csv_retained_rows_equal": true
+    },
+    {
+      "trade_date": "2021-06-25",
+      "path": "D:\\ProjectRocketData\\processed\\TradingAgent\\oneMinute\\parquet\\schema_v2\\year=2021\\month=06\\trade_date=20210625\\part-000.parquet",
+      "exists": true,
+      "manifest_path": "D:\\ProjectRocketData\\processed\\TradingAgent\\oneMinute\\parquet\\schema_v2\\_manifest\\trade_date=20210625.json",
+      "manifest_exists": true,
+      "manifest": {
+        "schema_version": "one_min_ohlc.v3_240bars",
+        "status": "ok",
+        "trade_date": "20210625",
+        "source_file": "D:\\ProjectRocketData\\processed\\TradingAgent\\staging\\minutes\\1min\\2021\\20210625_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+        "rows": 1046400,
+        "stock_count": 4360,
+        "source_lineage": null
+      },
+      "columns": [
+        "ts_code",
+        "name",
+        "trade_date",
+        "datetime",
+        "time_idx",
+        "open",
+        "high",
+        "low",
+        "close",
+        "vol",
+        "amount",
+        "adj_factor",
+        "month",
+        "year"
+      ],
+      "rows": 240,
+      "has_0930": false,
+      "raw_csv_retained_rows_equal": true
+    }
+  ],
+  "unresolved": [
+    "Raw CSV timestamp semantics not verified as bar_end; 15/27 09:30 candles have nonconstant OHLC.",
+    "A pure auction record and its actual availability time cannot be reconstructed safely from a mixed OHLC row.",
+    "2026-10-06 data dictionary not found in task-bounded documentation search.",
+    "Historical price anomalies fail price_abs=0.005: 600990.SH 2018-06-27 close -0.06; 002025.SZ 2020-06-24 high -0.01 / low +0.03.",
+    "Directory/catalog bounds are file presence metadata, not proof of all stock-day coverage or correctness. No production source accepted."
+  ],
+  "fixture_dates": {
+    "REG-1": {
+      "cutoff": "2026-09-18",
+      "actual_last_five": [
+        "20260914",
+        "20260915",
+        "20260916",
+        "20260917",
+        "20260918"
+      ],
+      "expected_matches": true
+    },
+    "CASE-1": {
+      "cutoff": "2026-01-08",
+      "actual_last_five": [
+        "20251231",
+        "20260105",
+        "20260106",
+        "20260107",
+        "20260108"
+      ],
+      "expected_matches": true
+    }
+  },
+  "exdates": {
+    "002025.SZ": [
+      {
+        "trade_date": "20180627",
+        "adj_factor": 6.461,
+        "previous_factor": 6.392
+      },
+      {
+        "trade_date": "20180816",
+        "adj_factor": 6.4611,
+        "previous_factor": 6.461
+      },
+      {
+        "trade_date": "20180828",
+        "adj_factor": 6.461,
+        "previous_factor": 6.4611
+      },
+      {
+        "trade_date": "20190628",
+        "adj_factor": 6.5,
+        "previous_factor": 6.461
+      },
+      {
+        "trade_date": "20200624",
+        "adj_factor": 6.529,
+        "previous_factor": 6.5
+      },
+      {
+        "trade_date": "20210625",
+        "adj_factor": 6.555,
+        "previous_factor": 6.529
+      },
+      {
+        "trade_date": "20220624",
+        "adj_factor": 6.5732,
+        "previous_factor": 6.555
+      },
+      {
+        "trade_date": "20220630",
+        "adj_factor": 6.573,
+        "previous_factor": 6.5732
+      },
+      {
+        "trade_date": "20230519",
+        "adj_factor": 6.61,
+        "previous_factor": 6.573
+      },
+      {
+        "trade_date": "20240614",
+        "adj_factor": 6.662,
+        "previous_factor": 6.61
+      },
+      {
+        "trade_date": "20250711",
+        "adj_factor": 6.694,
+        "previous_factor": 6.662
+      }
+    ],
+    "600990.SH": [
+      {
+        "trade_date": "20180628",
+        "adj_factor": 2.778,
+        "previous_factor": 2.771
+      },
+      {
+        "trade_date": "20180816",
+        "adj_factor": 2.7779,
+        "previous_factor": 2.778
+      },
+      {
+        "trade_date": "20180828",
+        "adj_factor": 2.778,
+        "previous_factor": 2.7779
+      },
+      {
+        "trade_date": "20190621",
+        "adj_factor": 2.789,
+        "previous_factor": 2.778
+      },
+      {
+        "trade_date": "20200715",
+        "adj_factor": 2.793,
+        "previous_factor": 2.789
+      },
+      {
+        "trade_date": "20210707",
+        "adj_factor": 2.817,
+        "previous_factor": 2.793
+      },
+      {
+        "trade_date": "20220725",
+        "adj_factor": 3.693,
+        "previous_factor": 2.817
+      },
+      {
+        "trade_date": "20230710",
+        "adj_factor": 4.815,
+        "previous_factor": 3.693
+      }
+    ]
+  },
+  "distributions": {
+    "0930_open_minus_official_open": {
+      "n": 27,
+      "min": 0.0,
+      "p25": 0.0,
+      "median": 0.0,
+      "p75": 0.0,
+      "max": 0.0,
+      "abs_max": 0.0,
+      "abs_p95": 0.0,
+      "zero_count": 27
+    },
+    "0930_close_minus_official_open": {
+      "n": 27,
+      "min": -0.45000000000000284,
+      "p25": -0.005000000000002558,
+      "median": 0.0,
+      "p75": 0.010000000000001563,
+      "max": 0.7199999999999989,
+      "abs_max": 0.7199999999999989,
+      "abs_p95": 0.3599999999999992,
+      "zero_count": 12
+    },
+    "0930_high_low_range": {
+      "n": 27,
+      "min": 0.0,
+      "p25": 0.0,
+      "median": 0.01999999999999602,
+      "p75": 0.3299999999999983,
+      "max": 1.4300000000000068,
+      "abs_max": 1.4300000000000068,
+      "abs_p95": 0.8870000000000046,
+      "zero_count": 12
+    },
+    "vol_rel": {
+      "n": 27,
+      "min": -1.1488930463807952e-16,
+      "p25": 0.0,
+      "median": 0.0,
+      "p75": 0.0,
+      "max": 1.3673921288625046e-16,
+      "abs_max": 1.3673921288625046e-16,
+      "abs_p95": 1.3407800047761716e-16,
+      "zero_count": 27
+    },
+    "amount_rel": {
+      "n": 27,
+      "min": -4.910043260043631e-09,
+      "p25": -2.8893036142219164e-10,
+      "median": 0.0,
+      "p75": 7.534756393634731e-10,
+      "max": 7.907656793890095e-09,
+      "abs_max": 7.907656793890095e-09,
+      "abs_p95": 6.266042612115254e-09,
+      "zero_count": 27
+    },
+    "close_diff": {
+      "n": 27,
+      "min": -0.060000000000002274,
+      "p25": 0.0,
+      "median": 0.0,
+      "p75": 0.0,
+      "max": 0.0,
+      "abs_max": 0.060000000000002274,
+      "abs_p95": 0.0,
+      "zero_count": 26
+    },
+    "high_diff": {
+      "n": 27,
+      "min": -0.010000000000005116,
+      "p25": 0.0,
+      "median": 0.0,
+      "p75": 0.0,
+      "max": 0.0,
+      "abs_max": 0.010000000000005116,
+      "abs_p95": 0.0,
+      "zero_count": 26
+    },
+    "low_diff": {
+      "n": 27,
+      "min": 0.0,
+      "p25": 0.0,
+      "median": 0.0,
+      "p75": 0.0,
+      "max": 0.030000000000001137,
+      "abs_max": 0.030000000000001137,
+      "abs_p95": 0.0,
+      "zero_count": 26
+    }
+  },
+  "sample_scope": {
+    "csv_files_read": 18,
+    "stock_days": 27,
+    "years": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "missing_0930": 0,
+    "0930_nonconstant_ohlc": 15
+  },
+  "catalog": {
+    "path": "D:\\ProjectRocketData\\processed\\TradingAgent\\oneMinute\\catalog.duckdb",
+    "tables": [
+      [
+        "one_min_ingest_catalog"
+      ],
+      [
+        "one_min_source_files"
+      ],
+      [
+        "one_min_tdx_sync"
+      ]
+    ],
+    "one_min_ingest_catalog": {
+      "columns": [
+        "trade_date",
+        "source_path",
+        "source_size",
+        "source_mtime_ns",
+        "source_present",
+        "parquet_path",
+        "parquet_size",
+        "schema_version",
+        "rows",
+        "stock_count",
+        "bars_per_stock_min",
+        "bars_per_stock_max",
+        "status",
+        "discovered_at",
+        "last_checked_at",
+        "imported_at",
+        "error",
+        "source_duplicate_count",
+        "source_candidates",
+        "data_source",
+        "source_host"
+      ],
+      "sample": [
+        {
+          "trade_date": "20260105",
+          "source_path": "C:\\Project Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260105_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+          "source_size": 128199350,
+          "source_mtime_ns": 1789958066326775300,
+          "source_present": true,
+          "parquet_path": "D:\\ProjectRocketData\\processed\\TradingAgent\\oneMinute\\parquet\\schema_v2\\year=2026\\month=01\\trade_date=20260105\\part-000.parquet",
+          "parquet_size": 16330115,
+          "schema_version": "one_min_ohlc.v3_240bars",
+          "rows": 1312560,
+          "stock_count": 5469,
+          "bars_per_stock_min": 240,
+          "bars_per_stock_max": 240,
+          "status": "imported",
+          "discovered_at": "2026-09-28T13:13:23.336",
+          "last_checked_at": "2026-09-28T16:16:12.827",
+          "imported_at": "2026-09-28T13:13:27.798",
+          "error": null,
+          "source_duplicate_count": 1,
+          "source_candidates": "[\"C:\\\\Project Rocket\\\\Trading Agent Database\\\\A Share Miniutes Data\\\\1min\\\\2026\\\\20260105_A股1分钟K线@余哈哈的数据仓库 原创整理.csv\"]",
+          "data_source": "csv",
+          "source_host": null
+        },
+        {
+          "trade_date": "20260106",
+          "source_path": "C:\\Project Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260106_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+          "source_size": 128337777,
+          "source_mtime_ns": 1789958072694215100,
+          "source_present": true,
+          "parquet_path": "D:\\ProjectRocketData\\processed\\TradingAgent\\oneMinute\\parquet\\schema_v2\\year=2026\\month=01\\trade_date=20260106\\part-000.parquet",
+          "parquet_size": 16567956,
+          "schema_version": "one_min_ohlc.v3_240bars",
+          "rows": 1312800,
+          "stock_count": 5470,
+          "bars_per_stock_min": 240,
+          "bars_per_stock_max": 240,
+          "status": "imported",
+          "discovered_at": "2026-09-28T13:13:23.336",
+          "last_checked_at": "2026-09-28T16:16:12.827",
+          "imported_at": "2026-09-28T13:13:29.933",
+          "error": null,
+          "source_duplicate_count": 1,
+          "source_candidates": "[\"C:\\\\Project Rocket\\\\Trading Agent Database\\\\A Share Miniutes Data\\\\1min\\\\2026\\\\20260106_A股1分钟K线@余哈哈的数据仓库 原创整理.csv\"]",
+          "data_source": "csv",
+          "source_host": null
+        },
+        {
+          "trade_date": "20260107",
+          "source_path": "C:\\Project Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260107_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+          "source_size": 128332242,
+          "source_mtime_ns": 1789958065760171700,
+          "source_present": true,
+          "parquet_path": "D:\\ProjectRocketData\\processed\\TradingAgent\\oneMinute\\parquet\\schema_v2\\year=2026\\month=01\\trade_date=20260107\\part-000.parquet",
+          "parquet_size": 16835757,
+          "schema_version": "one_min_ohlc.v3_240bars",
+          "rows": 1312800,
+          "stock_count": 5470,
+          "bars_per_stock_min": 240,
+          "bars_per_stock_max": 240,
+          "status": "imported",
+          "discovered_at": "2026-09-28T13:13:23.336",
+          "last_checked_at": "2026-09-28T16:16:12.827",
+          "imported_at": "2026-09-28T13:13:31.955",
+          "error": null,
+          "source_duplicate_count": 1,
+          "source_candidates": "[\"C:\\\\Project Rocket\\\\Trading Agent Database\\\\A Share Miniutes Data\\\\1min\\\\2026\\\\20260107_A股1分钟K线@余哈哈的数据仓库 原创整理.csv\"]",
+          "data_source": "csv",
+          "source_host": null
+        }
+      ]
+    },
+    "one_min_source_files": {
+      "columns": [
+        "source_path",
+        "trade_date",
+        "source_size",
+        "source_mtime_ns",
+        "sha256",
+        "selected",
+        "source_present",
+        "discovered_at",
+        "last_checked_at"
+      ],
+      "sample": [
+        {
+          "source_path": "C:\\Project Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260105_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+          "trade_date": "20260105",
+          "source_size": 128199350,
+          "source_mtime_ns": 1789958066326775300,
+          "sha256": null,
+          "selected": true,
+          "source_present": true,
+          "discovered_at": "2026-09-28T13:13:23.336",
+          "last_checked_at": "2026-09-28T16:16:12.827"
+        },
+        {
+          "source_path": "C:\\Project Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260106_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+          "trade_date": "20260106",
+          "source_size": 128337777,
+          "source_mtime_ns": 1789958072694215100,
+          "sha256": null,
+          "selected": true,
+          "source_present": true,
+          "discovered_at": "2026-09-28T13:13:23.336",
+          "last_checked_at": "2026-09-28T16:16:12.827"
+        },
+        {
+          "source_path": "C:\\Project Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260107_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+          "trade_date": "20260107",
+          "source_size": 128332242,
+          "source_mtime_ns": 1789958065760171700,
+          "sha256": null,
+          "selected": true,
+          "source_present": true,
+          "discovered_at": "2026-09-28T13:13:23.336",
+          "last_checked_at": "2026-09-28T16:16:12.827"
+        }
+      ]
+    },
+    "one_min_tdx_sync": {
+      "columns": [
+        "ts_code",
+        "covered_start",
+        "covered_end",
+        "actual_start",
+        "actual_end",
+        "row_count",
+        "status",
+        "source_host",
+        "updated_at",
+        "error"
+      ],
+      "sample": [
+        {
+          "ts_code": "000016.SZ",
+          "covered_start": null,
+          "covered_end": null,
+          "actual_start": null,
+          "actual_end": null,
+          "row_count": 0,
+          "status": "tdx_empty",
+          "source_host": "shtdx.gtjas.com:7709",
+          "updated_at": "2026-10-04T23:05:25.932",
+          "error": "TDX长区间返回空数据"
+        },
+        {
+          "ts_code": "000007.SZ",
+          "covered_start": 20260918,
+          "covered_end": 20260930,
+          "actual_start": 20260918,
+          "actual_end": 20260930,
+          "row_count": 1920,
+          "status": "downloaded",
+          "source_host": "shtdx.gtjas.com:7709",
+          "updated_at": "2026-10-04T23:05:31.000",
+          "error": null
+        },
+        {
+          "ts_code": "000001.SZ",
+          "covered_start": 20260918,
+          "covered_end": 20260930,
+          "actual_start": 20260918,
+          "actual_end": 20260930,
+          "row_count": 1920,
+          "status": "downloaded",
+          "source_host": "shtdx.gtjas.com:7709",
+          "updated_at": "2026-10-04T23:05:31.288",
+          "error": null
+        }
+      ]
+    },
+    "coverage": [
+      {
+        "first_date": "20090105",
+        "last_date": "20260918",
+        "partitions": 4304
+      }
+    ]
+  },
+  "read_budget": {
+    "distinct_D_files": 25,
+    "content_open_count": 25,
+    "selected_stock_days": 30
+  },
+  "thresholds": {
+    "recommended": {
+      "vol_rel": 0.005,
+      "amount_rel": 0.005,
+      "price_abs": 0.005,
+      "auction_open_abs": 0.005
+    },
+    "basis": "Task defaults retained: only 27 stock-days/two stocks, not a calibrated all-source distribution. Do not widen price tolerance to hide observed errors.",
+    "observed_abs_max": {
+      "vol_rel": 1.3673921288625046e-16,
+      "amount_rel": 7.907656793890095e-09,
+      "close_diff": 0.060000000000002274,
+      "high_diff": 0.010000000000005116,
+      "low_diff": 0.030000000000001137
+    },
+    "auction_price_field": "09:30 open equals official unadjusted daily open in 27/27. close does not. Pure auction semantics remain unverified.",
+    "semantic_gate": "Numeric reconciliation cannot establish that a nonconstant 09:30 OHLC row was known at 09:25/09:30 or that timestamps are bar ends."
+  },
+  "documentation_evidence": {
+    "csv_columns": "offlineDataManager/scripts/core/one_min_store.py#CSV_COLUMNS",
+    "csv_mapping_and_0930_deletion": "offlineDataManager/scripts/core/one_min_store.py#_normalize_batch/_valid_trading_minute",
+    "processed_lineage": "offlineDataManager/docs/代码详细设计/one_min_parquet.md#数据源切换与更新",
+    "tdx_units_and_window": "coreClient/docs/tdx_client.md#download_one_minute",
+    "frozen_policy": "offlineDataManager/scripts/config/data_safety.py",
+    "existing_profile": "C:\\Project Rocket\\outputs\\chart_tool_development_20261009\\inputs\\minute_profile_20260918.json",
+    "existing_csv_lineage": "C:\\Project Rocket\\outputs\\chart_tool_development_20261009\\inputs\\csv_lineage_20260918.json",
+    "existing_overlap": "C:\\Project Rocket\\outputs\\chart_tool_development_20261009\\inputs\\minute_overlap_20260918.json",
+    "daily_unit_reference": "coreClient/docs/data_provider.md#get_day",
+    "old_dictionary": "docs/acceptance/DATA_DICTIONARY_SCHEMA_V1.md#policy_minute.db"
+  },
+  "documentation_search": {
+    "requested_20261006_dictionary_found": false,
+    "scope": [
+      "docs",
+      "coreClient/docs",
+      "offlineDataManager/docs",
+      "repository filename index"
+    ],
+    "patterns": [
+      "数据字典",
+      "2026-10-06",
+      "20261006"
+    ],
+    "result": "Only older acceptance/DATA_DICTIONARY_SCHEMA_V1.md located; October 6 dictionary not found.",
+    "requested_data_safety_path": "config/data_safety.py",
+    "actual_data_safety_path": "offlineDataManager/scripts/config/data_safety.py"
+  },
+  "production_decision": {
+    "eligible_source_ids": [],
+    "candidate_source_ids": [
+      "csv_1min_original",
+      "one_min_parquet_processed"
+    ],
+    "reason": "Timestamp bar_end and pure auction semantics cannot be established for the raw CSV. Processed sampled data inherits the same CSV timestamps and removes 09:30. Registry priority is empty: discovery metadata only, not production authorization.",
+    "registry_schema_caveat": "The required timestamp_semantics=bar_end literal is retained in candidate entries solely because the task schema prohibits unknown. It is NOT a verified factual statement; see each gaps_note.",
+    "excluded_sources": [
+      {
+        "source": "policy_minute.db",
+        "reason": "Legacy price/vol point source, not complete OHLC; docs/acceptance/DATA_DICTIONARY_SCHEMA_V1.md."
+      },
+      {
+        "source": "native TDX 15m",
+        "reason": "Not an original 1m source, differs from CSV-derived 15m; SNAP/minute_overlap_20260918.json."
+      },
+      {
+        "source": "live TDX download_one_minute",
+        "reason": "Documented bar grid/OHLC/units, but no online calls allowed in this probe; cannot register unprobed memory/network source as a located CSV/Parquet."
+      },
+      {
+        "source": "TDX/retained mixed processed partitions",
+        "reason": "Old manifests can lack per-stock lineage; exact source requires per-stock source_lineage, not catalog data_source labels."
+      }
+    ]
+  },
+  "objective_checks": {
+    "at_least_20_stock_days": true,
+    "years_2018_through_2026": true,
+    "all_27_have_241_rows": true,
+    "continuous_grid_240_complete_unique": true,
+    "source_file_stats_unchanged": true,
+    "budget_le_60": true,
+    "full_day_numeric_gate_pass_count": 25
+  }
+}

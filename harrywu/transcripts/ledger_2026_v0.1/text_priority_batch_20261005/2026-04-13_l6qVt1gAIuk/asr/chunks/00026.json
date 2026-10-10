@@ -1,0 +1,400 @@
+{
+  "begin": 7800.0,
+  "finish": 8100.0,
+  "segments": [
+    {
+      "start": 7798.0,
+      "end": 7803.48,
+      "text": "但是我跟你说很简单,大部分人穷他就是有问题的,是不是,就是有问题的",
+      "avg_logprob": -0.083,
+      "no_speech_prob": 0.3735,
+      "review": false
+    },
+    {
+      "start": 7803.48,
+      "end": 7812.98,
+      "text": "如果我们很多人穷是没有办法,家庭是这样子,但是有的人穷他是真的有问题,他这一生肯定就很难很难起来了",
+      "avg_logprob": -0.083,
+      "no_speech_prob": 0.3735,
+      "review": false
+    },
+    {
+      "start": 7812.98,
+      "end": 7817.02,
+      "text": "要么家庭有问题,要么习惯有问题,要么他的很多东西有问题",
+      "avg_logprob": -0.083,
+      "no_speech_prob": 0.3735,
+      "review": false
+    },
+    {
+      "start": 7817.02,
+      "end": 7820.5,
+      "text": "如果你穷又没有上进心,那你基本上肯定不行",
+      "avg_logprob": -0.083,
+      "no_speech_prob": 0.3735,
+      "review": false
+    },
+    {
+      "start": 7822.5,
+      "end": 7827.36,
+      "text": "好,不说这个东西了,这个东西没有啥意义了,我只是觉得遗憾,只是觉得遗憾",
+      "avg_logprob": -0.083,
+      "no_speech_prob": 0.3735,
+      "review": false
+    },
+    {
+      "start": 7827.36,
+      "end": 7831.2,
+      "text": "因为大部分人都是贤贫爱富嘛,哪有贤富爱贫的",
+      "avg_logprob": -0.1035,
+      "no_speech_prob": 0.1747,
+      "review": false
+    },
+    {
+      "start": 7831.2,
+      "end": 7836.86,
+      "text": "但是我老婆就是很罕见的这种,她不是很在乎这些东西",
+      "avg_logprob": -0.1035,
+      "no_speech_prob": 0.1747,
+      "review": false
+    },
+    {
+      "start": 7836.86,
+      "end": 7843.66,
+      "text": "但是很遗憾的是,结果她也过得非常差,过得非常糟糕,这个是挺可惜的",
+      "avg_logprob": -0.1035,
+      "no_speech_prob": 0.1747,
+      "review": false
+    },
+    {
+      "start": 7843.66,
+      "end": 7847.02,
+      "text": "自从和我分开之后,她其实过得非常差的",
+      "avg_logprob": -0.1035,
+      "no_speech_prob": 0.1747,
+      "review": false
+    },
+    {
+      "start": 7847.02,
+      "end": 7852.38,
+      "text": "但是问题是,这是我孩子说的,她就想要这种生活,你叫我们怎么办",
+      "avg_logprob": -0.1035,
+      "no_speech_prob": 0.1747,
+      "review": false
+    },
+    {
+      "start": 7852.38,
+      "end": 7862.23,
+      "text": "好,这就是命吧,也许就是命运吧,都不太说了",
+      "avg_logprob": -0.1143,
+      "no_speech_prob": 0.2781,
+      "review": false
+    },
+    {
+      "start": 7862.23,
+      "end": 7868.83,
+      "text": "好,其他的没有啥,上进心怎么激发,这玩意儿激发不了",
+      "avg_logprob": -0.1143,
+      "no_speech_prob": 0.2781,
+      "review": false
+    },
+    {
+      "start": 7868.83,
+      "end": 7871.49,
+      "text": "这玩意儿你有就有,没有就没有",
+      "avg_logprob": -0.1143,
+      "no_speech_prob": 0.2781,
+      "review": false
+    },
+    {
+      "start": 7871.49,
+      "end": 7876.61,
+      "text": "你喜欢就喜欢,上进心这个东西完全是没办法激发的",
+      "avg_logprob": -0.1143,
+      "no_speech_prob": 0.2781,
+      "review": false
+    },
+    {
+      "start": 7876.61,
+      "end": 7881.83,
+      "text": "我真的不骗你,我怀疑你,如果你没有的话,我觉得你这一生就平凡的过吧",
+      "avg_logprob": -0.1143,
+      "no_speech_prob": 0.2781,
+      "review": false
+    },
+    {
+      "start": 7881.83,
+      "end": 7885.49,
+      "text": "你们说是不是,上进心这个东西还要激发吗",
+      "avg_logprob": -0.1143,
+      "no_speech_prob": 0.2781,
+      "review": false
+    },
+    {
+      "start": 7885.49,
+      "end": 7888.73,
+      "text": "你有就自然从小就想上镜啊",
+      "avg_logprob": -0.144,
+      "no_speech_prob": 0.3489,
+      "review": false
+    },
+    {
+      "start": 7888.73,
+      "end": 7890.37,
+      "text": "我自我认为啊",
+      "avg_logprob": -0.144,
+      "no_speech_prob": 0.3489,
+      "review": false
+    },
+    {
+      "start": 7890.37,
+      "end": 7891.09,
+      "text": "当然哈",
+      "avg_logprob": -0.144,
+      "no_speech_prob": 0.3489,
+      "review": false
+    },
+    {
+      "start": 7891.09,
+      "end": 7894.59,
+      "text": "八字里面有官杀的人就比较喜欢上镜",
+      "avg_logprob": -0.144,
+      "no_speech_prob": 0.3489,
+      "review": false
+    },
+    {
+      "start": 7894.59,
+      "end": 7896.45,
+      "text": "像我的官杀这么重",
+      "avg_logprob": -0.144,
+      "no_speech_prob": 0.3489,
+      "review": false
+    },
+    {
+      "start": 7896.45,
+      "end": 7898.67,
+      "text": "那我永远都是像打了鸡血一样",
+      "avg_logprob": -0.144,
+      "no_speech_prob": 0.3489,
+      "review": false
+    },
+    {
+      "start": 7898.67,
+      "end": 7901.23,
+      "text": "一直估计要奋斗到70岁80岁",
+      "avg_logprob": -0.144,
+      "no_speech_prob": 0.3489,
+      "review": false
+    },
+    {
+      "start": 7901.23,
+      "end": 7903.53,
+      "text": "但是如果你八字本身就没有官杀",
+      "avg_logprob": -0.144,
+      "no_speech_prob": 0.3489,
+      "review": false
+    },
+    {
+      "start": 7903.53,
+      "end": 7904.81,
+      "text": "你就很平凡",
+      "avg_logprob": -0.144,
+      "no_speech_prob": 0.3489,
+      "review": false
+    },
+    {
+      "start": 7904.81,
+      "end": 7906.07,
+      "text": "你这一生就是普普通通",
+      "avg_logprob": -0.144,
+      "no_speech_prob": 0.3489,
+      "review": false
+    },
+    {
+      "start": 7906.07,
+      "end": 7908.13,
+      "text": "过个普通的生活挺好的呀",
+      "avg_logprob": -0.144,
+      "no_speech_prob": 0.3489,
+      "review": false
+    },
+    {
+      "start": 7908.13,
+      "end": 7909.27,
+      "text": "没有啥呀",
+      "avg_logprob": -0.144,
+      "no_speech_prob": 0.3489,
+      "review": false
+    },
+    {
+      "start": 7909.27,
+      "end": 7913.07,
+      "text": "但是如果你八字官杀很重",
+      "avg_logprob": -0.144,
+      "no_speech_prob": 0.3489,
+      "review": false
+    },
+    {
+      "start": 7913.07,
+      "end": 7914.73,
+      "text": "基本上你都喜欢奋斗",
+      "avg_logprob": -0.144,
+      "no_speech_prob": 0.3489,
+      "review": false
+    },
+    {
+      "start": 7914.73,
+      "end": 7918.43,
+      "text": "你至少说你就觉得这一辈子老是想做事情",
+      "avg_logprob": -0.1343,
+      "no_speech_prob": 0.5283,
+      "review": true
+    },
+    {
+      "start": 7918.43,
+      "end": 7919.21,
+      "text": "老是想做事情",
+      "avg_logprob": -0.1343,
+      "no_speech_prob": 0.5283,
+      "review": true
+    },
+    {
+      "start": 7919.21,
+      "end": 7923.75,
+      "text": "这个八字性格是非常非常非常准的",
+      "avg_logprob": -0.1343,
+      "no_speech_prob": 0.5283,
+      "review": true
+    },
+    {
+      "start": 7923.75,
+      "end": 7924.97,
+      "text": "就是说八字的性格",
+      "avg_logprob": -0.1343,
+      "no_speech_prob": 0.5283,
+      "review": true
+    },
+    {
+      "start": 7924.97,
+      "end": 7926.85,
+      "text": "它几乎就是一个框架",
+      "avg_logprob": -0.1343,
+      "no_speech_prob": 0.5283,
+      "review": true
+    },
+    {
+      "start": 7926.85,
+      "end": 7927.87,
+      "text": "很难很难",
+      "avg_logprob": -0.1343,
+      "no_speech_prob": 0.5283,
+      "review": true
+    },
+    {
+      "start": 7927.87,
+      "end": 7929.01,
+      "text": "所以这就为什么说",
+      "avg_logprob": -0.1343,
+      "no_speech_prob": 0.5283,
+      "review": true
+    },
+    {
+      "start": 7929.01,
+      "end": 7931.85,
+      "text": "孩子有些时候你真的没办法",
+      "avg_logprob": -0.1343,
+      "no_speech_prob": 0.5283,
+      "review": true
+    },
+    {
+      "start": 7931.85,
+      "end": 7934.71,
+      "text": "因为他孩子就是这样子",
+      "avg_logprob": -0.1343,
+      "no_speech_prob": 0.5283,
+      "review": true
+    },
+    {
+      "start": 7934.71,
+      "end": 7936.65,
+      "text": "因为他生下来他这个八字一定",
+      "avg_logprob": -0.1343,
+      "no_speech_prob": 0.5283,
+      "review": true
+    },
+    {
+      "start": 7936.65,
+      "end": 7937.87,
+      "text": "他性格就是这样子",
+      "avg_logprob": -0.1343,
+      "no_speech_prob": 0.5283,
+      "review": true
+    },
+    {
+      "start": 7937.87,
+      "end": 7939.73,
+      "text": "你看我儿子就明显",
+      "avg_logprob": -0.1343,
+      "no_speech_prob": 0.5283,
+      "review": true
+    },
+    {
+      "start": 7939.73,
+      "end": 7941.97,
+      "text": "就明显比我就",
+      "avg_logprob": -0.1343,
+      "no_speech_prob": 0.5283,
+      "review": true
+    },
+    {
+      "start": 7941.97,
+      "end": 7944.17,
+      "text": "他就是基本上就是喜欢",
+      "avg_logprob": -0.1343,
+      "no_speech_prob": 0.5283,
+      "review": true
+    },
+    {
+      "start": 7944.17,
+      "end": 7974.59,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "avg_logprob": -0.1901,
+      "no_speech_prob": 0.8193,
+      "review": true
+    },
+    {
+      "start": 7974.61,
+      "end": 8004.59,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.094,
+      "no_speech_prob": 0.8545,
+      "review": true
+    },
+    {
+      "start": 8004.61,
+      "end": 8038.55,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1203,
+      "no_speech_prob": 0.0949,
+      "review": false
+    },
+    {
+      "start": 8038.57,
+      "end": 8073.17,
+      "text": "中文字幕志愿者 李宗盛",
+      "avg_logprob": -0.301,
+      "no_speech_prob": 0.8472,
+      "review": true
+    },
+    {
+      "start": 8073.19,
+      "end": 8103.45,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "avg_logprob": -0.208,
+      "no_speech_prob": 0.2235,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 19.81
+}

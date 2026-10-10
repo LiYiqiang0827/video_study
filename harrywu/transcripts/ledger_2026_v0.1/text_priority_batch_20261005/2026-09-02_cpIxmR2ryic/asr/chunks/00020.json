@@ -1,0 +1,880 @@
+{
+  "begin": 6000.0,
+  "finish": 6300.0,
+  "segments": [
+    {
+      "start": 6001.1,
+      "end": 6002.14,
+      "text": "心理也不行了",
+      "avg_logprob": -0.1531,
+      "no_speech_prob": 0.5557,
+      "review": true
+    },
+    {
+      "start": 6002.14,
+      "end": 6003.48,
+      "text": "所以还好了",
+      "avg_logprob": -0.1531,
+      "no_speech_prob": 0.5557,
+      "review": true
+    },
+    {
+      "start": 6003.48,
+      "end": 6004.8,
+      "text": "你们不要庆幸我谈恋爱",
+      "avg_logprob": -0.1531,
+      "no_speech_prob": 0.5557,
+      "review": true
+    },
+    {
+      "start": 6004.8,
+      "end": 6007.06,
+      "text": "不要让我少谈恋爱",
+      "avg_logprob": -0.1531,
+      "no_speech_prob": 0.5557,
+      "review": true
+    },
+    {
+      "start": 6007.06,
+      "end": 6008.18,
+      "text": "尽量少谈恋爱",
+      "avg_logprob": -0.1531,
+      "no_speech_prob": 0.5557,
+      "review": true
+    },
+    {
+      "start": 6008.18,
+      "end": 6010.88,
+      "text": "尽量别谈恋爱",
+      "avg_logprob": -0.1531,
+      "no_speech_prob": 0.5557,
+      "review": true
+    },
+    {
+      "start": 6010.88,
+      "end": 6011.78,
+      "text": "你放心吧",
+      "avg_logprob": -0.1531,
+      "no_speech_prob": 0.5557,
+      "review": true
+    },
+    {
+      "start": 6011.78,
+      "end": 6014.16,
+      "text": "像我们喜欢八字的人会永远孤独下去的",
+      "avg_logprob": -0.1531,
+      "no_speech_prob": 0.5557,
+      "review": true
+    },
+    {
+      "start": 6014.16,
+      "end": 6015.72,
+      "text": "以前都是谁学八字",
+      "avg_logprob": -0.1531,
+      "no_speech_prob": 0.5557,
+      "review": true
+    },
+    {
+      "start": 6015.72,
+      "end": 6018.52,
+      "text": "都是官寡孤独的人才学八字",
+      "avg_logprob": -0.1531,
+      "no_speech_prob": 0.5557,
+      "review": true
+    },
+    {
+      "start": 6018.52,
+      "end": 6023.52,
+      "text": "我现在喜欢两个东西",
+      "avg_logprob": -0.1531,
+      "no_speech_prob": 0.5557,
+      "review": true
+    },
+    {
+      "start": 6023.52,
+      "end": 6027.26,
+      "text": "都是把我逼向孤独的结路",
+      "avg_logprob": -0.1531,
+      "no_speech_prob": 0.5557,
+      "review": true
+    },
+    {
+      "start": 6027.26,
+      "end": 6029.16,
+      "text": "一个是炒股一个是八字",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.7334,
+      "review": true
+    },
+    {
+      "start": 6029.16,
+      "end": 6031.74,
+      "text": "都是把人逼向孤独的绝路",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.7334,
+      "review": true
+    },
+    {
+      "start": 6031.74,
+      "end": 6034.2,
+      "text": "开玩笑",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.7334,
+      "review": true
+    },
+    {
+      "start": 6034.2,
+      "end": 6038.68,
+      "text": "主要是",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.7334,
+      "review": true
+    },
+    {
+      "start": 6038.68,
+      "end": 6041.34,
+      "text": "所以人也不能太聪明了",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.7334,
+      "review": true
+    },
+    {
+      "start": 6041.34,
+      "end": 6042.62,
+      "text": "其实我觉得我不聪明",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.7334,
+      "review": true
+    },
+    {
+      "start": 6042.62,
+      "end": 6044.16,
+      "text": "但是我很喜欢学习",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.7334,
+      "review": true
+    },
+    {
+      "start": 6044.16,
+      "end": 6046.6,
+      "text": "但是我是觉得你学东西学多了",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.7334,
+      "review": true
+    },
+    {
+      "start": 6046.6,
+      "end": 6048.22,
+      "text": "人就变得",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.7334,
+      "review": true
+    },
+    {
+      "start": 6048.22,
+      "end": 6049.86,
+      "text": "怎么说呢",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.7334,
+      "review": true
+    },
+    {
+      "start": 6049.86,
+      "end": 6051.36,
+      "text": "我不知道你们有没有这种感觉",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.7334,
+      "review": true
+    },
+    {
+      "start": 6051.36,
+      "end": 6053.26,
+      "text": "就是对大多数是不感兴趣",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.7334,
+      "review": true
+    },
+    {
+      "start": 6053.26,
+      "end": 6054.46,
+      "text": "就只喜欢学习",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.7334,
+      "review": true
+    },
+    {
+      "start": 6054.46,
+      "end": 6057.7,
+      "text": "就是只有对你自己的",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.7334,
+      "review": true
+    },
+    {
+      "start": 6057.7,
+      "end": 6061.72,
+      "text": "只有当自己觉得我学到东西了",
+      "avg_logprob": -0.1489,
+      "no_speech_prob": 0.999,
+      "review": true
+    },
+    {
+      "start": 6061.72,
+      "end": 6064.86,
+      "text": "让我有一个东西让我头脑一震",
+      "avg_logprob": -0.1489,
+      "no_speech_prob": 0.999,
+      "review": true
+    },
+    {
+      "start": 6064.86,
+      "end": 6068.98,
+      "text": "然后让我觉得我的这个人生和灵魂很有价值的事情",
+      "avg_logprob": -0.1489,
+      "no_speech_prob": 0.999,
+      "review": true
+    },
+    {
+      "start": 6068.98,
+      "end": 6070.82,
+      "text": "我现在才感兴趣",
+      "avg_logprob": -0.1489,
+      "no_speech_prob": 0.999,
+      "review": true
+    },
+    {
+      "start": 6070.82,
+      "end": 6072.58,
+      "text": "谈恋爱这个事情对我来说",
+      "avg_logprob": -0.1489,
+      "no_speech_prob": 0.999,
+      "review": true
+    },
+    {
+      "start": 6072.58,
+      "end": 6074.76,
+      "text": "精神上没有价值",
+      "avg_logprob": -0.1489,
+      "no_speech_prob": 0.999,
+      "review": true
+    },
+    {
+      "start": 6074.76,
+      "end": 6076.38,
+      "text": "它只有肉体的价值",
+      "avg_logprob": -0.1489,
+      "no_speech_prob": 0.999,
+      "review": true
+    },
+    {
+      "start": 6076.38,
+      "end": 6078.44,
+      "text": "所以就很痛苦",
+      "avg_logprob": -0.1489,
+      "no_speech_prob": 0.999,
+      "review": true
+    },
+    {
+      "start": 6078.44,
+      "end": 6081.32,
+      "text": "像我一般的人又是吧",
+      "avg_logprob": -0.1489,
+      "no_speech_prob": 0.999,
+      "review": true
+    },
+    {
+      "start": 6081.32,
+      "end": 6084.18,
+      "text": "他在灵魂上在精神上又满足不了我",
+      "avg_logprob": -0.1489,
+      "no_speech_prob": 0.999,
+      "review": true
+    },
+    {
+      "start": 6084.18,
+      "end": 6085.7,
+      "text": "那我就觉得谈恋爱有啥意义",
+      "avg_logprob": -0.1489,
+      "no_speech_prob": 0.999,
+      "review": true
+    },
+    {
+      "start": 6085.7,
+      "end": 6087.5,
+      "text": "就很痛苦",
+      "avg_logprob": -0.1489,
+      "no_speech_prob": 0.999,
+      "review": true
+    },
+    {
+      "start": 6087.5,
+      "end": 6118.02,
+      "text": "哎,那我所以我不谈恋爱,除非哪天能找到一个这个这个觉得是个顶尖的八字高手,或者是交易高手,哎,那我觉得离婚还可以公正,不然的话我觉得不行,不行啊,不行,是,真的是,的确是,预知被这个医学拉高了,其他事情无法满足,哎,这个真的是,就是很多东西看上去太透了,哎呀,看上去太透了,或者是,哎,这也不是聪明,我也不知道怎么会信用,",
+      "avg_logprob": -0.1297,
+      "no_speech_prob": 0.8037,
+      "review": true
+    },
+    {
+      "start": 6118.02,
+      "end": 6121.16,
+      "text": "所以你说为什么要学哲学",
+      "avg_logprob": -0.1161,
+      "no_speech_prob": 0.4768,
+      "review": false
+    },
+    {
+      "start": 6121.16,
+      "end": 6122.88,
+      "text": "不是我想学哲学",
+      "avg_logprob": -0.1161,
+      "no_speech_prob": 0.4768,
+      "review": false
+    },
+    {
+      "start": 6122.88,
+      "end": 6125.9,
+      "text": "我是从哲学和艺学里面能感到快感",
+      "avg_logprob": -0.1161,
+      "no_speech_prob": 0.4768,
+      "review": false
+    },
+    {
+      "start": 6125.9,
+      "end": 6128.46,
+      "text": "我才能感到精神的高潮",
+      "avg_logprob": -0.1161,
+      "no_speech_prob": 0.4768,
+      "review": false
+    },
+    {
+      "start": 6128.46,
+      "end": 6128.9,
+      "text": "明白吧",
+      "avg_logprob": -0.1161,
+      "no_speech_prob": 0.4768,
+      "review": false
+    },
+    {
+      "start": 6128.9,
+      "end": 6130.64,
+      "text": "就是我看这些东西觉得没兴趣",
+      "avg_logprob": -0.1161,
+      "no_speech_prob": 0.4768,
+      "review": false
+    },
+    {
+      "start": 6130.64,
+      "end": 6131.6,
+      "text": "索然无味",
+      "avg_logprob": -0.1161,
+      "no_speech_prob": 0.4768,
+      "review": false
+    },
+    {
+      "start": 6131.6,
+      "end": 6133.34,
+      "text": "交易还可以",
+      "avg_logprob": -0.1161,
+      "no_speech_prob": 0.4768,
+      "review": false
+    },
+    {
+      "start": 6133.34,
+      "end": 6134.96,
+      "text": "交易又可以赚钱",
+      "avg_logprob": -0.1161,
+      "no_speech_prob": 0.4768,
+      "review": false
+    },
+    {
+      "start": 6134.96,
+      "end": 6137.22,
+      "text": "我也觉得又可以让我自己",
+      "avg_logprob": -0.1161,
+      "no_speech_prob": 0.4768,
+      "review": false
+    },
+    {
+      "start": 6137.22,
+      "end": 6141.6,
+      "text": "但是交易我也感觉不到那种精神的公正的",
+      "avg_logprob": -0.1161,
+      "no_speech_prob": 0.4768,
+      "review": false
+    },
+    {
+      "start": 6141.6,
+      "end": 6144.08,
+      "text": "交易现在对我来说像吃饭喝水一样",
+      "avg_logprob": -0.1161,
+      "no_speech_prob": 0.4768,
+      "review": false
+    },
+    {
+      "start": 6144.08,
+      "end": 6145.22,
+      "text": "我觉得太简单了",
+      "avg_logprob": -0.1161,
+      "no_speech_prob": 0.4768,
+      "review": false
+    },
+    {
+      "start": 6145.22,
+      "end": 6145.96,
+      "text": "这个不是吹牛",
+      "avg_logprob": -0.1161,
+      "no_speech_prob": 0.4768,
+      "review": false
+    },
+    {
+      "start": 6145.96,
+      "end": 6149.02,
+      "text": "就是在行情好的时候对我的时候赚钱太简单了",
+      "avg_logprob": -0.1222,
+      "no_speech_prob": 0.9731,
+      "review": true
+    },
+    {
+      "start": 6149.02,
+      "end": 6150.28,
+      "text": "就是已经没有啥兴趣了",
+      "avg_logprob": -0.1222,
+      "no_speech_prob": 0.9731,
+      "review": true
+    },
+    {
+      "start": 6150.28,
+      "end": 6152.96,
+      "text": "所以我才会去学哲学、学易经",
+      "avg_logprob": -0.1222,
+      "no_speech_prob": 0.9731,
+      "review": true
+    },
+    {
+      "start": 6152.96,
+      "end": 6156.28,
+      "text": "我觉得这个东西还能够让我有思维的兴趣",
+      "avg_logprob": -0.1222,
+      "no_speech_prob": 0.9731,
+      "review": true
+    },
+    {
+      "start": 6156.28,
+      "end": 6160.2,
+      "text": "反正交易没啥意思对我来说",
+      "avg_logprob": -0.1222,
+      "no_speech_prob": 0.9731,
+      "review": true
+    },
+    {
+      "start": 6160.2,
+      "end": 6162.16,
+      "text": "交易除了赚钱之外",
+      "avg_logprob": -0.1222,
+      "no_speech_prob": 0.9731,
+      "review": true
+    },
+    {
+      "start": 6162.16,
+      "end": 6163.6,
+      "text": "我觉得对我来说没有啥意义",
+      "avg_logprob": -0.1222,
+      "no_speech_prob": 0.9731,
+      "review": true
+    },
+    {
+      "start": 6163.6,
+      "end": 6165.68,
+      "text": "交易就是等嘛",
+      "avg_logprob": -0.1222,
+      "no_speech_prob": 0.9731,
+      "review": true
+    },
+    {
+      "start": 6165.68,
+      "end": 6166.12,
+      "text": "你看嘛",
+      "avg_logprob": -0.1222,
+      "no_speech_prob": 0.9731,
+      "review": true
+    },
+    {
+      "start": 6166.12,
+      "end": 6166.98,
+      "text": "只要等到了",
+      "avg_logprob": -0.1222,
+      "no_speech_prob": 0.9731,
+      "review": true
+    },
+    {
+      "start": 6166.98,
+      "end": 6168.5,
+      "text": "以我们的水平咋不赚钱嘛",
+      "avg_logprob": -0.1222,
+      "no_speech_prob": 0.9731,
+      "review": true
+    },
+    {
+      "start": 6168.5,
+      "end": 6168.9,
+      "text": "是不是",
+      "avg_logprob": -0.1222,
+      "no_speech_prob": 0.9731,
+      "review": true
+    },
+    {
+      "start": 6168.9,
+      "end": 6169.76,
+      "text": "以我们这种水平",
+      "avg_logprob": -0.1222,
+      "no_speech_prob": 0.9731,
+      "review": true
+    },
+    {
+      "start": 6169.76,
+      "end": 6170.58,
+      "text": "你看选国水平",
+      "avg_logprob": -0.1222,
+      "no_speech_prob": 0.9731,
+      "review": true
+    },
+    {
+      "start": 6170.58,
+      "end": 6171.78,
+      "text": "你怎么可能不赚钱",
+      "avg_logprob": -0.1222,
+      "no_speech_prob": 0.9731,
+      "review": true
+    },
+    {
+      "start": 6171.78,
+      "end": 6173.88,
+      "text": "你不赚钱的原因是因为你乱选",
+      "avg_logprob": -0.1222,
+      "no_speech_prob": 0.9731,
+      "review": true
+    },
+    {
+      "start": 6173.88,
+      "end": 6175.02,
+      "text": "就像刚才我朋友说",
+      "avg_logprob": -0.1222,
+      "no_speech_prob": 0.9731,
+      "review": true
+    },
+    {
+      "start": 6175.02,
+      "end": 6176.62,
+      "text": "你看我们再来说嘛",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.7354,
+      "review": true
+    },
+    {
+      "start": 6176.62,
+      "end": 6178.68,
+      "text": "你不赚钱原因是因为你不看大市",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.7354,
+      "review": true
+    },
+    {
+      "start": 6178.68,
+      "end": 6179.56,
+      "text": "你不看板块",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.7354,
+      "review": true
+    },
+    {
+      "start": 6179.56,
+      "end": 6180.52,
+      "text": "你不看题材",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.7354,
+      "review": true
+    },
+    {
+      "start": 6180.52,
+      "end": 6181.56,
+      "text": "你不看资金流",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.7354,
+      "review": true
+    },
+    {
+      "start": 6181.56,
+      "end": 6182.5,
+      "text": "你不看K线",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.7354,
+      "review": true
+    },
+    {
+      "start": 6182.5,
+      "end": 6183.7,
+      "text": "你要真实",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.7354,
+      "review": true
+    },
+    {
+      "start": 6183.7,
+      "end": 6185.24,
+      "text": "我们就说句实在话",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.7354,
+      "review": true
+    },
+    {
+      "start": 6185.24,
+      "end": 6187.1,
+      "text": "你看云策老师跟你们做直播这么久",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.7354,
+      "review": true
+    },
+    {
+      "start": 6187.1,
+      "end": 6188.96,
+      "text": "你要严格的按照我这个来",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.7354,
+      "review": true
+    },
+    {
+      "start": 6188.96,
+      "end": 6190.54,
+      "text": "只要大盘好",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.7354,
+      "review": true
+    },
+    {
+      "start": 6190.54,
+      "end": 6191.68,
+      "text": "但是前提要说一句",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.7354,
+      "review": true
+    },
+    {
+      "start": 6191.68,
+      "end": 6193.68,
+      "text": "那大盘暴跌像今天这种暴跌",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.7354,
+      "review": true
+    },
+    {
+      "start": 6193.68,
+      "end": 6195.36,
+      "text": "那你也不要指望我跟你赚大钱",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.7354,
+      "review": true
+    },
+    {
+      "start": 6195.36,
+      "end": 6197.08,
+      "text": "但是只要大盘没问题",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.7354,
+      "review": true
+    },
+    {
+      "start": 6197.08,
+      "end": 6198.84,
+      "text": "我的选股这条模型",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.7354,
+      "review": true
+    },
+    {
+      "start": 6198.84,
+      "end": 6200.44,
+      "text": "百分之百的不失败",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.7354,
+      "review": true
+    },
+    {
+      "start": 6200.44,
+      "end": 6201.86,
+      "text": "我这个不是给你们吹牛的",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.7354,
+      "review": true
+    },
+    {
+      "start": 6201.86,
+      "end": 6203.44,
+      "text": "一点失败的可能性都没有",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.7354,
+      "review": true
+    },
+    {
+      "start": 6203.44,
+      "end": 6206.26,
+      "text": "但是如果大盘暴跌那我没办法",
+      "avg_logprob": -0.1197,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 6206.26,
+      "end": 6207.7,
+      "text": "谁有这个本事",
+      "avg_logprob": -0.1197,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 6207.7,
+      "end": 6210.22,
+      "text": "但是大盘只要能够稳定好一点",
+      "avg_logprob": -0.1197,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 6210.22,
+      "end": 6212.62,
+      "text": "你看我的选股几乎没有失误的",
+      "avg_logprob": -0.1197,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 6212.62,
+      "end": 6214.94,
+      "text": "我的失误都是大盘突然给你暴跌了",
+      "avg_logprob": -0.1197,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 6214.94,
+      "end": 6217.1,
+      "text": "或者上次一下子美国来给你",
+      "avg_logprob": -0.1197,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 6217.1,
+      "end": 6218.8,
+      "text": "美国出个大消息反制了",
+      "avg_logprob": -0.1197,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 6218.8,
+      "end": 6221.38,
+      "text": "不然的话我的这套模型选A股跟你说",
+      "avg_logprob": -0.1197,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 6221.38,
+      "end": 6222.4,
+      "text": "百分之百赚钱的",
+      "avg_logprob": -0.1197,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 6222.4,
+      "end": 6223.48,
+      "text": "这个真的不是吹牛",
+      "avg_logprob": -0.1197,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 6223.48,
+      "end": 6224.64,
+      "text": "你们跟我跟这么久了",
+      "avg_logprob": -0.1197,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 6224.64,
+      "end": 6225.76,
+      "text": "你们也看到的是吧",
+      "avg_logprob": -0.1197,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 6225.76,
+      "end": 6226.98,
+      "text": "几乎都是赚钱的",
+      "avg_logprob": -0.1197,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 6226.98,
+      "end": 6239.38,
+      "text": "介意性别吧",
+      "avg_logprob": -0.1197,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 6239.38,
+      "end": 6240.44,
+      "text": "不要吓我",
+      "avg_logprob": -0.1197,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 6240.44,
+      "end": 6241.52,
+      "text": "好我们那个",
+      "avg_logprob": -0.1197,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 6241.52,
+      "end": 6242.54,
+      "text": "我再回答一些问题",
+      "avg_logprob": -0.1197,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 6242.54,
+      "end": 6243.04,
+      "text": "我们就下了",
+      "avg_logprob": -0.1197,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 6243.04,
+      "end": 6273.8,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1101,
+      "no_speech_prob": 0.6787,
+      "review": true
+    },
+    {
+      "start": 6273.82,
+      "end": 6303.8,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0902,
+      "no_speech_prob": 0.172,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 25.72
+}

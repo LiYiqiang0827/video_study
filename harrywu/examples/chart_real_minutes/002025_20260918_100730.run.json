@@ -1,0 +1,120 @@
+{
+  "status": "ok",
+  "png": "C:\\Project Rocket\\outputs\\chart_tool_minutes_enabled_20261009\\charts\\002025_20260918_100730.png",
+  "views": {
+    "daily": "C:\\Project Rocket\\outputs\\chart_tool_minutes_enabled_20261009\\charts\\002025_20260918_100730.daily.view.json",
+    "15m": "C:\\Project Rocket\\outputs\\chart_tool_minutes_enabled_20261009\\charts\\002025_20260918_100730.15m.view.json",
+    "1m": "C:\\Project Rocket\\outputs\\chart_tool_minutes_enabled_20261009\\charts\\002025_20260918_100730.1m.view.json",
+    "intraday": "C:\\Project Rocket\\outputs\\chart_tool_minutes_enabled_20261009\\charts\\002025_20260918_100730.intraday.view.json"
+  },
+  "manifest": "C:\\Project Rocket\\outputs\\chart_tool_minutes_enabled_20261009\\charts\\002025_20260918_100730.manifest.json",
+  "rows": {
+    "daily": 2240,
+    "15m": 67,
+    "1m": 37,
+    "intraday": 37
+  },
+  "stage": "restore",
+  "requested_cutoff": "2026-09-18T10:07:30+08:00",
+  "timings": {
+    "reading_seconds": 0.8352611000009347,
+    "conversion_seconds": 0.8852553000033367,
+    "drawing_seconds": 0.41487860000052024,
+    "encoding_seconds": 0.21166759998595808,
+    "pipeline_total_seconds": 4.543465499999002
+  },
+  "warnings": [
+    "AUCTION_UNAVAILABLE",
+    "CURRENT_DAILY_FROM_OBSERVED_MINUTES",
+    "CURRENT_FACTOR_UNCHANGED_FROM_PREVIOUS",
+    "HISTORICAL_CALENDAR_COVERAGE_UNAVAILABLE",
+    "DISPLAY_ZOOM_WITHIN_CUTOFF",
+    "FIFTEEN_MINUTES_DERIVED_FROM_ONE_MINUTE"
+  ],
+  "request": {
+    "ts_code": "002025.SZ",
+    "cutoff": "2026-09-18T10:07:30+08:00",
+    "cutoff_source": {
+      "kind": "manual",
+      "confidence": "medium",
+      "evidence_refs": [
+        "user:2026-10-09:requested-cutoff-2026-09-18T10:07:30+08:00"
+      ],
+      "candidates": [],
+      "calibration_segment": null
+    },
+    "stage": "restore",
+    "window": "10y",
+    "periods": [
+      "daily",
+      "15m",
+      "1m",
+      "intraday"
+    ],
+    "minute_start": "2026-09-14",
+    "include_partial": true,
+    "contract_version": "chart.v1"
+  },
+  "geometry": "C:\\Project Rocket\\outputs\\chart_tool_minutes_enabled_20261009\\charts\\002025_20260918_100730.geometry.json",
+  "pixel": "C:\\Project Rocket\\outputs\\chart_tool_minutes_enabled_20261009\\charts\\002025_20260918_100730.pixel.json",
+  "pixel_check": {
+    "status": "pass",
+    "panels": {
+      "daily": {
+        "status": "pass",
+        "mode": "normal",
+        "bars": 250,
+        "volume_expected": 250,
+        "volume_visible": 250,
+        "candle_visible": 250,
+        "line_visible": 0,
+        "colored_right_of_last_bar": 0,
+        "colored_in_fixed_slot_tail": 0,
+        "duplicate_columns": 0,
+        "failures": []
+      },
+      "15m": {
+        "status": "pass",
+        "mode": "normal",
+        "bars": 67,
+        "volume_expected": 67,
+        "volume_visible": 67,
+        "candle_visible": 67,
+        "line_visible": 0,
+        "colored_right_of_last_bar": 0,
+        "colored_in_fixed_slot_tail": 0,
+        "duplicate_columns": 0,
+        "failures": []
+      },
+      "1m": {
+        "status": "pass",
+        "mode": "normal",
+        "bars": 37,
+        "volume_expected": 37,
+        "volume_visible": 37,
+        "candle_visible": 37,
+        "line_visible": 0,
+        "colored_right_of_last_bar": 0,
+        "colored_in_fixed_slot_tail": 0,
+        "duplicate_columns": 0,
+        "failures": []
+      },
+      "intraday": {
+        "status": "pass",
+        "mode": "line",
+        "bars": 37,
+        "volume_expected": 37,
+        "volume_visible": 37,
+        "candle_visible": 0,
+        "line_visible": 37,
+        "colored_right_of_last_bar": 0,
+        "colored_in_fixed_slot_tail": 0,
+        "duplicate_columns": 0,
+        "failures": []
+      }
+    }
+  },
+  "canvas_width_px": 5600,
+  "process_to_png_and_sidecars_seconds": 5.278862500010291,
+  "png_sha256": "06bf51f26bb3d621b76ddb45572b59dcfceec438c76f613390ca2e3700fcd82d"
+}

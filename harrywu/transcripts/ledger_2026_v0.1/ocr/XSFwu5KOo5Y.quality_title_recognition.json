@@ -1,0 +1,102 @@
+{
+  "stream_id": "XSFwu5KOo5Y",
+  "region": [
+    995,
+    19,
+    1125,
+    38
+  ],
+  "upscale": 1,
+  "method": "RapidOCR recognition only, fixed title region",
+  "scope": "Main Tongdaxin title only; not whole-frame OCR",
+  "limitation": "Other layouts, prices, holding tables and clocks require separate OCR/review. No stock identity matching or event classification is done.",
+  "frames": [
+    {
+      "time": 600.0,
+      "frame": "D:\\YuncongVideoAnalysis\\ledger_2026_v0.1\\quality_frames\\XSFwu5KOo5Y\\frame_00000_000600000.jpg",
+      "frame_sha256": "c6913154ef351eaed584f7c33cb8fc52bae81c354dccff25a61964be49b7e3a5",
+      "ocr": [
+        {
+          "text": "688636智明达1",
+          "confidence": 0.9355846107006073,
+          "recognition_region_original_pixels": [
+            [
+              995,
+              19
+            ],
+            [
+              1125,
+              19
+            ],
+            [
+              1125,
+              38
+            ],
+            [
+              995,
+              38
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "time": 2400.0,
+      "frame": "D:\\YuncongVideoAnalysis\\ledger_2026_v0.1\\quality_frames\\XSFwu5KOo5Y\\frame_00001_002400000.jpg",
+      "frame_sha256": "8fc0b1be910b479f44f27a21474b4590f9de356dbd357f6c2ba9fe32415151f4",
+      "ocr": [
+        {
+          "text": "603067振华股份",
+          "confidence": 0.9739957869052887,
+          "recognition_region_original_pixels": [
+            [
+              995,
+              19
+            ],
+            [
+              1125,
+              19
+            ],
+            [
+              1125,
+              38
+            ],
+            [
+              995,
+              38
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "time": 5400.0,
+      "frame": "D:\\YuncongVideoAnalysis\\ledger_2026_v0.1\\quality_frames\\XSFwu5KOo5Y\\frame_00002_005400000.jpg",
+      "frame_sha256": "3aebd802c6bb54823924659b6ad4f42ba073adbadeb7e0fdd9b260966dab3ab0",
+      "ocr": [
+        {
+          "text": "0000用40064729-340",
+          "confidence": 0.43060702129321937,
+          "recognition_region_original_pixels": [
+            [
+              995,
+              19
+            ],
+            [
+              1125,
+              19
+            ],
+            [
+              1125,
+              38
+            ],
+            [
+              995,
+              38
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "source": "D:\\YuncongVideoAnalysis\\2026-01-01_to_2026-10-03\\节日快乐，随便聊聊天 （5月3日早915点 北京时间）.mp4",
+  "duration": 8258.200091,
+  "params": {
+    "source_sha256": "a2b22b0b63c7229f1b6b6e981d7b8c3c67d166da32e2b5d17e9355a23517e86c",
+    "times": [
+      600.0,
+      3600.0,
+      6600.0
+    ],
+    "method": "accurate-seek-copyts-original-v1"
+  },
+  "frames": [
+    {
+      "requested_time": 600.0,
+      "time": 600.0,
+      "decoded_pts": 600.0,
+      "frame": "frame_00000_000600000.jpg",
+      "sha256": "2997335a5fa3c1896a377f1d519ba8621cc5369192a5bfdbd5df4e5c06057515"
+    },
+    {
+      "requested_time": 3600.0,
+      "time": 3600.0,
+      "decoded_pts": 3600.0,
+      "frame": "frame_00001_003600000.jpg",
+      "sha256": "046b74fabccad0501fdcb2e23e348fbe7aeaec17eb83af2dedee3084948803b3"
+    },
+    {
+      "requested_time": 6600.0,
+      "time": 6600.0,
+      "decoded_pts": 6600.0,
+      "frame": "frame_00002_006600000.jpg",
+      "sha256": "0da85d9dce8119162beb296a5e69790281ed668faf1bf59a561dbe43ed7856f2"
+    }
+  ],
+  "status": "complete",
+  "sheets": [
+    "sheet_001.jpg"
+  ]
+}

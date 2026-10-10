@@ -1,5 +1,13 @@
 # YuncongVideoTools
 
+## HarryWu 分支：云聪研究、转录与基础设施交接
+
+**李老师及 AI 请先读 [Harry 的交接入口](harrywu/README.md)**。2026-10-10 按云盘新版路线图整理：20 场直播的 140 份文本交付、课程/双突破研究与画面证据、ASR 与抽帧实现、看图工具源码及真实样例、天气标签与行情接口说明。运行步骤见 [快速开始](harrywu/docs/QUICKSTART.md)，两套方法的衔接见 [源码对照](harrywu/docs/TEACHER_METHOD_COMPARISON.md)。
+
+本分支在 `harrywu/` 添加研究快照；下面是李老师原工具说明，原有 `scripts/`、`SKILL.md`、提示词、依赖和工作流保持原样。其“纯工具/不含结果”约定描述原工具工程，`harrywu/` 明确包含本次经筛选的研究交付。原视频、音频和全量行情库仍通过索引引用。李老师原始 main 的固定版本 `003ff7f` 另存于 [云盘方法快照](https://drive.google.com/drive/folders/18YibvrGSf2OGPh0RH4D4YvKEbhMT91hz)。
+
+---
+
 云聪视频下载后的纯工具工程：音频提取、Qwen MLX 转写与对齐、自动字幕、Mac mini 结果同步及统一归档。此仓库同时是 `yuncong-video-subtitles` 技能包，入口为 [SKILL.md](SKILL.md)。
 
 已完成字幕的视频还可提炼观点，默认交付含原声片段的可编辑 PPT：先列大盘、主动讲股和网友提问大纲，再配指数及个股的原始画线截图与简要说明。截图与压缩短片嵌入文件，不需视频外链。PPT与源视频同名，放在源视频同一目录；中间材料在解析子目录。同时保留带双时间的本地解析与切片，见 [视频解析工作流](references/video_analysis.md)。

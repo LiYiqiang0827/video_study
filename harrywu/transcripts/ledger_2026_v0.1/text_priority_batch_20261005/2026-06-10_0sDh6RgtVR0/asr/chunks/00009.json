@@ -1,0 +1,736 @@
+{
+  "begin": 2700.0,
+  "finish": 3000.0,
+  "segments": [
+    {
+      "start": 2707.07,
+      "end": 2709.95,
+      "text": "今天也估计没法做咯,咱们就看明天了",
+      "avg_logprob": -0.2776,
+      "no_speech_prob": 0.9609,
+      "review": true
+    },
+    {
+      "start": 2709.95,
+      "end": 2733.5,
+      "text": "很难的,这也是和新链相关的",
+      "avg_logprob": -0.2776,
+      "no_speech_prob": 0.9609,
+      "review": true
+    },
+    {
+      "start": 2733.5,
+      "end": 2739.04,
+      "text": "怎么这么慢,打不开",
+      "avg_logprob": -0.2776,
+      "no_speech_prob": 0.9609,
+      "review": true
+    },
+    {
+      "start": 2739.04,
+      "end": 2745.9,
+      "text": "等一下,这个,有些时候他这个很讨厌",
+      "avg_logprob": -0.2776,
+      "no_speech_prob": 0.9609,
+      "review": true
+    },
+    {
+      "start": 2745.9,
+      "end": 2751.55,
+      "text": "用这个吧,TradingView吧",
+      "avg_logprob": -0.2776,
+      "no_speech_prob": 0.9609,
+      "review": true
+    },
+    {
+      "start": 2751.55,
+      "end": 2767.54,
+      "text": "诶,没有啊,哦,不是外汇,全部",
+      "avg_logprob": -0.2776,
+      "no_speech_prob": 0.9609,
+      "review": true
+    },
+    {
+      "start": 2767.54,
+      "end": 2780.65,
+      "text": "这个我觉得,我觉得啊,我的观点是这个肯定得看到说新链的",
+      "avg_logprob": -0.2776,
+      "no_speech_prob": 0.9609,
+      "review": true
+    },
+    {
+      "start": 2780.65,
+      "end": 2782.17,
+      "text": "他新链能够暴涨",
+      "avg_logprob": -0.2776,
+      "no_speech_prob": 0.9609,
+      "review": true
+    },
+    {
+      "start": 2782.17,
+      "end": 2784.75,
+      "text": "诶 这啥意思啊 为什么图表都打不开呢",
+      "avg_logprob": -0.1752,
+      "no_speech_prob": 0.9795,
+      "review": true
+    },
+    {
+      "start": 2784.75,
+      "end": 2787.22,
+      "text": "它是今天刚上市的吗",
+      "avg_logprob": -0.1752,
+      "no_speech_prob": 0.9795,
+      "review": true
+    },
+    {
+      "start": 2787.22,
+      "end": 2794.95,
+      "text": "哦 这就是SpaceX啊 是不是今天上市啊",
+      "avg_logprob": -0.1752,
+      "no_speech_prob": 0.9795,
+      "review": true
+    },
+    {
+      "start": 2794.95,
+      "end": 2797.99,
+      "text": "诶 都没有啊 今天美国时间都没有开始",
+      "avg_logprob": -0.1752,
+      "no_speech_prob": 0.9795,
+      "review": true
+    },
+    {
+      "start": 2797.99,
+      "end": 2800.97,
+      "text": "诶 还没开始呢 这个",
+      "avg_logprob": -0.1752,
+      "no_speech_prob": 0.9795,
+      "review": true
+    },
+    {
+      "start": 2800.97,
+      "end": 2803.97,
+      "text": "还没开始 我是说怎么打开没有啊",
+      "avg_logprob": -0.1752,
+      "no_speech_prob": 0.9795,
+      "review": true
+    },
+    {
+      "start": 2803.97,
+      "end": 2807.39,
+      "text": "还没开始呢 还没上市呢",
+      "avg_logprob": -0.1752,
+      "no_speech_prob": 0.9795,
+      "review": true
+    },
+    {
+      "start": 2807.39,
+      "end": 2817.54,
+      "text": "我不看紫薇啊 我看八字啊 八字和大六人",
+      "avg_logprob": -0.1752,
+      "no_speech_prob": 0.9795,
+      "review": true
+    },
+    {
+      "start": 2817.54,
+      "end": 2818.38,
+      "text": "我不看紫薇",
+      "avg_logprob": -0.1752,
+      "no_speech_prob": 0.9795,
+      "review": true
+    },
+    {
+      "start": 2818.38,
+      "end": 2823.68,
+      "text": "因为这个紫薇和八字学一个就可以了",
+      "avg_logprob": -0.1752,
+      "no_speech_prob": 0.9795,
+      "review": true
+    },
+    {
+      "start": 2823.68,
+      "end": 2826.04,
+      "text": "因为紫薇她的书比较少",
+      "avg_logprob": -0.1346,
+      "no_speech_prob": 0.1953,
+      "review": false
+    },
+    {
+      "start": 2826.04,
+      "end": 2828.56,
+      "text": "因为她是看那个天生的星图嘛",
+      "avg_logprob": -0.1346,
+      "no_speech_prob": 0.1953,
+      "review": false
+    },
+    {
+      "start": 2828.56,
+      "end": 2830.4,
+      "text": "而且看那些看起来比较累",
+      "avg_logprob": -0.1346,
+      "no_speech_prob": 0.1953,
+      "review": false
+    },
+    {
+      "start": 2830.4,
+      "end": 2831.26,
+      "text": "那个八字呢",
+      "avg_logprob": -0.1346,
+      "no_speech_prob": 0.1953,
+      "review": false
+    },
+    {
+      "start": 2831.26,
+      "end": 2832.2,
+      "text": "她的书比较多",
+      "avg_logprob": -0.1346,
+      "no_speech_prob": 0.1953,
+      "review": false
+    },
+    {
+      "start": 2832.2,
+      "end": 2833.02,
+      "text": "也比较系统",
+      "avg_logprob": -0.1346,
+      "no_speech_prob": 0.1953,
+      "review": false
+    },
+    {
+      "start": 2833.02,
+      "end": 2834.68,
+      "text": "就你可以非常系统的学",
+      "avg_logprob": -0.1346,
+      "no_speech_prob": 0.1953,
+      "review": false
+    },
+    {
+      "start": 2834.68,
+      "end": 2836.12,
+      "text": "我喜欢系统的学",
+      "avg_logprob": -0.1346,
+      "no_speech_prob": 0.1953,
+      "review": false
+    },
+    {
+      "start": 2836.12,
+      "end": 2838.34,
+      "text": "就是你也不需要跟老师",
+      "avg_logprob": -0.1346,
+      "no_speech_prob": 0.1953,
+      "review": false
+    },
+    {
+      "start": 2838.34,
+      "end": 2841.58,
+      "text": "你就直接系统的把所有的学习全部学完",
+      "avg_logprob": -0.1346,
+      "no_speech_prob": 0.1953,
+      "review": false
+    },
+    {
+      "start": 2841.58,
+      "end": 2842.98,
+      "text": "然后你再拜师都可以",
+      "avg_logprob": -0.1346,
+      "no_speech_prob": 0.1953,
+      "review": false
+    },
+    {
+      "start": 2842.98,
+      "end": 2845.94,
+      "text": "紫薇就是书流程的书太少了",
+      "avg_logprob": -0.1346,
+      "no_speech_prob": 0.1953,
+      "review": false
+    },
+    {
+      "start": 2845.94,
+      "end": 2848.14,
+      "text": "她是讲那个星图的嘛",
+      "avg_logprob": -0.1346,
+      "no_speech_prob": 0.1953,
+      "review": false
+    },
+    {
+      "start": 2848.14,
+      "end": 2849.24,
+      "text": "相对来说",
+      "avg_logprob": -0.1346,
+      "no_speech_prob": 0.1953,
+      "review": false
+    },
+    {
+      "start": 2849.24,
+      "end": 2868.17,
+      "text": "美国的ACHR",
+      "avg_logprob": -0.1346,
+      "no_speech_prob": 0.1953,
+      "review": false
+    },
+    {
+      "start": 2868.17,
+      "end": 2875.26,
+      "text": "我很久没有看了",
+      "avg_logprob": -0.1346,
+      "no_speech_prob": 0.1953,
+      "review": false
+    },
+    {
+      "start": 2875.26,
+      "end": 2878.18,
+      "text": "就是QQ期权我很久做的也很少啊",
+      "avg_logprob": -0.0962,
+      "no_speech_prob": 0.5967,
+      "review": true
+    },
+    {
+      "start": 2878.18,
+      "end": 2879.14,
+      "text": "我做的也很少",
+      "avg_logprob": -0.0962,
+      "no_speech_prob": 0.5967,
+      "review": true
+    },
+    {
+      "start": 2879.14,
+      "end": 2883.24,
+      "text": "因为我这个我这一段时间今年不是很倒霉吗",
+      "avg_logprob": -0.0962,
+      "no_speech_prob": 0.5967,
+      "review": true
+    },
+    {
+      "start": 2883.24,
+      "end": 2884.66,
+      "text": "老是各种事情",
+      "avg_logprob": -0.0962,
+      "no_speech_prob": 0.5967,
+      "review": true
+    },
+    {
+      "start": 2884.66,
+      "end": 2886.08,
+      "text": "特别多的事情",
+      "avg_logprob": -0.0962,
+      "no_speech_prob": 0.5967,
+      "review": true
+    },
+    {
+      "start": 2886.08,
+      "end": 2887.9,
+      "text": "加上我这个办公室装修啊",
+      "avg_logprob": -0.0962,
+      "no_speech_prob": 0.5967,
+      "review": true
+    },
+    {
+      "start": 2887.9,
+      "end": 2889.1,
+      "text": "这样搞这样搞那样的",
+      "avg_logprob": -0.0962,
+      "no_speech_prob": 0.5967,
+      "review": true
+    },
+    {
+      "start": 2889.1,
+      "end": 2890.5,
+      "text": "好多好多好多事情",
+      "avg_logprob": -0.0962,
+      "no_speech_prob": 0.5967,
+      "review": true
+    },
+    {
+      "start": 2890.5,
+      "end": 2892.2,
+      "text": "所以我今年白天好受没有时间",
+      "avg_logprob": -0.0962,
+      "no_speech_prob": 0.5967,
+      "review": true
+    },
+    {
+      "start": 2892.2,
+      "end": 2894.02,
+      "text": "所以现在做股票多一点",
+      "avg_logprob": -0.0962,
+      "no_speech_prob": 0.5967,
+      "review": true
+    },
+    {
+      "start": 2894.02,
+      "end": 2898.54,
+      "text": "但是如果你们严格的按照我教的方法去做每日的这个QQ期权",
+      "avg_logprob": -0.0962,
+      "no_speech_prob": 0.5967,
+      "review": true
+    },
+    {
+      "start": 2898.54,
+      "end": 2899.78,
+      "text": "一定是赚钱的",
+      "avg_logprob": -0.0962,
+      "no_speech_prob": 0.5967,
+      "review": true
+    },
+    {
+      "start": 2899.78,
+      "end": 2902.34,
+      "text": "真的是几乎都可以保证是赚钱的",
+      "avg_logprob": -0.0962,
+      "no_speech_prob": 0.5967,
+      "review": true
+    },
+    {
+      "start": 2902.34,
+      "end": 2903.96,
+      "text": "这是第一个就是没有时间",
+      "avg_logprob": -0.0962,
+      "no_speech_prob": 0.5967,
+      "review": true
+    },
+    {
+      "start": 2903.96,
+      "end": 2909.14,
+      "text": "第二个你想如果白天把所有的精力放在做QQ日内七全",
+      "avg_logprob": -0.1418,
+      "no_speech_prob": 0.4307,
+      "review": false
+    },
+    {
+      "start": 2909.14,
+      "end": 2911.0,
+      "text": "我还要晚上看A股",
+      "avg_logprob": -0.1418,
+      "no_speech_prob": 0.4307,
+      "review": false
+    },
+    {
+      "start": 2911.0,
+      "end": 2912.78,
+      "text": "我真的受不了太累了",
+      "avg_logprob": -0.1418,
+      "no_speech_prob": 0.4307,
+      "review": false
+    },
+    {
+      "start": 2912.78,
+      "end": 2914.84,
+      "text": "那如果我们还给大家做节目是吧",
+      "avg_logprob": -0.1418,
+      "no_speech_prob": 0.4307,
+      "review": false
+    },
+    {
+      "start": 2914.84,
+      "end": 2917.3,
+      "text": "我每天紧张的不得了",
+      "avg_logprob": -0.1418,
+      "no_speech_prob": 0.4307,
+      "review": false
+    },
+    {
+      "start": 2917.3,
+      "end": 2922.54,
+      "text": "人家那些做那个每天做QQ SPY七全的日内得吹的人啊",
+      "avg_logprob": -0.1418,
+      "no_speech_prob": 0.4307,
+      "review": false
+    },
+    {
+      "start": 2922.54,
+      "end": 2924.28,
+      "text": "基本上到了晚上就休息了",
+      "avg_logprob": -0.1418,
+      "no_speech_prob": 0.4307,
+      "review": false
+    },
+    {
+      "start": 2924.28,
+      "end": 2926.94,
+      "text": "就睡觉啊就怎么样啊或者放松啊",
+      "avg_logprob": -0.1418,
+      "no_speech_prob": 0.4307,
+      "review": false
+    },
+    {
+      "start": 2926.94,
+      "end": 2929.7,
+      "text": "那你看我这种如果白天做期货做七全",
+      "avg_logprob": -0.1418,
+      "no_speech_prob": 0.4307,
+      "review": false
+    },
+    {
+      "start": 2929.7,
+      "end": 2931.74,
+      "text": "晚上还得去研究A股",
+      "avg_logprob": -0.1418,
+      "no_speech_prob": 0.4307,
+      "review": false
+    },
+    {
+      "start": 2931.74,
+      "end": 2932.86,
+      "text": "看A股",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.3843,
+      "review": false
+    },
+    {
+      "start": 2932.86,
+      "end": 2935.66,
+      "text": "然后还得去给大家做节目",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.3843,
+      "review": false
+    },
+    {
+      "start": 2935.66,
+      "end": 2936.76,
+      "text": "还得去做",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.3843,
+      "review": false
+    },
+    {
+      "start": 2936.76,
+      "end": 2938.32,
+      "text": "那我真的是累死了",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.3843,
+      "review": false
+    },
+    {
+      "start": 2938.32,
+      "end": 2938.98,
+      "text": "没办法",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.3843,
+      "review": false
+    },
+    {
+      "start": 2938.98,
+      "end": 2941.22,
+      "text": "我觉得我做不了",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.3843,
+      "review": false
+    },
+    {
+      "start": 2941.22,
+      "end": 2946.14,
+      "text": "所以后面基本上QQ的这个日",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.3843,
+      "review": false
+    },
+    {
+      "start": 2946.14,
+      "end": 2947.82,
+      "text": "但是我的那套方法",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.3843,
+      "review": false
+    },
+    {
+      "start": 2947.82,
+      "end": 2949.78,
+      "text": "就是做QQ的期权的这种方法",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.3843,
+      "review": false
+    },
+    {
+      "start": 2949.78,
+      "end": 2951.5,
+      "text": "是一定是非常有用的",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.3843,
+      "review": false
+    },
+    {
+      "start": 2951.5,
+      "end": 2954.72,
+      "text": "你们很多朋友都已经按照我的方法赚钱了",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.3843,
+      "review": false
+    },
+    {
+      "start": 2954.72,
+      "end": 2955.46,
+      "text": "这是真正的",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.3843,
+      "review": false
+    },
+    {
+      "start": 2955.46,
+      "end": 2956.94,
+      "text": "但是就是还是比较难一点",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.3843,
+      "review": false
+    },
+    {
+      "start": 2956.94,
+      "end": 2958.74,
+      "text": "因为我说过控制情绪",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.3843,
+      "review": false
+    },
+    {
+      "start": 2958.74,
+      "end": 2960.64,
+      "text": "控制情绪是非常非常难的",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.3843,
+      "review": false
+    },
+    {
+      "start": 2960.64,
+      "end": 2962.18,
+      "text": "只要你能够控制情绪",
+      "avg_logprob": -0.1129,
+      "no_speech_prob": 0.1075,
+      "review": false
+    },
+    {
+      "start": 2962.18,
+      "end": 2963.82,
+      "text": "你就很好",
+      "avg_logprob": -0.1129,
+      "no_speech_prob": 0.1075,
+      "review": false
+    },
+    {
+      "start": 2963.82,
+      "end": 2965.6,
+      "text": "我在这个金融市场练的",
+      "avg_logprob": -0.1129,
+      "no_speech_prob": 0.1075,
+      "review": false
+    },
+    {
+      "start": 2965.6,
+      "end": 2967.44,
+      "text": "我现在什么事我都情绪特别好",
+      "avg_logprob": -0.1129,
+      "no_speech_prob": 0.1075,
+      "review": false
+    },
+    {
+      "start": 2967.44,
+      "end": 2968.88,
+      "text": "但是还是有很伤心的时候",
+      "avg_logprob": -0.1129,
+      "no_speech_prob": 0.1075,
+      "review": false
+    },
+    {
+      "start": 2968.88,
+      "end": 2970.7,
+      "text": "就是一旦你遇到一些事",
+      "avg_logprob": -0.1129,
+      "no_speech_prob": 0.1075,
+      "review": false
+    },
+    {
+      "start": 2970.7,
+      "end": 2976.32,
+      "text": "不是不是",
+      "avg_logprob": -0.1129,
+      "no_speech_prob": 0.1075,
+      "review": false
+    },
+    {
+      "start": 2976.32,
+      "end": 2977.8,
+      "text": "我没有在交易里面亏钱",
+      "avg_logprob": -0.1129,
+      "no_speech_prob": 0.1075,
+      "review": false
+    },
+    {
+      "start": 2977.8,
+      "end": 2982.04,
+      "text": "我是最近遇到生活里面遇到一个非常讨厌的事",
+      "avg_logprob": -0.1129,
+      "no_speech_prob": 0.1075,
+      "review": false
+    },
+    {
+      "start": 2982.04,
+      "end": 2983.08,
+      "text": "就是亏了一大笔",
+      "avg_logprob": -0.1129,
+      "no_speech_prob": 0.1075,
+      "review": false
+    },
+    {
+      "start": 2983.08,
+      "end": 2984.44,
+      "text": "特别讨厌的",
+      "avg_logprob": -0.1129,
+      "no_speech_prob": 0.1075,
+      "review": false
+    },
+    {
+      "start": 2984.44,
+      "end": 2988.58,
+      "text": "感觉憔悴",
+      "avg_logprob": -0.1129,
+      "no_speech_prob": 0.1075,
+      "review": false
+    },
+    {
+      "start": 2988.58,
+      "end": 2989.76,
+      "text": "是的这两天憔悴",
+      "avg_logprob": -0.1129,
+      "no_speech_prob": 0.1075,
+      "review": false
+    },
+    {
+      "start": 2989.76,
+      "end": 2991.42,
+      "text": "这两天很郁闷",
+      "avg_logprob": -0.1129,
+      "no_speech_prob": 0.1075,
+      "review": false
+    },
+    {
+      "start": 2991.42,
+      "end": 2992.5,
+      "text": "但是我就想和大家聊天",
+      "avg_logprob": -0.1129,
+      "no_speech_prob": 0.1075,
+      "review": false
+    },
+    {
+      "start": 2992.5,
+      "end": 2993.54,
+      "text": "所以过来看看",
+      "avg_logprob": -0.1129,
+      "no_speech_prob": 0.1075,
+      "review": false
+    },
+    {
+      "start": 2993.54,
+      "end": 2998.66,
+      "text": "QQ圈不是每天都能做",
+      "avg_logprob": -0.1129,
+      "no_speech_prob": 0.1075,
+      "review": false
+    },
+    {
+      "start": 2998.66,
+      "end": 3000.04,
+      "text": "这个再次给大家说一下",
+      "avg_logprob": -0.1565,
+      "no_speech_prob": 0.0446,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 20.2
+}

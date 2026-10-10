@@ -1,0 +1,97 @@
+{
+  "source_video": "D:\\YuncongVideoAnalysis\\2026-01-01_to_2026-10-03\\A股 交易策略 实盘直播（1月9日）.mp4",
+  "source_sha256": "686fe6e957c25ff6e6ebdb8f94200c8b6fb803bafde54f8b2bc3f7ad0c74721b",
+  "transcript": "D:\\YuncongVideoAnalysis\\ledger_2026_v0.1\\transcripts\\XSFwu5KOo5Y.md",
+  "method": "Original-resolution extraction with media_platform; Codex manual visual inspection; no image enhancement or new OCR run.",
+  "frames": [
+    {
+      "video_seconds": 600.0,
+      "frame": "frame_00000_000600000.jpg",
+      "main_chart_code": "688636",
+      "main_chart_name": "智明达",
+      "manual_visual_read": "readable",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "frame_hash_verified": true
+    },
+    {
+      "video_seconds": 615.0,
+      "frame": "frame_00001_000615000.jpg",
+      "main_chart_code": "002025",
+      "main_chart_name": "航天电器",
+      "manual_visual_read": "readable",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "frame_hash_verified": true
+    },
+    {
+      "video_seconds": 632.0,
+      "frame": "frame_00002_000632000.jpg",
+      "main_chart_code": "002025",
+      "main_chart_name": "航天电器",
+      "manual_visual_read": "readable",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "frame_hash_verified": true
+    },
+    {
+      "video_seconds": 689.0,
+      "frame": "frame_00003_000689000.jpg",
+      "main_chart_code": "688776",
+      "main_chart_name": "国光电气",
+      "manual_visual_read": "readable",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "frame_hash_verified": true
+    },
+    {
+      "video_seconds": 719.0,
+      "frame": "frame_00004_000719000.jpg",
+      "main_chart_code": "600990",
+      "main_chart_name": "四创电子",
+      "manual_visual_read": "readable",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "frame_hash_verified": true
+    },
+    {
+      "video_seconds": 2405.0,
+      "frame": "frame_00005_002405000.jpg",
+      "main_chart_code": "002326",
+      "main_chart_name": "永太科技",
+      "manual_visual_read": "readable",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "frame_hash_verified": true
+    }
+  ],
+  "observations": [
+    "All six sampled main-chart codes and names are readable; five distinct securities. This is a targeted sample, not an overall recognition-rate estimate.",
+    "At video 600s the main chart is 688636 while the far-right panel still displays 300900.",
+    "Transcript mentions 航天电器 around 599-605s while the 600s frame still shows 智明达; 615s frame shows 航天电器.",
+    "Price shape, volume bars and hand-drawn annotations are readable in these samples; precise tiny coordinates have not been verified.",
+    "The sampled charts are daily; no 15-minute screenshot has been assessed in this probe."
+  ],
+  "transcript_around_last_sample": [
+    "- s01215 [00:40:00–00:40:01] 其实一票 ⚠ 待回听",
+    "- s01216 [00:40:01–00:40:03] 基本上有些时候不好的时候 ⚠ 待回听",
+    "- s01217 [00:40:03–00:40:04] 也只买五六只 ⚠ 待回听",
+    "- s01218 [00:40:04–00:40:06] 但是我绝对不会只买一只 ⚠ 待回听",
+    "- s01219 [00:40:06–00:40:08] 排队一般都会排三四只 ⚠ 待回听",
+    "- s01220 [00:40:08–00:40:10] 所以我每天都非常稳定 ⚠ 待回听",
+    "- s01221 [00:40:10–00:40:12] 我这种方法非常稳定 ⚠ 待回听",
+    "- s01222 [00:40:12–00:40:14] 西部超导 ⚠ 待回听"
+  ]
+}

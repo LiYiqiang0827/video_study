@@ -1,0 +1,744 @@
+{
+  "begin": 2700.0,
+  "finish": 3000.0,
+  "segments": [
+    {
+      "start": 2700.11,
+      "end": 2701.33,
+      "text": "但你们这个担心的话",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.501,
+      "review": true
+    },
+    {
+      "start": 2701.33,
+      "end": 2702.77,
+      "text": "就是你们自己来确定",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.501,
+      "review": true
+    },
+    {
+      "start": 2702.77,
+      "end": 2703.95,
+      "text": "我是不怕的啊",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.501,
+      "review": true
+    },
+    {
+      "start": 2703.95,
+      "end": 2704.85,
+      "text": "这个位置买永安",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.501,
+      "review": true
+    },
+    {
+      "start": 2704.85,
+      "end": 2705.53,
+      "text": "我是不怕的",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.501,
+      "review": true
+    },
+    {
+      "start": 2705.53,
+      "end": 2708.32,
+      "text": "我是不怕的啊",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.501,
+      "review": true
+    },
+    {
+      "start": 2708.32,
+      "end": 2710.87,
+      "text": "我觉得这个位置我一点都不怕",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.501,
+      "review": true
+    },
+    {
+      "start": 2710.87,
+      "end": 2713.03,
+      "text": "你说如果是在这个位置",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.501,
+      "review": true
+    },
+    {
+      "start": 2713.03,
+      "end": 2714.43,
+      "text": "那我绝对不敢啊",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.501,
+      "review": true
+    },
+    {
+      "start": 2714.43,
+      "end": 2716.21,
+      "text": "就是比如说现在在什么位置",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.501,
+      "review": true
+    },
+    {
+      "start": 2716.21,
+      "end": 2716.95,
+      "text": "在这个位置",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.501,
+      "review": true
+    },
+    {
+      "start": 2716.95,
+      "end": 2718.03,
+      "text": "在这个位置",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.501,
+      "review": true
+    },
+    {
+      "start": 2718.03,
+      "end": 2718.83,
+      "text": "那我打死不敢",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.501,
+      "review": true
+    },
+    {
+      "start": 2718.83,
+      "end": 2721.17,
+      "text": "但是这个位置我还是有底气的啊",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.501,
+      "review": true
+    },
+    {
+      "start": 2721.17,
+      "end": 2722.93,
+      "text": "这个位置的涨停被打开",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.501,
+      "review": true
+    },
+    {
+      "start": 2722.93,
+      "end": 2723.87,
+      "text": "我还是愿意去买的",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.501,
+      "review": true
+    },
+    {
+      "start": 2723.87,
+      "end": 2726.07,
+      "text": "刚才我涨停排队买了一点点",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.501,
+      "review": true
+    },
+    {
+      "start": 2726.07,
+      "end": 2726.95,
+      "text": "现在涨停打开哈",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.501,
+      "review": true
+    },
+    {
+      "start": 2726.95,
+      "end": 2728.21,
+      "text": "我又买了一点点啊",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.501,
+      "review": true
+    },
+    {
+      "start": 2728.21,
+      "end": 2729.49,
+      "text": "今天买永安要买一些",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.501,
+      "review": true
+    },
+    {
+      "start": 2729.49,
+      "end": 2752.94,
+      "text": "凯莱因我等会再观察",
+      "avg_logprob": -0.1611,
+      "no_speech_prob": 0.2194,
+      "review": false
+    },
+    {
+      "start": 2752.94,
+      "end": 2756.5,
+      "text": "因为他这个是今天是一个大阳线反包了昨天阴线",
+      "avg_logprob": -0.1611,
+      "no_speech_prob": 0.2194,
+      "review": false
+    },
+    {
+      "start": 2756.5,
+      "end": 2757.88,
+      "text": "这种走法也是对的",
+      "avg_logprob": -0.1611,
+      "no_speech_prob": 0.2194,
+      "review": false
+    },
+    {
+      "start": 2757.88,
+      "end": 2759.58,
+      "text": "这种走法也是没有什么问题的",
+      "avg_logprob": -0.1611,
+      "no_speech_prob": 0.2194,
+      "review": false
+    },
+    {
+      "start": 2759.58,
+      "end": 2760.68,
+      "text": "但现在不买",
+      "avg_logprob": -0.1611,
+      "no_speech_prob": 0.2194,
+      "review": false
+    },
+    {
+      "start": 2760.68,
+      "end": 2762.81,
+      "text": "重量买了现在没赚钱",
+      "avg_logprob": -0.1611,
+      "no_speech_prob": 0.2194,
+      "review": false
+    },
+    {
+      "start": 2762.81,
+      "end": 2763.83,
+      "text": "好没有啥",
+      "avg_logprob": -0.1611,
+      "no_speech_prob": 0.2194,
+      "review": false
+    },
+    {
+      "start": 2763.83,
+      "end": 2764.87,
+      "text": "海镇",
+      "avg_logprob": -0.1611,
+      "no_speech_prob": 0.2194,
+      "review": false
+    },
+    {
+      "start": 2764.87,
+      "end": 2766.41,
+      "text": "海镇我看看海镇",
+      "avg_logprob": -0.1611,
+      "no_speech_prob": 0.2194,
+      "review": false
+    },
+    {
+      "start": 2766.41,
+      "end": 2768.96,
+      "text": "他有什么什么看看我查一查",
+      "avg_logprob": -0.1611,
+      "no_speech_prob": 0.2194,
+      "review": false
+    },
+    {
+      "start": 2768.96,
+      "end": 2770.9,
+      "text": "用我的AI查一查",
+      "avg_logprob": -0.1611,
+      "no_speech_prob": 0.2194,
+      "review": false
+    },
+    {
+      "start": 2770.9,
+      "end": 2775.08,
+      "text": "他有没有什么护城河啊",
+      "avg_logprob": -0.1611,
+      "no_speech_prob": 0.2194,
+      "review": false
+    },
+    {
+      "start": 2775.08,
+      "end": 2777.66,
+      "text": "有没有什么独特的东西啊",
+      "avg_logprob": -0.1611,
+      "no_speech_prob": 0.2194,
+      "review": false
+    },
+    {
+      "start": 2777.66,
+      "end": 2800.79,
+      "text": "海镇是中国老牌的医药工业巨头",
+      "avg_logprob": -0.1611,
+      "no_speech_prob": 0.2194,
+      "review": false
+    },
+    {
+      "start": 2800.79,
+      "end": 2804.29,
+      "text": "它并没有什么护城河垄断的产品",
+      "avg_logprob": -0.0816,
+      "no_speech_prob": 0.3032,
+      "review": false
+    },
+    {
+      "start": 2804.29,
+      "end": 2809.17,
+      "text": "但是在细分赛道和产业协同上具有坚固的护城河",
+      "avg_logprob": -0.0816,
+      "no_speech_prob": 0.3032,
+      "review": false
+    },
+    {
+      "start": 2809.17,
+      "end": 2812.32,
+      "text": "它是细分赛道还是有护城河的",
+      "avg_logprob": -0.0816,
+      "no_speech_prob": 0.3032,
+      "review": false
+    },
+    {
+      "start": 2812.32,
+      "end": 2816.22,
+      "text": "什么护城河呢?FDA准入门槛",
+      "avg_logprob": -0.0816,
+      "no_speech_prob": 0.3032,
+      "review": false
+    },
+    {
+      "start": 2816.22,
+      "end": 2819.32,
+      "text": "海镇是国内最早通过美国FDA",
+      "avg_logprob": -0.0816,
+      "no_speech_prob": 0.3032,
+      "review": false
+    },
+    {
+      "start": 2819.32,
+      "end": 2823.48,
+      "text": "欧盟认证打入欧美高端市场的药品之一",
+      "avg_logprob": -0.0816,
+      "no_speech_prob": 0.3032,
+      "review": false
+    },
+    {
+      "start": 2823.48,
+      "end": 2829.83,
+      "text": "它的壁垒就是海外高端原料和制剂的审计极为严苛",
+      "avg_logprob": -0.0816,
+      "no_speech_prob": 0.3032,
+      "review": false
+    },
+    {
+      "start": 2829.83,
+      "end": 2831.93,
+      "text": "认证周期长达两到三年",
+      "avg_logprob": -0.0816,
+      "no_speech_prob": 0.3032,
+      "review": false
+    },
+    {
+      "start": 2831.93,
+      "end": 2836.09,
+      "text": "海镇拥有国际多中心注册全球合规生产能力",
+      "avg_logprob": -0.1449,
+      "no_speech_prob": 0.2014,
+      "review": false
+    },
+    {
+      "start": 2836.09,
+      "end": 2837.77,
+      "text": "所以它这个有一个护城河",
+      "avg_logprob": -0.1449,
+      "no_speech_prob": 0.2014,
+      "review": false
+    },
+    {
+      "start": 2837.77,
+      "end": 2838.77,
+      "text": "护城河是非常大的",
+      "avg_logprob": -0.1449,
+      "no_speech_prob": 0.2014,
+      "review": false
+    },
+    {
+      "start": 2838.77,
+      "end": 2842.24,
+      "text": "第二个就是在抗肿瘤药、抗感染",
+      "avg_logprob": -0.1449,
+      "no_speech_prob": 0.2014,
+      "review": false
+    },
+    {
+      "start": 2842.24,
+      "end": 2845.5,
+      "text": "这个地方是原料药归全球前列",
+      "avg_logprob": -0.1449,
+      "no_speech_prob": 0.2014,
+      "review": false
+    },
+    {
+      "start": 2845.5,
+      "end": 2850.56,
+      "text": "那可以啊",
+      "avg_logprob": -0.1449,
+      "no_speech_prob": 0.2014,
+      "review": false
+    },
+    {
+      "start": 2850.56,
+      "end": 2851.3,
+      "text": "可以可以",
+      "avg_logprob": -0.1449,
+      "no_speech_prob": 0.2014,
+      "review": false
+    },
+    {
+      "start": 2851.3,
+      "end": 2851.88,
+      "text": "没问题",
+      "avg_logprob": -0.1449,
+      "no_speech_prob": 0.2014,
+      "review": false
+    },
+    {
+      "start": 2851.88,
+      "end": 2853.16,
+      "text": "海镇没问题",
+      "avg_logprob": -0.1449,
+      "no_speech_prob": 0.2014,
+      "review": false
+    },
+    {
+      "start": 2853.16,
+      "end": 2854.54,
+      "text": "我看它那样子",
+      "avg_logprob": -0.1449,
+      "no_speech_prob": 0.2014,
+      "review": false
+    },
+    {
+      "start": 2854.54,
+      "end": 2855.44,
+      "text": "财务数据",
+      "avg_logprob": -0.1449,
+      "no_speech_prob": 0.2014,
+      "review": false
+    },
+    {
+      "start": 2855.44,
+      "end": 2857.84,
+      "text": "它的这个护城河也是比较坚挺的",
+      "avg_logprob": -0.1449,
+      "no_speech_prob": 0.2014,
+      "review": false
+    },
+    {
+      "start": 2857.84,
+      "end": 2862.48,
+      "text": "业绩也是非常好",
+      "avg_logprob": -0.1449,
+      "no_speech_prob": 0.2014,
+      "review": false
+    },
+    {
+      "start": 2862.48,
+      "end": 2866.05,
+      "text": "它业绩也大增34%",
+      "avg_logprob": -0.1449,
+      "no_speech_prob": 0.2014,
+      "review": false
+    },
+    {
+      "start": 2866.05,
+      "end": 2872.67,
+      "text": "它是国际FDA级重工制造原研料化工程105亿的规模化成本",
+      "avg_logprob": -0.1641,
+      "no_speech_prob": 0.259,
+      "review": false
+    },
+    {
+      "start": 2872.67,
+      "end": 2873.79,
+      "text": "这个没问题",
+      "avg_logprob": -0.1641,
+      "no_speech_prob": 0.259,
+      "review": false
+    },
+    {
+      "start": 2873.79,
+      "end": 2875.79,
+      "text": "这个公司还是值得做的",
+      "avg_logprob": -0.1641,
+      "no_speech_prob": 0.259,
+      "review": false
+    },
+    {
+      "start": 2875.79,
+      "end": 2877.41,
+      "text": "那这个公司这个涨天值得追",
+      "avg_logprob": -0.1641,
+      "no_speech_prob": 0.259,
+      "review": false
+    },
+    {
+      "start": 2877.41,
+      "end": 2879.15,
+      "text": "海证的涨天值得追",
+      "avg_logprob": -0.1641,
+      "no_speech_prob": 0.259,
+      "review": false
+    },
+    {
+      "start": 2879.15,
+      "end": 2880.69,
+      "text": "我今天就看医药",
+      "avg_logprob": -0.1641,
+      "no_speech_prob": 0.259,
+      "review": false
+    },
+    {
+      "start": 2880.69,
+      "end": 2881.45,
+      "text": "我今天就做医药",
+      "avg_logprob": -0.1641,
+      "no_speech_prob": 0.259,
+      "review": false
+    },
+    {
+      "start": 2881.45,
+      "end": 2882.49,
+      "text": "600267",
+      "avg_logprob": -0.1641,
+      "no_speech_prob": 0.259,
+      "review": false
+    },
+    {
+      "start": 2882.49,
+      "end": 2886.09,
+      "text": "医药海证这种还是值得追的",
+      "avg_logprob": -0.1641,
+      "no_speech_prob": 0.259,
+      "review": false
+    },
+    {
+      "start": 2886.09,
+      "end": 2898.65,
+      "text": "但是买不到",
+      "avg_logprob": -0.1641,
+      "no_speech_prob": 0.259,
+      "review": false
+    },
+    {
+      "start": 2898.65,
+      "end": 2900.75,
+      "text": "很大的可能性海证买不到",
+      "avg_logprob": -0.1641,
+      "no_speech_prob": 0.259,
+      "review": false
+    },
+    {
+      "start": 2900.75,
+      "end": 2902.89,
+      "text": "我们只是把它排进来买不到",
+      "avg_logprob": -0.1641,
+      "no_speech_prob": 0.259,
+      "review": false
+    },
+    {
+      "start": 2902.89,
+      "end": 2904.51,
+      "text": "今天呢",
+      "avg_logprob": -0.1641,
+      "no_speech_prob": 0.259,
+      "review": false
+    },
+    {
+      "start": 2904.51,
+      "end": 2906.46,
+      "text": "我买到了的",
+      "avg_logprob": -0.1641,
+      "no_speech_prob": 0.259,
+      "review": false
+    },
+    {
+      "start": 2906.46,
+      "end": 2940.87,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0848,
+      "no_speech_prob": 0.3125,
+      "review": false
+    },
+    {
+      "start": 2940.89,
+      "end": 2942.89,
+      "text": "这也是我一直看好的,说实话",
+      "avg_logprob": -0.1277,
+      "no_speech_prob": 0.2349,
+      "review": false
+    },
+    {
+      "start": 2942.89,
+      "end": 2950.86,
+      "text": "它现在返包的话也是值得买的",
+      "avg_logprob": -0.1277,
+      "no_speech_prob": 0.2349,
+      "review": false
+    },
+    {
+      "start": 2950.86,
+      "end": 2954.72,
+      "text": "好,其他的没有啥了",
+      "avg_logprob": -0.1277,
+      "no_speech_prob": 0.2349,
+      "review": false
+    },
+    {
+      "start": 2954.72,
+      "end": 2955.9,
+      "text": "其他的就等呗",
+      "avg_logprob": -0.1277,
+      "no_speech_prob": 0.2349,
+      "review": false
+    },
+    {
+      "start": 2955.9,
+      "end": 2958.48,
+      "text": "等会看看我们的永安摇曳会不会回头",
+      "avg_logprob": -0.1277,
+      "no_speech_prob": 0.2349,
+      "review": false
+    },
+    {
+      "start": 2958.48,
+      "end": 2960.86,
+      "text": "就它现在看进了1000万的资本",
+      "avg_logprob": -0.1277,
+      "no_speech_prob": 0.2349,
+      "review": false
+    },
+    {
+      "start": 2960.86,
+      "end": 2962.74,
+      "text": "应该这个位置还是在吸筹",
+      "avg_logprob": -0.1277,
+      "no_speech_prob": 0.2349,
+      "review": false
+    },
+    {
+      "start": 2962.74,
+      "end": 2964.34,
+      "text": "还是在打开吸筹",
+      "avg_logprob": -0.1277,
+      "no_speech_prob": 0.2349,
+      "review": false
+    },
+    {
+      "start": 2964.34,
+      "end": 2965.62,
+      "text": "不是在出货",
+      "avg_logprob": -0.1277,
+      "no_speech_prob": 0.2349,
+      "review": false
+    },
+    {
+      "start": 2965.62,
+      "end": 2967.82,
+      "text": "我绝对不相信它这个地方出货",
+      "avg_logprob": -0.1277,
+      "no_speech_prob": 0.2349,
+      "review": false
+    },
+    {
+      "start": 2967.82,
+      "end": 2969.42,
+      "text": "它这个地方有什么鬼出货的",
+      "avg_logprob": -0.1277,
+      "no_speech_prob": 0.2349,
+      "review": false
+    },
+    {
+      "start": 2969.42,
+      "end": 2971.04,
+      "text": "它资金刚进去没有几天",
+      "avg_logprob": -0.1277,
+      "no_speech_prob": 0.2349,
+      "review": false
+    },
+    {
+      "start": 2971.04,
+      "end": 2972.26,
+      "text": "它资金进去",
+      "avg_logprob": -0.1277,
+      "no_speech_prob": 0.2349,
+      "review": false
+    },
+    {
+      "start": 2972.26,
+      "end": 2975.02,
+      "text": "它的成本都是12块左右",
+      "avg_logprob": -0.1277,
+      "no_speech_prob": 0.2349,
+      "review": false
+    },
+    {
+      "start": 2975.02,
+      "end": 2976.3,
+      "text": "它怎么可能出货呢",
+      "avg_logprob": -0.1277,
+      "no_speech_prob": 0.2349,
+      "review": false
+    },
+    {
+      "start": 2976.3,
+      "end": 2977.82,
+      "text": "所以绝对不可能出货",
+      "avg_logprob": -0.1277,
+      "no_speech_prob": 0.2349,
+      "review": false
+    },
+    {
+      "start": 2977.82,
+      "end": 2981.26,
+      "text": "这个位置要么就是他有人想做做不起来",
+      "avg_logprob": -0.1637,
+      "no_speech_prob": 0.0141,
+      "review": false
+    },
+    {
+      "start": 2981.26,
+      "end": 2985.42,
+      "text": "要么是他通过涨停打开去吸货",
+      "avg_logprob": -0.1637,
+      "no_speech_prob": 0.0141,
+      "review": false
+    },
+    {
+      "start": 2985.42,
+      "end": 2986.62,
+      "text": "只有这两种可能",
+      "avg_logprob": -0.1637,
+      "no_speech_prob": 0.0141,
+      "review": false
+    },
+    {
+      "start": 2986.62,
+      "end": 2988.08,
+      "text": "没有第三种可能",
+      "avg_logprob": -0.1637,
+      "no_speech_prob": 0.0141,
+      "review": false
+    },
+    {
+      "start": 2988.08,
+      "end": 2991.47,
+      "text": "所以说你们自己配置下你们资金吧",
+      "avg_logprob": -0.1637,
+      "no_speech_prob": 0.0141,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 24.42
+}

@@ -1,0 +1,359 @@
+{
+  "status": "ok",
+  "output_path": "C:\\Project Rocket\\outputs\\chart_tool_minutes_enabled_20261009\\charts\\002025_20260918_100730.png",
+  "ts_code": "002025.SZ",
+  "requested_cutoff": "2026-09-18T10:07:30+08:00",
+  "effective_cutoff": "2026-09-18T10:07:30+08:00",
+  "stage": "restore",
+  "panels": {
+    "daily": {
+      "input_rows": 250,
+      "displayed_rows": 250,
+      "candle_count": 250,
+      "line_point_count": 0,
+      "volume_bar_count": 250,
+      "actual_start": "2025-09-09",
+      "actual_end": "2026-09-18",
+      "partial_count": 1,
+      "view_identity": {
+        "contract_version": "chart.v1",
+        "ts_code": "002025.SZ",
+        "period": "daily",
+        "metadata": {
+          "contract_version": "chart.v1",
+          "stage": "restore",
+          "window": "10y",
+          "requested_cutoff": "2026-09-18T10:07:30+08:00",
+          "effective_cutoff": "2026-09-18T10:07:30+08:00",
+          "cutoff_source": {
+            "kind": "manual",
+            "confidence": "medium",
+            "evidence_refs": [
+              "user:2026-10-09:requested-cutoff-2026-09-18T10:07:30+08:00"
+            ],
+            "candidates": [],
+            "calibration_segment": null
+          },
+          "cutoff_policy": "minute_end_v1",
+          "timezone": "Asia/Shanghai",
+          "price_unit": "CNY/share",
+          "volume_unit": "shares",
+          "amount_unit": "CNY",
+          "price_basis": "fixed_anchor_qfq",
+          "source_version": "7a4d9b9c0fbdda87a131865d70180e5a648a5b31a9e86797eff95f7fade47039",
+          "source_ids": [
+            "tushare:tbl_cn_day",
+            "tushare:tbl_cn_adj_factor",
+            "csv_1min_original"
+          ],
+          "factor_lineage": {
+            "source_id": "tushare:tbl_cn_adj_factor",
+            "source_version": "e25a5af1055e3fda84095868be899aa6e939d691c56df13f093f05f9768aa8bc",
+            "anchor_trade_date": "2026-09-17",
+            "anchor_value": 6.7061,
+            "anchor_available_at": null,
+            "selection": "last_closed_date",
+            "visible_factor_digest": "10026b00d119fa57a1a88aa0ccb25e47138db9b42fb25b99c4827b6263e73b06",
+            "visible_factor_count": 2239,
+            "formula": "raw_price * row_factor / anchor_factor"
+          },
+          "labels": {},
+          "labels_missing": [
+            "name",
+            "st_status",
+            "themes",
+            "boards"
+          ],
+          "incomplete": true,
+          "warnings": [
+            "AUCTION_UNAVAILABLE",
+            "CURRENT_DAILY_FROM_OBSERVED_MINUTES",
+            "CURRENT_FACTOR_UNCHANGED_FROM_PREVIOUS",
+            "HISTORICAL_CALENDAR_COVERAGE_UNAVAILABLE",
+            "DISPLAY_ZOOM_WITHIN_CUTOFF"
+          ],
+          "gap_dates": [],
+          "auctions": {},
+          "prev_close": {
+            "2026-09-14": 63.01,
+            "2026-09-15": 65.3,
+            "2026-09-16": 68.78,
+            "2026-09-17": 70.36,
+            "2026-09-18": 73.16
+          }
+        },
+        "bars_sha256": "e74a24fadf65422bab1d79ed7be41d0d149b39b14bd1a3fcb67f2bdf2a0a6335"
+      },
+      "warnings": [
+        "AUCTION_UNAVAILABLE",
+        "CURRENT_DAILY_FROM_OBSERVED_MINUTES",
+        "CURRENT_FACTOR_UNCHANGED_FROM_PREVIOUS",
+        "HISTORICAL_CALENDAR_COVERAGE_UNAVAILABLE",
+        "DISPLAY_ZOOM_WITHIN_CUTOFF"
+      ]
+    },
+    "15m": {
+      "input_rows": 67,
+      "displayed_rows": 67,
+      "candle_count": 67,
+      "line_point_count": 0,
+      "volume_bar_count": 67,
+      "actual_start": "2026-09-14T09:45:00+08:00",
+      "actual_end": "2026-09-18T10:07:00+08:00",
+      "partial_count": 1,
+      "view_identity": {
+        "contract_version": "chart.v1",
+        "ts_code": "002025.SZ",
+        "period": "15m",
+        "metadata": {
+          "contract_version": "chart.v1",
+          "stage": "restore",
+          "window": "10y",
+          "requested_cutoff": "2026-09-18T10:07:30+08:00",
+          "effective_cutoff": "2026-09-18T10:07:30+08:00",
+          "cutoff_source": {
+            "kind": "manual",
+            "confidence": "medium",
+            "evidence_refs": [
+              "user:2026-10-09:requested-cutoff-2026-09-18T10:07:30+08:00"
+            ],
+            "candidates": [],
+            "calibration_segment": null
+          },
+          "cutoff_policy": "minute_end_v1",
+          "timezone": "Asia/Shanghai",
+          "price_unit": "CNY/share",
+          "volume_unit": "shares",
+          "amount_unit": "CNY",
+          "price_basis": "fixed_anchor_qfq",
+          "source_version": "7a4d9b9c0fbdda87a131865d70180e5a648a5b31a9e86797eff95f7fade47039",
+          "source_ids": [
+            "csv_1min_original",
+            "tushare:tbl_cn_adj_factor"
+          ],
+          "factor_lineage": {
+            "source_id": "tushare:tbl_cn_adj_factor",
+            "source_version": "e25a5af1055e3fda84095868be899aa6e939d691c56df13f093f05f9768aa8bc",
+            "anchor_trade_date": "2026-09-17",
+            "anchor_value": 6.7061,
+            "anchor_available_at": null,
+            "selection": "last_closed_date",
+            "visible_factor_digest": "10026b00d119fa57a1a88aa0ccb25e47138db9b42fb25b99c4827b6263e73b06",
+            "visible_factor_count": 2239,
+            "formula": "raw_price * row_factor / anchor_factor"
+          },
+          "labels": {},
+          "labels_missing": [
+            "name",
+            "st_status",
+            "themes",
+            "boards"
+          ],
+          "incomplete": true,
+          "warnings": [
+            "AUCTION_UNAVAILABLE",
+            "CURRENT_DAILY_FROM_OBSERVED_MINUTES",
+            "CURRENT_FACTOR_UNCHANGED_FROM_PREVIOUS",
+            "HISTORICAL_CALENDAR_COVERAGE_UNAVAILABLE",
+            "FIFTEEN_MINUTES_DERIVED_FROM_ONE_MINUTE"
+          ],
+          "gap_dates": [],
+          "auctions": {},
+          "prev_close": {
+            "2026-09-14": 63.01,
+            "2026-09-15": 65.3,
+            "2026-09-16": 68.78,
+            "2026-09-17": 70.36,
+            "2026-09-18": 73.16
+          }
+        },
+        "bars_sha256": "8c42cb027bd7f1006be4cecb6e19b33a65fb19f5887fcc7c29404803a6bc7ce4"
+      },
+      "warnings": [
+        "AUCTION_UNAVAILABLE",
+        "CURRENT_DAILY_FROM_OBSERVED_MINUTES",
+        "CURRENT_FACTOR_UNCHANGED_FROM_PREVIOUS",
+        "HISTORICAL_CALENDAR_COVERAGE_UNAVAILABLE",
+        "FIFTEEN_MINUTES_DERIVED_FROM_ONE_MINUTE"
+      ]
+    },
+    "1m": {
+      "input_rows": 37,
+      "displayed_rows": 37,
+      "candle_count": 37,
+      "line_point_count": 0,
+      "volume_bar_count": 37,
+      "actual_start": "2026-09-18T09:31:00+08:00",
+      "actual_end": "2026-09-18T10:07:00+08:00",
+      "partial_count": 0,
+      "view_identity": {
+        "contract_version": "chart.v1",
+        "ts_code": "002025.SZ",
+        "period": "1m",
+        "metadata": {
+          "contract_version": "chart.v1",
+          "stage": "restore",
+          "window": "10y",
+          "requested_cutoff": "2026-09-18T10:07:30+08:00",
+          "effective_cutoff": "2026-09-18T10:07:30+08:00",
+          "cutoff_source": {
+            "kind": "manual",
+            "confidence": "medium",
+            "evidence_refs": [
+              "user:2026-10-09:requested-cutoff-2026-09-18T10:07:30+08:00"
+            ],
+            "candidates": [],
+            "calibration_segment": null
+          },
+          "cutoff_policy": "minute_end_v1",
+          "timezone": "Asia/Shanghai",
+          "price_unit": "CNY/share",
+          "volume_unit": "shares",
+          "amount_unit": "CNY",
+          "price_basis": "fixed_anchor_qfq",
+          "source_version": "7a4d9b9c0fbdda87a131865d70180e5a648a5b31a9e86797eff95f7fade47039",
+          "source_ids": [
+            "csv_1min_original",
+            "tushare:tbl_cn_adj_factor"
+          ],
+          "factor_lineage": {
+            "source_id": "tushare:tbl_cn_adj_factor",
+            "source_version": "e25a5af1055e3fda84095868be899aa6e939d691c56df13f093f05f9768aa8bc",
+            "anchor_trade_date": "2026-09-17",
+            "anchor_value": 6.7061,
+            "anchor_available_at": null,
+            "selection": "last_closed_date",
+            "visible_factor_digest": "10026b00d119fa57a1a88aa0ccb25e47138db9b42fb25b99c4827b6263e73b06",
+            "visible_factor_count": 2239,
+            "formula": "raw_price * row_factor / anchor_factor"
+          },
+          "labels": {},
+          "labels_missing": [
+            "name",
+            "st_status",
+            "themes",
+            "boards"
+          ],
+          "incomplete": false,
+          "warnings": [
+            "AUCTION_UNAVAILABLE",
+            "CURRENT_DAILY_FROM_OBSERVED_MINUTES",
+            "CURRENT_FACTOR_UNCHANGED_FROM_PREVIOUS",
+            "HISTORICAL_CALENDAR_COVERAGE_UNAVAILABLE"
+          ],
+          "gap_dates": [],
+          "auctions": {},
+          "prev_close": {
+            "2026-09-14": 63.01,
+            "2026-09-15": 65.3,
+            "2026-09-16": 68.78,
+            "2026-09-17": 70.36,
+            "2026-09-18": 73.16
+          }
+        },
+        "bars_sha256": "1241a994bb1514349ffda4de0bdfcfb4723ff8acb40959e5c541fa24def60e89"
+      },
+      "warnings": [
+        "AUCTION_UNAVAILABLE",
+        "CURRENT_DAILY_FROM_OBSERVED_MINUTES",
+        "CURRENT_FACTOR_UNCHANGED_FROM_PREVIOUS",
+        "HISTORICAL_CALENDAR_COVERAGE_UNAVAILABLE"
+      ]
+    },
+    "intraday": {
+      "input_rows": 37,
+      "displayed_rows": 37,
+      "candle_count": 0,
+      "line_point_count": 37,
+      "volume_bar_count": 37,
+      "actual_start": "2026-09-18T09:31:00+08:00",
+      "actual_end": "2026-09-18T10:07:00+08:00",
+      "partial_count": 0,
+      "view_identity": {
+        "contract_version": "chart.v1",
+        "ts_code": "002025.SZ",
+        "period": "intraday",
+        "metadata": {
+          "contract_version": "chart.v1",
+          "stage": "restore",
+          "window": "10y",
+          "requested_cutoff": "2026-09-18T10:07:30+08:00",
+          "effective_cutoff": "2026-09-18T10:07:30+08:00",
+          "cutoff_source": {
+            "kind": "manual",
+            "confidence": "medium",
+            "evidence_refs": [
+              "user:2026-10-09:requested-cutoff-2026-09-18T10:07:30+08:00"
+            ],
+            "candidates": [],
+            "calibration_segment": null
+          },
+          "cutoff_policy": "minute_end_v1",
+          "timezone": "Asia/Shanghai",
+          "price_unit": "CNY/share",
+          "volume_unit": "shares",
+          "amount_unit": "CNY",
+          "price_basis": "fixed_anchor_qfq",
+          "source_version": "7a4d9b9c0fbdda87a131865d70180e5a648a5b31a9e86797eff95f7fade47039",
+          "source_ids": [
+            "csv_1min_original",
+            "tushare:tbl_cn_adj_factor"
+          ],
+          "factor_lineage": {
+            "source_id": "tushare:tbl_cn_adj_factor",
+            "source_version": "e25a5af1055e3fda84095868be899aa6e939d691c56df13f093f05f9768aa8bc",
+            "anchor_trade_date": "2026-09-17",
+            "anchor_value": 6.7061,
+            "anchor_available_at": null,
+            "selection": "last_closed_date",
+            "visible_factor_digest": "10026b00d119fa57a1a88aa0ccb25e47138db9b42fb25b99c4827b6263e73b06",
+            "visible_factor_count": 2239,
+            "formula": "raw_price * row_factor / anchor_factor"
+          },
+          "labels": {},
+          "labels_missing": [
+            "name",
+            "st_status",
+            "themes",
+            "boards"
+          ],
+          "incomplete": false,
+          "warnings": [
+            "AUCTION_UNAVAILABLE",
+            "CURRENT_DAILY_FROM_OBSERVED_MINUTES",
+            "CURRENT_FACTOR_UNCHANGED_FROM_PREVIOUS",
+            "HISTORICAL_CALENDAR_COVERAGE_UNAVAILABLE"
+          ],
+          "gap_dates": [],
+          "auctions": {},
+          "prev_close": {
+            "2026-09-14": 63.01,
+            "2026-09-15": 65.3,
+            "2026-09-16": 68.78,
+            "2026-09-17": 70.36,
+            "2026-09-18": 73.16
+          }
+        },
+        "bars_sha256": "9bee587565bccdf09fb32f8a850d91c501d117f4573b4c2fe4cc8f07a733325e"
+      },
+      "warnings": [
+        "AUCTION_UNAVAILABLE",
+        "CURRENT_DAILY_FROM_OBSERVED_MINUTES",
+        "CURRENT_FACTOR_UNCHANGED_FROM_PREVIOUS",
+        "HISTORICAL_CALENDAR_COVERAGE_UNAVAILABLE"
+      ]
+    }
+  },
+  "timings": {
+    "drawing_seconds": 0.41487860000052024,
+    "encoding_seconds": 0.21166759998595808
+  },
+  "warnings": [
+    "AUCTION_UNAVAILABLE",
+    "CURRENT_DAILY_FROM_OBSERVED_MINUTES",
+    "CURRENT_FACTOR_UNCHANGED_FROM_PREVIOUS",
+    "HISTORICAL_CALENDAR_COVERAGE_UNAVAILABLE",
+    "DISPLAY_ZOOM_WITHIN_CUTOFF",
+    "FIFTEEN_MINUTES_DERIVED_FROM_ONE_MINUTE"
+  ]
+}

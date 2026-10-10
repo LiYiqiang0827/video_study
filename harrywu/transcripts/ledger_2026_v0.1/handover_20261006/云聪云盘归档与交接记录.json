@@ -1,0 +1,290 @@
+{
+  "task": "云聪文档云盘归档与视频转录交接",
+  "verified_at": "2026-10-06T00:37:30.180Z",
+  "root": {
+    "success": true,
+    "id": "1myQnYh9P-sNosF0yRp-AwbXE4JdcmfVw",
+    "url": "https://drive.google.com/drive/folders/1myQnYh9P-sNosF0yRp-AwbXE4JdcmfVw",
+    "title": "云聪",
+    "parent_id": "root"
+  },
+  "handover": {
+    "fileId": "1kmYtDc9BBBEBv9J213cCHmsHQX7eH1jQ1MVv2qbWssQ",
+    "mimeType": "application/vnd.google-apps.document",
+    "title": "00_云聪视频转录交接_当前状态与继续处理",
+    "url": "https://docs.google.com/document/d/1kmYtDc9BBBEBv9J213cCHmsHQX7eH1jQ1MVv2qbWssQ/edit?usp=drivesdk"
+  },
+  "attachments_folder": {
+    "success": true,
+    "id": "1JNMFWPoTgCev7fUy_J7hVcnSvJtItT_l",
+    "url": "https://drive.google.com/drive/folders/1JNMFWPoTgCev7fUy_J7hVcnSvJtItT_l",
+    "title": "转录交接附件",
+    "parent_id": "1myQnYh9P-sNosF0yRp-AwbXE4JdcmfVw"
+  },
+  "moved_historical_folders": [
+    {
+      "id": "1hmjFxVJSLKOPbSFTE98XaPQBIrZcDbmG",
+      "old_parent": "0AAbmfm33OGdBUk9PVA",
+      "new_parent": "1myQnYh9P-sNosF0yRp-AwbXE4JdcmfVw"
+    },
+    {
+      "id": "1zVOP1LtxWf4HQjA4Eynawlktge9F2eUc",
+      "old_parent": "1_j8AaE3q0wZB5kKC6EGSL0hSVuGHjJxI",
+      "new_parent": "1myQnYh9P-sNosF0yRp-AwbXE4JdcmfVw"
+    }
+  ],
+  "verification": {
+    "check": {
+      "documentId": "1kmYtDc9BBBEBv9J213cCHmsHQX7eH1jQ1MVv2qbWssQ",
+      "textMatches": true,
+      "dateCount": 15,
+      "datesMatch": true,
+      "titleCount": 1,
+      "headingCount": 7,
+      "linkCount": 8,
+      "linksMatch": true,
+      "rootContainsAll": true,
+      "rootCount": 4,
+      "attachmentsCount": 9,
+      "attachmentsAllMatch": true
+    },
+    "attachmentChecks": [
+      {
+        "name": "剩余14场待处理清单.csv",
+        "id": "1H4wG7TfasOsk5GK1RDh1BXMoOaHHvWla",
+        "ok": true
+      },
+      {
+        "name": "优先20场_完成状态.json",
+        "id": "1UJH1Y47NeShhclZWaswkbhlxwJKNasOQ",
+        "ok": true
+      },
+      {
+        "name": "a_share_names.csv",
+        "id": "1vJUH43TYu9fp8j1RvW0ngtmuxX4PXTmM",
+        "ok": true
+      },
+      {
+        "name": "us_common_names.csv",
+        "id": "1vxGFb9CHbigvWmaaXm4lqEMv6RhKxrfI",
+        "ok": true
+      },
+      {
+        "name": "us_etf_names.csv",
+        "id": "1FAk07Gh4J8UfxFmcwWdtqB4JO9KuTWEg",
+        "ok": true
+      },
+      {
+        "name": "asr_hotwords_short.txt",
+        "id": "1RjBFrIYnuU5DJeMlXSNFRhVHSz6PEtEJ",
+        "ok": true
+      },
+      {
+        "name": "转写名称校正经验.json",
+        "id": "1uR4ryzM5RYrZPAIXJcAkPETdBmFq0YvL",
+        "ok": true
+      },
+      {
+        "name": "使用说明.txt",
+        "id": "1CP2LXRvu8y6mlAmwbSDkEysRsJVbs2pK",
+        "ok": true
+      },
+      {
+        "name": "转录交接状态_机器可读.json",
+        "id": "19xJQBJ0WGITBCm4z4SXcOGkGqPg8Ypdi",
+        "ok": true
+      }
+    ],
+    "rootFiles": [
+      {
+        "id": "1kmYtDc9BBBEBv9J213cCHmsHQX7eH1jQ1MVv2qbWssQ",
+        "title": "00_云聪视频转录交接_当前状态与继续处理",
+        "mime_type": "application/vnd.google-apps.document",
+        "size": "8323",
+        "url": "https://docs.google.com/document/d/1kmYtDc9BBBEBv9J213cCHmsHQX7eH1jQ1MVv2qbWssQ/edit?usp=drivesdk",
+        "display_url": "https://docs.google.com/document/d/1kmYtDc9BBBEBv9J213cCHmsHQX7eH1jQ1MVv2qbWssQ/edit?usp=drivesdk",
+        "file_or_folder": "file",
+        "created_time": "2026-10-06T00:30:00.297Z",
+        "modified_time": "2026-10-06T00:34:56.765Z",
+        "parent_ids": null,
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": false,
+        "permissions": null,
+        "source_visibility_status": "not_shared",
+        "can_download": true,
+        "can_list_children": false
+      },
+      {
+        "id": "1JNMFWPoTgCev7fUy_J7hVcnSvJtItT_l",
+        "title": "转录交接附件",
+        "mime_type": "application/vnd.google-apps.folder",
+        "size": null,
+        "url": "https://drive.google.com/drive/folders/1JNMFWPoTgCev7fUy_J7hVcnSvJtItT_l",
+        "display_url": "https://drive.google.com/drive/folders/1JNMFWPoTgCev7fUy_J7hVcnSvJtItT_l",
+        "file_or_folder": "folder",
+        "created_time": "2026-10-06T00:31:59.978Z",
+        "modified_time": "2026-10-06T00:31:59.978Z",
+        "parent_ids": null,
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": false,
+        "permissions": null,
+        "source_visibility_status": "not_shared",
+        "can_download": true,
+        "can_list_children": true
+      },
+      {
+        "id": "1hmjFxVJSLKOPbSFTE98XaPQBIrZcDbmG",
+        "title": "云聪直播选股台账_2026_试点v0.1",
+        "mime_type": "application/vnd.google-apps.folder",
+        "size": null,
+        "url": "https://drive.google.com/drive/folders/1hmjFxVJSLKOPbSFTE98XaPQBIrZcDbmG",
+        "display_url": "https://drive.google.com/drive/folders/1hmjFxVJSLKOPbSFTE98XaPQBIrZcDbmG",
+        "file_or_folder": "folder",
+        "created_time": "2026-10-03T04:33:10.858Z",
+        "modified_time": "2026-10-03T04:33:10.858Z",
+        "parent_ids": null,
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": false,
+        "permissions": null,
+        "source_visibility_status": "not_shared",
+        "can_download": true,
+        "can_list_children": true
+      },
+      {
+        "id": "1zVOP1LtxWf4HQjA4Eynawlktge9F2eUc",
+        "title": "云聪视频理解_2026-09-30",
+        "mime_type": "application/vnd.google-apps.folder",
+        "size": null,
+        "url": "https://drive.google.com/drive/folders/1zVOP1LtxWf4HQjA4Eynawlktge9F2eUc",
+        "display_url": "https://drive.google.com/drive/folders/1zVOP1LtxWf4HQjA4Eynawlktge9F2eUc",
+        "file_or_folder": "folder",
+        "created_time": "2026-09-30T00:42:22.142Z",
+        "modified_time": "2026-09-30T00:42:22.142Z",
+        "parent_ids": null,
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": false,
+        "permissions": null,
+        "source_visibility_status": "not_shared",
+        "can_download": true,
+        "can_list_children": true
+      }
+    ],
+    "dates": [
+      {
+        "index": 15,
+        "date": "2026-10-06"
+      },
+      {
+        "index": 1400,
+        "date": "2026-01-19"
+      },
+      {
+        "index": 1423,
+        "date": "2026-03-08"
+      },
+      {
+        "index": 1474,
+        "date": "2026-03-22"
+      },
+      {
+        "index": 1502,
+        "date": "2026-03-29"
+      },
+      {
+        "index": 1534,
+        "date": "2026-04-05"
+      },
+      {
+        "index": 1566,
+        "date": "2026-04-26"
+      },
+      {
+        "index": 1602,
+        "date": "2026-05-03"
+      },
+      {
+        "index": 1627,
+        "date": "2026-06-21"
+      },
+      {
+        "index": 1657,
+        "date": "2026-06-28"
+      },
+      {
+        "index": 1693,
+        "date": "2026-07-05"
+      },
+      {
+        "index": 1714,
+        "date": "2026-07-26"
+      },
+      {
+        "index": 1750,
+        "date": "2026-09-13"
+      },
+      {
+        "index": 1782,
+        "date": "2026-09-20"
+      },
+      {
+        "index": 1806,
+        "date": "2026-09-28"
+      }
+    ],
+    "hyperlinks": [
+      {
+        "startIndex": 1047,
+        "endIndex": 1053,
+        "url": "https://drive.google.com/drive/folders/1myQnYh9P-sNosF0yRp-AwbXE4JdcmfVw"
+      },
+      {
+        "startIndex": 1054,
+        "endIndex": 1071,
+        "url": "https://drive.google.com/file/d/1MqbfPaPO43BjXMhEBSWVgwxYj8_pqcjT/view?usp=drivesdk"
+      },
+      {
+        "startIndex": 1072,
+        "endIndex": 1086,
+        "url": "https://drive.google.com/drive/folders/1g-iftms84Z0b5t4kHDSTOG9pzcJKP-UF"
+      },
+      {
+        "startIndex": 1087,
+        "endIndex": 1094,
+        "url": "https://drive.google.com/file/d/1oeNp6Tv5-57hydXd2jDH_yVBJ5CZB8dE/view?usp=drivesdk"
+      },
+      {
+        "startIndex": 1095,
+        "endIndex": 1132,
+        "url": "https://drive.google.com/file/d/1H4wG7TfasOsk5GK1RDh1BXMoOaHHvWla/view?usp=drivesdk"
+      },
+      {
+        "startIndex": 1133,
+        "endIndex": 1166,
+        "url": "https://drive.google.com/drive/folders/1JNMFWPoTgCev7fUy_J7hVcnSvJtItT_l"
+      },
+      {
+        "startIndex": 1167,
+        "endIndex": 1208,
+        "url": "https://drive.google.com/drive/folders/1hmjFxVJSLKOPbSFTE98XaPQBIrZcDbmG"
+      },
+      {
+        "startIndex": 1209,
+        "endIndex": 1219,
+        "url": "https://drive.google.com/drive/folders/1zVOP1LtxWf4HQjA4Eynawlktge9F2eUc"
+      }
+    ],
+    "verifiedAt": "2026-10-06T00:37:30.180Z"
+  },
+  "completed_priority_streams": 20,
+  "remaining_streams": 14,
+  "remaining_14_started_this_turn": false,
+  "original_ids_and_folder_hierarchy_preserved": true
+}

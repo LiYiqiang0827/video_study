@@ -1,0 +1,632 @@
+{
+  "begin": 4200.0,
+  "finish": 4500.0,
+  "segments": [
+    {
+      "start": 4207.45,
+      "end": 4237.43,
+      "text": "对,我也认为,我也认为,他新冠上任刚来,不是财务造假,他是那个情绪,市场情绪太差了,最近这个韩国一些个暴跌,他跟着一起跌的,储存芯片也不怪他,你看美光,因为你要盯着美国嘛,美国那边不也暴跌了吗,美国那边你看那个,那个,那个,那个叫啥,叫闪迪,你看嘛,美国闪迪也跌了50%啊,几乎,你看,从2350%到现在,",
+      "avg_logprob": -0.1,
+      "no_speech_prob": 0.0002,
+      "review": false
+    },
+    {
+      "start": 4237.45,
+      "end": 4267.43,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1124,
+      "no_speech_prob": 0.9927,
+      "review": true
+    },
+    {
+      "start": 4267.45,
+      "end": 4270.02,
+      "text": "太可惜了",
+      "avg_logprob": -0.1891,
+      "no_speech_prob": 0.0031,
+      "review": false
+    },
+    {
+      "start": 4270.02,
+      "end": 4271.76,
+      "text": "这没办法",
+      "avg_logprob": -0.1891,
+      "no_speech_prob": 0.0031,
+      "review": false
+    },
+    {
+      "start": 4271.76,
+      "end": 4273.78,
+      "text": "这种东西是历史罕见",
+      "avg_logprob": -0.1891,
+      "no_speech_prob": 0.0031,
+      "review": false
+    },
+    {
+      "start": 4273.78,
+      "end": 4278.38,
+      "text": "没办法",
+      "avg_logprob": -0.1891,
+      "no_speech_prob": 0.0031,
+      "review": false
+    },
+    {
+      "start": 4278.38,
+      "end": 4280.24,
+      "text": "韩国里熔断又不远了",
+      "avg_logprob": -0.1891,
+      "no_speech_prob": 0.0031,
+      "review": false
+    },
+    {
+      "start": 4280.24,
+      "end": 4289.06,
+      "text": "华电性能",
+      "avg_logprob": -0.1891,
+      "no_speech_prob": 0.0031,
+      "review": false
+    },
+    {
+      "start": 4289.06,
+      "end": 4290.16,
+      "text": "电力呢",
+      "avg_logprob": -0.1891,
+      "no_speech_prob": 0.0031,
+      "review": false
+    },
+    {
+      "start": 4290.16,
+      "end": 4291.7,
+      "text": "这个比较变态",
+      "avg_logprob": -0.1891,
+      "no_speech_prob": 0.0031,
+      "review": false
+    },
+    {
+      "start": 4291.7,
+      "end": 4295.03,
+      "text": "我其实以前做过好几次电力",
+      "avg_logprob": -0.1891,
+      "no_speech_prob": 0.0031,
+      "review": false
+    },
+    {
+      "start": 4295.03,
+      "end": 4296.73,
+      "text": "后面就不敢做了",
+      "avg_logprob": -0.1891,
+      "no_speech_prob": 0.0031,
+      "review": false
+    },
+    {
+      "start": 4296.73,
+      "end": 4297.99,
+      "text": "电力它很变态",
+      "avg_logprob": -0.1891,
+      "no_speech_prob": 0.0031,
+      "review": false
+    },
+    {
+      "start": 4297.99,
+      "end": 4298.65,
+      "text": "它不好",
+      "avg_logprob": -0.1891,
+      "no_speech_prob": 0.0031,
+      "review": false
+    },
+    {
+      "start": 4298.65,
+      "end": 4300.45,
+      "text": "它老是拉起来就开玩笑砸",
+      "avg_logprob": -0.1891,
+      "no_speech_prob": 0.0031,
+      "review": false
+    },
+    {
+      "start": 4300.45,
+      "end": 4302.27,
+      "text": "这不能买啊",
+      "avg_logprob": -0.1891,
+      "no_speech_prob": 0.0031,
+      "review": false
+    },
+    {
+      "start": 4302.27,
+      "end": 4303.03,
+      "text": "这怎么能买呢",
+      "avg_logprob": -0.1891,
+      "no_speech_prob": 0.0031,
+      "review": false
+    },
+    {
+      "start": 4303.03,
+      "end": 4305.03,
+      "text": "这种是绝对的下降趋势啊",
+      "avg_logprob": -0.1891,
+      "no_speech_prob": 0.0031,
+      "review": false
+    },
+    {
+      "start": 4305.37,
+      "end": 4334.31,
+      "text": "这种是绝对不能买的,不能买不能买,这个不能买啊,这绝对不能买,我还以为啥样票啊,我还以为是那个,那比如像像浙江新能,我曾经买过,现在估计也不行了,我靠也不行了,你看,但是我以前买它的时候在这段时间,你看,是这段时间里面,那我觉得我买它是有理由的嘛,是不是,啊,你看,它整个的量啊,它整个的这些东西还是有理由的,没有啥的啊,它没有啥的,我觉得我当时买它,",
+      "avg_logprob": -0.0784,
+      "no_speech_prob": 0.4336,
+      "review": false
+    },
+    {
+      "start": 4334.31,
+      "end": 4364.67,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1018,
+      "no_speech_prob": 0.9976,
+      "review": true
+    },
+    {
+      "start": 4364.69,
+      "end": 4394.66,
+      "text": "是一个超,不是他,他还可以,你看他在这个位置买,我当时犹豫了一下,就是我想在这买,你看是对的,只是当时我去买半导体去了,我看了他半天当时,我看了又看,看了又看,当时我是准备在这买,华电、辽连,他还可以吗,他还可以,你那个是啥,你那个不行的,华电、辽连可以,你这个,但是也不是今天买,你的这个华电性能太差了,不行,绝对不可以买,",
+      "avg_logprob": -0.0888,
+      "no_speech_prob": 0.4807,
+      "review": false
+    },
+    {
+      "start": 4394.66,
+      "end": 4394.96,
+      "text": "好不好",
+      "avg_logprob": -0.1627,
+      "no_speech_prob": 0.9951,
+      "review": true
+    },
+    {
+      "start": 4394.96,
+      "end": 4402.78,
+      "text": "是啊是啊",
+      "avg_logprob": -0.1627,
+      "no_speech_prob": 0.9951,
+      "review": true
+    },
+    {
+      "start": 4402.78,
+      "end": 4403.74,
+      "text": "古路是吧",
+      "avg_logprob": -0.1627,
+      "no_speech_prob": 0.9951,
+      "review": true
+    },
+    {
+      "start": 4403.74,
+      "end": 4404.88,
+      "text": "太离谱了",
+      "avg_logprob": -0.1627,
+      "no_speech_prob": 0.9951,
+      "review": true
+    },
+    {
+      "start": 4404.88,
+      "end": 4405.88,
+      "text": "就是太离谱了",
+      "avg_logprob": -0.1627,
+      "no_speech_prob": 0.9951,
+      "review": true
+    },
+    {
+      "start": 4405.88,
+      "end": 4407.62,
+      "text": "这次真的是谁都没有注意到",
+      "avg_logprob": -0.1627,
+      "no_speech_prob": 0.9951,
+      "review": true
+    },
+    {
+      "start": 4407.62,
+      "end": 4408.32,
+      "text": "不要说我",
+      "avg_logprob": -0.1627,
+      "no_speech_prob": 0.9951,
+      "review": true
+    },
+    {
+      "start": 4408.32,
+      "end": 4410.18,
+      "text": "最近有一个香港的交易员",
+      "avg_logprob": -0.1627,
+      "no_speech_prob": 0.9951,
+      "review": true
+    },
+    {
+      "start": 4410.18,
+      "end": 4411.04,
+      "text": "快跳楼了",
+      "avg_logprob": -0.1627,
+      "no_speech_prob": 0.9951,
+      "review": true
+    },
+    {
+      "start": 4411.04,
+      "end": 4411.8,
+      "text": "大家知道吧",
+      "avg_logprob": -0.1627,
+      "no_speech_prob": 0.9951,
+      "review": true
+    },
+    {
+      "start": 4411.8,
+      "end": 4414.2,
+      "text": "他香港那个交易员偷偷的开权限",
+      "avg_logprob": -0.1627,
+      "no_speech_prob": 0.9951,
+      "review": true
+    },
+    {
+      "start": 4414.2,
+      "end": 4418.82,
+      "text": "去从把公司1.5亿港币",
+      "avg_logprob": -0.1627,
+      "no_speech_prob": 0.9951,
+      "review": true
+    },
+    {
+      "start": 4418.82,
+      "end": 4420.56,
+      "text": "1.5亿港币是美元的",
+      "avg_logprob": -0.1627,
+      "no_speech_prob": 0.9951,
+      "review": true
+    },
+    {
+      "start": 4420.56,
+      "end": 4422.52,
+      "text": "他自己偷了权限",
+      "avg_logprob": -0.1627,
+      "no_speech_prob": 0.9951,
+      "review": true
+    },
+    {
+      "start": 4422.52,
+      "end": 4424.54,
+      "text": "去抄底海力士",
+      "avg_logprob": -0.1627,
+      "no_speech_prob": 0.9951,
+      "review": true
+    },
+    {
+      "start": 4424.54,
+      "end": 4425.9,
+      "text": "亏光了",
+      "avg_logprob": -0.1627,
+      "no_speech_prob": 0.9951,
+      "review": true
+    },
+    {
+      "start": 4425.9,
+      "end": 4427.74,
+      "text": "我估计要判刑了",
+      "avg_logprob": -0.1627,
+      "no_speech_prob": 0.9951,
+      "review": true
+    },
+    {
+      "start": 4427.74,
+      "end": 4428.8,
+      "text": "估计要判十几年了",
+      "avg_logprob": -0.1627,
+      "no_speech_prob": 0.9951,
+      "review": true
+    },
+    {
+      "start": 4428.8,
+      "end": 4429.28,
+      "text": "我怀疑他",
+      "avg_logprob": -0.1627,
+      "no_speech_prob": 0.9951,
+      "review": true
+    },
+    {
+      "start": 4429.28,
+      "end": 4431.16,
+      "text": "所以你不要说我们呢",
+      "avg_logprob": -0.1756,
+      "no_speech_prob": 0.0006,
+      "review": false
+    },
+    {
+      "start": 4431.16,
+      "end": 4432.2,
+      "text": "人家顶级交易员",
+      "avg_logprob": -0.1756,
+      "no_speech_prob": 0.0006,
+      "review": false
+    },
+    {
+      "start": 4432.2,
+      "end": 4434.62,
+      "text": "是香港的一个顶级交易公司的交易员",
+      "avg_logprob": -0.1756,
+      "no_speech_prob": 0.0006,
+      "review": false
+    },
+    {
+      "start": 4434.62,
+      "end": 4441.5,
+      "text": "所以不要说我们呢",
+      "avg_logprob": -0.1756,
+      "no_speech_prob": 0.0006,
+      "review": false
+    },
+    {
+      "start": 4441.5,
+      "end": 4442.5,
+      "text": "这次谁都没想到",
+      "avg_logprob": -0.1756,
+      "no_speech_prob": 0.0006,
+      "review": false
+    },
+    {
+      "start": 4442.5,
+      "end": 4442.96,
+      "text": "我跟你说",
+      "avg_logprob": -0.1756,
+      "no_speech_prob": 0.0006,
+      "review": false
+    },
+    {
+      "start": 4442.96,
+      "end": 4444.84,
+      "text": "这次你看谁在那亏",
+      "avg_logprob": -0.1756,
+      "no_speech_prob": 0.0006,
+      "review": false
+    },
+    {
+      "start": 4444.84,
+      "end": 4446.98,
+      "text": "什么北京炒家呀",
+      "avg_logprob": -0.1756,
+      "no_speech_prob": 0.0006,
+      "review": false
+    },
+    {
+      "start": 4446.98,
+      "end": 4448.02,
+      "text": "A鬼卖牛的那些人",
+      "avg_logprob": -0.1756,
+      "no_speech_prob": 0.0006,
+      "review": false
+    },
+    {
+      "start": 4448.02,
+      "end": 4449.14,
+      "text": "北京炒家呀",
+      "avg_logprob": -0.1756,
+      "no_speech_prob": 0.0006,
+      "review": false
+    },
+    {
+      "start": 4449.14,
+      "end": 4449.4,
+      "text": "亏",
+      "avg_logprob": -0.1756,
+      "no_speech_prob": 0.0006,
+      "review": false
+    },
+    {
+      "start": 4449.4,
+      "end": 4450.88,
+      "text": "什么陈小群啊",
+      "avg_logprob": -0.1756,
+      "no_speech_prob": 0.0006,
+      "review": false
+    },
+    {
+      "start": 4450.88,
+      "end": 4451.46,
+      "text": "爆亏",
+      "avg_logprob": -0.1756,
+      "no_speech_prob": 0.0006,
+      "review": false
+    },
+    {
+      "start": 4451.46,
+      "end": 4453.16,
+      "text": "什么一顺流光啊",
+      "avg_logprob": -0.1756,
+      "no_speech_prob": 0.0006,
+      "review": false
+    },
+    {
+      "start": 4453.16,
+      "end": 4453.8,
+      "text": "爆亏",
+      "avg_logprob": -0.1756,
+      "no_speech_prob": 0.0006,
+      "review": false
+    },
+    {
+      "start": 4453.8,
+      "end": 4455.3,
+      "text": "每个人都在亏",
+      "avg_logprob": -0.1756,
+      "no_speech_prob": 0.0006,
+      "review": false
+    },
+    {
+      "start": 4455.3,
+      "end": 4456.98,
+      "text": "反正最近没办法啊",
+      "avg_logprob": -0.1756,
+      "no_speech_prob": 0.0006,
+      "review": false
+    },
+    {
+      "start": 4456.98,
+      "end": 4457.96,
+      "text": "最近每个人在亏",
+      "avg_logprob": -0.1756,
+      "no_speech_prob": 0.0006,
+      "review": false
+    },
+    {
+      "start": 4457.96,
+      "end": 4458.6,
+      "text": "也不怪你们",
+      "avg_logprob": -0.1756,
+      "no_speech_prob": 0.0006,
+      "review": false
+    },
+    {
+      "start": 4458.6,
+      "end": 4459.8,
+      "text": "所以我说我们",
+      "avg_logprob": -0.1756,
+      "no_speech_prob": 0.0006,
+      "review": false
+    },
+    {
+      "start": 4459.8,
+      "end": 4461.92,
+      "text": "所以我说我们倒霉嘛",
+      "avg_logprob": -0.1756,
+      "no_speech_prob": 0.0006,
+      "review": false
+    },
+    {
+      "start": 4461.92,
+      "end": 4465.76,
+      "text": "我也有这个user248",
+      "avg_logprob": -0.1859,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4465.76,
+      "end": 4467.5,
+      "text": "我本来走完了",
+      "avg_logprob": -0.1859,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4467.5,
+      "end": 4469.14,
+      "text": "我本来两周之前走完了",
+      "avg_logprob": -0.1859,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4469.14,
+      "end": 4471.28,
+      "text": "我上一周进了",
+      "avg_logprob": -0.1859,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4471.28,
+      "end": 4472.64,
+      "text": "我上一周进了",
+      "avg_logprob": -0.1859,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4472.64,
+      "end": 4473.9,
+      "text": "所以我也被锤了",
+      "avg_logprob": -0.1859,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4473.9,
+      "end": 4475.1,
+      "text": "我和你们一样的",
+      "avg_logprob": -0.1859,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4475.1,
+      "end": 4476.54,
+      "text": "而且我上一周进了",
+      "avg_logprob": -0.1859,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4476.54,
+      "end": 4477.9,
+      "text": "还进了最惨的多米尼",
+      "avg_logprob": -0.1859,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4477.9,
+      "end": 4480.54,
+      "text": "我也被锤了",
+      "avg_logprob": -0.1859,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4480.54,
+      "end": 4482.64,
+      "text": "我在这进了10%的仓位",
+      "avg_logprob": -0.1859,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4482.64,
+      "end": 4486.25,
+      "text": "然后我在这加了10%的仓位",
+      "avg_logprob": -0.1859,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4486.25,
+      "end": 4487.67,
+      "text": "但是这是计划对象",
+      "avg_logprob": -0.1859,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4487.67,
+      "end": 4488.31,
+      "text": "本来准备加",
+      "avg_logprob": -0.1859,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4488.31,
+      "end": 4489.81,
+      "text": "然后就被锤了",
+      "avg_logprob": -0.1859,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4489.81,
+      "end": 4490.87,
+      "text": "这两天简直是",
+      "avg_logprob": -0.1859,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4490.87,
+      "end": 4501.99,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "avg_logprob": -0.2734,
+      "no_speech_prob": 0.0,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 25.14
+}

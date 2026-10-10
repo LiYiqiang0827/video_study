@@ -1,0 +1,400 @@
+{
+  "begin": 1200.0,
+  "finish": 1500.0,
+  "segments": [
+    {
+      "start": 1198.0,
+      "end": 1229.8,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0893,
+      "no_speech_prob": 0.0191,
+      "review": false
+    },
+    {
+      "start": 1229.82,
+      "end": 1239.31,
+      "text": "嗯,我要把这个集合金价把它弄掉,不显示,OK,不显示集合金价",
+      "avg_logprob": -0.1082,
+      "no_speech_prob": 0.9678,
+      "review": true
+    },
+    {
+      "start": 1239.31,
+      "end": 1244.41,
+      "text": "好,我就先不敢不给大家聊天了啊,就先把我的手头的票处理一下",
+      "avg_logprob": -0.1082,
+      "no_speech_prob": 0.9678,
+      "review": true
+    },
+    {
+      "start": 1244.41,
+      "end": 1249.01,
+      "text": "我手头就是这些票啊,而且你看我的操作都是真实的展示给你们的",
+      "avg_logprob": -0.1082,
+      "no_speech_prob": 0.9678,
+      "review": true
+    },
+    {
+      "start": 1249.01,
+      "end": 1257.75,
+      "text": "我这个种叶,哎,我有个种叶呢,神农,哦,没有,没有,没有神农种叶",
+      "avg_logprob": -0.1082,
+      "no_speech_prob": 0.9678,
+      "review": true
+    },
+    {
+      "start": 1257.75,
+      "end": 1262.01,
+      "text": "哎,我怎么买了个神农种叶,这是昨天买的吗",
+      "avg_logprob": -0.1082,
+      "no_speech_prob": 0.9678,
+      "review": true
+    },
+    {
+      "start": 1262.01,
+      "end": 1289.92,
+      "text": "哦,我昨天,我昨天,我昨天排队排个涨停,哎,你看,池塞谷里面啊,我还有个神农种业呢,我自己都忘了啊,神农,我排队的,这昨天排涨停的,神农种业,啊,你看,我为什么排它,它是昨天热点嘛,是不是,所以说有热点的话,你就要大胆的排,就是,这就是真实的给你展示什么叫抓热点,",
+      "avg_logprob": -0.0936,
+      "no_speech_prob": 0.4697,
+      "review": false
+    },
+    {
+      "start": 1289.92,
+      "end": 1320.34,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0919,
+      "no_speech_prob": 0.9951,
+      "review": true
+    },
+    {
+      "start": 1320.36,
+      "end": 1321.72,
+      "text": "这个而且仓位有点大",
+      "avg_logprob": -0.1036,
+      "no_speech_prob": 0.0715,
+      "review": false
+    },
+    {
+      "start": 1321.72,
+      "end": 1323.42,
+      "text": "你看幸亏我开盘",
+      "avg_logprob": -0.1036,
+      "no_speech_prob": 0.0715,
+      "review": false
+    },
+    {
+      "start": 1323.42,
+      "end": 1325.86,
+      "text": "集合金价这个位置卖了一大半",
+      "avg_logprob": -0.1036,
+      "no_speech_prob": 0.0715,
+      "review": false
+    },
+    {
+      "start": 1325.86,
+      "end": 1326.88,
+      "text": "卖了一半走了",
+      "avg_logprob": -0.1036,
+      "no_speech_prob": 0.0715,
+      "review": false
+    },
+    {
+      "start": 1326.88,
+      "end": 1328.5,
+      "text": "不然的话我这个仓位",
+      "avg_logprob": -0.1036,
+      "no_speech_prob": 0.0715,
+      "review": false
+    },
+    {
+      "start": 1328.5,
+      "end": 1330.3,
+      "text": "我这个仓位我说先降下来",
+      "avg_logprob": -0.1036,
+      "no_speech_prob": 0.0715,
+      "review": false
+    },
+    {
+      "start": 1330.3,
+      "end": 1331.7,
+      "text": "不管如何先降下仓位是吧",
+      "avg_logprob": -0.1036,
+      "no_speech_prob": 0.0715,
+      "review": false
+    },
+    {
+      "start": 1331.7,
+      "end": 1332.66,
+      "text": "非常正确",
+      "avg_logprob": -0.1036,
+      "no_speech_prob": 0.0715,
+      "review": false
+    },
+    {
+      "start": 1332.66,
+      "end": 1333.24,
+      "text": "非常正确",
+      "avg_logprob": -0.1036,
+      "no_speech_prob": 0.0715,
+      "review": false
+    },
+    {
+      "start": 1333.24,
+      "end": 1334.66,
+      "text": "不然的话我今天就亏钱了",
+      "avg_logprob": -0.1036,
+      "no_speech_prob": 0.0715,
+      "review": false
+    },
+    {
+      "start": 1334.66,
+      "end": 1335.96,
+      "text": "幸亏他仓位降一半",
+      "avg_logprob": -0.1036,
+      "no_speech_prob": 0.0715,
+      "review": false
+    },
+    {
+      "start": 1335.96,
+      "end": 1337.44,
+      "text": "我其他的票都赚钱",
+      "avg_logprob": -0.1036,
+      "no_speech_prob": 0.0715,
+      "review": false
+    },
+    {
+      "start": 1337.44,
+      "end": 1339.68,
+      "text": "所以今天我就没问题了",
+      "avg_logprob": -0.1036,
+      "no_speech_prob": 0.0715,
+      "review": false
+    },
+    {
+      "start": 1339.68,
+      "end": 1340.78,
+      "text": "就他一个",
+      "avg_logprob": -0.1036,
+      "no_speech_prob": 0.0715,
+      "review": false
+    },
+    {
+      "start": 1340.78,
+      "end": 1342.22,
+      "text": "但是他一个仓位是最重的",
+      "avg_logprob": -0.1036,
+      "no_speech_prob": 0.0715,
+      "review": false
+    },
+    {
+      "start": 1342.22,
+      "end": 1343.66,
+      "text": "但是我降了一半就没问题了",
+      "avg_logprob": -0.1036,
+      "no_speech_prob": 0.0715,
+      "review": false
+    },
+    {
+      "start": 1343.66,
+      "end": 1344.38,
+      "text": "降了一半仓位",
+      "avg_logprob": -0.1036,
+      "no_speech_prob": 0.0715,
+      "review": false
+    },
+    {
+      "start": 1344.38,
+      "end": 1345.52,
+      "text": "我今天就赚钱了",
+      "avg_logprob": -0.1036,
+      "no_speech_prob": 0.0715,
+      "review": false
+    },
+    {
+      "start": 1345.52,
+      "end": 1346.7,
+      "text": "要是不降了一半仓位",
+      "avg_logprob": -0.1036,
+      "no_speech_prob": 0.0715,
+      "review": false
+    },
+    {
+      "start": 1346.7,
+      "end": 1347.46,
+      "text": "我今天就亏钱了",
+      "avg_logprob": -0.1036,
+      "no_speech_prob": 0.0715,
+      "review": false
+    },
+    {
+      "start": 1347.46,
+      "end": 1349.12,
+      "text": "降了一半仓位",
+      "avg_logprob": -0.1036,
+      "no_speech_prob": 0.0715,
+      "review": false
+    },
+    {
+      "start": 1349.12,
+      "end": 1350.14,
+      "text": "所以我今天就赚钱了",
+      "avg_logprob": -0.1036,
+      "no_speech_prob": 0.0715,
+      "review": false
+    },
+    {
+      "start": 1379.05,
+      "end": 1388.07,
+      "text": "好,今天估计没有啥啊,现在深圳估计在这盘来盘去的了,不管它了,我们快速的看一下盘口,不是盘口,盘面",
+      "avg_logprob": -0.0906,
+      "no_speech_prob": 0.1841,
+      "review": false
+    },
+    {
+      "start": 1388.07,
+      "end": 1398.54,
+      "text": "今天医药医疗有4家涨停,医疗医药4家涨停,你就知道了,哦,有4家在这边,房地产有4家",
+      "avg_logprob": -0.0906,
+      "no_speech_prob": 0.1841,
+      "review": false
+    },
+    {
+      "start": 1398.54,
+      "end": 1405.94,
+      "text": "房地产也没什么突发消息,没有突发消息也不能买,二尔尼洛有4家,我认为二尔尼洛可以",
+      "avg_logprob": -0.0906,
+      "no_speech_prob": 0.1841,
+      "review": false
+    },
+    {
+      "start": 1405.94,
+      "end": 1408.5,
+      "text": "所以我手里有两只二尼诺的这个票",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.14,
+      "review": false
+    },
+    {
+      "start": 1408.5,
+      "end": 1410.58,
+      "text": "问题不大",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.14,
+      "review": false
+    },
+    {
+      "start": 1410.58,
+      "end": 1413.0,
+      "text": "什么对媒反制这些没有啥意思",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.14,
+      "review": false
+    },
+    {
+      "start": 1413.0,
+      "end": 1414.06,
+      "text": "加剧更没啥意思",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.14,
+      "review": false
+    },
+    {
+      "start": 1414.06,
+      "end": 1416.08,
+      "text": "所以就是今天唯一的就是",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.14,
+      "review": false
+    },
+    {
+      "start": 1416.08,
+      "end": 1419.14,
+      "text": "第一个就是继续看医疗二尼诺",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.14,
+      "review": false
+    },
+    {
+      "start": 1419.14,
+      "end": 1422.74,
+      "text": "我认为医疗是一个最近一直会持续长的",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.14,
+      "review": false
+    },
+    {
+      "start": 1422.74,
+      "end": 1424.22,
+      "text": "二尼诺是突发性的",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.14,
+      "review": false
+    },
+    {
+      "start": 1424.22,
+      "end": 1425.68,
+      "text": "咱们也不知道它会持续多久",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.14,
+      "review": false
+    },
+    {
+      "start": 1425.68,
+      "end": 1427.78,
+      "text": "但是医疗医药肯定会持续的",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.14,
+      "review": false
+    },
+    {
+      "start": 1427.78,
+      "end": 1430.08,
+      "text": "医疗医药有几个",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.14,
+      "review": false
+    },
+    {
+      "start": 1430.08,
+      "end": 1431.52,
+      "text": "预衡药业",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.14,
+      "review": false
+    },
+    {
+      "start": 1431.52,
+      "end": 1433.56,
+      "text": "这不是啊",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.14,
+      "review": false
+    },
+    {
+      "start": 1433.56,
+      "end": 1434.7,
+      "text": "他说有四个涨天啊",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.14,
+      "review": false
+    },
+    {
+      "start": 1434.7,
+      "end": 1468.43,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0732,
+      "no_speech_prob": 0.0608,
+      "review": false
+    },
+    {
+      "start": 1468.45,
+      "end": 1498.2,
+      "text": "彩虹,彩虹也起来了,OK,彩虹好,我就说彩虹能起来,风范不行,今天肯定不行,风范这种啊,我也不会走了,它要是明天再跌我就加仓,再跌加仓,因为我赶90%的把握它是在洗盘,所以说我只要仓位合理,它赶的第二阵我就加仓,它只要赶第二阵,第二阵我一定加仓,我剩下的不走了,我剩下一半不走了,我认为它真的是洗盘,绝对是洗盘,让它洗吧,OK",
+      "avg_logprob": -0.0582,
+      "no_speech_prob": 0.481,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 20.77
+}

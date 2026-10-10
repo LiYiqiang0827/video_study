@@ -1,0 +1,32 @@
+{
+  "version": "2.1.0",
+  "date": "2026-09-30",
+  "platform": "Windows / Python 3.12",
+  "tests": {
+    "frame_review": 3,
+    "portable_install_and_config": 2,
+    "legacy_platform": 6,
+    "all_passed": true
+  },
+  "gpu_smoke": {
+    "source_sha256": "afe8ddf5cea9b7646574fae376025b7ecfe0e0cda9ddc90398914f742311a8ff",
+    "start": 169,
+    "end": 189,
+    "model": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "segments": 13,
+    "source_and_evidence_verified": true
+  },
+  "full_course_previous_acceptance": {
+    "videos": 5,
+    "frames": 169,
+    "passed": true
+  },
+  "limitations": [
+    "Windows only tested",
+    "no semantic-accuracy guarantee",
+    "no generic speaker diarization",
+    "large-v3 revision not pinned"
+  ]
+}

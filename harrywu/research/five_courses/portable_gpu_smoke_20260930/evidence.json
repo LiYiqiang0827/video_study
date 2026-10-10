@@ -1,0 +1,446 @@
+{
+  "schema_version": "1.0",
+  "media_asset": {
+    "source_path": "C:\\Users\\HarryWu_IOKI\\Videos\\飞云双突破\\For GPT\\3.趋势线精讲.mkv",
+    "source_sha256": "afe8ddf5cea9b7646574fae376025b7ecfe0e0cda9ddc90398914f742311a8ff",
+    "size_bytes": 653326366,
+    "playable_duration_seconds": 1248.85,
+    "selected_interval": [
+      169.0,
+      189.0
+    ],
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "[0][0][0][0]",
+        "codec_tag": "0x0000",
+        "mime_codec_string": "avc1.64002a",
+        "width": 1920,
+        "height": 1080,
+        "coded_width": 1920,
+        "coded_height": 1080,
+        "has_b_frames": 1,
+        "sample_aspect_ratio": "1:1",
+        "display_aspect_ratio": "16:9",
+        "pix_fmt": "yuv420p",
+        "level": 42,
+        "color_range": "tv",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709",
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "time_base": "1/1000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "bits_per_raw_sample": "8",
+        "extradata_size": 61,
+        "disposition": {
+          "default": 0,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "DURATION": "00:20:48.850000000"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "[0][0][0][0]",
+        "codec_tag": "0x0000",
+        "mime_codec_string": "mp4a.40.2",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 0,
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/1000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 0,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "title": "simple_aac_recording",
+          "DURATION": "00:20:48.832000000"
+        }
+      }
+    ]
+  },
+  "speech_segments": [
+    {
+      "id": "s00001",
+      "start": 169.0,
+      "end": 170.06,
+      "text": "以趋势线的划法",
+      "speaker_id": null,
+      "confidence": {
+        "avg_logprob": -0.1588,
+        "no_speech_prob": 0.9253
+      },
+      "review_required": true,
+      "evidence": {
+        "source_sha256": "afe8ddf5cea9b7646574fae376025b7ecfe0e0cda9ddc90398914f742311a8ff",
+        "modality": "audio",
+        "start": 169.0,
+        "end": 170.06,
+        "artifact": null,
+        "artifact_sha256": null
+      }
+    },
+    {
+      "id": "s00002",
+      "start": 170.06,
+      "end": 171.34,
+      "text": "趋势线的划法",
+      "speaker_id": null,
+      "confidence": {
+        "avg_logprob": -0.1588,
+        "no_speech_prob": 0.9253
+      },
+      "review_required": true,
+      "evidence": {
+        "source_sha256": "afe8ddf5cea9b7646574fae376025b7ecfe0e0cda9ddc90398914f742311a8ff",
+        "modality": "audio",
+        "start": 170.06,
+        "end": 171.34,
+        "artifact": null,
+        "artifact_sha256": null
+      }
+    },
+    {
+      "id": "s00003",
+      "start": 171.34,
+      "end": 172.68,
+      "text": "这个我们知道",
+      "speaker_id": null,
+      "confidence": {
+        "avg_logprob": -0.1588,
+        "no_speech_prob": 0.9253
+      },
+      "review_required": true,
+      "evidence": {
+        "source_sha256": "afe8ddf5cea9b7646574fae376025b7ecfe0e0cda9ddc90398914f742311a8ff",
+        "modality": "audio",
+        "start": 171.34,
+        "end": 172.68,
+        "artifact": null,
+        "artifact_sha256": null
+      }
+    },
+    {
+      "id": "s00004",
+      "start": 172.68,
+      "end": 174.58,
+      "text": "如果一个行情开始走",
+      "speaker_id": null,
+      "confidence": {
+        "avg_logprob": -0.1588,
+        "no_speech_prob": 0.9253
+      },
+      "review_required": true,
+      "evidence": {
+        "source_sha256": "afe8ddf5cea9b7646574fae376025b7ecfe0e0cda9ddc90398914f742311a8ff",
+        "modality": "audio",
+        "start": 172.68,
+        "end": 174.58,
+        "artifact": null,
+        "artifact_sha256": null
+      }
+    },
+    {
+      "id": "s00005",
+      "start": 174.58,
+      "end": 176.0,
+      "text": "走上来",
+      "speaker_id": null,
+      "confidence": {
+        "avg_logprob": -0.1588,
+        "no_speech_prob": 0.9253
+      },
+      "review_required": true,
+      "evidence": {
+        "source_sha256": "afe8ddf5cea9b7646574fae376025b7ecfe0e0cda9ddc90398914f742311a8ff",
+        "modality": "audio",
+        "start": 174.58,
+        "end": 176.0,
+        "artifact": null,
+        "artifact_sha256": null
+      }
+    },
+    {
+      "id": "s00006",
+      "start": 176.0,
+      "end": 177.24,
+      "text": "这个是一个低点",
+      "speaker_id": null,
+      "confidence": {
+        "avg_logprob": -0.1588,
+        "no_speech_prob": 0.9253
+      },
+      "review_required": true,
+      "evidence": {
+        "source_sha256": "afe8ddf5cea9b7646574fae376025b7ecfe0e0cda9ddc90398914f742311a8ff",
+        "modality": "audio",
+        "start": 176.0,
+        "end": 177.24,
+        "artifact": null,
+        "artifact_sha256": null
+      }
+    },
+    {
+      "id": "s00007",
+      "start": 177.24,
+      "end": 179.18,
+      "text": "收回了第二个低点",
+      "speaker_id": null,
+      "confidence": {
+        "avg_logprob": -0.1588,
+        "no_speech_prob": 0.9253
+      },
+      "review_required": true,
+      "evidence": {
+        "source_sha256": "afe8ddf5cea9b7646574fae376025b7ecfe0e0cda9ddc90398914f742311a8ff",
+        "modality": "audio",
+        "start": 177.24,
+        "end": 179.18,
+        "artifact": null,
+        "artifact_sha256": null
+      }
+    },
+    {
+      "id": "s00008",
+      "start": 179.18,
+      "end": 180.42,
+      "text": "那么我们要知道",
+      "speaker_id": null,
+      "confidence": {
+        "avg_logprob": -0.1588,
+        "no_speech_prob": 0.9253
+      },
+      "review_required": true,
+      "evidence": {
+        "source_sha256": "afe8ddf5cea9b7646574fae376025b7ecfe0e0cda9ddc90398914f742311a8ff",
+        "modality": "audio",
+        "start": 179.18,
+        "end": 180.42,
+        "artifact": null,
+        "artifact_sha256": null
+      }
+    },
+    {
+      "id": "s00009",
+      "start": 180.42,
+      "end": 181.82,
+      "text": "这个行情以后怎么走",
+      "speaker_id": null,
+      "confidence": {
+        "avg_logprob": -0.1588,
+        "no_speech_prob": 0.9253
+      },
+      "review_required": true,
+      "evidence": {
+        "source_sha256": "afe8ddf5cea9b7646574fae376025b7ecfe0e0cda9ddc90398914f742311a8ff",
+        "modality": "audio",
+        "start": 180.42,
+        "end": 181.82,
+        "artifact": null,
+        "artifact_sha256": null
+      }
+    },
+    {
+      "id": "s00010",
+      "start": 181.82,
+      "end": 183.0,
+      "text": "那么我们就在",
+      "speaker_id": null,
+      "confidence": {
+        "avg_logprob": -0.1588,
+        "no_speech_prob": 0.9253
+      },
+      "review_required": true,
+      "evidence": {
+        "source_sha256": "afe8ddf5cea9b7646574fae376025b7ecfe0e0cda9ddc90398914f742311a8ff",
+        "modality": "audio",
+        "start": 181.82,
+        "end": 183.0,
+        "artifact": null,
+        "artifact_sha256": null
+      }
+    },
+    {
+      "id": "s00011",
+      "start": 183.0,
+      "end": 184.9,
+      "text": "这两个低点之间",
+      "speaker_id": null,
+      "confidence": {
+        "avg_logprob": -0.1588,
+        "no_speech_prob": 0.9253
+      },
+      "review_required": true,
+      "evidence": {
+        "source_sha256": "afe8ddf5cea9b7646574fae376025b7ecfe0e0cda9ddc90398914f742311a8ff",
+        "modality": "audio",
+        "start": 183.0,
+        "end": 184.9,
+        "artifact": null,
+        "artifact_sha256": null
+      }
+    },
+    {
+      "id": "s00012",
+      "start": 184.9,
+      "end": 187.24,
+      "text": "进行连了一条线",
+      "speaker_id": null,
+      "confidence": {
+        "avg_logprob": -0.1588,
+        "no_speech_prob": 0.9253
+      },
+      "review_required": true,
+      "evidence": {
+        "source_sha256": "afe8ddf5cea9b7646574fae376025b7ecfe0e0cda9ddc90398914f742311a8ff",
+        "modality": "audio",
+        "start": 184.9,
+        "end": 187.24,
+        "artifact": null,
+        "artifact_sha256": null
+      }
+    },
+    {
+      "id": "s00013",
+      "start": 187.24,
+      "end": 188.98,
+      "text": "两个点",
+      "speaker_id": null,
+      "confidence": {
+        "avg_logprob": -0.1588,
+        "no_speech_prob": 0.9253
+      },
+      "review_required": true,
+      "evidence": {
+        "source_sha256": "afe8ddf5cea9b7646574fae376025b7ecfe0e0cda9ddc90398914f742311a8ff",
+        "modality": "audio",
+        "start": 187.24,
+        "end": 188.98,
+        "artifact": null,
+        "artifact_sha256": null
+      }
+    }
+  ],
+  "visual_events": [],
+  "derived_artifacts": [
+    {
+      "path": "speech.json",
+      "sha256": "cffc3caecae63519ba5cdfbc2ba3d939b628d00eb9256b24dc3ed5d88b047512",
+      "kind": "extraction"
+    },
+    {
+      "path": "speech.md",
+      "sha256": "b364d434ce192d01b263a57718ba30397aa91efe9acccab89378986d49ed6bf4",
+      "kind": "extraction"
+    }
+  ],
+  "run_manifest": {
+    "extraction_version": "2.0",
+    "params_sha256": "e209ae868e9ee83213fcaf65574960b6f5881526331c7a9acfc57586abd2b83a",
+    "params": {
+      "model": "large-v3",
+      "language": "zh",
+      "device": "cuda",
+      "compute_type": "float16",
+      "start": 169.0,
+      "end": 189.0,
+      "vad": "conservative",
+      "chunk_seconds": 300,
+      "no_audio": false,
+      "no_video": true,
+      "no_ocr": false,
+      "frame_interval": null,
+      "change_threshold": 0.004,
+      "max_frames": 300,
+      "perspective": false,
+      "selected_audio_stream": 1,
+      "profile_sha256": "7dd677164d7ee353da6ed2b3230e9d9233ad7f441e963494d32ff75247b45c97"
+    },
+    "steps": {
+      "audio": "complete",
+      "video": "skipped",
+      "evidence": "complete"
+    },
+    "model": {
+      "id": "large-v3",
+      "revision": "not pinned"
+    },
+    "chunks": [
+      {
+        "index": 0,
+        "sha256": "8eee76f18074fbc3f4ce6806fc75bdb8cafc888290731a8899afd470e1a528a0",
+        "device": "cuda",
+        "compute_type": "float16",
+        "resources_before": {
+          "ram_free_gib": 18.8,
+          "cpu_percent": 18.4,
+          "vram_free_gib": 5.86,
+          "vram_total_gib": 8.0,
+          "vram_used_gib": 1.97
+        },
+        "elapsed_seconds": 2.12
+      }
+    ]
+  },
+  "limitations": [
+    "ASR text and OCR are unverified; speaker IDs and continuous actions are not inferred"
+  ]
+}

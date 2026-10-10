@@ -1,0 +1,1592 @@
+{
+  "begin": 300.0,
+  "finish": 600.0,
+  "segments": [
+    {
+      "start": 300.54,
+      "end": 301.54,
+      "text": "不是特别发达的",
+      "avg_logprob": -0.1013,
+      "no_speech_prob": 0.4836,
+      "review": false
+    },
+    {
+      "start": 301.54,
+      "end": 302.8,
+      "text": "比如我在非洲尼日利亚",
+      "avg_logprob": -0.1013,
+      "no_speech_prob": 0.4836,
+      "review": false
+    },
+    {
+      "start": 302.8,
+      "end": 304.52,
+      "text": "我说云丛在尼日利亚",
+      "avg_logprob": -0.1013,
+      "no_speech_prob": 0.4836,
+      "review": false
+    },
+    {
+      "start": 304.52,
+      "end": 305.82,
+      "text": "云丛在马来西亚",
+      "avg_logprob": -0.1013,
+      "no_speech_prob": 0.4836,
+      "review": false
+    },
+    {
+      "start": 305.82,
+      "end": 307.94,
+      "text": "那对马来西亚对尼日利亚不感兴趣的人",
+      "avg_logprob": -0.1013,
+      "no_speech_prob": 0.4836,
+      "review": false
+    },
+    {
+      "start": 307.94,
+      "end": 309.52,
+      "text": "可能看都不会看你的这个视频",
+      "avg_logprob": -0.1013,
+      "no_speech_prob": 0.4836,
+      "review": false
+    },
+    {
+      "start": 309.52,
+      "end": 312.1,
+      "text": "所以说我就是还是要把它分出来",
+      "avg_logprob": -0.1013,
+      "no_speech_prob": 0.4836,
+      "review": false
+    },
+    {
+      "start": 312.1,
+      "end": 313.48,
+      "text": "一个专门做生活的",
+      "avg_logprob": -0.1013,
+      "no_speech_prob": 0.4836,
+      "review": false
+    },
+    {
+      "start": 313.48,
+      "end": 315.24,
+      "text": "就是有时候分享一下生活",
+      "avg_logprob": -0.1013,
+      "no_speech_prob": 0.4836,
+      "review": false
+    },
+    {
+      "start": 315.24,
+      "end": 316.14,
+      "text": "吃喝玩乐",
+      "avg_logprob": -0.1013,
+      "no_speech_prob": 0.4836,
+      "review": false
+    },
+    {
+      "start": 316.14,
+      "end": 318.02,
+      "text": "一个分享一下交易",
+      "avg_logprob": -0.1013,
+      "no_speech_prob": 0.4836,
+      "review": false
+    },
+    {
+      "start": 318.02,
+      "end": 319.94,
+      "text": "一个专门讲巴西的",
+      "avg_logprob": -0.1013,
+      "no_speech_prob": 0.4836,
+      "review": false
+    },
+    {
+      "start": 319.94,
+      "end": 321.32,
+      "text": "讲巴西的风土人情",
+      "avg_logprob": -0.1013,
+      "no_speech_prob": 0.4836,
+      "review": false
+    },
+    {
+      "start": 321.32,
+      "end": 322.04,
+      "text": "经贸",
+      "avg_logprob": -0.1013,
+      "no_speech_prob": 0.4836,
+      "review": false
+    },
+    {
+      "start": 322.04,
+      "end": 323.64,
+      "text": "讲巴西的特点",
+      "avg_logprob": -0.1013,
+      "no_speech_prob": 0.4836,
+      "review": false
+    },
+    {
+      "start": 323.64,
+      "end": 326.08,
+      "text": "我是准备就是马上就要做了",
+      "avg_logprob": -0.1013,
+      "no_speech_prob": 0.4836,
+      "review": false
+    },
+    {
+      "start": 326.08,
+      "end": 326.72,
+      "text": "马上就要做",
+      "avg_logprob": -0.1013,
+      "no_speech_prob": 0.4836,
+      "review": false
+    },
+    {
+      "start": 326.72,
+      "end": 327.46,
+      "text": "只不过呢",
+      "avg_logprob": -0.1103,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 327.46,
+      "end": 330.0,
+      "text": "现在其他两个都可以马上做起来",
+      "avg_logprob": -0.1103,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 330.0,
+      "end": 330.98,
+      "text": "因为那个卡",
+      "avg_logprob": -0.1103,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 330.98,
+      "end": 333.54,
+      "text": "我的得说这个两个",
+      "avg_logprob": -0.1103,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 333.54,
+      "end": 334.9,
+      "text": "我虽然微信被封",
+      "avg_logprob": -0.1103,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 334.9,
+      "end": 336.56,
+      "text": "但是我的国内的手机号都在",
+      "avg_logprob": -0.1103,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 336.56,
+      "end": 337.62,
+      "text": "但是还有一个",
+      "avg_logprob": -0.1103,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 337.62,
+      "end": 339.18,
+      "text": "就是我以前专门做拉美的",
+      "avg_logprob": -0.1103,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 339.18,
+      "end": 341.62,
+      "text": "那个卡不在了",
+      "avg_logprob": -0.1103,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 341.62,
+      "end": 342.7,
+      "text": "那个卡出问题了",
+      "avg_logprob": -0.1103,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 342.7,
+      "end": 343.68,
+      "text": "所以那个卡呢",
+      "avg_logprob": -0.1103,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 343.68,
+      "end": 345.62,
+      "text": "我需要从国内再寄回来",
+      "avg_logprob": -0.1103,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 345.62,
+      "end": 347.3,
+      "text": "总之呢就是下个月",
+      "avg_logprob": -0.1103,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 347.3,
+      "end": 349.48,
+      "text": "我看看你可能等不到下个月了",
+      "avg_logprob": -0.1103,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 349.48,
+      "end": 351.06,
+      "text": "我看最晚这个月底啊",
+      "avg_logprob": -0.1103,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 351.06,
+      "end": 351.9,
+      "text": "我就开始做啊",
+      "avg_logprob": -0.1103,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 351.9,
+      "end": 352.28,
+      "text": "到时候",
+      "avg_logprob": -0.1103,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 352.28,
+      "end": 354.12,
+      "text": "到时候会给大家",
+      "avg_logprob": -0.1103,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 354.12,
+      "end": 355.64,
+      "text": "好医学是怎么回事呢",
+      "avg_logprob": -0.1103,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 355.64,
+      "end": 356.2,
+      "text": "给大家说一下",
+      "avg_logprob": -0.1103,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 356.2,
+      "end": 357.96,
+      "text": "我的医学频道",
+      "avg_logprob": -0.1071,
+      "no_speech_prob": 0.5498,
+      "review": true
+    },
+    {
+      "start": 357.96,
+      "end": 361.46,
+      "text": "一直会按照我的节奏来做",
+      "avg_logprob": -0.1071,
+      "no_speech_prob": 0.5498,
+      "review": true
+    },
+    {
+      "start": 361.46,
+      "end": 363.44,
+      "text": "因为医学这个特别特殊",
+      "avg_logprob": -0.1071,
+      "no_speech_prob": 0.5498,
+      "review": true
+    },
+    {
+      "start": 363.44,
+      "end": 364.34,
+      "text": "就什么意思呢",
+      "avg_logprob": -0.1071,
+      "no_speech_prob": 0.5498,
+      "review": true
+    },
+    {
+      "start": 364.34,
+      "end": 366.82,
+      "text": "他不会有特别多的人关注",
+      "avg_logprob": -0.1071,
+      "no_speech_prob": 0.5498,
+      "review": true
+    },
+    {
+      "start": 366.82,
+      "end": 368.98,
+      "text": "但是他非常的专",
+      "avg_logprob": -0.1071,
+      "no_speech_prob": 0.5498,
+      "review": true
+    },
+    {
+      "start": 368.98,
+      "end": 369.88,
+      "text": "所以呢",
+      "avg_logprob": -0.1071,
+      "no_speech_prob": 0.5498,
+      "review": true
+    },
+    {
+      "start": 369.88,
+      "end": 371.76,
+      "text": "我现在不是你做几个视频吗",
+      "avg_logprob": -0.1071,
+      "no_speech_prob": 0.5498,
+      "review": true
+    },
+    {
+      "start": 371.76,
+      "end": 372.7,
+      "text": "但是我不能一下放",
+      "avg_logprob": -0.1071,
+      "no_speech_prob": 0.5498,
+      "review": true
+    },
+    {
+      "start": 372.7,
+      "end": 374.02,
+      "text": "因为一下放没有效果",
+      "avg_logprob": -0.1071,
+      "no_speech_prob": 0.5498,
+      "review": true
+    },
+    {
+      "start": 374.02,
+      "end": 374.86,
+      "text": "每周放一期",
+      "avg_logprob": -0.1071,
+      "no_speech_prob": 0.5498,
+      "review": true
+    },
+    {
+      "start": 374.86,
+      "end": 375.6,
+      "text": "每周放一些",
+      "avg_logprob": -0.1071,
+      "no_speech_prob": 0.5498,
+      "review": true
+    },
+    {
+      "start": 375.6,
+      "end": 376.7,
+      "text": "你们感兴趣的话",
+      "avg_logprob": -0.1071,
+      "no_speech_prob": 0.5498,
+      "review": true
+    },
+    {
+      "start": 376.7,
+      "end": 377.36,
+      "text": "你每周看",
+      "avg_logprob": -0.1071,
+      "no_speech_prob": 0.5498,
+      "review": true
+    },
+    {
+      "start": 377.36,
+      "end": 379.38,
+      "text": "我现在等于说有三个月的视频了",
+      "avg_logprob": -0.1071,
+      "no_speech_prob": 0.5498,
+      "review": true
+    },
+    {
+      "start": 379.38,
+      "end": 381.9,
+      "text": "我后面再做三个月到六个月的视频",
+      "avg_logprob": -0.1071,
+      "no_speech_prob": 0.5498,
+      "review": true
+    },
+    {
+      "start": 381.9,
+      "end": 383.56,
+      "text": "那么这一年的视频都有了",
+      "avg_logprob": -0.1071,
+      "no_speech_prob": 0.5498,
+      "review": true
+    },
+    {
+      "start": 383.56,
+      "end": 385.2,
+      "text": "那么这个医学就是这样子",
+      "avg_logprob": -0.1071,
+      "no_speech_prob": 0.5498,
+      "review": true
+    },
+    {
+      "start": 385.2,
+      "end": 385.68,
+      "text": "每周放",
+      "avg_logprob": -0.1071,
+      "no_speech_prob": 0.5498,
+      "review": true
+    },
+    {
+      "start": 385.68,
+      "end": 386.94,
+      "text": "每周放每周放每周放",
+      "avg_logprob": -0.1375,
+      "no_speech_prob": 0.8472,
+      "review": true
+    },
+    {
+      "start": 386.94,
+      "end": 388.02,
+      "text": "你们就慢慢去看",
+      "avg_logprob": -0.1375,
+      "no_speech_prob": 0.8472,
+      "review": true
+    },
+    {
+      "start": 388.02,
+      "end": 388.94,
+      "text": "慢慢去学好不好",
+      "avg_logprob": -0.1375,
+      "no_speech_prob": 0.8472,
+      "review": true
+    },
+    {
+      "start": 388.94,
+      "end": 390.48,
+      "text": "但是我不做任何的",
+      "avg_logprob": -0.1375,
+      "no_speech_prob": 0.8472,
+      "review": true
+    },
+    {
+      "start": 390.48,
+      "end": 391.92,
+      "text": "这个其他的做",
+      "avg_logprob": -0.1375,
+      "no_speech_prob": 0.8472,
+      "review": true
+    },
+    {
+      "start": 391.92,
+      "end": 393.08,
+      "text": "短视频做不了",
+      "avg_logprob": -0.1375,
+      "no_speech_prob": 0.8472,
+      "review": true
+    },
+    {
+      "start": 393.08,
+      "end": 395.72,
+      "text": "我跟你说国立现在卡的太严了",
+      "avg_logprob": -0.1375,
+      "no_speech_prob": 0.8472,
+      "review": true
+    },
+    {
+      "start": 395.72,
+      "end": 397.7,
+      "text": "国立国立讲视频啊",
+      "avg_logprob": -0.1375,
+      "no_speech_prob": 0.8472,
+      "review": true
+    },
+    {
+      "start": 397.7,
+      "end": 398.52,
+      "text": "讲啥都讲不了",
+      "avg_logprob": -0.1375,
+      "no_speech_prob": 0.8472,
+      "review": true
+    },
+    {
+      "start": 398.52,
+      "end": 401.36,
+      "text": "等一下就是国立现在打击最严重的",
+      "avg_logprob": -0.1375,
+      "no_speech_prob": 0.8472,
+      "review": true
+    },
+    {
+      "start": 401.36,
+      "end": 403.16,
+      "text": "现在一个就是讲交易嘛",
+      "avg_logprob": -0.1375,
+      "no_speech_prob": 0.8472,
+      "review": true
+    },
+    {
+      "start": 403.16,
+      "end": 404.28,
+      "text": "就是讲行情啊",
+      "avg_logprob": -0.1375,
+      "no_speech_prob": 0.8472,
+      "review": true
+    },
+    {
+      "start": 404.28,
+      "end": 404.66,
+      "text": "讲什么",
+      "avg_logprob": -0.1375,
+      "no_speech_prob": 0.8472,
+      "review": true
+    },
+    {
+      "start": 404.66,
+      "end": 405.72,
+      "text": "一个是讲医学",
+      "avg_logprob": -0.1375,
+      "no_speech_prob": 0.8472,
+      "review": true
+    },
+    {
+      "start": 405.72,
+      "end": 407.78,
+      "text": "这两个基本上是",
+      "avg_logprob": -0.1375,
+      "no_speech_prob": 0.8472,
+      "review": true
+    },
+    {
+      "start": 407.78,
+      "end": 409.84,
+      "text": "现在是就是随时封号",
+      "avg_logprob": -0.1375,
+      "no_speech_prob": 0.8472,
+      "review": true
+    },
+    {
+      "start": 409.84,
+      "end": 411.66,
+      "text": "你做的再好随时封号",
+      "avg_logprob": -0.1375,
+      "no_speech_prob": 0.8472,
+      "review": true
+    },
+    {
+      "start": 411.66,
+      "end": 413.88,
+      "text": "所以我基本上到时候讲交易",
+      "avg_logprob": -0.1375,
+      "no_speech_prob": 0.8472,
+      "review": true
+    },
+    {
+      "start": 413.88,
+      "end": 414.7,
+      "text": "就是不能",
+      "avg_logprob": -0.1501,
+      "no_speech_prob": 0.9199,
+      "review": true
+    },
+    {
+      "start": 414.7,
+      "end": 415.74,
+      "text": "就反正讲的很",
+      "avg_logprob": -0.1501,
+      "no_speech_prob": 0.9199,
+      "review": true
+    },
+    {
+      "start": 415.74,
+      "end": 416.44,
+      "text": "很泛嘛",
+      "avg_logprob": -0.1501,
+      "no_speech_prob": 0.9199,
+      "review": true
+    },
+    {
+      "start": 416.44,
+      "end": 417.22,
+      "text": "我们就讲一些",
+      "avg_logprob": -0.1501,
+      "no_speech_prob": 0.9199,
+      "review": true
+    },
+    {
+      "start": 417.22,
+      "end": 419.1,
+      "text": "可能有很多东西也发不出来",
+      "avg_logprob": -0.1501,
+      "no_speech_prob": 0.9199,
+      "review": true
+    },
+    {
+      "start": 419.1,
+      "end": 420.18,
+      "text": "总之一句话说",
+      "avg_logprob": -0.1501,
+      "no_speech_prob": 0.9199,
+      "review": true
+    },
+    {
+      "start": 420.18,
+      "end": 421.5,
+      "text": "现在国内卡拉太阳呢",
+      "avg_logprob": -0.1501,
+      "no_speech_prob": 0.9199,
+      "review": true
+    },
+    {
+      "start": 421.5,
+      "end": 424.02,
+      "text": "估计就是一个讲巴西的和风土",
+      "avg_logprob": -0.1501,
+      "no_speech_prob": 0.9199,
+      "review": true
+    },
+    {
+      "start": 424.02,
+      "end": 425.76,
+      "text": "和自己一些讲生活的",
+      "avg_logprob": -0.1501,
+      "no_speech_prob": 0.9199,
+      "review": true
+    },
+    {
+      "start": 425.76,
+      "end": 426.74,
+      "text": "这个没有任何问题",
+      "avg_logprob": -0.1501,
+      "no_speech_prob": 0.9199,
+      "review": true
+    },
+    {
+      "start": 426.74,
+      "end": 427.86,
+      "text": "你讲其他的",
+      "avg_logprob": -0.1501,
+      "no_speech_prob": 0.9199,
+      "review": true
+    },
+    {
+      "start": 427.86,
+      "end": 429.04,
+      "text": "你真的是不行的",
+      "avg_logprob": -0.1501,
+      "no_speech_prob": 0.9199,
+      "review": true
+    },
+    {
+      "start": 429.04,
+      "end": 429.76,
+      "text": "你讲其他的",
+      "avg_logprob": -0.1501,
+      "no_speech_prob": 0.9199,
+      "review": true
+    },
+    {
+      "start": 429.76,
+      "end": 430.74,
+      "text": "讲不了了",
+      "avg_logprob": -0.1501,
+      "no_speech_prob": 0.9199,
+      "review": true
+    },
+    {
+      "start": 430.74,
+      "end": 431.4,
+      "text": "现在啊",
+      "avg_logprob": -0.1501,
+      "no_speech_prob": 0.9199,
+      "review": true
+    },
+    {
+      "start": 431.4,
+      "end": 432.32,
+      "text": "现在讲医学",
+      "avg_logprob": -0.1501,
+      "no_speech_prob": 0.9199,
+      "review": true
+    },
+    {
+      "start": 432.32,
+      "end": 432.62,
+      "text": "医学",
+      "avg_logprob": -0.1501,
+      "no_speech_prob": 0.9199,
+      "review": true
+    },
+    {
+      "start": 432.62,
+      "end": 434.36,
+      "text": "所以国内不是个B站吗",
+      "avg_logprob": -0.1501,
+      "no_speech_prob": 0.9199,
+      "review": true
+    },
+    {
+      "start": 434.36,
+      "end": 435.3,
+      "text": "你看我B站",
+      "avg_logprob": -0.1501,
+      "no_speech_prob": 0.9199,
+      "review": true
+    },
+    {
+      "start": 435.3,
+      "end": 436.2,
+      "text": "为什么B站",
+      "avg_logprob": -0.1501,
+      "no_speech_prob": 0.9199,
+      "review": true
+    },
+    {
+      "start": 436.2,
+      "end": 437.78,
+      "text": "B站为什么也发不了",
+      "avg_logprob": -0.1501,
+      "no_speech_prob": 0.9199,
+      "review": true
+    },
+    {
+      "start": 437.78,
+      "end": 438.44,
+      "text": "一直没有发",
+      "avg_logprob": -0.1501,
+      "no_speech_prob": 0.9199,
+      "review": true
+    },
+    {
+      "start": 438.44,
+      "end": 439.88,
+      "text": "就是因为他不让我发",
+      "avg_logprob": -0.1501,
+      "no_speech_prob": 0.9199,
+      "review": true
+    },
+    {
+      "start": 439.88,
+      "end": 440.88,
+      "text": "是我封建微信",
+      "avg_logprob": -0.1501,
+      "no_speech_prob": 0.9199,
+      "review": true
+    },
+    {
+      "start": 440.88,
+      "end": 441.74,
+      "text": "当然哈",
+      "avg_logprob": -0.1501,
+      "no_speech_prob": 0.9199,
+      "review": true
+    },
+    {
+      "start": 441.74,
+      "end": 443.16,
+      "text": "最近终于可以了",
+      "avg_logprob": -0.1501,
+      "no_speech_prob": 0.9199,
+      "review": true
+    },
+    {
+      "start": 443.16,
+      "end": 443.72,
+      "text": "我看",
+      "avg_logprob": -0.1501,
+      "no_speech_prob": 0.9199,
+      "review": true
+    },
+    {
+      "start": 443.72,
+      "end": 446.1,
+      "text": "B站的这个",
+      "avg_logprob": -0.2378,
+      "no_speech_prob": 0.8696,
+      "review": true
+    },
+    {
+      "start": 446.1,
+      "end": 448.74,
+      "text": "B站的云松学艺",
+      "avg_logprob": -0.2378,
+      "no_speech_prob": 0.8696,
+      "review": true
+    },
+    {
+      "start": 448.74,
+      "end": 449.32,
+      "text": "你们来看",
+      "avg_logprob": -0.2378,
+      "no_speech_prob": 0.8696,
+      "review": true
+    },
+    {
+      "start": 449.32,
+      "end": 450.46,
+      "text": "我一直没有发",
+      "avg_logprob": -0.2378,
+      "no_speech_prob": 0.8696,
+      "review": true
+    },
+    {
+      "start": 450.46,
+      "end": 451.04,
+      "text": "为什么呢",
+      "avg_logprob": -0.2378,
+      "no_speech_prob": 0.8696,
+      "review": true
+    },
+    {
+      "start": 451.04,
+      "end": 452.82,
+      "text": "因为他也是不让我",
+      "avg_logprob": -0.2378,
+      "no_speech_prob": 0.8696,
+      "review": true
+    },
+    {
+      "start": 452.82,
+      "end": 453.6,
+      "text": "不让我做",
+      "avg_logprob": -0.2378,
+      "no_speech_prob": 0.8696,
+      "review": true
+    },
+    {
+      "start": 453.6,
+      "end": 455.7,
+      "text": "我看B站在哪里",
+      "avg_logprob": -0.2378,
+      "no_speech_prob": 0.8696,
+      "review": true
+    },
+    {
+      "start": 455.7,
+      "end": 456.14,
+      "text": "在这",
+      "avg_logprob": -0.2378,
+      "no_speech_prob": 0.8696,
+      "review": true
+    },
+    {
+      "start": 456.14,
+      "end": 460.04,
+      "text": "看看",
+      "avg_logprob": -0.2378,
+      "no_speech_prob": 0.8696,
+      "review": true
+    },
+    {
+      "start": 460.04,
+      "end": 460.86,
+      "text": "在这",
+      "avg_logprob": -0.2378,
+      "no_speech_prob": 0.8696,
+      "review": true
+    },
+    {
+      "start": 460.86,
+      "end": 461.84,
+      "text": "你看",
+      "avg_logprob": -0.2378,
+      "no_speech_prob": 0.8696,
+      "review": true
+    },
+    {
+      "start": 461.84,
+      "end": 463.0,
+      "text": "我B站",
+      "avg_logprob": -0.2378,
+      "no_speech_prob": 0.8696,
+      "review": true
+    },
+    {
+      "start": 463.0,
+      "end": 465.38,
+      "text": "我也是前面好几个都不让我发",
+      "avg_logprob": -0.2378,
+      "no_speech_prob": 0.8696,
+      "review": true
+    },
+    {
+      "start": 465.38,
+      "end": 468.79,
+      "text": "这是个啥",
+      "avg_logprob": -0.2378,
+      "no_speech_prob": 0.8696,
+      "review": true
+    },
+    {
+      "start": 468.79,
+      "end": 470.43,
+      "text": "就是",
+      "avg_logprob": -0.2378,
+      "no_speech_prob": 0.8696,
+      "review": true
+    },
+    {
+      "start": 470.43,
+      "end": 471.37,
+      "text": "在这",
+      "avg_logprob": -0.2378,
+      "no_speech_prob": 0.8696,
+      "review": true
+    },
+    {
+      "start": 471.37,
+      "end": 471.69,
+      "text": "在这",
+      "avg_logprob": -0.2378,
+      "no_speech_prob": 0.8696,
+      "review": true
+    },
+    {
+      "start": 471.69,
+      "end": 474.82,
+      "text": "好",
+      "avg_logprob": -0.2378,
+      "no_speech_prob": 0.8696,
+      "review": true
+    },
+    {
+      "start": 474.82,
+      "end": 478.34,
+      "text": "这是哪里的",
+      "avg_logprob": -0.2378,
+      "no_speech_prob": 0.8696,
+      "review": true
+    },
+    {
+      "start": 478.34,
+      "end": 479.0,
+      "text": "主页",
+      "avg_logprob": -0.2378,
+      "no_speech_prob": 0.8696,
+      "review": true
+    },
+    {
+      "start": 479.0,
+      "end": 486.9,
+      "text": "这是什么",
+      "avg_logprob": -0.1483,
+      "no_speech_prob": 0.9702,
+      "review": true
+    },
+    {
+      "start": 486.9,
+      "end": 487.64,
+      "text": "这还是好",
+      "avg_logprob": -0.1483,
+      "no_speech_prob": 0.9702,
+      "review": true
+    },
+    {
+      "start": 487.64,
+      "end": 488.74,
+      "text": "我以前做了巴西的",
+      "avg_logprob": -0.1483,
+      "no_speech_prob": 0.9702,
+      "review": true
+    },
+    {
+      "start": 488.74,
+      "end": 489.5,
+      "text": "我做了巴西的",
+      "avg_logprob": -0.1483,
+      "no_speech_prob": 0.9702,
+      "review": true
+    },
+    {
+      "start": 489.5,
+      "end": 491.62,
+      "text": "投稿在这",
+      "avg_logprob": -0.1483,
+      "no_speech_prob": 0.9702,
+      "review": true
+    },
+    {
+      "start": 491.62,
+      "end": 492.8,
+      "text": "你可以看看投稿",
+      "avg_logprob": -0.1483,
+      "no_speech_prob": 0.9702,
+      "review": true
+    },
+    {
+      "start": 492.8,
+      "end": 494.02,
+      "text": "你看我为什么",
+      "avg_logprob": -0.1483,
+      "no_speech_prob": 0.9702,
+      "review": true
+    },
+    {
+      "start": 494.02,
+      "end": 496.68,
+      "text": "我后面你看中间有几期断了",
+      "avg_logprob": -0.1483,
+      "no_speech_prob": 0.9702,
+      "review": true
+    },
+    {
+      "start": 496.68,
+      "end": 497.6,
+      "text": "中间几期断了",
+      "avg_logprob": -0.1483,
+      "no_speech_prob": 0.9702,
+      "review": true
+    },
+    {
+      "start": 497.6,
+      "end": 498.38,
+      "text": "为什么断了呢",
+      "avg_logprob": -0.1483,
+      "no_speech_prob": 0.9702,
+      "review": true
+    },
+    {
+      "start": 498.38,
+      "end": 499.92,
+      "text": "就是因为他东东不让放",
+      "avg_logprob": -0.1483,
+      "no_speech_prob": 0.9702,
+      "review": true
+    },
+    {
+      "start": 499.92,
+      "end": 501.02,
+      "text": "他说我封建迷信",
+      "avg_logprob": -0.1483,
+      "no_speech_prob": 0.9702,
+      "review": true
+    },
+    {
+      "start": 501.02,
+      "end": 502.16,
+      "text": "所以能放哪些",
+      "avg_logprob": -0.1483,
+      "no_speech_prob": 0.9702,
+      "review": true
+    },
+    {
+      "start": 502.16,
+      "end": 502.76,
+      "text": "我根本不知道",
+      "avg_logprob": -0.1483,
+      "no_speech_prob": 0.9702,
+      "review": true
+    },
+    {
+      "start": 502.76,
+      "end": 504.12,
+      "text": "国内能放就放吧",
+      "avg_logprob": -0.1483,
+      "no_speech_prob": 0.9702,
+      "review": true
+    },
+    {
+      "start": 504.12,
+      "end": 504.7,
+      "text": "不能放呢",
+      "avg_logprob": -0.1483,
+      "no_speech_prob": 0.9702,
+      "review": true
+    },
+    {
+      "start": 504.7,
+      "end": 505.18,
+      "text": "我到时候",
+      "avg_logprob": -0.1483,
+      "no_speech_prob": 0.9702,
+      "review": true
+    },
+    {
+      "start": 505.18,
+      "end": 506.56,
+      "text": "我是这么想的",
+      "avg_logprob": -0.1483,
+      "no_speech_prob": 0.9702,
+      "review": true
+    },
+    {
+      "start": 506.56,
+      "end": 509.4,
+      "text": "我是准备现在把知识星球开通",
+      "avg_logprob": -0.1483,
+      "no_speech_prob": 0.9702,
+      "review": true
+    },
+    {
+      "start": 509.4,
+      "end": 510.78,
+      "text": "但是开通知识星球呢",
+      "avg_logprob": -0.1483,
+      "no_speech_prob": 0.9702,
+      "review": true
+    },
+    {
+      "start": 510.78,
+      "end": 511.92,
+      "text": "也有一些问题啊",
+      "avg_logprob": -0.1261,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 511.92,
+      "end": 512.54,
+      "text": "我今天还在弄",
+      "avg_logprob": -0.1261,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 512.54,
+      "end": 514.96,
+      "text": "就是因为我有公司的名义开通",
+      "avg_logprob": -0.1261,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 514.96,
+      "end": 516.32,
+      "text": "把知识星球开通",
+      "avg_logprob": -0.1261,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 516.32,
+      "end": 517.08,
+      "text": "以后呢",
+      "avg_logprob": -0.1261,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 517.08,
+      "end": 518.54,
+      "text": "就是这些医学也好啊",
+      "avg_logprob": -0.1261,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 518.54,
+      "end": 519.46,
+      "text": "交易也好啊",
+      "avg_logprob": -0.1261,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 519.46,
+      "end": 520.78,
+      "text": "等到明年网站关闭了",
+      "avg_logprob": -0.1261,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 520.78,
+      "end": 522.64,
+      "text": "我全部放在知识星球啊",
+      "avg_logprob": -0.1261,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 522.64,
+      "end": 523.46,
+      "text": "所以大家到时候",
+      "avg_logprob": -0.1261,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 523.46,
+      "end": 525.4,
+      "text": "我的知识星球好了之后啊",
+      "avg_logprob": -0.1261,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 525.4,
+      "end": 526.96,
+      "text": "我会给大家",
+      "avg_logprob": -0.1261,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 526.96,
+      "end": 528.66,
+      "text": "马上告诉大家啊",
+      "avg_logprob": -0.1261,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 528.66,
+      "end": 529.18,
+      "text": "总之呢",
+      "avg_logprob": -0.1261,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 529.18,
+      "end": 530.2,
+      "text": "我就提前跟大家说一下",
+      "avg_logprob": -0.1261,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 530.2,
+      "end": 531.12,
+      "text": "我的规划",
+      "avg_logprob": -0.1261,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 531.12,
+      "end": 532.02,
+      "text": "我的规划呢",
+      "avg_logprob": -0.1261,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 532.02,
+      "end": 533.28,
+      "text": "可能是最这个月底开始",
+      "avg_logprob": -0.1261,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 533.28,
+      "end": 535.32,
+      "text": "我就开始在整个巴西去玩了",
+      "avg_logprob": -0.1261,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 535.32,
+      "end": 536.5,
+      "text": "当然不是玩啊",
+      "avg_logprob": -0.1261,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 536.5,
+      "end": 537.12,
+      "text": "也是去工作",
+      "avg_logprob": -0.1261,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 537.12,
+      "end": 538.3,
+      "text": "只是说",
+      "avg_logprob": -0.1261,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 538.3,
+      "end": 539.4,
+      "text": "我想拍视频",
+      "avg_logprob": -0.1261,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 539.4,
+      "end": 540.74,
+      "text": "不管我是拍风图人情",
+      "avg_logprob": -0.1261,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 540.74,
+      "end": 543.08,
+      "text": "我是拍社会热点也好",
+      "avg_logprob": -0.1369,
+      "no_speech_prob": 0.8257,
+      "review": true
+    },
+    {
+      "start": 543.08,
+      "end": 544.74,
+      "text": "我是拍巴西的节目也好",
+      "avg_logprob": -0.1369,
+      "no_speech_prob": 0.8257,
+      "review": true
+    },
+    {
+      "start": 544.74,
+      "end": 546.3,
+      "text": "我是讲教育讲哲学也好",
+      "avg_logprob": -0.1369,
+      "no_speech_prob": 0.8257,
+      "review": true
+    },
+    {
+      "start": 546.3,
+      "end": 548.1,
+      "text": "我就不想待在办公室讲",
+      "avg_logprob": -0.1369,
+      "no_speech_prob": 0.8257,
+      "review": true
+    },
+    {
+      "start": 548.1,
+      "end": 550.3,
+      "text": "就是我现在就开始边走边讲",
+      "avg_logprob": -0.1369,
+      "no_speech_prob": 0.8257,
+      "review": true
+    },
+    {
+      "start": 550.3,
+      "end": 552.04,
+      "text": "去找一些比较漂亮的地方",
+      "avg_logprob": -0.1369,
+      "no_speech_prob": 0.8257,
+      "review": true
+    },
+    {
+      "start": 552.04,
+      "end": 553.9,
+      "text": "同时给大家录医学呀",
+      "avg_logprob": -0.1369,
+      "no_speech_prob": 0.8257,
+      "review": true
+    },
+    {
+      "start": 553.9,
+      "end": 555.34,
+      "text": "录交易呀",
+      "avg_logprob": -0.1369,
+      "no_speech_prob": 0.8257,
+      "review": true
+    },
+    {
+      "start": 555.34,
+      "end": 556.26,
+      "text": "录所有的节目",
+      "avg_logprob": -0.1369,
+      "no_speech_prob": 0.8257,
+      "review": true
+    },
+    {
+      "start": 556.26,
+      "end": 557.76,
+      "text": "但是就是在路上的感觉",
+      "avg_logprob": -0.1369,
+      "no_speech_prob": 0.8257,
+      "review": true
+    },
+    {
+      "start": 557.76,
+      "end": 559.22,
+      "text": "就是一直从北到南",
+      "avg_logprob": -0.1369,
+      "no_speech_prob": 0.8257,
+      "review": true
+    },
+    {
+      "start": 559.22,
+      "end": 561.06,
+      "text": "开始慢慢的开始走巴西了",
+      "avg_logprob": -0.1369,
+      "no_speech_prob": 0.8257,
+      "review": true
+    },
+    {
+      "start": 561.06,
+      "end": 562.42,
+      "text": "所以就跟大家说一下",
+      "avg_logprob": -0.1369,
+      "no_speech_prob": 0.8257,
+      "review": true
+    },
+    {
+      "start": 562.42,
+      "end": 563.7,
+      "text": "开始的",
+      "avg_logprob": -0.1369,
+      "no_speech_prob": 0.8257,
+      "review": true
+    },
+    {
+      "start": 563.7,
+      "end": 565.16,
+      "text": "到了开始的时候",
+      "avg_logprob": -0.1369,
+      "no_speech_prob": 0.8257,
+      "review": true
+    },
+    {
+      "start": 565.16,
+      "end": 566.6,
+      "text": "比如我的国内短视频",
+      "avg_logprob": -0.1369,
+      "no_speech_prob": 0.8257,
+      "review": true
+    },
+    {
+      "start": 566.6,
+      "end": 567.86,
+      "text": "开始了之后啊",
+      "avg_logprob": -0.1369,
+      "no_speech_prob": 0.8257,
+      "review": true
+    },
+    {
+      "start": 567.86,
+      "end": 569.44,
+      "text": "我会专门做一期节目",
+      "avg_logprob": -0.1369,
+      "no_speech_prob": 0.8257,
+      "review": true
+    },
+    {
+      "start": 569.44,
+      "end": 571.66,
+      "text": "给大家说一下我的短视频是什么名字",
+      "avg_logprob": -0.1086,
+      "no_speech_prob": 0.3735,
+      "review": false
+    },
+    {
+      "start": 571.66,
+      "end": 573.46,
+      "text": "希望大家继续关注啊",
+      "avg_logprob": -0.1086,
+      "no_speech_prob": 0.3735,
+      "review": false
+    },
+    {
+      "start": 573.46,
+      "end": 576.48,
+      "text": "这一次呢我就会应该是比较慢慢的好",
+      "avg_logprob": -0.1086,
+      "no_speech_prob": 0.3735,
+      "review": false
+    },
+    {
+      "start": 576.48,
+      "end": 579.36,
+      "text": "然后这半年呢我慢慢的做起来之后啊",
+      "avg_logprob": -0.1086,
+      "no_speech_prob": 0.3735,
+      "review": false
+    },
+    {
+      "start": 579.36,
+      "end": 580.68,
+      "text": "我油管这个",
+      "avg_logprob": -0.1086,
+      "no_speech_prob": 0.3735,
+      "review": false
+    },
+    {
+      "start": 580.68,
+      "end": 584.88,
+      "text": "就是再过两三个月油管的每日分析就关闭了",
+      "avg_logprob": -0.1086,
+      "no_speech_prob": 0.3735,
+      "review": false
+    },
+    {
+      "start": 584.88,
+      "end": 587.44,
+      "text": "然后呢我们以后的主要的经历啊",
+      "avg_logprob": -0.1086,
+      "no_speech_prob": 0.3735,
+      "review": false
+    },
+    {
+      "start": 587.44,
+      "end": 588.58,
+      "text": "就是给大家做公开课",
+      "avg_logprob": -0.1086,
+      "no_speech_prob": 0.3735,
+      "review": false
+    },
+    {
+      "start": 588.58,
+      "end": 591.02,
+      "text": "还有就是给大家做其他的一些频道啊",
+      "avg_logprob": -0.1086,
+      "no_speech_prob": 0.3735,
+      "review": false
+    },
+    {
+      "start": 591.02,
+      "end": 592.34,
+      "text": "但是我直播会做的放心",
+      "avg_logprob": -0.1086,
+      "no_speech_prob": 0.3735,
+      "review": false
+    },
+    {
+      "start": 592.34,
+      "end": 594.68,
+      "text": "我直播也会很也会做很多的",
+      "avg_logprob": -0.1086,
+      "no_speech_prob": 0.3735,
+      "review": false
+    },
+    {
+      "start": 594.68,
+      "end": 596.12,
+      "text": "因为当我国外就没问题",
+      "avg_logprob": -0.1086,
+      "no_speech_prob": 0.3735,
+      "review": false
+    },
+    {
+      "start": 596.12,
+      "end": 599.28,
+      "text": "我可以买那个Elon Musk那个那个那个卫星嘛",
+      "avg_logprob": -0.1086,
+      "no_speech_prob": 0.3735,
+      "review": false
+    },
+    {
+      "start": 599.28,
+      "end": 600.22,
+      "text": "威胁上网",
+      "avg_logprob": -0.2036,
+      "no_speech_prob": 0.0071,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 62.84
+}

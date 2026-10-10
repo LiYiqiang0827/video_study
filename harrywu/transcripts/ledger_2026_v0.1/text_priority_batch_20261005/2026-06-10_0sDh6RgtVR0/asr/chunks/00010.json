@@ -1,0 +1,688 @@
+{
+  "begin": 3000.0,
+  "finish": 3300.0,
+  "segments": [
+    {
+      "start": 2998.0,
+      "end": 3027.98,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1045,
+      "no_speech_prob": 0.627,
+      "review": true
+    },
+    {
+      "start": 3028.0,
+      "end": 3033.22,
+      "text": "你天天做日内交易,你天天做,你必亏,你的亏损概率是百分之百",
+      "avg_logprob": -0.106,
+      "no_speech_prob": 0.2595,
+      "review": false
+    },
+    {
+      "start": 3033.22,
+      "end": 3039.14,
+      "text": "如果你一周能够只做两三天,你的概率马上提升",
+      "avg_logprob": -0.106,
+      "no_speech_prob": 0.2595,
+      "review": false
+    },
+    {
+      "start": 3039.14,
+      "end": 3046.16,
+      "text": "所以说就是你一周能够到了完美的点位,你去做一做就足够了",
+      "avg_logprob": -0.106,
+      "no_speech_prob": 0.2595,
+      "review": false
+    },
+    {
+      "start": 3046.16,
+      "end": 3047.48,
+      "text": "不要每天都做,好不好",
+      "avg_logprob": -0.106,
+      "no_speech_prob": 0.2595,
+      "review": false
+    },
+    {
+      "start": 3047.48,
+      "end": 3051.8,
+      "text": "他没有到完美点位,你就不要做,忍住,忍住不要做",
+      "avg_logprob": -0.106,
+      "no_speech_prob": 0.2595,
+      "review": false
+    },
+    {
+      "start": 3051.8,
+      "end": 3056.18,
+      "text": "到了完美点位,你去做两笔,几乎都是赚钱的",
+      "avg_logprob": -0.106,
+      "no_speech_prob": 0.2595,
+      "review": false
+    },
+    {
+      "start": 3056.18,
+      "end": 3062.22,
+      "text": "是的,是的,最近要格外注意",
+      "avg_logprob": -0.2044,
+      "no_speech_prob": 0.1426,
+      "review": false
+    },
+    {
+      "start": 3062.22,
+      "end": 3065.0,
+      "text": "我还在盯这个盘呢",
+      "avg_logprob": -0.2044,
+      "no_speech_prob": 0.1426,
+      "review": false
+    },
+    {
+      "start": 3065.0,
+      "end": 3069.02,
+      "text": "这个得方,这个真的是好差啊",
+      "avg_logprob": -0.2044,
+      "no_speech_prob": 0.1426,
+      "review": false
+    },
+    {
+      "start": 3069.02,
+      "end": 3070.92,
+      "text": "太差了,怎么这么差",
+      "avg_logprob": -0.2044,
+      "no_speech_prob": 0.1426,
+      "review": false
+    },
+    {
+      "start": 3070.92,
+      "end": 3075.72,
+      "text": "所以说跌啊,真的是跌无,跌是没有止境的",
+      "avg_logprob": -0.2044,
+      "no_speech_prob": 0.1426,
+      "review": false
+    },
+    {
+      "start": 3075.72,
+      "end": 3078.33,
+      "text": "跌无止境的",
+      "avg_logprob": -0.2044,
+      "no_speech_prob": 0.1426,
+      "review": false
+    },
+    {
+      "start": 3078.33,
+      "end": 3083.21,
+      "text": "这些你看,根本就没有一个什么底啊什么的",
+      "avg_logprob": -0.2044,
+      "no_speech_prob": 0.1426,
+      "review": false
+    },
+    {
+      "start": 3083.21,
+      "end": 3085.51,
+      "text": "像这种,它有可能还走个加速呢",
+      "avg_logprob": -0.2044,
+      "no_speech_prob": 0.1426,
+      "review": false
+    },
+    {
+      "start": 3085.51,
+      "end": 3089.29,
+      "text": "但是它真的不应该跌了",
+      "avg_logprob": -0.2044,
+      "no_speech_prob": 0.1426,
+      "review": false
+    },
+    {
+      "start": 3089.29,
+      "end": 3090.23,
+      "text": "这些位置真的是",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.8721,
+      "review": true
+    },
+    {
+      "start": 3090.23,
+      "end": 3092.59,
+      "text": "这真的是",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.8721,
+      "review": true
+    },
+    {
+      "start": 3092.59,
+      "end": 3094.99,
+      "text": "但是你说有什么用",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.8721,
+      "review": true
+    },
+    {
+      "start": 3094.99,
+      "end": 3095.43,
+      "text": "没有用",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.8721,
+      "review": true
+    },
+    {
+      "start": 3095.43,
+      "end": 3097.55,
+      "text": "你怎么分析都没用",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.8721,
+      "review": true
+    },
+    {
+      "start": 3097.55,
+      "end": 3099.13,
+      "text": "它只要不是热点题材",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.8721,
+      "review": true
+    },
+    {
+      "start": 3099.13,
+      "end": 3101.01,
+      "text": "你看最近它只要不是这种热点题材",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.8721,
+      "review": true
+    },
+    {
+      "start": 3101.01,
+      "end": 3103.13,
+      "text": "它最近涨的还是这些",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.8721,
+      "review": true
+    },
+    {
+      "start": 3103.13,
+      "end": 3103.97,
+      "text": "电子测器",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.8721,
+      "review": true
+    },
+    {
+      "start": 3103.97,
+      "end": 3109.82,
+      "text": "其他的白酒是过来想压一下指数的",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.8721,
+      "review": true
+    },
+    {
+      "start": 3109.82,
+      "end": 3110.84,
+      "text": "但是拿不起来",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.8721,
+      "review": true
+    },
+    {
+      "start": 3110.84,
+      "end": 3111.94,
+      "text": "这我觉得很难很难",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.8721,
+      "review": true
+    },
+    {
+      "start": 3111.94,
+      "end": 3113.06,
+      "text": "根本也不碰",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.8721,
+      "review": true
+    },
+    {
+      "start": 3113.06,
+      "end": 3121.19,
+      "text": "反正也没有啥",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.8721,
+      "review": true
+    },
+    {
+      "start": 3121.19,
+      "end": 3122.13,
+      "text": "其实就是给大家",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.8721,
+      "review": true
+    },
+    {
+      "start": 3122.13,
+      "end": 3124.35,
+      "text": "其实就是给大家聊一聊",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.8721,
+      "review": true
+    },
+    {
+      "start": 3124.35,
+      "end": 3127.61,
+      "text": "就是给大家聊一聊",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.8721,
+      "review": true
+    },
+    {
+      "start": 3127.61,
+      "end": 3145.33,
+      "text": "吃素的风气如何?拉美怎么可能吃素呢?你要把他们杀了,他不会吃素啊。拉美人是全世界生产牛肉这么多的一个牛肉,人均每年吃几头牛的国家,他怎么可能吃素呢?是不可能的啊,一丁点的不可能吃素啊。",
+      "avg_logprob": -0.1,
+      "no_speech_prob": 0.2153,
+      "review": false
+    },
+    {
+      "start": 3145.33,
+      "end": 3176.78,
+      "text": "好,其他的也没有啥啊,就是跟大家聊聊天啊,今天我也不想多聊啊,就是主要就是给大家说一下,不管美股美股,美股你们可以有你们的途径,A股呢就是反正我现在每天都是研究题材,特别是新的题材,那么有的题材已经长了很久了,像我说的像什么硅片啊,电子特企啊都长疯了,基本上我就我们也不碰了,至少正好比如头两天,因为第一天也不好判断,但是第二天第三天,这个一个新的题材,",
+      "avg_logprob": -0.085,
+      "no_speech_prob": 0.3821,
+      "review": false
+    },
+    {
+      "start": 3176.8,
+      "end": 3206.54,
+      "text": "新的板块,科技板块能够起来,我们就去做,没有的话就一定要等待,我们一定要继续等待,好不好,就是我们一定要从把简单的技术分析,或者是说我们平时习惯的技术分析,我们一定要多转为研究题材,这是我认为A股,我们一定能够赚大钱,大家都能够实现财富自由,真正的所谓的秘诀,而我们学习技术分析就是找到完美的点,",
+      "avg_logprob": -0.0509,
+      "no_speech_prob": 0.415,
+      "review": false
+    },
+    {
+      "start": 3206.8,
+      "end": 3208.12,
+      "text": "找到完美的点",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.3184,
+      "review": false
+    },
+    {
+      "start": 3208.12,
+      "end": 3209.94,
+      "text": "找到完美的启动点",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.3184,
+      "review": false
+    },
+    {
+      "start": 3209.94,
+      "end": 3211.0,
+      "text": "或者是终极点",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.3184,
+      "review": false
+    },
+    {
+      "start": 3211.0,
+      "end": 3212.28,
+      "text": "但是呢",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.3184,
+      "review": false
+    },
+    {
+      "start": 3212.28,
+      "end": 3213.54,
+      "text": "能不能赚钱",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.3184,
+      "review": false
+    },
+    {
+      "start": 3213.54,
+      "end": 3214.74,
+      "text": "能不能持有",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.3184,
+      "review": false
+    },
+    {
+      "start": 3214.74,
+      "end": 3216.38,
+      "text": "还是全靠逻辑",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.3184,
+      "review": false
+    },
+    {
+      "start": 3216.38,
+      "end": 3217.94,
+      "text": "全靠题材分析",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.3184,
+      "review": false
+    },
+    {
+      "start": 3217.94,
+      "end": 3218.42,
+      "text": "好不好",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.3184,
+      "review": false
+    },
+    {
+      "start": 3218.42,
+      "end": 3220.1,
+      "text": "大概就是这样子",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.3184,
+      "review": false
+    },
+    {
+      "start": 3220.1,
+      "end": 3221.66,
+      "text": "其他的其实我也没有啥",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.3184,
+      "review": false
+    },
+    {
+      "start": 3221.66,
+      "end": 3226.68,
+      "text": "讲到我也能够完全了解波动率",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.3184,
+      "review": false
+    },
+    {
+      "start": 3226.68,
+      "end": 3229.0,
+      "text": "波动率不是都甚至有一个波动率吗",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.3184,
+      "review": false
+    },
+    {
+      "start": 3229.0,
+      "end": 3229.46,
+      "text": "他专门",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.3184,
+      "review": false
+    },
+    {
+      "start": 3229.46,
+      "end": 3230.92,
+      "text": "哎呀这个这个隐含波动率",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.3184,
+      "review": false
+    },
+    {
+      "start": 3230.92,
+      "end": 3231.8,
+      "text": "这个东西",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.3184,
+      "review": false
+    },
+    {
+      "start": 3231.8,
+      "end": 3233.62,
+      "text": "哎呀这东西都很难的",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.3184,
+      "review": false
+    },
+    {
+      "start": 3233.62,
+      "end": 3234.56,
+      "text": "这东西做期权",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.3184,
+      "review": false
+    },
+    {
+      "start": 3234.56,
+      "end": 3235.8,
+      "text": "隐含波动率",
+      "avg_logprob": -0.1303,
+      "no_speech_prob": 0.3184,
+      "review": false
+    },
+    {
+      "start": 3235.8,
+      "end": 3238.7,
+      "text": "还有它本身这个隐含波动率是吧",
+      "avg_logprob": -0.1288,
+      "no_speech_prob": 0.3672,
+      "review": false
+    },
+    {
+      "start": 3238.7,
+      "end": 3240.04,
+      "text": "但是其实这个东西",
+      "avg_logprob": -0.1288,
+      "no_speech_prob": 0.3672,
+      "review": false
+    },
+    {
+      "start": 3240.04,
+      "end": 3244.34,
+      "text": "我个人觉得很少有书上讲",
+      "avg_logprob": -0.1288,
+      "no_speech_prob": 0.3672,
+      "review": false
+    },
+    {
+      "start": 3244.34,
+      "end": 3245.38,
+      "text": "期权的书上有讲",
+      "avg_logprob": -0.1288,
+      "no_speech_prob": 0.3672,
+      "review": false
+    },
+    {
+      "start": 3245.38,
+      "end": 3246.34,
+      "text": "但是那个讲的也不好",
+      "avg_logprob": -0.1288,
+      "no_speech_prob": 0.3672,
+      "review": false
+    },
+    {
+      "start": 3246.34,
+      "end": 3249.62,
+      "text": "我个人还是说你认真的去看",
+      "avg_logprob": -0.1288,
+      "no_speech_prob": 0.3672,
+      "review": false
+    },
+    {
+      "start": 3249.62,
+      "end": 3251.78,
+      "text": "我的日类交易秘诀这个东西",
+      "avg_logprob": -0.1288,
+      "no_speech_prob": 0.3672,
+      "review": false
+    },
+    {
+      "start": 3251.78,
+      "end": 3253.08,
+      "text": "你已经理解波动率了",
+      "avg_logprob": -0.1288,
+      "no_speech_prob": 0.3672,
+      "review": false
+    },
+    {
+      "start": 3253.08,
+      "end": 3254.84,
+      "text": "因为它都有个统计的",
+      "avg_logprob": -0.1288,
+      "no_speech_prob": 0.3672,
+      "review": false
+    },
+    {
+      "start": 3254.84,
+      "end": 3256.66,
+      "text": "你看我日类交易秘诀里面",
+      "avg_logprob": -0.1288,
+      "no_speech_prob": 0.3672,
+      "review": false
+    },
+    {
+      "start": 3256.66,
+      "end": 3257.9,
+      "text": "有很多统计嘛",
+      "avg_logprob": -0.1288,
+      "no_speech_prob": 0.3672,
+      "review": false
+    },
+    {
+      "start": 3257.9,
+      "end": 3258.42,
+      "text": "你看一下",
+      "avg_logprob": -0.1288,
+      "no_speech_prob": 0.3672,
+      "review": false
+    },
+    {
+      "start": 3258.42,
+      "end": 3259.82,
+      "text": "我日类交易秘诀",
+      "avg_logprob": -0.1288,
+      "no_speech_prob": 0.3672,
+      "review": false
+    },
+    {
+      "start": 3259.82,
+      "end": 3261.12,
+      "text": "短线交易秘诀里面",
+      "avg_logprob": -0.1288,
+      "no_speech_prob": 0.3672,
+      "review": false
+    },
+    {
+      "start": 3261.12,
+      "end": 3262.66,
+      "text": "我有很多数学统计的",
+      "avg_logprob": -0.1288,
+      "no_speech_prob": 0.3672,
+      "review": false
+    },
+    {
+      "start": 3262.66,
+      "end": 3264.42,
+      "text": "我不是在那边拍脑袋的",
+      "avg_logprob": -0.1288,
+      "no_speech_prob": 0.3672,
+      "review": false
+    },
+    {
+      "start": 3264.42,
+      "end": 3267.92,
+      "text": "你看这个播放列表里面",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.3457,
+      "review": false
+    },
+    {
+      "start": 3267.92,
+      "end": 3270.43,
+      "text": "这里面有很多统计的",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.3457,
+      "review": false
+    },
+    {
+      "start": 3270.43,
+      "end": 3272.51,
+      "text": "就是这个日内交易",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.3457,
+      "review": false
+    },
+    {
+      "start": 3272.51,
+      "end": 3273.95,
+      "text": "日内交易石盘",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.3457,
+      "review": false
+    },
+    {
+      "start": 3273.95,
+      "end": 3276.81,
+      "text": "这里面有很多统计的",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.3457,
+      "review": false
+    },
+    {
+      "start": 3276.81,
+      "end": 3278.61,
+      "text": "一些数学统计的",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.3457,
+      "review": false
+    },
+    {
+      "start": 3278.61,
+      "end": 3280.73,
+      "text": "一些哪种情况",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.3457,
+      "review": false
+    },
+    {
+      "start": 3280.73,
+      "end": 3281.43,
+      "text": "这个没有",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.3457,
+      "review": false
+    },
+    {
+      "start": 3281.43,
+      "end": 3283.67,
+      "text": "这个这是期货吧",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.3457,
+      "review": false
+    },
+    {
+      "start": 3283.67,
+      "end": 3285.79,
+      "text": "我说这个期权的里面有一个统计",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.3457,
+      "review": false
+    },
+    {
+      "start": 3285.79,
+      "end": 3288.07,
+      "text": "单腿末日期权稳定力教程",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.3457,
+      "review": false
+    },
+    {
+      "start": 3288.07,
+      "end": 3292.45,
+      "text": "你看这里面有很多的统计的基本概念",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.3457,
+      "review": false
+    },
+    {
+      "start": 3292.45,
+      "end": 3296.72,
+      "text": "你看,由他这个实验的数据分析的",
+      "avg_logprob": -0.1591,
+      "no_speech_prob": 0.9897,
+      "review": true
+    },
+    {
+      "start": 3296.72,
+      "end": 3299.54,
+      "text": "对他这些数据分析,这个其实也是一个波动率",
+      "avg_logprob": -0.1591,
+      "no_speech_prob": 0.9897,
+      "review": true
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 27.19
+}

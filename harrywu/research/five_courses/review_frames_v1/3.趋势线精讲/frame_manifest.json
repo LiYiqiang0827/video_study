@@ -1,0 +1,189 @@
+{
+  "schema": 1,
+  "source": "C:\\Users\\HarryWu_IOKI\\Videos\\飞云双突破\\For GPT\\3.趋势线精讲.mkv",
+  "duration": 1248.85,
+  "params": {
+    "source_sha256": "afe8ddf5cea9b7646574fae376025b7ecfe0e0cda9ddc90398914f742311a8ff",
+    "times": [
+      0.5,
+      60.5,
+      120.5,
+      180.5,
+      240.5,
+      300.5,
+      360.5,
+      420.5,
+      480.5,
+      540.5,
+      600.5,
+      660.5,
+      720.5,
+      780.5,
+      840.5,
+      900.5,
+      960.5,
+      1020.5,
+      1080.5,
+      1140.5,
+      1200.5
+    ],
+    "method": "accurate-seek-copyts-original-v1"
+  },
+  "frames": [
+    {
+      "requested_time": 0.5,
+      "time": 0.5,
+      "decoded_pts": 0.5,
+      "frame": "frame_00000_000000500.jpg",
+      "sha256": "ddb3e3967cd11ddfccbe2a428d2f706c5992f687ebd92b0feec0f03d915a5ca8"
+    },
+    {
+      "requested_time": 60.5,
+      "time": 60.5,
+      "decoded_pts": 60.5,
+      "frame": "frame_00001_000060500.jpg",
+      "sha256": "c8cb76421d814935f4aa1b831370b31831c93aa001dafdc750a259429672fc1f"
+    },
+    {
+      "requested_time": 120.5,
+      "time": 120.5,
+      "decoded_pts": 120.5,
+      "frame": "frame_00002_000120500.jpg",
+      "sha256": "0258b936e864241f363a37231a4946e35fa8cab0a1e9104ed241cfa0e4759251"
+    },
+    {
+      "requested_time": 180.5,
+      "time": 180.5,
+      "decoded_pts": 180.5,
+      "frame": "frame_00003_000180500.jpg",
+      "sha256": "a25f3bb57b22867538191cc5d02038e82f0bbda2741d126830194825e813b4c1"
+    },
+    {
+      "requested_time": 240.5,
+      "time": 240.5,
+      "decoded_pts": 240.5,
+      "frame": "frame_00004_000240500.jpg",
+      "sha256": "c871b24873276178febd756fa6fefbf63c5eee4107fead44e3bfab4f34352c36"
+    },
+    {
+      "requested_time": 300.5,
+      "time": 300.5,
+      "decoded_pts": 300.5,
+      "frame": "frame_00005_000300500.jpg",
+      "sha256": "fce4e22780dc18f6697379a0856742e549e2065fa208c36b2543cf228511b94d"
+    },
+    {
+      "requested_time": 360.5,
+      "time": 360.5,
+      "decoded_pts": 360.5,
+      "frame": "frame_00006_000360500.jpg",
+      "sha256": "c1863372e0a8752cb9e0afbbd3a17836b8fcd1eb7e2619765ddbf8dbac8ee0d1"
+    },
+    {
+      "requested_time": 420.5,
+      "time": 420.5,
+      "decoded_pts": 420.5,
+      "frame": "frame_00007_000420500.jpg",
+      "sha256": "9ee8aa6a89408ffe611625e34ef4cb8174a36977171d5260e088c439bb603728"
+    },
+    {
+      "requested_time": 480.5,
+      "time": 480.5,
+      "decoded_pts": 480.5,
+      "frame": "frame_00008_000480500.jpg",
+      "sha256": "e0bd6ba0f925d546e0557cdcfcd10a63d5f9f1d4c7ab5536f0f9268e29905176"
+    },
+    {
+      "requested_time": 540.5,
+      "time": 540.5,
+      "decoded_pts": 540.5,
+      "frame": "frame_00009_000540500.jpg",
+      "sha256": "fc718d0bd04d7f426fa961c7ced66a9316a3199498be86f37dc9cc5d3fcfb8da"
+    },
+    {
+      "requested_time": 600.5,
+      "time": 600.5,
+      "decoded_pts": 600.5,
+      "frame": "frame_00010_000600500.jpg",
+      "sha256": "01d4ab082472f2fa19e70c30ac344b3e3e5e30155976c5814997e64a59065f50"
+    },
+    {
+      "requested_time": 660.5,
+      "time": 660.5,
+      "decoded_pts": 660.5,
+      "frame": "frame_00011_000660500.jpg",
+      "sha256": "e0d88bebe8df5f20de6c12ec14b0bcc255106308633e62ba7374de3eac890f13"
+    },
+    {
+      "requested_time": 720.5,
+      "time": 720.5,
+      "decoded_pts": 720.5,
+      "frame": "frame_00012_000720500.jpg",
+      "sha256": "97f97886519d2a59883c1af50e809da0727c4697307517bc844070ac70f20eae"
+    },
+    {
+      "requested_time": 780.5,
+      "time": 780.5,
+      "decoded_pts": 780.5,
+      "frame": "frame_00013_000780500.jpg",
+      "sha256": "49fb4b0fd83af29282ffc3410be32aff6b5fdc9a7509ea988f1da01f64032178"
+    },
+    {
+      "requested_time": 840.5,
+      "time": 840.5,
+      "decoded_pts": 840.5,
+      "frame": "frame_00014_000840500.jpg",
+      "sha256": "03137bc626c8489aad999338f5ba33d51ee883f633b6864012f94bae6d31cf03"
+    },
+    {
+      "requested_time": 900.5,
+      "time": 900.5,
+      "decoded_pts": 900.5,
+      "frame": "frame_00015_000900500.jpg",
+      "sha256": "fe8e9f64480e01d53f17dfc058e9f2649dc99ef0d162eac5d28bc56caba65b3f"
+    },
+    {
+      "requested_time": 960.5,
+      "time": 960.5,
+      "decoded_pts": 960.5,
+      "frame": "frame_00016_000960500.jpg",
+      "sha256": "54ceb99a63a364b95cba384ee16e87043381fb42191c3421e3a2527548f495d3"
+    },
+    {
+      "requested_time": 1020.5,
+      "time": 1020.5,
+      "decoded_pts": 1020.5,
+      "frame": "frame_00017_001020500.jpg",
+      "sha256": "b55b769900546cfc25c00b7bfb632355447cadb8c4bfbac18a590af1dbee22f2"
+    },
+    {
+      "requested_time": 1080.5,
+      "time": 1080.5,
+      "decoded_pts": 1080.5,
+      "frame": "frame_00018_001080500.jpg",
+      "sha256": "5d6f1fca220fcd3bff0f9cd0c3e3c81bdff5b48907f065a42dd201ac98f56f71"
+    },
+    {
+      "requested_time": 1140.5,
+      "time": 1140.5,
+      "decoded_pts": 1140.5,
+      "frame": "frame_00019_001140500.jpg",
+      "sha256": "017e3e3ad24ca68bacadd0be3c8409128f819783afb46c5bfbfa722b362f7e7c"
+    },
+    {
+      "requested_time": 1200.5,
+      "time": 1200.5,
+      "decoded_pts": 1200.5,
+      "frame": "frame_00020_001200500.jpg",
+      "sha256": "f9b3721b1a75d920944849187d5295eb341ef781e16defa1ed92f5fbed213aa4"
+    }
+  ],
+  "status": "complete",
+  "sheets": [
+    "sheet_001.jpg",
+    "sheet_002.jpg",
+    "sheet_003.jpg",
+    "sheet_004.jpg"
+  ],
+  "speech_extraction": "C:\\Project Rocket\\output\\feiyun_double_breakout\\platform_large_v3_v1\\3.趋势线精讲_afe8ddf5ce_0s_66f4580d"
+}

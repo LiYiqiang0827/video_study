@@ -1,0 +1,512 @@
+{
+  "begin": 1200.0,
+  "finish": 1500.0,
+  "segments": [
+    {
+      "start": 1201.6,
+      "end": 1206.58,
+      "text": "像这种我是觉得行情没走完的",
+      "avg_logprob": -0.1503,
+      "no_speech_prob": 0.9429,
+      "review": true
+    },
+    {
+      "start": 1206.58,
+      "end": 1207.84,
+      "text": "我是觉得行情没走完",
+      "avg_logprob": -0.1503,
+      "no_speech_prob": 0.9429,
+      "review": true
+    },
+    {
+      "start": 1207.84,
+      "end": 1211.26,
+      "text": "胆子大的话你可以在这买一点点",
+      "avg_logprob": -0.1503,
+      "no_speech_prob": 0.9429,
+      "review": true
+    },
+    {
+      "start": 1211.26,
+      "end": 1212.48,
+      "text": "明天再往下砸的话",
+      "avg_logprob": -0.1503,
+      "no_speech_prob": 0.9429,
+      "review": true
+    },
+    {
+      "start": 1212.48,
+      "end": 1213.98,
+      "text": "开盘低开再买一点点",
+      "avg_logprob": -0.1503,
+      "no_speech_prob": 0.9429,
+      "review": true
+    },
+    {
+      "start": 1213.98,
+      "end": 1215.2,
+      "text": "我是觉得一定没走完",
+      "avg_logprob": -0.1503,
+      "no_speech_prob": 0.9429,
+      "review": true
+    },
+    {
+      "start": 1215.2,
+      "end": 1217.7,
+      "text": "这个位置刚突破",
+      "avg_logprob": -0.1503,
+      "no_speech_prob": 0.9429,
+      "review": true
+    },
+    {
+      "start": 1217.7,
+      "end": 1219.56,
+      "text": "你看刚突破",
+      "avg_logprob": -0.1503,
+      "no_speech_prob": 0.9429,
+      "review": true
+    },
+    {
+      "start": 1219.56,
+      "end": 1222.62,
+      "text": "然后呢这个量又再没有走完",
+      "avg_logprob": -0.1503,
+      "no_speech_prob": 0.9429,
+      "review": true
+    },
+    {
+      "start": 1222.62,
+      "end": 1223.72,
+      "text": "我是觉得没有走完",
+      "avg_logprob": -0.1503,
+      "no_speech_prob": 0.9429,
+      "review": true
+    },
+    {
+      "start": 1223.72,
+      "end": 1224.44,
+      "text": "这个电力",
+      "avg_logprob": -0.1503,
+      "no_speech_prob": 0.9429,
+      "review": true
+    },
+    {
+      "start": 1224.44,
+      "end": 1226.28,
+      "text": "不可能电力这么快走完的",
+      "avg_logprob": -0.1503,
+      "no_speech_prob": 0.9429,
+      "review": true
+    },
+    {
+      "start": 1226.28,
+      "end": 1228.4,
+      "text": "这是什么原因它砸下来我也不知道",
+      "avg_logprob": -0.1503,
+      "no_speech_prob": 0.9429,
+      "review": true
+    },
+    {
+      "start": 1228.4,
+      "end": 1285.98,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1011,
+      "no_speech_prob": 0.4285,
+      "review": false
+    },
+    {
+      "start": 1286.0,
+      "end": 1293.65,
+      "text": "一波一波的,你看,也是一波一波的,几乎都是一波一波的,你看,一波一波的",
+      "avg_logprob": -0.1199,
+      "no_speech_prob": 0.5225,
+      "review": true
+    },
+    {
+      "start": 1293.65,
+      "end": 1300.33,
+      "text": "那么它从16块钱跌到12,我个人觉得又可以了,我个人觉得又可以了",
+      "avg_logprob": -0.1199,
+      "no_speech_prob": 0.5225,
+      "review": true
+    },
+    {
+      "start": 1300.33,
+      "end": 1306.55,
+      "text": "我们把它放到这里面吧,放到一个,加到自行股吧,我个人觉得又可以",
+      "avg_logprob": -0.1199,
+      "no_speech_prob": 0.5225,
+      "review": true
+    },
+    {
+      "start": 1306.55,
+      "end": 1315.07,
+      "text": "像这个位置,基本上像这个位置它从16块钱一口气跌到12,40%跌没了吧,30% 40%跌没了",
+      "avg_logprob": -0.1199,
+      "no_speech_prob": 0.5225,
+      "review": true
+    },
+    {
+      "start": 1315.07,
+      "end": 1317.31,
+      "text": "那么这个位置我觉得也是有反弹的",
+      "avg_logprob": -0.1075,
+      "no_speech_prob": 0.0886,
+      "review": false
+    },
+    {
+      "start": 1317.31,
+      "end": 1320.01,
+      "text": "它只要是股票这个基本面很好",
+      "avg_logprob": -0.1075,
+      "no_speech_prob": 0.0886,
+      "review": false
+    },
+    {
+      "start": 1320.01,
+      "end": 1322.23,
+      "text": "它只要是基本面很优质的",
+      "avg_logprob": -0.1075,
+      "no_speech_prob": 0.0886,
+      "review": false
+    },
+    {
+      "start": 1322.23,
+      "end": 1324.13,
+      "text": "基本面很优质的",
+      "avg_logprob": -0.1075,
+      "no_speech_prob": 0.0886,
+      "review": false
+    },
+    {
+      "start": 1324.13,
+      "end": 1325.63,
+      "text": "基本面很优质",
+      "avg_logprob": -0.1075,
+      "no_speech_prob": 0.0886,
+      "review": false
+    },
+    {
+      "start": 1325.63,
+      "end": 1327.57,
+      "text": "那么跌到关键位就不错",
+      "avg_logprob": -0.1075,
+      "no_speech_prob": 0.0886,
+      "review": false
+    },
+    {
+      "start": 1327.57,
+      "end": 1330.03,
+      "text": "但是基本面不好跌到关键位你不要做",
+      "avg_logprob": -0.1075,
+      "no_speech_prob": 0.0886,
+      "review": false
+    },
+    {
+      "start": 1330.03,
+      "end": 1332.67,
+      "text": "基本面不好跌到关键位就不要做",
+      "avg_logprob": -0.1075,
+      "no_speech_prob": 0.0886,
+      "review": false
+    },
+    {
+      "start": 1332.67,
+      "end": 1353.68,
+      "text": "卖为也是120涨到370",
+      "avg_logprob": -0.1075,
+      "no_speech_prob": 0.0886,
+      "review": false
+    },
+    {
+      "start": 1353.68,
+      "end": 1357.16,
+      "text": "要是它120涨到240它再跌回来我还愿意买",
+      "avg_logprob": -0.1075,
+      "no_speech_prob": 0.0886,
+      "review": false
+    },
+    {
+      "start": 1357.16,
+      "end": 1359.1,
+      "text": "涨到370你翻三倍了",
+      "avg_logprob": -0.1075,
+      "no_speech_prob": 0.0886,
+      "review": false
+    },
+    {
+      "start": 1359.1,
+      "end": 1360.72,
+      "text": "翻三倍这种",
+      "avg_logprob": -0.1075,
+      "no_speech_prob": 0.0886,
+      "review": false
+    },
+    {
+      "start": 1360.72,
+      "end": 1363.9,
+      "text": "黄金股倒是最近可以",
+      "avg_logprob": -0.1151,
+      "no_speech_prob": 0.1937,
+      "review": false
+    },
+    {
+      "start": 1363.9,
+      "end": 1366.32,
+      "text": "黄金我觉得要反弹了",
+      "avg_logprob": -0.1151,
+      "no_speech_prob": 0.1937,
+      "review": false
+    },
+    {
+      "start": 1366.32,
+      "end": 1367.98,
+      "text": "黄金如果反弹的话",
+      "avg_logprob": -0.1151,
+      "no_speech_prob": 0.1937,
+      "review": false
+    },
+    {
+      "start": 1367.98,
+      "end": 1370.2,
+      "text": "黄金股倒是可以再做一做",
+      "avg_logprob": -0.1151,
+      "no_speech_prob": 0.1937,
+      "review": false
+    },
+    {
+      "start": 1370.2,
+      "end": 1372.29,
+      "text": "我个人觉得",
+      "avg_logprob": -0.1151,
+      "no_speech_prob": 0.1937,
+      "review": false
+    },
+    {
+      "start": 1372.29,
+      "end": 1374.31,
+      "text": "我个人觉得黄金是要反弹了",
+      "avg_logprob": -0.1151,
+      "no_speech_prob": 0.1937,
+      "review": false
+    },
+    {
+      "start": 1374.31,
+      "end": 1375.87,
+      "text": "你们觉得呢",
+      "avg_logprob": -0.1151,
+      "no_speech_prob": 0.1937,
+      "review": false
+    },
+    {
+      "start": 1375.87,
+      "end": 1383.95,
+      "text": "等一下",
+      "avg_logprob": -0.1151,
+      "no_speech_prob": 0.1937,
+      "review": false
+    },
+    {
+      "start": 1383.95,
+      "end": 1386.25,
+      "text": "我个人觉得",
+      "avg_logprob": -0.1151,
+      "no_speech_prob": 0.1937,
+      "review": false
+    },
+    {
+      "start": 1386.25,
+      "end": 1387.31,
+      "text": "我等会再回答大家问题",
+      "avg_logprob": -0.1151,
+      "no_speech_prob": 0.1937,
+      "review": false
+    },
+    {
+      "start": 1387.31,
+      "end": 1390.77,
+      "text": "黄金有可能会反弹",
+      "avg_logprob": -0.1151,
+      "no_speech_prob": 0.1937,
+      "review": false
+    },
+    {
+      "start": 1390.77,
+      "end": 1392.43,
+      "text": "那么黄金股",
+      "avg_logprob": -0.1151,
+      "no_speech_prob": 0.1937,
+      "review": false
+    },
+    {
+      "start": 1392.43,
+      "end": 1393.43,
+      "text": "我等会看看黄金股",
+      "avg_logprob": -0.1151,
+      "no_speech_prob": 0.1937,
+      "review": false
+    },
+    {
+      "start": 1393.43,
+      "end": 1395.65,
+      "text": "我觉得黄金倒是有机会的",
+      "avg_logprob": -0.1151,
+      "no_speech_prob": 0.1937,
+      "review": false
+    },
+    {
+      "start": 1395.65,
+      "end": 1396.83,
+      "text": "或者黄金ETF",
+      "avg_logprob": -0.1151,
+      "no_speech_prob": 0.1937,
+      "review": false
+    },
+    {
+      "start": 1396.83,
+      "end": 1404.5,
+      "text": "黄金ETF",
+      "avg_logprob": -0.1836,
+      "no_speech_prob": 0.8354,
+      "review": true
+    },
+    {
+      "start": 1404.5,
+      "end": 1406.98,
+      "text": "我看黄金概念里面有哪些票",
+      "avg_logprob": -0.1836,
+      "no_speech_prob": 0.8354,
+      "review": true
+    },
+    {
+      "start": 1406.98,
+      "end": 1414.03,
+      "text": "黄金概念今天肯定都在跌嘛",
+      "avg_logprob": -0.1836,
+      "no_speech_prob": 0.8354,
+      "review": true
+    },
+    {
+      "start": 1414.03,
+      "end": 1416.23,
+      "text": "黄金都在跌肯定的",
+      "avg_logprob": -0.1836,
+      "no_speech_prob": 0.8354,
+      "review": true
+    },
+    {
+      "start": 1416.23,
+      "end": 1422.36,
+      "text": "黄金倒是",
+      "avg_logprob": -0.1836,
+      "no_speech_prob": 0.8354,
+      "review": true
+    },
+    {
+      "start": 1422.36,
+      "end": 1423.36,
+      "text": "我想一想啊",
+      "avg_logprob": -0.1836,
+      "no_speech_prob": 0.8354,
+      "review": true
+    },
+    {
+      "start": 1423.36,
+      "end": 1424.36,
+      "text": "我看看黄金概念",
+      "avg_logprob": -0.1836,
+      "no_speech_prob": 0.8354,
+      "review": true
+    },
+    {
+      "start": 1424.36,
+      "end": 1430.38,
+      "text": "我在这边搞一个黄金出来",
+      "avg_logprob": -0.1836,
+      "no_speech_prob": 0.8354,
+      "review": true
+    },
+    {
+      "start": 1430.38,
+      "end": 1435.76,
+      "text": "这个东西",
+      "avg_logprob": -0.1836,
+      "no_speech_prob": 0.8354,
+      "review": true
+    },
+    {
+      "start": 1435.76,
+      "end": 1438.99,
+      "text": "我在这里面搞个黄金出来",
+      "avg_logprob": -0.1836,
+      "no_speech_prob": 0.8354,
+      "review": true
+    },
+    {
+      "start": 1438.99,
+      "end": 1443.52,
+      "text": "自定义板块里面搞个黄金出来",
+      "avg_logprob": -0.1836,
+      "no_speech_prob": 0.8354,
+      "review": true
+    },
+    {
+      "start": 1443.52,
+      "end": 1454.09,
+      "text": "其实有的其他的软件可能更好用",
+      "avg_logprob": -0.1836,
+      "no_speech_prob": 0.8354,
+      "review": true
+    },
+    {
+      "start": 1454.09,
+      "end": 1455.29,
+      "text": "我是用习惯的",
+      "avg_logprob": -0.1836,
+      "no_speech_prob": 0.8354,
+      "review": true
+    },
+    {
+      "start": 1455.29,
+      "end": 1459.48,
+      "text": "我就不想去用其他的黄金啊",
+      "avg_logprob": -0.1836,
+      "no_speech_prob": 0.8354,
+      "review": true
+    },
+    {
+      "start": 1459.48,
+      "end": 1469.11,
+      "text": "诶,这个不能加吗?",
+      "avg_logprob": -0.2027,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1469.73,
+      "end": 1472.07,
+      "text": "哦,那不能在这边加,那我重新换一个",
+      "avg_logprob": -0.2027,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1472.07,
+      "end": 1476.02,
+      "text": "市场板块里面找红金",
+      "avg_logprob": -0.2027,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1476.02,
+      "end": 1495.19,
+      "text": "红金行业,很多红金",
+      "avg_logprob": -0.2027,
+      "no_speech_prob": 0.0,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 16.86
+}

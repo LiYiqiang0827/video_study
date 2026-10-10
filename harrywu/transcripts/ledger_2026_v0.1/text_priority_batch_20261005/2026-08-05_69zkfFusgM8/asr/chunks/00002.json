@@ -1,0 +1,816 @@
+{
+  "begin": 600.0,
+  "finish": 900.0,
+  "segments": [
+    {
+      "start": 600.76,
+      "end": 602.28,
+      "text": "所以导致这个重大的问题",
+      "avg_logprob": -0.2263,
+      "no_speech_prob": 0.0704,
+      "review": false
+    },
+    {
+      "start": 602.28,
+      "end": 605.51,
+      "text": "上来了上了一点点那也没啥意义",
+      "avg_logprob": -0.2263,
+      "no_speech_prob": 0.0704,
+      "review": false
+    },
+    {
+      "start": 605.51,
+      "end": 606.77,
+      "text": "我看一下啊",
+      "avg_logprob": -0.2263,
+      "no_speech_prob": 0.0704,
+      "review": false
+    },
+    {
+      "start": 606.77,
+      "end": 608.63,
+      "text": "这些涨停股里面",
+      "avg_logprob": -0.2263,
+      "no_speech_prob": 0.0704,
+      "review": false
+    },
+    {
+      "start": 608.63,
+      "end": 610.39,
+      "text": "华盛天成是1.45",
+      "avg_logprob": -0.2263,
+      "no_speech_prob": 0.0704,
+      "review": false
+    },
+    {
+      "start": 610.39,
+      "end": 614.36,
+      "text": "然后呢这个洛普药业是1.45",
+      "avg_logprob": -0.2263,
+      "no_speech_prob": 0.0704,
+      "review": false
+    },
+    {
+      "start": 614.36,
+      "end": 615.54,
+      "text": "可以啊",
+      "avg_logprob": -0.2263,
+      "no_speech_prob": 0.0704,
+      "review": false
+    },
+    {
+      "start": 615.54,
+      "end": 616.62,
+      "text": "我可能要进洛普",
+      "avg_logprob": -0.2263,
+      "no_speech_prob": 0.0704,
+      "review": false
+    },
+    {
+      "start": 616.62,
+      "end": 617.32,
+      "text": "我进洛普",
+      "avg_logprob": -0.2263,
+      "no_speech_prob": 0.0704,
+      "review": false
+    },
+    {
+      "start": 617.32,
+      "end": 618.16,
+      "text": "000739",
+      "avg_logprob": -0.2263,
+      "no_speech_prob": 0.0704,
+      "review": false
+    },
+    {
+      "start": 618.16,
+      "end": 619.56,
+      "text": "我进点洛普",
+      "avg_logprob": -0.2263,
+      "no_speech_prob": 0.0704,
+      "review": false
+    },
+    {
+      "start": 619.56,
+      "end": 622.5,
+      "text": "凯旦因呢是0.24还是一点弱啊",
+      "avg_logprob": -0.2263,
+      "no_speech_prob": 0.0704,
+      "review": false
+    },
+    {
+      "start": 622.5,
+      "end": 623.1,
+      "text": "一点弱",
+      "avg_logprob": -0.2263,
+      "no_speech_prob": 0.0704,
+      "review": false
+    },
+    {
+      "start": 623.1,
+      "end": 625.86,
+      "text": "康华化成就下去了",
+      "avg_logprob": -0.2263,
+      "no_speech_prob": 0.0704,
+      "review": false
+    },
+    {
+      "start": 625.86,
+      "end": 626.62,
+      "text": "不管他",
+      "avg_logprob": -0.2263,
+      "no_speech_prob": 0.0704,
+      "review": false
+    },
+    {
+      "start": 626.62,
+      "end": 627.26,
+      "text": "税有下去了",
+      "avg_logprob": -0.2263,
+      "no_speech_prob": 0.0704,
+      "review": false
+    },
+    {
+      "start": 627.26,
+      "end": 628.02,
+      "text": "不管他啊",
+      "avg_logprob": -0.2263,
+      "no_speech_prob": 0.0704,
+      "review": false
+    },
+    {
+      "start": 628.02,
+      "end": 630.58,
+      "text": "好",
+      "avg_logprob": -0.2263,
+      "no_speech_prob": 0.0704,
+      "review": false
+    },
+    {
+      "start": 630.58,
+      "end": 633.46,
+      "text": "那么我可能要进一点诺普",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.9028,
+      "review": true
+    },
+    {
+      "start": 633.46,
+      "end": 635.14,
+      "text": "因为这个我早就",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.9028,
+      "review": true
+    },
+    {
+      "start": 635.14,
+      "end": 636.16,
+      "text": "昨天没进",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.9028,
+      "review": true
+    },
+    {
+      "start": 636.16,
+      "end": 636.98,
+      "text": "昨天进不了",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.9028,
+      "review": true
+    },
+    {
+      "start": 636.98,
+      "end": 638.06,
+      "text": "我今天进一点",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.9028,
+      "review": true
+    },
+    {
+      "start": 638.06,
+      "end": 640.2,
+      "text": "不要多哈",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.9028,
+      "review": true
+    },
+    {
+      "start": 640.2,
+      "end": 640.88,
+      "text": "不要搞多了",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.9028,
+      "review": true
+    },
+    {
+      "start": 640.88,
+      "end": 642.62,
+      "text": "就这种这种这种公司啊",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.9028,
+      "review": true
+    },
+    {
+      "start": 642.62,
+      "end": 643.72,
+      "text": "它是高位嘛",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.9028,
+      "review": true
+    },
+    {
+      "start": 643.72,
+      "end": 645.42,
+      "text": "你高位进的话是",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.9028,
+      "review": true
+    },
+    {
+      "start": 645.42,
+      "end": 647.36,
+      "text": "我要是昨天涨天骨买到了",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.9028,
+      "review": true
+    },
+    {
+      "start": 647.36,
+      "end": 648.0,
+      "text": "我就不会进",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.9028,
+      "review": true
+    },
+    {
+      "start": 648.0,
+      "end": 649.9,
+      "text": "像这种一般的也是",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.9028,
+      "review": true
+    },
+    {
+      "start": 649.9,
+      "end": 651.14,
+      "text": "就是你进了资金呢",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.9028,
+      "review": true
+    },
+    {
+      "start": 651.14,
+      "end": 652.58,
+      "text": "它可能要给一个回调比例",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.9028,
+      "review": true
+    },
+    {
+      "start": 652.58,
+      "end": 654.4,
+      "text": "它回调你可能还加一次仓",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.9028,
+      "review": true
+    },
+    {
+      "start": 654.4,
+      "end": 655.6,
+      "text": "回调的这些位置来",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.9028,
+      "review": true
+    },
+    {
+      "start": 655.6,
+      "end": 656.42,
+      "text": "可能加一次仓",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.9028,
+      "review": true
+    },
+    {
+      "start": 656.42,
+      "end": 658.96,
+      "text": "所以你的资金配置一定要那个一点",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.9028,
+      "review": true
+    },
+    {
+      "start": 658.96,
+      "end": 680.82,
+      "text": "今天整个的市场是跌的",
+      "avg_logprob": -0.174,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 680.82,
+      "end": 682.98,
+      "text": "哇靠深圳跌了1.73",
+      "avg_logprob": -0.174,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 682.98,
+      "end": 702.55,
+      "text": "刚才有没有买到吧",
+      "avg_logprob": -0.174,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 702.55,
+      "end": 705.29,
+      "text": "哇天啊深圳跌了1.73",
+      "avg_logprob": -0.174,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 705.29,
+      "end": 708.69,
+      "text": "看来这些光波块的整个的影响还是非常大的",
+      "avg_logprob": -0.174,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 708.69,
+      "end": 710.73,
+      "text": "非常非常大的",
+      "avg_logprob": -0.174,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 710.73,
+      "end": 714.43,
+      "text": "一般的呢我这个情况就会快速的看一下",
+      "avg_logprob": -0.174,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 714.43,
+      "end": 717.37,
+      "text": "今天他有什么新的这些",
+      "avg_logprob": -0.174,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 717.37,
+      "end": 719.03,
+      "text": "这个出来了吗",
+      "avg_logprob": -0.174,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 719.03,
+      "end": 720.11,
+      "text": "不知道这个有没有出来",
+      "avg_logprob": -0.174,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 720.11,
+      "end": 721.07,
+      "text": "这个可能没有出来",
+      "avg_logprob": -0.174,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 721.07,
+      "end": 727.75,
+      "text": "今天的挖掘、AI教育、摘帽、无人驾驶",
+      "avg_logprob": -0.1025,
+      "no_speech_prob": 0.2239,
+      "review": false
+    },
+    {
+      "start": 727.75,
+      "end": 729.11,
+      "text": "你看今天就没有什么题材了",
+      "avg_logprob": -0.1025,
+      "no_speech_prob": 0.2239,
+      "review": false
+    },
+    {
+      "start": 729.11,
+      "end": 730.85,
+      "text": "今天几乎就没有啥题材了",
+      "avg_logprob": -0.1025,
+      "no_speech_prob": 0.2239,
+      "review": false
+    },
+    {
+      "start": 730.85,
+      "end": 732.83,
+      "text": "涨停里面什么涨停",
+      "avg_logprob": -0.1025,
+      "no_speech_prob": 0.2239,
+      "review": false
+    },
+    {
+      "start": 732.83,
+      "end": 735.17,
+      "text": "无人驾驶硬件有两家涨停",
+      "avg_logprob": -0.1025,
+      "no_speech_prob": 0.2239,
+      "review": false
+    },
+    {
+      "start": 735.17,
+      "end": 737.57,
+      "text": "特斯拉的两家涨停",
+      "avg_logprob": -0.1025,
+      "no_speech_prob": 0.2239,
+      "review": false
+    },
+    {
+      "start": 737.57,
+      "end": 739.6,
+      "text": "无人驾驶硬件",
+      "avg_logprob": -0.1025,
+      "no_speech_prob": 0.2239,
+      "review": false
+    },
+    {
+      "start": 739.6,
+      "end": 740.72,
+      "text": "我看就是通过涨停",
+      "avg_logprob": -0.1025,
+      "no_speech_prob": 0.2239,
+      "review": false
+    },
+    {
+      "start": 740.72,
+      "end": 741.66,
+      "text": "你不一定要买它",
+      "avg_logprob": -0.1025,
+      "no_speech_prob": 0.2239,
+      "review": false
+    },
+    {
+      "start": 741.66,
+      "end": 745.04,
+      "text": "但是我们主要是通过它可以看出现在市场在干嘛",
+      "avg_logprob": -0.1025,
+      "no_speech_prob": 0.2239,
+      "review": false
+    },
+    {
+      "start": 745.04,
+      "end": 747.76,
+      "text": "市场它是超声波雷达",
+      "avg_logprob": -0.1025,
+      "no_speech_prob": 0.2239,
+      "review": false
+    },
+    {
+      "start": 747.76,
+      "end": 751.76,
+      "text": "今天市场的它的一些热度在哪里",
+      "avg_logprob": -0.1148,
+      "no_speech_prob": 0.1206,
+      "review": false
+    },
+    {
+      "start": 751.76,
+      "end": 756.47,
+      "text": "特斯拉的FSD",
+      "avg_logprob": -0.1148,
+      "no_speech_prob": 0.1206,
+      "review": false
+    },
+    {
+      "start": 756.47,
+      "end": 762.94,
+      "text": "大概心里有个底",
+      "avg_logprob": -0.1148,
+      "no_speech_prob": 0.1206,
+      "review": false
+    },
+    {
+      "start": 762.94,
+      "end": 767.16,
+      "text": "大概自己今天涨幅的这个题材是什么",
+      "avg_logprob": -0.1148,
+      "no_speech_prob": 0.1206,
+      "review": false
+    },
+    {
+      "start": 767.16,
+      "end": 769.34,
+      "text": "涨幅榜是什么",
+      "avg_logprob": -0.1148,
+      "no_speech_prob": 0.1206,
+      "review": false
+    },
+    {
+      "start": 769.34,
+      "end": 771.3,
+      "text": "今天估计很难",
+      "avg_logprob": -0.1148,
+      "no_speech_prob": 0.1206,
+      "review": false
+    },
+    {
+      "start": 771.3,
+      "end": 772.94,
+      "text": "今天很难做",
+      "avg_logprob": -0.1148,
+      "no_speech_prob": 0.1206,
+      "review": false
+    },
+    {
+      "start": 772.94,
+      "end": 776.55,
+      "text": "今天估计没有什么可做的",
+      "avg_logprob": -0.1148,
+      "no_speech_prob": 0.1206,
+      "review": false
+    },
+    {
+      "start": 776.55,
+      "end": 779.38,
+      "text": "好我们今天看看吧",
+      "avg_logprob": -0.1148,
+      "no_speech_prob": 0.1206,
+      "review": false
+    },
+    {
+      "start": 779.38,
+      "end": 780.96,
+      "text": "我们快速的看一下",
+      "avg_logprob": -0.1148,
+      "no_speech_prob": 0.1206,
+      "review": false
+    },
+    {
+      "start": 780.96,
+      "end": 783.15,
+      "text": "涨幅榜里面",
+      "avg_logprob": -0.1148,
+      "no_speech_prob": 0.1206,
+      "review": false
+    },
+    {
+      "start": 783.15,
+      "end": 784.73,
+      "text": "涨幅榜前面就不用看了",
+      "avg_logprob": -0.1148,
+      "no_speech_prob": 0.1206,
+      "review": false
+    },
+    {
+      "start": 784.73,
+      "end": 791.15,
+      "text": "我一般会快速的看一下它是在炒什么东西今天",
+      "avg_logprob": -0.1513,
+      "no_speech_prob": 0.9409,
+      "review": true
+    },
+    {
+      "start": 791.15,
+      "end": 801.94,
+      "text": "文化、索林、这叫世宝",
+      "avg_logprob": -0.1513,
+      "no_speech_prob": 0.9409,
+      "review": true
+    },
+    {
+      "start": 801.94,
+      "end": 807.42,
+      "text": "我会把前面涨的比较高的",
+      "avg_logprob": -0.1513,
+      "no_speech_prob": 0.9409,
+      "review": true
+    },
+    {
+      "start": 807.42,
+      "end": 809.88,
+      "text": "你看昨天那个云南折叶我去买没买到",
+      "avg_logprob": -0.1513,
+      "no_speech_prob": 0.9409,
+      "review": true
+    },
+    {
+      "start": 809.88,
+      "end": 810.76,
+      "text": "有点可惜",
+      "avg_logprob": -0.1513,
+      "no_speech_prob": 0.9409,
+      "review": true
+    },
+    {
+      "start": 810.76,
+      "end": 814.54,
+      "text": "今天买到了今天就是直接涨停了",
+      "avg_logprob": -0.1513,
+      "no_speech_prob": 0.9409,
+      "review": true
+    },
+    {
+      "start": 814.54,
+      "end": 822.2,
+      "text": "我涨停股排了一个",
+      "avg_logprob": -0.1513,
+      "no_speech_prob": 0.9409,
+      "review": true
+    },
+    {
+      "start": 822.2,
+      "end": 823.14,
+      "text": "排了一个医药的",
+      "avg_logprob": -0.1513,
+      "no_speech_prob": 0.9409,
+      "review": true
+    },
+    {
+      "start": 823.14,
+      "end": 823.98,
+      "text": "不是排了一个",
+      "avg_logprob": -0.1513,
+      "no_speech_prob": 0.9409,
+      "review": true
+    },
+    {
+      "start": 823.98,
+      "end": 826.92,
+      "text": "我就是买集合金价买了一个医药的",
+      "avg_logprob": -0.1513,
+      "no_speech_prob": 0.9409,
+      "review": true
+    },
+    {
+      "start": 826.92,
+      "end": 836.26,
+      "text": "今天没有啥",
+      "avg_logprob": -0.1513,
+      "no_speech_prob": 0.9409,
+      "review": true
+    },
+    {
+      "start": 836.26,
+      "end": 842.59,
+      "text": "今天你看整个的所有的半导体又全线回调",
+      "avg_logprob": -0.1496,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 842.59,
+      "end": 845.75,
+      "text": "这个新闻影响太大了",
+      "avg_logprob": -0.1496,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 845.75,
+      "end": 848.54,
+      "text": "小作文影响太大了",
+      "avg_logprob": -0.1496,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 848.54,
+      "end": 850.4,
+      "text": "现在它都是量化交易嘛",
+      "avg_logprob": -0.1496,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 850.4,
+      "end": 852.58,
+      "text": "量化一看到小作文这样子",
+      "avg_logprob": -0.1496,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 852.58,
+      "end": 859.0,
+      "text": "它就直接就直接全线就开始往下砸盘了",
+      "avg_logprob": -0.1496,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 859.0,
+      "end": 866.66,
+      "text": "这也没有那种明确的结构",
+      "avg_logprob": -0.1496,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 866.66,
+      "end": 869.78,
+      "text": "有些时候会找一些明确的结构",
+      "avg_logprob": -0.1496,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 869.78,
+      "end": 870.58,
+      "text": "今天也没有",
+      "avg_logprob": -0.1496,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 870.58,
+      "end": 872.18,
+      "text": "今天就很难操作咯",
+      "avg_logprob": -0.1496,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 872.18,
+      "end": 874.4,
+      "text": "今天估计就很难操作了",
+      "avg_logprob": -0.1747,
+      "no_speech_prob": 0.5122,
+      "review": true
+    },
+    {
+      "start": 874.4,
+      "end": 877.47,
+      "text": "今天很难操作",
+      "avg_logprob": -0.1747,
+      "no_speech_prob": 0.5122,
+      "review": true
+    },
+    {
+      "start": 877.47,
+      "end": 888.47,
+      "text": "看看",
+      "avg_logprob": -0.1747,
+      "no_speech_prob": 0.5122,
+      "review": true
+    },
+    {
+      "start": 888.47,
+      "end": 891.38,
+      "text": "诺普我是买到了",
+      "avg_logprob": -0.1747,
+      "no_speech_prob": 0.5122,
+      "review": true
+    },
+    {
+      "start": 891.38,
+      "end": 892.6,
+      "text": "我看看啊",
+      "avg_logprob": -0.1747,
+      "no_speech_prob": 0.5122,
+      "review": true
+    },
+    {
+      "start": 892.6,
+      "end": 895.52,
+      "text": "还是没买到",
+      "avg_logprob": -0.1747,
+      "no_speech_prob": 0.5122,
+      "review": true
+    },
+    {
+      "start": 895.52,
+      "end": 896.92,
+      "text": "因为他现在有个价格笼子",
+      "avg_logprob": -0.1747,
+      "no_speech_prob": 0.5122,
+      "review": true
+    },
+    {
+      "start": 896.92,
+      "end": 898.74,
+      "text": "买到了一点点啊",
+      "avg_logprob": -0.1747,
+      "no_speech_prob": 0.5122,
+      "review": true
+    },
+    {
+      "start": 898.74,
+      "end": 899.78,
+      "text": "诺普是买到了",
+      "avg_logprob": -0.1747,
+      "no_speech_prob": 0.5122,
+      "review": true
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 20.06
+}

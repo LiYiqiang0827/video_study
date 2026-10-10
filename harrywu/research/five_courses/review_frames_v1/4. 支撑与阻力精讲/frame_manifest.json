@@ -1,0 +1,156 @@
+{
+  "schema": 1,
+  "source": "C:\\Users\\HarryWu_IOKI\\Videos\\飞云双突破\\For GPT\\4. 支撑与阻力精讲.mkv",
+  "duration": 979.834,
+  "params": {
+    "source_sha256": "5face1f56cad64b4f2dc70eb6ac33037fba7f3bf3e8febd85cce9a95c6b7a329",
+    "times": [
+      0.5,
+      60.5,
+      120.5,
+      180.5,
+      240.5,
+      300.5,
+      360.5,
+      420.5,
+      480.5,
+      540.5,
+      600.5,
+      660.5,
+      720.5,
+      780.5,
+      840.5,
+      900.5,
+      960.5
+    ],
+    "method": "accurate-seek-copyts-original-v1"
+  },
+  "frames": [
+    {
+      "requested_time": 0.5,
+      "time": 0.5,
+      "decoded_pts": 0.5,
+      "frame": "frame_00000_000000500.jpg",
+      "sha256": "37afa6f94b762ec7c537788183bd9b624970be1edc2ed15f3e089d3fd6104437"
+    },
+    {
+      "requested_time": 60.5,
+      "time": 60.5,
+      "decoded_pts": 60.5,
+      "frame": "frame_00001_000060500.jpg",
+      "sha256": "11e8ab63aa4aacf66f92fb20b8ffe03011299de23c6c421b89b112c9fc27e7b6"
+    },
+    {
+      "requested_time": 120.5,
+      "time": 120.5,
+      "decoded_pts": 120.5,
+      "frame": "frame_00002_000120500.jpg",
+      "sha256": "6e2b4b79cd35115dcd5f7992b3ee7af9ec7fae5225f01f45c6a41828e0f6b9ab"
+    },
+    {
+      "requested_time": 180.5,
+      "time": 180.5,
+      "decoded_pts": 180.5,
+      "frame": "frame_00003_000180500.jpg",
+      "sha256": "c05b44d41a268888f43f43ca9f1396136247dbdfe9e37a9a169174adea982b52"
+    },
+    {
+      "requested_time": 240.5,
+      "time": 240.5,
+      "decoded_pts": 240.5,
+      "frame": "frame_00004_000240500.jpg",
+      "sha256": "4f8d4d369e6c058659881d31b09a080c85bf6843d64785344bc48fa95d120a11"
+    },
+    {
+      "requested_time": 300.5,
+      "time": 300.5,
+      "decoded_pts": 300.5,
+      "frame": "frame_00005_000300500.jpg",
+      "sha256": "a3435b85f8fcfa4c0b38068c234cfef5b4e500032c33230572ea939202488460"
+    },
+    {
+      "requested_time": 360.5,
+      "time": 360.5,
+      "decoded_pts": 360.5,
+      "frame": "frame_00006_000360500.jpg",
+      "sha256": "9baa76501fc9ffe12ebf401ff312323fc36c5176e050f1353a72c2a057872969"
+    },
+    {
+      "requested_time": 420.5,
+      "time": 420.5,
+      "decoded_pts": 420.5,
+      "frame": "frame_00007_000420500.jpg",
+      "sha256": "b70c929933b0a3238c1b3db6a0fe176c88c11b5644803e8fe4e0257e10fd7c2d"
+    },
+    {
+      "requested_time": 480.5,
+      "time": 480.5,
+      "decoded_pts": 480.5,
+      "frame": "frame_00008_000480500.jpg",
+      "sha256": "9fe2b73b842d33c35cbeceeedda8da7d44dea49430ac88ea5725be48a04f33ba"
+    },
+    {
+      "requested_time": 540.5,
+      "time": 540.5,
+      "decoded_pts": 540.5,
+      "frame": "frame_00009_000540500.jpg",
+      "sha256": "52445d8664b4aa99f5fca09dd8d00b490112fc1cf1485fd2a2630b42d3921345"
+    },
+    {
+      "requested_time": 600.5,
+      "time": 600.5,
+      "decoded_pts": 600.5,
+      "frame": "frame_00010_000600500.jpg",
+      "sha256": "c577b214ec01123f9a7de0e5731e599f1344cc677704b629a585fb4f175e922b"
+    },
+    {
+      "requested_time": 660.5,
+      "time": 660.5,
+      "decoded_pts": 660.5,
+      "frame": "frame_00011_000660500.jpg",
+      "sha256": "8c03509538a85eabc7bf668880bf23fabd78a44441b9c6897fa8bb4b3795b6a1"
+    },
+    {
+      "requested_time": 720.5,
+      "time": 720.5,
+      "decoded_pts": 720.5,
+      "frame": "frame_00012_000720500.jpg",
+      "sha256": "93aa5fec0bb8afdab2c18469cf7fdfb6b723d4f2243792ff3b48fc8b940e9824"
+    },
+    {
+      "requested_time": 780.5,
+      "time": 780.5,
+      "decoded_pts": 780.5,
+      "frame": "frame_00013_000780500.jpg",
+      "sha256": "924b540501c552dbbab63bd464fd5a63b53ec7b1edf72719f455a716064fc9ba"
+    },
+    {
+      "requested_time": 840.5,
+      "time": 840.5,
+      "decoded_pts": 840.5,
+      "frame": "frame_00014_000840500.jpg",
+      "sha256": "7c2b7e7ed304ca940851ce8b70105a3efe66224e4b679f6ecf8f3bdb11022233"
+    },
+    {
+      "requested_time": 900.5,
+      "time": 900.5,
+      "decoded_pts": 900.5,
+      "frame": "frame_00015_000900500.jpg",
+      "sha256": "a0f6948a8ec25c94f9d6bb3bc3a2db55afb20c2cc95412b95e352769d8d57866"
+    },
+    {
+      "requested_time": 960.5,
+      "time": 960.5,
+      "decoded_pts": 960.5,
+      "frame": "frame_00016_000960500.jpg",
+      "sha256": "29eb44cf14b9543af456e85a8dc4e3ade66d5c28b5faa8ab813ddc7730503016"
+    }
+  ],
+  "status": "complete",
+  "sheets": [
+    "sheet_001.jpg",
+    "sheet_002.jpg",
+    "sheet_003.jpg"
+  ],
+  "speech_extraction": "C:\\Project Rocket\\output\\feiyun_double_breakout\\platform_large_v3_v1\\4. 支撑与阻力精讲_5face1f56c_0s_66f4580d"
+}

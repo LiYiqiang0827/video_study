@@ -1,0 +1,352 @@
+{
+  "begin": 3300.0,
+  "finish": 3531.499683,
+  "segments": [
+    {
+      "start": 3298.0,
+      "end": 3327.98,
+      "text": "按照这个结构来说,我认为就算它回调,大概率它是会起来的,就它的基本面,它的这个财务数据啊,基本面啊,各方面情况来看,就算它明天后天回调,它会起来的,所以它明天回调我也无所谓,如果你愿意买的话,你觉得它会回调,你愿意买的话,你就买,但是你不能重仓一笔全部砸进去,第二天一个大低开,你就开始痛苦了,绝对不是,这不是交易,这是赌博,我们交易就是一笔一笔的,",
+      "avg_logprob": -0.0704,
+      "no_speech_prob": 0.9961,
+      "review": true
+    },
+    {
+      "start": 3328.0,
+      "end": 3353.36,
+      "text": "有进有退,这个叫交易,明白吧?做好交易计划,这是第一笔,第二笔,你能够接受它回调,你的资金愿意分批分仓去买,我就建议你买,你接受不了它回调,你就要去赌它,我不建议你买,我不建议你买,那你宁愿再买更便宜的,再买比如买利逊集密这种位置,这种低位优质股,那你拿着还保险一点,你不去赌。",
+      "avg_logprob": -0.0949,
+      "no_speech_prob": 0.7559,
+      "review": true
+    },
+    {
+      "start": 3353.36,
+      "end": 3387.84,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1028,
+      "no_speech_prob": 0.9951,
+      "review": true
+    },
+    {
+      "start": 3387.86,
+      "end": 3389.8,
+      "text": "我真的觉得特朗普不敢打",
+      "avg_logprob": -0.1426,
+      "no_speech_prob": 0.9673,
+      "review": true
+    },
+    {
+      "start": 3389.8,
+      "end": 3391.5,
+      "text": "我真的觉得不敢打",
+      "avg_logprob": -0.1426,
+      "no_speech_prob": 0.9673,
+      "review": true
+    },
+    {
+      "start": 3391.5,
+      "end": 3393.16,
+      "text": "要是他真的敢打了",
+      "avg_logprob": -0.1426,
+      "no_speech_prob": 0.9673,
+      "review": true
+    },
+    {
+      "start": 3393.16,
+      "end": 3394.96,
+      "text": "那么我们今天的交易都会失败了",
+      "avg_logprob": -0.1426,
+      "no_speech_prob": 0.9673,
+      "review": true
+    },
+    {
+      "start": 3394.96,
+      "end": 3395.2,
+      "text": "好不好",
+      "avg_logprob": -0.1426,
+      "no_speech_prob": 0.9673,
+      "review": true
+    },
+    {
+      "start": 3395.2,
+      "end": 3396.3,
+      "text": "给大家说一下啊",
+      "avg_logprob": -0.1426,
+      "no_speech_prob": 0.9673,
+      "review": true
+    },
+    {
+      "start": 3396.3,
+      "end": 3396.52,
+      "text": "好",
+      "avg_logprob": -0.1426,
+      "no_speech_prob": 0.9673,
+      "review": true
+    },
+    {
+      "start": 3396.52,
+      "end": 3397.42,
+      "text": "最后呢",
+      "avg_logprob": -0.1426,
+      "no_speech_prob": 0.9673,
+      "review": true
+    },
+    {
+      "start": 3397.42,
+      "end": 3399.44,
+      "text": "最后我们就结束了",
+      "avg_logprob": -0.1426,
+      "no_speech_prob": 0.9673,
+      "review": true
+    },
+    {
+      "start": 3399.44,
+      "end": 3399.86,
+      "text": "我只是",
+      "avg_logprob": -0.1426,
+      "no_speech_prob": 0.9673,
+      "review": true
+    },
+    {
+      "start": 3399.86,
+      "end": 3402.8,
+      "text": "我最后就是说一下啊",
+      "avg_logprob": -0.1426,
+      "no_speech_prob": 0.9673,
+      "review": true
+    },
+    {
+      "start": 3402.8,
+      "end": 3413.33,
+      "text": "今天的操作主要是基于操作逻辑",
+      "avg_logprob": -0.1426,
+      "no_speech_prob": 0.9673,
+      "review": true
+    },
+    {
+      "start": 3413.33,
+      "end": 3418.74,
+      "text": "基于特朗普的一个观点",
+      "avg_logprob": -0.1426,
+      "no_speech_prob": 0.9673,
+      "review": true
+    },
+    {
+      "start": 3418.74,
+      "end": 3420.34,
+      "text": "第二个呢",
+      "avg_logprob": -0.1426,
+      "no_speech_prob": 0.9673,
+      "review": true
+    },
+    {
+      "start": 3420.34,
+      "end": 3423.62,
+      "text": "是基于美股明天会涨",
+      "avg_logprob": -0.1426,
+      "no_speech_prob": 0.9673,
+      "review": true
+    },
+    {
+      "start": 3423.62,
+      "end": 3427.51,
+      "text": "美股明天会涨",
+      "avg_logprob": -0.0848,
+      "no_speech_prob": 0.4846,
+      "review": false
+    },
+    {
+      "start": 3427.51,
+      "end": 3429.5,
+      "text": "这么一个套利",
+      "avg_logprob": -0.0848,
+      "no_speech_prob": 0.4846,
+      "review": false
+    },
+    {
+      "start": 3429.5,
+      "end": 3433.89,
+      "text": "这是一个短线套利",
+      "avg_logprob": -0.0848,
+      "no_speech_prob": 0.4846,
+      "review": false
+    },
+    {
+      "start": 3433.89,
+      "end": 3437.83,
+      "text": "那么我们就短线套利",
+      "avg_logprob": -0.0848,
+      "no_speech_prob": 0.4846,
+      "review": false
+    },
+    {
+      "start": 3437.83,
+      "end": 3439.94,
+      "text": "我认为是一个",
+      "avg_logprob": -0.0848,
+      "no_speech_prob": 0.4846,
+      "review": false
+    },
+    {
+      "start": 3439.94,
+      "end": 3441.96,
+      "text": "因为你等到明天美股涨起来了",
+      "avg_logprob": -0.0848,
+      "no_speech_prob": 0.4846,
+      "review": false
+    },
+    {
+      "start": 3441.96,
+      "end": 3443.34,
+      "text": "你再去注意来不及了是不是",
+      "avg_logprob": -0.0848,
+      "no_speech_prob": 0.4846,
+      "review": false
+    },
+    {
+      "start": 3443.34,
+      "end": 3446.6,
+      "text": "那么我的操作逻辑是基于",
+      "avg_logprob": -0.0848,
+      "no_speech_prob": 0.4846,
+      "review": false
+    },
+    {
+      "start": 3446.6,
+      "end": 3448.16,
+      "text": "第一个特朗普的观点",
+      "avg_logprob": -0.0848,
+      "no_speech_prob": 0.4846,
+      "review": false
+    },
+    {
+      "start": 3448.16,
+      "end": 3451.58,
+      "text": "第二个因为他这个观点导致明天美股会直接上涨",
+      "avg_logprob": -0.0848,
+      "no_speech_prob": 0.4846,
+      "review": false
+    },
+    {
+      "start": 3451.58,
+      "end": 3453.74,
+      "text": "那么美股明天上涨",
+      "avg_logprob": -0.0848,
+      "no_speech_prob": 0.4846,
+      "review": false
+    },
+    {
+      "start": 3453.74,
+      "end": 3483.51,
+      "text": "A股今天每股明天上涨,A股开盘就上涨,开盘上涨之后呢,它明天和今天至少还可以持续一下,我是基于这个逻辑,如果失败了,大家别怪我啊,如果有突发情况,那我没办法了啊,如果下午有突发情况,那就没办法啊,愿赌服输啊,愿赌服输啊,",
+      "avg_logprob": -0.0946,
+      "no_speech_prob": 0.2146,
+      "review": false
+    },
+    {
+      "start": 3483.51,
+      "end": 3486.87,
+      "text": "还好我现在今天的仓位我大概是40%的",
+      "avg_logprob": -0.1515,
+      "no_speech_prob": 0.2644,
+      "review": false
+    },
+    {
+      "start": 3486.87,
+      "end": 3489.09,
+      "text": "因为我本来是30%的仓位",
+      "avg_logprob": -0.1515,
+      "no_speech_prob": 0.2644,
+      "review": false
+    },
+    {
+      "start": 3489.09,
+      "end": 3493.88,
+      "text": "我今天加了10%",
+      "avg_logprob": -0.1515,
+      "no_speech_prob": 0.2644,
+      "review": false
+    },
+    {
+      "start": 3493.88,
+      "end": 3496.72,
+      "text": "现在40%",
+      "avg_logprob": -0.1515,
+      "no_speech_prob": 0.2644,
+      "review": false
+    },
+    {
+      "start": 3496.72,
+      "end": 3501.38,
+      "text": "我认为这是我对我来说现阶段的一个比较舒服的仓位",
+      "avg_logprob": -0.1515,
+      "no_speech_prob": 0.2644,
+      "review": false
+    },
+    {
+      "start": 3501.38,
+      "end": 3503.12,
+      "text": "好那么其他就不回答了",
+      "avg_logprob": -0.1515,
+      "no_speech_prob": 0.2644,
+      "review": false
+    },
+    {
+      "start": 3503.12,
+      "end": 3504.76,
+      "text": "我现在这边也凌晨了",
+      "avg_logprob": -0.1515,
+      "no_speech_prob": 0.2644,
+      "review": false
+    },
+    {
+      "start": 3504.76,
+      "end": 3506.16,
+      "text": "非常非常感谢大家",
+      "avg_logprob": -0.1515,
+      "no_speech_prob": 0.2644,
+      "review": false
+    },
+    {
+      "start": 3506.16,
+      "end": 3508.2,
+      "text": "我们明天见",
+      "avg_logprob": -0.1515,
+      "no_speech_prob": 0.2644,
+      "review": false
+    },
+    {
+      "start": 3508.2,
+      "end": 3511.44,
+      "text": "我就只是把我的逻辑跟大家说一说",
+      "avg_logprob": -0.1515,
+      "no_speech_prob": 0.2644,
+      "review": false
+    },
+    {
+      "start": 3511.44,
+      "end": 3512.4,
+      "text": "好就行了",
+      "avg_logprob": -0.1515,
+      "no_speech_prob": 0.2644,
+      "review": false
+    },
+    {
+      "start": 3512.4,
+      "end": 3515.82,
+      "text": "我们在就是把我每次我是怎么选的这个逻辑跟大家说也还行",
+      "avg_logprob": -0.2029,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3515.82,
+      "end": 3517.6,
+      "text": "好我们明天见",
+      "avg_logprob": -0.2029,
+      "no_speech_prob": 0.0,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 18.86
+}

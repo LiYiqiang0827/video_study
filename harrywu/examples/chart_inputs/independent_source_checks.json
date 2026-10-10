@@ -1,0 +1,42 @@
+{
+  "status": "passed",
+  "sources": {
+    "002025.SZ": {
+      "daily_rows": 2662,
+      "factor_rows": 2855,
+      "factor_only_dates": 193,
+      "years": {
+        "2017": 124,
+        "2018": 243
+      },
+      "OHLCV_missing": false,
+      "unique_sorted": true,
+      "all_daily_factors_matched": true
+    },
+    "002326.SZ": {
+      "daily_rows": 2746,
+      "factor_rows": 2855,
+      "factor_only_dates": 109,
+      "years": {
+        "2017": 244,
+        "2018": 243
+      },
+      "OHLCV_missing": false,
+      "unique_sorted": true,
+      "all_daily_factors_matched": true
+    },
+    "600990.SH": {
+      "daily_rows": 2713,
+      "factor_rows": 2855,
+      "factor_only_dates": 142,
+      "years": {
+        "2017": 244,
+        "2018": 243
+      },
+      "OHLCV_missing": false,
+      "unique_sorted": true,
+      "all_daily_factors_matched": true
+    }
+  },
+  "minute_overlap": null
+}

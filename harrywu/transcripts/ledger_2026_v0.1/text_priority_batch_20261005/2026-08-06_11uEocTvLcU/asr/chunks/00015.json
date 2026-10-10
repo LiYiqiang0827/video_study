@@ -1,0 +1,768 @@
+{
+  "begin": 4500.0,
+  "finish": 4800.0,
+  "segments": [
+    {
+      "start": 4517.85,
+      "end": 4519.21,
+      "text": "其他的没有啥",
+      "avg_logprob": -0.1189,
+      "no_speech_prob": 0.4219,
+      "review": false
+    },
+    {
+      "start": 4519.21,
+      "end": 4521.33,
+      "text": "其他的我就就这样了",
+      "avg_logprob": -0.1189,
+      "no_speech_prob": 0.4219,
+      "review": false
+    },
+    {
+      "start": 4521.33,
+      "end": 4522.59,
+      "text": "反正我就是就这样了",
+      "avg_logprob": -0.1189,
+      "no_speech_prob": 0.4219,
+      "review": false
+    },
+    {
+      "start": 4522.59,
+      "end": 4523.35,
+      "text": "其他的没有啥",
+      "avg_logprob": -0.1189,
+      "no_speech_prob": 0.4219,
+      "review": false
+    },
+    {
+      "start": 4523.35,
+      "end": 4524.85,
+      "text": "好我就回答一些问题",
+      "avg_logprob": -0.1189,
+      "no_speech_prob": 0.4219,
+      "review": false
+    },
+    {
+      "start": 4524.85,
+      "end": 4525.49,
+      "text": "我们就结束了",
+      "avg_logprob": -0.1189,
+      "no_speech_prob": 0.4219,
+      "review": false
+    },
+    {
+      "start": 4525.49,
+      "end": 4526.35,
+      "text": "今天没有啥",
+      "avg_logprob": -0.1189,
+      "no_speech_prob": 0.4219,
+      "review": false
+    },
+    {
+      "start": 4526.35,
+      "end": 4528.33,
+      "text": "今天没有啥",
+      "avg_logprob": -0.1189,
+      "no_speech_prob": 0.4219,
+      "review": false
+    },
+    {
+      "start": 4528.33,
+      "end": 4531.88,
+      "text": "资金体验布局",
+      "avg_logprob": -0.1189,
+      "no_speech_prob": 0.4219,
+      "review": false
+    },
+    {
+      "start": 4531.88,
+      "end": 4532.28,
+      "text": "对的",
+      "avg_logprob": -0.1189,
+      "no_speech_prob": 0.4219,
+      "review": false
+    },
+    {
+      "start": 4532.28,
+      "end": 4533.16,
+      "text": "是的是的",
+      "avg_logprob": -0.1189,
+      "no_speech_prob": 0.4219,
+      "review": false
+    },
+    {
+      "start": 4533.16,
+      "end": 4536.62,
+      "text": "就是每次我一般的看到这种新的布局的",
+      "avg_logprob": -0.1189,
+      "no_speech_prob": 0.4219,
+      "review": false
+    },
+    {
+      "start": 4536.62,
+      "end": 4537.68,
+      "text": "我也会提前跟着布",
+      "avg_logprob": -0.1189,
+      "no_speech_prob": 0.4219,
+      "review": false
+    },
+    {
+      "start": 4537.68,
+      "end": 4539.88,
+      "text": "因为这样子你有一个先手优势的话",
+      "avg_logprob": -0.1189,
+      "no_speech_prob": 0.4219,
+      "review": false
+    },
+    {
+      "start": 4539.88,
+      "end": 4541.28,
+      "text": "像我举个例子",
+      "avg_logprob": -0.1189,
+      "no_speech_prob": 0.4219,
+      "review": false
+    },
+    {
+      "start": 4541.28,
+      "end": 4543.2,
+      "text": "像他的止损就特别好止",
+      "avg_logprob": -0.1189,
+      "no_speech_prob": 0.4219,
+      "review": false
+    },
+    {
+      "start": 4543.2,
+      "end": 4545.52,
+      "text": "就是你看我首先从来没有想到暴转",
+      "avg_logprob": -0.1189,
+      "no_speech_prob": 0.4219,
+      "review": false
+    },
+    {
+      "start": 4545.52,
+      "end": 4546.56,
+      "text": "首先想到就是止损",
+      "avg_logprob": -0.1189,
+      "no_speech_prob": 0.4219,
+      "review": false
+    },
+    {
+      "start": 4546.56,
+      "end": 4547.98,
+      "text": "你看像这个荣盛石化",
+      "avg_logprob": -0.1189,
+      "no_speech_prob": 0.4219,
+      "review": false
+    },
+    {
+      "start": 4547.98,
+      "end": 4549.1,
+      "text": "他的止损就比较好止",
+      "avg_logprob": -0.1189,
+      "no_speech_prob": 0.4219,
+      "review": false
+    },
+    {
+      "start": 4549.1,
+      "end": 4549.58,
+      "text": "是吧",
+      "avg_logprob": -0.1189,
+      "no_speech_prob": 0.4219,
+      "review": false
+    },
+    {
+      "start": 4549.58,
+      "end": 4551.12,
+      "text": "它的止损就比较好止",
+      "avg_logprob": -0.1262,
+      "no_speech_prob": 0.3469,
+      "review": false
+    },
+    {
+      "start": 4551.12,
+      "end": 4552.66,
+      "text": "它的止损一般的就是",
+      "avg_logprob": -0.1262,
+      "no_speech_prob": 0.3469,
+      "review": false
+    },
+    {
+      "start": 4552.66,
+      "end": 4557.14,
+      "text": "我一般的就是在这个位置可能要亏个10%左右",
+      "avg_logprob": -0.1262,
+      "no_speech_prob": 0.3469,
+      "review": false
+    },
+    {
+      "start": 4557.14,
+      "end": 4558.52,
+      "text": "那我肯定要减仓的",
+      "avg_logprob": -0.1262,
+      "no_speech_prob": 0.3469,
+      "review": false
+    },
+    {
+      "start": 4558.52,
+      "end": 4560.7,
+      "text": "12块钱左右就减仓",
+      "avg_logprob": -0.1262,
+      "no_speech_prob": 0.3469,
+      "review": false
+    },
+    {
+      "start": 4560.7,
+      "end": 4562.74,
+      "text": "但是只要没有跌到12块钱",
+      "avg_logprob": -0.1262,
+      "no_speech_prob": 0.3469,
+      "review": false
+    },
+    {
+      "start": 4562.74,
+      "end": 4563.9,
+      "text": "它这样回抽啊",
+      "avg_logprob": -0.1262,
+      "no_speech_prob": 0.3469,
+      "review": false
+    },
+    {
+      "start": 4563.9,
+      "end": 4566.16,
+      "text": "这样走都会暂时先不动它",
+      "avg_logprob": -0.1262,
+      "no_speech_prob": 0.3469,
+      "review": false
+    },
+    {
+      "start": 4566.16,
+      "end": 4569.04,
+      "text": "这个位置就会比较好一点",
+      "avg_logprob": -0.1262,
+      "no_speech_prob": 0.3469,
+      "review": false
+    },
+    {
+      "start": 4569.04,
+      "end": 4570.12,
+      "text": "那我们举个例子",
+      "avg_logprob": -0.1262,
+      "no_speech_prob": 0.3469,
+      "review": false
+    },
+    {
+      "start": 4570.12,
+      "end": 4571.5,
+      "text": "比如它有一波上涨",
+      "avg_logprob": -0.1262,
+      "no_speech_prob": 0.3469,
+      "review": false
+    },
+    {
+      "start": 4571.5,
+      "end": 4573.52,
+      "text": "它上比如今天我不买",
+      "avg_logprob": -0.1262,
+      "no_speech_prob": 0.3469,
+      "review": false
+    },
+    {
+      "start": 4573.52,
+      "end": 4576.06,
+      "text": "它明天再来一个2K线我就不好买了",
+      "avg_logprob": -0.1262,
+      "no_speech_prob": 0.3469,
+      "review": false
+    },
+    {
+      "start": 4576.06,
+      "end": 4577.84,
+      "text": "这就比较尴尬了",
+      "avg_logprob": -0.1262,
+      "no_speech_prob": 0.3469,
+      "review": false
+    },
+    {
+      "start": 4577.84,
+      "end": 4581.24,
+      "text": "这个时候就不太好买了,就只能主动买它回调价仓",
+      "avg_logprob": -0.0974,
+      "no_speech_prob": 0.111,
+      "review": false
+    },
+    {
+      "start": 4581.24,
+      "end": 4585.24,
+      "text": "而且它这种票流通值有比较大1000个亿",
+      "avg_logprob": -0.0974,
+      "no_speech_prob": 0.111,
+      "review": false
+    },
+    {
+      "start": 4585.24,
+      "end": 4588.98,
+      "text": "我估计它也不太可能天天涨,天天涨的可能性比较小",
+      "avg_logprob": -0.0974,
+      "no_speech_prob": 0.111,
+      "review": false
+    },
+    {
+      "start": 4588.98,
+      "end": 4594.5,
+      "text": "但是呢,就它这个形态和量价来看,我认为它的上升空间是被打开了",
+      "avg_logprob": -0.0974,
+      "no_speech_prob": 0.111,
+      "review": false
+    },
+    {
+      "start": 4594.5,
+      "end": 4600.32,
+      "text": "而且只要石油能够有反弹,你看最近石油不跌得很惨吗",
+      "avg_logprob": -0.0974,
+      "no_speech_prob": 0.111,
+      "review": false
+    },
+    {
+      "start": 4600.32,
+      "end": 4604.9,
+      "text": "石油已经连跌了多少天,123456789,剩下9天",
+      "avg_logprob": -0.0974,
+      "no_speech_prob": 0.111,
+      "review": false
+    },
+    {
+      "start": 4604.9,
+      "end": 4606.98,
+      "text": "只要石油有反弹,它肯定会起来",
+      "avg_logprob": -0.0974,
+      "no_speech_prob": 0.111,
+      "review": false
+    },
+    {
+      "start": 4613.46,
+      "end": 4648.83,
+      "text": "欢迎订阅我的频道",
+      "avg_logprob": -0.4355,
+      "no_speech_prob": 0.9922,
+      "review": true
+    },
+    {
+      "start": 4648.85,
+      "end": 4654.13,
+      "text": "厦门无业要涨停呢",
+      "avg_logprob": -0.1722,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4654.13,
+      "end": 4655.51,
+      "text": "这是一个好事情",
+      "avg_logprob": -0.1722,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4655.51,
+      "end": 4682.82,
+      "text": "中国传播是这样子",
+      "avg_logprob": -0.1722,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4682.82,
+      "end": 4684.62,
+      "text": "这种公司我不敢评价呀",
+      "avg_logprob": -0.1722,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4684.62,
+      "end": 4685.56,
+      "text": "因为我给你说过",
+      "avg_logprob": -0.1722,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4685.56,
+      "end": 4686.6,
+      "text": "中国传播这种公司",
+      "avg_logprob": -0.1722,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4686.6,
+      "end": 4687.54,
+      "text": "它基本面很好",
+      "avg_logprob": -0.1722,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4687.54,
+      "end": 4689.58,
+      "text": "但是它很慢",
+      "avg_logprob": -0.1722,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4689.58,
+      "end": 4691.16,
+      "text": "这我给你讲过",
+      "avg_logprob": -0.1722,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4691.16,
+      "end": 4692.16,
+      "text": "它很慢的",
+      "avg_logprob": -0.1722,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4692.16,
+      "end": 4693.18,
+      "text": "你买这种票",
+      "avg_logprob": -0.1722,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4693.18,
+      "end": 4694.36,
+      "text": "你心里就要个底啊",
+      "avg_logprob": -0.1722,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4694.36,
+      "end": 4695.34,
+      "text": "因为它这个",
+      "avg_logprob": -0.1722,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4695.34,
+      "end": 4696.82,
+      "text": "你想吧",
+      "avg_logprob": -0.1722,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4696.82,
+      "end": 4698.86,
+      "text": "2000多亿的盘子",
+      "avg_logprob": -0.1722,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4698.86,
+      "end": 4701.42,
+      "text": "而且它就是一直没有啥炒点",
+      "avg_logprob": -0.1722,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4701.42,
+      "end": 4703.38,
+      "text": "就是一个造船的",
+      "avg_logprob": -0.1722,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4703.38,
+      "end": 4704.72,
+      "text": "你想它有什么可炒的吗",
+      "avg_logprob": -0.1722,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4704.72,
+      "end": 4707.38,
+      "text": "就是这些公司就是特别特定的公司",
+      "avg_logprob": -0.1187,
+      "no_speech_prob": 0.8389,
+      "review": true
+    },
+    {
+      "start": 4707.38,
+      "end": 4708.9,
+      "text": "什么保险公司呢",
+      "avg_logprob": -0.1187,
+      "no_speech_prob": 0.8389,
+      "review": true
+    },
+    {
+      "start": 4708.9,
+      "end": 4709.78,
+      "text": "银行啦",
+      "avg_logprob": -0.1187,
+      "no_speech_prob": 0.8389,
+      "review": true
+    },
+    {
+      "start": 4709.78,
+      "end": 4710.66,
+      "text": "证券啦",
+      "avg_logprob": -0.1187,
+      "no_speech_prob": 0.8389,
+      "review": true
+    },
+    {
+      "start": 4710.66,
+      "end": 4711.66,
+      "text": "船舶呢",
+      "avg_logprob": -0.1187,
+      "no_speech_prob": 0.8389,
+      "review": true
+    },
+    {
+      "start": 4711.66,
+      "end": 4713.56,
+      "text": "这些就是很难炒起来",
+      "avg_logprob": -0.1187,
+      "no_speech_prob": 0.8389,
+      "review": true
+    },
+    {
+      "start": 4713.56,
+      "end": 4714.22,
+      "text": "很难炒起来",
+      "avg_logprob": -0.1187,
+      "no_speech_prob": 0.8389,
+      "review": true
+    },
+    {
+      "start": 4714.22,
+      "end": 4716.68,
+      "text": "就是它没有炒点",
+      "avg_logprob": -0.1187,
+      "no_speech_prob": 0.8389,
+      "review": true
+    },
+    {
+      "start": 4716.68,
+      "end": 4719.36,
+      "text": "你为什么说有些难公司天天暴涨",
+      "avg_logprob": -0.1187,
+      "no_speech_prob": 0.8389,
+      "review": true
+    },
+    {
+      "start": 4719.36,
+      "end": 4720.58,
+      "text": "世界上有炒点",
+      "avg_logprob": -0.1187,
+      "no_speech_prob": 0.8389,
+      "review": true
+    },
+    {
+      "start": 4720.58,
+      "end": 4721.98,
+      "text": "一会儿炒重组啦",
+      "avg_logprob": -0.1187,
+      "no_speech_prob": 0.8389,
+      "review": true
+    },
+    {
+      "start": 4721.98,
+      "end": 4723.36,
+      "text": "一会儿炒科技啦",
+      "avg_logprob": -0.1187,
+      "no_speech_prob": 0.8389,
+      "review": true
+    },
+    {
+      "start": 4723.36,
+      "end": 4724.7,
+      "text": "一会儿炒收购啦",
+      "avg_logprob": -0.1187,
+      "no_speech_prob": 0.8389,
+      "review": true
+    },
+    {
+      "start": 4724.7,
+      "end": 4726.78,
+      "text": "一会儿炒国家产业支持啦",
+      "avg_logprob": -0.1187,
+      "no_speech_prob": 0.8389,
+      "review": true
+    },
+    {
+      "start": 4726.78,
+      "end": 4728.96,
+      "text": "就是这种像什么证券啦",
+      "avg_logprob": -0.1187,
+      "no_speech_prob": 0.8389,
+      "review": true
+    },
+    {
+      "start": 4728.96,
+      "end": 4730.1,
+      "text": "船舶啦",
+      "avg_logprob": -0.1187,
+      "no_speech_prob": 0.8389,
+      "review": true
+    },
+    {
+      "start": 4730.1,
+      "end": 4731.78,
+      "text": "这些东西都没有炒点",
+      "avg_logprob": -0.1187,
+      "no_speech_prob": 0.8389,
+      "review": true
+    },
+    {
+      "start": 4731.78,
+      "end": 4734.86,
+      "text": "他天然就是油资也不会去做",
+      "avg_logprob": -0.1162,
+      "no_speech_prob": 0.3679,
+      "review": false
+    },
+    {
+      "start": 4734.86,
+      "end": 4736.86,
+      "text": "他就是全是产业基金",
+      "avg_logprob": -0.1162,
+      "no_speech_prob": 0.3679,
+      "review": false
+    },
+    {
+      "start": 4736.86,
+      "end": 4738.86,
+      "text": "全是那种公募基金在里面",
+      "avg_logprob": -0.1162,
+      "no_speech_prob": 0.3679,
+      "review": false
+    },
+    {
+      "start": 4738.86,
+      "end": 4740.08,
+      "text": "他没有",
+      "avg_logprob": -0.1162,
+      "no_speech_prob": 0.3679,
+      "review": false
+    },
+    {
+      "start": 4740.08,
+      "end": 4742.76,
+      "text": "反正说这种票我肯定不会去买",
+      "avg_logprob": -0.1162,
+      "no_speech_prob": 0.3679,
+      "review": false
+    },
+    {
+      "start": 4742.76,
+      "end": 4743.94,
+      "text": "我基本不会去买",
+      "avg_logprob": -0.1162,
+      "no_speech_prob": 0.3679,
+      "review": false
+    },
+    {
+      "start": 4743.94,
+      "end": 4746.64,
+      "text": "这种就除非突然一下股市暴涨",
+      "avg_logprob": -0.1162,
+      "no_speech_prob": 0.3679,
+      "review": false
+    },
+    {
+      "start": 4746.64,
+      "end": 4747.24,
+      "text": "他跟着涨",
+      "avg_logprob": -0.1162,
+      "no_speech_prob": 0.3679,
+      "review": false
+    },
+    {
+      "start": 4747.24,
+      "end": 4749.9,
+      "text": "一般的情况下他都很难涨起来",
+      "avg_logprob": -0.1162,
+      "no_speech_prob": 0.3679,
+      "review": false
+    },
+    {
+      "start": 4749.9,
+      "end": 4750.98,
+      "text": "很难很难涨起来",
+      "avg_logprob": -0.1162,
+      "no_speech_prob": 0.3679,
+      "review": false
+    },
+    {
+      "start": 4750.98,
+      "end": 4751.18,
+      "text": "好不好",
+      "avg_logprob": -0.1162,
+      "no_speech_prob": 0.3679,
+      "review": false
+    },
+    {
+      "start": 4751.18,
+      "end": 4753.26,
+      "text": "那你说我们买个煤炭",
+      "avg_logprob": -0.1162,
+      "no_speech_prob": 0.3679,
+      "review": false
+    },
+    {
+      "start": 4753.26,
+      "end": 4756.08,
+      "text": "有些时候煤炭还会超跌反弹一下",
+      "avg_logprob": -0.1162,
+      "no_speech_prob": 0.3679,
+      "review": false
+    },
+    {
+      "start": 4756.08,
+      "end": 4757.78,
+      "text": "你买个石油",
+      "avg_logprob": -0.1162,
+      "no_speech_prob": 0.3679,
+      "review": false
+    },
+    {
+      "start": 4757.78,
+      "end": 4759.4,
+      "text": "石油还跟着期货走一走",
+      "avg_logprob": -0.1162,
+      "no_speech_prob": 0.3679,
+      "review": false
+    },
+    {
+      "start": 4759.4,
+      "end": 4760.2,
+      "text": "你这个船舶",
+      "avg_logprob": -0.1162,
+      "no_speech_prob": 0.3679,
+      "review": false
+    },
+    {
+      "start": 4760.2,
+      "end": 4798.78,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0956,
+      "no_speech_prob": 0.2058,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 20.31
+}

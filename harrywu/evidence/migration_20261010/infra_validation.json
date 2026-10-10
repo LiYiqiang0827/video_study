@@ -1,0 +1,78 @@
+{
+  "date_jst": "2026-10-10",
+  "status": "PASS_SCOPED_MIGRATION_VALIDATION",
+  "source_root": "C:\\Project Rocket\\worktrees\\video-study-harrywu\\harrywu",
+  "python_executable": "C:\\Project Rocket\\Codex\\TradingAgent\\.venv\\Scripts\\python.exe",
+  "scope": "No source edits, no test rewriting or fixture remapping, no database/D-drive reads, no external models; generated outputs and caches directed to validation.",
+  "source_integrity": {
+    "files_checked": 63,
+    "sha256_mismatches": []
+  },
+  "chart_smoke": {
+    "exit_code": 0,
+    "rows": 250,
+    "start": "2025-09-08",
+    "end": "2026-09-17",
+    "cutoff": "2026-09-18T10:07:30+08:00",
+    "pixel_status": "pass",
+    "png": "C:\\Project Rocket\\outputs\\yuncong_github_handoff_20261010\\validation\\chart_smoke\\daily.png",
+    "png_sha256": "0b739e228d5c12b35e3a056d6505204c4e4c429ef5743290dfae84c52fccd622",
+    "warnings": [
+      "INTRADAY_DAY_OMITTED",
+      "CALENDAR_UNAVAILABLE",
+      "DISPLAY_ZOOM_WITHIN_CUTOFF"
+    ],
+    "visual_inspection": "PASS: inspected the resulting PNG; Chinese labels, prices, volume and 250 daily candles visible."
+  },
+  "chart_tests": {
+    "exit_code": 0,
+    "passed": 50,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0,
+    "deselected": 11,
+    "warnings": 68,
+    "selected_files": [
+      "test_render_options.py",
+      "test_pixel_check.py",
+      "test_minute_source.py"
+    ],
+    "filter": "not real and not dense_checker",
+    "junit": "C:\\Project Rocket\\outputs\\yuncong_github_handoff_20261010\\validation\\chart_subset_junit.xml",
+    "log": "C:\\Project Rocket\\outputs\\yuncong_github_handoff_20261010\\validation\\chart_subset_tests.log",
+    "full_suite_reexecuted": false,
+    "historical_full_suite_only": {
+      "passed": 411,
+      "skipped": 1
+    }
+  },
+  "weather_rebuild": {
+    "exit_code": 0,
+    "route": "published derived CSV",
+    "rows": 424,
+    "start": "2025-01-02",
+    "end": "2026-09-30",
+    "comparison_status": "PASS",
+    "compared_columns": 350,
+    "excluded_columns": [
+      "generated_at",
+      "data_cutoff",
+      "input_snapshot_id"
+    ],
+    "rtol": 1e-12,
+    "atol": 1e-10,
+    "differences": [],
+    "details": "C:\\Project Rocket\\outputs\\yuncong_github_handoff_20261010\\validation\\weather_comparison.json"
+  },
+  "documentation": {
+    "path": "C:\\Project Rocket\\worktrees\\video-study-harrywu\\harrywu\\docs\\QUICKSTART.md",
+    "embedded_python_syntax": "PASS",
+    "commands": "Modules/parameters and isolated test selection executed; portable output-path variables documented; no fresh dependency install or non-Windows validation performed."
+  },
+  "known_limits": [
+    "Full existing suite depends on absolute legacy fixtures and some legacy output locations; only scoped standalone tests run.",
+    "Minute reconstruction still requires separately supplied raw-minute data and an explicitly configured registry.",
+    "Daily smoke reports CALENDAR_UNAVAILABLE and omits the incomplete intraday day.",
+    "NumPy/Pandas timedelta deprecation warnings remain."
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "reason": "Only fixed closing ASR advertisement extended beyond media; original retained, excluded from validation and research.",
+  "removed_from_validation": [
+    {
+      "start": 6598.0,
+      "end": 6629.54,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "avg_logprob": -0.2672,
+      "no_speech_prob": 0.0,
+      "review": false,
+      "id": "s01775"
+    }
+  ],
+  "original_asr_sha256": "cf81fe0d5b8b9211e8bac2e933caad46d12ec92b66bb59ce7b2b28bfe5e383f7",
+  "validated_segments": 1775,
+  "checked_utc": "2026-10-05T11:05:27.467052+00:00"
+}

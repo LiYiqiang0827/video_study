@@ -1,0 +1,360 @@
+{
+  "schema": 2,
+  "version": "2.0",
+  "source": "C:\\Users\\HarryWu_IOKI\\Videos\\飞云双突破\\For GPT\\双突破所有买点.mkv",
+  "source_bytes": 776745015,
+  "source_sha256": "c44ccee04104201c1ae2cbb4f0e273cd31094844e090c4ff3fddd9eb445c9d59",
+  "source_modified": "2022-12-30T07:06:48.741730+00:00",
+  "params": {
+    "model": "large-v3",
+    "language": "zh",
+    "device": "cuda",
+    "compute_type": "float16",
+    "start": 0.0,
+    "end": null,
+    "vad": "conservative",
+    "chunk_seconds": 300,
+    "no_audio": false,
+    "no_video": true,
+    "no_ocr": false,
+    "frame_interval": null,
+    "change_threshold": 0.004,
+    "max_frames": 300,
+    "perspective": false,
+    "selected_audio_stream": 1,
+    "profile_sha256": "7dd677164d7ee353da6ed2b3230e9d9233ad7f441e963494d32ff75247b45c97"
+  },
+  "params_sha256": "1d00deb80b365b00a93a0a5366a5f2aeaa58801a7b595a378ac2e6e9f6e73b67",
+  "created": "2026-09-29T23:43:16.203929+00:00",
+  "start": 0.0,
+  "end": 3978.667,
+  "duration": 3978.667,
+  "streams": [
+    {
+      "index": 0,
+      "codec_name": "h264",
+      "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+      "profile": "High",
+      "codec_type": "video",
+      "codec_tag_string": "[0][0][0][0]",
+      "codec_tag": "0x0000",
+      "mime_codec_string": "avc1.64002a",
+      "width": 1920,
+      "height": 1080,
+      "coded_width": 1920,
+      "coded_height": 1080,
+      "has_b_frames": 1,
+      "sample_aspect_ratio": "1:1",
+      "display_aspect_ratio": "16:9",
+      "pix_fmt": "yuv420p",
+      "level": 42,
+      "color_range": "tv",
+      "color_space": "bt709",
+      "color_transfer": "bt709",
+      "color_primaries": "bt709",
+      "chroma_location": "left",
+      "field_order": "progressive",
+      "is_avc": "true",
+      "nal_length_size": "4",
+      "r_frame_rate": "60/1",
+      "avg_frame_rate": "60/1",
+      "time_base": "1/1000",
+      "start_pts": 0,
+      "start_time": "0.000000",
+      "bits_per_raw_sample": "8",
+      "extradata_size": 61,
+      "disposition": {
+        "default": 0,
+        "dub": 0,
+        "original": 0,
+        "comment": 0,
+        "lyrics": 0,
+        "karaoke": 0,
+        "forced": 0,
+        "hearing_impaired": 0,
+        "visual_impaired": 0,
+        "clean_effects": 0,
+        "attached_pic": 0,
+        "timed_thumbnails": 0,
+        "non_diegetic": 0,
+        "captions": 0,
+        "descriptions": 0,
+        "metadata": 0,
+        "dependent": 0,
+        "still_image": 0,
+        "multilayer": 0
+      },
+      "tags": {
+        "DURATION": "01:06:18.667000000"
+      }
+    },
+    {
+      "index": 1,
+      "codec_name": "aac",
+      "codec_long_name": "AAC (Advanced Audio Coding)",
+      "profile": "LC",
+      "codec_type": "audio",
+      "codec_tag_string": "[0][0][0][0]",
+      "codec_tag": "0x0000",
+      "mime_codec_string": "mp4a.40.2",
+      "sample_fmt": "fltp",
+      "sample_rate": "48000",
+      "channels": 2,
+      "channel_layout": "stereo",
+      "bits_per_sample": 0,
+      "initial_padding": 0,
+      "r_frame_rate": "0/0",
+      "avg_frame_rate": "0/0",
+      "time_base": "1/1000",
+      "start_pts": 0,
+      "start_time": "0.000000",
+      "extradata_size": 5,
+      "disposition": {
+        "default": 0,
+        "dub": 0,
+        "original": 0,
+        "comment": 0,
+        "lyrics": 0,
+        "karaoke": 0,
+        "forced": 0,
+        "hearing_impaired": 0,
+        "visual_impaired": 0,
+        "clean_effects": 0,
+        "attached_pic": 0,
+        "timed_thumbnails": 0,
+        "non_diegetic": 0,
+        "captions": 0,
+        "descriptions": 0,
+        "metadata": 0,
+        "dependent": 0,
+        "still_image": 0,
+        "multilayer": 0
+      },
+      "tags": {
+        "title": "simple_aac_recording",
+        "DURATION": "01:06:18.645000000"
+      }
+    }
+  ],
+  "steps": {
+    "audio": "complete",
+    "video": "skipped",
+    "evidence": "complete"
+  },
+  "model": {
+    "id": "large-v3",
+    "revision": "not pinned"
+  },
+  "chunks": [
+    {
+      "index": 0,
+      "sha256": "b7e1f51ca197e423adff939e6b3e7eaf9f03ad53218d697712e347bdd1d0466b",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 18.46,
+        "cpu_percent": 15.4,
+        "vram_free_gib": 5.99,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 1.84
+      },
+      "elapsed_seconds": 65.62
+    },
+    {
+      "index": 1,
+      "sha256": "e2361e70be803d5e67015fd7f65c03b74ca8e101158df2c736014bd020811d67",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 18.57,
+        "cpu_percent": 36.4,
+        "vram_free_gib": 2.15,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 5.68
+      },
+      "elapsed_seconds": 61.53
+    },
+    {
+      "index": 2,
+      "sha256": "6f65a7fef19b09f2209398e9e882cbb19a7fe2138c982540d1832421ef23a2f1",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 18.68,
+        "cpu_percent": 8.0,
+        "vram_free_gib": 2.14,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 5.69
+      },
+      "elapsed_seconds": 59.91
+    },
+    {
+      "index": 3,
+      "sha256": "8b58587be6840399838e90e58f1f6564b4b043b59d8136248cfaef2527da261a",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 18.65,
+        "cpu_percent": 27.9,
+        "vram_free_gib": 2.15,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 5.68
+      },
+      "elapsed_seconds": 77.55
+    },
+    {
+      "index": 4,
+      "sha256": "627871f51b59d1cf2b8f481263b889f8b8faf672d10496755395ae417a3058c9",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 18.66,
+        "cpu_percent": 2.7,
+        "vram_free_gib": 2.15,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 5.68
+      },
+      "elapsed_seconds": 61.94
+    },
+    {
+      "index": 5,
+      "sha256": "78ddad4d7a633c36ae43cc37f8621e075697c656aae960367e6617637ee56fcc",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 18.49,
+        "cpu_percent": 7.6,
+        "vram_free_gib": 2.17,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 5.66
+      },
+      "elapsed_seconds": 59.67
+    },
+    {
+      "index": 6,
+      "sha256": "32277111c1d7897653752e5d3eab056c98f74f5713559360ac3581916137a9e7",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 18.68,
+        "cpu_percent": 15.2,
+        "vram_free_gib": 2.17,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 5.66
+      },
+      "elapsed_seconds": 74.52
+    },
+    {
+      "index": 7,
+      "sha256": "1efad60d2564933655c722e02daaf4c543b6003d53c3aee594b233eaa8f9989f",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 18.68,
+        "cpu_percent": 14.5,
+        "vram_free_gib": 2.16,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 5.67
+      },
+      "elapsed_seconds": 67.78
+    },
+    {
+      "index": 8,
+      "sha256": "5f6ca23f3ced082546be9ebe13c0a1e3b9287b60e968a5f3b65fe0c31326a2ef",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 18.66,
+        "cpu_percent": 21.2,
+        "vram_free_gib": 2.15,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 5.68
+      },
+      "elapsed_seconds": 72.17
+    },
+    {
+      "index": 9,
+      "sha256": "b2ef4976c9a792a976cf85b9b29f25176877ead15c5659b3aeba6ffd7c0894f0",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 18.45,
+        "cpu_percent": 24.5,
+        "vram_free_gib": 2.14,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 5.69
+      },
+      "elapsed_seconds": 66.19
+    },
+    {
+      "index": 10,
+      "sha256": "1423a0caf836c83ebc485686e8ebe585a1bca8389e41a6e9f2e1cc8a67900e6a",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 18.64,
+        "cpu_percent": 9.7,
+        "vram_free_gib": 2.17,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 5.67
+      },
+      "elapsed_seconds": 61.51
+    },
+    {
+      "index": 11,
+      "sha256": "629c25461fd2e64f238e75d3fa3bdb11ddd652cd93a682b666bf9bdadc7d44c5",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 18.67,
+        "cpu_percent": 16.5,
+        "vram_free_gib": 2.15,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 5.68
+      },
+      "elapsed_seconds": 83.61
+    },
+    {
+      "index": 12,
+      "sha256": "10c1f6cfaf2818d3413399b2b8c41c9104e1f4c6eed942a2b22924748d8d722a",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 18.67,
+        "cpu_percent": 15.2,
+        "vram_free_gib": 2.15,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 5.68
+      },
+      "elapsed_seconds": 80.08
+    },
+    {
+      "index": 13,
+      "sha256": "bf86788643e6417d83c31774a2b54673c541c2b21afbf54e296937ce083f8ba4",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 18.48,
+        "cpu_percent": 4.4,
+        "vram_free_gib": 2.15,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 5.68
+      },
+      "elapsed_seconds": 25.36
+    }
+  ],
+  "audio": {
+    "model": "large-v3",
+    "segments": 2387,
+    "boundary_deduplication": [],
+    "possible_silence_intervals": [],
+    "review_count": 1887,
+    "elapsed_seconds": 917.44
+  },
+  "outputs": {
+    "speech.json": "113b742c38dc89f220ac3741e01ede4287277aca3c15d2b7a23486d3afe9d808",
+    "speech.md": "5fb49b5da18ad88224e2f76d9c96055a0e6a4c0740d7f783d20f92d29c56da4d"
+  },
+  "evidence_sha256": "5f54164c47d88f87dd9dc1821119224eb36a1bf837520ce2e9183337d94bde2d",
+  "updated": "2026-09-29T23:58:49.725254+00:00"
+}

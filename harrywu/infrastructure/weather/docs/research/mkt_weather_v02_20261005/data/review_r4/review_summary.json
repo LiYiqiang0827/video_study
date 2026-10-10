@@ -1,0 +1,28 @@
+{
+  "version": "project-review-v1-20261007",
+  "status": "computed",
+  "rows": 424,
+  "date_start": "2025-01-02",
+  "date_end": "2026-09-30",
+  "human_labels_used": false,
+  "threshold_changes_applied": false,
+  "calibration_refitted": false,
+  "returns_used": false,
+  "component_sums_verified": true,
+  "sensitivity_design": "each of four frozen weather cutpoints +/-3 individually; no selection",
+  "sample_note": "2025 calibration is retrospective; 2026 already used in project research",
+  "by_year": {
+    "2025": {
+      "days": 243,
+      "breadth_index_divergence_n": 55,
+      "active_under_pressure_n": 31,
+      "small_or_zero_group_n": 239
+    },
+    "2026": {
+      "days": 181,
+      "breadth_index_divergence_n": 45,
+      "active_under_pressure_n": 23,
+      "small_or_zero_group_n": 178
+    }
+  }
+}

@@ -1,0 +1,600 @@
+{
+  "begin": 1500.0,
+  "finish": 1800.0,
+  "segments": [
+    {
+      "start": 1498.0,
+      "end": 1508.48,
+      "text": "OK,好,我们现在看看今天的,因为先看题材嘛,今天如果没有什么题材的话,我就看资金了,我就开始刷资金流了,我们看看资金啊",
+      "avg_logprob": -0.1227,
+      "no_speech_prob": 0.0289,
+      "review": false
+    },
+    {
+      "start": 1508.48,
+      "end": 1514.14,
+      "text": "今天这个A股里面哪些资金,主力金额,我们看看哪些资金在进啊",
+      "avg_logprob": -0.1227,
+      "no_speech_prob": 0.0289,
+      "review": false
+    },
+    {
+      "start": 1514.14,
+      "end": 1529.12,
+      "text": "鲁迅创投,金峰,高开低走,化天,哈萨尼,靠,哈萨尼,我前段时间说哈萨尼众是百分之百的是做盘票",
+      "avg_logprob": -0.1227,
+      "no_speech_prob": 0.0289,
+      "review": false
+    },
+    {
+      "start": 1529.12,
+      "end": 1531.66,
+      "text": "但是这种做盘票也不追了",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.1459,
+      "review": false
+    },
+    {
+      "start": 1531.66,
+      "end": 1533.9,
+      "text": "它的流通值太小了",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.1459,
+      "review": false
+    },
+    {
+      "start": 1533.9,
+      "end": 1534.32,
+      "text": "太小了",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.1459,
+      "review": false
+    },
+    {
+      "start": 1534.32,
+      "end": 1535.32,
+      "text": "这种就是妖股嘛",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.1459,
+      "review": false
+    },
+    {
+      "start": 1535.32,
+      "end": 1537.08,
+      "text": "要么就是暴涨",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.1459,
+      "review": false
+    },
+    {
+      "start": 1537.08,
+      "end": 1537.76,
+      "text": "要么是暴跌",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.1459,
+      "review": false
+    },
+    {
+      "start": 1537.76,
+      "end": 1538.92,
+      "text": "保龙泰",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.1459,
+      "review": false
+    },
+    {
+      "start": 1538.92,
+      "end": 1539.92,
+      "text": "保龙泰我曾经买过",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.1459,
+      "review": false
+    },
+    {
+      "start": 1539.92,
+      "end": 1540.38,
+      "text": "你们记得没有",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.1459,
+      "review": false
+    },
+    {
+      "start": 1540.38,
+      "end": 1541.66,
+      "text": "老会员记得没有",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.1459,
+      "review": false
+    },
+    {
+      "start": 1541.66,
+      "end": 1543.18,
+      "text": "保龙泰我在这买的",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.1459,
+      "review": false
+    },
+    {
+      "start": 1543.18,
+      "end": 1544.14,
+      "text": "我们当时赚了",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.1459,
+      "review": false
+    },
+    {
+      "start": 1544.14,
+      "end": 1545.78,
+      "text": "这是去年的时候",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.1459,
+      "review": false
+    },
+    {
+      "start": 1545.78,
+      "end": 1546.54,
+      "text": "记得没有",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.1459,
+      "review": false
+    },
+    {
+      "start": 1546.54,
+      "end": 1547.66,
+      "text": "老朋友啊",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.1459,
+      "review": false
+    },
+    {
+      "start": 1547.66,
+      "end": 1548.54,
+      "text": "老朋友",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.1459,
+      "review": false
+    },
+    {
+      "start": 1548.54,
+      "end": 1550.52,
+      "text": "所以它就是有辨识度的票",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.1459,
+      "review": false
+    },
+    {
+      "start": 1550.52,
+      "end": 1552.5,
+      "text": "它就是喜欢拿涨评的票",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.1459,
+      "review": false
+    },
+    {
+      "start": 1552.5,
+      "end": 1553.46,
+      "text": "它就是喜欢拿涨评",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.1459,
+      "review": false
+    },
+    {
+      "start": 1553.46,
+      "end": 1554.82,
+      "text": "但是今天这个位置不好了",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.1459,
+      "review": false
+    },
+    {
+      "start": 1554.82,
+      "end": 1556.1,
+      "text": "我不会进啊",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.1459,
+      "review": false
+    },
+    {
+      "start": 1556.1,
+      "end": 1556.76,
+      "text": "哎呀多福多",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.1459,
+      "review": false
+    },
+    {
+      "start": 1556.76,
+      "end": 1558.74,
+      "text": "这是多年的好朋友了",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.1459,
+      "review": false
+    },
+    {
+      "start": 1558.74,
+      "end": 1592.4,
+      "text": "我靠这个,这个我都说了几年的票了,今天不买,今天不敢,这张位置不敢买,今天也是要谨慎买,反正我手里也一堆票了,我也不会再去买,煤炭呢是没有理由的,我觉得没有什么大理由,难道煤炭也是跟着二尔尼诺的,这个票有点意思啊,大家看一下,亨迪,你看他这个,这个,这个量价非常漂亮,流通值50个亿,50个亿还行,亨迪要一",
+      "avg_logprob": -0.1055,
+      "no_speech_prob": 0.0525,
+      "review": false
+    },
+    {
+      "start": 1593.64,
+      "end": 1602.1,
+      "text": "50个亿还行,你看这个量就有点意思了,你看,大家看这个量,下面这个量,还是不错的啊,它这个量还是有点意思啊",
+      "avg_logprob": -0.1576,
+      "no_speech_prob": 0.012,
+      "review": false
+    },
+    {
+      "start": 1602.1,
+      "end": 1623.01,
+      "text": "分时,好,我们先把选进来吧,先加到今日热点里面来,我们来查查吧,301211,我们看看是,它是个什么回事,怎么回事啊",
+      "avg_logprob": -0.1576,
+      "no_speech_prob": 0.012,
+      "review": false
+    },
+    {
+      "start": 1623.01,
+      "end": 1660.3,
+      "text": "301211,哦,资本大额留1000的核心医药上市平台,部落分原料赛道双巨头",
+      "avg_logprob": -0.1576,
+      "no_speech_prob": 0.012,
+      "review": false
+    },
+    {
+      "start": 1662.68,
+      "end": 1666.44,
+      "text": "它就是布洛芬制造上极其坚固的资质义护城河",
+      "avg_logprob": -0.1483,
+      "no_speech_prob": 0.0887,
+      "review": false
+    },
+    {
+      "start": 1666.44,
+      "end": 1671.39,
+      "text": "有很多美国的认证",
+      "avg_logprob": -0.1483,
+      "no_speech_prob": 0.0887,
+      "review": false
+    },
+    {
+      "start": 1671.39,
+      "end": 1672.97,
+      "text": "它主要是布洛芬的原料",
+      "avg_logprob": -0.1483,
+      "no_speech_prob": 0.0887,
+      "review": false
+    },
+    {
+      "start": 1672.97,
+      "end": 1677.55,
+      "text": "那要是疫情那年它不赚飞了",
+      "avg_logprob": -0.1483,
+      "no_speech_prob": 0.0887,
+      "review": false
+    },
+    {
+      "start": 1677.55,
+      "end": 1678.55,
+      "text": "疫情上市",
+      "avg_logprob": -0.1483,
+      "no_speech_prob": 0.0887,
+      "review": false
+    },
+    {
+      "start": 1678.55,
+      "end": 1684.11,
+      "text": "全球六大布洛芬原料厂之一",
+      "avg_logprob": -0.1483,
+      "no_speech_prob": 0.0887,
+      "review": false
+    },
+    {
+      "start": 1684.11,
+      "end": 1687.04,
+      "text": "那可以啊",
+      "avg_logprob": -0.1483,
+      "no_speech_prob": 0.0887,
+      "review": false
+    },
+    {
+      "start": 1687.04,
+      "end": 1687.92,
+      "text": "还是可以的",
+      "avg_logprob": -0.1483,
+      "no_speech_prob": 0.0887,
+      "review": false
+    },
+    {
+      "start": 1687.92,
+      "end": 1688.82,
+      "text": "还是可以的",
+      "avg_logprob": -0.1483,
+      "no_speech_prob": 0.0887,
+      "review": false
+    },
+    {
+      "start": 1688.82,
+      "end": 1691.08,
+      "text": "国内亨迪与新华制药",
+      "avg_logprob": -0.1483,
+      "no_speech_prob": 0.0887,
+      "review": false
+    },
+    {
+      "start": 1691.08,
+      "end": 1693.82,
+      "text": "常年维护着双寡头垄断格局",
+      "avg_logprob": -0.1483,
+      "no_speech_prob": 0.0887,
+      "review": false
+    },
+    {
+      "start": 1693.82,
+      "end": 1694.7,
+      "text": "那还可以啊",
+      "avg_logprob": -0.1483,
+      "no_speech_prob": 0.0887,
+      "review": false
+    },
+    {
+      "start": 1694.7,
+      "end": 1695.6,
+      "text": "只要有护城河",
+      "avg_logprob": -0.1483,
+      "no_speech_prob": 0.0887,
+      "review": false
+    },
+    {
+      "start": 1695.6,
+      "end": 1696.74,
+      "text": "它有一个垄断格局",
+      "avg_logprob": -0.1483,
+      "no_speech_prob": 0.0887,
+      "review": false
+    },
+    {
+      "start": 1696.74,
+      "end": 1698.02,
+      "text": "那就还可以啊",
+      "avg_logprob": -0.1483,
+      "no_speech_prob": 0.0887,
+      "review": false
+    },
+    {
+      "start": 1698.02,
+      "end": 1699.16,
+      "text": "顶级聚药制头",
+      "avg_logprob": -0.1483,
+      "no_speech_prob": 0.0887,
+      "review": false
+    },
+    {
+      "start": 1699.16,
+      "end": 1705.3,
+      "text": "它和海外的客户也是有联系性的比较高的",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.2244,
+      "review": false
+    },
+    {
+      "start": 1705.3,
+      "end": 1711.96,
+      "text": "相对说它是给海外所有药厂提供布洛芬原料的这么一个公司",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.2244,
+      "review": false
+    },
+    {
+      "start": 1711.96,
+      "end": 1714.9,
+      "text": "营收下降",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.2244,
+      "review": false
+    },
+    {
+      "start": 1714.9,
+      "end": 1720.3,
+      "text": "CDMO转型",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.2244,
+      "review": false
+    },
+    {
+      "start": 1720.3,
+      "end": 1726.1,
+      "text": "目前全力拓展什么什么抗癌药",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.2244,
+      "review": false
+    },
+    {
+      "start": 1726.1,
+      "end": 1728.08,
+      "text": "OK",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.2244,
+      "review": false
+    },
+    {
+      "start": 1728.08,
+      "end": 1728.9,
+      "text": "还行",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.2244,
+      "review": false
+    },
+    {
+      "start": 1728.9,
+      "end": 1732.78,
+      "text": "只要说它只要不是个烂公司",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.2244,
+      "review": false
+    },
+    {
+      "start": 1732.78,
+      "end": 1735.12,
+      "text": "我看它这一年暴涨是哪一年",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.2244,
+      "review": false
+    },
+    {
+      "start": 1735.12,
+      "end": 1741.84,
+      "text": "2022年,哦这还是疫情那一年,肯定是疫情那一年,疫情那一年暴涨,后面再也没有涨过了",
+      "avg_logprob": -0.1167,
+      "no_speech_prob": 0.4312,
+      "review": false
+    },
+    {
+      "start": 1741.84,
+      "end": 1748.28,
+      "text": "但是,哎呀,这个量,今天这个量,明天要是能够维持这个量还行",
+      "avg_logprob": -0.1167,
+      "no_speech_prob": 0.4312,
+      "review": false
+    },
+    {
+      "start": 1748.28,
+      "end": 1751.22,
+      "text": "今天这个量有一点点,那揍盘肯定是在揍盘了",
+      "avg_logprob": -0.1167,
+      "no_speech_prob": 0.4312,
+      "review": false
+    },
+    {
+      "start": 1751.22,
+      "end": 1754.96,
+      "text": "它不算是最完美的吧,我们再等一等吧",
+      "avg_logprob": -0.1167,
+      "no_speech_prob": 0.4312,
+      "review": false
+    },
+    {
+      "start": 1754.96,
+      "end": 1758.02,
+      "text": "不算是最完美的,我们看看还有没有更完美的",
+      "avg_logprob": -0.1167,
+      "no_speech_prob": 0.4312,
+      "review": false
+    },
+    {
+      "start": 1758.02,
+      "end": 1763.9,
+      "text": "但是它至少说算我看得上眼的,算我看得上眼的公司",
+      "avg_logprob": -0.1167,
+      "no_speech_prob": 0.4312,
+      "review": false
+    },
+    {
+      "start": 1763.9,
+      "end": 1777.39,
+      "text": "我现在不回答你们问题啊",
+      "avg_logprob": -0.1136,
+      "no_speech_prob": 0.1793,
+      "review": false
+    },
+    {
+      "start": 1777.39,
+      "end": 1779.37,
+      "text": "就是反正我就按照我的节奏来",
+      "avg_logprob": -0.1136,
+      "no_speech_prob": 0.1793,
+      "review": false
+    },
+    {
+      "start": 1779.37,
+      "end": 1781.21,
+      "text": "就你们也知道我每天是怎么工作的",
+      "avg_logprob": -0.1136,
+      "no_speech_prob": 0.1793,
+      "review": false
+    },
+    {
+      "start": 1781.21,
+      "end": 1782.03,
+      "text": "我每天都这样子的",
+      "avg_logprob": -0.1136,
+      "no_speech_prob": 0.1793,
+      "review": false
+    },
+    {
+      "start": 1782.03,
+      "end": 1783.27,
+      "text": "这是我每天的日常",
+      "avg_logprob": -0.1136,
+      "no_speech_prob": 0.1793,
+      "review": false
+    },
+    {
+      "start": 1783.27,
+      "end": 1788.38,
+      "text": "我每天就像这样子",
+      "avg_logprob": -0.1136,
+      "no_speech_prob": 0.1793,
+      "review": false
+    },
+    {
+      "start": 1788.38,
+      "end": 1790.52,
+      "text": "还有的因为有的朋友老说",
+      "avg_logprob": -0.1136,
+      "no_speech_prob": 0.1793,
+      "review": false
+    },
+    {
+      "start": 1790.52,
+      "end": 1792.78,
+      "text": "哎你你为什么不是说看题材吗",
+      "avg_logprob": -0.1136,
+      "no_speech_prob": 0.1793,
+      "review": false
+    },
+    {
+      "start": 1792.78,
+      "end": 1793.72,
+      "text": "为什么不先看题材",
+      "avg_logprob": -0.1136,
+      "no_speech_prob": 0.1793,
+      "review": false
+    },
+    {
+      "start": 1793.72,
+      "end": 1795.88,
+      "text": "我是先看了没有题材",
+      "avg_logprob": -0.1136,
+      "no_speech_prob": 0.1793,
+      "review": false
+    },
+    {
+      "start": 1795.88,
+      "end": 1797.36,
+      "text": "那么我就转向看资金流",
+      "avg_logprob": -0.1136,
+      "no_speech_prob": 0.1793,
+      "review": false
+    },
+    {
+      "start": 1797.36,
+      "end": 1799.2,
+      "text": "有题材我就只研究题材",
+      "avg_logprob": -0.1136,
+      "no_speech_prob": 0.1793,
+      "review": false
+    },
+    {
+      "start": 1799.2,
+      "end": 1800.46,
+      "text": "那比如前几天农业",
+      "avg_logprob": -0.1136,
+      "no_speech_prob": 0.1793,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 20.45
+}

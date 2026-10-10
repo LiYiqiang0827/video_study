@@ -1,0 +1,904 @@
+{
+  "begin": 3600.0,
+  "finish": 3900.0,
+  "segments": [
+    {
+      "start": 3598.0,
+      "end": 3629.28,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1145,
+      "no_speech_prob": 0.0911,
+      "review": false
+    },
+    {
+      "start": 3629.3,
+      "end": 3659.37,
+      "text": "20它是前面那个支撑位,是不是?你看,前面支撑位,所以你在20这个位置买还可以,现在追是不行的,但是如果你在当时在20左右买了,恭喜你,还是可以继续拿,没问题啊,没问题,但是你现在追我一般的是不太去建议大家注意,就是除非你愿意,首先你追任何票,你心里都会想,我一追,它就砸下来,",
+      "avg_logprob": -0.0539,
+      "no_speech_prob": 0.2028,
+      "review": false
+    },
+    {
+      "start": 3659.61,
+      "end": 3686.37,
+      "text": "好,你首先要把这个风险想起来,那么也就是说你追的话,就是一定要两批仓位,比如说你准备拿十万去追这个票,我建议你先拿五万,回抽再买五万,不回抽你这五万知道是赚钱的吗?是不是?你怕什么?少赚而已啊,但是一旦砸下来,你再买五万,也就是说你自己的底仓就是十万",
+      "avg_logprob": -0.0954,
+      "no_speech_prob": 0.0951,
+      "review": false
+    },
+    {
+      "start": 3686.37,
+      "end": 3688.43,
+      "text": "或者比如你拿100万追",
+      "avg_logprob": -0.1233,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 3688.43,
+      "end": 3689.17,
+      "text": "假设啊",
+      "avg_logprob": -0.1233,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 3689.17,
+      "end": 3690.61,
+      "text": "那么你先拿50万",
+      "avg_logprob": -0.1233,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 3690.61,
+      "end": 3693.77,
+      "text": "一定不能一下子拿全部拿进去",
+      "avg_logprob": -0.1233,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 3693.77,
+      "end": 3695.21,
+      "text": "那万一砸下来怎么办",
+      "avg_logprob": -0.1233,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 3695.21,
+      "end": 3697.91,
+      "text": "但是像这种位置你就可以",
+      "avg_logprob": -0.1233,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 3697.91,
+      "end": 3702.27,
+      "text": "你在我说的最完美的双突破的位置你去买",
+      "avg_logprob": -0.1233,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 3702.27,
+      "end": 3703.27,
+      "text": "那你比如你有10万",
+      "avg_logprob": -0.1233,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 3703.27,
+      "end": 3704.07,
+      "text": "你想直接全买",
+      "avg_logprob": -0.1233,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 3704.07,
+      "end": 3704.87,
+      "text": "那还可以",
+      "avg_logprob": -0.1233,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 3704.87,
+      "end": 3707.03,
+      "text": "但是如果一旦你错过了",
+      "avg_logprob": -0.1233,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 3707.03,
+      "end": 3708.63,
+      "text": "我个人强烈建议",
+      "avg_logprob": -0.1233,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 3708.63,
+      "end": 3710.35,
+      "text": "你先拿一半的钱出去追",
+      "avg_logprob": -0.1233,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 3710.35,
+      "end": 3712.97,
+      "text": "剩下一半回抽之后再买",
+      "avg_logprob": -0.1233,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 3712.97,
+      "end": 3714.09,
+      "text": "拉一个均价",
+      "avg_logprob": -0.1233,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 3714.09,
+      "end": 3717.85,
+      "text": "一反一要",
+      "avg_logprob": -0.1724,
+      "no_speech_prob": 0.2188,
+      "review": false
+    },
+    {
+      "start": 3717.85,
+      "end": 3721.78,
+      "text": "一反一要",
+      "avg_logprob": -0.1724,
+      "no_speech_prob": 0.2188,
+      "review": false
+    },
+    {
+      "start": 3721.78,
+      "end": 3727.15,
+      "text": "一反不行啊",
+      "avg_logprob": -0.1724,
+      "no_speech_prob": 0.2188,
+      "review": false
+    },
+    {
+      "start": 3727.15,
+      "end": 3728.47,
+      "text": "一反这个票不行啊",
+      "avg_logprob": -0.1724,
+      "no_speech_prob": 0.2188,
+      "review": false
+    },
+    {
+      "start": 3728.47,
+      "end": 3729.03,
+      "text": "明显不行",
+      "avg_logprob": -0.1724,
+      "no_speech_prob": 0.2188,
+      "review": false
+    },
+    {
+      "start": 3729.03,
+      "end": 3731.96,
+      "text": "我不太建议买一反",
+      "avg_logprob": -0.1724,
+      "no_speech_prob": 0.2188,
+      "review": false
+    },
+    {
+      "start": 3731.96,
+      "end": 3733.52,
+      "text": "一反这个明显不行",
+      "avg_logprob": -0.1724,
+      "no_speech_prob": 0.2188,
+      "review": false
+    },
+    {
+      "start": 3733.52,
+      "end": 3734.48,
+      "text": "我觉得啊",
+      "avg_logprob": -0.1724,
+      "no_speech_prob": 0.2188,
+      "review": false
+    },
+    {
+      "start": 3734.48,
+      "end": 3736.08,
+      "text": "你从K线的角度来看",
+      "avg_logprob": -0.1724,
+      "no_speech_prob": 0.2188,
+      "review": false
+    },
+    {
+      "start": 3736.08,
+      "end": 3736.36,
+      "text": "你看",
+      "avg_logprob": -0.1724,
+      "no_speech_prob": 0.2188,
+      "review": false
+    },
+    {
+      "start": 3736.36,
+      "end": 3738.98,
+      "text": "简单的价格行为学",
+      "avg_logprob": -0.1724,
+      "no_speech_prob": 0.2188,
+      "review": false
+    },
+    {
+      "start": 3738.98,
+      "end": 3740.44,
+      "text": "大阳线大阳线",
+      "avg_logprob": -0.1724,
+      "no_speech_prob": 0.2188,
+      "review": false
+    },
+    {
+      "start": 3740.44,
+      "end": 3742.18,
+      "text": "但是马上大阴线",
+      "avg_logprob": -0.1724,
+      "no_speech_prob": 0.2188,
+      "review": false
+    },
+    {
+      "start": 3742.18,
+      "end": 3744.32,
+      "text": "这就是好比两个人打拳",
+      "avg_logprob": -0.1724,
+      "no_speech_prob": 0.2188,
+      "review": false
+    },
+    {
+      "start": 3744.32,
+      "end": 3746.54,
+      "text": "我一拳打过来",
+      "avg_logprob": -0.1724,
+      "no_speech_prob": 0.2188,
+      "review": false
+    },
+    {
+      "start": 3746.54,
+      "end": 3748.52,
+      "text": "那么对方应该被干趴下了",
+      "avg_logprob": -0.1724,
+      "no_speech_prob": 0.2188,
+      "review": false
+    },
+    {
+      "start": 3748.52,
+      "end": 3749.52,
+      "text": "空头",
+      "avg_logprob": -0.1724,
+      "no_speech_prob": 0.2188,
+      "review": false
+    },
+    {
+      "start": 3749.52,
+      "end": 3751.6,
+      "text": "按理说应该被干趴下了",
+      "avg_logprob": -0.1599,
+      "no_speech_prob": 0.0848,
+      "review": false
+    },
+    {
+      "start": 3751.6,
+      "end": 3753.94,
+      "text": "如果亦凡真正的好",
+      "avg_logprob": -0.1599,
+      "no_speech_prob": 0.0848,
+      "review": false
+    },
+    {
+      "start": 3753.94,
+      "end": 3754.72,
+      "text": "他会怎么走",
+      "avg_logprob": -0.1599,
+      "no_speech_prob": 0.0848,
+      "review": false
+    },
+    {
+      "start": 3754.72,
+      "end": 3757.0,
+      "text": "他不会在这儿这么打",
+      "avg_logprob": -0.1599,
+      "no_speech_prob": 0.0848,
+      "review": false
+    },
+    {
+      "start": 3757.0,
+      "end": 3759.18,
+      "text": "他会这样子",
+      "avg_logprob": -0.1599,
+      "no_speech_prob": 0.0848,
+      "review": false
+    },
+    {
+      "start": 3759.18,
+      "end": 3760.14,
+      "text": "是吧",
+      "avg_logprob": -0.1599,
+      "no_speech_prob": 0.0848,
+      "review": false
+    },
+    {
+      "start": 3760.14,
+      "end": 3761.44,
+      "text": "真正的走",
+      "avg_logprob": -0.1599,
+      "no_speech_prob": 0.0848,
+      "review": false
+    },
+    {
+      "start": 3761.44,
+      "end": 3762.24,
+      "text": "他会这样走",
+      "avg_logprob": -0.1599,
+      "no_speech_prob": 0.0848,
+      "review": false
+    },
+    {
+      "start": 3762.24,
+      "end": 3766.68,
+      "text": "永远把这个回抽点控制在一个小物范围之内",
+      "avg_logprob": -0.1599,
+      "no_speech_prob": 0.0848,
+      "review": false
+    },
+    {
+      "start": 3766.68,
+      "end": 3768.1,
+      "text": "那么这么就算好",
+      "avg_logprob": -0.1599,
+      "no_speech_prob": 0.0848,
+      "review": false
+    },
+    {
+      "start": 3768.1,
+      "end": 3769.92,
+      "text": "再次突破那还可以买",
+      "avg_logprob": -0.1599,
+      "no_speech_prob": 0.0848,
+      "review": false
+    },
+    {
+      "start": 3769.92,
+      "end": 3772.12,
+      "text": "但是他明显跌得太深了",
+      "avg_logprob": -0.1599,
+      "no_speech_prob": 0.0848,
+      "review": false
+    },
+    {
+      "start": 3772.12,
+      "end": 3774.34,
+      "text": "好跌得深也无所谓",
+      "avg_logprob": -0.1599,
+      "no_speech_prob": 0.0848,
+      "review": false
+    },
+    {
+      "start": 3774.34,
+      "end": 3774.9,
+      "text": "说实话",
+      "avg_logprob": -0.1599,
+      "no_speech_prob": 0.0848,
+      "review": false
+    },
+    {
+      "start": 3774.9,
+      "end": 3777.3,
+      "text": "跌得深你在这儿还可以买一下",
+      "avg_logprob": -0.1599,
+      "no_speech_prob": 0.0848,
+      "review": false
+    },
+    {
+      "start": 3777.3,
+      "end": 3779.6,
+      "text": "但是它跌到深之后它又不行了呀",
+      "avg_logprob": -0.1438,
+      "no_speech_prob": 0.0107,
+      "review": false
+    },
+    {
+      "start": 3779.6,
+      "end": 3782.14,
+      "text": "你看它跌深了之后上不去呀",
+      "avg_logprob": -0.1438,
+      "no_speech_prob": 0.0107,
+      "review": false
+    },
+    {
+      "start": 3782.14,
+      "end": 3784.62,
+      "text": "它如果就说就算它跌深了",
+      "avg_logprob": -0.1438,
+      "no_speech_prob": 0.0107,
+      "review": false
+    },
+    {
+      "start": 3784.62,
+      "end": 3785.58,
+      "text": "它就洗盘",
+      "avg_logprob": -0.1438,
+      "no_speech_prob": 0.0107,
+      "review": false
+    },
+    {
+      "start": 3785.58,
+      "end": 3787.3,
+      "text": "它应该快速拿上去",
+      "avg_logprob": -0.1438,
+      "no_speech_prob": 0.0107,
+      "review": false
+    },
+    {
+      "start": 3787.3,
+      "end": 3788.3,
+      "text": "走微信反转",
+      "avg_logprob": -0.1438,
+      "no_speech_prob": 0.0107,
+      "review": false
+    },
+    {
+      "start": 3788.3,
+      "end": 3789.18,
+      "text": "没有没有",
+      "avg_logprob": -0.1438,
+      "no_speech_prob": 0.0107,
+      "review": false
+    },
+    {
+      "start": 3789.18,
+      "end": 3790.7,
+      "text": "它走得太弱了",
+      "avg_logprob": -0.1438,
+      "no_speech_prob": 0.0107,
+      "review": false
+    },
+    {
+      "start": 3790.7,
+      "end": 3791.56,
+      "text": "太弱了",
+      "avg_logprob": -0.1438,
+      "no_speech_prob": 0.0107,
+      "review": false
+    },
+    {
+      "start": 3791.56,
+      "end": 3793.72,
+      "text": "反正这是我的观点啊",
+      "avg_logprob": -0.1438,
+      "no_speech_prob": 0.0107,
+      "review": false
+    },
+    {
+      "start": 3793.72,
+      "end": 3795.38,
+      "text": "从K线形态",
+      "avg_logprob": -0.1438,
+      "no_speech_prob": 0.0107,
+      "review": false
+    },
+    {
+      "start": 3795.38,
+      "end": 3796.7,
+      "text": "从K线图形",
+      "avg_logprob": -0.1438,
+      "no_speech_prob": 0.0107,
+      "review": false
+    },
+    {
+      "start": 3796.7,
+      "end": 3798.84,
+      "text": "从价格行为学的角度来讲",
+      "avg_logprob": -0.1438,
+      "no_speech_prob": 0.0107,
+      "review": false
+    },
+    {
+      "start": 3798.84,
+      "end": 3800.0,
+      "text": "它走得太长太长",
+      "avg_logprob": -0.1438,
+      "no_speech_prob": 0.0107,
+      "review": false
+    },
+    {
+      "start": 3800.0,
+      "end": 3801.38,
+      "text": "不值得参与",
+      "avg_logprob": -0.1438,
+      "no_speech_prob": 0.0107,
+      "review": false
+    },
+    {
+      "start": 3801.38,
+      "end": 3807.98,
+      "text": "上周五开的空单怎么处理",
+      "avg_logprob": -0.1438,
+      "no_speech_prob": 0.0107,
+      "review": false
+    },
+    {
+      "start": 3807.98,
+      "end": 3809.44,
+      "text": "哎呀现在不赚钱了吗",
+      "avg_logprob": -0.1438,
+      "no_speech_prob": 0.0107,
+      "review": false
+    },
+    {
+      "start": 3809.44,
+      "end": 3810.64,
+      "text": "赚钱下周再说吧",
+      "avg_logprob": -0.1438,
+      "no_speech_prob": 0.0107,
+      "review": false
+    },
+    {
+      "start": 3810.64,
+      "end": 3810.9,
+      "text": "好不好",
+      "avg_logprob": -0.1438,
+      "no_speech_prob": 0.0107,
+      "review": false
+    },
+    {
+      "start": 3810.9,
+      "end": 3813.0,
+      "text": "我的观点是这样子啊",
+      "avg_logprob": -0.1994,
+      "no_speech_prob": 0.0861,
+      "review": false
+    },
+    {
+      "start": 3813.0,
+      "end": 3814.7,
+      "text": "我跟你说一下我的怎么处理啊",
+      "avg_logprob": -0.1994,
+      "no_speech_prob": 0.0861,
+      "review": false
+    },
+    {
+      "start": 3814.7,
+      "end": 3815.5,
+      "text": "好美股",
+      "avg_logprob": -0.1994,
+      "no_speech_prob": 0.0861,
+      "review": false
+    },
+    {
+      "start": 3815.5,
+      "end": 3817.38,
+      "text": "美股现在不是在跌吗",
+      "avg_logprob": -0.1994,
+      "no_speech_prob": 0.0861,
+      "review": false
+    },
+    {
+      "start": 3817.38,
+      "end": 3819.72,
+      "text": "那么现在在跌的话",
+      "avg_logprob": -0.1994,
+      "no_speech_prob": 0.0861,
+      "review": false
+    },
+    {
+      "start": 3819.72,
+      "end": 3822.0,
+      "text": "605我们看一下啊",
+      "avg_logprob": -0.1994,
+      "no_speech_prob": 0.0861,
+      "review": false
+    },
+    {
+      "start": 3822.0,
+      "end": 3822.8,
+      "text": "605在哪",
+      "avg_logprob": -0.1994,
+      "no_speech_prob": 0.0861,
+      "review": false
+    },
+    {
+      "start": 3822.8,
+      "end": 3824.74,
+      "text": "605在这儿啊",
+      "avg_logprob": -0.1994,
+      "no_speech_prob": 0.0861,
+      "review": false
+    },
+    {
+      "start": 3824.74,
+      "end": 3825.86,
+      "text": "差不多啊",
+      "avg_logprob": -0.1994,
+      "no_speech_prob": 0.0861,
+      "review": false
+    },
+    {
+      "start": 3825.86,
+      "end": 3827.16,
+      "text": "好如果",
+      "avg_logprob": -0.1994,
+      "no_speech_prob": 0.0861,
+      "review": false
+    },
+    {
+      "start": 3827.16,
+      "end": 3830.5,
+      "text": "如果开盘在这儿",
+      "avg_logprob": -0.1994,
+      "no_speech_prob": 0.0861,
+      "review": false
+    },
+    {
+      "start": 3830.5,
+      "end": 3834.6,
+      "text": "他如果开盘之后往下砸就吃仓",
+      "avg_logprob": -0.1994,
+      "no_speech_prob": 0.0861,
+      "review": false
+    },
+    {
+      "start": 3834.6,
+      "end": 3836.18,
+      "text": "好不好空单吃仓",
+      "avg_logprob": -0.1994,
+      "no_speech_prob": 0.0861,
+      "review": false
+    },
+    {
+      "start": 3836.18,
+      "end": 3837.74,
+      "text": "空单吃仓",
+      "avg_logprob": -0.1994,
+      "no_speech_prob": 0.0861,
+      "review": false
+    },
+    {
+      "start": 3837.74,
+      "end": 3845.04,
+      "text": "那么如果它直接往上",
+      "avg_logprob": -0.2118,
+      "no_speech_prob": 0.0637,
+      "review": false
+    },
+    {
+      "start": 3845.04,
+      "end": 3846.4,
+      "text": "那么怎么办",
+      "avg_logprob": -0.2118,
+      "no_speech_prob": 0.0637,
+      "review": false
+    },
+    {
+      "start": 3846.4,
+      "end": 3848.54,
+      "text": "直接马上往上",
+      "avg_logprob": -0.2118,
+      "no_speech_prob": 0.0637,
+      "review": false
+    },
+    {
+      "start": 3848.54,
+      "end": 3852.0,
+      "text": "那我你看不是我买的不同到期吗",
+      "avg_logprob": -0.2118,
+      "no_speech_prob": 0.0637,
+      "review": false
+    },
+    {
+      "start": 3852.0,
+      "end": 3857.46,
+      "text": "周一到期期权马上之一",
+      "avg_logprob": -0.2118,
+      "no_speech_prob": 0.0637,
+      "review": false
+    },
+    {
+      "start": 3857.46,
+      "end": 3863.1,
+      "text": "留周五到期期权",
+      "avg_logprob": -0.2118,
+      "no_speech_prob": 0.0637,
+      "review": false
+    },
+    {
+      "start": 3863.1,
+      "end": 3864.8,
+      "text": "这是我的处理方式啊",
+      "avg_logprob": -0.2118,
+      "no_speech_prob": 0.0637,
+      "review": false
+    },
+    {
+      "start": 3864.8,
+      "end": 3865.0,
+      "text": "好",
+      "avg_logprob": -0.2118,
+      "no_speech_prob": 0.0637,
+      "review": false
+    },
+    {
+      "start": 3865.0,
+      "end": 3867.3,
+      "text": "这是第一种模型",
+      "avg_logprob": -0.2118,
+      "no_speech_prob": 0.0637,
+      "review": false
+    },
+    {
+      "start": 3867.3,
+      "end": 3868.76,
+      "text": "就是直接往上砸",
+      "avg_logprob": -0.2118,
+      "no_speech_prob": 0.0637,
+      "review": false
+    },
+    {
+      "start": 3868.76,
+      "end": 3871.56,
+      "text": "第二种模型就是突破开盘",
+      "avg_logprob": -0.2118,
+      "no_speech_prob": 0.0637,
+      "review": false
+    },
+    {
+      "start": 3871.56,
+      "end": 3873.0,
+      "text": "那么我就会",
+      "avg_logprob": -0.184,
+      "no_speech_prob": 0.1219,
+      "review": false
+    },
+    {
+      "start": 3873.0,
+      "end": 3874.58,
+      "text": "所以就是为什么说你要",
+      "avg_logprob": -0.184,
+      "no_speech_prob": 0.1219,
+      "review": false
+    },
+    {
+      "start": 3874.58,
+      "end": 3876.38,
+      "text": "你要有不同的策略",
+      "avg_logprob": -0.184,
+      "no_speech_prob": 0.1219,
+      "review": false
+    },
+    {
+      "start": 3876.38,
+      "end": 3877.08,
+      "text": "突破开盘",
+      "avg_logprob": -0.184,
+      "no_speech_prob": 0.1219,
+      "review": false
+    },
+    {
+      "start": 3877.08,
+      "end": 3878.72,
+      "text": "那么如果",
+      "avg_logprob": -0.184,
+      "no_speech_prob": 0.1219,
+      "review": false
+    },
+    {
+      "start": 3878.72,
+      "end": 3882.0,
+      "text": "因为现在没有如果了",
+      "avg_logprob": -0.184,
+      "no_speech_prob": 0.1219,
+      "review": false
+    },
+    {
+      "start": 3882.0,
+      "end": 3882.9,
+      "text": "因为它低开了嘛",
+      "avg_logprob": -0.184,
+      "no_speech_prob": 0.1219,
+      "review": false
+    },
+    {
+      "start": 3882.9,
+      "end": 3884.78,
+      "text": "反正我像是如果高开了就砍仓了",
+      "avg_logprob": -0.184,
+      "no_speech_prob": 0.1219,
+      "review": false
+    },
+    {
+      "start": 3884.78,
+      "end": 3885.5,
+      "text": "这算了",
+      "avg_logprob": -0.184,
+      "no_speech_prob": 0.1219,
+      "review": false
+    },
+    {
+      "start": 3885.5,
+      "end": 3886.94,
+      "text": "但因为它现在做的正确的嘛",
+      "avg_logprob": -0.184,
+      "no_speech_prob": 0.1219,
+      "review": false
+    },
+    {
+      "start": 3886.94,
+      "end": 3888.0,
+      "text": "那我一般就是这样子",
+      "avg_logprob": -0.184,
+      "no_speech_prob": 0.1219,
+      "review": false
+    },
+    {
+      "start": 3888.0,
+      "end": 3890.14,
+      "text": "如果低开",
+      "avg_logprob": -0.184,
+      "no_speech_prob": 0.1219,
+      "review": false
+    },
+    {
+      "start": 3890.14,
+      "end": 3892.4,
+      "text": "一直在开盘价之下",
+      "avg_logprob": -0.184,
+      "no_speech_prob": 0.1219,
+      "review": false
+    },
+    {
+      "start": 3892.4,
+      "end": 3893.1,
+      "text": "直接往下砸",
+      "avg_logprob": -0.184,
+      "no_speech_prob": 0.1219,
+      "review": false
+    },
+    {
+      "start": 3893.1,
+      "end": 3894.04,
+      "text": "空单持仓",
+      "avg_logprob": -0.184,
+      "no_speech_prob": 0.1219,
+      "review": false
+    },
+    {
+      "start": 3894.04,
+      "end": 3896.58,
+      "text": "如果突破开盘价往上走",
+      "avg_logprob": -0.184,
+      "no_speech_prob": 0.1219,
+      "review": false
+    },
+    {
+      "start": 3896.58,
+      "end": 3899.14,
+      "text": "赶快先把最近的期权",
+      "avg_logprob": -0.184,
+      "no_speech_prob": 0.1219,
+      "review": false
+    },
+    {
+      "start": 3899.14,
+      "end": 3900.52,
+      "text": "先全部给我指引掉",
+      "avg_logprob": -0.184,
+      "no_speech_prob": 0.1219,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 23.75
+}

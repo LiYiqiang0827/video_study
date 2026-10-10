@@ -1,0 +1,416 @@
+{
+  "begin": 1500.0,
+  "finish": 1800.0,
+  "segments": [
+    {
+      "start": 1498.0,
+      "end": 1530.62,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.112,
+      "no_speech_prob": 0.71,
+      "review": true
+    },
+    {
+      "start": 1530.64,
+      "end": 1572.79,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0975,
+      "no_speech_prob": 0.1434,
+      "review": false
+    },
+    {
+      "start": 1572.81,
+      "end": 1616.75,
+      "text": "这些在东阳光,算力租赁230亿,那位置不好,行云科技83亿,位置也不好,封住手,封住手昨天你们有人在问,我没有做,算力租赁我没做了,服务器采购不超110亿,不超呢,那都是不超,啥意思,好,写创数据,位置也一般,算了,不去追它",
+      "avg_logprob": -0.1105,
+      "no_speech_prob": 0.0599,
+      "review": false
+    },
+    {
+      "start": 1616.75,
+      "end": 1622.44,
+      "text": "红博还是多肯出海",
+      "avg_logprob": -0.2072,
+      "no_speech_prob": 0.191,
+      "review": false
+    },
+    {
+      "start": 1622.44,
+      "end": 1623.8,
+      "text": "昨天我们就看了多肯出海",
+      "avg_logprob": -0.2072,
+      "no_speech_prob": 0.191,
+      "review": false
+    },
+    {
+      "start": 1623.8,
+      "end": 1624.16,
+      "text": "红博",
+      "avg_logprob": -0.2072,
+      "no_speech_prob": 0.191,
+      "review": false
+    },
+    {
+      "start": 1624.16,
+      "end": 1626.8,
+      "text": "这种是妖骨",
+      "avg_logprob": -0.2072,
+      "no_speech_prob": 0.191,
+      "review": false
+    },
+    {
+      "start": 1626.8,
+      "end": 1628.24,
+      "text": "说说这种太妖了",
+      "avg_logprob": -0.2072,
+      "no_speech_prob": 0.191,
+      "review": false
+    },
+    {
+      "start": 1628.24,
+      "end": 1630.28,
+      "text": "红博他的太妖了",
+      "avg_logprob": -0.2072,
+      "no_speech_prob": 0.191,
+      "review": false
+    },
+    {
+      "start": 1630.28,
+      "end": 1632.14,
+      "text": "他财务税太烂了",
+      "avg_logprob": -0.2072,
+      "no_speech_prob": 0.191,
+      "review": false
+    },
+    {
+      "start": 1632.14,
+      "end": 1632.72,
+      "text": "首都在线",
+      "avg_logprob": -0.2072,
+      "no_speech_prob": 0.191,
+      "review": false
+    },
+    {
+      "start": 1632.72,
+      "end": 1640.12,
+      "text": "这个算了",
+      "avg_logprob": -0.2072,
+      "no_speech_prob": 0.191,
+      "review": false
+    },
+    {
+      "start": 1640.12,
+      "end": 1642.52,
+      "text": "整体我觉得也没有什么题材",
+      "avg_logprob": -0.2072,
+      "no_speech_prob": 0.191,
+      "review": false
+    },
+    {
+      "start": 1642.52,
+      "end": 1643.42,
+      "text": "阿里云模块",
+      "avg_logprob": -0.2072,
+      "no_speech_prob": 0.191,
+      "review": false
+    },
+    {
+      "start": 1643.42,
+      "end": 1644.38,
+      "text": "AIDC我看看",
+      "avg_logprob": -0.2072,
+      "no_speech_prob": 0.191,
+      "review": false
+    },
+    {
+      "start": 1644.38,
+      "end": 1646.14,
+      "text": "中级",
+      "avg_logprob": -0.2072,
+      "no_speech_prob": 0.191,
+      "review": false
+    },
+    {
+      "start": 1646.14,
+      "end": 1647.86,
+      "text": "深上的",
+      "avg_logprob": -0.2072,
+      "no_speech_prob": 0.191,
+      "review": false
+    },
+    {
+      "start": 1647.86,
+      "end": 1649.1,
+      "text": "中横",
+      "avg_logprob": -0.2072,
+      "no_speech_prob": 0.191,
+      "review": false
+    },
+    {
+      "start": 1649.1,
+      "end": 1660.41,
+      "text": "这些不行",
+      "avg_logprob": -0.2072,
+      "no_speech_prob": 0.191,
+      "review": false
+    },
+    {
+      "start": 1660.41,
+      "end": 1662.65,
+      "text": "这些题材可能搞不好就一直有",
+      "avg_logprob": -0.2072,
+      "no_speech_prob": 0.191,
+      "review": false
+    },
+    {
+      "start": 1662.65,
+      "end": 1664.29,
+      "text": "一直有",
+      "avg_logprob": -0.2072,
+      "no_speech_prob": 0.191,
+      "review": false
+    },
+    {
+      "start": 1664.29,
+      "end": 1667.05,
+      "text": "这个题材可能就这一天,涨一天它就没了",
+      "avg_logprob": -0.1464,
+      "no_speech_prob": 0.3523,
+      "review": false
+    },
+    {
+      "start": 1667.05,
+      "end": 1675.13,
+      "text": "紫光数据中心交换机占第一,位置不好,也不行,也不行,也不行",
+      "avg_logprob": -0.1464,
+      "no_speech_prob": 0.3523,
+      "review": false
+    },
+    {
+      "start": 1675.13,
+      "end": 1705.59,
+      "text": "好,没有啥,整体还行,就这两个被锤了,我们等会看看,整体没有啥",
+      "avg_logprob": -0.1464,
+      "no_speech_prob": 0.3523,
+      "review": false
+    },
+    {
+      "start": 1705.59,
+      "end": 1712.22,
+      "text": "我们看看资金吧,这两天进的资金,哪些在进",
+      "avg_logprob": -0.1464,
+      "no_speech_prob": 0.3523,
+      "review": false
+    },
+    {
+      "start": 1712.22,
+      "end": 1719.66,
+      "text": "绿通电子,寒武纪,寒武纪还在涨",
+      "avg_logprob": -0.1464,
+      "no_speech_prob": 0.3523,
+      "review": false
+    },
+    {
+      "start": 1719.66,
+      "end": 1728.57,
+      "text": "嗯,嗯,长兴,长兴还可以",
+      "avg_logprob": -0.1435,
+      "no_speech_prob": 0.1641,
+      "review": false
+    },
+    {
+      "start": 1728.57,
+      "end": 1730.59,
+      "text": "天赋",
+      "avg_logprob": -0.1435,
+      "no_speech_prob": 0.1641,
+      "review": false
+    },
+    {
+      "start": 1730.59,
+      "end": 1734.22,
+      "text": "哦,新易盛这张四点击",
+      "avg_logprob": -0.1435,
+      "no_speech_prob": 0.1641,
+      "review": false
+    },
+    {
+      "start": 1734.22,
+      "end": 1736.96,
+      "text": "昨天我说其实新易盛那个位置挺好的,是吧",
+      "avg_logprob": -0.1435,
+      "no_speech_prob": 0.1641,
+      "review": false
+    },
+    {
+      "start": 1736.96,
+      "end": 1738.82,
+      "text": "昨天我说新易盛那个位置是一个买点",
+      "avg_logprob": -0.1435,
+      "no_speech_prob": 0.1641,
+      "review": false
+    },
+    {
+      "start": 1738.82,
+      "end": 1741.06,
+      "text": "但是盘子太大了,我就放弃了",
+      "avg_logprob": -0.1435,
+      "no_speech_prob": 0.1641,
+      "review": false
+    },
+    {
+      "start": 1741.06,
+      "end": 1750.87,
+      "text": "神广呢,这种,哎,这种,这种张厅",
+      "avg_logprob": -0.1435,
+      "no_speech_prob": 0.1641,
+      "review": false
+    },
+    {
+      "start": 1750.87,
+      "end": 1755.34,
+      "text": "神广反正是这个,就是广告营销里面的龙头了",
+      "avg_logprob": -0.1435,
+      "no_speech_prob": 0.1641,
+      "review": false
+    },
+    {
+      "start": 1755.34,
+      "end": 1759.86,
+      "text": "我有这个,我有一个蓝色光标了,我就不买神广了",
+      "avg_logprob": -0.1435,
+      "no_speech_prob": 0.1641,
+      "review": false
+    },
+    {
+      "start": 1759.86,
+      "end": 1762.52,
+      "text": "我手里有了就不买了",
+      "avg_logprob": -0.1593,
+      "no_speech_prob": 0.095,
+      "review": false
+    },
+    {
+      "start": 1762.52,
+      "end": 1763.76,
+      "text": "华电能源",
+      "avg_logprob": -0.1593,
+      "no_speech_prob": 0.095,
+      "review": false
+    },
+    {
+      "start": 1763.76,
+      "end": 1771.97,
+      "text": "华电其实很好",
+      "avg_logprob": -0.1593,
+      "no_speech_prob": 0.095,
+      "review": false
+    },
+    {
+      "start": 1771.97,
+      "end": 1773.97,
+      "text": "华电这个位置",
+      "avg_logprob": -0.1593,
+      "no_speech_prob": 0.095,
+      "review": false
+    },
+    {
+      "start": 1773.97,
+      "end": 1776.29,
+      "text": "但是它已经涨了一波两波三波了",
+      "avg_logprob": -0.1593,
+      "no_speech_prob": 0.095,
+      "review": false
+    },
+    {
+      "start": 1776.29,
+      "end": 1778.87,
+      "text": "你根本不知道它这一波是增长",
+      "avg_logprob": -0.1593,
+      "no_speech_prob": 0.095,
+      "review": false
+    },
+    {
+      "start": 1778.87,
+      "end": 1781.35,
+      "text": "还是只是为了解这个套牢盘",
+      "avg_logprob": -0.1593,
+      "no_speech_prob": 0.095,
+      "review": false
+    },
+    {
+      "start": 1781.35,
+      "end": 1783.8,
+      "text": "但是这个位置",
+      "avg_logprob": -0.1593,
+      "no_speech_prob": 0.095,
+      "review": false
+    },
+    {
+      "start": 1783.8,
+      "end": 1784.58,
+      "text": "我觉得还是可以的",
+      "avg_logprob": -0.1593,
+      "no_speech_prob": 0.095,
+      "review": false
+    },
+    {
+      "start": 1784.58,
+      "end": 1786.32,
+      "text": "先把它放在今日关注里面吧",
+      "avg_logprob": -0.1593,
+      "no_speech_prob": 0.095,
+      "review": false
+    },
+    {
+      "start": 1786.32,
+      "end": 1790.1,
+      "text": "中继续创",
+      "avg_logprob": -0.1593,
+      "no_speech_prob": 0.095,
+      "review": false
+    },
+    {
+      "start": 1790.1,
+      "end": 1793.02,
+      "text": "大唐发电",
+      "avg_logprob": -0.1593,
+      "no_speech_prob": 0.095,
+      "review": false
+    },
+    {
+      "start": 1793.02,
+      "end": 1794.8,
+      "text": "哦今天在炒电力了",
+      "avg_logprob": -0.1593,
+      "no_speech_prob": 0.095,
+      "review": false
+    },
+    {
+      "start": 1794.8,
+      "end": 1795.96,
+      "text": "电力快起来了",
+      "avg_logprob": -0.1593,
+      "no_speech_prob": 0.095,
+      "review": false
+    },
+    {
+      "start": 1795.96,
+      "end": 1798.45,
+      "text": "中继",
+      "avg_logprob": -0.1593,
+      "no_speech_prob": 0.095,
+      "review": false
+    },
+    {
+      "start": 1798.45,
+      "end": 1800.23,
+      "text": "新易",
+      "avg_logprob": -0.1593,
+      "no_speech_prob": 0.095,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 18.92
+}

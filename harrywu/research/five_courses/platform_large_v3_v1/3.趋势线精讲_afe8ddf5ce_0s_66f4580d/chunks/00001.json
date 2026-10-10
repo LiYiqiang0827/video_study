@@ -1,0 +1,1488 @@
+{
+  "begin": 300.0,
+  "finish": 600.0,
+  "segments": [
+    {
+      "start": 300.16,
+      "end": 302.44,
+      "text": "如果你是想",
+      "avg_logprob": -0.1929,
+      "no_speech_prob": 0.7515,
+      "review": true
+    },
+    {
+      "start": 302.44,
+      "end": 304.5,
+      "text": "确定什么时候出来",
+      "avg_logprob": -0.1929,
+      "no_speech_prob": 0.7515,
+      "review": true
+    },
+    {
+      "start": 304.5,
+      "end": 306.16,
+      "text": "那么你就不要画上眼",
+      "avg_logprob": -0.1929,
+      "no_speech_prob": 0.7515,
+      "review": true
+    },
+    {
+      "start": 306.16,
+      "end": 307.3,
+      "text": "不要画上眼",
+      "avg_logprob": -0.1929,
+      "no_speech_prob": 0.7515,
+      "review": true
+    },
+    {
+      "start": 307.3,
+      "end": 308.2,
+      "text": "没有意义啊",
+      "avg_logprob": -0.1929,
+      "no_speech_prob": 0.7515,
+      "review": true
+    },
+    {
+      "start": 308.2,
+      "end": 308.46,
+      "text": "好",
+      "avg_logprob": -0.1929,
+      "no_speech_prob": 0.7515,
+      "review": true
+    },
+    {
+      "start": 308.46,
+      "end": 309.9,
+      "text": "那么这个时候你看",
+      "avg_logprob": -0.1929,
+      "no_speech_prob": 0.7515,
+      "review": true
+    },
+    {
+      "start": 309.9,
+      "end": 311.82,
+      "text": "趋势线开始往上走",
+      "avg_logprob": -0.1929,
+      "no_speech_prob": 0.7515,
+      "review": true
+    },
+    {
+      "start": 311.82,
+      "end": 312.18,
+      "text": "哎",
+      "avg_logprob": -0.1929,
+      "no_speech_prob": 0.7515,
+      "review": true
+    },
+    {
+      "start": 312.18,
+      "end": 313.46,
+      "text": "它没有低点了",
+      "avg_logprob": -0.1929,
+      "no_speech_prob": 0.7515,
+      "review": true
+    },
+    {
+      "start": 313.46,
+      "end": 314.48,
+      "text": "低点是在这儿了",
+      "avg_logprob": -0.1929,
+      "no_speech_prob": 0.7515,
+      "review": true
+    },
+    {
+      "start": 314.48,
+      "end": 315.5,
+      "text": "那么这个时候呢",
+      "avg_logprob": -0.1929,
+      "no_speech_prob": 0.7515,
+      "review": true
+    },
+    {
+      "start": 315.5,
+      "end": 316.24,
+      "text": "你怎么办呢",
+      "avg_logprob": -0.1929,
+      "no_speech_prob": 0.7515,
+      "review": true
+    },
+    {
+      "start": 316.24,
+      "end": 318.72,
+      "text": "你就再做一条趋势线",
+      "avg_logprob": -0.1929,
+      "no_speech_prob": 0.7515,
+      "review": true
+    },
+    {
+      "start": 318.72,
+      "end": 319.48,
+      "text": "哎",
+      "avg_logprob": -0.1929,
+      "no_speech_prob": 0.7515,
+      "review": true
+    },
+    {
+      "start": 319.48,
+      "end": 321.28,
+      "text": "然后这两个点连线",
+      "avg_logprob": -0.1929,
+      "no_speech_prob": 0.7515,
+      "review": true
+    },
+    {
+      "start": 321.28,
+      "end": 322.64,
+      "text": "它在这边又来走",
+      "avg_logprob": -0.1929,
+      "no_speech_prob": 0.7515,
+      "review": true
+    },
+    {
+      "start": 322.64,
+      "end": 322.92,
+      "text": "哎",
+      "avg_logprob": -0.1929,
+      "no_speech_prob": 0.7515,
+      "review": true
+    },
+    {
+      "start": 322.92,
+      "end": 324.0,
+      "text": "走的时间越多",
+      "avg_logprob": -0.1929,
+      "no_speech_prob": 0.7515,
+      "review": true
+    },
+    {
+      "start": 324.0,
+      "end": 325.06,
+      "text": "证明这个越有效",
+      "avg_logprob": -0.1929,
+      "no_speech_prob": 0.7515,
+      "review": true
+    },
+    {
+      "start": 325.06,
+      "end": 326.5,
+      "text": "一旦跌破",
+      "avg_logprob": -0.1929,
+      "no_speech_prob": 0.7515,
+      "review": true
+    },
+    {
+      "start": 326.5,
+      "end": 327.72,
+      "text": "你就赶快跑",
+      "avg_logprob": -0.1929,
+      "no_speech_prob": 0.7515,
+      "review": true
+    },
+    {
+      "start": 327.72,
+      "end": 332.42,
+      "text": "它的有效性是证明了这个趋势的存在",
+      "avg_logprob": -0.1467,
+      "no_speech_prob": 0.5918,
+      "review": true
+    },
+    {
+      "start": 332.42,
+      "end": 334.08,
+      "text": "而不是说反着做",
+      "avg_logprob": -0.1467,
+      "no_speech_prob": 0.5918,
+      "review": true
+    },
+    {
+      "start": 334.08,
+      "end": 335.4,
+      "text": "还不是让你在这去买",
+      "avg_logprob": -0.1467,
+      "no_speech_prob": 0.5918,
+      "review": true
+    },
+    {
+      "start": 335.4,
+      "end": 336.5,
+      "text": "一定一定要注意",
+      "avg_logprob": -0.1467,
+      "no_speech_prob": 0.5918,
+      "review": true
+    },
+    {
+      "start": 336.5,
+      "end": 337.28,
+      "text": "好",
+      "avg_logprob": -0.1467,
+      "no_speech_prob": 0.5918,
+      "review": true
+    },
+    {
+      "start": 337.28,
+      "end": 338.42,
+      "text": "它的趋势线去走",
+      "avg_logprob": -0.1467,
+      "no_speech_prob": 0.5918,
+      "review": true
+    },
+    {
+      "start": 338.42,
+      "end": 340.8,
+      "text": "那么有一天它加速了",
+      "avg_logprob": -0.1467,
+      "no_speech_prob": 0.5918,
+      "review": true
+    },
+    {
+      "start": 340.8,
+      "end": 341.78,
+      "text": "加在这",
+      "avg_logprob": -0.1467,
+      "no_speech_prob": 0.5918,
+      "review": true
+    },
+    {
+      "start": 341.78,
+      "end": 344.3,
+      "text": "这个时候又出现了一个点",
+      "avg_logprob": -0.1467,
+      "no_speech_prob": 0.5918,
+      "review": true
+    },
+    {
+      "start": 344.3,
+      "end": 347.2,
+      "text": "那么你把这两个点再演起来",
+      "avg_logprob": -0.1467,
+      "no_speech_prob": 0.5918,
+      "review": true
+    },
+    {
+      "start": 347.2,
+      "end": 348.98,
+      "text": "就画第三条趋势线",
+      "avg_logprob": -0.1467,
+      "no_speech_prob": 0.5918,
+      "review": true
+    },
+    {
+      "start": 348.98,
+      "end": 350.56,
+      "text": "就是一个加速线",
+      "avg_logprob": -0.1467,
+      "no_speech_prob": 0.5918,
+      "review": true
+    },
+    {
+      "start": 350.56,
+      "end": 352.58,
+      "text": "加速的趋势线",
+      "avg_logprob": -0.1467,
+      "no_speech_prob": 0.5918,
+      "review": true
+    },
+    {
+      "start": 352.58,
+      "end": 355.46,
+      "text": "这就是趋势线的画法",
+      "avg_logprob": -0.1467,
+      "no_speech_prob": 0.5918,
+      "review": true
+    },
+    {
+      "start": 355.46,
+      "end": 357.4,
+      "text": "一条加速",
+      "avg_logprob": -0.1467,
+      "no_speech_prob": 0.5918,
+      "review": true
+    },
+    {
+      "start": 357.4,
+      "end": 361.26,
+      "text": "我自己大量的复盘",
+      "avg_logprob": -0.1556,
+      "no_speech_prob": 0.9375,
+      "review": true
+    },
+    {
+      "start": 361.26,
+      "end": 363.96,
+      "text": "和大量的个人经验证明",
+      "avg_logprob": -0.1556,
+      "no_speech_prob": 0.9375,
+      "review": true
+    },
+    {
+      "start": 363.96,
+      "end": 365.36,
+      "text": "叫事不过三",
+      "avg_logprob": -0.1556,
+      "no_speech_prob": 0.9375,
+      "review": true
+    },
+    {
+      "start": 365.36,
+      "end": 367.24,
+      "text": "只要一条主趋势线",
+      "avg_logprob": -0.1556,
+      "no_speech_prob": 0.9375,
+      "review": true
+    },
+    {
+      "start": 367.24,
+      "end": 368.14,
+      "text": "次要趋势线",
+      "avg_logprob": -0.1556,
+      "no_speech_prob": 0.9375,
+      "review": true
+    },
+    {
+      "start": 368.14,
+      "end": 368.94,
+      "text": "加速线",
+      "avg_logprob": -0.1556,
+      "no_speech_prob": 0.9375,
+      "review": true
+    },
+    {
+      "start": 368.94,
+      "end": 370.94,
+      "text": "基本上行情就会有回调",
+      "avg_logprob": -0.1556,
+      "no_speech_prob": 0.9375,
+      "review": true
+    },
+    {
+      "start": 370.94,
+      "end": 372.2,
+      "text": "事不过三",
+      "avg_logprob": -0.1556,
+      "no_speech_prob": 0.9375,
+      "review": true
+    },
+    {
+      "start": 372.2,
+      "end": 373.84,
+      "text": "很少看到有次",
+      "avg_logprob": -0.1556,
+      "no_speech_prob": 0.9375,
+      "review": true
+    },
+    {
+      "start": 373.84,
+      "end": 375.12,
+      "text": "极少极少极少",
+      "avg_logprob": -0.1556,
+      "no_speech_prob": 0.9375,
+      "review": true
+    },
+    {
+      "start": 375.12,
+      "end": 377.08,
+      "text": "主要就是三条趋势线",
+      "avg_logprob": -0.1556,
+      "no_speech_prob": 0.9375,
+      "review": true
+    },
+    {
+      "start": 377.08,
+      "end": 378.82,
+      "text": "加速之后它就会回调",
+      "avg_logprob": -0.1556,
+      "no_speech_prob": 0.9375,
+      "review": true
+    },
+    {
+      "start": 378.82,
+      "end": 379.76,
+      "text": "好",
+      "avg_logprob": -0.1556,
+      "no_speech_prob": 0.9375,
+      "review": true
+    },
+    {
+      "start": 379.76,
+      "end": 381.74,
+      "text": "这是我们趋势线的画法",
+      "avg_logprob": -0.1556,
+      "no_speech_prob": 0.9375,
+      "review": true
+    },
+    {
+      "start": 381.74,
+      "end": 384.76,
+      "text": "基本上就讲清楚了",
+      "avg_logprob": -0.1556,
+      "no_speech_prob": 0.9375,
+      "review": true
+    },
+    {
+      "start": 384.76,
+      "end": 386.24,
+      "text": "好",
+      "avg_logprob": -0.1556,
+      "no_speech_prob": 0.9375,
+      "review": true
+    },
+    {
+      "start": 386.24,
+      "end": 387.66,
+      "text": "这是这种趋势线",
+      "avg_logprob": -0.1556,
+      "no_speech_prob": 0.9375,
+      "review": true
+    },
+    {
+      "start": 387.66,
+      "end": 388.78,
+      "text": "还有一种呢",
+      "avg_logprob": -0.1443,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 388.78,
+      "end": 391.02,
+      "text": "我们叫做下降趋势线啊",
+      "avg_logprob": -0.1443,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 391.02,
+      "end": 393.02,
+      "text": "我们觉得就没有必要讲了",
+      "avg_logprob": -0.1443,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 393.02,
+      "end": 393.78,
+      "text": "反正方法差不多",
+      "avg_logprob": -0.1443,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 393.78,
+      "end": 394.68,
+      "text": "以后你们可以看",
+      "avg_logprob": -0.1443,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 394.68,
+      "end": 395.5,
+      "text": "可以看看PPT",
+      "avg_logprob": -0.1443,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 395.5,
+      "end": 397.7,
+      "text": "可以看看我们大量的这个复盘就行了",
+      "avg_logprob": -0.1443,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 397.7,
+      "end": 399.64,
+      "text": "我觉得这个主要的白板",
+      "avg_logprob": -0.1443,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 399.64,
+      "end": 400.58,
+      "text": "我就简单讲一下",
+      "avg_logprob": -0.1443,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 400.58,
+      "end": 401.3,
+      "text": "好",
+      "avg_logprob": -0.1443,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 401.3,
+      "end": 403.46,
+      "text": "第二个就是第三个趋势线角度",
+      "avg_logprob": -0.1443,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 403.46,
+      "end": 404.56,
+      "text": "趋势线角度啊",
+      "avg_logprob": -0.1443,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 404.56,
+      "end": 405.92,
+      "text": "是前期啊",
+      "avg_logprob": -0.1443,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 405.92,
+      "end": 407.74,
+      "text": "我们大量的有人在问的问题",
+      "avg_logprob": -0.1443,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 407.74,
+      "end": 409.02,
+      "text": "因为我们当时呢",
+      "avg_logprob": -0.1443,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 409.02,
+      "end": 409.94,
+      "text": "有一个观点",
+      "avg_logprob": -0.1443,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 409.94,
+      "end": 411.2,
+      "text": "这个观点就是呢",
+      "avg_logprob": -0.1443,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 411.2,
+      "end": 414.4,
+      "text": "趋势线的角度非常非常重要啊",
+      "avg_logprob": -0.1443,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 414.4,
+      "end": 415.02,
+      "text": "这个非常重要",
+      "avg_logprob": -0.1443,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 415.02,
+      "end": 417.3,
+      "text": "一旦开始的时候",
+      "avg_logprob": -0.1443,
+      "no_speech_prob": 0.6362,
+      "review": true
+    },
+    {
+      "start": 417.3,
+      "end": 421.58,
+      "text": "它一般是30度到45度",
+      "avg_logprob": -0.1577,
+      "no_speech_prob": 0.6719,
+      "review": true
+    },
+    {
+      "start": 421.58,
+      "end": 423.84,
+      "text": "30度到45度",
+      "avg_logprob": -0.1577,
+      "no_speech_prob": 0.6719,
+      "review": true
+    },
+    {
+      "start": 423.84,
+      "end": 425.2,
+      "text": "30度就比较弱",
+      "avg_logprob": -0.1577,
+      "no_speech_prob": 0.6719,
+      "review": true
+    },
+    {
+      "start": 425.2,
+      "end": 427.36,
+      "text": "45度是最强的",
+      "avg_logprob": -0.1577,
+      "no_speech_prob": 0.6719,
+      "review": true
+    },
+    {
+      "start": 427.36,
+      "end": 431.44,
+      "text": "只要这个趋势线沿着45度夹角走",
+      "avg_logprob": -0.1577,
+      "no_speech_prob": 0.6719,
+      "review": true
+    },
+    {
+      "start": 431.44,
+      "end": 433.9,
+      "text": "那么它就一直会走下去",
+      "avg_logprob": -0.1577,
+      "no_speech_prob": 0.6719,
+      "review": true
+    },
+    {
+      "start": 433.9,
+      "end": 435.42,
+      "text": "它是最强的",
+      "avg_logprob": -0.1577,
+      "no_speech_prob": 0.6719,
+      "review": true
+    },
+    {
+      "start": 435.42,
+      "end": 436.98,
+      "text": "还极有可能有个加速",
+      "avg_logprob": -0.1577,
+      "no_speech_prob": 0.6719,
+      "review": true
+    },
+    {
+      "start": 436.98,
+      "end": 438.3,
+      "text": "你千万不要出来",
+      "avg_logprob": -0.1577,
+      "no_speech_prob": 0.6719,
+      "review": true
+    },
+    {
+      "start": 438.3,
+      "end": 441.74,
+      "text": "然后呢一直到了70度80度",
+      "avg_logprob": -0.1577,
+      "no_speech_prob": 0.6719,
+      "review": true
+    },
+    {
+      "start": 441.74,
+      "end": 444.22,
+      "text": "那么趋势线就变得不稳定了",
+      "avg_logprob": -0.1577,
+      "no_speech_prob": 0.6719,
+      "review": true
+    },
+    {
+      "start": 444.22,
+      "end": 445.3,
+      "text": "它就会出问题",
+      "avg_logprob": -0.1577,
+      "no_speech_prob": 0.6719,
+      "review": true
+    },
+    {
+      "start": 445.3,
+      "end": 447.26,
+      "text": "好但是这个问题来了",
+      "avg_logprob": -0.1577,
+      "no_speech_prob": 0.6719,
+      "review": true
+    },
+    {
+      "start": 447.26,
+      "end": 448.64,
+      "text": "后面很多人问我",
+      "avg_logprob": -0.1881,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 448.64,
+      "end": 450.16,
+      "text": "这个角度会变啊",
+      "avg_logprob": -0.1881,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 450.16,
+      "end": 450.5,
+      "text": "是吧",
+      "avg_logprob": -0.1881,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 450.5,
+      "end": 451.36,
+      "text": "现在这个",
+      "avg_logprob": -0.1881,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 451.36,
+      "end": 452.98,
+      "text": "现在这个任何的一个K线图",
+      "avg_logprob": -0.1881,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 452.98,
+      "end": 454.28,
+      "text": "你那放大缩小",
+      "avg_logprob": -0.1881,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 454.28,
+      "end": 455.24,
+      "text": "角度马上变完了",
+      "avg_logprob": -0.1881,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 455.24,
+      "end": 456.06,
+      "text": "这个怎么办",
+      "avg_logprob": -0.1881,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 456.06,
+      "end": 457.3,
+      "text": "没办法",
+      "avg_logprob": -0.1881,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 457.3,
+      "end": 458.1,
+      "text": "真的没办法",
+      "avg_logprob": -0.1881,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 458.1,
+      "end": 458.86,
+      "text": "这个所以说",
+      "avg_logprob": -0.1881,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 458.86,
+      "end": 459.74,
+      "text": "趋势电的角度",
+      "avg_logprob": -0.1881,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 459.74,
+      "end": 460.8,
+      "text": "就只是一个",
+      "avg_logprob": -0.1881,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 460.8,
+      "end": 463.08,
+      "text": "你理解趋势电的一个含义",
+      "avg_logprob": -0.1881,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 463.08,
+      "end": 465.32,
+      "text": "真的我们没有太大的办法",
+      "avg_logprob": -0.1881,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 465.32,
+      "end": 466.2,
+      "text": "对这个事情去",
+      "avg_logprob": -0.1881,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 466.2,
+      "end": 468.72,
+      "text": "因为它现在这种电脑计算",
+      "avg_logprob": -0.1881,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 468.72,
+      "end": 469.72,
+      "text": "每一个图拉出来",
+      "avg_logprob": -0.1881,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 469.72,
+      "end": 470.42,
+      "text": "自己就变了",
+      "avg_logprob": -0.1881,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 470.42,
+      "end": 471.58,
+      "text": "以前是靠手画",
+      "avg_logprob": -0.1881,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 471.58,
+      "end": 472.66,
+      "text": "手画的话嘛",
+      "avg_logprob": -0.1881,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 472.66,
+      "end": 473.22,
+      "text": "那么这个时候",
+      "avg_logprob": -0.1881,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 473.22,
+      "end": 474.82,
+      "text": "用那种对数坐标图啊",
+      "avg_logprob": -0.1881,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 474.82,
+      "end": 476.16,
+      "text": "大的这个方格纸啊",
+      "avg_logprob": -0.1881,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 476.16,
+      "end": 477.2,
+      "text": "很小很小的这种",
+      "avg_logprob": -0.1881,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 477.2,
+      "end": 477.6,
+      "text": "东西",
+      "avg_logprob": -0.1213,
+      "no_speech_prob": 0.9902,
+      "review": true
+    },
+    {
+      "start": 477.6,
+      "end": 479.06,
+      "text": "那个时候还有一定的准确性",
+      "avg_logprob": -0.1213,
+      "no_speech_prob": 0.9902,
+      "review": true
+    },
+    {
+      "start": 479.06,
+      "end": 480.86,
+      "text": "现在你这个拉大缩小",
+      "avg_logprob": -0.1213,
+      "no_speech_prob": 0.9902,
+      "review": true
+    },
+    {
+      "start": 480.86,
+      "end": 481.42,
+      "text": "你都变了",
+      "avg_logprob": -0.1213,
+      "no_speech_prob": 0.9902,
+      "review": true
+    },
+    {
+      "start": 481.42,
+      "end": 482.24,
+      "text": "我们真的没有办法",
+      "avg_logprob": -0.1213,
+      "no_speech_prob": 0.9902,
+      "review": true
+    },
+    {
+      "start": 482.24,
+      "end": 482.74,
+      "text": "所以呢",
+      "avg_logprob": -0.1213,
+      "no_speech_prob": 0.9902,
+      "review": true
+    },
+    {
+      "start": 482.74,
+      "end": 485.14,
+      "text": "我们就只能把它当成一个概念的理解",
+      "avg_logprob": -0.1213,
+      "no_speech_prob": 0.9902,
+      "review": true
+    },
+    {
+      "start": 485.14,
+      "end": 486.6,
+      "text": "你就大概估计一下",
+      "avg_logprob": -0.1213,
+      "no_speech_prob": 0.9902,
+      "review": true
+    },
+    {
+      "start": 486.6,
+      "end": 487.84,
+      "text": "你不要去瞄啊",
+      "avg_logprob": -0.1213,
+      "no_speech_prob": 0.9902,
+      "review": true
+    },
+    {
+      "start": 487.84,
+      "end": 489.14,
+      "text": "真是45度35度",
+      "avg_logprob": -0.1213,
+      "no_speech_prob": 0.9902,
+      "review": true
+    },
+    {
+      "start": 489.14,
+      "end": 490.02,
+      "text": "没有必要了",
+      "avg_logprob": -0.1213,
+      "no_speech_prob": 0.9902,
+      "review": true
+    },
+    {
+      "start": 490.02,
+      "end": 491.54,
+      "text": "你就大概感觉到",
+      "avg_logprob": -0.1213,
+      "no_speech_prob": 0.9902,
+      "review": true
+    },
+    {
+      "start": 491.54,
+      "end": 491.88,
+      "text": "哦",
+      "avg_logprob": -0.1213,
+      "no_speech_prob": 0.9902,
+      "review": true
+    },
+    {
+      "start": 491.88,
+      "end": 494.04,
+      "text": "现在这个趋势线还相对比较稳定",
+      "avg_logprob": -0.1213,
+      "no_speech_prob": 0.9902,
+      "review": true
+    },
+    {
+      "start": 494.04,
+      "end": 494.46,
+      "text": "哦",
+      "avg_logprob": -0.1213,
+      "no_speech_prob": 0.9902,
+      "review": true
+    },
+    {
+      "start": 494.46,
+      "end": 496.18,
+      "text": "现在趋势线你比较陡了",
+      "avg_logprob": -0.1213,
+      "no_speech_prob": 0.9902,
+      "review": true
+    },
+    {
+      "start": 496.18,
+      "end": 496.42,
+      "text": "好",
+      "avg_logprob": -0.1213,
+      "no_speech_prob": 0.9902,
+      "review": true
+    },
+    {
+      "start": 496.42,
+      "end": 497.42,
+      "text": "我们会员呢",
+      "avg_logprob": -0.1213,
+      "no_speech_prob": 0.9902,
+      "review": true
+    },
+    {
+      "start": 497.42,
+      "end": 498.62,
+      "text": "就有一个方法判定",
+      "avg_logprob": -0.1213,
+      "no_speech_prob": 0.9902,
+      "review": true
+    },
+    {
+      "start": 498.62,
+      "end": 500.9,
+      "text": "就是三条趋势线原则",
+      "avg_logprob": -0.1213,
+      "no_speech_prob": 0.9902,
+      "review": true
+    },
+    {
+      "start": 500.9,
+      "end": 502.58,
+      "text": "你可以把这个趋势线的角度",
+      "avg_logprob": -0.1213,
+      "no_speech_prob": 0.9902,
+      "review": true
+    },
+    {
+      "start": 502.58,
+      "end": 504.58,
+      "text": "变成三条趋势线了",
+      "avg_logprob": -0.1213,
+      "no_speech_prob": 0.9902,
+      "review": true
+    },
+    {
+      "start": 504.58,
+      "end": 506.1,
+      "text": "三条趋势线啊",
+      "avg_logprob": -0.1213,
+      "no_speech_prob": 0.9902,
+      "review": true
+    },
+    {
+      "start": 506.1,
+      "end": 509.9,
+      "text": "三条趋势线里面是两条加速线",
+      "avg_logprob": -0.112,
+      "no_speech_prob": 0.8076,
+      "review": true
+    },
+    {
+      "start": 509.9,
+      "end": 514.76,
+      "text": "就是说如果主要趋势线出来了",
+      "avg_logprob": -0.112,
+      "no_speech_prob": 0.8076,
+      "review": true
+    },
+    {
+      "start": 514.76,
+      "end": 516.74,
+      "text": "第一条加速",
+      "avg_logprob": -0.112,
+      "no_speech_prob": 0.8076,
+      "review": true
+    },
+    {
+      "start": 516.74,
+      "end": 518.24,
+      "text": "再有一条加速",
+      "avg_logprob": -0.112,
+      "no_speech_prob": 0.8076,
+      "review": true
+    },
+    {
+      "start": 518.24,
+      "end": 520.68,
+      "text": "那么基本上两条加速线之后",
+      "avg_logprob": -0.112,
+      "no_speech_prob": 0.8076,
+      "review": true
+    },
+    {
+      "start": 520.68,
+      "end": 522.48,
+      "text": "这个它的已经到了",
+      "avg_logprob": -0.112,
+      "no_speech_prob": 0.8076,
+      "review": true
+    },
+    {
+      "start": 522.48,
+      "end": 524.4,
+      "text": "基本上到了七十度八十度",
+      "avg_logprob": -0.112,
+      "no_speech_prob": 0.8076,
+      "review": true
+    },
+    {
+      "start": 524.4,
+      "end": 526.02,
+      "text": "这个道理很简单",
+      "avg_logprob": -0.112,
+      "no_speech_prob": 0.8076,
+      "review": true
+    },
+    {
+      "start": 526.02,
+      "end": 527.2,
+      "text": "大家可以想想为什么",
+      "avg_logprob": -0.112,
+      "no_speech_prob": 0.8076,
+      "review": true
+    },
+    {
+      "start": 527.2,
+      "end": 530.02,
+      "text": "因为你这个地方三十度往上走",
+      "avg_logprob": -0.112,
+      "no_speech_prob": 0.8076,
+      "review": true
+    },
+    {
+      "start": 530.02,
+      "end": 531.58,
+      "text": "你只要一加速",
+      "avg_logprob": -0.112,
+      "no_speech_prob": 0.8076,
+      "review": true
+    },
+    {
+      "start": 531.58,
+      "end": 532.58,
+      "text": "它角度就会增加一点",
+      "avg_logprob": -0.112,
+      "no_speech_prob": 0.8076,
+      "review": true
+    },
+    {
+      "start": 532.58,
+      "end": 535.52,
+      "text": "那么从三十度四十五度再往上增加",
+      "avg_logprob": -0.112,
+      "no_speech_prob": 0.8076,
+      "review": true
+    },
+    {
+      "start": 535.52,
+      "end": 536.44,
+      "text": "基本上是七八十度",
+      "avg_logprob": -0.1394,
+      "no_speech_prob": 0.9106,
+      "review": true
+    },
+    {
+      "start": 536.44,
+      "end": 537.98,
+      "text": "基本上是这样子",
+      "avg_logprob": -0.1394,
+      "no_speech_prob": 0.9106,
+      "review": true
+    },
+    {
+      "start": 537.98,
+      "end": 540.0,
+      "text": "所以你不用看都能够猜到",
+      "avg_logprob": -0.1394,
+      "no_speech_prob": 0.9106,
+      "review": true
+    },
+    {
+      "start": 540.0,
+      "end": 541.76,
+      "text": "所以三条趋势线",
+      "avg_logprob": -0.1394,
+      "no_speech_prob": 0.9106,
+      "review": true
+    },
+    {
+      "start": 541.76,
+      "end": 542.64,
+      "text": "两条",
+      "avg_logprob": -0.1394,
+      "no_speech_prob": 0.9106,
+      "review": true
+    },
+    {
+      "start": 542.64,
+      "end": 544.38,
+      "text": "三条趋势线里面包括两条交织线",
+      "avg_logprob": -0.1394,
+      "no_speech_prob": 0.9106,
+      "review": true
+    },
+    {
+      "start": 544.38,
+      "end": 546.32,
+      "text": "就是说总共三条趋势线",
+      "avg_logprob": -0.1394,
+      "no_speech_prob": 0.9106,
+      "review": true
+    },
+    {
+      "start": 546.32,
+      "end": 549.36,
+      "text": "那么基本上这个行情就已经到了七八十度了",
+      "avg_logprob": -0.1394,
+      "no_speech_prob": 0.9106,
+      "review": true
+    },
+    {
+      "start": 549.36,
+      "end": 550.64,
+      "text": "这是我们会员的秘密",
+      "avg_logprob": -0.1394,
+      "no_speech_prob": 0.9106,
+      "review": true
+    },
+    {
+      "start": 550.64,
+      "end": 552.08,
+      "text": "这是我们会员的秘密",
+      "avg_logprob": -0.1394,
+      "no_speech_prob": 0.9106,
+      "review": true
+    },
+    {
+      "start": 552.08,
+      "end": 553.38,
+      "text": "所以角度问题呢",
+      "avg_logprob": -0.1394,
+      "no_speech_prob": 0.9106,
+      "review": true
+    },
+    {
+      "start": 553.38,
+      "end": 554.38,
+      "text": "你们就解决了",
+      "avg_logprob": -0.1394,
+      "no_speech_prob": 0.9106,
+      "review": true
+    },
+    {
+      "start": 554.38,
+      "end": 555.26,
+      "text": "好",
+      "avg_logprob": -0.1394,
+      "no_speech_prob": 0.9106,
+      "review": true
+    },
+    {
+      "start": 555.26,
+      "end": 558.74,
+      "text": "第四个趋势线的穿透与毛刺",
+      "avg_logprob": -0.1394,
+      "no_speech_prob": 0.9106,
+      "review": true
+    },
+    {
+      "start": 558.74,
+      "end": 559.68,
+      "text": "好",
+      "avg_logprob": -0.1394,
+      "no_speech_prob": 0.9106,
+      "review": true
+    },
+    {
+      "start": 559.68,
+      "end": 561.28,
+      "text": "我们刚才我们回去来看",
+      "avg_logprob": -0.1394,
+      "no_speech_prob": 0.9106,
+      "review": true
+    },
+    {
+      "start": 561.28,
+      "end": 561.92,
+      "text": "还是看这个",
+      "avg_logprob": -0.1394,
+      "no_speech_prob": 0.9106,
+      "review": true
+    },
+    {
+      "start": 561.92,
+      "end": 563.48,
+      "text": "我们这个趋势线",
+      "avg_logprob": -0.1394,
+      "no_speech_prob": 0.9106,
+      "review": true
+    },
+    {
+      "start": 563.48,
+      "end": 566.0,
+      "text": "在过程中间",
+      "avg_logprob": -0.1484,
+      "no_speech_prob": 0.6753,
+      "review": true
+    },
+    {
+      "start": 566.0,
+      "end": 568.06,
+      "text": "它可能有的一些",
+      "avg_logprob": -0.1484,
+      "no_speech_prob": 0.6753,
+      "review": true
+    },
+    {
+      "start": 568.06,
+      "end": 569.44,
+      "text": "有的一些",
+      "avg_logprob": -0.1484,
+      "no_speech_prob": 0.6753,
+      "review": true
+    },
+    {
+      "start": 569.44,
+      "end": 570.16,
+      "text": "它回来了",
+      "avg_logprob": -0.1484,
+      "no_speech_prob": 0.6753,
+      "review": true
+    },
+    {
+      "start": 570.16,
+      "end": 571.92,
+      "text": "穿透了",
+      "avg_logprob": -0.1484,
+      "no_speech_prob": 0.6753,
+      "review": true
+    },
+    {
+      "start": 571.92,
+      "end": 572.54,
+      "text": "又回去了",
+      "avg_logprob": -0.1484,
+      "no_speech_prob": 0.6753,
+      "review": true
+    },
+    {
+      "start": 572.54,
+      "end": 573.62,
+      "text": "这个时候怎么办",
+      "avg_logprob": -0.1484,
+      "no_speech_prob": 0.6753,
+      "review": true
+    },
+    {
+      "start": 573.62,
+      "end": 575.38,
+      "text": "这个时候啊",
+      "avg_logprob": -0.1484,
+      "no_speech_prob": 0.6753,
+      "review": true
+    },
+    {
+      "start": 575.38,
+      "end": 576.84,
+      "text": "我们主要是",
+      "avg_logprob": -0.1484,
+      "no_speech_prob": 0.6753,
+      "review": true
+    },
+    {
+      "start": 576.84,
+      "end": 578.12,
+      "text": "当时的时候",
+      "avg_logprob": -0.1484,
+      "no_speech_prob": 0.6753,
+      "review": true
+    },
+    {
+      "start": 578.12,
+      "end": 581.1,
+      "text": "基本上这个趋势线就无效了",
+      "avg_logprob": -0.1484,
+      "no_speech_prob": 0.6753,
+      "review": true
+    },
+    {
+      "start": 581.1,
+      "end": 583.02,
+      "text": "我们再把它再换一条",
+      "avg_logprob": -0.1484,
+      "no_speech_prob": 0.6753,
+      "review": true
+    },
+    {
+      "start": 583.02,
+      "end": 584.32,
+      "text": "调教一条趋势线",
+      "avg_logprob": -0.1484,
+      "no_speech_prob": 0.6753,
+      "review": true
+    },
+    {
+      "start": 584.32,
+      "end": 588.02,
+      "text": "但是后面如果有两三个点",
+      "avg_logprob": -0.1484,
+      "no_speech_prob": 0.6753,
+      "review": true
+    },
+    {
+      "start": 588.02,
+      "end": 590.14,
+      "text": "都落在这个趋势线上",
+      "avg_logprob": -0.1484,
+      "no_speech_prob": 0.6753,
+      "review": true
+    },
+    {
+      "start": 590.14,
+      "end": 592.82,
+      "text": "那么有一个毛刺没有关系",
+      "avg_logprob": -0.1484,
+      "no_speech_prob": 0.6753,
+      "review": true
+    },
+    {
+      "start": 592.82,
+      "end": 594.02,
+      "text": "为什么呢",
+      "avg_logprob": -0.1319,
+      "no_speech_prob": 0.3103,
+      "review": false
+    },
+    {
+      "start": 594.02,
+      "end": 598.2,
+      "text": "因为趋势线它是触点越多越有效",
+      "avg_logprob": -0.1319,
+      "no_speech_prob": 0.3103,
+      "review": false
+    },
+    {
+      "start": 598.2,
+      "end": 600.66,
+      "text": "时间越长越有效",
+      "avg_logprob": -0.1319,
+      "no_speech_prob": 0.3103,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 77.45
+}

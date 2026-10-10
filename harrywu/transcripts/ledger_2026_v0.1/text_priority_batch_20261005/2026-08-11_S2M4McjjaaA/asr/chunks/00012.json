@@ -1,0 +1,456 @@
+{
+  "begin": 3600.0,
+  "finish": 3900.0,
+  "segments": [
+    {
+      "start": 3600.03,
+      "end": 3602.45,
+      "text": "十多个省的反诈骗平台",
+      "avg_logprob": -0.2323,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 3602.45,
+      "end": 3603.45,
+      "text": "反诈",
+      "avg_logprob": -0.2323,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 3603.45,
+      "end": 3607.48,
+      "text": "尼克威因",
+      "avg_logprob": -0.2323,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 3607.48,
+      "end": 3610.25,
+      "text": "哦",
+      "avg_logprob": -0.2323,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 3610.25,
+      "end": 3612.83,
+      "text": "国家公安网信",
+      "avg_logprob": -0.2323,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 3612.83,
+      "end": 3614.21,
+      "text": "公信",
+      "avg_logprob": -0.2323,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 3614.21,
+      "end": 3616.76,
+      "text": "认识信",
+      "avg_logprob": -0.2323,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 3616.76,
+      "end": 3628.1,
+      "text": "搞安全的应该行吧",
+      "avg_logprob": -0.2323,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 3628.1,
+      "end": 3628.82,
+      "text": "好",
+      "avg_logprob": -0.2323,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 3628.82,
+      "end": 3630.42,
+      "text": "我知道了",
+      "avg_logprob": -0.2323,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 3630.42,
+      "end": 3632.28,
+      "text": "哎呀",
+      "avg_logprob": -0.2323,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 3632.28,
+      "end": 3633.02,
+      "text": "我看他是哪里的",
+      "avg_logprob": -0.2323,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 3633.02,
+      "end": 3634.38,
+      "text": "是北京的还是哪里的",
+      "avg_logprob": -0.2323,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 3634.38,
+      "end": 3637.25,
+      "text": "深圳",
+      "avg_logprob": -0.2323,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 3637.25,
+      "end": 3639.95,
+      "text": "是国企还是什么呀",
+      "avg_logprob": -0.2323,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 3639.95,
+      "end": 3643.5,
+      "text": "他能是个私有企业吗",
+      "avg_logprob": -0.2323,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 3643.5,
+      "end": 3644.14,
+      "text": "我靠",
+      "avg_logprob": -0.2323,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 3644.14,
+      "end": 3645.42,
+      "text": "这种国家安全的东西",
+      "avg_logprob": -0.2323,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 3645.42,
+      "end": 3696.23,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0834,
+      "no_speech_prob": 0.4062,
+      "review": false
+    },
+    {
+      "start": 3696.25,
+      "end": 3735.89,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1045,
+      "no_speech_prob": 0.6714,
+      "review": true
+    },
+    {
+      "start": 3735.91,
+      "end": 3738.97,
+      "text": "当然一般的这个没办法",
+      "avg_logprob": -0.2037,
+      "no_speech_prob": 0.0288,
+      "review": false
+    },
+    {
+      "start": 3738.97,
+      "end": 3739.47,
+      "text": "这个东西",
+      "avg_logprob": -0.2037,
+      "no_speech_prob": 0.0288,
+      "review": false
+    },
+    {
+      "start": 3739.47,
+      "end": 3741.81,
+      "text": "软件量大被老伟代理拨",
+      "avg_logprob": -0.2037,
+      "no_speech_prob": 0.0288,
+      "review": false
+    },
+    {
+      "start": 3741.81,
+      "end": 3744.62,
+      "text": "明白了",
+      "avg_logprob": -0.2037,
+      "no_speech_prob": 0.0288,
+      "review": false
+    },
+    {
+      "start": 3744.62,
+      "end": 3746.52,
+      "text": "大模型安全事故频发",
+      "avg_logprob": -0.2037,
+      "no_speech_prob": 0.0288,
+      "review": false
+    },
+    {
+      "start": 3746.52,
+      "end": 3747.66,
+      "text": "算力租赁",
+      "avg_logprob": -0.2037,
+      "no_speech_prob": 0.0288,
+      "review": false
+    },
+    {
+      "start": 3747.66,
+      "end": 3750.08,
+      "text": "任子欣C站帮",
+      "avg_logprob": -0.2037,
+      "no_speech_prob": 0.0288,
+      "review": false
+    },
+    {
+      "start": 3750.08,
+      "end": 3750.46,
+      "text": "我知道了",
+      "avg_logprob": -0.2037,
+      "no_speech_prob": 0.0288,
+      "review": false
+    },
+    {
+      "start": 3750.46,
+      "end": 3750.84,
+      "text": "好谢谢",
+      "avg_logprob": -0.2037,
+      "no_speech_prob": 0.0288,
+      "review": false
+    },
+    {
+      "start": 3750.84,
+      "end": 3752.06,
+      "text": "哎呀没有啥",
+      "avg_logprob": -0.2037,
+      "no_speech_prob": 0.0288,
+      "review": false
+    },
+    {
+      "start": 3752.06,
+      "end": 3752.7,
+      "text": "今天我找不到",
+      "avg_logprob": -0.2037,
+      "no_speech_prob": 0.0288,
+      "review": false
+    },
+    {
+      "start": 3752.7,
+      "end": 3753.9,
+      "text": "今天我看看现在啥",
+      "avg_logprob": -0.2037,
+      "no_speech_prob": 0.0288,
+      "review": false
+    },
+    {
+      "start": 3753.9,
+      "end": 3754.84,
+      "text": "为什么在涨",
+      "avg_logprob": -0.2037,
+      "no_speech_prob": 0.0288,
+      "review": false
+    },
+    {
+      "start": 3754.84,
+      "end": 3756.94,
+      "text": "今天啥在涨",
+      "avg_logprob": -0.2037,
+      "no_speech_prob": 0.0288,
+      "review": false
+    },
+    {
+      "start": 3756.94,
+      "end": 3759.41,
+      "text": "今天没有啥新票",
+      "avg_logprob": -0.2037,
+      "no_speech_prob": 0.0288,
+      "review": false
+    },
+    {
+      "start": 3759.41,
+      "end": 3760.97,
+      "text": "反正我就手里的这些票",
+      "avg_logprob": -0.2037,
+      "no_speech_prob": 0.0288,
+      "review": false
+    },
+    {
+      "start": 3760.97,
+      "end": 3777.44,
+      "text": "我知道了",
+      "avg_logprob": -0.2037,
+      "no_speech_prob": 0.0288,
+      "review": false
+    },
+    {
+      "start": 3777.44,
+      "end": 3778.4,
+      "text": "好多医药起来了",
+      "avg_logprob": -0.2037,
+      "no_speech_prob": 0.0288,
+      "review": false
+    },
+    {
+      "start": 3778.4,
+      "end": 3779.94,
+      "text": "你看凯莱因起来了",
+      "avg_logprob": -0.2037,
+      "no_speech_prob": 0.0288,
+      "review": false
+    },
+    {
+      "start": 3779.94,
+      "end": 3781.2,
+      "text": "科伦药也起来了",
+      "avg_logprob": -0.2037,
+      "no_speech_prob": 0.0288,
+      "review": false
+    },
+    {
+      "start": 3781.2,
+      "end": 3814.72,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0773,
+      "no_speech_prob": 0.108,
+      "review": false
+    },
+    {
+      "start": 3814.74,
+      "end": 3816.48,
+      "text": "还有个什么科伦药业",
+      "avg_logprob": -0.1639,
+      "no_speech_prob": 0.2008,
+      "review": false
+    },
+    {
+      "start": 3816.48,
+      "end": 3817.8,
+      "text": "但是这些都没有什么大问题",
+      "avg_logprob": -0.1639,
+      "no_speech_prob": 0.2008,
+      "review": false
+    },
+    {
+      "start": 3817.8,
+      "end": 3848.07,
+      "text": "就是中量糖业比较失败",
+      "avg_logprob": -0.1639,
+      "no_speech_prob": 0.2008,
+      "review": false
+    },
+    {
+      "start": 3848.07,
+      "end": 3849.49,
+      "text": "其他的也不算啥",
+      "avg_logprob": -0.1639,
+      "no_speech_prob": 0.2008,
+      "review": false
+    },
+    {
+      "start": 3849.49,
+      "end": 3851.01,
+      "text": "蓝色光标准很正常",
+      "avg_logprob": -0.1639,
+      "no_speech_prob": 0.2008,
+      "review": false
+    },
+    {
+      "start": 3851.01,
+      "end": 3852.91,
+      "text": "没有啥蓝色光标准这种小调整",
+      "avg_logprob": -0.1639,
+      "no_speech_prob": 0.2008,
+      "review": false
+    },
+    {
+      "start": 3852.91,
+      "end": 3855.65,
+      "text": "就是中量糖业这个糖的期货的下跌",
+      "avg_logprob": -0.1639,
+      "no_speech_prob": 0.2008,
+      "review": false
+    },
+    {
+      "start": 3855.65,
+      "end": 3856.93,
+      "text": "导致它的这个问题",
+      "avg_logprob": -0.1639,
+      "no_speech_prob": 0.2008,
+      "review": false
+    },
+    {
+      "start": 3856.93,
+      "end": 3859.17,
+      "text": "这些受期货影响太大了",
+      "avg_logprob": -0.1639,
+      "no_speech_prob": 0.2008,
+      "review": false
+    },
+    {
+      "start": 3859.17,
+      "end": 3862.47,
+      "text": "其他的今天我也没有啥新买",
+      "avg_logprob": -0.1639,
+      "no_speech_prob": 0.2008,
+      "review": false
+    },
+    {
+      "start": 3862.47,
+      "end": 3864.39,
+      "text": "今天新买的还没有开始涨",
+      "avg_logprob": -0.1639,
+      "no_speech_prob": 0.2008,
+      "review": false
+    },
+    {
+      "start": 3864.39,
+      "end": 3866.17,
+      "text": "但是也没有大跌",
+      "avg_logprob": -0.1639,
+      "no_speech_prob": 0.2008,
+      "review": false
+    },
+    {
+      "start": 3866.17,
+      "end": 3868.19,
+      "text": "在我买的位置反正很起盘",
+      "avg_logprob": -0.1639,
+      "no_speech_prob": 0.2008,
+      "review": false
+    },
+    {
+      "start": 3868.19,
+      "end": 3869.75,
+      "text": "没有涨也没有跌",
+      "avg_logprob": -0.1639,
+      "no_speech_prob": 0.2008,
+      "review": false
+    },
+    {
+      "start": 3869.75,
+      "end": 3900.77,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1093,
+      "no_speech_prob": 0.2549,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 18.66
+}

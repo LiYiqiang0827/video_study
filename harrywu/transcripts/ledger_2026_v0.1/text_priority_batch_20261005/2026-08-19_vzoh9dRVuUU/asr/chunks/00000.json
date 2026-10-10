@@ -1,0 +1,592 @@
+{
+  "begin": 0.0,
+  "finish": 300.0,
+  "segments": [
+    {
+      "start": 6.0,
+      "end": 8.68,
+      "text": "8月19号",
+      "avg_logprob": -0.1238,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 8.68,
+      "end": 80.82,
+      "text": "8月你好",
+      "avg_logprob": -0.1238,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 80.82,
+      "end": 82.75,
+      "text": "大家好",
+      "avg_logprob": -0.1238,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 82.75,
+      "end": 85.19,
+      "text": "今天这个我调成了一个公开的课",
+      "avg_logprob": -0.1238,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 85.19,
+      "end": 96.76,
+      "text": "反正还是老规矩啊",
+      "avg_logprob": -0.1238,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 96.76,
+      "end": 98.86,
+      "text": "就是我就不回答你们问题",
+      "avg_logprob": -0.1238,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 98.86,
+      "end": 99.94,
+      "text": "就是按照我的节奏",
+      "avg_logprob": -0.1238,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 99.94,
+      "end": 101.5,
+      "text": "我就自己看盘就行了啊",
+      "avg_logprob": -0.1238,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 101.5,
+      "end": 102.48,
+      "text": "今天呢",
+      "avg_logprob": -0.1238,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 102.48,
+      "end": 103.16,
+      "text": "整个来说呢",
+      "avg_logprob": -0.1238,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 103.16,
+      "end": 104.42,
+      "text": "韩国那边又暴跌了啊",
+      "avg_logprob": -0.1238,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 104.42,
+      "end": 105.1,
+      "text": "大家可以看到",
+      "avg_logprob": -0.1238,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 105.1,
+      "end": 108.32,
+      "text": "韩国那边跌下去了",
+      "avg_logprob": -0.1238,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 108.32,
+      "end": 123.62,
+      "text": "韩国又直接跌熔断了",
+      "avg_logprob": -0.1238,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 123.62,
+      "end": 125.42,
+      "text": "你看昨天一个标准的反包",
+      "avg_logprob": -0.1238,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 125.42,
+      "end": 126.62,
+      "text": "其实技术还是有用的",
+      "avg_logprob": -0.1238,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 126.62,
+      "end": 127.86,
+      "text": "你见直接跌中断了",
+      "avg_logprob": -0.1706,
+      "no_speech_prob": 0.1912,
+      "review": false
+    },
+    {
+      "start": 127.86,
+      "end": 130.76,
+      "text": "但现在起来了一点点",
+      "avg_logprob": -0.1706,
+      "no_speech_prob": 0.1912,
+      "review": false
+    },
+    {
+      "start": 130.76,
+      "end": 131.76,
+      "text": "韩国这边",
+      "avg_logprob": -0.1706,
+      "no_speech_prob": 0.1912,
+      "review": false
+    },
+    {
+      "start": 131.76,
+      "end": 134.86,
+      "text": "整体还是估计不太友好",
+      "avg_logprob": -0.1706,
+      "no_speech_prob": 0.1912,
+      "review": false
+    },
+    {
+      "start": 134.86,
+      "end": 140.04,
+      "text": "昨天这个",
+      "avg_logprob": -0.1706,
+      "no_speech_prob": 0.1912,
+      "review": false
+    },
+    {
+      "start": 140.04,
+      "end": 144.44,
+      "text": "天哪",
+      "avg_logprob": -0.1706,
+      "no_speech_prob": 0.1912,
+      "review": false
+    },
+    {
+      "start": 144.44,
+      "end": 147.3,
+      "text": "这个今天是要砸死我吗",
+      "avg_logprob": -0.1706,
+      "no_speech_prob": 0.1912,
+      "review": false
+    },
+    {
+      "start": 147.3,
+      "end": 152.63,
+      "text": "手里一个大掌的",
+      "avg_logprob": -0.1706,
+      "no_speech_prob": 0.1912,
+      "review": false
+    },
+    {
+      "start": 152.63,
+      "end": 154.82,
+      "text": "一个砸死的",
+      "avg_logprob": -0.1706,
+      "no_speech_prob": 0.1912,
+      "review": false
+    },
+    {
+      "start": 154.82,
+      "end": 156.94,
+      "text": "像这种一旦把你骗进去",
+      "avg_logprob": -0.1706,
+      "no_speech_prob": 0.1912,
+      "review": false
+    },
+    {
+      "start": 156.94,
+      "end": 158.3,
+      "text": "我的天就没有好结果了",
+      "avg_logprob": -0.1706,
+      "no_speech_prob": 0.1912,
+      "review": false
+    },
+    {
+      "start": 158.3,
+      "end": 161.46,
+      "text": "基本没有好结果",
+      "avg_logprob": -0.1706,
+      "no_speech_prob": 0.1912,
+      "review": false
+    },
+    {
+      "start": 161.46,
+      "end": 162.78,
+      "text": "我把窗户那边关一下",
+      "avg_logprob": -0.1706,
+      "no_speech_prob": 0.1912,
+      "review": false
+    },
+    {
+      "start": 162.78,
+      "end": 183.3,
+      "text": "如果和我一样",
+      "avg_logprob": -0.1706,
+      "no_speech_prob": 0.1912,
+      "review": false
+    },
+    {
+      "start": 183.3,
+      "end": 184.76,
+      "text": "有昨天被骗进去的朋友",
+      "avg_logprob": -0.1706,
+      "no_speech_prob": 0.1912,
+      "review": false
+    },
+    {
+      "start": 184.76,
+      "end": 185.82,
+      "text": "今天就没办法",
+      "avg_logprob": -0.1706,
+      "no_speech_prob": 0.1912,
+      "review": false
+    },
+    {
+      "start": 185.82,
+      "end": 192.2,
+      "text": "我大概说一下,跟大家道歉啊,这有啥办法,这种东西你怎么分析都是好,特别好,特别好,特别好",
+      "avg_logprob": -0.1108,
+      "no_speech_prob": 0.449,
+      "review": false
+    },
+    {
+      "start": 192.2,
+      "end": 195.8,
+      "text": "我昨天集合尽量也被骗进去了,集合尽量被骗进去了",
+      "avg_logprob": -0.1108,
+      "no_speech_prob": 0.449,
+      "review": false
+    },
+    {
+      "start": 195.8,
+      "end": 203.14,
+      "text": "A股又不是美股,跑不掉,要是是美股的话,这个地方打开我就跑了,打开我就跑了,跑不掉啊",
+      "avg_logprob": -0.1108,
+      "no_speech_prob": 0.449,
+      "review": false
+    },
+    {
+      "start": 203.14,
+      "end": 212.36,
+      "text": "我昨天刚进去的,今天,今天简直是,但是我相信等会儿还是会上来的啊",
+      "avg_logprob": -0.1108,
+      "no_speech_prob": 0.449,
+      "review": false
+    },
+    {
+      "start": 212.36,
+      "end": 215.64,
+      "text": "不太可能就直接跌停,他的财务税这么好",
+      "avg_logprob": -0.1108,
+      "no_speech_prob": 0.449,
+      "review": false
+    },
+    {
+      "start": 215.64,
+      "end": 220.14,
+      "text": "不过今天整个的A股整体来说肯定很差很差了",
+      "avg_logprob": -0.1023,
+      "no_speech_prob": 0.3801,
+      "review": false
+    },
+    {
+      "start": 220.14,
+      "end": 220.84,
+      "text": "毫无疑问的",
+      "avg_logprob": -0.1023,
+      "no_speech_prob": 0.3801,
+      "review": false
+    },
+    {
+      "start": 220.84,
+      "end": 225.18,
+      "text": "现在9点20之前不要管它",
+      "avg_logprob": -0.1023,
+      "no_speech_prob": 0.3801,
+      "review": false
+    },
+    {
+      "start": 225.18,
+      "end": 226.02,
+      "text": "这都是假的",
+      "avg_logprob": -0.1023,
+      "no_speech_prob": 0.3801,
+      "review": false
+    },
+    {
+      "start": 226.02,
+      "end": 227.06,
+      "text": "9点20之前你看嘛",
+      "avg_logprob": -0.1023,
+      "no_speech_prob": 0.3801,
+      "review": false
+    },
+    {
+      "start": 227.06,
+      "end": 228.76,
+      "text": "满板跌停跌停跌停",
+      "avg_logprob": -0.1023,
+      "no_speech_prob": 0.3801,
+      "review": false
+    },
+    {
+      "start": 228.76,
+      "end": 230.44,
+      "text": "实际上到时候没有几个跌停的",
+      "avg_logprob": -0.1023,
+      "no_speech_prob": 0.3801,
+      "review": false
+    },
+    {
+      "start": 230.44,
+      "end": 232.56,
+      "text": "9点20之前不要管它",
+      "avg_logprob": -0.1023,
+      "no_speech_prob": 0.3801,
+      "review": false
+    },
+    {
+      "start": 232.56,
+      "end": 235.02,
+      "text": "根本就没有什么可看的",
+      "avg_logprob": -0.1023,
+      "no_speech_prob": 0.3801,
+      "review": false
+    },
+    {
+      "start": 235.02,
+      "end": 236.88,
+      "text": "主要是9点20之后来看",
+      "avg_logprob": -0.1023,
+      "no_speech_prob": 0.3801,
+      "review": false
+    },
+    {
+      "start": 236.88,
+      "end": 238.32,
+      "text": "那么昨天呢",
+      "avg_logprob": -0.1023,
+      "no_speech_prob": 0.3801,
+      "review": false
+    },
+    {
+      "start": 238.32,
+      "end": 241.5,
+      "text": "其实就是一个微软的这个微软温室停服",
+      "avg_logprob": -0.1023,
+      "no_speech_prob": 0.3801,
+      "review": false
+    },
+    {
+      "start": 241.5,
+      "end": 242.52,
+      "text": "就是国产替代",
+      "avg_logprob": -0.1023,
+      "no_speech_prob": 0.3801,
+      "review": false
+    },
+    {
+      "start": 242.52,
+      "end": 244.5,
+      "text": "国产的软件替代微软",
+      "avg_logprob": -0.1023,
+      "no_speech_prob": 0.3801,
+      "review": false
+    },
+    {
+      "start": 244.5,
+      "end": 245.12,
+      "text": "这是一个",
+      "avg_logprob": -0.1023,
+      "no_speech_prob": 0.3801,
+      "review": false
+    },
+    {
+      "start": 245.12,
+      "end": 247.02,
+      "text": "第二个是二尼热的农产品",
+      "avg_logprob": -0.1225,
+      "no_speech_prob": 0.1707,
+      "review": false
+    },
+    {
+      "start": 247.02,
+      "end": 248.4,
+      "text": "其实昨天就这两个",
+      "avg_logprob": -0.1225,
+      "no_speech_prob": 0.1707,
+      "review": false
+    },
+    {
+      "start": 248.4,
+      "end": 250.98,
+      "text": "昨天二尼热的农产品",
+      "avg_logprob": -0.1225,
+      "no_speech_prob": 0.1707,
+      "review": false
+    },
+    {
+      "start": 250.98,
+      "end": 253.4,
+      "text": "如果要买的话呢",
+      "avg_logprob": -0.1225,
+      "no_speech_prob": 0.1707,
+      "review": false
+    },
+    {
+      "start": 253.4,
+      "end": 254.4,
+      "text": "你就是重量糖业",
+      "avg_logprob": -0.1225,
+      "no_speech_prob": 0.1707,
+      "review": false
+    },
+    {
+      "start": 254.4,
+      "end": 255.94,
+      "text": "那么昨天我有重量糖业了",
+      "avg_logprob": -0.1225,
+      "no_speech_prob": 0.1707,
+      "review": false
+    },
+    {
+      "start": 255.94,
+      "end": 257.4,
+      "text": "重量糖业我昨天有",
+      "avg_logprob": -0.1225,
+      "no_speech_prob": 0.1707,
+      "review": false
+    },
+    {
+      "start": 257.4,
+      "end": 260.66,
+      "text": "所以说如果是做农头的话就只做一只",
+      "avg_logprob": -0.1225,
+      "no_speech_prob": 0.1707,
+      "review": false
+    },
+    {
+      "start": 260.66,
+      "end": 262.02,
+      "text": "白糖就是做重量糖业",
+      "avg_logprob": -0.1225,
+      "no_speech_prob": 0.1707,
+      "review": false
+    },
+    {
+      "start": 262.02,
+      "end": 262.84,
+      "text": "其他就不要做了",
+      "avg_logprob": -0.1225,
+      "no_speech_prob": 0.1707,
+      "review": false
+    },
+    {
+      "start": 262.84,
+      "end": 263.62,
+      "text": "它是第一的嘛",
+      "avg_logprob": -0.1225,
+      "no_speech_prob": 0.1707,
+      "review": false
+    },
+    {
+      "start": 263.62,
+      "end": 265.4,
+      "text": "糖成量第一的",
+      "avg_logprob": -0.1225,
+      "no_speech_prob": 0.1707,
+      "review": false
+    },
+    {
+      "start": 265.4,
+      "end": 269.26,
+      "text": "可回收火箭",
+      "avg_logprob": -0.1225,
+      "no_speech_prob": 0.1707,
+      "review": false
+    },
+    {
+      "start": 269.26,
+      "end": 270.5,
+      "text": "这个我今天不追了",
+      "avg_logprob": -0.1225,
+      "no_speech_prob": 0.1707,
+      "review": false
+    },
+    {
+      "start": 270.5,
+      "end": 272.92,
+      "text": "我觉得这个题材不追它",
+      "avg_logprob": -0.1225,
+      "no_speech_prob": 0.1707,
+      "review": false
+    },
+    {
+      "start": 272.92,
+      "end": 274.16,
+      "text": "我觉得没有意义",
+      "avg_logprob": -0.1225,
+      "no_speech_prob": 0.1707,
+      "review": false
+    },
+    {
+      "start": 274.16,
+      "end": 275.66,
+      "text": "我觉得今天不要去追它",
+      "avg_logprob": -0.1225,
+      "no_speech_prob": 0.1707,
+      "review": false
+    },
+    {
+      "start": 275.66,
+      "end": 279.0,
+      "text": "这个事情我不去,反正我不追它",
+      "avg_logprob": -0.1128,
+      "no_speech_prob": 0.1035,
+      "review": false
+    },
+    {
+      "start": 279.0,
+      "end": 282.58,
+      "text": "其他的暂时没有什么题材,暂时没有什么题材",
+      "avg_logprob": -0.1128,
+      "no_speech_prob": 0.1035,
+      "review": false
+    },
+    {
+      "start": 282.58,
+      "end": 285.36,
+      "text": "这两天没有题材,就是看手里票怎么处理",
+      "avg_logprob": -0.1128,
+      "no_speech_prob": 0.1035,
+      "review": false
+    },
+    {
+      "start": 285.36,
+      "end": 295.54,
+      "text": "我这个衣服是有那个花纹的,有条纹的,我要换了",
+      "avg_logprob": -0.1128,
+      "no_speech_prob": 0.1035,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 15.06
+}

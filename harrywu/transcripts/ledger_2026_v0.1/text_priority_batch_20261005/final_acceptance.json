@@ -1,0 +1,220 @@
+{
+  "completed_streams": 20,
+  "planned_streams": 20,
+  "remaining_streams": [],
+  "source_hours": 36.810207105555556,
+  "planned_source_hours": 36.810207105555556,
+  "retained_source_window_hours": 30.8225,
+  "new_local_asr_streams": 18,
+  "new_asr_wall_minutes_sum": 151.06,
+  "stock_name_replacements": 2527,
+  "pending_name_occurrences": 225,
+  "visual_processing": false,
+  "secondary_workers": false,
+  "accepted_utc": "2026-10-06T00:06:24.634355+00:00",
+  "checks": [
+    {
+      "stream_id": "XSFwu5KOo5Y",
+      "text_and_upload_complete": true,
+      "source_asr_unchanged": true,
+      "ids_and_timestamps_unchanged": true,
+      "full_section_coverage": true,
+      "read_complete": true,
+      "files": 7,
+      "noise_exception": false
+    },
+    {
+      "stream_id": "sH-gxN2M6iw",
+      "text_and_upload_complete": true,
+      "source_asr_unchanged": true,
+      "ids_and_timestamps_unchanged": true,
+      "full_section_coverage": true,
+      "read_complete": true,
+      "files": 7,
+      "noise_exception": false
+    },
+    {
+      "stream_id": "B8xkN2kibxM",
+      "text_and_upload_complete": true,
+      "source_asr_unchanged": true,
+      "ids_and_timestamps_unchanged": true,
+      "full_section_coverage": true,
+      "read_complete": true,
+      "files": 7,
+      "noise_exception": false
+    },
+    {
+      "stream_id": "l6qVt1gAIuk",
+      "text_and_upload_complete": true,
+      "source_asr_unchanged": true,
+      "ids_and_timestamps_unchanged": true,
+      "full_section_coverage": true,
+      "read_complete": true,
+      "files": 7,
+      "noise_exception": false
+    },
+    {
+      "stream_id": "0sDh6RgtVR0",
+      "text_and_upload_complete": true,
+      "source_asr_unchanged": true,
+      "ids_and_timestamps_unchanged": true,
+      "full_section_coverage": true,
+      "read_complete": true,
+      "files": 7,
+      "noise_exception": false
+    },
+    {
+      "stream_id": "MonICnSdMwU",
+      "text_and_upload_complete": true,
+      "source_asr_unchanged": true,
+      "ids_and_timestamps_unchanged": true,
+      "full_section_coverage": true,
+      "read_complete": true,
+      "files": 7,
+      "noise_exception": true
+    },
+    {
+      "stream_id": "2PoupEXV2WA",
+      "text_and_upload_complete": true,
+      "source_asr_unchanged": true,
+      "ids_and_timestamps_unchanged": true,
+      "full_section_coverage": true,
+      "read_complete": true,
+      "files": 7,
+      "noise_exception": false
+    },
+    {
+      "stream_id": "hJ9pvgAY4qg",
+      "text_and_upload_complete": true,
+      "source_asr_unchanged": true,
+      "ids_and_timestamps_unchanged": true,
+      "full_section_coverage": true,
+      "read_complete": true,
+      "files": 7,
+      "noise_exception": false
+    },
+    {
+      "stream_id": "-9HY0rxruC0",
+      "text_and_upload_complete": true,
+      "source_asr_unchanged": true,
+      "ids_and_timestamps_unchanged": true,
+      "full_section_coverage": true,
+      "read_complete": true,
+      "files": 7,
+      "noise_exception": false
+    },
+    {
+      "stream_id": "69zkfFusgM8",
+      "text_and_upload_complete": true,
+      "source_asr_unchanged": true,
+      "ids_and_timestamps_unchanged": true,
+      "full_section_coverage": true,
+      "read_complete": true,
+      "files": 7,
+      "noise_exception": false
+    },
+    {
+      "stream_id": "11uEocTvLcU",
+      "text_and_upload_complete": true,
+      "source_asr_unchanged": true,
+      "ids_and_timestamps_unchanged": true,
+      "full_section_coverage": true,
+      "read_complete": true,
+      "files": 7,
+      "noise_exception": false
+    },
+    {
+      "stream_id": "2r7MxJs-Lz0",
+      "text_and_upload_complete": true,
+      "source_asr_unchanged": true,
+      "ids_and_timestamps_unchanged": true,
+      "full_section_coverage": true,
+      "read_complete": true,
+      "files": 7,
+      "noise_exception": false
+    },
+    {
+      "stream_id": "S2M4McjjaaA",
+      "text_and_upload_complete": true,
+      "source_asr_unchanged": true,
+      "ids_and_timestamps_unchanged": true,
+      "full_section_coverage": true,
+      "read_complete": true,
+      "files": 7,
+      "noise_exception": false
+    },
+    {
+      "stream_id": "EC_gdo1osts",
+      "text_and_upload_complete": true,
+      "source_asr_unchanged": true,
+      "ids_and_timestamps_unchanged": true,
+      "full_section_coverage": true,
+      "read_complete": true,
+      "files": 7,
+      "noise_exception": true
+    },
+    {
+      "stream_id": "U15sH8So7PA",
+      "text_and_upload_complete": true,
+      "source_asr_unchanged": true,
+      "ids_and_timestamps_unchanged": true,
+      "full_section_coverage": true,
+      "read_complete": true,
+      "files": 7,
+      "noise_exception": false
+    },
+    {
+      "stream_id": "TYWWyMSc4t0",
+      "text_and_upload_complete": true,
+      "source_asr_unchanged": true,
+      "ids_and_timestamps_unchanged": true,
+      "full_section_coverage": true,
+      "read_complete": true,
+      "files": 7,
+      "noise_exception": false
+    },
+    {
+      "stream_id": "vzoh9dRVuUU",
+      "text_and_upload_complete": true,
+      "source_asr_unchanged": true,
+      "ids_and_timestamps_unchanged": true,
+      "full_section_coverage": true,
+      "read_complete": true,
+      "files": 7,
+      "noise_exception": false
+    },
+    {
+      "stream_id": "Xb9Zns7PFW0",
+      "text_and_upload_complete": true,
+      "source_asr_unchanged": true,
+      "ids_and_timestamps_unchanged": true,
+      "full_section_coverage": true,
+      "read_complete": true,
+      "files": 7,
+      "noise_exception": false
+    },
+    {
+      "stream_id": "6LMNw-7qaM0",
+      "text_and_upload_complete": true,
+      "source_asr_unchanged": true,
+      "ids_and_timestamps_unchanged": true,
+      "full_section_coverage": true,
+      "read_complete": true,
+      "files": 7,
+      "noise_exception": false
+    },
+    {
+      "stream_id": "cpIxmR2ryic",
+      "text_and_upload_complete": true,
+      "source_asr_unchanged": true,
+      "ids_and_timestamps_unchanged": true,
+      "full_section_coverage": true,
+      "read_complete": true,
+      "files": 7,
+      "noise_exception": false
+    }
+  ],
+  "cloud_root_index_verified": true,
+  "cloud_root_index_verified_utc": "2026-10-06T00:07:46.548501+00:00",
+  "cloud_delivered_file_count": 140
+}

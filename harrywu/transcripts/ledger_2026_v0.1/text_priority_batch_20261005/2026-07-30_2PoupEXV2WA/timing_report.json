@@ -1,0 +1,30 @@
+{
+  "stream_id": "2PoupEXV2WA",
+  "duration_seconds": 5056.702404,
+  "asr_wall_seconds": 360.125,
+  "media_speed_multiple": 14.042,
+  "segments": 1203,
+  "chunks": 17,
+  "source_hash_matches": true,
+  "visual_processing": false,
+  "asr_large_model_token_usage": 0,
+  "text_stage": "complete",
+  "finished_utc": "2026-10-05T10:09:31.345986+00:00",
+  "original_segments": 1203,
+  "retained_nonempty_segments": 1015,
+  "sections": 15,
+  "retained_source_seconds": 4135.0,
+  "stock_name_replacements": 44,
+  "term_replacements": 10,
+  "pending_name_occurrences": 3,
+  "semantic_reviewer": "current_codex_primary",
+  "text_completed_utc": "2026-10-05T10:13:55.769933+00:00",
+  "checks": {
+    "source_asr_hash_unchanged": true,
+    "source_timestamps_and_ids_unchanged": true,
+    "spoken_numbers_unchanged": true,
+    "section_coverage_complete": true,
+    "visual_processing": false
+  },
+  "original_asr_sha256": "5b70447e024831aa6ed9d5d8343bcf93341cd8d31028fd4daee41b54b2289c4d"
+}

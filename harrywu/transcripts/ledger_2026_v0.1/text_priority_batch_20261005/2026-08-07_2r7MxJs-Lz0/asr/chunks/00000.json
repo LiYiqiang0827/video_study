@@ -1,0 +1,168 @@
+{
+  "begin": 0.0,
+  "finish": 300.0,
+  "segments": [
+    {
+      "start": 147.56,
+      "end": 190.38,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0928,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 190.4,
+      "end": 205.74,
+      "text": "对了,今天没看这个,今天有什么,现在还没有什么,还没有什么,没有什么题材出现",
+      "avg_logprob": -0.1595,
+      "no_speech_prob": 0.132,
+      "review": false
+    },
+    {
+      "start": 205.74,
+      "end": 212.37,
+      "text": "今天没有什么题材出现,美国那边呢,在小跌,也没有跌得很厉害",
+      "avg_logprob": -0.1595,
+      "no_speech_prob": 0.132,
+      "review": false
+    },
+    {
+      "start": 212.37,
+      "end": 222.14,
+      "text": "每天就忘了打开财联社了,这个每天要看什么新闻,滚动新闻要把他拿出来",
+      "avg_logprob": -0.1595,
+      "no_speech_prob": 0.132,
+      "review": false
+    },
+    {
+      "start": 222.14,
+      "end": 231.5,
+      "text": "卧室被爆九月份加息敞口大门,哇,这个就不少事情了,真要加息了不少事情",
+      "avg_logprob": -0.1595,
+      "no_speech_prob": 0.132,
+      "review": false
+    },
+    {
+      "start": 231.84,
+      "end": 244.36,
+      "text": "刚果经静止同框,可能有色金属还会继续涨",
+      "avg_logprob": -0.17,
+      "no_speech_prob": 0.0495,
+      "review": false
+    },
+    {
+      "start": 244.36,
+      "end": 247.73,
+      "text": "今天谨慎吧,今天又是周五",
+      "avg_logprob": -0.17,
+      "no_speech_prob": 0.0495,
+      "review": false
+    },
+    {
+      "start": 247.73,
+      "end": 250.15,
+      "text": "谨慎谨慎谨慎",
+      "avg_logprob": -0.17,
+      "no_speech_prob": 0.0495,
+      "review": false
+    },
+    {
+      "start": 250.15,
+      "end": 254.25,
+      "text": "又周五,各方面各种原因",
+      "avg_logprob": -0.17,
+      "no_speech_prob": 0.0495,
+      "review": false
+    },
+    {
+      "start": 254.25,
+      "end": 264.12,
+      "text": "你看宣布对多金规衍生品增加关税",
+      "avg_logprob": -0.17,
+      "no_speech_prob": 0.0495,
+      "review": false
+    },
+    {
+      "start": 264.12,
+      "end": 266.0,
+      "text": "那么这个就是对新能源",
+      "avg_logprob": -0.17,
+      "no_speech_prob": 0.0495,
+      "review": false
+    },
+    {
+      "start": 266.0,
+      "end": 269.94,
+      "text": "新能源太阳能光伏非常不好,好不好",
+      "avg_logprob": -0.17,
+      "no_speech_prob": 0.0495,
+      "review": false
+    },
+    {
+      "start": 269.94,
+      "end": 274.38,
+      "text": "所以说这些啊,这些就是光伏证明今天千万不要做了",
+      "avg_logprob": -0.17,
+      "no_speech_prob": 0.0495,
+      "review": false
+    },
+    {
+      "start": 274.38,
+      "end": 276.32,
+      "text": "整个的光伏行业还在往下走",
+      "avg_logprob": -0.17,
+      "no_speech_prob": 0.0495,
+      "review": false
+    },
+    {
+      "start": 276.32,
+      "end": 291.1,
+      "text": "刀指跌、海力士跌、闪迪跌",
+      "avg_logprob": -0.1004,
+      "no_speech_prob": 0.7217,
+      "review": true
+    },
+    {
+      "start": 291.1,
+      "end": 292.0,
+      "text": "这个昨天说过了啊",
+      "avg_logprob": -0.1004,
+      "no_speech_prob": 0.7217,
+      "review": true
+    },
+    {
+      "start": 292.0,
+      "end": 293.5,
+      "text": "闪迪今天肯定跌的",
+      "avg_logprob": -0.1004,
+      "no_speech_prob": 0.7217,
+      "review": true
+    },
+    {
+      "start": 293.5,
+      "end": 294.78,
+      "text": "因为盘后跌成这个样子",
+      "avg_logprob": -0.1004,
+      "no_speech_prob": 0.7217,
+      "review": true
+    },
+    {
+      "start": 294.78,
+      "end": 295.54,
+      "text": "闪迪要跌",
+      "avg_logprob": -0.1004,
+      "no_speech_prob": 0.7217,
+      "review": true
+    },
+    {
+      "start": 295.54,
+      "end": 300.4,
+      "text": "一般的就是9点20之前",
+      "avg_logprob": -0.1004,
+      "no_speech_prob": 0.7217,
+      "review": true
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 11.53
+}

@@ -1,0 +1,56 @@
+{
+  "begin": 0.0,
+  "finish": 300.0,
+  "segments": [
+    {
+      "start": 8.3,
+      "end": 154.74,
+      "text": "韩国上涨",
+      "avg_logprob": -0.2607,
+      "no_speech_prob": 0.8745,
+      "review": true
+    },
+    {
+      "start": 167.71,
+      "end": 170.23,
+      "text": "美国进口无人机收取关税",
+      "avg_logprob": -0.2607,
+      "no_speech_prob": 0.8745,
+      "review": true
+    },
+    {
+      "start": 170.23,
+      "end": 205.43,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0667,
+      "no_speech_prob": 0.8193,
+      "review": true
+    },
+    {
+      "start": 205.45,
+      "end": 235.43,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0849,
+      "no_speech_prob": 0.1702,
+      "review": false
+    },
+    {
+      "start": 235.45,
+      "end": 268.1,
+      "text": "凯莱因在跌,你看康老化在跌,医药全部在跌,除了这个状况,所以这个没办法,今天低开这么多,也不是那么多吧,一个点,现在才9点18,还早,不着急啊,我今天就走了,只要不高开,我今天就走了啊,你们自己决定啊,你们自己决定啊,你们自己决定啊,我的风格是个风格,因为我又能够以后,我每天都能买到牛股,说实话,所以我无所谓的,",
+      "avg_logprob": -0.0776,
+      "no_speech_prob": 0.5298,
+      "review": true
+    },
+    {
+      "start": 268.1,
+      "end": 301.39,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1121,
+      "no_speech_prob": 0.0,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 10.17
+}

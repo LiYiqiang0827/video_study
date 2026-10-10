@@ -1,0 +1,504 @@
+{
+  "begin": 6300.0,
+  "finish": 6600.0,
+  "segments": [
+    {
+      "start": 6299.48,
+      "end": 6301.34,
+      "text": "就是如果你要我说今天",
+      "avg_logprob": -0.181,
+      "no_speech_prob": 0.1512,
+      "review": false
+    },
+    {
+      "start": 6301.34,
+      "end": 6303.56,
+      "text": "在今天大盘这么跌的情况下",
+      "avg_logprob": -0.181,
+      "no_speech_prob": 0.1512,
+      "review": false
+    },
+    {
+      "start": 6303.56,
+      "end": 6305.08,
+      "text": "如果让我选",
+      "avg_logprob": -0.181,
+      "no_speech_prob": 0.1512,
+      "review": false
+    },
+    {
+      "start": 6305.08,
+      "end": 6307.34,
+      "text": "结合所有的",
+      "avg_logprob": -0.181,
+      "no_speech_prob": 0.1512,
+      "review": false
+    },
+    {
+      "start": 6307.34,
+      "end": 6308.16,
+      "text": "结合题材",
+      "avg_logprob": -0.181,
+      "no_speech_prob": 0.1512,
+      "review": false
+    },
+    {
+      "start": 6308.16,
+      "end": 6309.3,
+      "text": "结合资金理由",
+      "avg_logprob": -0.181,
+      "no_speech_prob": 0.1512,
+      "review": false
+    },
+    {
+      "start": 6309.3,
+      "end": 6309.94,
+      "text": "逐一资金",
+      "avg_logprob": -0.181,
+      "no_speech_prob": 0.1512,
+      "review": false
+    },
+    {
+      "start": 6309.94,
+      "end": 6311.46,
+      "text": "结合K线形态量价",
+      "avg_logprob": -0.181,
+      "no_speech_prob": 0.1512,
+      "review": false
+    },
+    {
+      "start": 6311.46,
+      "end": 6313.0,
+      "text": "康龙还可以",
+      "avg_logprob": -0.181,
+      "no_speech_prob": 0.1512,
+      "review": false
+    },
+    {
+      "start": 6313.0,
+      "end": 6313.88,
+      "text": "康龙还可以",
+      "avg_logprob": -0.181,
+      "no_speech_prob": 0.1512,
+      "review": false
+    },
+    {
+      "start": 6313.88,
+      "end": 6314.28,
+      "text": "说实话",
+      "avg_logprob": -0.181,
+      "no_speech_prob": 0.1512,
+      "review": false
+    },
+    {
+      "start": 6314.28,
+      "end": 6315.38,
+      "text": "但是最后等下午",
+      "avg_logprob": -0.181,
+      "no_speech_prob": 0.1512,
+      "review": false
+    },
+    {
+      "start": 6315.38,
+      "end": 6315.86,
+      "text": "为什么呢",
+      "avg_logprob": -0.181,
+      "no_speech_prob": 0.1512,
+      "review": false
+    },
+    {
+      "start": 6315.86,
+      "end": 6316.74,
+      "text": "因为现在他又下去了",
+      "avg_logprob": -0.181,
+      "no_speech_prob": 0.1512,
+      "review": false
+    },
+    {
+      "start": 6316.74,
+      "end": 6317.04,
+      "text": "是不是",
+      "avg_logprob": -0.181,
+      "no_speech_prob": 0.1512,
+      "review": false
+    },
+    {
+      "start": 6317.04,
+      "end": 6318.08,
+      "text": "现在下去了",
+      "avg_logprob": -0.181,
+      "no_speech_prob": 0.1512,
+      "review": false
+    },
+    {
+      "start": 6318.08,
+      "end": 6319.68,
+      "text": "他如果这个位置能双突破的话",
+      "avg_logprob": -0.181,
+      "no_speech_prob": 0.1512,
+      "review": false
+    },
+    {
+      "start": 6319.68,
+      "end": 6321.44,
+      "text": "这个位置能双突破的话",
+      "avg_logprob": -0.181,
+      "no_speech_prob": 0.1512,
+      "review": false
+    },
+    {
+      "start": 6321.44,
+      "end": 6322.86,
+      "text": "我觉得还是可以的",
+      "avg_logprob": -0.181,
+      "no_speech_prob": 0.1512,
+      "review": false
+    },
+    {
+      "start": 6322.86,
+      "end": 6323.92,
+      "text": "我觉得可以的",
+      "avg_logprob": -0.181,
+      "no_speech_prob": 0.1512,
+      "review": false
+    },
+    {
+      "start": 6323.92,
+      "end": 6324.1,
+      "text": "好不好",
+      "avg_logprob": -0.181,
+      "no_speech_prob": 0.1512,
+      "review": false
+    },
+    {
+      "start": 6324.1,
+      "end": 6325.16,
+      "text": "我觉得可以的",
+      "avg_logprob": -0.181,
+      "no_speech_prob": 0.1512,
+      "review": false
+    },
+    {
+      "start": 6325.16,
+      "end": 6327.88,
+      "text": "其他的你们问我的",
+      "avg_logprob": -0.181,
+      "no_speech_prob": 0.1512,
+      "review": false
+    },
+    {
+      "start": 6327.88,
+      "end": 6328.48,
+      "text": "我真的是",
+      "avg_logprob": -0.181,
+      "no_speech_prob": 0.1512,
+      "review": false
+    },
+    {
+      "start": 6328.48,
+      "end": 6383.86,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0583,
+      "no_speech_prob": 0.5894,
+      "review": true
+    },
+    {
+      "start": 6383.88,
+      "end": 6390.6,
+      "text": "哎,本来就有这个词啊,叫奴类高潮,这精神高潮,本来就有这个词啊,这个东西的,这个词是真实",
+      "avg_logprob": -0.1143,
+      "no_speech_prob": 0.6616,
+      "review": true
+    },
+    {
+      "start": 6390.6,
+      "end": 6417.69,
+      "text": "对对对,权力嘛,对于男性雄性动物来说,要么是权力,要么是其他的,的确是这样子",
+      "avg_logprob": -0.1143,
+      "no_speech_prob": 0.6616,
+      "review": true
+    },
+    {
+      "start": 6417.69,
+      "end": 6420.83,
+      "text": "我对权力不爱好,所以我也是要喜欢其他的",
+      "avg_logprob": -0.1143,
+      "no_speech_prob": 0.6616,
+      "review": true
+    },
+    {
+      "start": 6420.83,
+      "end": 6428.57,
+      "text": "双阴的八字,我当然不是双阴的八字了,但是我的八字里面的阴性的甘之肯定多一点啊",
+      "avg_logprob": -0.1143,
+      "no_speech_prob": 0.6616,
+      "review": true
+    },
+    {
+      "start": 6428.57,
+      "end": 6434.15,
+      "text": "为什么不会威,这个位置多难威啊,这个位置很难威的啊",
+      "avg_logprob": -0.1143,
+      "no_speech_prob": 0.6616,
+      "review": true
+    },
+    {
+      "start": 6434.15,
+      "end": 6443.71,
+      "text": "很难,但是不是说绝对不会微,80%的概率不会微,20%的概率会微,而且现在整个外环境也不好啊,美国一天这样那样的是吧,外环境也不好",
+      "avg_logprob": -0.1099,
+      "no_speech_prob": 0.876,
+      "review": true
+    },
+    {
+      "start": 6443.71,
+      "end": 6452.5,
+      "text": "京东方是放着吗?不是,京东方我没有止损啊,京东方我是赚了钱的呀,我看看啊,京东方,那早走了",
+      "avg_logprob": -0.1099,
+      "no_speech_prob": 0.876,
+      "review": true
+    },
+    {
+      "start": 6452.5,
+      "end": 6459.46,
+      "text": "京东方,你们不要看我的,我每次不对就跑得快啊,京东方我是赚了钱的呀",
+      "avg_logprob": -0.1099,
+      "no_speech_prob": 0.876,
+      "review": true
+    },
+    {
+      "start": 6459.46,
+      "end": 6465.52,
+      "text": "军东方你看军东方我记得我最开始最开始最开始买军东方不是在这买的吗",
+      "avg_logprob": -0.0844,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 6465.52,
+      "end": 6469.72,
+      "text": "然后开始亏钱亏钱亏钱但是我开始加仓最后在这些位置加仓",
+      "avg_logprob": -0.0844,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 6469.72,
+      "end": 6473.72,
+      "text": "然后呢一个起来因为当时说过嘛我专门说过军东方",
+      "avg_logprob": -0.0844,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 6473.72,
+      "end": 6477.64,
+      "text": "我说你看啊只要50%回调我就走然后就走了",
+      "avg_logprob": -0.0844,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 6477.64,
+      "end": 6484.42,
+      "text": "走了之后好像好像我在这些地方买过一次还是没有买过都忘了说实话",
+      "avg_logprob": -0.0844,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 6484.42,
+      "end": 6487.92,
+      "text": "反正军东方我是赚了钱走的也没有亏钱走的",
+      "avg_logprob": -0.0844,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 6487.92,
+      "end": 6489.68,
+      "text": "我肯定不会亏钱走",
+      "avg_logprob": -0.11,
+      "no_speech_prob": 0.5239,
+      "review": true
+    },
+    {
+      "start": 6489.68,
+      "end": 6491.56,
+      "text": "除非他我一买就亏钱",
+      "avg_logprob": -0.11,
+      "no_speech_prob": 0.5239,
+      "review": true
+    },
+    {
+      "start": 6491.56,
+      "end": 6493.4,
+      "text": "除非这是比如说哪些位置",
+      "avg_logprob": -0.11,
+      "no_speech_prob": 0.5239,
+      "review": true
+    },
+    {
+      "start": 6493.4,
+      "end": 6495.78,
+      "text": "因为金东方我印象特别深刻",
+      "avg_logprob": -0.11,
+      "no_speech_prob": 0.5239,
+      "review": true
+    },
+    {
+      "start": 6495.78,
+      "end": 6497.26,
+      "text": "就是这个地方买了加了一次仓",
+      "avg_logprob": -0.11,
+      "no_speech_prob": 0.5239,
+      "review": true
+    },
+    {
+      "start": 6497.26,
+      "end": 6498.68,
+      "text": "然后一个反弹就走了",
+      "avg_logprob": -0.11,
+      "no_speech_prob": 0.5239,
+      "review": true
+    },
+    {
+      "start": 6498.68,
+      "end": 6500.8,
+      "text": "一个反弹我不赚不亏就走了",
+      "avg_logprob": -0.11,
+      "no_speech_prob": 0.5239,
+      "review": true
+    },
+    {
+      "start": 6500.8,
+      "end": 6503.4,
+      "text": "因为当时那一个反弹买了好多",
+      "avg_logprob": -0.11,
+      "no_speech_prob": 0.5239,
+      "review": true
+    },
+    {
+      "start": 6503.4,
+      "end": 6504.2,
+      "text": "我不当说了吗",
+      "avg_logprob": -0.11,
+      "no_speech_prob": 0.5239,
+      "review": true
+    },
+    {
+      "start": 6504.2,
+      "end": 6507.56,
+      "text": "什么风华高科、中国巨石、金东方好多",
+      "avg_logprob": -0.11,
+      "no_speech_prob": 0.5239,
+      "review": true
+    },
+    {
+      "start": 6507.56,
+      "end": 6508.56,
+      "text": "我当时买了好多",
+      "avg_logprob": -0.11,
+      "no_speech_prob": 0.5239,
+      "review": true
+    },
+    {
+      "start": 6508.56,
+      "end": 6509.54,
+      "text": "不止他一个",
+      "avg_logprob": -0.11,
+      "no_speech_prob": 0.5239,
+      "review": true
+    },
+    {
+      "start": 6509.54,
+      "end": 6511.96,
+      "text": "风华高科是做到最完美的",
+      "avg_logprob": -0.11,
+      "no_speech_prob": 0.5239,
+      "review": true
+    },
+    {
+      "start": 6511.96,
+      "end": 6513.46,
+      "text": "因为风华高科当时反弹最强",
+      "avg_logprob": -0.11,
+      "no_speech_prob": 0.5239,
+      "review": true
+    },
+    {
+      "start": 6513.46,
+      "end": 6514.38,
+      "text": "我看一下",
+      "avg_logprob": -0.11,
+      "no_speech_prob": 0.5239,
+      "review": true
+    },
+    {
+      "start": 6514.38,
+      "end": 6516.96,
+      "text": "风华高科是那一波",
+      "avg_logprob": -0.11,
+      "no_speech_prob": 0.5239,
+      "review": true
+    },
+    {
+      "start": 6516.96,
+      "end": 6555.24,
+      "text": "中文字幕志愿者 李宗盛",
+      "avg_logprob": -0.3093,
+      "no_speech_prob": 0.3022,
+      "review": false
+    },
+    {
+      "start": 6555.26,
+      "end": 6585.24,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0684,
+      "no_speech_prob": 0.5225,
+      "review": true
+    },
+    {
+      "start": 6585.26,
+      "end": 6587.2,
+      "text": "刚才你们问两个医药股我看一下",
+      "avg_logprob": -0.1724,
+      "no_speech_prob": 0.4419,
+      "review": false
+    },
+    {
+      "start": 6587.2,
+      "end": 6590.52,
+      "text": "哎呀说休歉",
+      "avg_logprob": -0.1724,
+      "no_speech_prob": 0.4419,
+      "review": false
+    },
+    {
+      "start": 6590.52,
+      "end": 6593.26,
+      "text": "我都怀疑我过两年回国当道士",
+      "avg_logprob": -0.1724,
+      "no_speech_prob": 0.4419,
+      "review": false
+    },
+    {
+      "start": 6593.26,
+      "end": 6594.1,
+      "text": "我不骗你们",
+      "avg_logprob": -0.1724,
+      "no_speech_prob": 0.4419,
+      "review": false
+    },
+    {
+      "start": 6594.1,
+      "end": 6599.66,
+      "text": "我现在觉得只有当道士才能满足我了",
+      "avg_logprob": -0.1724,
+      "no_speech_prob": 0.4419,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 19.22
+}

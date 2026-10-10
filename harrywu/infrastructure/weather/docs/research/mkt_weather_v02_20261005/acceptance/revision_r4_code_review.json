@@ -1,0 +1,178 @@
+{
+  "task_id": "MKT-R4-REVIEW-CODE",
+  "model_requested": "gpt-6.1-sol",
+  "effort": "xhigh",
+  "status": "review_completed_pending_primary_acceptance",
+  "reviewed_at": "2026-10-06T23:31:47Z",
+  "conclusion": "当前最终快照在已检查范围内没有未修正的P1/P2问题；四项初始发现由主控修正，已复验。此报告不宣布最终接受。",
+  "scope": {
+    "files": [
+      "C:\\Project Rocket\\worktrees\\tradingagent-claude-mrwu-20261005\\policyStudy\\policy\\market_sentiment\\review.py",
+      "C:\\Project Rocket\\worktrees\\tradingagent-claude-mrwu-20261005\\policyStudy\\policy\\market_sentiment\\tests\\test_review.py",
+      "C:\\Project Rocket\\worktrees\\tradingagent-claude-mrwu-20261005\\policyStudy\\policy\\market_sentiment\\run.py（review入口及history新增daily_explanations）",
+      "C:\\Project Rocket\\worktrees\\tradingagent-claude-mrwu-20261005\\policyStudy\\policy\\market_sentiment\\readings.py（必要公式契约）",
+      "C:\\Project Rocket\\worktrees\\tradingagent-claude-mrwu-20261005\\policyStudy\\policy\\market_sentiment\\io.py（必要IO契约）"
+    ],
+    "published_daily": "C:\\Project Rocket\\worktrees\\tradingagent-claude-mrwu-20261005\\docs\\research\\mkt_weather_v02_20261005\\data\\mkt_daily.csv",
+    "published_rows": 424,
+    "date_start": "2025-01-02",
+    "date_end": "2026-09-30",
+    "published_sha256": "2dda56a1ccbe6fdc5b88326faacb91a0f5e4341c77760f3592a385416653c946",
+    "boundaries": [
+      "分项贡献公式",
+      "必要分支缺失",
+      "零分母和小组",
+      "固定单阈值±3敏感性",
+      "日解释前缀与未来追加",
+      "输入不修改",
+      "相关性配对分母",
+      "说明文字与方法边界"
+    ],
+    "exclusions": [
+      "未联网",
+      "未读取策略或未来收益用于检验或调参",
+      "未跑源库回填",
+      "未重标校准、阈值或权重",
+      "未修改仓库文件",
+      "未推送Git"
+    ]
+  },
+  "snapshots": {
+    "initial_review_py_sha256": "060be0430654530eb2c16e2ad58c606d1b2ef0cb61f121c971ce4041781b96e7",
+    "final_sha256": {
+      "review.py": "2b0def75e092c1d5c4b86ddfdaa1906c446b7f9184136502a9e40993b0cc1608",
+      "tests/test_review.py": "5dcffc73d2c2c1148ab33d0dcc165b41257960a0686fa6596ac19fe174ef414f",
+      "run.py": "54e15423bc91acd8dd92616c0696b9fe6ebd09311988081db1a1ea9270d9a45d",
+      "readings.py": "4a1aa24fc164e447ac260e73300aa8a7f6072c7b40406b4b8ceb88a957c4273f",
+      "io.py": "e2cf68c3c8f83db5a5e037172ab47321c2268d592ce69be9ee2f4ed6449632d4"
+    },
+    "note": "主控在审查期间并行修正代码；最终结论只对应final_sha256。审查者没有编辑这些文件。"
+  },
+  "findings": [],
+  "resolved_findings": [
+    {
+      "id": "CR1",
+      "initial_severity": "P2",
+      "status": "fixed_and_rechecked",
+      "file": "review.py",
+      "initial_lines": [
+        39,
+        49
+      ],
+      "current_location": "explain_daily中all/chain observed_n检查",
+      "problem": "初始小样本/空组注意事项只覆盖晋级组，未覆盖挨打的昨日涨停及连板股大跌组。",
+      "reproduction": "发布表2026-04-07与2026-08-21，mkt_chain_observed_n=4且pseudocount=5；旧解释只有晋级组注意，缺少连板大跌小样本说明。",
+      "consequence": "原始0/4与经a5处理后的读数同时出现，读者容易忽略当日样本小于先验量。",
+      "final_validation": "两日small_group_notes均包含连板股大跌分母仅4只；合成all n=0及chain n=1也有提示。"
+    },
+    {
+      "id": "CR2",
+      "initial_severity": "P3",
+      "status": "fixed_and_rechecked",
+      "file": "review.py",
+      "initial_lines": [
+        75,
+        75
+      ],
+      "current_lines": [
+        83,
+        84
+      ],
+      "problem": "用label or fallback不能识别CSV空值读成np.nan，初始日解释显示字面nan。",
+      "reproduction": "mkt_weather_label=np.nan调用explain_daily。",
+      "consequence": "缺失天气解释错误呈现；当前发布表没有缺失天气，属于已支持缺失路径的边界问题。",
+      "final_validation": "当前label先检查非空字符串，合成例显示天气缺失，解释无nan；新增对应测试通过。"
+    },
+    {
+      "id": "CR3",
+      "initial_severity": "P3",
+      "status": "fixed_and_rechecked",
+      "file": "review.py",
+      "initial_lines": [
+        137,
+        147
+      ],
+      "current_lines": [
+        149,
+        160
+      ],
+      "problem": "初始敏感性统计只记录双方均有天气时的变化，未单列可用性发生变化的日期。",
+      "reproduction": "hit=50,cont=50,act=NaN,baseline=sunny；cont_hit_low从50加3后trial=''。旧输出comparable_n=0、unavailable_n=1、changed_n=0，日期明细为空。",
+      "consequence": "共同可比样本分母算术正确，但天气有无变化容易被遗漏，不能据changed_n推断整体不敏感。",
+      "final_validation": "当前availability_changed_n=1，明细记录sunny到空值及change_type=availability；changed_rate仍只对共同可比样本计算。"
+    },
+    {
+      "id": "CR4",
+      "initial_severity": "P3",
+      "status": "fixed_and_rechecked",
+      "file": "review.py",
+      "current_lines": [
+        26,
+        33
+      ],
+      "problem": "初始fraction未校验计数合法性，k>n、负数和无限分母可显示200%、负比例或1/缺失(0%)。",
+      "reproduction": "fraction(2,1)、fraction(-1,1)、fraction(1,np.inf)；额外测试非整数(.5,1)及(1,0)。",
+      "consequence": "坏输入可被打印成观察到的有效比例。发布表all/chain计数未发现此类错误。",
+      "final_validation": "当前无效有限性、范围、整数检查均返回无效群体计数（比例缺失）；新增测试通过。"
+    }
+  ],
+  "checks": {
+    "pytest": {
+      "command": "python -B -m pytest policyStudy/policy/market_sentiment/tests/test_review.py -q -p no:cacheprovider --basetemp <revision_r4/code_review/全新UUID目录>",
+      "environment": "PYTHONDONTWRITEBYTECODE=1；Python为C:\\Project Rocket\\Codex\\TradingAgent\\.venv\\Scripts\\python.exe",
+      "final_result": "11 passed in 0.92s",
+      "earlier_runner_issue": "第一次运行因code_review父目录尚不存在，8 passed/2 fixture setup errors；创建允许目录后10项通过，新增计数检查后11项通过。不是代码断言失败。"
+    },
+    "component_formula": {
+      "result": "PASS",
+      "rows_checked": 424,
+      "contribution_rows": 3816,
+      "formula": "每维可用权重为非缺失q对应名义权重之和；贡献=q*w/available_weight；贡献和与发布读数比较atol=1e-10。",
+      "no_available_components": "测试覆盖整维缺失，读数保持缺失；无组件却有读数会拒绝。"
+    },
+    "classification": {
+      "result": "PASS",
+      "boundary_cases": 1053,
+      "cases": "NaN、正负Infinity、0/100、各阈值及阈值附近值；review.classify_with_thresholds逐例对照readings.weather。",
+      "published_baseline_match": "424日完全匹配；发布天气缺失日=0。",
+      "design": "四个固定阈值各自-3/+3，另三个不变，共8试验；两年产生16统计行；没有择优、重拟合或预测效果筛选。"
+    },
+    "prefix_invariance": {
+      "result": "PASS",
+      "prefix_lengths": [
+        1,
+        10,
+        212,
+        423
+      ],
+      "future_append": "追加2099-01-01合成行后，原424日解释逐列完全不变。"
+    },
+    "nonmutation": {
+      "result": "PASS",
+      "dataframe": "explain_daily、contributions、sensitivity、correlations调用前后deep frame equality。",
+      "spec": "deepcopy(SPEC)与调用后对象相等。",
+      "published_file": "前后哈希均为scope.published_sha256。",
+      "run_review": "用进程内写函数替身捕获输出，无落地写入，调用前后输入完全相同。"
+    },
+    "denominators": {
+      "result": "PASS",
+      "sensitivity": "逐行comparable_n+unavailable_n=all_days，changed_n<=comparable_n；可用性变化另列。",
+      "correlation": "78个年/变量对的paired_n逐项独立按该年两列dropna长度对照；不足两点或常量相关系数缺失。",
+      "summary": "by_year中计数为满足条件的日数，不是把全部群体数量相加。"
+    },
+    "integration": {
+      "result": "STATIC_PASS",
+      "review_entry": "run.py的review入口读取派生CSV后调用run_review；写出诊断与解释，没有源库更新路线。",
+      "history_explanations": "history已生成daily后调用纯行函数explain_daily；新增解释不参与readings、校准或天气计算。",
+      "limitations": "没有在审查者任务中完整重跑history源库流程；该集成结论结合静态调用与解释函数动态检查。"
+    }
+  },
+  "interpretation_limits": [
+    "确定性事实解释及描述性相关不等于人类标注、真实心理标签、预测能力或因果关系。",
+    "2025校准是回顾式；2026已在项目研究中使用，不能称为完全未接触的前瞻样本。",
+    "本审查中的returns_used=False按无策略或未来收益检验理解；解释仍使用当日指数涨跌幅作为事实输入。",
+    "本报告核验代码行为及当前424日派生表，没有独立重新计算源库所有原始计数，也没有证明既定权重阈值最优。"
+  ],
+  "write_scope": "仅写revision_r4/r4_code_review.json，以及主控明确允许的revision_r4/code_review下隔离pytest临时产物；无仓库写入。",
+  "final_acceptance_claimed": false
+}

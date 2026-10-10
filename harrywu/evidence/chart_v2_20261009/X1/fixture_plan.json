@@ -1,0 +1,197 @@
+{
+  "fixtures": [
+    {
+      "purpose_id": "REG-1",
+      "ts_code": "002025.SZ",
+      "trade_dates": [
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18"
+      ],
+      "source_id": "csv_1min_original",
+      "device_paths": [
+        "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260914_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+        "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260915_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+        "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260916_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+        "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260917_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+        "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260918_A股1分钟K线@余哈哈的数据仓库 原创整理.csv"
+      ],
+      "sha256": [
+        "ad733d664133b50c639f8352232ba53289fa6d0edec43f0670e5d4ab9bc25805",
+        "13cc1d5337ffe3eb460664be0214d1f74dd26d46963fbf290a1aefe3299b4ece",
+        "63bfe092b8fe4ada9c36a88c2cbae8f4e0a65c034dd7991e1cfc9628e39ee372",
+        "634b0e7738f784e0a418d73e46cdc7043be756eb7b7bda3948a6fdfc31f89531",
+        "470389b24ef249e7100a5f4f24378632990133e6ec1859be7f223acf2203962c"
+      ],
+      "expected": {
+        "has_auction_row": true,
+        "has_0930_row": true,
+        "production_eligible": false,
+        "pure_auction_semantics_verified": false,
+        "timestamp_semantics_verified": false,
+        "source_rows_per_stock_day": 241
+      },
+      "disabled_reason": "Timestamp bar_end and pure auction semantics cannot be established for the raw CSV. Processed sampled data inherits the same CSV timestamps and removes 09:30. Registry priority is empty: discovery metadata only, not production authorization.",
+      "evidence_refs": [
+        "C:/Project Rocket/outputs/chart_tool_v2_20261009/X1/measurements.json#stock_days",
+        "C:/Project Rocket/outputs/chart_tool_v2_20261009/X1/measurements.json#source_reads"
+      ]
+    },
+    {
+      "purpose_id": "CASE-1",
+      "ts_code": "002025.SZ",
+      "trade_dates": [
+        "2025-12-31",
+        "2026-01-05",
+        "2026-01-06",
+        "2026-01-07",
+        "2026-01-08"
+      ],
+      "source_id": "csv_1min_original",
+      "device_paths": [
+        "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2025\\20251231_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+        "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260105_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+        "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260106_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+        "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260107_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+        "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260108_A股1分钟K线@余哈哈的数据仓库 原创整理.csv"
+      ],
+      "sha256": [
+        "0e4c5771eefaf2638fa5f4e14519a91829279830c0045e0ba13104ebaea1423f",
+        "4482d023a9f48e3e34e6c896117080e939baa48dbee7c69b2bd466184c0875e6",
+        "8eff0e0aa8d591b13af93eeccbd889f856031a54c42cddf782de058e9b24dec3",
+        "06f46912fe1062f17b6aec2de6a9b4fc0a0ac6c742934fd9d8efff09641c3bbc",
+        "f34a2af02e366bff24d9c5cbc281c96780eaddb649e4b396a2295e6483ca6c1a"
+      ],
+      "expected": {
+        "has_auction_row": true,
+        "has_0930_row": true,
+        "production_eligible": false,
+        "pure_auction_semantics_verified": false,
+        "timestamp_semantics_verified": false,
+        "source_rows_per_stock_day": 241
+      },
+      "disabled_reason": "Timestamp bar_end and pure auction semantics cannot be established for the raw CSV. Processed sampled data inherits the same CSV timestamps and removes 09:30. Registry priority is empty: discovery metadata only, not production authorization.",
+      "evidence_refs": [
+        "C:/Project Rocket/outputs/chart_tool_v2_20261009/X1/measurements.json#stock_days",
+        "C:/Project Rocket/outputs/chart_tool_v2_20261009/X1/measurements.json#source_reads"
+      ]
+    },
+    {
+      "purpose_id": "SH-1",
+      "ts_code": "600990.SH",
+      "trade_dates": [
+        "2026-09-18"
+      ],
+      "source_id": "csv_1min_original",
+      "device_paths": [
+        "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2026\\20260918_A股1分钟K线@余哈哈的数据仓库 原创整理.csv"
+      ],
+      "sha256": [
+        "470389b24ef249e7100a5f4f24378632990133e6ec1859be7f223acf2203962c"
+      ],
+      "expected": {
+        "has_auction_row": true,
+        "has_0930_row": true,
+        "production_eligible": false,
+        "pure_auction_semantics_verified": false,
+        "timestamp_semantics_verified": false,
+        "source_rows_per_stock_day": 241
+      },
+      "disabled_reason": "Timestamp bar_end and pure auction semantics cannot be established for the raw CSV. Processed sampled data inherits the same CSV timestamps and removes 09:30. Registry priority is empty: discovery metadata only, not production authorization.",
+      "evidence_refs": [
+        "C:/Project Rocket/outputs/chart_tool_v2_20261009/X1/measurements.json#stock_days",
+        "C:/Project Rocket/outputs/chart_tool_v2_20261009/X1/measurements.json#source_reads"
+      ]
+    },
+    {
+      "purpose_id": "OLD-1",
+      "ts_code": "002025.SZ",
+      "trade_dates": [
+        "2021-06-25"
+      ],
+      "source_id": "csv_1min_original",
+      "device_paths": [
+        "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2021\\20210625_A股1分钟K线@余哈哈的数据仓库 原创整理.csv"
+      ],
+      "sha256": [
+        "94ec5e1dd3283ff0a695d33221f4672ed46abe9f4757d5b032e62c2170ec1d2b"
+      ],
+      "expected": {
+        "has_auction_row": true,
+        "has_0930_row": true,
+        "production_eligible": false,
+        "pure_auction_semantics_verified": false,
+        "timestamp_semantics_verified": false,
+        "source_rows_per_stock_day": 241
+      },
+      "disabled_reason": "Timestamp bar_end and pure auction semantics cannot be established for the raw CSV. Processed sampled data inherits the same CSV timestamps and removes 09:30. Registry priority is empty: discovery metadata only, not production authorization.",
+      "evidence_refs": [
+        "C:/Project Rocket/outputs/chart_tool_v2_20261009/X1/measurements.json#stock_days",
+        "C:/Project Rocket/outputs/chart_tool_v2_20261009/X1/measurements.json#source_reads"
+      ]
+    },
+    {
+      "purpose_id": "EXDATE-1",
+      "ts_code": "002025.SZ",
+      "trade_dates": [
+        "2018-06-27"
+      ],
+      "source_id": "csv_1min_original",
+      "device_paths": [
+        "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\A Share Miniutes Data\\1min\\2018\\20180627_A股1分钟K线@余哈哈的数据仓库 原创整理.csv"
+      ],
+      "sha256": [
+        "e7698aabc6aa943464ce0bf3efd27f9e77d258113cd70e0dd993caac18101367"
+      ],
+      "expected": {
+        "has_auction_row": true,
+        "has_0930_row": true,
+        "production_eligible": false,
+        "pure_auction_semantics_verified": false,
+        "timestamp_semantics_verified": false,
+        "source_rows_per_stock_day": 241,
+        "factor": 6.461,
+        "previous_factor": 6.392
+      },
+      "disabled_reason": "Timestamp bar_end and pure auction semantics cannot be established for the raw CSV. Processed sampled data inherits the same CSV timestamps and removes 09:30. Registry priority is empty: discovery metadata only, not production authorization.",
+      "evidence_refs": [
+        "C:/Project Rocket/outputs/chart_tool_v2_20261009/X1/measurements.json#stock_days",
+        "C:/Project Rocket/outputs/chart_tool_v2_20261009/X1/measurements.json#source_reads"
+      ]
+    },
+    {
+      "purpose_id": "NOAUCTION-1",
+      "ts_code": "002025.SZ",
+      "trade_dates": [
+        "2026-09-18"
+      ],
+      "source_id": "one_min_parquet_processed",
+      "device_paths": [
+        "D:\\ProjectRocketData\\processed\\TradingAgent\\oneMinute\\parquet\\schema_v2\\year=2026\\month=09\\trade_date=20260918\\part-000.parquet"
+      ],
+      "sha256": [
+        "e42b807a643aa1be3c3849c538c8023a84fdbdbad5fddd519aef998d252320c5"
+      ],
+      "expected": {
+        "has_auction_row": false,
+        "has_0930_row": false,
+        "production_eligible": false,
+        "pure_auction_semantics_verified": false,
+        "timestamp_semantics_verified": false,
+        "source_rows_per_stock_day": 240
+      },
+      "disabled_reason": "Timestamp bar_end and pure auction semantics cannot be established for the raw CSV. Processed sampled data inherits the same CSV timestamps and removes 09:30. Registry priority is empty: discovery metadata only, not production authorization.",
+      "evidence_refs": [
+        "C:/Project Rocket/outputs/chart_tool_v2_20261009/X1/measurements.json#stock_days",
+        "C:/Project Rocket/outputs/chart_tool_v2_20261009/X1/measurements.json#source_reads"
+      ]
+    }
+  ],
+  "unique_file_count": 13,
+  "max_files": 15,
+  "file_copy_policy": "Copy original file bytes unchanged and verify whole-file SHA256 before selecting the requested stock. Do not relabel a sliced fixture with the full-file digest.",
+  "date_selection_evidence": "C:/Project Rocket/outputs/chart_tool_v2_20261009/X1/measurements.json#fixture_dates",
+  "production_enabled": false
+}

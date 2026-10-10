@@ -1,0 +1,565 @@
+{
+  "schema": 1,
+  "source": "C:\\Users\\HarryWu_IOKI\\Videos\\飞云双突破\\For GPT\\双突破所有买点.mkv",
+  "duration": 3978.667,
+  "params": {
+    "source_sha256": "c44ccee04104201c1ae2cbb4f0e273cd31094844e090c4ff3fddd9eb445c9d59",
+    "times": [
+      0.5,
+      60.5,
+      120.5,
+      180.5,
+      240.5,
+      300.5,
+      360.5,
+      420.5,
+      480.5,
+      540.5,
+      600.5,
+      660.5,
+      720.5,
+      780.5,
+      840.5,
+      900.5,
+      960.5,
+      1020.5,
+      1080.5,
+      1140.5,
+      1200.5,
+      1260.5,
+      1320.5,
+      1380.5,
+      1440.5,
+      1500.5,
+      1560.5,
+      1620.5,
+      1680.5,
+      1740.5,
+      1800.5,
+      1860.5,
+      1920.5,
+      1980.5,
+      2040.5,
+      2100.5,
+      2160.5,
+      2220.5,
+      2280.5,
+      2340.5,
+      2400.5,
+      2460.5,
+      2520.5,
+      2580.5,
+      2640.5,
+      2700.5,
+      2760.5,
+      2820.5,
+      2880.5,
+      2940.5,
+      3000.5,
+      3060.5,
+      3120.5,
+      3180.5,
+      3240.5,
+      3300.5,
+      3360.5,
+      3420.5,
+      3480.5,
+      3540.5,
+      3600.5,
+      3660.5,
+      3720.5,
+      3780.5,
+      3840.5,
+      3900.5,
+      3960.5
+    ],
+    "method": "accurate-seek-copyts-original-v1"
+  },
+  "frames": [
+    {
+      "requested_time": 0.5,
+      "time": 0.5,
+      "decoded_pts": 0.5,
+      "frame": "frame_00000_000000500.jpg",
+      "sha256": "e94d50f7b13882a97388e4fddb31e3925a08869a108c1ee6794f204a8a421200"
+    },
+    {
+      "requested_time": 60.5,
+      "time": 60.5,
+      "decoded_pts": 60.5,
+      "frame": "frame_00001_000060500.jpg",
+      "sha256": "c561130a56cfb9c8c25e76be44dc6947918b04d7f3c567c3cd135380fb2eb85a"
+    },
+    {
+      "requested_time": 120.5,
+      "time": 120.5,
+      "decoded_pts": 120.5,
+      "frame": "frame_00002_000120500.jpg",
+      "sha256": "447fb77608f622a7d383847eabb71133d1c4af000493e1e59e2e709b1e9430f2"
+    },
+    {
+      "requested_time": 180.5,
+      "time": 180.5,
+      "decoded_pts": 180.5,
+      "frame": "frame_00003_000180500.jpg",
+      "sha256": "d567ea61d0c8d2ca22e039d076ac1a2ecd04fb7eeb191992ae6f76f2777b055f"
+    },
+    {
+      "requested_time": 240.5,
+      "time": 240.5,
+      "decoded_pts": 240.5,
+      "frame": "frame_00004_000240500.jpg",
+      "sha256": "8676f51350173bcdca990969ca2018a9dec2580a3e394ca7325081a152445f2f"
+    },
+    {
+      "requested_time": 300.5,
+      "time": 300.5,
+      "decoded_pts": 300.5,
+      "frame": "frame_00005_000300500.jpg",
+      "sha256": "d51f0839b7ff5ce27f5cbdbed27e3b7a861cf020145dce364a73637399d5de38"
+    },
+    {
+      "requested_time": 360.5,
+      "time": 360.5,
+      "decoded_pts": 360.5,
+      "frame": "frame_00006_000360500.jpg",
+      "sha256": "107ae6a82230e768916925d3226dc20a0c6756116849b70b73a38c05df73c399"
+    },
+    {
+      "requested_time": 420.5,
+      "time": 420.5,
+      "decoded_pts": 420.5,
+      "frame": "frame_00007_000420500.jpg",
+      "sha256": "4342feffa3844d6d26ea705c2e464dbe79325fb31afedb95d2c1b06f2770054f"
+    },
+    {
+      "requested_time": 480.5,
+      "time": 480.5,
+      "decoded_pts": 480.5,
+      "frame": "frame_00008_000480500.jpg",
+      "sha256": "bf174257f5944123572705fdff87d8362a3f4af61b157909346693cf7b62a1d5"
+    },
+    {
+      "requested_time": 540.5,
+      "time": 540.5,
+      "decoded_pts": 540.5,
+      "frame": "frame_00009_000540500.jpg",
+      "sha256": "136880edc3062065ff97b23caf86e012d74f458137631a9c593724e4e80de702"
+    },
+    {
+      "requested_time": 600.5,
+      "time": 600.5,
+      "decoded_pts": 600.5,
+      "frame": "frame_00010_000600500.jpg",
+      "sha256": "53a2df16fa40856145b19cdc5b6d0d6403864c7f576921c48ff0903c97596a51"
+    },
+    {
+      "requested_time": 660.5,
+      "time": 660.5,
+      "decoded_pts": 660.5,
+      "frame": "frame_00011_000660500.jpg",
+      "sha256": "677e80e95156c21c38b49e34d18b1da016c4474f85bdf0a21e5501515dc95ec6"
+    },
+    {
+      "requested_time": 720.5,
+      "time": 720.5,
+      "decoded_pts": 720.5,
+      "frame": "frame_00012_000720500.jpg",
+      "sha256": "5b8ba5c075b5bc2d6843858f4ba82fb889f31954c65d87bb5b7e53c24d113754"
+    },
+    {
+      "requested_time": 780.5,
+      "time": 780.5,
+      "decoded_pts": 780.5,
+      "frame": "frame_00013_000780500.jpg",
+      "sha256": "a5c649adc6ddf07f750e71259150d9b696315f33c28ccecfb2516502eaca3eb6"
+    },
+    {
+      "requested_time": 840.5,
+      "time": 840.5,
+      "decoded_pts": 840.5,
+      "frame": "frame_00014_000840500.jpg",
+      "sha256": "1f6e0dbce2406c58f39011a2c311de0c203aa0587e387f26e95ff4c3639c63fb"
+    },
+    {
+      "requested_time": 900.5,
+      "time": 900.5,
+      "decoded_pts": 900.5,
+      "frame": "frame_00015_000900500.jpg",
+      "sha256": "73c202d8299bdb45345c277b8e447d2aedb9f4e9923f41b4b7cad2124d527bb6"
+    },
+    {
+      "requested_time": 960.5,
+      "time": 960.5,
+      "decoded_pts": 960.5,
+      "frame": "frame_00016_000960500.jpg",
+      "sha256": "e78250a821ac9e580898b213c70f5aaa735a1a12861e776dc15dd054bde02315"
+    },
+    {
+      "requested_time": 1020.5,
+      "time": 1020.5,
+      "decoded_pts": 1020.5,
+      "frame": "frame_00017_001020500.jpg",
+      "sha256": "d4525711355d0e92a8d9e5b5e0360db43fb9ebe347fbcb359f8d62d63fdfe824"
+    },
+    {
+      "requested_time": 1080.5,
+      "time": 1080.5,
+      "decoded_pts": 1080.5,
+      "frame": "frame_00018_001080500.jpg",
+      "sha256": "97574648854d28fb5d83ab6760018dfcbab50d54573e002795f075c3b0935bed"
+    },
+    {
+      "requested_time": 1140.5,
+      "time": 1140.5,
+      "decoded_pts": 1140.5,
+      "frame": "frame_00019_001140500.jpg",
+      "sha256": "e965951ca5079897c6e40c28f46358adfe1e2378278675c24c08ab55570540af"
+    },
+    {
+      "requested_time": 1200.5,
+      "time": 1200.5,
+      "decoded_pts": 1200.5,
+      "frame": "frame_00020_001200500.jpg",
+      "sha256": "644b2068aae80cc0d0d26d8a9a5271a74e88f5119284e02de25b524f1214c102"
+    },
+    {
+      "requested_time": 1260.5,
+      "time": 1260.5,
+      "decoded_pts": 1260.5,
+      "frame": "frame_00021_001260500.jpg",
+      "sha256": "a3557b050540673ab8bf362d44c4e7a5f612692fb2e2a127d92c1458899fcb33"
+    },
+    {
+      "requested_time": 1320.5,
+      "time": 1320.5,
+      "decoded_pts": 1320.5,
+      "frame": "frame_00022_001320500.jpg",
+      "sha256": "2c82f3770b672d835466c7ae7d3e47b30154c489275c2c58f728b70c248bb4ff"
+    },
+    {
+      "requested_time": 1380.5,
+      "time": 1380.5,
+      "decoded_pts": 1380.5,
+      "frame": "frame_00023_001380500.jpg",
+      "sha256": "e71506878638631f81611ccea226df57ad40673fabdbcc44b9872f10409fa458"
+    },
+    {
+      "requested_time": 1440.5,
+      "time": 1440.5,
+      "decoded_pts": 1440.5,
+      "frame": "frame_00024_001440500.jpg",
+      "sha256": "dda988c13233228620e6241e6b941e115c40abc980bffc620d7ec53023b2c390"
+    },
+    {
+      "requested_time": 1500.5,
+      "time": 1500.5,
+      "decoded_pts": 1500.5,
+      "frame": "frame_00025_001500500.jpg",
+      "sha256": "360d7615d8733675cb16fb6c45d7eb1eda70da0f3712d689019c88c8bc949263"
+    },
+    {
+      "requested_time": 1560.5,
+      "time": 1560.5,
+      "decoded_pts": 1560.5,
+      "frame": "frame_00026_001560500.jpg",
+      "sha256": "dae09d7c4a514eef9b2ed922a0b8fe7b6051e22670ee41f9a7b075f49b90b45b"
+    },
+    {
+      "requested_time": 1620.5,
+      "time": 1620.5,
+      "decoded_pts": 1620.5,
+      "frame": "frame_00027_001620500.jpg",
+      "sha256": "4f7804734825f4cc5d2b24a8f6ffc4875f3833644e62f5a7984fd4e70821f402"
+    },
+    {
+      "requested_time": 1680.5,
+      "time": 1680.5,
+      "decoded_pts": 1680.5,
+      "frame": "frame_00028_001680500.jpg",
+      "sha256": "7ca2866e82aa331c7804bd10f62136004284a68d35a28fa25778c6bb9958adbc"
+    },
+    {
+      "requested_time": 1740.5,
+      "time": 1740.5,
+      "decoded_pts": 1740.5,
+      "frame": "frame_00029_001740500.jpg",
+      "sha256": "688030f725a1561ccd892004072dbc2a5bdfc6632fd33274ea5db1067533c832"
+    },
+    {
+      "requested_time": 1800.5,
+      "time": 1800.5,
+      "decoded_pts": 1800.5,
+      "frame": "frame_00030_001800500.jpg",
+      "sha256": "8e170d17ae50ab2d23755e21968664e94ca6862048f9ef4f2a4318cdef39627e"
+    },
+    {
+      "requested_time": 1860.5,
+      "time": 1860.5,
+      "decoded_pts": 1860.5,
+      "frame": "frame_00031_001860500.jpg",
+      "sha256": "45af9fdb84385e2d1bf15917302c64746886a2b1d00b51af6b3446e6278d661e"
+    },
+    {
+      "requested_time": 1920.5,
+      "time": 1920.5,
+      "decoded_pts": 1920.5,
+      "frame": "frame_00032_001920500.jpg",
+      "sha256": "93f464f0dedb1c639621a41f21e8e9e8e7594db09bdc66f77d9315ba04e04f7b"
+    },
+    {
+      "requested_time": 1980.5,
+      "time": 1980.5,
+      "decoded_pts": 1980.5,
+      "frame": "frame_00033_001980500.jpg",
+      "sha256": "d3d996da50dca92fbba4a5fe5c98dd2f27ae9236852ed9efe5636ffc8c705239"
+    },
+    {
+      "requested_time": 2040.5,
+      "time": 2040.5,
+      "decoded_pts": 2040.5,
+      "frame": "frame_00034_002040500.jpg",
+      "sha256": "c80ea62edc40e769d676c71f933b4a75ad04be7bd08f1cd52eec10f80d0f6bd8"
+    },
+    {
+      "requested_time": 2100.5,
+      "time": 2100.5,
+      "decoded_pts": 2100.5,
+      "frame": "frame_00035_002100500.jpg",
+      "sha256": "ecfdb9af30c78382af74e0d78e35b6bf0b86182239e2b3ca972d8d50181e56e3"
+    },
+    {
+      "requested_time": 2160.5,
+      "time": 2160.5,
+      "decoded_pts": 2160.5,
+      "frame": "frame_00036_002160500.jpg",
+      "sha256": "1810d7e306175c81a3ea37017285cd5ab92e88bb64024d6a46363b67917056af"
+    },
+    {
+      "requested_time": 2220.5,
+      "time": 2220.5,
+      "decoded_pts": 2220.5,
+      "frame": "frame_00037_002220500.jpg",
+      "sha256": "636ca48da90f510917a3b9028815bdf173cfde58825f38deef411c47b7e49996"
+    },
+    {
+      "requested_time": 2280.5,
+      "time": 2280.5,
+      "decoded_pts": 2280.5,
+      "frame": "frame_00038_002280500.jpg",
+      "sha256": "fd09efd58a583ed52a2fa880a7254b18af4e95cd01b55f812cd2f14984fcb92c"
+    },
+    {
+      "requested_time": 2340.5,
+      "time": 2340.5,
+      "decoded_pts": 2340.5,
+      "frame": "frame_00039_002340500.jpg",
+      "sha256": "6e20527ae3b94d0c1cb2ebf96af82f725797b263d07541ecba377328d731b1ea"
+    },
+    {
+      "requested_time": 2400.5,
+      "time": 2400.5,
+      "decoded_pts": 2400.5,
+      "frame": "frame_00040_002400500.jpg",
+      "sha256": "e33f60f783bb9a5eba389fc83a7d8a0e1ff4cd83b2f0fc64a2b74b974c61dc6d"
+    },
+    {
+      "requested_time": 2460.5,
+      "time": 2460.5,
+      "decoded_pts": 2460.5,
+      "frame": "frame_00041_002460500.jpg",
+      "sha256": "f70e0e448952b346a8dac6b3d073b37497a4ca605a904f0ba2dc96d94b7e808b"
+    },
+    {
+      "requested_time": 2520.5,
+      "time": 2520.5,
+      "decoded_pts": 2520.5,
+      "frame": "frame_00042_002520500.jpg",
+      "sha256": "7a50cfa160326e4da1783ec2b4feffbe9bc0f283198825b3a502d288f7ccedd1"
+    },
+    {
+      "requested_time": 2580.5,
+      "time": 2580.5,
+      "decoded_pts": 2580.5,
+      "frame": "frame_00043_002580500.jpg",
+      "sha256": "eaecc8adaa70164d8b86b172c25bb0c8018d24b52c76d87c3c29a7609295fba0"
+    },
+    {
+      "requested_time": 2640.5,
+      "time": 2640.5,
+      "decoded_pts": 2640.5,
+      "frame": "frame_00044_002640500.jpg",
+      "sha256": "cc43beb267e8922cf27cbacfdb6533bf4c7bb46fd2cae8efc391587676d35916"
+    },
+    {
+      "requested_time": 2700.5,
+      "time": 2700.5,
+      "decoded_pts": 2700.5,
+      "frame": "frame_00045_002700500.jpg",
+      "sha256": "26657996a76f08a87b923cd069aaad1e086f5277e374828dab533d475030e157"
+    },
+    {
+      "requested_time": 2760.5,
+      "time": 2760.5,
+      "decoded_pts": 2760.5,
+      "frame": "frame_00046_002760500.jpg",
+      "sha256": "e63179c3993ce38acf1de30d85b3931aa0b18c2c8ece861bbc9cf12cbb0f2d5e"
+    },
+    {
+      "requested_time": 2820.5,
+      "time": 2820.5,
+      "decoded_pts": 2820.5,
+      "frame": "frame_00047_002820500.jpg",
+      "sha256": "a628b93c52aa1675ce67569f0df03bb1800d8eafbae1d577c18549e453ebed68"
+    },
+    {
+      "requested_time": 2880.5,
+      "time": 2880.5,
+      "decoded_pts": 2880.5,
+      "frame": "frame_00048_002880500.jpg",
+      "sha256": "0aa55155f22a337ccc2a81c8d39642ccf6b85382dc9cebf0c049544f66df3b58"
+    },
+    {
+      "requested_time": 2940.5,
+      "time": 2940.5,
+      "decoded_pts": 2940.5,
+      "frame": "frame_00049_002940500.jpg",
+      "sha256": "428827765dc244f68350afcc99f9636190c5d6294ecd5bf999a15e64bee1d363"
+    },
+    {
+      "requested_time": 3000.5,
+      "time": 3000.5,
+      "decoded_pts": 3000.5,
+      "frame": "frame_00050_003000500.jpg",
+      "sha256": "e88f2e1410427d1750b92823a03c1ff26d1662e9a51b6cb924fe954987a3837b"
+    },
+    {
+      "requested_time": 3060.5,
+      "time": 3060.5,
+      "decoded_pts": 3060.5,
+      "frame": "frame_00051_003060500.jpg",
+      "sha256": "72b57f035e51d1ceb0187d1c5c9a6b546c30813f8ad0e4dfc7f02f70634d292e"
+    },
+    {
+      "requested_time": 3120.5,
+      "time": 3120.5,
+      "decoded_pts": 3120.5,
+      "frame": "frame_00052_003120500.jpg",
+      "sha256": "e839f91344a01cba71bcd5893ec83537ba34938d6c82984094f9343fa3176738"
+    },
+    {
+      "requested_time": 3180.5,
+      "time": 3180.5,
+      "decoded_pts": 3180.5,
+      "frame": "frame_00053_003180500.jpg",
+      "sha256": "3c979afd132e5fe996f1a71d645bc24cfebb4d1f7c81236c33589e051bef9a60"
+    },
+    {
+      "requested_time": 3240.5,
+      "time": 3240.5,
+      "decoded_pts": 3240.5,
+      "frame": "frame_00054_003240500.jpg",
+      "sha256": "576e73b576dfe13beb432bb3b27128947bd5bf7067a0edf355b58029ed2a978b"
+    },
+    {
+      "requested_time": 3300.5,
+      "time": 3300.5,
+      "decoded_pts": 3300.5,
+      "frame": "frame_00055_003300500.jpg",
+      "sha256": "ae7c0a83ec3a5a108d7cc017ecbe2ca1b0744f310c9adb3e3eb4094956b1ae29"
+    },
+    {
+      "requested_time": 3360.5,
+      "time": 3360.5,
+      "decoded_pts": 3360.5,
+      "frame": "frame_00056_003360500.jpg",
+      "sha256": "4b6d7c06afe44871374802b8e326ce93178e8b6187a7a90f8dc22418688f1a1d"
+    },
+    {
+      "requested_time": 3420.5,
+      "time": 3420.5,
+      "decoded_pts": 3420.5,
+      "frame": "frame_00057_003420500.jpg",
+      "sha256": "c115a4a22b0a891380f850f5b1bc83730f6c8aeefd260d666a898a1e6ab67cbf"
+    },
+    {
+      "requested_time": 3480.5,
+      "time": 3480.5,
+      "decoded_pts": 3480.5,
+      "frame": "frame_00058_003480500.jpg",
+      "sha256": "2a951e7aea2044d6a7cad87ed2590e07e4c4c4c3dd7009accac4f508ecb1c966"
+    },
+    {
+      "requested_time": 3540.5,
+      "time": 3540.5,
+      "decoded_pts": 3540.5,
+      "frame": "frame_00059_003540500.jpg",
+      "sha256": "0527eef78fbe47923122a15c0f7d7e36b1da367e5e6bd6fa2645413e8090e5f6"
+    },
+    {
+      "requested_time": 3600.5,
+      "time": 3600.5,
+      "decoded_pts": 3600.5,
+      "frame": "frame_00060_003600500.jpg",
+      "sha256": "867b629904fe832440f65d53be11ba453fe8f053e90bf9a15756dbb8a1590240"
+    },
+    {
+      "requested_time": 3660.5,
+      "time": 3660.5,
+      "decoded_pts": 3660.5,
+      "frame": "frame_00061_003660500.jpg",
+      "sha256": "c60030f5c17541dbd9f900269ee0715778f7e2f031f974d64d1aeaf436eb3e5a"
+    },
+    {
+      "requested_time": 3720.5,
+      "time": 3720.5,
+      "decoded_pts": 3720.5,
+      "frame": "frame_00062_003720500.jpg",
+      "sha256": "07ec9c2ac762da9cf6e2632f2e743767268d113f0c3b51b94c4f8a663e3c1e5c"
+    },
+    {
+      "requested_time": 3780.5,
+      "time": 3780.5,
+      "decoded_pts": 3780.5,
+      "frame": "frame_00063_003780500.jpg",
+      "sha256": "751d11e61883de145cb7919cda47f98029a684f1cef77b4e53bc88510483f105"
+    },
+    {
+      "requested_time": 3840.5,
+      "time": 3840.5,
+      "decoded_pts": 3840.5,
+      "frame": "frame_00064_003840500.jpg",
+      "sha256": "1d30a422c1d9296db9c61416a08f76a453f5315988e55e375a0c4dac9be760cb"
+    },
+    {
+      "requested_time": 3900.5,
+      "time": 3900.5,
+      "decoded_pts": 3900.5,
+      "frame": "frame_00065_003900500.jpg",
+      "sha256": "22804a96d6e1f5db790ebb9a2d762cdc5b4cd1d6fd6229e9ff66a05f4a7be45a"
+    },
+    {
+      "requested_time": 3960.5,
+      "time": 3960.5,
+      "decoded_pts": 3960.5,
+      "frame": "frame_00066_003960500.jpg",
+      "sha256": "9b0ecc2197a47651642c1bfce2cc57c88e51fa5ed8bdbea6fb36fb3edb1a33c0"
+    }
+  ],
+  "status": "complete",
+  "sheets": [
+    "sheet_001.jpg",
+    "sheet_002.jpg",
+    "sheet_003.jpg",
+    "sheet_004.jpg",
+    "sheet_005.jpg",
+    "sheet_006.jpg",
+    "sheet_007.jpg",
+    "sheet_008.jpg",
+    "sheet_009.jpg",
+    "sheet_010.jpg",
+    "sheet_011.jpg",
+    "sheet_012.jpg"
+  ],
+  "speech_extraction": "C:\\Project Rocket\\output\\feiyun_double_breakout\\platform_large_v3_v1\\双突破所有买点_c44ccee041_0s_66f4580d"
+}

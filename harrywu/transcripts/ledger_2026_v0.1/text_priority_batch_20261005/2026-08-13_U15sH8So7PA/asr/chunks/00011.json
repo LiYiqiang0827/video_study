@@ -1,0 +1,592 @@
+{
+  "begin": 3300.0,
+  "finish": 3600.0,
+  "segments": [
+    {
+      "start": 3303.84,
+      "end": 3312.4,
+      "text": "好,我们在题材没有啥题材啊,今天没有啥题材啊,然后呢我们再来这个刷一遍资金流吧,看看有什么票没有",
+      "avg_logprob": -0.117,
+      "no_speech_prob": 0.4221,
+      "review": false
+    },
+    {
+      "start": 3312.4,
+      "end": 3317.91,
+      "text": "今天原则上我是不想买票的,不想买新票的",
+      "avg_logprob": -0.117,
+      "no_speech_prob": 0.4221,
+      "review": false
+    },
+    {
+      "start": 3317.91,
+      "end": 3324.74,
+      "text": "刚才就是有个店里,我觉得那个店里的位置特别好",
+      "avg_logprob": -0.117,
+      "no_speech_prob": 0.4221,
+      "review": false
+    },
+    {
+      "start": 3324.74,
+      "end": 3334.8,
+      "text": "就是你其实你刷的时候不用买,但是你刷的过程中间你对市场非常了解",
+      "avg_logprob": -0.117,
+      "no_speech_prob": 0.4221,
+      "review": false
+    },
+    {
+      "start": 3334.8,
+      "end": 3339.46,
+      "text": "就是你每天对这个市场哪些在涨哪些在跌,资金流进的什么东西",
+      "avg_logprob": -0.117,
+      "no_speech_prob": 0.4221,
+      "review": false
+    },
+    {
+      "start": 3340.06,
+      "end": 3341.3,
+      "text": "你非常的了解",
+      "avg_logprob": -0.117,
+      "no_speech_prob": 0.4221,
+      "review": false
+    },
+    {
+      "start": 3341.3,
+      "end": 3352.28,
+      "text": "大唐发电其实这个位置说句真心话挺好的",
+      "avg_logprob": -0.132,
+      "no_speech_prob": 0.2499,
+      "review": false
+    },
+    {
+      "start": 3352.28,
+      "end": 3353.58,
+      "text": "你看啊",
+      "avg_logprob": -0.132,
+      "no_speech_prob": 0.2499,
+      "review": false
+    },
+    {
+      "start": 3353.58,
+      "end": 3354.36,
+      "text": "大唐发电",
+      "avg_logprob": -0.132,
+      "no_speech_prob": 0.2499,
+      "review": false
+    },
+    {
+      "start": 3354.36,
+      "end": 3356.1,
+      "text": "只要他阻力还没走",
+      "avg_logprob": -0.132,
+      "no_speech_prob": 0.2499,
+      "review": false
+    },
+    {
+      "start": 3356.1,
+      "end": 3359.66,
+      "text": "他这个位置有一点是",
+      "avg_logprob": -0.132,
+      "no_speech_prob": 0.2499,
+      "review": false
+    },
+    {
+      "start": 3359.66,
+      "end": 3361.92,
+      "text": "有一点双突破的感觉",
+      "avg_logprob": -0.132,
+      "no_speech_prob": 0.2499,
+      "review": false
+    },
+    {
+      "start": 3361.92,
+      "end": 3362.98,
+      "text": "但是呢",
+      "avg_logprob": -0.132,
+      "no_speech_prob": 0.2499,
+      "review": false
+    },
+    {
+      "start": 3362.98,
+      "end": 3364.56,
+      "text": "这个票也有他明显的缺点",
+      "avg_logprob": -0.132,
+      "no_speech_prob": 0.2499,
+      "review": false
+    },
+    {
+      "start": 3364.56,
+      "end": 3366.88,
+      "text": "就是离这个压力位太近了",
+      "avg_logprob": -0.132,
+      "no_speech_prob": 0.2499,
+      "review": false
+    },
+    {
+      "start": 3366.88,
+      "end": 3368.78,
+      "text": "你根本不知道这些被套的人",
+      "avg_logprob": -0.132,
+      "no_speech_prob": 0.2499,
+      "review": false
+    },
+    {
+      "start": 3368.78,
+      "end": 3370.88,
+      "text": "会不会在这个位置去砍仓",
+      "avg_logprob": -0.132,
+      "no_speech_prob": 0.2499,
+      "review": false
+    },
+    {
+      "start": 3370.88,
+      "end": 3372.32,
+      "text": "所以他有缺点",
+      "avg_logprob": -0.132,
+      "no_speech_prob": 0.2499,
+      "review": false
+    },
+    {
+      "start": 3372.32,
+      "end": 3373.38,
+      "text": "有缺点就算了",
+      "avg_logprob": -0.132,
+      "no_speech_prob": 0.2499,
+      "review": false
+    },
+    {
+      "start": 3373.38,
+      "end": 3375.46,
+      "text": "我们一定要买那种完美的",
+      "avg_logprob": -0.132,
+      "no_speech_prob": 0.2499,
+      "review": false
+    },
+    {
+      "start": 3375.46,
+      "end": 3376.4,
+      "text": "不能再完美的",
+      "avg_logprob": -0.132,
+      "no_speech_prob": 0.2499,
+      "review": false
+    },
+    {
+      "start": 3376.4,
+      "end": 3377.44,
+      "text": "其实华电能源",
+      "avg_logprob": -0.132,
+      "no_speech_prob": 0.2499,
+      "review": false
+    },
+    {
+      "start": 3377.44,
+      "end": 3378.64,
+      "text": "我认为是其中一个好的",
+      "avg_logprob": -0.1214,
+      "no_speech_prob": 0.2267,
+      "review": false
+    },
+    {
+      "start": 3378.64,
+      "end": 3380.08,
+      "text": "但是也有那个问题",
+      "avg_logprob": -0.1214,
+      "no_speech_prob": 0.2267,
+      "review": false
+    },
+    {
+      "start": 3380.08,
+      "end": 3381.14,
+      "text": "它也有同样的问题",
+      "avg_logprob": -0.1214,
+      "no_speech_prob": 0.2267,
+      "review": false
+    },
+    {
+      "start": 3381.14,
+      "end": 3382.36,
+      "text": "涨了一大波了",
+      "avg_logprob": -0.1214,
+      "no_speech_prob": 0.2267,
+      "review": false
+    },
+    {
+      "start": 3382.36,
+      "end": 3383.02,
+      "text": "两波了",
+      "avg_logprob": -0.1214,
+      "no_speech_prob": 0.2267,
+      "review": false
+    },
+    {
+      "start": 3383.02,
+      "end": 3383.6,
+      "text": "三波了",
+      "avg_logprob": -0.1214,
+      "no_speech_prob": 0.2267,
+      "review": false
+    },
+    {
+      "start": 3383.6,
+      "end": 3386.6,
+      "text": "这一波是不是为了它出货去这样下来的",
+      "avg_logprob": -0.1214,
+      "no_speech_prob": 0.2267,
+      "review": false
+    },
+    {
+      "start": 3386.6,
+      "end": 3387.0,
+      "text": "也不知道",
+      "avg_logprob": -0.1214,
+      "no_speech_prob": 0.2267,
+      "review": false
+    },
+    {
+      "start": 3387.0,
+      "end": 3387.9,
+      "text": "所以算了吧",
+      "avg_logprob": -0.1214,
+      "no_speech_prob": 0.2267,
+      "review": false
+    },
+    {
+      "start": 3387.9,
+      "end": 3389.72,
+      "text": "这种就是你也拿不准",
+      "avg_logprob": -0.1214,
+      "no_speech_prob": 0.2267,
+      "review": false
+    },
+    {
+      "start": 3389.72,
+      "end": 3390.98,
+      "text": "只能去赌一把了",
+      "avg_logprob": -0.1214,
+      "no_speech_prob": 0.2267,
+      "review": false
+    },
+    {
+      "start": 3390.98,
+      "end": 3393.79,
+      "text": "三环这个量很漂亮",
+      "avg_logprob": -0.1214,
+      "no_speech_prob": 0.2267,
+      "review": false
+    },
+    {
+      "start": 3393.79,
+      "end": 3395.23,
+      "text": "这个量太漂亮了",
+      "avg_logprob": -0.1214,
+      "no_speech_prob": 0.2267,
+      "review": false
+    },
+    {
+      "start": 3395.23,
+      "end": 3396.77,
+      "text": "但是也有同样的问题",
+      "avg_logprob": -0.1214,
+      "no_speech_prob": 0.2267,
+      "review": false
+    },
+    {
+      "start": 3396.77,
+      "end": 3397.89,
+      "text": "就这个地方",
+      "avg_logprob": -0.1214,
+      "no_speech_prob": 0.2267,
+      "review": false
+    },
+    {
+      "start": 3397.89,
+      "end": 3399.97,
+      "text": "它这一波量是为了出货还是什么",
+      "avg_logprob": -0.1214,
+      "no_speech_prob": 0.2267,
+      "review": false
+    },
+    {
+      "start": 3399.97,
+      "end": 3400.83,
+      "text": "但是估计不是出货",
+      "avg_logprob": -0.1214,
+      "no_speech_prob": 0.2267,
+      "review": false
+    },
+    {
+      "start": 3400.83,
+      "end": 3401.79,
+      "text": "但也不完美",
+      "avg_logprob": -0.1214,
+      "no_speech_prob": 0.2267,
+      "review": false
+    },
+    {
+      "start": 3401.79,
+      "end": 3402.63,
+      "text": "所以你看",
+      "avg_logprob": -0.1214,
+      "no_speech_prob": 0.2267,
+      "review": false
+    },
+    {
+      "start": 3402.63,
+      "end": 3406.34,
+      "text": "反正就是只要不完美的我都不买",
+      "avg_logprob": -0.1214,
+      "no_speech_prob": 0.2267,
+      "review": false
+    },
+    {
+      "start": 3406.34,
+      "end": 3408.04,
+      "text": "我们咱们就找到最完美的",
+      "avg_logprob": -0.1214,
+      "no_speech_prob": 0.2267,
+      "review": false
+    },
+    {
+      "start": 3408.04,
+      "end": 3421.11,
+      "text": "找到最完美的,一定要找到最完美的,不要瞎买,完美的不能再完美了,那种我们再买一些,只要不完美咱们就尽量不要买",
+      "avg_logprob": -0.1239,
+      "no_speech_prob": 0.1399,
+      "review": false
+    },
+    {
+      "start": 3421.11,
+      "end": 3432.43,
+      "text": "像蓝色光标那么完美,蓝色光标是我最成功的案例之一",
+      "avg_logprob": -0.1239,
+      "no_speech_prob": 0.1399,
+      "review": false
+    },
+    {
+      "start": 3432.43,
+      "end": 3444.57,
+      "text": "其实金开心能可以,你看大家看啊,这个就有一点好,为什么有一点好呢?",
+      "avg_logprob": -0.1239,
+      "no_speech_prob": 0.1399,
+      "review": false
+    },
+    {
+      "start": 3444.57,
+      "end": 3450.67,
+      "text": "因为它的这个明显的是一个底部的太漂亮底部形态反弹",
+      "avg_logprob": -0.1297,
+      "no_speech_prob": 0.2524,
+      "review": false
+    },
+    {
+      "start": 3450.67,
+      "end": 3452.49,
+      "text": "而且离这个还有距离",
+      "avg_logprob": -0.1297,
+      "no_speech_prob": 0.2524,
+      "review": false
+    },
+    {
+      "start": 3452.49,
+      "end": 3457.87,
+      "text": "就是你从这个7块钱你能一口气做到至少做到差不多这个位置有20%的这个盈亏比",
+      "avg_logprob": -0.1297,
+      "no_speech_prob": 0.2524,
+      "review": false
+    },
+    {
+      "start": 3457.87,
+      "end": 3459.59,
+      "text": "那这种就愿意做",
+      "avg_logprob": -0.1297,
+      "no_speech_prob": 0.2524,
+      "review": false
+    },
+    {
+      "start": 3459.59,
+      "end": 3463.17,
+      "text": "或者是至少做到这个8.5%",
+      "avg_logprob": -0.1297,
+      "no_speech_prob": 0.2524,
+      "review": false
+    },
+    {
+      "start": 3463.17,
+      "end": 3465.83,
+      "text": "你至少要有可能有20% 30%的盈亏比",
+      "avg_logprob": -0.1297,
+      "no_speech_prob": 0.2524,
+      "review": false
+    },
+    {
+      "start": 3465.83,
+      "end": 3467.97,
+      "text": "我觉得这个还是可以",
+      "avg_logprob": -0.1297,
+      "no_speech_prob": 0.2524,
+      "review": false
+    },
+    {
+      "start": 3467.97,
+      "end": 3469.73,
+      "text": "还有一个盈亏比还可以",
+      "avg_logprob": -0.1297,
+      "no_speech_prob": 0.2524,
+      "review": false
+    },
+    {
+      "start": 3469.73,
+      "end": 3472.78,
+      "text": "但是这种东西排队买不到",
+      "avg_logprob": -0.1297,
+      "no_speech_prob": 0.2524,
+      "review": false
+    },
+    {
+      "start": 3472.78,
+      "end": 3474.04,
+      "text": "最近涨天股不行",
+      "avg_logprob": -0.1297,
+      "no_speech_prob": 0.2524,
+      "review": false
+    },
+    {
+      "start": 3474.04,
+      "end": 3529.18,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0689,
+      "no_speech_prob": 0.1853,
+      "review": false
+    },
+    {
+      "start": 3529.2,
+      "end": 3536.31,
+      "text": "艾斯顿现在位置不好咯",
+      "avg_logprob": -0.1642,
+      "no_speech_prob": 0.168,
+      "review": false
+    },
+    {
+      "start": 3536.31,
+      "end": 3537.81,
+      "text": "要是以前的话肯定买艾斯顿",
+      "avg_logprob": -0.1642,
+      "no_speech_prob": 0.168,
+      "review": false
+    },
+    {
+      "start": 3537.81,
+      "end": 3539.43,
+      "text": "现在位置都不好咯",
+      "avg_logprob": -0.1642,
+      "no_speech_prob": 0.168,
+      "review": false
+    },
+    {
+      "start": 3539.43,
+      "end": 3544.55,
+      "text": "今天估计要早早睡觉了",
+      "avg_logprob": -0.1642,
+      "no_speech_prob": 0.168,
+      "review": false
+    },
+    {
+      "start": 3544.55,
+      "end": 3545.17,
+      "text": "今天没有啥",
+      "avg_logprob": -0.1642,
+      "no_speech_prob": 0.168,
+      "review": false
+    },
+    {
+      "start": 3545.17,
+      "end": 3554.96,
+      "text": "今天还是赚钱的一天",
+      "avg_logprob": -0.1642,
+      "no_speech_prob": 0.168,
+      "review": false
+    },
+    {
+      "start": 3554.96,
+      "end": 3556.58,
+      "text": "不容易啊",
+      "avg_logprob": -0.1642,
+      "no_speech_prob": 0.168,
+      "review": false
+    },
+    {
+      "start": 3556.58,
+      "end": 3559.88,
+      "text": "这两天没有大赚了",
+      "avg_logprob": -0.1642,
+      "no_speech_prob": 0.168,
+      "review": false
+    },
+    {
+      "start": 3559.88,
+      "end": 3561.56,
+      "text": "但是今天是赚钱的一天",
+      "avg_logprob": -0.1642,
+      "no_speech_prob": 0.168,
+      "review": false
+    },
+    {
+      "start": 3561.56,
+      "end": 3564.36,
+      "text": "昨天为什么没赚钱",
+      "avg_logprob": -0.1642,
+      "no_speech_prob": 0.168,
+      "review": false
+    },
+    {
+      "start": 3564.36,
+      "end": 3566.44,
+      "text": "昨天我好像赚钱了",
+      "avg_logprob": -0.1642,
+      "no_speech_prob": 0.168,
+      "review": false
+    },
+    {
+      "start": 3566.44,
+      "end": 3567.0,
+      "text": "但是不多",
+      "avg_logprob": -0.1642,
+      "no_speech_prob": 0.168,
+      "review": false
+    },
+    {
+      "start": 3567.0,
+      "end": 3568.58,
+      "text": "今天可以",
+      "avg_logprob": -0.1642,
+      "no_speech_prob": 0.168,
+      "review": false
+    },
+    {
+      "start": 3568.58,
+      "end": 3573.32,
+      "text": "反正我很少大亏",
+      "avg_logprob": -0.1642,
+      "no_speech_prob": 0.168,
+      "review": false
+    },
+    {
+      "start": 3573.32,
+      "end": 3574.62,
+      "text": "我几乎不大亏",
+      "avg_logprob": -0.1642,
+      "no_speech_prob": 0.168,
+      "review": false
+    },
+    {
+      "start": 3574.62,
+      "end": 3601.73,
+      "text": "所以我这种模式,你看,我很谨慎很谨慎,所以我几乎不大亏,我买的点都好都不能再好了,但是我也不太容易大赚,因为我太谨慎了,好不好,所以我把我的风格给大家说一下,我的风格就是这样子,稳定赚钱,哇,博记有点好哦,虽然这个你看大家看,这个博记也超级的大形态突破哟,它和这个一翘神咒差不多哟",
+      "avg_logprob": -0.0569,
+      "no_speech_prob": 0.0565,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 20.06
+}

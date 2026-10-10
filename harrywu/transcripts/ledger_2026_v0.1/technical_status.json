@@ -1,0 +1,33 @@
+{
+  "status": "technical_complete_semantic_pilot_pending",
+  "runner_pid": 3752,
+  "started": "2026-10-03T04:11:31.423136+00:00",
+  "stats": [
+    {
+      "stream_id": "XSFwu5KOo5Y",
+      "segments": 4312,
+      "chunks": 30,
+      "seconds": 8710.222948,
+      "frames": 3190,
+      "asr_review_flags": 3782
+    },
+    {
+      "stream_id": "dMgT48e5NQo",
+      "segments": 2698,
+      "chunks": 15,
+      "seconds": 4227.796463,
+      "frames": 1653,
+      "asr_review_flags": 2092
+    },
+    {
+      "stream_id": "zuo8FhWIdow",
+      "segments": 5128,
+      "chunks": 28,
+      "seconds": 8258.200091,
+      "frames": 2955,
+      "asr_review_flags": 4438
+    }
+  ],
+  "candidate_segments": 678,
+  "ended": "2026-10-03T04:22:41.315728+00:00"
+}

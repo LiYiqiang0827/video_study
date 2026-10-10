@@ -1,0 +1,273 @@
+{
+  "contract_version": "chart.v1",
+  "amendment": 3,
+  "created_at": "2026-10-09T06:36:09.654229+00:00",
+  "branch": "chart-tool-v2-20261009",
+  "head": "166bd69472bfe0e8cf17021c07568586325d978c",
+  "conclusion": "partial_delivery_not_accepted",
+  "summary": {
+    "pass": 6,
+    "fail": 4,
+    "not_applicable": 1
+  },
+  "section0_items": [
+    {
+      "id": 1,
+      "name": "连续交易槽位横轴",
+      "status": "completed"
+    },
+    {
+      "id": 2,
+      "name": "长图量柱可见及像素核验",
+      "status": "completed"
+    },
+    {
+      "id": 3,
+      "name": "分钟通用来源与多日窗口",
+      "status": "partial"
+    },
+    {
+      "id": 4,
+      "name": "均价/昨收/涨跌幅及15m排布",
+      "status": "partial"
+    },
+    {
+      "id": 5,
+      "name": "竞价保留与显示",
+      "status": "partial"
+    },
+    {
+      "id": 6,
+      "name": "揭晓统一还原复权锚点",
+      "status": "completed"
+    },
+    {
+      "id": 7,
+      "name": "固定1/3/5/10/20日路径",
+      "status": "completed"
+    },
+    {
+      "id": 8,
+      "name": "结构化回顾操作",
+      "status": "completed"
+    },
+    {
+      "id": 9,
+      "name": "截图事实/窗口/复刻",
+      "status": "completed"
+    },
+    {
+      "id": 10,
+      "name": "提及日未来信息拆分",
+      "status": "completed"
+    },
+    {
+      "id": 11,
+      "name": "批量揭晓失败隔离",
+      "status": "completed"
+    },
+    {
+      "id": 12,
+      "name": "同日多节点角色",
+      "status": "completed"
+    },
+    {
+      "id": 13,
+      "name": "中文图头与局部窗口标识",
+      "status": "completed"
+    },
+    {
+      "id": 14,
+      "name": "对数坐标",
+      "status": "completed"
+    }
+  ],
+  "checks": [
+    {
+      "id": "A1",
+      "status": "pass",
+      "detail": "400 passed, 1 skipped; baseline skip=1. T/U/R/M groups covered.",
+      "evidence": [
+        "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\W9\\pytest_all.log",
+        "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\L1\\repair\\repair_delivery.json",
+        "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\L2\\delivery.json",
+        "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\S2\\delivery.json",
+        "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\S3a\\delivery.json",
+        "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\S3b\\delivery.json"
+      ]
+    },
+    {
+      "id": "A2",
+      "status": "pass",
+      "detail": "All 12 W5/W7 PNGs pass final checker and independent image probes. The dense missing-volume counterexample now fails correctly.",
+      "evidence": [
+        "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\W9\\final_pixel_checks.json",
+        "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\W7\\verify_v2_checks.json"
+      ]
+    },
+    {
+      "id": "A3",
+      "status": "fail",
+      "detail": "All delivered PNGs visually reviewed; source-frame replica supported. Genuine-source five-session/average/previous-close figures unavailable; synthetic review cannot replace real acceptance. X2-02 remains.",
+      "evidence": [
+        "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\W5\\root_visual_review.json",
+        "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\W7\\root_visual_review.json",
+        "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\L2\\root_visual_review.json",
+        "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\X2\\review.md"
+      ]
+    },
+    {
+      "id": "A4",
+      "status": "pass",
+      "detail": "Old frozen/result1/view identity remains compatible; old F2 CLI rendered; 16 original-file SHA256 checks unchanged.",
+      "evidence": [
+        "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\W5\\legacy_F2\\command.json",
+        "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\W7\\immutable_check.json",
+        "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\S1\\delivery.json"
+      ]
+    },
+    {
+      "id": "A5",
+      "status": "pass",
+      "detail": "R tests pass; rev2/result1 is v3 with frozen 2026-01-08 anchor6.694; rev1/result2 appended. Root independently recalculated 177 rows, five horizons and event dates for both real preopen results. Intraday logic tests do not establish real-source timing semantics.",
+      "evidence": [
+        "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\S2\\root_accept.log",
+        "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\W7\\freeze_receipt.json",
+        "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\W7\\root_reveal_check.json",
+        "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\W7\\reveal_rev2.json",
+        "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\W7\\reveal_rev1.json"
+      ]
+    },
+    {
+      "id": "A6",
+      "status": "fail",
+      "detail": "Real REG/CASE/SH/OLD/EXDATE source acceptance not completed: 09:30 is not established as pure auction and timestamps unverified. priority=[]; corrupt fixtures and synthetic boundary logic tested, not substitutes.",
+      "evidence": [
+        "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\X1\\report.md",
+        "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\X1\\measurements.json",
+        "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\S3a\\validation_summary.json",
+        "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\S3b\\delivery.json",
+        "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\W5\\commands.json"
+      ]
+    },
+    {
+      "id": "A7",
+      "status": "fail",
+      "detail": "Final verify_v2: 54/56 passed. Two result checks fail because parser expects rows while subsequent_daily contains bars. L4 repair allowance exhausted; root arithmetic supplement does not change A7.",
+      "evidence": [
+        "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\W7\\verify_v2_checks.json",
+        "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\W7\\root_reveal_check.json",
+        "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\L4\\repair_adversarial_checks.json"
+      ]
+    },
+    {
+      "id": "A8",
+      "status": "pass",
+      "detail": "X2 confirms no new link/lock protection through pinned4c3d6c1. Root reviewed subsequent verification/docs and dense-column patch: no such primitives added; paths.py/data.py unchanged.",
+      "evidence": [
+        "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\X2\\a8_renderer_audit.json",
+        "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\X2\\review.md",
+        "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\W9\\post_review_scope.json"
+      ]
+    },
+    {
+      "id": "A9",
+      "status": "pass",
+      "detail": "README usage and CONTRACT Amendment3 updated; production-source limitation explicit; old verifiers retain exact approved hashes. Further final limitations are recorded in this acceptance and REPORT.",
+      "evidence": [
+        "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\L4\\L4_report.md",
+        "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\L4\\delivery.json"
+      ]
+    },
+    {
+      "id": "A10",
+      "status": "not_applicable",
+      "detail": "User cancelled L5/two PDFs; W8 skipped.",
+      "evidence": [
+        "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\W0\\DECISIONS.json"
+      ]
+    },
+    {
+      "id": "A11",
+      "status": "fail",
+      "detail": "Daily benchmark recorded and meets target: median0.918237s<3s, three same-process runs. Registry multi benchmark not run because source disabled.",
+      "evidence": [
+        "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\L4\\performance.json"
+      ]
+    }
+  ],
+  "remaining": [
+    "Real minute source semantics, REG/CASE/SH/OLD/EXDATE, genuine multi charts and registry performance",
+    "X2-02: auction-only empty minute panels omit visible auction and previous close (L2 repair exhausted)",
+    "verify_v2 result input-key incompatibility: rows versus bars (L4 repair exhausted)"
+  ],
+  "not_applicable": [
+    "W8/L5 PDFs"
+  ],
+  "no_installations": true,
+  "no_push": true,
+  "original_store_unchanged": true,
+  "transcript_status": "transcript_unverified",
+  "delivery_uploads_at_generation": [
+    {
+      "name": "daily_10y.png",
+      "local": "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\restore_v2\\charts\\daily_10y.png",
+      "id": "1EfRovoptyeldDn6Hq_TijSEfeIPvLs_0",
+      "url": "https://drive.google.com/file/d/1EfRovoptyeldDn6Hq_TijSEfeIPvLs_0/view",
+      "local_sha256": "b663f4e2c07195815b5f3c6c4b8490e9ad8b569bf3e72b4b68da61af54018a47",
+      "readback_sha256": "b663f4e2c07195815b5f3c6c4b8490e9ad8b569bf3e72b4b68da61af54018a47",
+      "bytes": 196864,
+      "passed": true
+    },
+    {
+      "name": "daily_10y_log.png",
+      "local": "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\restore_v2\\charts\\daily_10y_log.png",
+      "id": "1K7TwnxjMfKAclpsYoo7FTXRq5sfbYgm5",
+      "url": "https://drive.google.com/file/d/1K7TwnxjMfKAclpsYoo7FTXRq5sfbYgm5/view",
+      "local_sha256": "f1cf305242a5756777d4fa41d779ae13f4f222c6d050406bee3423d2d602489e",
+      "readback_sha256": "f1cf305242a5756777d4fa41d779ae13f4f222c6d050406bee3423d2d602489e",
+      "bytes": 193751,
+      "passed": true
+    },
+    {
+      "name": "replica.png",
+      "local": "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\restore_v2\\charts\\replica.png",
+      "id": "1OyClp7JxqZB9fP1DLR487yd8ceSkNA2K",
+      "url": "https://drive.google.com/file/d/1OyClp7JxqZB9fP1DLR487yd8ceSkNA2K/view",
+      "local_sha256": "e4c5762eef823e765f5c953a5b4428a768266084e7144716794afa3570e22ad5",
+      "readback_sha256": "e4c5762eef823e765f5c953a5b4428a768266084e7144716794afa3570e22ad5",
+      "bytes": 144419,
+      "passed": true
+    },
+    {
+      "name": "reveal_first20.png",
+      "local": "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\reveal_v2\\reveal_first20.png",
+      "id": "1XPtTVxkT9dRWWBmE0TDs_xraq67J_i-X",
+      "url": "https://drive.google.com/file/d/1XPtTVxkT9dRWWBmE0TDs_xraq67J_i-X/view",
+      "local_sha256": "ac7e1cdf20a82f261cd012739ca213b30a47c3d3f8d8b94f735eb2361a2d9e75",
+      "readback_sha256": "ac7e1cdf20a82f261cd012739ca213b30a47c3d3f8d8b94f735eb2361a2d9e75",
+      "bytes": 160585,
+      "passed": true
+    },
+    {
+      "name": "reveal_to_0930.png",
+      "local": "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\reveal_v2\\reveal_to_0930.png",
+      "id": "1Xoi251GjD_4jZ9hlFpogDsToWvnXYLhv",
+      "url": "https://drive.google.com/file/d/1Xoi251GjD_4jZ9hlFpogDsToWvnXYLhv/view",
+      "local_sha256": "f14461eb993c965e7341e85f751d51d8a1fda542b428d1d45d4749a687f5c8f2",
+      "readback_sha256": "f14461eb993c965e7341e85f751d51d8a1fda542b428d1d45d4749a687f5c8f2",
+      "bytes": 165704,
+      "passed": true
+    },
+    {
+      "name": "reveal_10y.png",
+      "local": "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\reveal_v2\\reveal_10y.png",
+      "id": "1p24lC0geTv4cJgfxLkzQS4hECBNTFBTt",
+      "url": "https://drive.google.com/file/d/1p24lC0geTv4cJgfxLkzQS4hECBNTFBTt/view",
+      "local_sha256": "a1a4f48eecb69b6eb4ac91662f04f5e8feb3017b18a7ff561878c9d4535a1c52",
+      "readback_sha256": "a1a4f48eecb69b6eb4ac91662f04f5e8feb3017b18a7ff561878c9d4535a1c52",
+      "bytes": 211632,
+      "passed": true
+    }
+  ]
+}

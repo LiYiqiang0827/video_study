@@ -1,0 +1,83 @@
+{
+  "schema": 1,
+  "source": "C:\\Users\\HarryWu_IOKI\\Videos\\飞云双突破\\For GPT\\双突破所有买点.mkv",
+  "duration": 3978.667,
+  "params": {
+    "source_sha256": "c44ccee04104201c1ae2cbb4f0e273cd31094844e090c4ff3fddd9eb445c9d59",
+    "times": [
+      35.0,
+      325.0,
+      359.0,
+      1280.0,
+      1600.0,
+      1656.0,
+      1738.0,
+      1790.0
+    ],
+    "method": "accurate-seek-copyts-original-v1"
+  },
+  "frames": [
+    {
+      "requested_time": 35.0,
+      "time": 35.0,
+      "decoded_pts": 35.0,
+      "frame": "frame_00000_000035000.jpg",
+      "sha256": "dbfdbcc9646adb44a78f6371fcee78e001d4a61c540bd9bd72d528547e0204af"
+    },
+    {
+      "requested_time": 325.0,
+      "time": 325.0,
+      "decoded_pts": 325.0,
+      "frame": "frame_00001_000325000.jpg",
+      "sha256": "0f50e37a7a2059e7a7f61ca738a5ce10d135d80ef3eb2c26ff4c3b5b57ae120b"
+    },
+    {
+      "requested_time": 359.0,
+      "time": 359.0,
+      "decoded_pts": 359.0,
+      "frame": "frame_00002_000359000.jpg",
+      "sha256": "d7b8151a03d2769a38a5987642bff32957d32ec5c7399bf4ce632ef23ec36991"
+    },
+    {
+      "requested_time": 1280.0,
+      "time": 1280.0,
+      "decoded_pts": 1280.0,
+      "frame": "frame_00003_001280000.jpg",
+      "sha256": "87d96e6cdd61024dc0076604fa276220dadda0156446ba0364ca44d0858837ef"
+    },
+    {
+      "requested_time": 1600.0,
+      "time": 1600.0,
+      "decoded_pts": 1600.0,
+      "frame": "frame_00004_001600000.jpg",
+      "sha256": "9522eee000c67dd68a29bbb86c6c1a092b0e9ea66a80aeb8015d46b06775b400"
+    },
+    {
+      "requested_time": 1656.0,
+      "time": 1656.0,
+      "decoded_pts": 1656.0,
+      "frame": "frame_00005_001656000.jpg",
+      "sha256": "7c03345ac07270931ba885f8002b76ab85974f04f81ff0dcae590b48aa57d395"
+    },
+    {
+      "requested_time": 1738.0,
+      "time": 1738.0,
+      "decoded_pts": 1738.0,
+      "frame": "frame_00006_001738000.jpg",
+      "sha256": "a00245b31ca6b0bb2b04c196a986175fbab842cce4d3cd7ecae78dc1edc72a37"
+    },
+    {
+      "requested_time": 1790.0,
+      "time": 1790.0,
+      "decoded_pts": 1790.0,
+      "frame": "frame_00007_001790000.jpg",
+      "sha256": "874590169bcf12902f09c5ce5750a91cdaa567d413bcb769045a3b7e0820e4f8"
+    }
+  ],
+  "status": "complete",
+  "sheets": [
+    "sheet_001.jpg",
+    "sheet_002.jpg"
+  ],
+  "speech_extraction": "C:\\Project Rocket\\output\\feiyun_double_breakout\\platform_large_v3_v1\\双突破所有买点_c44ccee041_0s_66f4580d"
+}

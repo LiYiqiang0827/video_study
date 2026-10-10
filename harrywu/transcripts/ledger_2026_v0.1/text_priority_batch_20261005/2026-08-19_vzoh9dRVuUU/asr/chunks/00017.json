@@ -1,0 +1,536 @@
+{
+  "begin": 5100.0,
+  "finish": 5400.0,
+  "segments": [
+    {
+      "start": 5098.0,
+      "end": 5169.59,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1372,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5169.61,
+      "end": 5224.44,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0729,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5224.46,
+      "end": 5226.62,
+      "text": "看看少的话我才要加点仓",
+      "avg_logprob": -0.1971,
+      "no_speech_prob": 0.4348,
+      "review": false
+    },
+    {
+      "start": 5226.62,
+      "end": 5231.23,
+      "text": "小任这个还可以还可以我仓还可以",
+      "avg_logprob": -0.1971,
+      "no_speech_prob": 0.4348,
+      "review": false
+    },
+    {
+      "start": 5231.23,
+      "end": 5233.65,
+      "text": "小任中国软件",
+      "avg_logprob": -0.1971,
+      "no_speech_prob": 0.4348,
+      "review": false
+    },
+    {
+      "start": 5233.65,
+      "end": 5236.23,
+      "text": "陈迈都行",
+      "avg_logprob": -0.1971,
+      "no_speech_prob": 0.4348,
+      "review": false
+    },
+    {
+      "start": 5236.23,
+      "end": 5238.15,
+      "text": "这三个软件股买对了",
+      "avg_logprob": -0.1971,
+      "no_speech_prob": 0.4348,
+      "review": false
+    },
+    {
+      "start": 5238.15,
+      "end": 5238.81,
+      "text": "买对了",
+      "avg_logprob": -0.1971,
+      "no_speech_prob": 0.4348,
+      "review": false
+    },
+    {
+      "start": 5238.81,
+      "end": 5242.11,
+      "text": "除了风范的装死",
+      "avg_logprob": -0.1971,
+      "no_speech_prob": 0.4348,
+      "review": false
+    },
+    {
+      "start": 5242.11,
+      "end": 5244.45,
+      "text": "其他的蓝色光辫买对了",
+      "avg_logprob": -0.1971,
+      "no_speech_prob": 0.4348,
+      "review": false
+    },
+    {
+      "start": 5244.45,
+      "end": 5245.99,
+      "text": "蓝色光辫买对了",
+      "avg_logprob": -0.1971,
+      "no_speech_prob": 0.4348,
+      "review": false
+    },
+    {
+      "start": 5245.99,
+      "end": 5247.39,
+      "text": "可以可以可以",
+      "avg_logprob": -0.1971,
+      "no_speech_prob": 0.4348,
+      "review": false
+    },
+    {
+      "start": 5247.39,
+      "end": 5249.05,
+      "text": "唯一失败股就是风范",
+      "avg_logprob": -0.1971,
+      "no_speech_prob": 0.4348,
+      "review": false
+    },
+    {
+      "start": 5249.05,
+      "end": 5250.55,
+      "text": "这个没办法",
+      "avg_logprob": -0.1971,
+      "no_speech_prob": 0.4348,
+      "review": false
+    },
+    {
+      "start": 5250.55,
+      "end": 5253.21,
+      "text": "这个是今天唯一失败股就是风范",
+      "avg_logprob": -0.1971,
+      "no_speech_prob": 0.4348,
+      "review": false
+    },
+    {
+      "start": 5253.21,
+      "end": 5305.36,
+      "text": "唯一的失败股",
+      "avg_logprob": -0.1971,
+      "no_speech_prob": 0.4348,
+      "review": false
+    },
+    {
+      "start": 5305.36,
+      "end": 5309.76,
+      "text": "同流不看,基本面太差太差太差,它也不是龙头,同流不看",
+      "avg_logprob": -0.1001,
+      "no_speech_prob": 0.9932,
+      "review": true
+    },
+    {
+      "start": 5309.76,
+      "end": 5313.78,
+      "text": "你有软件你干嘛不买中国软件啊,你就直接买龙头算了",
+      "avg_logprob": -0.1001,
+      "no_speech_prob": 0.9932,
+      "review": true
+    },
+    {
+      "start": 5313.78,
+      "end": 5317.86,
+      "text": "当然哈,我不劝你哈,不劝你,但是我就是现在也是这样子的",
+      "avg_logprob": -0.1001,
+      "no_speech_prob": 0.9932,
+      "review": true
+    },
+    {
+      "start": 5317.86,
+      "end": 5323.14,
+      "text": "当一个题材出来了,它谁是龙头,中国软件是龙头,还有谁是龙头",
+      "avg_logprob": -0.1001,
+      "no_speech_prob": 0.9932,
+      "review": true
+    },
+    {
+      "start": 5323.14,
+      "end": 5329.74,
+      "text": "我都研究出来了呀,一个卖城市,城卖是龙头,中国软件是龙头,其他不要看,不要买不要买",
+      "avg_logprob": -0.1001,
+      "no_speech_prob": 0.9932,
+      "review": true
+    },
+    {
+      "start": 5329.74,
+      "end": 5330.72,
+      "text": "就只买龙头",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.201,
+      "review": false
+    },
+    {
+      "start": 5330.72,
+      "end": 5331.96,
+      "text": "就比如说农业",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.201,
+      "review": false
+    },
+    {
+      "start": 5331.96,
+      "end": 5333.42,
+      "text": "中粮糖也是龙头",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.201,
+      "review": false
+    },
+    {
+      "start": 5333.42,
+      "end": 5335.46,
+      "text": "还有这个神龙种也是龙头",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.201,
+      "review": false
+    },
+    {
+      "start": 5335.46,
+      "end": 5336.36,
+      "text": "那就只买龙头",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.201,
+      "review": false
+    },
+    {
+      "start": 5336.36,
+      "end": 5337.0,
+      "text": "不要买其他的",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.201,
+      "review": false
+    },
+    {
+      "start": 5337.0,
+      "end": 5339.34,
+      "text": "你买其他的没有意义",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.201,
+      "review": false
+    },
+    {
+      "start": 5339.34,
+      "end": 5339.86,
+      "text": "你看嘛",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.201,
+      "review": false
+    },
+    {
+      "start": 5339.86,
+      "end": 5343.5,
+      "text": "今天这个Windows服务的",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.201,
+      "review": false
+    },
+    {
+      "start": 5343.5,
+      "end": 5343.88,
+      "text": "你看嘛",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.201,
+      "review": false
+    },
+    {
+      "start": 5343.88,
+      "end": 5346.86,
+      "text": "你看中国软件市场占有率第一",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.201,
+      "review": false
+    },
+    {
+      "start": 5346.86,
+      "end": 5348.08,
+      "text": "子公司清理软件",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.201,
+      "review": false
+    },
+    {
+      "start": 5348.08,
+      "end": 5349.28,
+      "text": "它是排第一的",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.201,
+      "review": false
+    },
+    {
+      "start": 5349.28,
+      "end": 5352.26,
+      "text": "而且是党政军全都是用中国软件",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.201,
+      "review": false
+    },
+    {
+      "start": 5352.26,
+      "end": 5354.42,
+      "text": "第二个成麦市场占有率第二",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.201,
+      "review": false
+    },
+    {
+      "start": 5354.42,
+      "end": 5357.42,
+      "text": "它是专门是搞统计软件的",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.201,
+      "review": false
+    },
+    {
+      "start": 5357.42,
+      "end": 5358.44,
+      "text": "那就这两个就行了呀",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.201,
+      "review": false
+    },
+    {
+      "start": 5358.44,
+      "end": 5359.18,
+      "text": "其他不要管了",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.201,
+      "review": false
+    },
+    {
+      "start": 5359.18,
+      "end": 5360.66,
+      "text": "就这两个就行了",
+      "avg_logprob": -0.1432,
+      "no_speech_prob": 0.3718,
+      "review": false
+    },
+    {
+      "start": 5360.66,
+      "end": 5361.5,
+      "text": "当然哈",
+      "avg_logprob": -0.1432,
+      "no_speech_prob": 0.3718,
+      "review": false
+    },
+    {
+      "start": 5361.5,
+      "end": 5362.54,
+      "text": "新安这个我就",
+      "avg_logprob": -0.1432,
+      "no_speech_prob": 0.3718,
+      "review": false
+    },
+    {
+      "start": 5362.54,
+      "end": 5363.8,
+      "text": "我就不好评价",
+      "avg_logprob": -0.1432,
+      "no_speech_prob": 0.3718,
+      "review": false
+    },
+    {
+      "start": 5363.8,
+      "end": 5364.52,
+      "text": "它盘子太小",
+      "avg_logprob": -0.1432,
+      "no_speech_prob": 0.3718,
+      "review": false
+    },
+    {
+      "start": 5364.52,
+      "end": 5366.08,
+      "text": "那么你要看软",
+      "avg_logprob": -0.1432,
+      "no_speech_prob": 0.3718,
+      "review": false
+    },
+    {
+      "start": 5366.08,
+      "end": 5366.74,
+      "text": "你就看这两个",
+      "avg_logprob": -0.1432,
+      "no_speech_prob": 0.3718,
+      "review": false
+    },
+    {
+      "start": 5366.74,
+      "end": 5367.58,
+      "text": "其他不要买",
+      "avg_logprob": -0.1432,
+      "no_speech_prob": 0.3718,
+      "review": false
+    },
+    {
+      "start": 5367.58,
+      "end": 5368.84,
+      "text": "不要花时间去买",
+      "avg_logprob": -0.1432,
+      "no_speech_prob": 0.3718,
+      "review": false
+    },
+    {
+      "start": 5368.84,
+      "end": 5369.1,
+      "text": "好不好",
+      "avg_logprob": -0.1432,
+      "no_speech_prob": 0.3718,
+      "review": false
+    },
+    {
+      "start": 5369.1,
+      "end": 5370.46,
+      "text": "什么铜牛啊",
+      "avg_logprob": -0.1432,
+      "no_speech_prob": 0.3718,
+      "review": false
+    },
+    {
+      "start": 5370.46,
+      "end": 5370.96,
+      "text": "不要看了",
+      "avg_logprob": -0.1432,
+      "no_speech_prob": 0.3718,
+      "review": false
+    },
+    {
+      "start": 5370.96,
+      "end": 5371.44,
+      "text": "不要买了",
+      "avg_logprob": -0.1432,
+      "no_speech_prob": 0.3718,
+      "review": false
+    },
+    {
+      "start": 5371.44,
+      "end": 5372.22,
+      "text": "你就找",
+      "avg_logprob": -0.1432,
+      "no_speech_prob": 0.3718,
+      "review": false
+    },
+    {
+      "start": 5372.22,
+      "end": 5373.3,
+      "text": "你就买龙头",
+      "avg_logprob": -0.1432,
+      "no_speech_prob": 0.3718,
+      "review": false
+    },
+    {
+      "start": 5373.3,
+      "end": 5374.64,
+      "text": "你记住啊",
+      "avg_logprob": -0.1432,
+      "no_speech_prob": 0.3718,
+      "review": false
+    },
+    {
+      "start": 5374.64,
+      "end": 5375.82,
+      "text": "你买龙头你肯定赚钱",
+      "avg_logprob": -0.1432,
+      "no_speech_prob": 0.3718,
+      "review": false
+    },
+    {
+      "start": 5375.82,
+      "end": 5377.38,
+      "text": "你买杂毛你肯定亏钱",
+      "avg_logprob": -0.1432,
+      "no_speech_prob": 0.3718,
+      "review": false
+    },
+    {
+      "start": 5377.38,
+      "end": 5379.44,
+      "text": "你买一些乱七八糟的",
+      "avg_logprob": -0.1432,
+      "no_speech_prob": 0.3718,
+      "review": false
+    },
+    {
+      "start": 5379.44,
+      "end": 5380.02,
+      "text": "你肯定亏钱",
+      "avg_logprob": -0.1432,
+      "no_speech_prob": 0.3718,
+      "review": false
+    },
+    {
+      "start": 5380.02,
+      "end": 5381.9,
+      "text": "这是我的观点啊",
+      "avg_logprob": -0.1432,
+      "no_speech_prob": 0.3718,
+      "review": false
+    },
+    {
+      "start": 5381.9,
+      "end": 5385.42,
+      "text": "所以我真的不愿意帮你看了",
+      "avg_logprob": -0.1432,
+      "no_speech_prob": 0.3718,
+      "review": false
+    },
+    {
+      "start": 5385.42,
+      "end": 5387.6,
+      "text": "美股就没有A股这么神了啊",
+      "avg_logprob": -0.1432,
+      "no_speech_prob": 0.3718,
+      "review": false
+    },
+    {
+      "start": 5387.6,
+      "end": 5388.96,
+      "text": "美股我就很一般了",
+      "avg_logprob": -0.1432,
+      "no_speech_prob": 0.3718,
+      "review": false
+    },
+    {
+      "start": 5388.96,
+      "end": 5390.0,
+      "text": "我就是跟大家说一下",
+      "avg_logprob": -0.1432,
+      "no_speech_prob": 0.3718,
+      "review": false
+    },
+    {
+      "start": 5390.0,
+      "end": 5392.36,
+      "text": "美股就没有A股这么厉害了",
+      "avg_logprob": -0.1591,
+      "no_speech_prob": 0.1475,
+      "review": false
+    },
+    {
+      "start": 5392.36,
+      "end": 5400.99,
+      "text": "不是按我建议",
+      "avg_logprob": -0.1591,
+      "no_speech_prob": 0.1475,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 14.92
+}

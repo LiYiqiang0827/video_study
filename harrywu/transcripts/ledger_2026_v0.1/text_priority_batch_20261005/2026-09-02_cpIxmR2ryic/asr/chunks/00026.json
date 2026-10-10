@@ -1,0 +1,792 @@
+{
+  "begin": 7800.0,
+  "finish": 8100.0,
+  "segments": [
+    {
+      "start": 7798.0,
+      "end": 7828.2,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0493,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 7828.22,
+      "end": 7839.35,
+      "text": "中航陈飞的双突破很漂亮的,但是军功我也不太想做,我怀疑军功是一日有,我很担心军功是一日有",
+      "avg_logprob": -0.1929,
+      "no_speech_prob": 0.9482,
+      "review": true
+    },
+    {
+      "start": 7839.35,
+      "end": 7856.64,
+      "text": "其实软件呢,我还是看好的,我认为软件有可能会有第二波,特别是这个麒麟,麒麟新安",
+      "avg_logprob": -0.1929,
+      "no_speech_prob": 0.9482,
+      "review": true
+    },
+    {
+      "start": 7856.64,
+      "end": 7860.62,
+      "text": "我个人认为软件可能有第二波",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.9883,
+      "review": true
+    },
+    {
+      "start": 7860.62,
+      "end": 7862.56,
+      "text": "你们可以注意一下",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.9883,
+      "review": true
+    },
+    {
+      "start": 7862.56,
+      "end": 7863.66,
+      "text": "这个软件",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.9883,
+      "review": true
+    },
+    {
+      "start": 7863.66,
+      "end": 7865.48,
+      "text": "但是今天不一定能够起来",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.9883,
+      "review": true
+    },
+    {
+      "start": 7865.48,
+      "end": 7867.44,
+      "text": "今天不一定能起来",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.9883,
+      "review": true
+    },
+    {
+      "start": 7867.44,
+      "end": 7869.42,
+      "text": "如果明天它到这些位置来",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.9883,
+      "review": true
+    },
+    {
+      "start": 7869.42,
+      "end": 7871.56,
+      "text": "我个人认为观察一下",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.9883,
+      "review": true
+    },
+    {
+      "start": 7871.56,
+      "end": 7873.52,
+      "text": "如果就是两个题材",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.9883,
+      "review": true
+    },
+    {
+      "start": 7873.52,
+      "end": 7874.56,
+      "text": "一个是医药",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.9883,
+      "review": true
+    },
+    {
+      "start": 7874.56,
+      "end": 7875.3,
+      "text": "一个是软件",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.9883,
+      "review": true
+    },
+    {
+      "start": 7875.3,
+      "end": 7877.76,
+      "text": "我认为软件有可能还会有第二波",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.9883,
+      "review": true
+    },
+    {
+      "start": 7877.76,
+      "end": 7878.04,
+      "text": "好不好",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.9883,
+      "review": true
+    },
+    {
+      "start": 7878.04,
+      "end": 7879.72,
+      "text": "其实当时你看软件",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.9883,
+      "review": true
+    },
+    {
+      "start": 7879.72,
+      "end": 7880.48,
+      "text": "它第一波起来",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.9883,
+      "review": true
+    },
+    {
+      "start": 7880.48,
+      "end": 7881.66,
+      "text": "我就说它会有第二波了",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.9883,
+      "review": true
+    },
+    {
+      "start": 7881.66,
+      "end": 7884.32,
+      "text": "但是当时后面这个部分我没买",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.9883,
+      "review": true
+    },
+    {
+      "start": 7884.32,
+      "end": 7884.8,
+      "text": "很可惜",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.9883,
+      "review": true
+    },
+    {
+      "start": 7884.8,
+      "end": 7886.56,
+      "text": "但是现在我认为",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.9883,
+      "review": true
+    },
+    {
+      "start": 7886.64,
+      "end": 7888.78,
+      "text": "这个还是算是第二波嘛",
+      "avg_logprob": -0.1573,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 7888.78,
+      "end": 7890.0,
+      "text": "因为第二波是延续嘛",
+      "avg_logprob": -0.1573,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 7890.0,
+      "end": 7891.68,
+      "text": "我认为可能还有第二波啊",
+      "avg_logprob": -0.1573,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 7891.68,
+      "end": 7892.24,
+      "text": "清新安",
+      "avg_logprob": -0.1573,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 7892.24,
+      "end": 7893.74,
+      "text": "如果今天让我看的话",
+      "avg_logprob": -0.1573,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 7893.74,
+      "end": 7895.28,
+      "text": "我就是就是这几个好不好",
+      "avg_logprob": -0.1573,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 7895.28,
+      "end": 7896.46,
+      "text": "就是这几个",
+      "avg_logprob": -0.1573,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 7896.46,
+      "end": 7898.66,
+      "text": "我觉得这几个",
+      "avg_logprob": -0.1573,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 7898.66,
+      "end": 7900.4,
+      "text": "但是你们不一定要根据我买啊",
+      "avg_logprob": -0.1573,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 7900.4,
+      "end": 7902.2,
+      "text": "我只是纯粹说我的观点啊",
+      "avg_logprob": -0.1573,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 7902.2,
+      "end": 7903.44,
+      "text": "要是你们买了被锤的",
+      "avg_logprob": -0.1573,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 7903.44,
+      "end": 7904.92,
+      "text": "我没有关系啊",
+      "avg_logprob": -0.1573,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 7904.92,
+      "end": 7909.04,
+      "text": "千金、恒玉、恒玉、康隆、金华之药、清新安",
+      "avg_logprob": -0.1573,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 7909.04,
+      "end": 7910.34,
+      "text": "不然我认为啊",
+      "avg_logprob": -0.1573,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 7910.34,
+      "end": 7911.22,
+      "text": "其实有两个板块",
+      "avg_logprob": -0.1573,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 7911.22,
+      "end": 7912.82,
+      "text": "一个医药一个软件啊",
+      "avg_logprob": -0.1573,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 7912.82,
+      "end": 7915.18,
+      "text": "我个人认为可能会有一点点",
+      "avg_logprob": -0.1573,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 7915.18,
+      "end": 7932.56,
+      "text": "远东的财报特别好,财务数据特别好,另外是亮堆",
+      "avg_logprob": -0.1741,
+      "no_speech_prob": 0.8936,
+      "review": true
+    },
+    {
+      "start": 7932.56,
+      "end": 7937.38,
+      "text": "他就是优质的公司,大家抢着买",
+      "avg_logprob": -0.1741,
+      "no_speech_prob": 0.8936,
+      "review": true
+    },
+    {
+      "start": 7937.38,
+      "end": 7942.75,
+      "text": "我研究过他,但是现在忘了,我都忘了他是个啥题材了",
+      "avg_logprob": -0.1741,
+      "no_speech_prob": 0.8936,
+      "review": true
+    },
+    {
+      "start": 7942.75,
+      "end": 7946.43,
+      "text": "但是当时研究完的时候,我知道他的财务数据特别好",
+      "avg_logprob": -0.1741,
+      "no_speech_prob": 0.8936,
+      "review": true
+    },
+    {
+      "start": 7946.43,
+      "end": 7976.41,
+      "text": "报涨,业绩报涨,业绩大涨",
+      "avg_logprob": -0.242,
+      "no_speech_prob": 0.9961,
+      "review": true
+    },
+    {
+      "start": 7976.43,
+      "end": 7977.73,
+      "text": "但是这也没有啥",
+      "avg_logprob": -0.1429,
+      "no_speech_prob": 0.191,
+      "review": false
+    },
+    {
+      "start": 7977.73,
+      "end": 7980.09,
+      "text": "因为它好像是半导体",
+      "avg_logprob": -0.1429,
+      "no_speech_prob": 0.191,
+      "review": false
+    },
+    {
+      "start": 7980.09,
+      "end": 7981.97,
+      "text": "它是和半导体相关的",
+      "avg_logprob": -0.1429,
+      "no_speech_prob": 0.191,
+      "review": false
+    },
+    {
+      "start": 7981.97,
+      "end": 7982.91,
+      "text": "因为当时我就觉得半导体",
+      "avg_logprob": -0.1429,
+      "no_speech_prob": 0.191,
+      "review": false
+    },
+    {
+      "start": 7982.91,
+      "end": 7984.89,
+      "text": "它也不算是纯半导体",
+      "avg_logprob": -0.1429,
+      "no_speech_prob": 0.191,
+      "review": false
+    },
+    {
+      "start": 7984.89,
+      "end": 7985.97,
+      "text": "线难",
+      "avg_logprob": -0.1429,
+      "no_speech_prob": 0.191,
+      "review": false
+    },
+    {
+      "start": 7985.97,
+      "end": 7989.31,
+      "text": "它这个到底归什么题材呢",
+      "avg_logprob": -0.1429,
+      "no_speech_prob": 0.191,
+      "review": false
+    },
+    {
+      "start": 7989.31,
+      "end": 7989.67,
+      "text": "我看一下",
+      "avg_logprob": -0.1429,
+      "no_speech_prob": 0.191,
+      "review": false
+    },
+    {
+      "start": 7989.67,
+      "end": 7996.32,
+      "text": "因为我这个软件它不显示",
+      "avg_logprob": -0.1429,
+      "no_speech_prob": 0.191,
+      "review": false
+    },
+    {
+      "start": 7996.32,
+      "end": 8000.97,
+      "text": "电网设计",
+      "avg_logprob": -0.1429,
+      "no_speech_prob": 0.191,
+      "review": false
+    },
+    {
+      "start": 8000.97,
+      "end": 8003.59,
+      "text": "它归在电网里面去了",
+      "avg_logprob": -0.1429,
+      "no_speech_prob": 0.191,
+      "review": false
+    },
+    {
+      "start": 8003.59,
+      "end": 8005.55,
+      "text": "电网里面去了",
+      "avg_logprob": -0.1429,
+      "no_speech_prob": 0.191,
+      "review": false
+    },
+    {
+      "start": 8005.55,
+      "end": 8008.34,
+      "text": "应该是智能电网",
+      "avg_logprob": -0.1429,
+      "no_speech_prob": 0.191,
+      "review": false
+    },
+    {
+      "start": 8008.34,
+      "end": 8009.46,
+      "text": "电网这一般的",
+      "avg_logprob": -0.1429,
+      "no_speech_prob": 0.191,
+      "review": false
+    },
+    {
+      "start": 8009.46,
+      "end": 8011.79,
+      "text": "反正它主要是业绩",
+      "avg_logprob": -0.1429,
+      "no_speech_prob": 0.191,
+      "review": false
+    },
+    {
+      "start": 8011.79,
+      "end": 8012.81,
+      "text": "它主要是业绩",
+      "avg_logprob": -0.1429,
+      "no_speech_prob": 0.191,
+      "review": false
+    },
+    {
+      "start": 8012.89,
+      "end": 8029.82,
+      "text": "智能、电池、智能、智能、智能、智能、智能、电能、电能、远东还有夜能啊",
+      "avg_logprob": -0.1492,
+      "no_speech_prob": 0.3582,
+      "review": false
+    },
+    {
+      "start": 8029.82,
+      "end": 8032.3,
+      "text": "电网,嗯,电网、夜能",
+      "avg_logprob": -0.1492,
+      "no_speech_prob": 0.3582,
+      "review": false
+    },
+    {
+      "start": 8032.3,
+      "end": 8038.3,
+      "text": "黄金,黄金,黄金我个人认为还会,还会,还是会涨的,好不好",
+      "avg_logprob": -0.1492,
+      "no_speech_prob": 0.3582,
+      "review": false
+    },
+    {
+      "start": 8038.3,
+      "end": 8041.36,
+      "text": "黄金快到位置来了吧,我觉得还是会涨的,啊,黄金",
+      "avg_logprob": -0.1492,
+      "no_speech_prob": 0.3582,
+      "review": false
+    },
+    {
+      "start": 8041.36,
+      "end": 8046.74,
+      "text": "黄金看明天吧,明天跌回去,因为现在没有这个黄金的那个,那个图",
+      "avg_logprob": -0.1492,
+      "no_speech_prob": 0.3582,
+      "review": false
+    },
+    {
+      "start": 8046.74,
+      "end": 8050.32,
+      "text": "就是它,黄金是这样子的嘛,我都,我都会手绘了",
+      "avg_logprob": -0.1492,
+      "no_speech_prob": 0.3582,
+      "review": false
+    },
+    {
+      "start": 8050.64,
+      "end": 8053.22,
+      "text": "黄金是这样子嘛,是不是,这样子的",
+      "avg_logprob": -0.1492,
+      "no_speech_prob": 0.3582,
+      "review": false
+    },
+    {
+      "start": 8053.22,
+      "end": 8054.5,
+      "text": "黄金会到这来了吗",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 8054.5,
+      "end": 8056.34,
+      "text": "我都会手汇了快了",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 8056.34,
+      "end": 8057.88,
+      "text": "应该是这个位置会有反弹的",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 8057.88,
+      "end": 8059.64,
+      "text": "你放心吧明天左右啊",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 8059.64,
+      "end": 8060.24,
+      "text": "明天可以",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 8060.24,
+      "end": 8061.88,
+      "text": "我觉得明天可以",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 8061.88,
+      "end": 8065.4,
+      "text": "远东有个中标公告",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 8065.4,
+      "end": 8068.22,
+      "text": "难怪的难怪的",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 8068.22,
+      "end": 8069.18,
+      "text": "中国软件一样的",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 8069.18,
+      "end": 8070.46,
+      "text": "一样的",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 8070.46,
+      "end": 8071.24,
+      "text": "中国软件呢",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 8071.24,
+      "end": 8072.22,
+      "text": "我个人觉得啊",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 8072.22,
+      "end": 8075.02,
+      "text": "中国软件和刚才说的这个麒麟西安",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 8075.02,
+      "end": 8075.68,
+      "text": "他们都差不多",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 8075.68,
+      "end": 8076.96,
+      "text": "他们都差不多",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 8076.96,
+      "end": 8079.94,
+      "text": "你看你看中国软件也还是没那么亏钱嘛",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 8079.94,
+      "end": 8081.54,
+      "text": "我自己是早跑了",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 8081.54,
+      "end": 8082.78,
+      "text": "每次你看我在这",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 8082.78,
+      "end": 8084.68,
+      "text": "我当时是中国人也是这样说的是不是",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.9727,
+      "review": true
+    },
+    {
+      "start": 8084.68,
+      "end": 8085.64,
+      "text": "这样说的",
+      "avg_logprob": -0.1469,
+      "no_speech_prob": 0.0533,
+      "review": false
+    },
+    {
+      "start": 8085.64,
+      "end": 8087.08,
+      "text": "我呢是在这些人就跑了",
+      "avg_logprob": -0.1469,
+      "no_speech_prob": 0.0533,
+      "review": false
+    },
+    {
+      "start": 8087.08,
+      "end": 8088.4,
+      "text": "但是如果你们没跑的话",
+      "avg_logprob": -0.1469,
+      "no_speech_prob": 0.0533,
+      "review": false
+    },
+    {
+      "start": 8088.4,
+      "end": 8089.46,
+      "text": "你们现在也没亏钱嘛",
+      "avg_logprob": -0.1469,
+      "no_speech_prob": 0.0533,
+      "review": false
+    },
+    {
+      "start": 8089.46,
+      "end": 8090.62,
+      "text": "而且这些人大盘这么跌",
+      "avg_logprob": -0.1469,
+      "no_speech_prob": 0.0533,
+      "review": false
+    },
+    {
+      "start": 8090.62,
+      "end": 8091.66,
+      "text": "他都没有跌",
+      "avg_logprob": -0.1469,
+      "no_speech_prob": 0.0533,
+      "review": false
+    },
+    {
+      "start": 8091.66,
+      "end": 8094.24,
+      "text": "所以我说软件和医药两个板块",
+      "avg_logprob": -0.1469,
+      "no_speech_prob": 0.0533,
+      "review": false
+    },
+    {
+      "start": 8094.24,
+      "end": 8095.02,
+      "text": "我愿意做",
+      "avg_logprob": -0.1469,
+      "no_speech_prob": 0.0533,
+      "review": false
+    },
+    {
+      "start": 8095.02,
+      "end": 8096.84,
+      "text": "还是基于板块和题材",
+      "avg_logprob": -0.1469,
+      "no_speech_prob": 0.0533,
+      "review": false
+    },
+    {
+      "start": 8096.84,
+      "end": 8097.04,
+      "text": "好不好",
+      "avg_logprob": -0.1469,
+      "no_speech_prob": 0.0533,
+      "review": false
+    },
+    {
+      "start": 8097.04,
+      "end": 8097.84,
+      "text": "你看也是正确的",
+      "avg_logprob": -0.1469,
+      "no_speech_prob": 0.0533,
+      "review": false
+    },
+    {
+      "start": 8097.84,
+      "end": 8099.18,
+      "text": "如果你有的话",
+      "avg_logprob": -0.1469,
+      "no_speech_prob": 0.0533,
+      "review": false
+    },
+    {
+      "start": 8099.18,
+      "end": 8099.94,
+      "text": "你肯定不要走了",
+      "avg_logprob": -0.1469,
+      "no_speech_prob": 0.0533,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 21.19
+}

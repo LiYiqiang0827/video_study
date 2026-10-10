@@ -1,0 +1,368 @@
+{
+  "begin": 3900.0,
+  "finish": 4200.0,
+  "segments": [
+    {
+      "start": 3898.0,
+      "end": 3971.18,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1232,
+      "no_speech_prob": 0.0008,
+      "review": false
+    },
+    {
+      "start": 3971.2,
+      "end": 4015.12,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1421,
+      "no_speech_prob": 0.9912,
+      "review": true
+    },
+    {
+      "start": 4015.14,
+      "end": 4016.62,
+      "text": "指数太差了,没有啥意义",
+      "avg_logprob": -0.174,
+      "no_speech_prob": 0.9546,
+      "review": true
+    },
+    {
+      "start": 4016.62,
+      "end": 4029.91,
+      "text": "美股大盘最近没啥可讲的呀",
+      "avg_logprob": -0.174,
+      "no_speech_prob": 0.9546,
+      "review": true
+    },
+    {
+      "start": 4029.91,
+      "end": 4031.99,
+      "text": "美股大盘最近一丁点反弹的机会都没有啊",
+      "avg_logprob": -0.174,
+      "no_speech_prob": 0.9546,
+      "review": true
+    },
+    {
+      "start": 4031.99,
+      "end": 4032.95,
+      "text": "很差呀",
+      "avg_logprob": -0.174,
+      "no_speech_prob": 0.9546,
+      "review": true
+    },
+    {
+      "start": 4032.95,
+      "end": 4037.64,
+      "text": "休息不做啊",
+      "avg_logprob": -0.174,
+      "no_speech_prob": 0.9546,
+      "review": true
+    },
+    {
+      "start": 4037.64,
+      "end": 4039.46,
+      "text": "完全不做啊",
+      "avg_logprob": -0.174,
+      "no_speech_prob": 0.9546,
+      "review": true
+    },
+    {
+      "start": 4039.46,
+      "end": 4042.02,
+      "text": "我现在唯一看A股是因为我A股被套住了",
+      "avg_logprob": -0.174,
+      "no_speech_prob": 0.9546,
+      "review": true
+    },
+    {
+      "start": 4042.02,
+      "end": 4043.84,
+      "text": "不被套住我也根本不看了,我说实话",
+      "avg_logprob": -0.174,
+      "no_speech_prob": 0.9546,
+      "review": true
+    },
+    {
+      "start": 4043.84,
+      "end": 4052.74,
+      "text": "恭喜你啊,空单没平",
+      "avg_logprob": -0.174,
+      "no_speech_prob": 0.9546,
+      "review": true
+    },
+    {
+      "start": 4052.74,
+      "end": 4053.68,
+      "text": "正确的",
+      "avg_logprob": -0.174,
+      "no_speech_prob": 0.9546,
+      "review": true
+    },
+    {
+      "start": 4053.68,
+      "end": 4056.46,
+      "text": "现在就是不该平空单,慢慢等",
+      "avg_logprob": -0.174,
+      "no_speech_prob": 0.9546,
+      "review": true
+    },
+    {
+      "start": 4056.46,
+      "end": 4064.76,
+      "text": "加密最近也不行吧",
+      "avg_logprob": -0.174,
+      "no_speech_prob": 0.9546,
+      "review": true
+    },
+    {
+      "start": 4064.76,
+      "end": 4066.22,
+      "text": "也没什么可讲的",
+      "avg_logprob": -0.174,
+      "no_speech_prob": 0.9546,
+      "review": true
+    },
+    {
+      "start": 4066.22,
+      "end": 4077.81,
+      "text": "是啊,加密也烂",
+      "avg_logprob": -0.174,
+      "no_speech_prob": 0.9546,
+      "review": true
+    },
+    {
+      "start": 4078.69,
+      "end": 4079.31,
+      "text": "也不行",
+      "avg_logprob": -0.174,
+      "no_speech_prob": 0.9546,
+      "review": true
+    },
+    {
+      "start": 4079.31,
+      "end": 4095.06,
+      "text": "从交易的角度来讲",
+      "avg_logprob": -0.174,
+      "no_speech_prob": 0.9546,
+      "review": true
+    },
+    {
+      "start": 4095.06,
+      "end": 4097.54,
+      "text": "短线交易的角度来讲",
+      "avg_logprob": -0.1987,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4097.54,
+      "end": 4100.58,
+      "text": "加密的买点就是这些买点",
+      "avg_logprob": -0.1987,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4100.58,
+      "end": 4102.62,
+      "text": "如果你有订盘的话",
+      "avg_logprob": -0.1987,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4102.62,
+      "end": 4108.74,
+      "text": "这个就失败了",
+      "avg_logprob": -0.1987,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4108.74,
+      "end": 4110.18,
+      "text": "在这儿止损",
+      "avg_logprob": -0.1987,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4110.18,
+      "end": 4112.48,
+      "text": "Stop",
+      "avg_logprob": -0.1987,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4112.48,
+      "end": 4113.28,
+      "text": "这买",
+      "avg_logprob": -0.1987,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4113.28,
+      "end": 4114.02,
+      "text": "Buy",
+      "avg_logprob": -0.1987,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4114.02,
+      "end": 4116.12,
+      "text": "同样同价止损",
+      "avg_logprob": -0.1987,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4116.12,
+      "end": 4118.04,
+      "text": "但是这个就会成功",
+      "avg_logprob": -0.1987,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4118.04,
+      "end": 4118.82,
+      "text": "这会成功",
+      "avg_logprob": -0.1987,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4118.82,
+      "end": 4121.1,
+      "text": "这个会成功",
+      "avg_logprob": -0.1987,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4121.1,
+      "end": 4127.13,
+      "text": "那比如现在开始买",
+      "avg_logprob": -0.1987,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4127.13,
+      "end": 4129.04,
+      "text": "这也是个买点",
+      "avg_logprob": -0.1987,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4129.04,
+      "end": 4129.76,
+      "text": "Buy",
+      "avg_logprob": -0.1987,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4129.76,
+      "end": 4132.8,
+      "text": "它如果跌回去到这个位置",
+      "avg_logprob": -0.1987,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4132.8,
+      "end": 4133.94,
+      "text": "你就设一个Stop",
+      "avg_logprob": -0.1987,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4133.94,
+      "end": 4136.35,
+      "text": "但是要订盘",
+      "avg_logprob": -0.1987,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4136.35,
+      "end": 4170.88,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1115,
+      "no_speech_prob": 0.5254,
+      "review": true
+    },
+    {
+      "start": 4170.9,
+      "end": 4174.61,
+      "text": "山东电力",
+      "avg_logprob": -0.2215,
+      "no_speech_prob": 0.0056,
+      "review": false
+    },
+    {
+      "start": 4174.61,
+      "end": 4188.32,
+      "text": "山大电力",
+      "avg_logprob": -0.2215,
+      "no_speech_prob": 0.0056,
+      "review": false
+    },
+    {
+      "start": 4188.32,
+      "end": 4193.58,
+      "text": "这个票绝对不买",
+      "avg_logprob": -0.2215,
+      "no_speech_prob": 0.0056,
+      "review": false
+    },
+    {
+      "start": 4193.58,
+      "end": 4195.44,
+      "text": "流通值只有37个亿",
+      "avg_logprob": -0.2215,
+      "no_speech_prob": 0.0056,
+      "review": false
+    },
+    {
+      "start": 4195.44,
+      "end": 4195.94,
+      "text": "我不买",
+      "avg_logprob": -0.2215,
+      "no_speech_prob": 0.0056,
+      "review": false
+    },
+    {
+      "start": 4195.94,
+      "end": 4197.58,
+      "text": "小于50个亿",
+      "avg_logprob": -0.2215,
+      "no_speech_prob": 0.0056,
+      "review": false
+    },
+    {
+      "start": 4197.58,
+      "end": 4198.18,
+      "text": "我一般不买",
+      "avg_logprob": -0.2215,
+      "no_speech_prob": 0.0056,
+      "review": false
+    },
+    {
+      "start": 4198.18,
+      "end": 4200.12,
+      "text": "我只买100多亿以上的",
+      "avg_logprob": -0.2215,
+      "no_speech_prob": 0.0056,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 16.0
+}

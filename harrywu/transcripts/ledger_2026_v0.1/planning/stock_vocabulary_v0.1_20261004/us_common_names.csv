@@ -1,0 +1,95 @@
+﻿market,code,name_zh,name_en,aliases,exchange,is_etf,source_url,alias_source,alias_use
+US,AAPL,苹果,Apple Inc. - Common Stock,苹果|Apple|蘋果|AAPL,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,MSFT,微软,Microsoft Corporation - Common Stock,微软|Microsoft|微軟|MSFT,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,GOOGL,谷歌,Alphabet Inc. - Class A Common Stock,谷歌|Google|Alphabet|谷歌A|GOOGL,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,GOOG,谷歌,Alphabet Inc. - Class C Capital Stock,谷歌|Google|Alphabet|谷歌C|GOOG,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,AMZN,亚马逊,"Amazon.com, Inc. - Common Stock",亚马逊|Amazon|亞馬遜|AMZN,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,META,Meta,"Meta Platforms, Inc. - Class A Common Stock",Meta|Facebook|脸书|臉書|元平台|META,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,TSLA,特斯拉,"Tesla, Inc.  - Common Stock",特斯拉|Tesla|TSLA,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,NVDA,英伟达,NVIDIA Corporation - Common Stock,英伟达|NVIDIA|辉达|英偉達|輝達|NVDA,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,AMD,超威半导体,"Advanced Micro Devices, Inc. - Common Stock",超威半导体|AMD|超威|超微|超微半导体,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,INTC,英特尔,Intel Corporation - Common Stock,英特尔|Intel|英特爾|INTC,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,TSM,台积电,Taiwan Semiconductor Manufacturing Company Ltd.,台积电|TSMC|台積電|臺積電|台湾积体电路制造|TSM,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,AVGO,博通,Broadcom Inc. - Common Stock,博通|Broadcom|AVGO,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,MU,美光科技,"Micron Technology, Inc. - Common Stock",美光科技|Micron|美光|MU,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,QCOM,高通,QUALCOMM Incorporated - Common Stock,高通|Qualcomm|QCOM,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,ARM,安谋,Arm Holdings plc - American Depositary Shares,安谋|Arm|安謀|ARM,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,SMCI,超微电脑,"Super Micro Computer, Inc. - Common Stock",超微电脑|Supermicro|Super Micro|超微|美超微|超微電腦|SMCI,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,ASML,阿斯麦,ASML Holding N.V. - New York Registry Shares,阿斯麦|ASML|阿斯麥|艾司摩尔|艾司摩爾,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,AMAT,应用材料,"Applied Materials, Inc. - Common Stock",应用材料|Applied Materials|應用材料|AMAT,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,LRCX,泛林集团,Lam Research Corporation - Common Stock,泛林集团|Lam Research|拉姆研究|LRCX,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,KLAC,科磊,KLA Corporation  - Common Stock,科磊|KLA|KLAC,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,TXN,德州仪器,Texas Instruments Incorporated - Common Stock,德州仪器|Texas Instruments|德州儀器|TXN,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,MRVL,迈威尔科技,"Marvell Technology, Inc. - Common Stock",迈威尔科技|Marvell|迈威尔|MRVL,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,ON,安森美,ON Semiconductor Corporation - Common Stock,安森美|ON Semiconductor|onsemi|ON,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,ADBE,Adobe,Adobe Inc. - Common Stock,Adobe|奥多比|ADBE,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,CRM,赛富时,"Salesforce, Inc. Common Stock",赛富时|Salesforce|CRM,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,ORCL,甲骨文,Oracle Corporation Common Stock,甲骨文|Oracle|ORCL,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,NOW,ServiceNow,"ServiceNow, Inc. Common Stock",ServiceNow|NOW,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,PLTR,帕兰提尔,Palantir Technologies Inc. - Class A Common Stock,帕兰提尔|Palantir|帕蘭提爾|PLTR,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,NFLX,奈飞,"Netflix, Inc. - Common Stock",奈飞|Netflix|网飞|網飛|NFLX,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,UBER,优步,"Uber Technologies, Inc. Common Stock",优步|Uber|優步|UBER,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,SHOP,Shopify,Shopify Inc. - Class A Subordinate Voting Shares,Shopify|SHOP,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,COIN,Coinbase,"Coinbase Global, Inc. - Class A Common Stock",Coinbase|COIN,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,MSTR,Strategy,Strategy Inc - Class A Common Stock,Strategy|MicroStrategy|微策略|MSTR,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,HOOD,Robinhood,"Robinhood Markets, Inc. - Class A Common Stock",Robinhood|罗宾汉|HOOD,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,SNOW,Snowflake,Snowflake Inc. Common Stock,Snowflake|雪花|SNOW,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,CRWD,CrowdStrike,"CrowdStrike Holdings, Inc. - Class A Common Stock",CrowdStrike|CRWD,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,PANW,派拓网络,"Palo Alto Networks, Inc. - Common Stock",派拓网络|Palo Alto Networks|派拓網絡|PANW,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,NET,Cloudflare,"Cloudflare, Inc. Class A Common Stock",Cloudflare|NET,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,DDOG,Datadog,"Datadog, Inc. - Class A Common Stock",Datadog|DDOG,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,SOFI,SoFi,"SoFi Technologies, Inc.  - Common Stock",SoFi|SOFI,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,RBLX,罗布乐思,Roblox Corporation Class A Common Stock,罗布乐思|Roblox|RBLX,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,RIVN,Rivian,"Rivian Automotive, Inc. - Class A Common Stock",Rivian|RIVN,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,LCID,Lucid,"Lucid Group, Inc. - Common Stock",Lucid|LCID,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,BABA,阿里巴巴,Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share,阿里巴巴|Alibaba|阿里|BABA,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,PDD,拼多多,PDD Holdings Inc. - American Depositary Shares,拼多多|PDD|Pinduoduo,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,JD,京东,"JD.com, Inc. - American Depositary Shares",京东|JD|京東,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,BIDU,百度,"Baidu, Inc. - American Depositary Shares, each representing 8 ordinary share",百度|Baidu|BIDU,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,NTES,网易,"NetEase, Inc. - American Depositary Shares, each representing 5 ordinary shares",网易|NetEase|網易|NTES,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,BILI,哔哩哔哩,Bilibili Inc. - American Depositary Shares,哔哩哔哩|Bilibili|B站|BILI,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,NIO,蔚来,"NIO Inc. American depositary shares, each  representing one Class A ordinary share",蔚来|NIO|蔚來,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,XPEV,小鹏汽车,"XPeng Inc. American depositary shares, each representing two Class A ordinary shares",小鹏汽车|XPeng|小鹏|小鵬汽車|小鵬|XPEV,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,LI,理想汽车,Li Auto Inc. - American Depositary Shares,理想汽车|Li Auto|理想汽車|LI,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,TME,腾讯音乐,"Tencent Music Entertainment Group American Depositary Shares, each representing two Class A Ordinary Shares",腾讯音乐|Tencent Music|騰訊音樂|TME,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,BEKE,贝壳,KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares),贝壳|KE Holdings|贝壳找房|貝殼|BEKE,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,FUTU,富途,Futu Holdings Limited - American Depositary Shares,富途|Futu|富途控股|FUTU,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,JPM,摩根大通,JP Morgan Chase & Co. Common Stock,摩根大通|JPMorgan|J.P. Morgan|JPM,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,BAC,美国银行,Bank of America Corporation Common Stock,美国银行|Bank of America|美银|美國銀行|BAC,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,GS,高盛,"Goldman Sachs Group, Inc. (The) Common Stock",高盛|Goldman Sachs|GS,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,MS,摩根士丹利,Morgan Stanley Common Stock,摩根士丹利|Morgan Stanley|大摩|MS,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,V,维萨,Visa Inc.,维萨|Visa|V,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,MA,万事达,Mastercard Incorporated Common Stock,万事达|Mastercard|萬事達|MA,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,BRK.B,伯克希尔哈撒韦B,Berkshire Hathaway Inc. New Common Stock,伯克希尔哈撒韦B|Berkshire Hathaway|伯克希尔|伯克希尔哈撒韦|BRK.B,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,BRK.A,伯克希尔哈撒韦A,Berkshire Hathaway Inc. Common Stock,伯克希尔哈撒韦A|Berkshire Hathaway|伯克希尔|伯克希尔哈撒韦|BRK.A,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,WMT,沃尔玛,Walmart Inc. - Common Stock,沃尔玛|Walmart|沃爾瑪|WMT,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,COST,好市多,Costco Wholesale Corporation - Common Stock,好市多|Costco|开市客|開市客|COST,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,KO,可口可乐,Coca-Cola Company (The) Common Stock,可口可乐|Coca-Cola|可口可樂|KO,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,PEP,百事公司,"PepsiCo, Inc. - Common Stock",百事公司|PepsiCo|百事可乐|百事可樂|PEP,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,MCD,麦当劳,McDonald's Corporation Common Stock,麦当劳|McDonald's|麥當勞|MCD,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,SBUX,星巴克,Starbucks Corporation - Common Stock,星巴克|Starbucks|SBUX,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,DIS,迪士尼,Walt Disney Company (The) Common Stock,迪士尼|Disney|DIS,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,NKE,耐克,"Nike, Inc. Common Stock",耐克|Nike|NKE,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,XOM,埃克森美孚,ExxonMobil Holdings Corporation Common Stock,埃克森美孚|Exxon Mobil|ExxonMobil|XOM,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,CVX,雪佛龙,Chevron Corporation Common Stock,雪佛龙|Chevron|雪佛龍|CVX,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,OXY,西方石油,Occidental Petroleum Corporation Common Stock,西方石油|Occidental|OXY,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,LLY,礼来,Eli Lilly and Company Common Stock,礼来|Eli Lilly|禮來|LLY,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,UNH,联合健康,UnitedHealth Group Incorporated Common Stock (DE),联合健康|UnitedHealth|聯合健康|UNH,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,JNJ,强生,Johnson & Johnson Common Stock,强生|Johnson & Johnson|強生|JNJ,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,PFE,辉瑞,"Pfizer, Inc. Common Stock",辉瑞|Pfizer|輝瑞|PFE,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,MRK,默沙东,"Merck & Company, Inc. Common Stock (new)",默沙东|Merck|默沙東|MRK,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,ABBV,艾伯维,AbbVie Inc. Common Stock,艾伯维|AbbVie|ABBV,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,BA,波音,Boeing Company (The) Common Stock,波音|Boeing|BA,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,GE,GE Aerospace,GE Aerospace Common Stock,GE Aerospace|通用电气|通用電氣|GE,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,CAT,卡特彼勒,"Caterpillar, Inc. Common Stock",卡特彼勒|Caterpillar|CAT,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,DE,迪尔,Deere & Company Common Stock,迪尔|Deere|John Deere|约翰迪尔|DE,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,LMT,洛克希德马丁,Lockheed Martin Corporation Common Stock,洛克希德马丁|Lockheed Martin|洛马|LMT,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,RTX,RTX,RTX Corporation Common Stock,RTX|雷神|雷神技术,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,F,福特,Ford Motor Company Common Stock,福特|Ford|F,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,GM,通用汽车,General Motors Company Common Stock,通用汽车|General Motors|通用汽車|GM,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,DELL,戴尔,Dell Technologies Inc. Class C Common Stock ,戴尔|Dell|戴爾|DELL,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,HPE,慧与,Hewlett Packard Enterprise Company Common Stock,慧与|Hewlett Packard Enterprise|慧與|HPE,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,HPQ,惠普,HP Inc. Common Stock,惠普|HP|HPQ,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,SPOT,Spotify,Spotify Technology S.A. Ordinary Shares,Spotify|SPOT,N,N,https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt,editorial_common_names,candidate_only
+US,APP,AppLovin,Applovin Corporation - Class A Common Stock,AppLovin|APP,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only
+US,DUOL,多邻国,"Duolingo, Inc. - Class A Common Stock",多邻国|Duolingo|多鄰國|DUOL,NASDAQ,N,https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt,editorial_common_names,candidate_only

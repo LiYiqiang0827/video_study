@@ -1,0 +1,106 @@
+{
+  "stage": "complete_20_of_20",
+  "files": [
+    {
+      "id": "1MqbfPaPO43BjXMhEBSWVgwxYj8_pqcjT",
+      "local_name": "00_从这里开始_20场阅读索引.txt",
+      "url": "https://drive.google.com/file/d/1MqbfPaPO43BjXMhEBSWVgwxYj8_pqcjT/view?usp=drivesdk",
+      "path": "D:\\YuncongVideoAnalysis\\ledger_2026_v0.1\\text_priority_batch_20261005\\00_从这里开始_20场阅读索引.txt",
+      "bytes": 7695,
+      "mime_type": "text/plain",
+      "success": true,
+      "accepted_input": "file_uri",
+      "title": "00_从这里开始_20场阅读索引.txt",
+      "parent_ids": [
+        "1g-iftms84Z0b5t4kHDSTOG9pzcJKP-UF"
+      ],
+      "modified_time": "2026-10-06T00:06:56.813Z",
+      "size": "7695",
+      "expected_bytes": 7695
+    },
+    {
+      "id": "1sFTvtF0OURtIMrrk13u2nsi4103JuSPD",
+      "local_name": "20场处理索引.csv",
+      "url": "https://drive.google.com/file/d/1sFTvtF0OURtIMrrk13u2nsi4103JuSPD/view?usp=drivesdk",
+      "path": "D:\\YuncongVideoAnalysis\\ledger_2026_v0.1\\text_priority_batch_20261005\\20场处理索引.csv",
+      "bytes": 5424,
+      "mime_type": "text/csv",
+      "success": true,
+      "accepted_input": "file_uri",
+      "title": "20场处理索引.csv",
+      "parent_ids": [
+        "1g-iftms84Z0b5t4kHDSTOG9pzcJKP-UF"
+      ],
+      "modified_time": "2026-10-06T00:06:59.315Z",
+      "size": "5424",
+      "expected_bytes": 5424
+    },
+    {
+      "id": "1oeNp6Tv5-57hydXd2jDH_yVBJ5CZB8dE",
+      "local_name": "待确认股票名称汇总.csv",
+      "url": "https://drive.google.com/file/d/1oeNp6Tv5-57hydXd2jDH_yVBJ5CZB8dE/view?usp=drivesdk",
+      "path": "D:\\YuncongVideoAnalysis\\ledger_2026_v0.1\\text_priority_batch_20261005\\待确认股票名称汇总.csv",
+      "bytes": 51804,
+      "mime_type": "text/csv",
+      "success": true,
+      "accepted_input": "file_uri",
+      "title": "待确认股票名称汇总.csv",
+      "parent_ids": [
+        "1g-iftms84Z0b5t4kHDSTOG9pzcJKP-UF"
+      ],
+      "modified_time": "2026-10-06T00:07:01.647Z",
+      "size": "51804",
+      "expected_bytes": 51804
+    },
+    {
+      "id": "1_NR2zxPjyrSG_-stjfSkBi838N6Jh88K",
+      "local_name": "当前进度_完成说明.txt",
+      "url": "https://drive.google.com/file/d/1_NR2zxPjyrSG_-stjfSkBi838N6Jh88K/view?usp=drivesdk",
+      "path": "D:\\YuncongVideoAnalysis\\ledger_2026_v0.1\\text_priority_batch_20261005\\当前进度_完成说明.txt",
+      "bytes": 740,
+      "mime_type": "text/plain",
+      "success": true,
+      "accepted_input": "file_uri",
+      "title": "当前进度_完成说明.txt",
+      "parent_ids": [
+        "1g-iftms84Z0b5t4kHDSTOG9pzcJKP-UF"
+      ],
+      "modified_time": "2026-10-06T00:07:04.080Z",
+      "size": "740",
+      "expected_bytes": 740
+    }
+  ],
+  "verified": true,
+  "verification": [
+    {
+      "id": "1MqbfPaPO43BjXMhEBSWVgwxYj8_pqcjT",
+      "name": "00_从这里开始_20场阅读索引.txt",
+      "expected_bytes": 7695,
+      "remote_bytes": "7695",
+      "verified": true
+    },
+    {
+      "id": "1sFTvtF0OURtIMrrk13u2nsi4103JuSPD",
+      "name": "20场处理索引.csv",
+      "expected_bytes": 5424,
+      "remote_bytes": "5424",
+      "verified": true
+    },
+    {
+      "id": "1oeNp6Tv5-57hydXd2jDH_yVBJ5CZB8dE",
+      "name": "待确认股票名称汇总.csv",
+      "expected_bytes": 51804,
+      "remote_bytes": "51804",
+      "verified": true
+    },
+    {
+      "id": "1_NR2zxPjyrSG_-stjfSkBi838N6Jh88K",
+      "name": "当前进度_完成说明.txt",
+      "expected_bytes": 740,
+      "remote_bytes": "740",
+      "verified": true
+    }
+  ],
+  "verified_utc": "2026-10-06T00:07:05.426Z",
+  "folder_url": "https://drive.google.com/drive/folders/1g-iftms84Z0b5t4kHDSTOG9pzcJKP-UF"
+}

@@ -1,0 +1,73 @@
+{
+  "status": "passed",
+  "scope": "controller arithmetic, source immutability, new integration and report consistency",
+  "weather_tests": 82,
+  "weather_subtests": 8,
+  "legacy_tests": 37,
+  "rows": 424,
+  "year_counts": {
+    "2025": 243,
+    "2026": 181
+  },
+  "manual_checks": {
+    "all": {
+      "k": 1950,
+      "n": 15322,
+      "prior": 0.12726798068137318,
+      "anchors_verified": true
+    },
+    "chain": {
+      "k": 773,
+      "n": 3521,
+      "prior": 0.21953990343652371,
+      "anchors_verified": true
+    },
+    "2026-08-31": {
+      "hit": 63.7799477151854,
+      "cont": 68.67560283553107,
+      "weather": "thunder"
+    }
+  },
+  "frozen_hashes": {
+    "docs/research/mkt_weather_v02_20261005/data/mkt_raw_daily.csv": "0c98dd4270a662948aeafe71b366243032c4207b4a1ac3baa71c96b0b44fb017",
+    "docs/research/mkt_weather_v02_20261005/data/mkt_daily.csv": "2dda56a1ccbe6fdc5b88326faacb91a0f5e4341c77760f3592a385416653c946",
+    "docs/research/mkt_weather_v02_20261005/data/mkt_calibration_v02.json": "cc3d0898686ced275740a3bb71eebd4b0002f6b7f754088663ebb712b8369a56",
+    "docs/research/mkt_weather_v02_20261005/data/market_calendar.csv": "510765d388c1fd7a26294e8b62fd47d393f47ab52dab95c61a3cc56dbfabd8f7",
+    "docs/research/mkt_weather_v02_20261005/human/li10/packets/cards.pdf": "b1665e17340c3536128b57fc7d0d81f47d5375b0721b3a7df1871ee1035b04a9",
+    "docs/research/mkt_weather_v02_20261005/human/li10/packets/Li_labels.csv": "065651d04a23295c49a89246b78e2650f2c20c990092b3c58ae5102ed2c2ccdf",
+    "docs/research/mkt_weather_v02_20261005/human/li10/private_key/threshold_revision_ledger.json": "7da0f6a49908c31662576864d61d9eeb0854a3f37e1969519f88280296453750",
+    "policyStudy/policy/market_sentiment/config/mkt_spec_v02.json": "5e9c555733b83d9644aa224de2a867fd655fbe795453a8259da0aae38a4344a3"
+  },
+  "repeat_output_hashes": {
+    "component_contributions.csv": "f454f32c9cfb51e67d6cf52484167e9d6966981cc4452d83672a16f4fb5db552",
+    "correlations.csv": "853f257e01228d247ad3179837d6e1702830b771c1a5fbf29d176392bfbae889",
+    "daily_explanations.csv": "bc96237da6af5e6d20d38f062eb23fdae3b8394b8ff18c6675192bb8e523d9f0",
+    "review_summary.json": "2eab2b44c97c0efcbe4ae6dec91d8f44a5560981e698327a43f309f957b35b11",
+    "threshold_changed_dates.csv": "7b69046ff17c5f2cd322eada8bfbc0bb31d8ecad81167a993bec738bdbb477bf",
+    "threshold_sensitivity.csv": "b60d9002f51a5214c40695ec17c0fa6816fe88ea756800b502c1b12fdc4327a3"
+  },
+  "integrated_explanations_exact": true,
+  "snapshot_all_scientific_columns_exact": true,
+  "explanation_prefix_lengths": [
+    1,
+    10,
+    212,
+    423
+  ],
+  "snapshot_today_receipt": {
+    "status": "latest_completed_snapshot",
+    "latest_completed_date": "2026-09-30",
+    "source_state": null,
+    "calibration_sha256": "cc3d0898686ced275740a3bb71eebd4b0002f6b7f754088663ebb712b8369a56",
+    "elapsed_seconds": 1.02228080003988,
+    "upstream_completion": null,
+    "receipt_attached": false,
+    "changed_historical_dates": [],
+    "row_count": 424,
+    "duplicates": 0,
+    "recompute_policy": "on upstream snapshot change recompute affected history and successors conservatively as full prefix; frozen calibration"
+  },
+  "report_numbers_verified": true,
+  "four_source_paper_methods_accepted_for_comparison": true,
+  "new_publication_requires_separate_remote_verification": true
+}

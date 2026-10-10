@@ -1,0 +1,302 @@
+{
+  "task_id": "MKT-R4-SOURCES",
+  "model_requested": "gpt-6.1-sol",
+  "effort": "xhigh",
+  "status": "completed_pending_primary_acceptance",
+  "generated_at": "2026-10-06T23:24:01Z",
+  "task_scope": "有界公开来源方法对照；只读指定配置，未改变代码、阈值、原库或凭据；不宣布最终接受。",
+  "input_snapshot": {
+    "config_path": "C:\\Project Rocket\\worktrees\\tradingagent-claude-mrwu-20261005\\policyStudy\\policy\\market_sentiment\\config\\mkt_spec_v02.json",
+    "sha256": "5E9C555733B83D9644AA224DE2A867FD655FBE795453A8259DA0AAE38A4344A3",
+    "method_version": "MKT-v0.2-20261005",
+    "calibration_year": 2025,
+    "pseudocount": 5,
+    "readings": {
+      "hit": {
+        "all_drop": 0.4,
+        "chain_drop": 0.35,
+        "ddens": 0.25
+      },
+      "cont": {
+        "m1raw": 0.4,
+        "ladder": 0.3,
+        "max_height": 0.3
+      },
+      "act": {
+        "log_ratio20": 0.4,
+        "advance_pct": 0.3,
+        "udens": 0.3
+      }
+    },
+    "weather_thresholds": {
+      "hit": 60,
+      "cont_hit_high": 40,
+      "cont_hit_low": 50,
+      "act": 35
+    },
+    "contextual_details_from_task": "2025固定P10/P90，同组先验a5；该分位数和先验组定义由主控任务提供，本文件只直接核对配置中的年份、pseudocount、权重、天气阈值。",
+    "acceptance": "主控独立验出处与实质判断"
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Investor Sentiment and the Cross-Section of Stock Returns",
+      "author": [
+        "Malcolm Baker",
+        "Jeffrey Wurgler"
+      ],
+      "published": "2006-08-03",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.2006.00885.x",
+      "accessed": "2026-10-07 Asia/Tokyo",
+      "source_type": "作者原始论文，Journal of Finance原发表平台",
+      "locator": "Section I.C Investor Sentiment；equations (2)-(3)；Table II",
+      "access_status": "success",
+      "method_facts": [
+        "以封闭式基金折价、NYSE换手率、IPO数量和首日收益、股权融资占比、股利溢价构成综合情绪代理。",
+        "标准化并用主成分提取共同变化；比较当期与滞后值；另构建剔除宏观周期成分的版本。",
+        "换手率用对数并相对过去五年均值去趋势。研究对象为美国低频情绪与横截面收益。"
+      ],
+      "similarities": [
+        "以多个可观测行为代理度量难直接观察的情绪；量能相对基准处理有概念相似处。"
+      ],
+      "differences": [
+        "不是A股日频连板生态，也不采用三维规则、P10/P90或天气分类；其PCA负载与当前人工权重不同。"
+      ],
+      "adoption_suggestion": [
+        "借鉴多代理、明示非情绪混杂因素及时间可见性；这是本任务推论，不代表作者支持项目具体实现。"
+      ],
+      "limits": [
+        "代理不是情绪真值；美国低频发现不能直接外推A股超短线，更不验证项目权重、阈值或a5。"
+      ]
+    },
+    {
+      "id": "S2",
+      "title": "证券市场投资者情绪指数构建研究",
+      "author": [
+        "杨旸",
+        "赵丽",
+        "上海证券交易所资本市场研究所"
+      ],
+      "published": "2019（上证研报2019 025号；所读原文未给具体月日）",
+      "url": "https://www.sse.com.cn/aboutus/research/report/c/10056610/files/2a3cc9eb887144759849e4287455e54b.pdf",
+      "accessed": "2026-10-07 Asia/Tokyo",
+      "source_type": "交易所官方网站原始研究报告",
+      "locator": "PDF第1页封面；第11-16页分解指标与合成方法；正文注1个人观点声明",
+      "access_status": "success_after_retry",
+      "method_facts": [
+        "从期权、股债、信用、股票强度、宽度及指数动量等八类代理出发；股价强度使用创新高、创新低股票数占比，动量使用沪深300相对125日均值。",
+        "各指标用前250日均值与标准差转为方向一致的z值，再用正态累积分布映射0-100。",
+        "先用市场收益的Granger检验筛选六个指标，再对打分做算术平均。"
+      ],
+      "similarities": [
+        "多市场观察、历史相对位置、0-100显示与项目有结构相似；广度与宽基指数分别观察。"
+      ],
+      "differences": [
+        "滚动z值/CDF不是2025固定P10/P90；收益筛选及等权不是项目三维预设权重；无连板晋级维度。"
+      ],
+      "adoption_suggestion": [
+        "保留全市场广度和指数表现的区分；解释0-100为代理读数。本任务建议仅借鉴表达与诊断，不移植其收益筛选。"
+      ],
+      "limits": [
+        "原文称仅代表研究人员个人观点；不能把交易所托管等同监管背书。Granger统计关系不是因果证明或对项目的验证。"
+      ]
+    },
+    {
+      "id": "S3",
+      "title": "日频投资者情绪对A股短线收益率的影响研究",
+      "author": [
+        "张淇玮",
+        "谢昌财",
+        "程同林"
+      ],
+      "published": "2024-04-03",
+      "url": "https://pdf.hanspub.org/orf2024142_51701452.pdf",
+      "accessed": "2026-10-07 Asia/Tokyo",
+      "source_type": "汉斯《运筹与模糊学》原发表论文，DOI 10.12677/orf.2024.142110",
+      "locator": "PDF第4-6页（正文44-46页）研究设计与指标定义",
+      "access_status": "success",
+      "method_facts": [
+        "2020-01-02至2023-05-12，共813日；九类输入包括跌涨停比、涨跌比、成交额/流通市值、破板率、昨日涨停/连板/破板表现、最高连续板及百度指数。",
+        "昨日三类表现为昨日对应股票今日收盘收益的算术平均；高度为截至当日最高连续涨停天数。",
+        "以当期/滞后输入和PCA合成单一指数；原文明确：高度仅提供空间，公告类高度不保证连板增多。"
+      ],
+      "similarities": [
+        "与项目昨日强势股反馈、最高板、量能、广度、涨跌停的输入最接近，且为A股日频。"
+      ],
+      "differences": [
+        "均值收益不是大跌尾部率；最高板不是分板晋级和梯队完整；成交额/市值不是20日相对量；PCA单分数不是三维天气。"
+      ],
+      "adoption_suggestion": [
+        "用最高板的公告类孤峰局限解释延续分项分歧；先报告高度、梯队、晋级各自变化。可把破板行为列为未来独立研究候选。"
+      ],
+      "limits": [
+        "方法相似仅支持候选代理具有可解释性。本任务未复现或核验其无泄漏前推；同期情绪与收益共享价格信息，不能当独立标签或移植系数。"
+      ]
+    },
+    {
+      "id": "S4",
+      "title": "A dynamic analysis of the relationship between investor sentiment and stock market realized volatility: Evidence from China",
+      "author": [
+        "Yanhui Chen",
+        "Hanhui Zhao",
+        "Ziyu Li",
+        "Jinrong Lu"
+      ],
+      "published": "2020-12-04",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243080",
+      "accessed": "2026-10-07 Asia/Tokyo",
+      "source_type": "PLOS ONE原发表实证论文",
+      "locator": "Construction of investor sentiment indicator；Two-step PCA；study period段落",
+      "access_status": "success",
+      "method_facts": [
+        "按中国市场选开户、换手、融资余额、主动净买入和百度关注五类初始代理；主动净买入随后被剔除。",
+        "研究期2013-01至2019-11；月频变量标准化、考虑一阶滞后，用两步PCA合成。",
+        "研究情绪与已实现波动率的时变先后关系；论文并未主张情绪始终领先波动。"
+      ],
+      "similarities": [
+        "市场交易活跃是可观测情绪代理；重视本地制度和数据可得性。"
+      ],
+      "differences": [
+        "月频广义参与情绪不是每日连板生态；方向与波动风险不是同一目标，也没有天气分类。"
+      ],
+      "adoption_suggestion": [
+        "保留活跃与挨打为不同维度；读数不应写成情绪永远领先或高活跃必然乐观。按发布时点处理任何后续外部变量。"
+      ],
+      "limits": [
+        "论文的IPO审批、开户和机构结构说明具有当时背景，不能当作2026制度事实；预测表现未在本项目复现。"
+      ]
+    },
+    {
+      "id": "S5",
+      "title": "Internet sentiment exacerbates intraday overtrading, evidence from A-Share market",
+      "author": [
+        "Peng Yifeng"
+      ],
+      "published": "2024-04-18首次提交；2024-07-12 v3",
+      "url": "https://arxiv.org/pdf/2404.12001",
+      "accessed": "2026-10-07 Asia/Tokyo",
+      "source_type": "作者arXiv原始预印本；未将其当作已核验同行评审结论",
+      "locator": "PDF第10-13页，3.1及3.3；摘要页https://arxiv.org/abs/2404.12001",
+      "access_status": "success",
+      "method_facts": [
+        "研究2018-2022论坛情绪与小时级过度交易；将股吧文本按词典打分并分时段聚合。",
+        "过滤机器人、异常/缺失发布时间与无效帖子；词典扩充及约5000帖验真均依赖人工标注。",
+        "结果变量是相对历史的超额换手活动，和项目天气标签不是同一对象。"
+      ],
+      "similarities": [
+        "把活动相对历史基准并区分样本；强调时间戳和数据清洗。"
+      ],
+      "differences": [
+        "文本语义与交易行为代理不同；依赖人工质量审核，不能因老师退出标注就宣称无成本替代。"
+      ],
+      "adoption_suggestion": [
+        "借鉴时间戳、无效记录和覆盖检查；不在本轮引入文本情绪分类。"
+      ],
+      "limits": [
+        "正文3.1混用CSI300/CSI500与Hang Seng China Enterprises名称，与摘要口径不一致；本任务不能静默纠正。预印本及未复现统计不用于背书项目。"
+      ]
+    }
+  ],
+  "recommended_changes": [
+    {
+      "id": "R1",
+      "type": "documentation_and_reporting",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "suggestion": "称三维为基于交易行为的情绪代理读数。无人工真值时，验收目标改为数据正确、结构解释、跨期稳定与预先定义的外部行为一致性；不要把规则标签自洽说成情绪真值准确率。",
+      "interpretation": "Codex方法判断，不是文献直接给出的项目验收标准。"
+    },
+    {
+      "id": "R2",
+      "type": "reporting_only",
+      "source_ids": [
+        "S3",
+        "S4"
+      ],
+      "suggestion": "保留挨打、延续、活跃，解释高活跃与高挨打可以并存；展示分项及原始分母，让读者看见局部连板与全市场广度的差异。",
+      "interpretation": "不改当前权重或天气边界。"
+    },
+    {
+      "id": "R3",
+      "type": "diagnostic_only",
+      "source_ids": [
+        "S3"
+      ],
+      "suggestion": "最高板高而晋级/梯队弱时，说明高度并未代表普遍延续；涉及公告驱动时只能用已可见证据注明，不凭模型猜测公告因果。",
+      "interpretation": "先利用现有分项说明，不新增硬阈值。"
+    },
+    {
+      "id": "R4",
+      "type": "deterministic_validation",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S4",
+        "S5"
+      ],
+      "suggestion": "报告每日报告时点、数据覆盖、原始计数、分母、空组与小组及先验影响；用冻结参数的时间顺序检验，任何后续修改建立独立版本。",
+      "interpretation": "原始计数及a5披露为本项目工程建议；这些来源没有证明a5最优。"
+    },
+    {
+      "id": "R5",
+      "type": "calibration_diagnostics",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "suggestion": "检查2025固定P10/P90在后续年份的饱和率、缺失率与分项分布漂移，仅做诊断；先完成当前冻结版验收。",
+      "interpretation": "没有来源直接支持项目的P10/P90选择，不能据此自动重标或优化收益。"
+    }
+  ],
+  "not_recommended": [
+    "凭原论文显著性、收益关系或历史图形更改当前权重、阈值、P10/P90或a5。",
+    "全样本PCA、未来可见数据或收益筛选后再将历史得分包装为无泄漏前推。",
+    "把0-100或五类天气解释为经校准的投资者心理概率或涨跌概率。",
+    "用财经转载、论坛数据转卖或券商报告镜像作为已复现实证的替代。",
+    "把文本模型输出替代人类真值，再以另一个模型一致率证明正确；本轮不增加需要人工维护的NLP路径。"
+  ],
+  "checks": {
+    "source_count": 5,
+    "china_specific_source_count": 4,
+    "actual_opened_sources": [
+      "S1",
+      "S2",
+      "S3",
+      "S4",
+      "S5"
+    ],
+    "all_admitted_sources_are_original_material": true,
+    "financial_repost_as_empirical_evidence": false,
+    "all_fact_inference_separated": true,
+    "config_read_and_hashed": true,
+    "local_strategy_returns_or_parameter_tuning_read": false,
+    "repo_code_or_config_modified": false,
+    "databases_or_credentials_modified": false,
+    "submitted_or_pushed": false,
+    "final_acceptance_claimed": false,
+    "output_contract": "JSON字段齐全；只允许主控独立复核后接受"
+  },
+  "known_issues": [
+    {
+      "url": "https://www.sse.com.cn/aboutus/research/report/c/10056610/files/2a3cc9eb887144759849e4287455e54b.pdf",
+      "issue": "首次HTTPS及目录入口返回Internal Error；用HTTP入口重定向同一HTTPS后成功打开30页全文，失败不影响此处已核对的方法。"
+    },
+    {
+      "url": "https://www.sciengine.com/doi/pdf/1A873BCEF04B44FFA8666C5F11350B74",
+      "issue": "打开失败，只有检索摘要；未收入sources，也未从摘要采纳实证事实。"
+    },
+    {
+      "url": "https://www.szse.cn/aboutus/research/secuities/documents/P020180328491862275177.pdf",
+      "issue": "打开失败；未收入sources。"
+    },
+    {
+      "url": "https://arxiv.org/html/2404.12001v1",
+      "issue": "HTML入口失败；作者摘要页及v3 PDF均成功打开。"
+    },
+    "未对任何来源做数据复现；文献只提供代理设计和局限证据，未验证本项目的天气准确率或投资表现。",
+    "current model为主控指定的原生gpt-6.1-sol/xhigh任务；没有调用Hermes或替代提供商。"
+  ]
+}

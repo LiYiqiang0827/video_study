@@ -1,0 +1,888 @@
+{
+  "begin": 3600.0,
+  "finish": 3900.0,
+  "segments": [
+    {
+      "start": 3599.26,
+      "end": 3602.3,
+      "text": "这个反正这个看你自己了",
+      "avg_logprob": -0.1257,
+      "no_speech_prob": 0.6167,
+      "review": true
+    },
+    {
+      "start": 3602.3,
+      "end": 3605.48,
+      "text": "一要今天他进的资金比较少一点2400万",
+      "avg_logprob": -0.1257,
+      "no_speech_prob": 0.6167,
+      "review": true
+    },
+    {
+      "start": 3605.48,
+      "end": 3607.62,
+      "text": "反正一要今天我就做了这几个",
+      "avg_logprob": -0.1257,
+      "no_speech_prob": 0.6167,
+      "review": true
+    },
+    {
+      "start": 3607.62,
+      "end": 3609.7,
+      "text": "我就做了这几个凯莱因、永安",
+      "avg_logprob": -0.1257,
+      "no_speech_prob": 0.6167,
+      "review": true
+    },
+    {
+      "start": 3609.7,
+      "end": 3611.28,
+      "text": "永安现在还没上去",
+      "avg_logprob": -0.1257,
+      "no_speech_prob": 0.6167,
+      "review": true
+    },
+    {
+      "start": 3611.28,
+      "end": 3613.28,
+      "text": "永安这个位置今天还没上去",
+      "avg_logprob": -0.1257,
+      "no_speech_prob": 0.6167,
+      "review": true
+    },
+    {
+      "start": 3613.28,
+      "end": 3616.48,
+      "text": "但是今天你看主力资金还是在进的",
+      "avg_logprob": -0.1257,
+      "no_speech_prob": 0.6167,
+      "review": true
+    },
+    {
+      "start": 3616.48,
+      "end": 3621.48,
+      "text": "他我相信可能到到了11点到中午",
+      "avg_logprob": -0.1257,
+      "no_speech_prob": 0.6167,
+      "review": true
+    },
+    {
+      "start": 3621.48,
+      "end": 3623.82,
+      "text": "慢慢的把这段时间洗盘洗完了",
+      "avg_logprob": -0.1257,
+      "no_speech_prob": 0.6167,
+      "review": true
+    },
+    {
+      "start": 3623.82,
+      "end": 3627.3,
+      "text": "这个位置我可以说百分之百的是洗盘",
+      "avg_logprob": -0.1257,
+      "no_speech_prob": 0.6167,
+      "review": true
+    },
+    {
+      "start": 3627.3,
+      "end": 3629.02,
+      "text": "根本不是可能出货",
+      "avg_logprob": -0.1196,
+      "no_speech_prob": 0.3125,
+      "review": false
+    },
+    {
+      "start": 3629.02,
+      "end": 3630.6,
+      "text": "它资金从这开始进",
+      "avg_logprob": -0.1196,
+      "no_speech_prob": 0.3125,
+      "review": false
+    },
+    {
+      "start": 3630.6,
+      "end": 3632.08,
+      "text": "11块开始进",
+      "avg_logprob": -0.1196,
+      "no_speech_prob": 0.3125,
+      "review": false
+    },
+    {
+      "start": 3632.08,
+      "end": 3633.34,
+      "text": "资金在这开始拉",
+      "avg_logprob": -0.1196,
+      "no_speech_prob": 0.3125,
+      "review": false
+    },
+    {
+      "start": 3633.34,
+      "end": 3635.04,
+      "text": "资金在这开始震荡",
+      "avg_logprob": -0.1196,
+      "no_speech_prob": 0.3125,
+      "review": false
+    },
+    {
+      "start": 3635.04,
+      "end": 3636.58,
+      "text": "这一点点",
+      "avg_logprob": -0.1196,
+      "no_speech_prob": 0.3125,
+      "review": false
+    },
+    {
+      "start": 3636.58,
+      "end": 3638.34,
+      "text": "如果你要做庄的话",
+      "avg_logprob": -0.1196,
+      "no_speech_prob": 0.3125,
+      "review": false
+    },
+    {
+      "start": 3638.34,
+      "end": 3641.44,
+      "text": "不能把一个股票拉70% 60%",
+      "avg_logprob": -0.1196,
+      "no_speech_prob": 0.3125,
+      "review": false
+    },
+    {
+      "start": 3641.44,
+      "end": 3643.36,
+      "text": "你做庄一定是亏钱的",
+      "avg_logprob": -0.1196,
+      "no_speech_prob": 0.3125,
+      "review": false
+    },
+    {
+      "start": 3643.36,
+      "end": 3644.2,
+      "text": "一定是亏钱的",
+      "avg_logprob": -0.1196,
+      "no_speech_prob": 0.3125,
+      "review": false
+    },
+    {
+      "start": 3644.2,
+      "end": 3645.44,
+      "text": "因为你做庄一般的做庄",
+      "avg_logprob": -0.1196,
+      "no_speech_prob": 0.3125,
+      "review": false
+    },
+    {
+      "start": 3645.44,
+      "end": 3646.36,
+      "text": "它的目标是两倍",
+      "avg_logprob": -0.1196,
+      "no_speech_prob": 0.3125,
+      "review": false
+    },
+    {
+      "start": 3646.36,
+      "end": 3646.98,
+      "text": "一倍",
+      "avg_logprob": -0.1196,
+      "no_speech_prob": 0.3125,
+      "review": false
+    },
+    {
+      "start": 3646.98,
+      "end": 3648.34,
+      "text": "如果行情允许的话两倍",
+      "avg_logprob": -0.1196,
+      "no_speech_prob": 0.3125,
+      "review": false
+    },
+    {
+      "start": 3648.34,
+      "end": 3649.5,
+      "text": "行情不允许的话",
+      "avg_logprob": -0.1196,
+      "no_speech_prob": 0.3125,
+      "review": false
+    },
+    {
+      "start": 3649.5,
+      "end": 3650.62,
+      "text": "争取能够拉到一倍",
+      "avg_logprob": -0.1196,
+      "no_speech_prob": 0.3125,
+      "review": false
+    },
+    {
+      "start": 3650.62,
+      "end": 3652.16,
+      "text": "它要拉个70% 80%",
+      "avg_logprob": -0.1196,
+      "no_speech_prob": 0.3125,
+      "review": false
+    },
+    {
+      "start": 3652.16,
+      "end": 3653.12,
+      "text": "它才能够赚一些钱",
+      "avg_logprob": -0.1196,
+      "no_speech_prob": 0.3125,
+      "review": false
+    },
+    {
+      "start": 3653.12,
+      "end": 3654.34,
+      "text": "因为它做庄有很多成本",
+      "avg_logprob": -0.1196,
+      "no_speech_prob": 0.3125,
+      "review": false
+    },
+    {
+      "start": 3654.34,
+      "end": 3655.66,
+      "text": "你在这才涨个百",
+      "avg_logprob": -0.1196,
+      "no_speech_prob": 0.3125,
+      "review": false
+    },
+    {
+      "start": 3655.66,
+      "end": 3656.8,
+      "text": "涨了百分之",
+      "avg_logprob": -0.1041,
+      "no_speech_prob": 0.303,
+      "review": false
+    },
+    {
+      "start": 3656.8,
+      "end": 3657.98,
+      "text": "这一天资金进",
+      "avg_logprob": -0.1041,
+      "no_speech_prob": 0.303,
+      "review": false
+    },
+    {
+      "start": 3657.98,
+      "end": 3659.02,
+      "text": "这一天涨了百分之十",
+      "avg_logprob": -0.1041,
+      "no_speech_prob": 0.303,
+      "review": false
+    },
+    {
+      "start": 3659.02,
+      "end": 3660.78,
+      "text": "它资金肯定是不会走的",
+      "avg_logprob": -0.1041,
+      "no_speech_prob": 0.303,
+      "review": false
+    },
+    {
+      "start": 3660.78,
+      "end": 3662.3,
+      "text": "它就看这么一点点",
+      "avg_logprob": -0.1041,
+      "no_speech_prob": 0.303,
+      "review": false
+    },
+    {
+      "start": 3662.3,
+      "end": 3663.2,
+      "text": "那是不太可能的",
+      "avg_logprob": -0.1041,
+      "no_speech_prob": 0.303,
+      "review": false
+    },
+    {
+      "start": 3663.2,
+      "end": 3665.28,
+      "text": "所以这两天震荡是正常的",
+      "avg_logprob": -0.1041,
+      "no_speech_prob": 0.303,
+      "review": false
+    },
+    {
+      "start": 3665.28,
+      "end": 3666.44,
+      "text": "大家不要太担心",
+      "avg_logprob": -0.1041,
+      "no_speech_prob": 0.303,
+      "review": false
+    },
+    {
+      "start": 3666.44,
+      "end": 3667.86,
+      "text": "这个震荡是正常的",
+      "avg_logprob": -0.1041,
+      "no_speech_prob": 0.303,
+      "review": false
+    },
+    {
+      "start": 3667.86,
+      "end": 3669.92,
+      "text": "你这个位置进去",
+      "avg_logprob": -0.1041,
+      "no_speech_prob": 0.303,
+      "review": false
+    },
+    {
+      "start": 3669.92,
+      "end": 3670.34,
+      "text": "我认为",
+      "avg_logprob": -0.1041,
+      "no_speech_prob": 0.303,
+      "review": false
+    },
+    {
+      "start": 3670.34,
+      "end": 3673.0,
+      "text": "除非它出现重",
+      "avg_logprob": -0.1041,
+      "no_speech_prob": 0.303,
+      "review": false
+    },
+    {
+      "start": 3673.0,
+      "end": 3674.7,
+      "text": "这就是为什么我们不能重藏",
+      "avg_logprob": -0.1041,
+      "no_speech_prob": 0.303,
+      "review": false
+    },
+    {
+      "start": 3674.7,
+      "end": 3676.12,
+      "text": "有些股票",
+      "avg_logprob": -0.1041,
+      "no_speech_prob": 0.303,
+      "review": false
+    },
+    {
+      "start": 3676.12,
+      "end": 3679.18,
+      "text": "它可能盘后给你公布一些利空",
+      "avg_logprob": -0.1041,
+      "no_speech_prob": 0.303,
+      "review": false
+    },
+    {
+      "start": 3679.18,
+      "end": 3681.22,
+      "text": "它这个可能就是骗你进去的",
+      "avg_logprob": -0.1041,
+      "no_speech_prob": 0.303,
+      "review": false
+    },
+    {
+      "start": 3681.22,
+      "end": 3683.12,
+      "text": "这个我们没办法避免",
+      "avg_logprob": -0.1041,
+      "no_speech_prob": 0.303,
+      "review": false
+    },
+    {
+      "start": 3683.12,
+      "end": 3684.16,
+      "text": "因为我们开盘的时候",
+      "avg_logprob": -0.1041,
+      "no_speech_prob": 0.303,
+      "review": false
+    },
+    {
+      "start": 3684.16,
+      "end": 3685.12,
+      "text": "在这里面我们不知道",
+      "avg_logprob": -0.1041,
+      "no_speech_prob": 0.303,
+      "review": false
+    },
+    {
+      "start": 3685.12,
+      "end": 3686.84,
+      "text": "它是盘后跟你说利空的",
+      "avg_logprob": -0.1342,
+      "no_speech_prob": 0.3726,
+      "review": false
+    },
+    {
+      "start": 3686.84,
+      "end": 3688.1,
+      "text": "我跟大家说一下",
+      "avg_logprob": -0.1342,
+      "no_speech_prob": 0.3726,
+      "review": false
+    },
+    {
+      "start": 3688.1,
+      "end": 3689.32,
+      "text": "盘后才跟你说利空",
+      "avg_logprob": -0.1342,
+      "no_speech_prob": 0.3726,
+      "review": false
+    },
+    {
+      "start": 3689.32,
+      "end": 3691.06,
+      "text": "所以你盘中该进还是进",
+      "avg_logprob": -0.1342,
+      "no_speech_prob": 0.3726,
+      "review": false
+    },
+    {
+      "start": 3691.06,
+      "end": 3692.72,
+      "text": "只是你把仓位控制好就行了",
+      "avg_logprob": -0.1342,
+      "no_speech_prob": 0.3726,
+      "review": false
+    },
+    {
+      "start": 3692.72,
+      "end": 3694.14,
+      "text": "仓位控制好",
+      "avg_logprob": -0.1342,
+      "no_speech_prob": 0.3726,
+      "review": false
+    },
+    {
+      "start": 3694.14,
+      "end": 3702.37,
+      "text": "凯莱因走的还是比较稳的",
+      "avg_logprob": -0.1342,
+      "no_speech_prob": 0.3726,
+      "review": false
+    },
+    {
+      "start": 3702.37,
+      "end": 3704.93,
+      "text": "凯莱因刚才我不知道你们有没有买",
+      "avg_logprob": -0.1342,
+      "no_speech_prob": 0.3726,
+      "review": false
+    },
+    {
+      "start": 3704.93,
+      "end": 3705.99,
+      "text": "我还是买了一点点",
+      "avg_logprob": -0.1342,
+      "no_speech_prob": 0.3726,
+      "review": false
+    },
+    {
+      "start": 3705.99,
+      "end": 3707.63,
+      "text": "当然已经涨了67%了",
+      "avg_logprob": -0.1342,
+      "no_speech_prob": 0.3726,
+      "review": false
+    },
+    {
+      "start": 3707.63,
+      "end": 3708.21,
+      "text": "我胆子比较大",
+      "avg_logprob": -0.1342,
+      "no_speech_prob": 0.3726,
+      "review": false
+    },
+    {
+      "start": 3708.21,
+      "end": 3709.41,
+      "text": "还是买了一点点",
+      "avg_logprob": -0.1342,
+      "no_speech_prob": 0.3726,
+      "review": false
+    },
+    {
+      "start": 3709.41,
+      "end": 3711.65,
+      "text": "因为这个公司我一直看好",
+      "avg_logprob": -0.1342,
+      "no_speech_prob": 0.3726,
+      "review": false
+    },
+    {
+      "start": 3711.65,
+      "end": 3713.77,
+      "text": "上次我记得我凯莱因在这个位置",
+      "avg_logprob": -0.1342,
+      "no_speech_prob": 0.3726,
+      "review": false
+    },
+    {
+      "start": 3713.77,
+      "end": 3714.25,
+      "text": "我就准备买",
+      "avg_logprob": -0.1342,
+      "no_speech_prob": 0.3726,
+      "review": false
+    },
+    {
+      "start": 3714.25,
+      "end": 3714.75,
+      "text": "记得没有",
+      "avg_logprob": -0.1342,
+      "no_speech_prob": 0.3726,
+      "review": false
+    },
+    {
+      "start": 3714.75,
+      "end": 3715.51,
+      "text": "就排过队",
+      "avg_logprob": -0.1342,
+      "no_speech_prob": 0.3726,
+      "review": false
+    },
+    {
+      "start": 3715.51,
+      "end": 3716.61,
+      "text": "你们想记得没有",
+      "avg_logprob": -0.1342,
+      "no_speech_prob": 0.3726,
+      "review": false
+    },
+    {
+      "start": 3716.61,
+      "end": 3718.09,
+      "text": "当时我就说我排队凯莱因了",
+      "avg_logprob": -0.1342,
+      "no_speech_prob": 0.3726,
+      "review": false
+    },
+    {
+      "start": 3718.09,
+      "end": 3719.37,
+      "text": "只不过没买到",
+      "avg_logprob": -0.1342,
+      "no_speech_prob": 0.3726,
+      "review": false
+    },
+    {
+      "start": 3719.37,
+      "end": 3720.47,
+      "text": "第二天呢",
+      "avg_logprob": -0.1342,
+      "no_speech_prob": 0.3726,
+      "review": false
+    },
+    {
+      "start": 3720.47,
+      "end": 3721.49,
+      "text": "它又没有高开",
+      "avg_logprob": -0.1342,
+      "no_speech_prob": 0.3726,
+      "review": false
+    },
+    {
+      "start": 3721.49,
+      "end": 3770.04,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0774,
+      "no_speech_prob": 0.895,
+      "review": true
+    },
+    {
+      "start": 3770.06,
+      "end": 3772.64,
+      "text": "他的疯死了之后加仓之后再走再说",
+      "avg_logprob": -0.1744,
+      "no_speech_prob": 0.9829,
+      "review": true
+    },
+    {
+      "start": 3772.64,
+      "end": 3777.09,
+      "text": "哎呦他这个马上涨停了",
+      "avg_logprob": -0.1744,
+      "no_speech_prob": 0.9829,
+      "review": true
+    },
+    {
+      "start": 3777.09,
+      "end": 3783.04,
+      "text": "9点83嘛",
+      "avg_logprob": -0.1744,
+      "no_speech_prob": 0.9829,
+      "review": true
+    },
+    {
+      "start": 3783.04,
+      "end": 3797.1,
+      "text": "这玩意就怕他就怕他等会不涨停",
+      "avg_logprob": -0.1744,
+      "no_speech_prob": 0.9829,
+      "review": true
+    },
+    {
+      "start": 3797.1,
+      "end": 3798.78,
+      "text": "给你拿个假动作",
+      "avg_logprob": -0.1744,
+      "no_speech_prob": 0.9829,
+      "review": true
+    },
+    {
+      "start": 3798.78,
+      "end": 3802.28,
+      "text": "但是今天因为今天整个来说整个气势还是在",
+      "avg_logprob": -0.1744,
+      "no_speech_prob": 0.9829,
+      "review": true
+    },
+    {
+      "start": 3802.28,
+      "end": 3803.94,
+      "text": "整个医药的气势全部在",
+      "avg_logprob": -0.1744,
+      "no_speech_prob": 0.9829,
+      "review": true
+    },
+    {
+      "start": 3803.94,
+      "end": 3805.98,
+      "text": "所以大概率还是会涨停",
+      "avg_logprob": -0.1744,
+      "no_speech_prob": 0.9829,
+      "review": true
+    },
+    {
+      "start": 3805.98,
+      "end": 3807.36,
+      "text": "我相信还是会涨停",
+      "avg_logprob": -0.1744,
+      "no_speech_prob": 0.9829,
+      "review": true
+    },
+    {
+      "start": 3807.36,
+      "end": 3814.6,
+      "text": "涨停了",
+      "avg_logprob": -0.1744,
+      "no_speech_prob": 0.9829,
+      "review": true
+    },
+    {
+      "start": 3814.6,
+      "end": 3817.29,
+      "text": "一口气涨停了",
+      "avg_logprob": -0.1744,
+      "no_speech_prob": 0.9829,
+      "review": true
+    },
+    {
+      "start": 3817.29,
+      "end": 3829.24,
+      "text": "现在就剩这个我们的永安药业了",
+      "avg_logprob": -0.1744,
+      "no_speech_prob": 0.9829,
+      "review": true
+    },
+    {
+      "start": 3829.24,
+      "end": 3830.86,
+      "text": "等会看看他能不能有一个好结果",
+      "avg_logprob": -0.1744,
+      "no_speech_prob": 0.9829,
+      "review": true
+    },
+    {
+      "start": 3830.86,
+      "end": 3831.98,
+      "text": "凯莱因涨停了",
+      "avg_logprob": -0.1744,
+      "no_speech_prob": 0.9829,
+      "review": true
+    },
+    {
+      "start": 3832.14,
+      "end": 3838.64,
+      "text": "希望我们的永安要劣有一个好战绩吧",
+      "avg_logprob": -0.1565,
+      "no_speech_prob": 0.1265,
+      "review": false
+    },
+    {
+      "start": 3838.64,
+      "end": 3853.49,
+      "text": "现在其他的不要买",
+      "avg_logprob": -0.1565,
+      "no_speech_prob": 0.1265,
+      "review": false
+    },
+    {
+      "start": 3853.49,
+      "end": 3854.49,
+      "text": "其他的不要买了",
+      "avg_logprob": -0.1565,
+      "no_speech_prob": 0.1265,
+      "review": false
+    },
+    {
+      "start": 3854.49,
+      "end": 3856.49,
+      "text": "因为现在10点",
+      "avg_logprob": -0.1565,
+      "no_speech_prob": 0.1265,
+      "review": false
+    },
+    {
+      "start": 3856.49,
+      "end": 3859.75,
+      "text": "现在在10点到11点之间是最危险的",
+      "avg_logprob": -0.1565,
+      "no_speech_prob": 0.1265,
+      "review": false
+    },
+    {
+      "start": 3859.75,
+      "end": 3862.27,
+      "text": "好多股票都要都要做假打",
+      "avg_logprob": -0.1565,
+      "no_speech_prob": 0.1265,
+      "review": false
+    },
+    {
+      "start": 3862.27,
+      "end": 3864.11,
+      "text": "都要拉高骗人了",
+      "avg_logprob": -0.1565,
+      "no_speech_prob": 0.1265,
+      "review": false
+    },
+    {
+      "start": 3864.11,
+      "end": 3865.89,
+      "text": "这个时候不要去追高了",
+      "avg_logprob": -0.1565,
+      "no_speech_prob": 0.1265,
+      "review": false
+    },
+    {
+      "start": 3865.89,
+      "end": 3868.88,
+      "text": "他是因为今天题材都在医药这边吗",
+      "avg_logprob": -0.1565,
+      "no_speech_prob": 0.1265,
+      "review": false
+    },
+    {
+      "start": 3868.88,
+      "end": 3869.88,
+      "text": "今天医药都很强",
+      "avg_logprob": -0.1565,
+      "no_speech_prob": 0.1265,
+      "review": false
+    },
+    {
+      "start": 3869.88,
+      "end": 3870.42,
+      "text": "所以敢买",
+      "avg_logprob": -0.1565,
+      "no_speech_prob": 0.1265,
+      "review": false
+    },
+    {
+      "start": 3870.42,
+      "end": 3878.32,
+      "text": "如果今天不强的话绝对不敢买",
+      "avg_logprob": -0.1565,
+      "no_speech_prob": 0.1265,
+      "review": false
+    },
+    {
+      "start": 3878.32,
+      "end": 3879.2,
+      "text": "医药神州算了",
+      "avg_logprob": -0.1565,
+      "no_speech_prob": 0.1265,
+      "review": false
+    },
+    {
+      "start": 3879.2,
+      "end": 3880.28,
+      "text": "我实在不敢买了",
+      "avg_logprob": -0.1565,
+      "no_speech_prob": 0.1265,
+      "review": false
+    },
+    {
+      "start": 3880.28,
+      "end": 3881.0,
+      "text": "我不敢买了",
+      "avg_logprob": -0.1565,
+      "no_speech_prob": 0.1265,
+      "review": false
+    },
+    {
+      "start": 3881.0,
+      "end": 3882.16,
+      "text": "你们要有人敢买",
+      "avg_logprob": -0.1565,
+      "no_speech_prob": 0.1265,
+      "review": false
+    },
+    {
+      "start": 3882.16,
+      "end": 3882.92,
+      "text": "我不敢买了",
+      "avg_logprob": -0.1565,
+      "no_speech_prob": 0.1265,
+      "review": false
+    },
+    {
+      "start": 3882.92,
+      "end": 3885.74,
+      "text": "今天我手里有凯莱因就不错了",
+      "avg_logprob": -0.2727,
+      "no_speech_prob": 0.7305,
+      "review": true
+    },
+    {
+      "start": 3885.74,
+      "end": 3886.6,
+      "text": "有凯莱因",
+      "avg_logprob": -0.2727,
+      "no_speech_prob": 0.7305,
+      "review": true
+    },
+    {
+      "start": 3886.6,
+      "end": 3889.58,
+      "text": "然后有康罗化成",
+      "avg_logprob": -0.2727,
+      "no_speech_prob": 0.7305,
+      "review": true
+    },
+    {
+      "start": 3889.58,
+      "end": 3890.68,
+      "text": "足够了",
+      "avg_logprob": -0.2727,
+      "no_speech_prob": 0.7305,
+      "review": true
+    },
+    {
+      "start": 3890.68,
+      "end": 3895.52,
+      "text": "我今天就不去买其他的了",
+      "avg_logprob": -0.2727,
+      "no_speech_prob": 0.7305,
+      "review": true
+    },
+    {
+      "start": 3895.52,
+      "end": 3898.38,
+      "text": "足够了",
+      "avg_logprob": -0.2727,
+      "no_speech_prob": 0.7305,
+      "review": true
+    },
+    {
+      "start": 3898.38,
+      "end": 3899.76,
+      "text": "这是哪里的",
+      "avg_logprob": -0.2727,
+      "no_speech_prob": 0.7305,
+      "review": true
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 26.74
+}

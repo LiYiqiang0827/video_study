@@ -1,0 +1,99 @@
+{
+  "version": "v0.1",
+  "prepared_for_client_date": "2026-10-04",
+  "created_utc": "2026-10-04T08:01:46.630947+00:00",
+  "state": "used_in_single_text_pilot",
+  "a_share_source": {
+    "api": "coreClient.data_provider.get_basic",
+    "mode": "database_only",
+    "database": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\db_cn_basic.db",
+    "snapshot_times": [
+      "2026-09-17T23:42:12"
+    ],
+    "rows": 5565,
+    "read_only": true,
+    "source_size_and_mtime_unchanged": true
+  },
+  "us_sources": [
+    {
+      "url": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt",
+      "file_creation_time": "File Creation Time: 1002202621:31",
+      "bytes": 349780,
+      "sha256": "171f3d1a4ef7f6d5ebc2c8e64e77e02bcb661a7573b5f1ff0ff182cf68ca0ccd"
+    },
+    {
+      "url": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt",
+      "file_creation_time": "File Creation Time: 1002202621:31",
+      "bytes": 542961,
+      "sha256": "858406d16b357c83a02d6c63b8b7a3ee21bde53b85c3a29d7b85d28cdcf07bec"
+    }
+  ],
+  "common_us_stocks": 94,
+  "common_us_etfs": 10,
+  "alias_keys": 32924,
+  "ambiguous_alias_keys": 634,
+  "short_hint_names": 20,
+  "video_transcription_started": true,
+  "shared_asr_configuration_changed": false,
+  "validation": {
+    "a_share_codes_unique": true,
+    "a_share_names_nonempty": true,
+    "all_us_tickers_verified": true,
+    "us_security_types_verified": true,
+    "tesla_tsmc_present": true,
+    "ambiguous_names_preserved": true
+  },
+  "files": {
+    "a_share_names.csv": {
+      "bytes": 886659,
+      "sha256": "edf3405a3ba9516b5e1801252fdd06c72529f3e99a93ea74d49562f5ea43c120"
+    },
+    "a_share_names.txt": {
+      "bytes": 74990,
+      "sha256": "0e6cee791455dcce2325f10846a25ab3069184b3b2fd1db874a512e6f534c705"
+    },
+    "alias_index.json": {
+      "bytes": 5671631,
+      "sha256": "eba014214c4524cb838245a4ed3d63b121795f966ba3ca70effc1805fdd3b544"
+    },
+    "ambiguous_aliases.json": {
+      "bytes": 228154,
+      "sha256": "9e90522e847bc4fd4086089cd94162bb6972e34605eca568c9c581fab9ecb774"
+    },
+    "asr_hotwords_short.txt": {
+      "bytes": 234,
+      "sha256": "bb7209225833d3c42da25ea3207ea1644b1cd3fe53578bee44fc34c07b7c4bd4"
+    },
+    "sources\\nasdaqlisted.txt": {
+      "bytes": 349780,
+      "sha256": "171f3d1a4ef7f6d5ebc2c8e64e77e02bcb661a7573b5f1ff0ff182cf68ca0ccd"
+    },
+    "sources\\otherlisted.txt": {
+      "bytes": 542961,
+      "sha256": "858406d16b357c83a02d6c63b8b7a3ee21bde53b85c3a29d7b85d28cdcf07bec"
+    },
+    "us_common_names.csv": {
+      "bytes": 18637,
+      "sha256": "9293d78937d7a9e6c2eb584a68506eec5e406ab21bcc16dc20d02ff5210d99b1"
+    },
+    "us_etf_names.csv": {
+      "bytes": 2054,
+      "sha256": "cd077b70a0cf99f1c802cdc17c02e7484f340572b71bc805445d9529d73cf541"
+    },
+    "使用说明.txt": {
+      "bytes": 1930,
+      "sha256": "9dec2b859be4f6c01c4cfe6e51bab5799c0ed08f5574674d9537409956fd1c10"
+    },
+    "转写名称校正经验.json": {
+      "bytes": 602963,
+      "sha256": "698be4f75e51a50dd905efc3b5d6293d80781c995b47f326bd7687d00fb67836"
+    }
+  },
+  "usage": {
+    "single_stream_id": "-9HY0rxruC0",
+    "task_local_hotwords_connected": true,
+    "shared_asr_configuration_changed": false,
+    "name_correction_overlay_entries": 1272,
+    "updated_utc": "2026-10-04T09:16:00.326907+00:00"
+  }
+}

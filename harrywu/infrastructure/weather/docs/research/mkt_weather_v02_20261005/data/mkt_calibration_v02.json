@@ -1,0 +1,118 @@
+{
+  "version": "MKT-v0.2-2025-a5-v1",
+  "calibration_year": 2025,
+  "calibration_days": 243,
+  "pseudocount": 5,
+  "quantile_method": "linear",
+  "constant_anchor_value": 50,
+  "input_fingerprint": "1d80ce414a551e5b66aaaf438e6341a578451394c05f42b2169b94b6797ad24f",
+  "spec_fingerprint": "76a66fc918fc6f920008f39bcd8b747a96a07fcbb1341a78dd37279df68caaa9",
+  "priors": {
+    "all": {
+      "k": 1950,
+      "n": 15322,
+      "prior": 0.12726798068137318,
+      "valid_days": 243
+    },
+    "chain": {
+      "k": 773,
+      "n": 3521,
+      "prior": 0.21953990343652371,
+      "valid_days": 243
+    }
+  },
+  "promotion_pooled_counts": {
+    "h1": {
+      "k": 2093,
+      "n": 11801,
+      "prior": 0.17735785102957377,
+      "valid_days": 243
+    },
+    "h2": {
+      "k": 756,
+      "n": 2087,
+      "prior": 0.36224245328222326,
+      "valid_days": 242
+    },
+    "h3": {
+      "k": 363,
+      "n": 753,
+      "prior": 0.4820717131474104,
+      "valid_days": 232
+    },
+    "h4": {
+      "k": 321,
+      "n": 681,
+      "prior": 0.4713656387665198,
+      "valid_days": 228
+    }
+  },
+  "anchors": {
+    "all_drop": {
+      "p10": 0.03524620195185396,
+      "p90": 0.25094810888504887,
+      "valid_days": 243,
+      "missing_days": 0,
+      "direction": "positive"
+    },
+    "chain_drop": {
+      "p10": 0.07422539592377707,
+      "p90": 0.36728607944171715,
+      "valid_days": 243,
+      "missing_days": 0,
+      "direction": "positive"
+    },
+    "ddens": {
+      "p10": 0.2007226013649137,
+      "p90": 4.380626870908054,
+      "valid_days": 243,
+      "missing_days": 0,
+      "direction": "positive"
+    },
+    "m1raw": {
+      "p10": 0.2900437650134275,
+      "p90": 0.4390873898614734,
+      "valid_days": 243,
+      "missing_days": 0,
+      "direction": "positive"
+    },
+    "ladder": {
+      "p10": 0.6666666666666666,
+      "p90": 1.0,
+      "valid_days": 243,
+      "missing_days": 0,
+      "direction": "positive"
+    },
+    "max_height": {
+      "p10": 4.0,
+      "p90": 8.0,
+      "valid_days": 243,
+      "missing_days": 0,
+      "direction": "positive"
+    },
+    "log_ratio20": {
+      "p10": -0.19997519305508832,
+      "p90": 0.22217708030671546,
+      "valid_days": 243,
+      "missing_days": 0,
+      "direction": "positive"
+    },
+    "advance_pct": {
+      "p10": 0.20373821746693357,
+      "p90": 0.7924266493759119,
+      "valid_days": 243,
+      "missing_days": 0,
+      "direction": "positive"
+    },
+    "udens": {
+      "p10": 8.25886129832494,
+      "p90": 17.49158736047775,
+      "valid_days": 243,
+      "missing_days": 0,
+      "direction": "positive"
+    }
+  },
+  "ddens_p99": 16.354717961800603,
+  "m1_source": "F1 fixed 2025 pooled priors, a=5, height weights .25/.30/.25/.20; no refit",
+  "fingerprint": "99cbcb663454bae1d93ec839c3fad0ff7b1b8893cc2ff5f84d860bb34aea36cf"
+}

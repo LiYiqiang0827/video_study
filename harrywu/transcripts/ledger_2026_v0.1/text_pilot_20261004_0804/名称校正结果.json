@@ -1,0 +1,21 @@
+{
+  "completed_utc": "2026-10-04T09:16:00.326907+00:00",
+  "source_stream_id": "-9HY0rxruC0",
+  "scope": "仅8月4日试跑的一期",
+  "reviewed_correction_patterns": 87,
+  "applied_name_replacements": 206,
+  "corrected_segments": 172,
+  "corrected_canonical_names": 44,
+  "pending_name_fragments": 10,
+  "original_hashes_unchanged": {
+    "D:\\YuncongVideoAnalysis\\ledger_2026_v0.1\\text_pilot_20261004_0804\\asr\\speech.json": "ea48993b7c1e8eacc3ebaf2bb08da095c4616a4cb9843609592195d619c460b2",
+    "D:\\YuncongVideoAnalysis\\ledger_2026_v0.1\\text_pilot_20261004_0804\\全文_带时间.txt": "4dc07e637dcc8ce8f9f15f37ba2624e57b5419652c6e4a9a399ca6d3a75fab38",
+    "D:\\YuncongVideoAnalysis\\ledger_2026_v0.1\\text_pilot_20261004_0804\\reviewed_sections.json": "6d549bf1951f89e21c902e5ffed75a104217fd8ad2f6bb2b369f99cf28883db7",
+    "D:\\YuncongVideoAnalysis\\ledger_2026_v0.1\\text_pilot_20261004_0804\\reviewed_name_candidates.json": "e17c012830e801950a6416fc13183cbdbf570b18ec0d33f5a20e13e4b7bda385"
+  },
+  "source_ids_and_timestamps_unchanged": true,
+  "spoken_numbers_unchanged": true,
+  "kept_nonempty_segments": 1696,
+  "visual_processing": false,
+  "next_video_started": false
+}

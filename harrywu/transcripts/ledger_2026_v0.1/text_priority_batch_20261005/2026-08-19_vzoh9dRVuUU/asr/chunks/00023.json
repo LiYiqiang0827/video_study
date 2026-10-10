@@ -1,0 +1,32 @@
+{
+  "begin": 6900.0,
+  "finish": 7006.598095,
+  "segments": [
+    {
+      "start": 6898.0,
+      "end": 6944.89,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0718,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 6944.91,
+      "end": 6975.71,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0559,
+      "no_speech_prob": 0.9966,
+      "review": true
+    },
+    {
+      "start": 6975.73,
+      "end": 7005.71,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0795,
+      "no_speech_prob": 0.0625,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 4.12
+}

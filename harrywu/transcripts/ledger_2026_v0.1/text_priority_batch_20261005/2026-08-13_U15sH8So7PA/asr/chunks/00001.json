@@ -1,0 +1,912 @@
+{
+  "begin": 300.0,
+  "finish": 600.0,
+  "segments": [
+    {
+      "start": 298.78,
+      "end": 304.58,
+      "text": "我们再来看其他的",
+      "avg_logprob": -0.1036,
+      "no_speech_prob": 0.0814,
+      "review": false
+    },
+    {
+      "start": 304.58,
+      "end": 307.66,
+      "text": "那么其他的呢相对呢比较平稳",
+      "avg_logprob": -0.1036,
+      "no_speech_prob": 0.0814,
+      "review": false
+    },
+    {
+      "start": 307.66,
+      "end": 308.78,
+      "text": "就是没有特别大",
+      "avg_logprob": -0.1036,
+      "no_speech_prob": 0.0814,
+      "review": false
+    },
+    {
+      "start": 308.78,
+      "end": 310.3,
+      "text": "也有起伏但是没有那么大",
+      "avg_logprob": -0.1036,
+      "no_speech_prob": 0.0814,
+      "review": false
+    },
+    {
+      "start": 310.3,
+      "end": 312.98,
+      "text": "前面有人有资金要做",
+      "avg_logprob": -0.1036,
+      "no_speech_prob": 0.0814,
+      "review": false
+    },
+    {
+      "start": 312.98,
+      "end": 315.44,
+      "text": "后面呢9点20之后很多资金撤了",
+      "avg_logprob": -0.1036,
+      "no_speech_prob": 0.0814,
+      "review": false
+    },
+    {
+      "start": 315.44,
+      "end": 317.8,
+      "text": "你可以看到很多的资金撤掉",
+      "avg_logprob": -0.1036,
+      "no_speech_prob": 0.0814,
+      "review": false
+    },
+    {
+      "start": 317.8,
+      "end": 319.74,
+      "text": "撤掉之后呢价格就打下来一点点",
+      "avg_logprob": -0.1036,
+      "no_speech_prob": 0.0814,
+      "review": false
+    },
+    {
+      "start": 319.74,
+      "end": 321.9,
+      "text": "但是整体价格还是比较平稳的",
+      "avg_logprob": -0.1036,
+      "no_speech_prob": 0.0814,
+      "review": false
+    },
+    {
+      "start": 321.9,
+      "end": 325.8,
+      "text": "那这一只就与之相反",
+      "avg_logprob": -0.1036,
+      "no_speech_prob": 0.0814,
+      "review": false
+    },
+    {
+      "start": 325.8,
+      "end": 328.14,
+      "text": "在9点20之前",
+      "avg_logprob": -0.1036,
+      "no_speech_prob": 0.0814,
+      "review": false
+    },
+    {
+      "start": 328.14,
+      "end": 332.5,
+      "text": "这些很多的人他还没有想去买",
+      "avg_logprob": -0.1036,
+      "no_speech_prob": 0.0814,
+      "review": false
+    },
+    {
+      "start": 332.5,
+      "end": 338.2,
+      "text": "但是反倒是9.20之后有更多的资金进去想做它",
+      "avg_logprob": -0.0798,
+      "no_speech_prob": 0.1458,
+      "review": false
+    },
+    {
+      "start": 338.2,
+      "end": 340.88,
+      "text": "那这种情况就是今天非常好的",
+      "avg_logprob": -0.0798,
+      "no_speech_prob": 0.1458,
+      "review": false
+    },
+    {
+      "start": 340.88,
+      "end": 343.78,
+      "text": "至少证明有真实的资金在做它",
+      "avg_logprob": -0.0798,
+      "no_speech_prob": 0.1458,
+      "review": false
+    },
+    {
+      "start": 343.78,
+      "end": 348.84,
+      "text": "这都是我手头昨天买到几支票",
+      "avg_logprob": -0.0798,
+      "no_speech_prob": 0.1458,
+      "review": false
+    },
+    {
+      "start": 348.84,
+      "end": 350.94,
+      "text": "好我们又来看这一支也是",
+      "avg_logprob": -0.0798,
+      "no_speech_prob": 0.1458,
+      "review": false
+    },
+    {
+      "start": 350.94,
+      "end": 352.82,
+      "text": "他们都是同一个逻辑",
+      "avg_logprob": -0.0798,
+      "no_speech_prob": 0.1458,
+      "review": false
+    },
+    {
+      "start": 352.82,
+      "end": 355.38,
+      "text": "在9.20之前资金没有动",
+      "avg_logprob": -0.0798,
+      "no_speech_prob": 0.1458,
+      "review": false
+    },
+    {
+      "start": 355.38,
+      "end": 356.62,
+      "text": "资金都不动",
+      "avg_logprob": -0.0798,
+      "no_speech_prob": 0.1458,
+      "review": false
+    },
+    {
+      "start": 356.62,
+      "end": 360.64,
+      "text": "但是在9.20之后资金开始买入",
+      "avg_logprob": -0.0798,
+      "no_speech_prob": 0.1458,
+      "review": false
+    },
+    {
+      "start": 360.64,
+      "end": 362.26,
+      "text": "这些都是真实的",
+      "avg_logprob": -0.0798,
+      "no_speech_prob": 0.1458,
+      "review": false
+    },
+    {
+      "start": 362.26,
+      "end": 364.64,
+      "text": "9.20之后的所有的买入资金",
+      "avg_logprob": -0.0798,
+      "no_speech_prob": 0.1458,
+      "review": false
+    },
+    {
+      "start": 364.64,
+      "end": 365.86,
+      "text": "它都是真实资金",
+      "avg_logprob": -0.1009,
+      "no_speech_prob": 0.1345,
+      "review": false
+    },
+    {
+      "start": 365.86,
+      "end": 369.61,
+      "text": "我们根据国内的政策",
+      "avg_logprob": -0.1009,
+      "no_speech_prob": 0.1345,
+      "review": false
+    },
+    {
+      "start": 369.61,
+      "end": 372.29,
+      "text": "到时候我们是不能展示它的名字的",
+      "avg_logprob": -0.1009,
+      "no_speech_prob": 0.1345,
+      "review": false
+    },
+    {
+      "start": 372.29,
+      "end": 374.45,
+      "text": "但是我们只要我只是告诉你",
+      "avg_logprob": -0.1009,
+      "no_speech_prob": 0.1345,
+      "review": false
+    },
+    {
+      "start": 374.45,
+      "end": 376.21,
+      "text": "我们每这每一支票",
+      "avg_logprob": -0.1009,
+      "no_speech_prob": 0.1345,
+      "review": false
+    },
+    {
+      "start": 376.21,
+      "end": 377.21,
+      "text": "它的这个情况",
+      "avg_logprob": -0.1009,
+      "no_speech_prob": 0.1345,
+      "review": false
+    },
+    {
+      "start": 377.21,
+      "end": 377.99,
+      "text": "这一支也是",
+      "avg_logprob": -0.1009,
+      "no_speech_prob": 0.1345,
+      "review": false
+    },
+    {
+      "start": 377.99,
+      "end": 382.15,
+      "text": "大家看9点20之前资金还没有活跃",
+      "avg_logprob": -0.1009,
+      "no_speech_prob": 0.1345,
+      "review": false
+    },
+    {
+      "start": 382.15,
+      "end": 385.41,
+      "text": "9点20之后不断的有明确资金往上做",
+      "avg_logprob": -0.1009,
+      "no_speech_prob": 0.1345,
+      "review": false
+    },
+    {
+      "start": 385.41,
+      "end": 386.65,
+      "text": "那么这些呢",
+      "avg_logprob": -0.1009,
+      "no_speech_prob": 0.1345,
+      "review": false
+    },
+    {
+      "start": 386.65,
+      "end": 388.33,
+      "text": "基本可以确定开盘之后",
+      "avg_logprob": -0.1009,
+      "no_speech_prob": 0.1345,
+      "review": false
+    },
+    {
+      "start": 388.33,
+      "end": 390.21,
+      "text": "它们会持续向上",
+      "avg_logprob": -0.1009,
+      "no_speech_prob": 0.1345,
+      "review": false
+    },
+    {
+      "start": 390.21,
+      "end": 392.06,
+      "text": "这一支呢",
+      "avg_logprob": -0.1009,
+      "no_speech_prob": 0.1345,
+      "review": false
+    },
+    {
+      "start": 392.06,
+      "end": 393.58,
+      "text": "它就比较正常了",
+      "avg_logprob": -0.1009,
+      "no_speech_prob": 0.1345,
+      "review": false
+    },
+    {
+      "start": 393.58,
+      "end": 394.9,
+      "text": "它没有那么多资金去做它",
+      "avg_logprob": -0.1009,
+      "no_speech_prob": 0.1345,
+      "review": false
+    },
+    {
+      "start": 394.9,
+      "end": 397.77,
+      "text": "我们看这一个是完全相反的",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.2502,
+      "review": false
+    },
+    {
+      "start": 397.77,
+      "end": 403.21,
+      "text": "这一个在9点20之前都没有资金想做了",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.2502,
+      "review": false
+    },
+    {
+      "start": 403.21,
+      "end": 406.23,
+      "text": "9点20之后更没有资金想做了",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.2502,
+      "review": false
+    },
+    {
+      "start": 406.23,
+      "end": 407.95,
+      "text": "那么这一只它就是有问题的",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.2502,
+      "review": false
+    },
+    {
+      "start": 407.95,
+      "end": 412.03,
+      "text": "那么今天大概率开盘之后它就会直奔走",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.2502,
+      "review": false
+    },
+    {
+      "start": 412.03,
+      "end": 414.23,
+      "text": "因为今天有很多资金想跑",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.2502,
+      "review": false
+    },
+    {
+      "start": 414.23,
+      "end": 419.76,
+      "text": "我们看这两只医药股也同样不乐观",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.2502,
+      "review": false
+    },
+    {
+      "start": 419.76,
+      "end": 424.42,
+      "text": "9点20之前基本上就已经没有人想买它了",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.2502,
+      "review": false
+    },
+    {
+      "start": 424.42,
+      "end": 427.06,
+      "text": "9点20之后更多的人在砸盘",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.2502,
+      "review": false
+    },
+    {
+      "start": 427.06,
+      "end": 429.28,
+      "text": "当然这个也只是微观的",
+      "avg_logprob": -0.0875,
+      "no_speech_prob": 0.2622,
+      "review": false
+    },
+    {
+      "start": 429.28,
+      "end": 431.3,
+      "text": "到时候也不一定有可能开盘拉起来",
+      "avg_logprob": -0.0875,
+      "no_speech_prob": 0.2622,
+      "review": false
+    },
+    {
+      "start": 431.3,
+      "end": 433.62,
+      "text": "但是正好说这一段它表现了",
+      "avg_logprob": -0.0875,
+      "no_speech_prob": 0.2622,
+      "review": false
+    },
+    {
+      "start": 433.62,
+      "end": 437.32,
+      "text": "开盘阶段今天医药是没人愿意买的",
+      "avg_logprob": -0.0875,
+      "no_speech_prob": 0.2622,
+      "review": false
+    },
+    {
+      "start": 437.32,
+      "end": 439.3,
+      "text": "至少可以有这么一个想法",
+      "avg_logprob": -0.0875,
+      "no_speech_prob": 0.2622,
+      "review": false
+    },
+    {
+      "start": 439.3,
+      "end": 441.5,
+      "text": "包括你看这一只也是",
+      "avg_logprob": -0.0875,
+      "no_speech_prob": 0.2622,
+      "review": false
+    },
+    {
+      "start": 441.5,
+      "end": 444.62,
+      "text": "今天医药它开盘就没有资金想做它",
+      "avg_logprob": -0.0875,
+      "no_speech_prob": 0.2622,
+      "review": false
+    },
+    {
+      "start": 444.62,
+      "end": 447.08,
+      "text": "非常明确的没有资金想做它",
+      "avg_logprob": -0.0875,
+      "no_speech_prob": 0.2622,
+      "review": false
+    },
+    {
+      "start": 447.08,
+      "end": 448.76,
+      "text": "开盘之后怎么样我们不知道",
+      "avg_logprob": -0.0875,
+      "no_speech_prob": 0.2622,
+      "review": false
+    },
+    {
+      "start": 448.76,
+      "end": 450.54,
+      "text": "那这一只就有意思了",
+      "avg_logprob": -0.0875,
+      "no_speech_prob": 0.2622,
+      "review": false
+    },
+    {
+      "start": 450.54,
+      "end": 451.36,
+      "text": "你看这一只",
+      "avg_logprob": -0.0875,
+      "no_speech_prob": 0.2622,
+      "review": false
+    },
+    {
+      "start": 451.36,
+      "end": 452.86,
+      "text": "我手头这几只",
+      "avg_logprob": -0.0875,
+      "no_speech_prob": 0.2622,
+      "review": false
+    },
+    {
+      "start": 452.86,
+      "end": 454.16,
+      "text": "它是唯一的一只",
+      "avg_logprob": -0.0875,
+      "no_speech_prob": 0.2622,
+      "review": false
+    },
+    {
+      "start": 454.16,
+      "end": 456.08,
+      "text": "可能今天比较麻烦的",
+      "avg_logprob": -0.0875,
+      "no_speech_prob": 0.2622,
+      "review": false
+    },
+    {
+      "start": 456.08,
+      "end": 457.02,
+      "text": "我看看要不要砍仓",
+      "avg_logprob": -0.0875,
+      "no_speech_prob": 0.2622,
+      "review": false
+    },
+    {
+      "start": 457.02,
+      "end": 459.8,
+      "text": "但是我通过它盘口",
+      "avg_logprob": -0.0921,
+      "no_speech_prob": 0.3442,
+      "review": false
+    },
+    {
+      "start": 459.8,
+      "end": 462.52,
+      "text": "我认为今天它这个下跌是假的",
+      "avg_logprob": -0.0921,
+      "no_speech_prob": 0.3442,
+      "review": false
+    },
+    {
+      "start": 462.52,
+      "end": 464.92,
+      "text": "你看9点20之前砸下来",
+      "avg_logprob": -0.0921,
+      "no_speech_prob": 0.3442,
+      "review": false
+    },
+    {
+      "start": 464.92,
+      "end": 467.2,
+      "text": "但9点20之后就没有人愿意砸它了",
+      "avg_logprob": -0.0921,
+      "no_speech_prob": 0.3442,
+      "review": false
+    },
+    {
+      "start": 467.2,
+      "end": 470.62,
+      "text": "就证明有可能它甚至在这个地方是吸筹的",
+      "avg_logprob": -0.0921,
+      "no_speech_prob": 0.3442,
+      "review": false
+    },
+    {
+      "start": 470.62,
+      "end": 471.32,
+      "text": "都有可能",
+      "avg_logprob": -0.0921,
+      "no_speech_prob": 0.3442,
+      "review": false
+    },
+    {
+      "start": 471.32,
+      "end": 475.02,
+      "text": "好我们看看等会儿开盘之后是不是符合我的判断",
+      "avg_logprob": -0.0921,
+      "no_speech_prob": 0.3442,
+      "review": false
+    },
+    {
+      "start": 475.02,
+      "end": 477.2,
+      "text": "也就是说我手头的这些票",
+      "avg_logprob": -0.0921,
+      "no_speech_prob": 0.3442,
+      "review": false
+    },
+    {
+      "start": 477.2,
+      "end": 479.04,
+      "text": "根据集合竞价来看",
+      "avg_logprob": -0.0921,
+      "no_speech_prob": 0.3442,
+      "review": false
+    },
+    {
+      "start": 479.04,
+      "end": 480.88,
+      "text": "前面这几只",
+      "avg_logprob": -0.0921,
+      "no_speech_prob": 0.3442,
+      "review": false
+    },
+    {
+      "start": 480.88,
+      "end": 485.12,
+      "text": "它们都是真实的相对真实的一个反应",
+      "avg_logprob": -0.0921,
+      "no_speech_prob": 0.3442,
+      "review": false
+    },
+    {
+      "start": 485.12,
+      "end": 487.94,
+      "text": "就是今天医药它看起来不太乐观",
+      "avg_logprob": -0.1101,
+      "no_speech_prob": 0.0609,
+      "review": false
+    },
+    {
+      "start": 487.94,
+      "end": 490.18,
+      "text": "整体上说开盘之后要往下滑",
+      "avg_logprob": -0.1101,
+      "no_speech_prob": 0.0609,
+      "review": false
+    },
+    {
+      "start": 490.18,
+      "end": 492.44,
+      "text": "但是我手里几只半导体的票",
+      "avg_logprob": -0.1101,
+      "no_speech_prob": 0.0609,
+      "review": false
+    },
+    {
+      "start": 492.44,
+      "end": 497.06,
+      "text": "全都是资金在9.20到9.25之间拼命进",
+      "avg_logprob": -0.1101,
+      "no_speech_prob": 0.0609,
+      "review": false
+    },
+    {
+      "start": 497.06,
+      "end": 498.28,
+      "text": "那么证明呢",
+      "avg_logprob": -0.1101,
+      "no_speech_prob": 0.0609,
+      "review": false
+    },
+    {
+      "start": 498.28,
+      "end": 499.12,
+      "text": "开盘之后",
+      "avg_logprob": -0.1101,
+      "no_speech_prob": 0.0609,
+      "review": false
+    },
+    {
+      "start": 499.12,
+      "end": 503.04,
+      "text": "它大概率有一个向上的一个动作",
+      "avg_logprob": -0.1101,
+      "no_speech_prob": 0.0609,
+      "review": false
+    },
+    {
+      "start": 503.04,
+      "end": 506.2,
+      "text": "所以我们等会儿开盘之后看一下验证",
+      "avg_logprob": -0.1101,
+      "no_speech_prob": 0.0609,
+      "review": false
+    },
+    {
+      "start": 506.2,
+      "end": 515.4,
+      "text": "这一段是我准备录下来",
+      "avg_logprob": -0.1101,
+      "no_speech_prob": 0.0609,
+      "review": false
+    },
+    {
+      "start": 515.4,
+      "end": 516.72,
+      "text": "准备录下来",
+      "avg_logprob": -0.1101,
+      "no_speech_prob": 0.0609,
+      "review": false
+    },
+    {
+      "start": 516.72,
+      "end": 520.0,
+      "text": "这个到时候我会做鼓励的短视频的",
+      "avg_logprob": -0.1101,
+      "no_speech_prob": 0.0609,
+      "review": false
+    },
+    {
+      "start": 520.0,
+      "end": 539.28,
+      "text": "哎呀 你们自己决定啊 跑不跑不要问我 我肯定不会跑的 好不好 我不会跑的 我不会跑的 昨天科技精科技对了 医药呢就没办法 医药这个每天它这个动的比较厉害 但是呢 我个人认为 我是不会跑的 如果你们觉得该跑 你们再跑好不好",
+      "avg_logprob": -0.1396,
+      "no_speech_prob": 0.108,
+      "review": false
+    },
+    {
+      "start": 539.28,
+      "end": 541.88,
+      "text": "我是不会跑的啊 我不会跑",
+      "avg_logprob": -0.1396,
+      "no_speech_prob": 0.108,
+      "review": false
+    },
+    {
+      "start": 541.88,
+      "end": 548.36,
+      "text": "但是康诺化成昨天我已经大部分清仓了哟 因为我说过50块钱我会清仓的啊 这个给你们说一下",
+      "avg_logprob": -0.1396,
+      "no_speech_prob": 0.108,
+      "review": false
+    },
+    {
+      "start": 548.36,
+      "end": 551.0,
+      "text": "那其他的你看嘛",
+      "avg_logprob": -0.1784,
+      "no_speech_prob": 0.0938,
+      "review": false
+    },
+    {
+      "start": 551.0,
+      "end": 552.92,
+      "text": "其他的这个才跌了多少嘛",
+      "avg_logprob": -0.1784,
+      "no_speech_prob": 0.0938,
+      "review": false
+    },
+    {
+      "start": 552.92,
+      "end": 553.74,
+      "text": "一点点啊",
+      "avg_logprob": -0.1784,
+      "no_speech_prob": 0.0938,
+      "review": false
+    },
+    {
+      "start": 553.74,
+      "end": 556.74,
+      "text": "但是这个石油这个票等会观察一下了",
+      "avg_logprob": -0.1784,
+      "no_speech_prob": 0.0938,
+      "review": false
+    },
+    {
+      "start": 556.74,
+      "end": 558.54,
+      "text": "石油这个票现在看起来你看",
+      "avg_logprob": -0.1784,
+      "no_speech_prob": 0.0938,
+      "review": false
+    },
+    {
+      "start": 558.54,
+      "end": 560.34,
+      "text": "主力镜在偷偷进这个是的",
+      "avg_logprob": -0.1784,
+      "no_speech_prob": 0.0938,
+      "review": false
+    },
+    {
+      "start": 560.34,
+      "end": 563.8,
+      "text": "但是能不能这个就不知道了",
+      "avg_logprob": -0.1784,
+      "no_speech_prob": 0.0938,
+      "review": false
+    },
+    {
+      "start": 563.8,
+      "end": 566.12,
+      "text": "昨天幸亏我进了半导体",
+      "avg_logprob": -0.1784,
+      "no_speech_prob": 0.0938,
+      "review": false
+    },
+    {
+      "start": 566.12,
+      "end": 567.56,
+      "text": "进了进了还不少",
+      "avg_logprob": -0.1784,
+      "no_speech_prob": 0.0938,
+      "review": false
+    },
+    {
+      "start": 567.56,
+      "end": 569.26,
+      "text": "今天半导体上去了",
+      "avg_logprob": -0.1784,
+      "no_speech_prob": 0.0938,
+      "review": false
+    },
+    {
+      "start": 569.26,
+      "end": 572.42,
+      "text": "不然的话这个今天可能因为这个",
+      "avg_logprob": -0.1784,
+      "no_speech_prob": 0.0938,
+      "review": false
+    },
+    {
+      "start": 572.42,
+      "end": 575.14,
+      "text": "今天我手里的医药下去了",
+      "avg_logprob": -0.1784,
+      "no_speech_prob": 0.0938,
+      "review": false
+    },
+    {
+      "start": 575.14,
+      "end": 576.12,
+      "text": "我就会亏钱了",
+      "avg_logprob": -0.1784,
+      "no_speech_prob": 0.0938,
+      "review": false
+    },
+    {
+      "start": 576.12,
+      "end": 582.91,
+      "text": "今天医药整体现在看起来下去了",
+      "avg_logprob": -0.166,
+      "no_speech_prob": 0.0414,
+      "review": false
+    },
+    {
+      "start": 582.91,
+      "end": 584.07,
+      "text": "等会会不会完全下去",
+      "avg_logprob": -0.166,
+      "no_speech_prob": 0.0414,
+      "review": false
+    },
+    {
+      "start": 584.07,
+      "end": 584.81,
+      "text": "这我不知道",
+      "avg_logprob": -0.166,
+      "no_speech_prob": 0.0414,
+      "review": false
+    },
+    {
+      "start": 584.81,
+      "end": 587.45,
+      "text": "但是也还好吧",
+      "avg_logprob": -0.166,
+      "no_speech_prob": 0.0414,
+      "review": false
+    },
+    {
+      "start": 587.45,
+      "end": 588.85,
+      "text": "这下跌了多少吗",
+      "avg_logprob": -0.166,
+      "no_speech_prob": 0.0414,
+      "review": false
+    },
+    {
+      "start": 588.85,
+      "end": 589.97,
+      "text": "跌了百分之一点几",
+      "avg_logprob": -0.166,
+      "no_speech_prob": 0.0414,
+      "review": false
+    },
+    {
+      "start": 589.97,
+      "end": 591.49,
+      "text": "百分之零点几",
+      "avg_logprob": -0.166,
+      "no_speech_prob": 0.0414,
+      "review": false
+    },
+    {
+      "start": 591.49,
+      "end": 591.97,
+      "text": "一点几",
+      "avg_logprob": -0.166,
+      "no_speech_prob": 0.0414,
+      "review": false
+    },
+    {
+      "start": 591.97,
+      "end": 592.79,
+      "text": "这些没有啥呀",
+      "avg_logprob": -0.166,
+      "no_speech_prob": 0.0414,
+      "review": false
+    },
+    {
+      "start": 592.79,
+      "end": 593.33,
+      "text": "这么少",
+      "avg_logprob": -0.166,
+      "no_speech_prob": 0.0414,
+      "review": false
+    },
+    {
+      "start": 593.33,
+      "end": 593.73,
+      "text": "是不是",
+      "avg_logprob": -0.166,
+      "no_speech_prob": 0.0414,
+      "review": false
+    },
+    {
+      "start": 593.73,
+      "end": 598.29,
+      "text": "昨天我们一个是",
+      "avg_logprob": -0.166,
+      "no_speech_prob": 0.0414,
+      "review": false
+    },
+    {
+      "start": 598.29,
+      "end": 599.61,
+      "text": "昨天两个涨天股啊",
+      "avg_logprob": -0.166,
+      "no_speech_prob": 0.0414,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 29.22
+}

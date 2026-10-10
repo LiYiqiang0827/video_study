@@ -1,0 +1,728 @@
+{
+  "begin": 5700.0,
+  "finish": 6000.0,
+  "segments": [
+    {
+      "start": 5698.0,
+      "end": 5729.24,
+      "text": "就是因为微信被封了",
+      "avg_logprob": -0.2741,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5729.26,
+      "end": 5759.46,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1188,
+      "no_speech_prob": 0.4175,
+      "review": false
+    },
+    {
+      "start": 5759.48,
+      "end": 5780.62,
+      "text": "多好啊,还有你去买中威公司多好啊,像这么牛叉的中威公司,每次下跌买中威公司保你赚钱,但是要跌透啊,你看嘛,像中威公司这个公司很优质的,它任何时候跌到位,任何时候跌到位马上起来了,你何必要去买三安光电呢,那么多那么好的半导体公司",
+      "avg_logprob": -0.0959,
+      "no_speech_prob": 0.0008,
+      "review": false
+    },
+    {
+      "start": 5780.62,
+      "end": 5786.7,
+      "text": "为什么会被封?因为我的讲股票的群太多了",
+      "avg_logprob": -0.1376,
+      "no_speech_prob": 0.5811,
+      "review": true
+    },
+    {
+      "start": 5786.7,
+      "end": 5790.78,
+      "text": "我有几十个群,然后呢,那群里面乱七八糟的人说话",
+      "avg_logprob": -0.1376,
+      "no_speech_prob": 0.5811,
+      "review": true
+    },
+    {
+      "start": 5790.78,
+      "end": 5793.6,
+      "text": "然后最近,而且现在国内就特别怕我这种",
+      "avg_logprob": -0.1376,
+      "no_speech_prob": 0.5811,
+      "review": true
+    },
+    {
+      "start": 5793.6,
+      "end": 5796.56,
+      "text": "你懂我意思吧,一个人搞那么多群",
+      "avg_logprob": -0.1376,
+      "no_speech_prob": 0.5811,
+      "review": true
+    },
+    {
+      "start": 5796.56,
+      "end": 5798.2,
+      "text": "我稍微不慎就会被封",
+      "avg_logprob": -0.1376,
+      "no_speech_prob": 0.5811,
+      "review": true
+    },
+    {
+      "start": 5798.2,
+      "end": 5801.72,
+      "text": "所以我没有任何原因,我自己也没有在里面建股",
+      "avg_logprob": -0.1376,
+      "no_speech_prob": 0.5811,
+      "review": true
+    },
+    {
+      "start": 5801.72,
+      "end": 5804.26,
+      "text": "但是就被封了,直接把我封了",
+      "avg_logprob": -0.1376,
+      "no_speech_prob": 0.5811,
+      "review": true
+    },
+    {
+      "start": 5809.25,
+      "end": 5812.09,
+      "text": "哎呀,姑婆,你这些问题一看就不是我的许愿",
+      "avg_logprob": -0.1376,
+      "no_speech_prob": 0.5811,
+      "review": true
+    },
+    {
+      "start": 5812.09,
+      "end": 5814.45,
+      "text": "果然也不是我的许愿,你要是我许愿的话就会骂你的",
+      "avg_logprob": -0.1376,
+      "no_speech_prob": 0.5811,
+      "review": true
+    },
+    {
+      "start": 5814.45,
+      "end": 5815.19,
+      "text": "是吧",
+      "avg_logprob": -0.1405,
+      "no_speech_prob": 0.5083,
+      "review": true
+    },
+    {
+      "start": 5815.19,
+      "end": 5816.37,
+      "text": "这种问题啊",
+      "avg_logprob": -0.1405,
+      "no_speech_prob": 0.5083,
+      "review": true
+    },
+    {
+      "start": 5816.37,
+      "end": 5818.31,
+      "text": "你这一辈子都对你很痛苦的",
+      "avg_logprob": -0.1405,
+      "no_speech_prob": 0.5083,
+      "review": true
+    },
+    {
+      "start": 5818.31,
+      "end": 5819.57,
+      "text": "不要问这种问题",
+      "avg_logprob": -0.1405,
+      "no_speech_prob": 0.5083,
+      "review": true
+    },
+    {
+      "start": 5819.57,
+      "end": 5820.17,
+      "text": "好不好",
+      "avg_logprob": -0.1405,
+      "no_speech_prob": 0.5083,
+      "review": true
+    },
+    {
+      "start": 5820.17,
+      "end": 5821.51,
+      "text": "行情怎么走",
+      "avg_logprob": -0.1405,
+      "no_speech_prob": 0.5083,
+      "review": true
+    },
+    {
+      "start": 5821.51,
+      "end": 5822.55,
+      "text": "你怎么知道吗",
+      "avg_logprob": -0.1405,
+      "no_speech_prob": 0.5083,
+      "review": true
+    },
+    {
+      "start": 5822.55,
+      "end": 5824.35,
+      "text": "你每天问这种问题多痛苦啊",
+      "avg_logprob": -0.1405,
+      "no_speech_prob": 0.5083,
+      "review": true
+    },
+    {
+      "start": 5824.35,
+      "end": 5825.91,
+      "text": "你要问你的交易计划是什么",
+      "avg_logprob": -0.1405,
+      "no_speech_prob": 0.5083,
+      "review": true
+    },
+    {
+      "start": 5825.91,
+      "end": 5827.91,
+      "text": "你的仓位管理是如何",
+      "avg_logprob": -0.1405,
+      "no_speech_prob": 0.5083,
+      "review": true
+    },
+    {
+      "start": 5827.91,
+      "end": 5829.81,
+      "text": "现在这个位置是不是你开仓信号",
+      "avg_logprob": -0.1405,
+      "no_speech_prob": 0.5083,
+      "review": true
+    },
+    {
+      "start": 5829.81,
+      "end": 5831.19,
+      "text": "你问这些问题好不好",
+      "avg_logprob": -0.1405,
+      "no_speech_prob": 0.5083,
+      "review": true
+    },
+    {
+      "start": 5831.19,
+      "end": 5832.63,
+      "text": "你不要问行情会不会涨低",
+      "avg_logprob": -0.1405,
+      "no_speech_prob": 0.5083,
+      "review": true
+    },
+    {
+      "start": 5832.63,
+      "end": 5833.35,
+      "text": "这个鬼才知道",
+      "avg_logprob": -0.1405,
+      "no_speech_prob": 0.5083,
+      "review": true
+    },
+    {
+      "start": 5833.35,
+      "end": 5834.37,
+      "text": "老天爷才知道",
+      "avg_logprob": -0.1405,
+      "no_speech_prob": 0.5083,
+      "review": true
+    },
+    {
+      "start": 5834.37,
+      "end": 5837.21,
+      "text": "有人告诉你百分之百是骗子",
+      "avg_logprob": -0.1405,
+      "no_speech_prob": 0.5083,
+      "review": true
+    },
+    {
+      "start": 5837.21,
+      "end": 5838.51,
+      "text": "说我知道行情怎么走",
+      "avg_logprob": -0.1405,
+      "no_speech_prob": 0.5083,
+      "review": true
+    },
+    {
+      "start": 5838.51,
+      "end": 5839.41,
+      "text": "你给我多少钱",
+      "avg_logprob": -0.1405,
+      "no_speech_prob": 0.5083,
+      "review": true
+    },
+    {
+      "start": 5839.41,
+      "end": 5840.01,
+      "text": "我告诉你",
+      "avg_logprob": -0.1405,
+      "no_speech_prob": 0.5083,
+      "review": true
+    },
+    {
+      "start": 5840.01,
+      "end": 5841.21,
+      "text": "这就是骗子",
+      "avg_logprob": -0.1405,
+      "no_speech_prob": 0.5083,
+      "review": true
+    },
+    {
+      "start": 5841.21,
+      "end": 5844.03,
+      "text": "你最核心要构建你的交易计划",
+      "avg_logprob": -0.1405,
+      "no_speech_prob": 0.5083,
+      "review": true
+    },
+    {
+      "start": 5844.03,
+      "end": 5845.05,
+      "text": "勾加你的交易系统",
+      "avg_logprob": -0.1199,
+      "no_speech_prob": 0.8438,
+      "review": true
+    },
+    {
+      "start": 5845.05,
+      "end": 5846.99,
+      "text": "你要问自己的问题一定是",
+      "avg_logprob": -0.1199,
+      "no_speech_prob": 0.8438,
+      "review": true
+    },
+    {
+      "start": 5846.99,
+      "end": 5849.75,
+      "text": "这个信号是不是我的开仓信号",
+      "avg_logprob": -0.1199,
+      "no_speech_prob": 0.8438,
+      "review": true
+    },
+    {
+      "start": 5849.75,
+      "end": 5850.79,
+      "text": "那比如说现在",
+      "avg_logprob": -0.1199,
+      "no_speech_prob": 0.8438,
+      "review": true
+    },
+    {
+      "start": 5850.79,
+      "end": 5852.17,
+      "text": "今天早上是吧",
+      "avg_logprob": -0.1199,
+      "no_speech_prob": 0.8438,
+      "review": true
+    },
+    {
+      "start": 5852.17,
+      "end": 5853.13,
+      "text": "今天早上",
+      "avg_logprob": -0.1199,
+      "no_speech_prob": 0.8438,
+      "review": true
+    },
+    {
+      "start": 5853.13,
+      "end": 5854.91,
+      "text": "今天早上我们做的票",
+      "avg_logprob": -0.1199,
+      "no_speech_prob": 0.8438,
+      "review": true
+    },
+    {
+      "start": 5854.91,
+      "end": 5855.91,
+      "text": "那我做的票",
+      "avg_logprob": -0.1199,
+      "no_speech_prob": 0.8438,
+      "review": true
+    },
+    {
+      "start": 5855.91,
+      "end": 5857.53,
+      "text": "那那个位置就是我的开仓信号",
+      "avg_logprob": -0.1199,
+      "no_speech_prob": 0.8438,
+      "review": true
+    },
+    {
+      "start": 5857.53,
+      "end": 5858.29,
+      "text": "那我可能要做",
+      "avg_logprob": -0.1199,
+      "no_speech_prob": 0.8438,
+      "review": true
+    },
+    {
+      "start": 5858.29,
+      "end": 5859.69,
+      "text": "好那问第一个",
+      "avg_logprob": -0.1199,
+      "no_speech_prob": 0.8438,
+      "review": true
+    },
+    {
+      "start": 5859.69,
+      "end": 5860.59,
+      "text": "既然是你的开仓信号",
+      "avg_logprob": -0.1199,
+      "no_speech_prob": 0.8438,
+      "review": true
+    },
+    {
+      "start": 5860.59,
+      "end": 5861.89,
+      "text": "那你的仓位管理如何",
+      "avg_logprob": -0.1199,
+      "no_speech_prob": 0.8438,
+      "review": true
+    },
+    {
+      "start": 5861.89,
+      "end": 5863.01,
+      "text": "它万一暴跌了",
+      "avg_logprob": -0.1199,
+      "no_speech_prob": 0.8438,
+      "review": true
+    },
+    {
+      "start": 5863.01,
+      "end": 5863.97,
+      "text": "你的仓位管理如何",
+      "avg_logprob": -0.1199,
+      "no_speech_prob": 0.8438,
+      "review": true
+    },
+    {
+      "start": 5863.97,
+      "end": 5864.85,
+      "text": "你是要加仓吗",
+      "avg_logprob": -0.1199,
+      "no_speech_prob": 0.8438,
+      "review": true
+    },
+    {
+      "start": 5864.85,
+      "end": 5865.47,
+      "text": "你要减仓吗",
+      "avg_logprob": -0.1199,
+      "no_speech_prob": 0.8438,
+      "review": true
+    },
+    {
+      "start": 5865.47,
+      "end": 5866.07,
+      "text": "你要止损吗",
+      "avg_logprob": -0.1199,
+      "no_speech_prob": 0.8438,
+      "review": true
+    },
+    {
+      "start": 5866.07,
+      "end": 5866.85,
+      "text": "你要跑路吗",
+      "avg_logprob": -0.1199,
+      "no_speech_prob": 0.8438,
+      "review": true
+    },
+    {
+      "start": 5866.85,
+      "end": 5867.33,
+      "text": "是吧",
+      "avg_logprob": -0.1199,
+      "no_speech_prob": 0.8438,
+      "review": true
+    },
+    {
+      "start": 5867.33,
+      "end": 5869.15,
+      "text": "那么在这个仓位基础上",
+      "avg_logprob": -0.1199,
+      "no_speech_prob": 0.8438,
+      "review": true
+    },
+    {
+      "start": 5869.15,
+      "end": 5870.43,
+      "text": "你要放多少仓位",
+      "avg_logprob": -0.1199,
+      "no_speech_prob": 0.8438,
+      "review": true
+    },
+    {
+      "start": 5870.43,
+      "end": 5871.65,
+      "text": "这些才是你的问题",
+      "avg_logprob": -0.1199,
+      "no_speech_prob": 0.8438,
+      "review": true
+    },
+    {
+      "start": 5871.65,
+      "end": 5873.17,
+      "text": "而不是问行情涨跌",
+      "avg_logprob": -0.1199,
+      "no_speech_prob": 0.8438,
+      "review": true
+    },
+    {
+      "start": 5873.17,
+      "end": 5876.75,
+      "text": "那比如说康康",
+      "avg_logprob": -0.1271,
+      "no_speech_prob": 0.1576,
+      "review": false
+    },
+    {
+      "start": 5876.75,
+      "end": 5878.29,
+      "text": "康康在这个位置",
+      "avg_logprob": -0.1271,
+      "no_speech_prob": 0.1576,
+      "review": false
+    },
+    {
+      "start": 5878.29,
+      "end": 5879.07,
+      "text": "那又问自己了",
+      "avg_logprob": -0.1271,
+      "no_speech_prob": 0.1576,
+      "review": false
+    },
+    {
+      "start": 5879.07,
+      "end": 5880.97,
+      "text": "我准备要多少的仓位",
+      "avg_logprob": -0.1271,
+      "no_speech_prob": 0.1576,
+      "review": false
+    },
+    {
+      "start": 5880.97,
+      "end": 5882.45,
+      "text": "我仓位一进去",
+      "avg_logprob": -0.1271,
+      "no_speech_prob": 0.1576,
+      "review": false
+    },
+    {
+      "start": 5882.45,
+      "end": 5883.15,
+      "text": "万一他暴跌",
+      "avg_logprob": -0.1271,
+      "no_speech_prob": 0.1576,
+      "review": false
+    },
+    {
+      "start": 5883.15,
+      "end": 5884.31,
+      "text": "啪 给我跌下来",
+      "avg_logprob": -0.1271,
+      "no_speech_prob": 0.1576,
+      "review": false
+    },
+    {
+      "start": 5884.31,
+      "end": 5885.67,
+      "text": "那我准备再加仓",
+      "avg_logprob": -0.1271,
+      "no_speech_prob": 0.1576,
+      "review": false
+    },
+    {
+      "start": 5885.67,
+      "end": 5886.33,
+      "text": "在哪里加仓",
+      "avg_logprob": -0.1271,
+      "no_speech_prob": 0.1576,
+      "review": false
+    },
+    {
+      "start": 5886.33,
+      "end": 5886.87,
+      "text": "是吧",
+      "avg_logprob": -0.1271,
+      "no_speech_prob": 0.1576,
+      "review": false
+    },
+    {
+      "start": 5886.87,
+      "end": 5888.11,
+      "text": "那就都想好的呀",
+      "avg_logprob": -0.1271,
+      "no_speech_prob": 0.1576,
+      "review": false
+    },
+    {
+      "start": 5888.11,
+      "end": 5889.69,
+      "text": "康康我第一批仓位在这",
+      "avg_logprob": -0.1271,
+      "no_speech_prob": 0.1576,
+      "review": false
+    },
+    {
+      "start": 5889.69,
+      "end": 5891.07,
+      "text": "那么第二批仓位在这",
+      "avg_logprob": -0.1271,
+      "no_speech_prob": 0.1576,
+      "review": false
+    },
+    {
+      "start": 5891.07,
+      "end": 5892.67,
+      "text": "那么我会问自己",
+      "avg_logprob": -0.1271,
+      "no_speech_prob": 0.1576,
+      "review": false
+    },
+    {
+      "start": 5892.67,
+      "end": 5893.95,
+      "text": "如果第二批买了",
+      "avg_logprob": -0.1271,
+      "no_speech_prob": 0.1576,
+      "review": false
+    },
+    {
+      "start": 5893.95,
+      "end": 5894.93,
+      "text": "康康再暴跌",
+      "avg_logprob": -0.1271,
+      "no_speech_prob": 0.1576,
+      "review": false
+    },
+    {
+      "start": 5894.93,
+      "end": 5896.87,
+      "text": "那么我第三批仓位在哪家",
+      "avg_logprob": -0.1271,
+      "no_speech_prob": 0.1576,
+      "review": false
+    },
+    {
+      "start": 5896.87,
+      "end": 5897.51,
+      "text": "在这家",
+      "avg_logprob": -0.1271,
+      "no_speech_prob": 0.1576,
+      "review": false
+    },
+    {
+      "start": 5897.51,
+      "end": 5899.09,
+      "text": "还是说我砍仓要止损",
+      "avg_logprob": -0.1271,
+      "no_speech_prob": 0.1576,
+      "review": false
+    },
+    {
+      "start": 5899.09,
+      "end": 5901.25,
+      "text": "你提前是怎么计划的",
+      "avg_logprob": -0.1271,
+      "no_speech_prob": 0.1576,
+      "review": false
+    },
+    {
+      "start": 5901.25,
+      "end": 5902.83,
+      "text": "你要问的是这些问题",
+      "avg_logprob": -0.1271,
+      "no_speech_prob": 0.1576,
+      "review": false
+    },
+    {
+      "start": 5902.83,
+      "end": 5938.84,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1153,
+      "no_speech_prob": 0.1554,
+      "review": false
+    },
+    {
+      "start": 5938.86,
+      "end": 5942.46,
+      "text": "所以我猜马上的时候我们还是聊会儿天吧",
+      "avg_logprob": -0.1364,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5942.46,
+      "end": 5954.54,
+      "text": "所以我是忽然忽然想聊天的",
+      "avg_logprob": -0.1364,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5954.54,
+      "end": 5957.04,
+      "text": "不然的话我不会做今天直播的",
+      "avg_logprob": -0.1364,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5957.04,
+      "end": 5963.56,
+      "text": "幸亏幸亏我没有谈恋爱",
+      "avg_logprob": -0.1364,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5963.56,
+      "end": 5965.1,
+      "text": "我要谈恋爱就放弃你们了",
+      "avg_logprob": -0.1364,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5965.1,
+      "end": 5966.16,
+      "text": "你们看不到我了",
+      "avg_logprob": -0.1364,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5966.16,
+      "end": 5968.2,
+      "text": "我现在早就去逍遥去了",
+      "avg_logprob": -0.1364,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5968.2,
+      "end": 5970.12,
+      "text": "我现在早就去春宵去了",
+      "avg_logprob": -0.1364,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5970.12,
+      "end": 5972.24,
+      "text": "我还来陪你们是不是",
+      "avg_logprob": -0.1364,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5972.24,
+      "end": 5975.02,
+      "text": "你们要亲戚我还没有谈恋爱",
+      "avg_logprob": -0.1364,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5975.02,
+      "end": 6001.98,
+      "text": "哎,我要谈恋爱的话,我思想、体力都不行了,都没有时间了,我身体也不行了,心理也不行了。",
+      "avg_logprob": -0.1756,
+      "no_speech_prob": 0.0,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 20.91
+}

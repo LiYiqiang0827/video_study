@@ -1,0 +1,416 @@
+{
+  "begin": 0.0,
+  "finish": 300.0,
+  "segments": [
+    {
+      "start": 55.47,
+      "end": 95.46,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1164,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 95.48,
+      "end": 98.18,
+      "text": "明天后天不要去追了",
+      "avg_logprob": -0.1879,
+      "no_speech_prob": 0.8789,
+      "review": true
+    },
+    {
+      "start": 98.18,
+      "end": 100.75,
+      "text": "这就是美股啊",
+      "avg_logprob": -0.1879,
+      "no_speech_prob": 0.8789,
+      "review": true
+    },
+    {
+      "start": 100.75,
+      "end": 102.95,
+      "text": "咱们A股什么时候有这么强就好了",
+      "avg_logprob": -0.1879,
+      "no_speech_prob": 0.8789,
+      "review": true
+    },
+    {
+      "start": 102.95,
+      "end": 106.3,
+      "text": "什么时候有这么强就好了",
+      "avg_logprob": -0.1879,
+      "no_speech_prob": 0.8789,
+      "review": true
+    },
+    {
+      "start": 106.3,
+      "end": 110.1,
+      "text": "我靠 太成光",
+      "avg_logprob": -0.1879,
+      "no_speech_prob": 0.8789,
+      "review": true
+    },
+    {
+      "start": 110.1,
+      "end": 114.18,
+      "text": "完了 这个小作文影响了",
+      "avg_logprob": -0.1879,
+      "no_speech_prob": 0.8789,
+      "review": true
+    },
+    {
+      "start": 114.18,
+      "end": 118.43,
+      "text": "有一个小作文说美国不买这个中国的这个东西",
+      "avg_logprob": -0.1879,
+      "no_speech_prob": 0.8789,
+      "review": true
+    },
+    {
+      "start": 118.43,
+      "end": 122.39,
+      "text": "所以说这就为什么说一定要分批分仓啊",
+      "avg_logprob": -0.1879,
+      "no_speech_prob": 0.8789,
+      "review": true
+    },
+    {
+      "start": 122.39,
+      "end": 124.51,
+      "text": "不然你这个你说你这种东西",
+      "avg_logprob": -0.1879,
+      "no_speech_prob": 0.8789,
+      "review": true
+    },
+    {
+      "start": 126.95,
+      "end": 129.4,
+      "text": "我们看看还有其他的票",
+      "avg_logprob": -0.1879,
+      "no_speech_prob": 0.8789,
+      "review": true
+    },
+    {
+      "start": 129.4,
+      "end": 132.55,
+      "text": "云南折叶好像这两个没买上",
+      "avg_logprob": -0.1878,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 132.55,
+      "end": 136.24,
+      "text": "哇天",
+      "avg_logprob": -0.1878,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 136.24,
+      "end": 137.02,
+      "text": "太成光被",
+      "avg_logprob": -0.1878,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 137.02,
+      "end": 138.2,
+      "text": "这种没办法",
+      "avg_logprob": -0.1878,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 138.2,
+      "end": 139.18,
+      "text": "啊",
+      "avg_logprob": -0.1878,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 139.18,
+      "end": 139.92,
+      "text": "这种没办法",
+      "avg_logprob": -0.1878,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 139.92,
+      "end": 140.58,
+      "text": "这种真的是",
+      "avg_logprob": -0.1878,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 140.58,
+      "end": 141.4,
+      "text": "这种有啥办法",
+      "avg_logprob": -0.1878,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 141.4,
+      "end": 142.64,
+      "text": "这种突发性的呀",
+      "avg_logprob": -0.1878,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 142.64,
+      "end": 144.84,
+      "text": "你说早不来晚不来",
+      "avg_logprob": -0.1878,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 144.84,
+      "end": 148.1,
+      "text": "突然搞这个东西",
+      "avg_logprob": -0.1878,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 148.1,
+      "end": 149.56,
+      "text": "中继旭创也跌停",
+      "avg_logprob": -0.1878,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 149.56,
+      "end": 150.76,
+      "text": "太成光也跌停",
+      "avg_logprob": -0.1878,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 150.76,
+      "end": 152.2,
+      "text": "我靠",
+      "avg_logprob": -0.1878,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 152.2,
+      "end": 154.48,
+      "text": "这这等会儿不跌停的时候赶快跑吧",
+      "avg_logprob": -0.1878,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 154.48,
+      "end": 159.05,
+      "text": "这个的确是有一点点",
+      "avg_logprob": -0.1878,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 159.05,
+      "end": 160.15,
+      "text": "这种没办法啊",
+      "avg_logprob": -0.1878,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 160.15,
+      "end": 162.37,
+      "text": "这种一点办法都没有啊",
+      "avg_logprob": -0.1878,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 162.37,
+      "end": 163.75,
+      "text": "我们看看最近的这个",
+      "avg_logprob": -0.1878,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 163.75,
+      "end": 212.84,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0762,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 212.86,
+      "end": 216.07,
+      "text": "这种情况没办法哦",
+      "avg_logprob": -0.1662,
+      "no_speech_prob": 0.8726,
+      "review": true
+    },
+    {
+      "start": 216.07,
+      "end": 218.39,
+      "text": "这种情况毫无办法",
+      "avg_logprob": -0.1662,
+      "no_speech_prob": 0.8726,
+      "review": true
+    },
+    {
+      "start": 218.39,
+      "end": 228.89,
+      "text": "不管了我们就没办法",
+      "avg_logprob": -0.1662,
+      "no_speech_prob": 0.8726,
+      "review": true
+    },
+    {
+      "start": 228.89,
+      "end": 235.94,
+      "text": "为了压制暴涨煞费苦心",
+      "avg_logprob": -0.1662,
+      "no_speech_prob": 0.8726,
+      "review": true
+    },
+    {
+      "start": 235.94,
+      "end": 238.08,
+      "text": "是啊美国故意打压呀",
+      "avg_logprob": -0.1662,
+      "no_speech_prob": 0.8726,
+      "review": true
+    },
+    {
+      "start": 238.08,
+      "end": 239.08,
+      "text": "这有啥办法呀",
+      "avg_logprob": -0.1662,
+      "no_speech_prob": 0.8726,
+      "review": true
+    },
+    {
+      "start": 239.08,
+      "end": 240.44,
+      "text": "老美要打压咱们",
+      "avg_logprob": -0.1662,
+      "no_speech_prob": 0.8726,
+      "review": true
+    },
+    {
+      "start": 240.44,
+      "end": 241.42,
+      "text": "没办法",
+      "avg_logprob": -0.1662,
+      "no_speech_prob": 0.8726,
+      "review": true
+    },
+    {
+      "start": 241.42,
+      "end": 243.23,
+      "text": "小纵发联对啊",
+      "avg_logprob": -0.1662,
+      "no_speech_prob": 0.8726,
+      "review": true
+    },
+    {
+      "start": 243.23,
+      "end": 243.97,
+      "text": "不知道是不是骗",
+      "avg_logprob": -0.1662,
+      "no_speech_prob": 0.8726,
+      "review": true
+    },
+    {
+      "start": 243.97,
+      "end": 245.17,
+      "text": "管他骗不骗哦",
+      "avg_logprob": -0.1662,
+      "no_speech_prob": 0.8726,
+      "review": true
+    },
+    {
+      "start": 245.17,
+      "end": 245.87,
+      "text": "不对就要走",
+      "avg_logprob": -0.1662,
+      "no_speech_prob": 0.8726,
+      "review": true
+    },
+    {
+      "start": 245.87,
+      "end": 247.29,
+      "text": "反正等会儿吧",
+      "avg_logprob": -0.1662,
+      "no_speech_prob": 0.8726,
+      "review": true
+    },
+    {
+      "start": 247.29,
+      "end": 248.29,
+      "text": "等会儿他回抽了",
+      "avg_logprob": -0.1662,
+      "no_speech_prob": 0.8726,
+      "review": true
+    },
+    {
+      "start": 248.29,
+      "end": 250.41,
+      "text": "因为他等会儿",
+      "avg_logprob": -0.1662,
+      "no_speech_prob": 0.8726,
+      "review": true
+    },
+    {
+      "start": 250.41,
+      "end": 252.07,
+      "text": "等会儿还是有回抽机会的",
+      "avg_logprob": -0.1662,
+      "no_speech_prob": 0.8726,
+      "review": true
+    },
+    {
+      "start": 252.07,
+      "end": 252.87,
+      "text": "我认为啊",
+      "avg_logprob": -0.1662,
+      "no_speech_prob": 0.8726,
+      "review": true
+    },
+    {
+      "start": 252.87,
+      "end": 254.01,
+      "text": "我这个话筒还是",
+      "avg_logprob": -0.1662,
+      "no_speech_prob": 0.8726,
+      "review": true
+    },
+    {
+      "start": 254.01,
+      "end": 287.07,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1105,
+      "no_speech_prob": 0.1726,
+      "review": false
+    },
+    {
+      "start": 287.09,
+      "end": 301.99,
+      "text": "这种事情是没有一丁点办法提前知道的,好不好?这种办法没有办法。那么这就是为什么说你看我会买很多只,为什么说我的持仓股比较多的原因,就是我的就是我不会买一只。",
+      "avg_logprob": -0.1133,
+      "no_speech_prob": 0.2205,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 16.36
+}

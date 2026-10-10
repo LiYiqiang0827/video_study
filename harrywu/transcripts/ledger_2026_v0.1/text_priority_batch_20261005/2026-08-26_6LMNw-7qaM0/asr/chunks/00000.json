@@ -1,0 +1,264 @@
+{
+  "begin": 0.0,
+  "finish": 300.0,
+  "segments": [
+    {
+      "start": 139.08,
+      "end": 142.94,
+      "text": "大家好,不着急啊,我现在手头有些要处理一下",
+      "avg_logprob": -0.1382,
+      "no_speech_prob": 0.0006,
+      "review": false
+    },
+    {
+      "start": 142.94,
+      "end": 171.47,
+      "text": "整体上2000多只下跌,1900只上涨,一半一半还算正常",
+      "avg_logprob": -0.1382,
+      "no_speech_prob": 0.0006,
+      "review": false
+    },
+    {
+      "start": 171.47,
+      "end": 182.61,
+      "text": "从板块的角度来讲,看什么板块在跌啊",
+      "avg_logprob": -0.1382,
+      "no_speech_prob": 0.0006,
+      "review": false
+    },
+    {
+      "start": 182.61,
+      "end": 188.57,
+      "text": "这个种业简直是一天天堂一天地狱啊",
+      "avg_logprob": -0.1382,
+      "no_speech_prob": 0.0006,
+      "review": false
+    },
+    {
+      "start": 188.57,
+      "end": 190.97,
+      "text": "这个粮食的种业太疯狂了",
+      "avg_logprob": -0.1382,
+      "no_speech_prob": 0.0006,
+      "review": false
+    },
+    {
+      "start": 190.97,
+      "end": 203.03,
+      "text": "黄金也是,这种水产品肌肉,你看跌的都是脑袋,昨天涨的都是它们,这两天跌的又是它们,每天换来换去的",
+      "avg_logprob": -0.118,
+      "no_speech_prob": 0.204,
+      "review": false
+    },
+    {
+      "start": 203.03,
+      "end": 211.36,
+      "text": "生物疫苗、玻璃基板、光通讯、CPU,这些都是昨天跌的,今天又开始涨",
+      "avg_logprob": -0.118,
+      "no_speech_prob": 0.204,
+      "review": false
+    },
+    {
+      "start": 211.36,
+      "end": 219.22,
+      "text": "这每天都是在这儿动来动去的,纺织药、减肥药,因为美股这边医药有一点点涨,所以他们开始MLC概念",
+      "avg_logprob": -0.118,
+      "no_speech_prob": 0.204,
+      "review": false
+    },
+    {
+      "start": 219.22,
+      "end": 230.36,
+      "text": "好,你看啊,基本上如果是这些在涨,什么CPU啊,PCB啊,MLCC啊,减肥药啊,芯片啊",
+      "avg_logprob": -0.1703,
+      "no_speech_prob": 0.0871,
+      "review": false
+    },
+    {
+      "start": 230.36,
+      "end": 235.16,
+      "text": "基本上今天大概率,今天会涨,会红盘",
+      "avg_logprob": -0.1703,
+      "no_speech_prob": 0.0871,
+      "review": false
+    },
+    {
+      "start": 235.16,
+      "end": 239.06,
+      "text": "因为这些都是重头股嘛,这都是重头股",
+      "avg_logprob": -0.1703,
+      "no_speech_prob": 0.0871,
+      "review": false
+    },
+    {
+      "start": 239.06,
+      "end": 248.52,
+      "text": "焦煤、汽、油气,完全是翘翘版",
+      "avg_logprob": -0.1703,
+      "no_speech_prob": 0.0871,
+      "review": false
+    },
+    {
+      "start": 248.52,
+      "end": 250.45,
+      "text": "完全是翘翘版",
+      "avg_logprob": -0.1703,
+      "no_speech_prob": 0.0871,
+      "review": false
+    },
+    {
+      "start": 250.45,
+      "end": 255.64,
+      "text": "等会看看这些概念吧",
+      "avg_logprob": -0.1703,
+      "no_speech_prob": 0.0871,
+      "review": false
+    },
+    {
+      "start": 255.64,
+      "end": 258.99,
+      "text": "这些都是昨天跌的",
+      "avg_logprob": -0.2525,
+      "no_speech_prob": 0.0487,
+      "review": false
+    },
+    {
+      "start": 258.99,
+      "end": 259.89,
+      "text": "现在涨",
+      "avg_logprob": -0.2525,
+      "no_speech_prob": 0.0487,
+      "review": false
+    },
+    {
+      "start": 259.89,
+      "end": 261.05,
+      "text": "好",
+      "avg_logprob": -0.2525,
+      "no_speech_prob": 0.0487,
+      "review": false
+    },
+    {
+      "start": 261.05,
+      "end": 264.8,
+      "text": "我们再看一下",
+      "avg_logprob": -0.2525,
+      "no_speech_prob": 0.0487,
+      "review": false
+    },
+    {
+      "start": 264.8,
+      "end": 268.52,
+      "text": "基本上就知道哪些",
+      "avg_logprob": -0.2525,
+      "no_speech_prob": 0.0487,
+      "review": false
+    },
+    {
+      "start": 268.52,
+      "end": 270.54,
+      "text": "然后这边呢",
+      "avg_logprob": -0.2525,
+      "no_speech_prob": 0.0487,
+      "review": false
+    },
+    {
+      "start": 270.54,
+      "end": 272.64,
+      "text": "题材",
+      "avg_logprob": -0.2525,
+      "no_speech_prob": 0.0487,
+      "review": false
+    },
+    {
+      "start": 272.64,
+      "end": 277.61,
+      "text": "金锐矿业私盐在涨",
+      "avg_logprob": -0.2525,
+      "no_speech_prob": 0.0487,
+      "review": false
+    },
+    {
+      "start": 277.61,
+      "end": 278.51,
+      "text": "红心发展",
+      "avg_logprob": -0.2525,
+      "no_speech_prob": 0.0487,
+      "review": false
+    },
+    {
+      "start": 278.51,
+      "end": 279.35,
+      "text": "你看",
+      "avg_logprob": -0.2525,
+      "no_speech_prob": 0.0487,
+      "review": false
+    },
+    {
+      "start": 279.35,
+      "end": 280.95,
+      "text": "私盐",
+      "avg_logprob": -0.2525,
+      "no_speech_prob": 0.0487,
+      "review": false
+    },
+    {
+      "start": 280.95,
+      "end": 282.77,
+      "text": "私盐为什么涨呢",
+      "avg_logprob": -0.2525,
+      "no_speech_prob": 0.0487,
+      "review": false
+    },
+    {
+      "start": 282.77,
+      "end": 284.11,
+      "text": "是什么原因",
+      "avg_logprob": -0.2525,
+      "no_speech_prob": 0.0487,
+      "review": false
+    },
+    {
+      "start": 284.11,
+      "end": 287.71,
+      "text": "然后看一下它的原因是什么",
+      "avg_logprob": -0.2525,
+      "no_speech_prob": 0.0487,
+      "review": false
+    },
+    {
+      "start": 287.71,
+      "end": 289.7,
+      "text": "金锐矿业",
+      "avg_logprob": -0.2525,
+      "no_speech_prob": 0.0487,
+      "review": false
+    },
+    {
+      "start": 289.7,
+      "end": 295.3,
+      "text": "昨天就是一个涨题",
+      "avg_logprob": -0.293,
+      "no_speech_prob": 0.1064,
+      "review": false
+    },
+    {
+      "start": 295.3,
+      "end": 297.58,
+      "text": "四言是第二顿",
+      "avg_logprob": -0.293,
+      "no_speech_prob": 0.1064,
+      "review": false
+    },
+    {
+      "start": 297.58,
+      "end": 301.74,
+      "text": "涨四言是什么原因呢",
+      "avg_logprob": -0.293,
+      "no_speech_prob": 0.1064,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 9.47
+}

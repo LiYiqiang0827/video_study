@@ -1,0 +1,28 @@
+{
+  "status": "passed",
+  "checked": "2026-10-03T04:29:08.390257+00:00",
+  "checks": [
+    {
+      "stream_id": "XSFwu5KOo5Y",
+      "source_hash_verified": true,
+      "chunks": 30,
+      "frame_ocr_associations": 3190,
+      "viewer_sha256": "63237729fff2dc32e4b3a91ee543f5cd1eadb471fca50925db0bc8eed895f0d3"
+    },
+    {
+      "stream_id": "dMgT48e5NQo",
+      "source_hash_verified": true,
+      "chunks": 15,
+      "frame_ocr_associations": 1653,
+      "viewer_sha256": "2329857381bc83a0a8188f312c2fb1b2ea41eeca8a97f37daa5aa96e0921b4e3"
+    },
+    {
+      "stream_id": "zuo8FhWIdow",
+      "source_hash_verified": true,
+      "chunks": 28,
+      "frame_ocr_associations": 2955,
+      "viewer_sha256": "63854811d9932418b8f5a9d8fed29589aa32910646424d47d209459b20e25b63"
+    }
+  ],
+  "acceptance_scope": "Technical source/chunk/frame binding only; event extraction and human accuracy acceptance remain pending"
+}

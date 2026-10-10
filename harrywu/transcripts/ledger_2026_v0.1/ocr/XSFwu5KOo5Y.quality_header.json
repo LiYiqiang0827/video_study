@@ -1,0 +1,144 @@
+{
+  "stream_id": "XSFwu5KOo5Y",
+  "region": [
+    975,
+    18,
+    1130,
+    40
+  ],
+  "upscale": 3,
+  "scope": "Main Tongdaxin title only; not whole-frame OCR",
+  "limitation": "Other layouts, prices, holding tables and clocks require separate OCR/review. No stock identity matching or event classification is done.",
+  "frames": [
+    {
+      "time": 600.0,
+      "frame": "D:\\YuncongVideoAnalysis\\ledger_2026_v0.1\\quality_frames\\XSFwu5KOo5Y\\frame_00000_000600000.jpg",
+      "frame_sha256": "c6913154ef351eaed584f7c33cb8fc52bae81c354dccff25a61964be49b7e3a5",
+      "ocr": [
+        {
+          "text": "688636",
+          "confidence": 0.9981507261594137,
+          "box_original_pixels": [
+            [
+              995.33,
+              21.33
+            ],
+            [
+              1031.67,
+              21.33
+            ],
+            [
+              1031.67,
+              33.33
+            ],
+            [
+              995.33,
+              33.33
+            ]
+          ]
+        },
+        {
+          "text": "智明达",
+          "confidence": 0.9898959000905355,
+          "box_original_pixels": [
+            [
+              1027.67,
+              18.67
+            ],
+            [
+              1067.0,
+              18.67
+            ],
+            [
+              1067.0,
+              36.33
+            ],
+            [
+              1027.67,
+              36.33
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "time": 2400.0,
+      "frame": "D:\\YuncongVideoAnalysis\\ledger_2026_v0.1\\quality_frames\\XSFwu5KOo5Y\\frame_00001_002400000.jpg",
+      "frame_sha256": "8fc0b1be910b479f44f27a21474b4590f9de356dbd357f6c2ba9fe32415151f4",
+      "ocr": [
+        {
+          "text": "7报华股份",
+          "confidence": 0.9566336631774902,
+          "box_original_pixels": [
+            [
+              1025.0,
+              18.0
+            ],
+            [
+              1078.0,
+              18.0
+            ],
+            [
+              1078.0,
+              37.0
+            ],
+            [
+              1025.0,
+              37.0
+            ]
+          ]
+        },
+        {
+          "text": "R",
+          "confidence": 0.9776784181594849,
+          "box_original_pixels": [
+            [
+              989.33,
+              22.33
+            ],
+            [
+              994.33,
+              21.67
+            ],
+            [
+              995.0,
+              27.0
+            ],
+            [
+              990.0,
+              27.67
+            ]
+          ]
+        },
+        {
+          "text": "603067",
+          "confidence": 0.9973097642262777,
+          "box_original_pixels": [
+            [
+              995.67,
+              21.67
+            ],
+            [
+              1031.0,
+              21.67
+            ],
+            [
+              1031.0,
+              33.0
+            ],
+            [
+              995.67,
+              33.0
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "time": 5400.0,
+      "frame": "D:\\YuncongVideoAnalysis\\ledger_2026_v0.1\\quality_frames\\XSFwu5KOo5Y\\frame_00002_005400000.jpg",
+      "frame_sha256": "3aebd802c6bb54823924659b6ad4f42ba073adbadeb7e0fdd9b260966dab3ab0",
+      "ocr": []
+    }
+  ]
+}

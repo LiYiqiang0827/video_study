@@ -1,0 +1,29 @@
+{
+  "stream_id": "MonICnSdMwU",
+  "duration_seconds": 6883.323356,
+  "asr_wall_seconds": 500.172,
+  "segments": 1883,
+  "chunks": 23,
+  "source_hash_matches": true,
+  "visual_processing": false,
+  "asr_large_model_token_usage": 0,
+  "text_stage": "complete",
+  "asr_noise_exception": "D:\\YuncongVideoAnalysis\\ledger_2026_v0.1\\text_priority_batch_20261005\\2026-07-29_MonICnSdMwU\\asr_noise_exception.json",
+  "original_segments": 1883,
+  "retained_nonempty_segments": 1663,
+  "sections": 24,
+  "retained_source_seconds": 6191.0,
+  "stock_name_replacements": 103,
+  "term_replacements": 11,
+  "pending_name_occurrences": 7,
+  "semantic_reviewer": "current_codex_primary",
+  "text_completed_utc": "2026-10-05T10:17:32.585397+00:00",
+  "checks": {
+    "source_asr_hash_unchanged": true,
+    "source_timestamps_and_ids_unchanged": true,
+    "spoken_numbers_unchanged": true,
+    "section_coverage_complete": true,
+    "visual_processing": false
+  },
+  "original_asr_sha256": "80a451e963494893f4c2abd58f013097adccffb2832e68d4f0d7bb27a8a05dd0"
+}

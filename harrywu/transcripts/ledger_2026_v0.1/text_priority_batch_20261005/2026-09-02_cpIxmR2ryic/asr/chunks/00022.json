@@ -1,0 +1,808 @@
+{
+  "begin": 6600.0,
+  "finish": 6900.0,
+  "segments": [
+    {
+      "start": 6598.0,
+      "end": 6628.1,
+      "text": "我只有当道士才能满足我了,我现在已经觉得,哎呀,就是,就是我非常好奇他们道士的那些捉鬼画符啊,这到底是真是假,我特别好奇想去学一学啊,就是我想把八字学完了之后,大流刃学完了之后,我准备去道士去学习法术,我觉得这个东西实在是很有趣的,哎呀,我觉得这样我的人生就太圆满了,我又会说几门外语,我又会搞金融交易,我还会给人看命,我还可以,我还可以,",
+      "avg_logprob": -0.0997,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 6628.12,
+      "end": 6629.4,
+      "text": "还有一些法术",
+      "avg_logprob": -0.1343,
+      "no_speech_prob": 0.121,
+      "review": false
+    },
+    {
+      "start": 6629.4,
+      "end": 6632.28,
+      "text": "我觉得人生就太有趣了",
+      "avg_logprob": -0.1343,
+      "no_speech_prob": 0.121,
+      "review": false
+    },
+    {
+      "start": 6632.28,
+      "end": 6633.48,
+      "text": "我觉得人生就很有价值",
+      "avg_logprob": -0.1343,
+      "no_speech_prob": 0.121,
+      "review": false
+    },
+    {
+      "start": 6633.48,
+      "end": 6634.92,
+      "text": "真的我觉得",
+      "avg_logprob": -0.1343,
+      "no_speech_prob": 0.121,
+      "review": false
+    },
+    {
+      "start": 6634.92,
+      "end": 6637.06,
+      "text": "反正我觉得我是一个很开心的人",
+      "avg_logprob": -0.1343,
+      "no_speech_prob": 0.121,
+      "review": false
+    },
+    {
+      "start": 6637.06,
+      "end": 6637.7,
+      "text": "我还是这个",
+      "avg_logprob": -0.1343,
+      "no_speech_prob": 0.121,
+      "review": false
+    },
+    {
+      "start": 6637.7,
+      "end": 6641.7,
+      "text": "我觉得人生就是一种很绽放的状态",
+      "avg_logprob": -0.1343,
+      "no_speech_prob": 0.121,
+      "review": false
+    },
+    {
+      "start": 6641.7,
+      "end": 6643.02,
+      "text": "不能死气沉沉的",
+      "avg_logprob": -0.1343,
+      "no_speech_prob": 0.121,
+      "review": false
+    },
+    {
+      "start": 6643.02,
+      "end": 6643.4,
+      "text": "我觉得",
+      "avg_logprob": -0.1343,
+      "no_speech_prob": 0.121,
+      "review": false
+    },
+    {
+      "start": 6643.4,
+      "end": 6644.76,
+      "text": "我如果觉得",
+      "avg_logprob": -0.1343,
+      "no_speech_prob": 0.121,
+      "review": false
+    },
+    {
+      "start": 6644.76,
+      "end": 6647.62,
+      "text": "我觉得如果我把大力刃也学会了",
+      "avg_logprob": -0.1343,
+      "no_speech_prob": 0.121,
+      "review": false
+    },
+    {
+      "start": 6647.62,
+      "end": 6649.06,
+      "text": "八字也学会了",
+      "avg_logprob": -0.1343,
+      "no_speech_prob": 0.121,
+      "review": false
+    },
+    {
+      "start": 6649.06,
+      "end": 6650.4,
+      "text": "我觉得我已经不能满足了",
+      "avg_logprob": -0.1343,
+      "no_speech_prob": 0.121,
+      "review": false
+    },
+    {
+      "start": 6650.4,
+      "end": 6651.2,
+      "text": "我要去学法术",
+      "avg_logprob": -0.1343,
+      "no_speech_prob": 0.121,
+      "review": false
+    },
+    {
+      "start": 6651.2,
+      "end": 6653.66,
+      "text": "我要去学法术",
+      "avg_logprob": -0.1343,
+      "no_speech_prob": 0.121,
+      "review": false
+    },
+    {
+      "start": 6653.66,
+      "end": 6655.04,
+      "text": "我看看到底神不神",
+      "avg_logprob": -0.1343,
+      "no_speech_prob": 0.121,
+      "review": false
+    },
+    {
+      "start": 6655.04,
+      "end": 6656.78,
+      "text": "如果那些法术真的神的话",
+      "avg_logprob": -0.1343,
+      "no_speech_prob": 0.121,
+      "review": false
+    },
+    {
+      "start": 6656.78,
+      "end": 6657.84,
+      "text": "我回来给你们汇报一下",
+      "avg_logprob": -0.1343,
+      "no_speech_prob": 0.121,
+      "review": false
+    },
+    {
+      "start": 6657.84,
+      "end": 6660.62,
+      "text": "但是捉鬼我可能不敢捉",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.9697,
+      "review": true
+    },
+    {
+      "start": 6660.62,
+      "end": 6663.72,
+      "text": "我最多去做一些画画符啊",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.9697,
+      "review": true
+    },
+    {
+      "start": 6663.72,
+      "end": 6665.6,
+      "text": "保佑啊那些东西啊",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.9697,
+      "review": true
+    },
+    {
+      "start": 6665.6,
+      "end": 6667.32,
+      "text": "半开玩笑的",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.9697,
+      "review": true
+    },
+    {
+      "start": 6667.32,
+      "end": 6668.54,
+      "text": "半开玩笑的",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.9697,
+      "review": true
+    },
+    {
+      "start": 6668.54,
+      "end": 6671.12,
+      "text": "我觉得大乐院学完了也差不多了",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.9697,
+      "review": true
+    },
+    {
+      "start": 6671.12,
+      "end": 6671.82,
+      "text": "但是就是",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.9697,
+      "review": true
+    },
+    {
+      "start": 6671.82,
+      "end": 6674.64,
+      "text": "如果真的我把大乐院学透了",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.9697,
+      "review": true
+    },
+    {
+      "start": 6674.64,
+      "end": 6676.04,
+      "text": "我就",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.9697,
+      "review": true
+    },
+    {
+      "start": 6676.04,
+      "end": 6678.2,
+      "text": "我就不知道还有什么能够",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.9697,
+      "review": true
+    },
+    {
+      "start": 6678.2,
+      "end": 6679.26,
+      "text": "我哲学嘛",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.9697,
+      "review": true
+    },
+    {
+      "start": 6679.26,
+      "end": 6682.44,
+      "text": "我准备以后回国找一个哲学老师再教我",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.9697,
+      "review": true
+    },
+    {
+      "start": 6682.44,
+      "end": 6684.12,
+      "text": "那如果都学完了",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.9697,
+      "review": true
+    },
+    {
+      "start": 6684.12,
+      "end": 6685.12,
+      "text": "我就不知道",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.9697,
+      "review": true
+    },
+    {
+      "start": 6685.12,
+      "end": 6687.62,
+      "text": "文科领域因为我历史特别好",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.9697,
+      "review": true
+    },
+    {
+      "start": 6687.62,
+      "end": 6690.8,
+      "text": "我喜欢历史,但是历史没有什么可学的嘛,历史就看看书而已",
+      "avg_logprob": -0.125,
+      "no_speech_prob": 0.6323,
+      "review": true
+    },
+    {
+      "start": 6690.8,
+      "end": 6695.38,
+      "text": "我就觉得文科领域我就觉得已经,理科我就不想搞了,那没意思了",
+      "avg_logprob": -0.125,
+      "no_speech_prob": 0.6323,
+      "review": true
+    },
+    {
+      "start": 6695.38,
+      "end": 6700.62,
+      "text": "在文科领域我就已经学到头了,能够把易经、大六论学透了",
+      "avg_logprob": -0.125,
+      "no_speech_prob": 0.6323,
+      "review": true
+    },
+    {
+      "start": 6700.62,
+      "end": 6703.96,
+      "text": "就文科领域就学到头了,再把哲学学一套",
+      "avg_logprob": -0.125,
+      "no_speech_prob": 0.6323,
+      "review": true
+    },
+    {
+      "start": 6703.96,
+      "end": 6707.9,
+      "text": "我就觉得就不知道了,最后只能去学法术了",
+      "avg_logprob": -0.125,
+      "no_speech_prob": 0.6323,
+      "review": true
+    },
+    {
+      "start": 6707.9,
+      "end": 6715.62,
+      "text": "对,你这个朋友说的好,抓股票抓妖,当道士也抓妖",
+      "avg_logprob": -0.125,
+      "no_speech_prob": 0.6323,
+      "review": true
+    },
+    {
+      "start": 6715.62,
+      "end": 6717.18,
+      "text": "都是抓妖是不是",
+      "avg_logprob": -0.1387,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 6717.18,
+      "end": 6718.82,
+      "text": "都是抓妖",
+      "avg_logprob": -0.1387,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 6718.82,
+      "end": 6722.58,
+      "text": "开玩笑",
+      "avg_logprob": -0.1387,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 6722.58,
+      "end": 6724.1,
+      "text": "中医啊",
+      "avg_logprob": -0.1387,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 6724.1,
+      "end": 6725.18,
+      "text": "我爸爸就中医",
+      "avg_logprob": -0.1387,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 6725.18,
+      "end": 6726.8,
+      "text": "我爸爸中医",
+      "avg_logprob": -0.1387,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 6726.8,
+      "end": 6729.08,
+      "text": "他医生的本领",
+      "avg_logprob": -0.1387,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 6729.08,
+      "end": 6731.48,
+      "text": "他医生的本领都交不给我",
+      "avg_logprob": -0.1387,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 6731.48,
+      "end": 6734.34,
+      "text": "本来我就说回家之后让我爸做视频",
+      "avg_logprob": -0.1387,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 6734.34,
+      "end": 6735.8,
+      "text": "我说你这一辈子",
+      "avg_logprob": -0.1387,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 6735.8,
+      "end": 6737.22,
+      "text": "所以挺遗憾的",
+      "avg_logprob": -0.1387,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 6737.22,
+      "end": 6739.58,
+      "text": "他这一辈子学了那么多东西也传授不了给我",
+      "avg_logprob": -0.1387,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 6739.58,
+      "end": 6740.64,
+      "text": "我爸也中医",
+      "avg_logprob": -0.1387,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 6740.64,
+      "end": 6742.74,
+      "text": "开房子啊那些都会的",
+      "avg_logprob": -0.1387,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 6742.74,
+      "end": 6747.6,
+      "text": "那不行不行不行",
+      "avg_logprob": -0.1387,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 6747.6,
+      "end": 6748.7,
+      "text": "我不敢搞这些东西",
+      "avg_logprob": -0.1387,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 6748.7,
+      "end": 6778.68,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0938,
+      "no_speech_prob": 0.5752,
+      "review": true
+    },
+    {
+      "start": 6778.7,
+      "end": 6780.86,
+      "text": "当然我这个研究生有点水",
+      "avg_logprob": -0.1599,
+      "no_speech_prob": 0.301,
+      "review": false
+    },
+    {
+      "start": 6780.86,
+      "end": 6781.7,
+      "text": "这个说实话",
+      "avg_logprob": -0.1599,
+      "no_speech_prob": 0.301,
+      "review": false
+    },
+    {
+      "start": 6781.7,
+      "end": 6784.88,
+      "text": "但是我可是正规的",
+      "avg_logprob": -0.1599,
+      "no_speech_prob": 0.301,
+      "review": false
+    },
+    {
+      "start": 6784.88,
+      "end": 6788.12,
+      "text": "正规的北京某某大学的",
+      "avg_logprob": -0.1599,
+      "no_speech_prob": 0.301,
+      "review": false
+    },
+    {
+      "start": 6788.12,
+      "end": 6790.52,
+      "text": "这个专业的",
+      "avg_logprob": -0.1599,
+      "no_speech_prob": 0.301,
+      "review": false
+    },
+    {
+      "start": 6790.52,
+      "end": 6791.82,
+      "text": "我当然有大学文凭",
+      "avg_logprob": -0.1599,
+      "no_speech_prob": 0.301,
+      "review": false
+    },
+    {
+      "start": 6791.82,
+      "end": 6794.72,
+      "text": "我咋没有大学文凭",
+      "avg_logprob": -0.1599,
+      "no_speech_prob": 0.301,
+      "review": false
+    },
+    {
+      "start": 6794.72,
+      "end": 6797.47,
+      "text": "云聪老师也不是学霸",
+      "avg_logprob": -0.1599,
+      "no_speech_prob": 0.301,
+      "review": false
+    },
+    {
+      "start": 6797.47,
+      "end": 6801.95,
+      "text": "但是我当年也是以全县文科第四考到北京的",
+      "avg_logprob": -0.1599,
+      "no_speech_prob": 0.301,
+      "review": false
+    },
+    {
+      "start": 6801.95,
+      "end": 6803.91,
+      "text": "我们第一考了北大",
+      "avg_logprob": -0.1599,
+      "no_speech_prob": 0.301,
+      "review": false
+    },
+    {
+      "start": 6803.91,
+      "end": 6805.67,
+      "text": "第二考了人大",
+      "avg_logprob": -0.1599,
+      "no_speech_prob": 0.301,
+      "review": false
+    },
+    {
+      "start": 6805.67,
+      "end": 6807.23,
+      "text": "第三考了外交",
+      "avg_logprob": -0.1599,
+      "no_speech_prob": 0.301,
+      "review": false
+    },
+    {
+      "start": 6807.23,
+      "end": 6808.79,
+      "text": "这个度外经贸大学",
+      "avg_logprob": -0.1599,
+      "no_speech_prob": 0.301,
+      "review": false
+    },
+    {
+      "start": 6808.79,
+      "end": 6809.67,
+      "text": "第四就是我了",
+      "avg_logprob": -0.1508,
+      "no_speech_prob": 0.0396,
+      "review": false
+    },
+    {
+      "start": 6809.67,
+      "end": 6812.75,
+      "text": "我是那个县文科第四考到北京的",
+      "avg_logprob": -0.1508,
+      "no_speech_prob": 0.0396,
+      "review": false
+    },
+    {
+      "start": 6812.75,
+      "end": 6815.21,
+      "text": "我们那个县教育资源很差的",
+      "avg_logprob": -0.1508,
+      "no_speech_prob": 0.0396,
+      "review": false
+    },
+    {
+      "start": 6815.21,
+      "end": 6817.15,
+      "text": "所以虽然不是学霸",
+      "avg_logprob": -0.1508,
+      "no_speech_prob": 0.0396,
+      "review": false
+    },
+    {
+      "start": 6817.15,
+      "end": 6819.13,
+      "text": "也还算行吧",
+      "avg_logprob": -0.1508,
+      "no_speech_prob": 0.0396,
+      "review": false
+    },
+    {
+      "start": 6819.13,
+      "end": 6821.83,
+      "text": "OK我们看看",
+      "avg_logprob": -0.1508,
+      "no_speech_prob": 0.0396,
+      "review": false
+    },
+    {
+      "start": 6821.83,
+      "end": 6825.86,
+      "text": "刚才不扯远了",
+      "avg_logprob": -0.1508,
+      "no_speech_prob": 0.0396,
+      "review": false
+    },
+    {
+      "start": 6825.86,
+      "end": 6827.88,
+      "text": "我们看看刚才你们说的那个",
+      "avg_logprob": -0.1508,
+      "no_speech_prob": 0.0396,
+      "review": false
+    },
+    {
+      "start": 6827.88,
+      "end": 6829.66,
+      "text": "你那个有一个送流啊",
+      "avg_logprob": -0.1508,
+      "no_speech_prob": 0.0396,
+      "review": false
+    },
+    {
+      "start": 6829.66,
+      "end": 6831.18,
+      "text": "一直说个试员股份试员股份",
+      "avg_logprob": -0.1508,
+      "no_speech_prob": 0.0396,
+      "review": false
+    },
+    {
+      "start": 6831.18,
+      "end": 6831.76,
+      "text": "我看看啊",
+      "avg_logprob": -0.1508,
+      "no_speech_prob": 0.0396,
+      "review": false
+    },
+    {
+      "start": 6831.76,
+      "end": 6833.28,
+      "text": "我看你说这个试员股份",
+      "avg_logprob": -0.1508,
+      "no_speech_prob": 0.0396,
+      "review": false
+    },
+    {
+      "start": 6833.28,
+      "end": 6840.43,
+      "text": "试员呢前一段时间我可能观察到了",
+      "avg_logprob": -0.1508,
+      "no_speech_prob": 0.0396,
+      "review": false
+    },
+    {
+      "start": 6840.43,
+      "end": 6842.71,
+      "text": "试员前一段时间我观察到了",
+      "avg_logprob": -0.1508,
+      "no_speech_prob": 0.0396,
+      "review": false
+    },
+    {
+      "start": 6842.71,
+      "end": 6843.31,
+      "text": "我跟你说一下",
+      "avg_logprob": -0.1508,
+      "no_speech_prob": 0.0396,
+      "review": false
+    },
+    {
+      "start": 6843.47,
+      "end": 6845.03,
+      "text": "前段时间我自己选出来了",
+      "avg_logprob": -0.1508,
+      "no_speech_prob": 0.0396,
+      "review": false
+    },
+    {
+      "start": 6845.03,
+      "end": 6846.65,
+      "text": "但是我发现他题材不清",
+      "avg_logprob": -0.1345,
+      "no_speech_prob": 0.3792,
+      "review": false
+    },
+    {
+      "start": 6846.65,
+      "end": 6848.57,
+      "text": "你看为什么观察到了",
+      "avg_logprob": -0.1345,
+      "no_speech_prob": 0.3792,
+      "review": false
+    },
+    {
+      "start": 6848.57,
+      "end": 6849.45,
+      "text": "我直接跟你说",
+      "avg_logprob": -0.1345,
+      "no_speech_prob": 0.3792,
+      "review": false
+    },
+    {
+      "start": 6849.45,
+      "end": 6850.25,
+      "text": "他是搞什么的",
+      "avg_logprob": -0.1345,
+      "no_speech_prob": 0.3792,
+      "review": false
+    },
+    {
+      "start": 6850.25,
+      "end": 6852.51,
+      "text": "他是搞会议的",
+      "avg_logprob": -0.1345,
+      "no_speech_prob": 0.3792,
+      "review": false
+    },
+    {
+      "start": 6852.51,
+      "end": 6858.33,
+      "text": "就是我们的多媒体机",
+      "avg_logprob": -0.1345,
+      "no_speech_prob": 0.3792,
+      "review": false
+    },
+    {
+      "start": 6858.33,
+      "end": 6859.95,
+      "text": "比如我们搞教学的",
+      "avg_logprob": -0.1345,
+      "no_speech_prob": 0.3792,
+      "review": false
+    },
+    {
+      "start": 6859.95,
+      "end": 6861.13,
+      "text": "教学白板多媒体机",
+      "avg_logprob": -0.1345,
+      "no_speech_prob": 0.3792,
+      "review": false
+    },
+    {
+      "start": 6861.13,
+      "end": 6865.15,
+      "text": "当时我看他量价形态各方面非常好",
+      "avg_logprob": -0.1345,
+      "no_speech_prob": 0.3792,
+      "review": false
+    },
+    {
+      "start": 6865.15,
+      "end": 6866.35,
+      "text": "我早就关注到他了",
+      "avg_logprob": -0.1345,
+      "no_speech_prob": 0.3792,
+      "review": false
+    },
+    {
+      "start": 6866.35,
+      "end": 6868.31,
+      "text": "但是我把他产品研究完了",
+      "avg_logprob": -0.1345,
+      "no_speech_prob": 0.3792,
+      "review": false
+    },
+    {
+      "start": 6868.31,
+      "end": 6869.17,
+      "text": "我就放弃了",
+      "avg_logprob": -0.1345,
+      "no_speech_prob": 0.3792,
+      "review": false
+    },
+    {
+      "start": 6869.17,
+      "end": 6871.49,
+      "text": "所以说我只能说",
+      "avg_logprob": -0.1345,
+      "no_speech_prob": 0.3792,
+      "review": false
+    },
+    {
+      "start": 6871.49,
+      "end": 6899.06,
+      "text": "呃从量价形态各方面还可以好不好还可以但是呢我不太看好他的产品我觉得他的产品这个这个这个哎呀讲故事的这个就是产品的这个所谓的就是你要讲个故事啊你要怎么怎么样他的产品太没卖点了啊太太没有吸引力的所以说我只能说他是从基本面看还行是吧财务数据这么好但是我不喜欢他好不好",
+      "avg_logprob": -0.0604,
+      "no_speech_prob": 0.1909,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 25.23
+}

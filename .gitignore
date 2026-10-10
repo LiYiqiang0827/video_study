@@ -16,3 +16,22 @@
 **/__pycache__/
 **/*.pyc
 **/.DS_Store
+
+# HarryWu branch: curated research, source code and bounded examples.
+!AGENTS.md
+!.gitattributes
+!harrywu/
+!harrywu/**
+harrywu/**/__pycache__/
+harrywu/**/.pytest_cache/
+harrywu/**/.venv/
+harrywu/**/.env
+harrywu/**/secrets.env
+harrywu/**/cookies.txt
+harrywu/**/*.pyc
+harrywu/**/*.mp4
+harrywu/**/*.mkv
+harrywu/**/*.wav
+harrywu/**/*.m4a
+harrywu/**/*.db
+harrywu/**/*.duckdb

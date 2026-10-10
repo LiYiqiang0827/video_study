@@ -1,0 +1,384 @@
+{
+  "begin": 1200.0,
+  "finish": 1500.0,
+  "segments": [
+    {
+      "start": 1265.94,
+      "end": 1267.06,
+      "text": "这是这个软件的问题",
+      "avg_logprob": -0.1414,
+      "no_speech_prob": 0.0557,
+      "review": false
+    },
+    {
+      "start": 1267.06,
+      "end": 1272.05,
+      "text": "你看板块,今天什么板块",
+      "avg_logprob": -0.1414,
+      "no_speech_prob": 0.0557,
+      "review": false
+    },
+    {
+      "start": 1272.05,
+      "end": 1278.86,
+      "text": "免税猪肉、鸡肉这些都在跌",
+      "avg_logprob": -0.1414,
+      "no_speech_prob": 0.0557,
+      "review": false
+    },
+    {
+      "start": 1278.86,
+      "end": 1280.88,
+      "text": "这些都是老牌的这种",
+      "avg_logprob": -0.1414,
+      "no_speech_prob": 0.0557,
+      "review": false
+    },
+    {
+      "start": 1280.88,
+      "end": 1285.32,
+      "text": "远程办公、6G、财税化、储存芯片、AI营销",
+      "avg_logprob": -0.1414,
+      "no_speech_prob": 0.0557,
+      "review": false
+    },
+    {
+      "start": 1285.32,
+      "end": 1287.8,
+      "text": "还是这些",
+      "avg_logprob": -0.1414,
+      "no_speech_prob": 0.0557,
+      "review": false
+    },
+    {
+      "start": 1287.8,
+      "end": 1290.81,
+      "text": "还是最近涨的一些概念",
+      "avg_logprob": -0.1414,
+      "no_speech_prob": 0.0557,
+      "review": false
+    },
+    {
+      "start": 1290.81,
+      "end": 1292.25,
+      "text": "医药也不行了今天",
+      "avg_logprob": -0.1414,
+      "no_speech_prob": 0.0557,
+      "review": false
+    },
+    {
+      "start": 1292.25,
+      "end": 1293.91,
+      "text": "医药也不行了",
+      "avg_logprob": -0.1414,
+      "no_speech_prob": 0.0557,
+      "review": false
+    },
+    {
+      "start": 1293.91,
+      "end": 1299.76,
+      "text": "反正你心里有个底,大概知道什么在涨什么在跌",
+      "avg_logprob": -0.1414,
+      "no_speech_prob": 0.0557,
+      "review": false
+    },
+    {
+      "start": 1299.76,
+      "end": 1309.31,
+      "text": "我们欣赏一下云聪老师喜欢的搏击医药",
+      "avg_logprob": -0.1414,
+      "no_speech_prob": 0.0557,
+      "review": false
+    },
+    {
+      "start": 1309.31,
+      "end": 1319.05,
+      "text": "我看好的还是不错吧",
+      "avg_logprob": -0.1431,
+      "no_speech_prob": 0.6045,
+      "review": true
+    },
+    {
+      "start": 1319.05,
+      "end": 1320.17,
+      "text": "只是我们可惜",
+      "avg_logprob": -0.1431,
+      "no_speech_prob": 0.6045,
+      "review": true
+    },
+    {
+      "start": 1320.17,
+      "end": 1323.25,
+      "text": "可惜我没有勇气买它",
+      "avg_logprob": -0.1431,
+      "no_speech_prob": 0.6045,
+      "review": true
+    },
+    {
+      "start": 1323.25,
+      "end": 1326.85,
+      "text": "但是我看好的票再次证明了我的眼光还是非常好的",
+      "avg_logprob": -0.1431,
+      "no_speech_prob": 0.6045,
+      "review": true
+    },
+    {
+      "start": 1326.85,
+      "end": 1327.27,
+      "text": "是吧",
+      "avg_logprob": -0.1431,
+      "no_speech_prob": 0.6045,
+      "review": true
+    },
+    {
+      "start": 1327.27,
+      "end": 1329.33,
+      "text": "我的眼光还是非常好的",
+      "avg_logprob": -0.1431,
+      "no_speech_prob": 0.6045,
+      "review": true
+    },
+    {
+      "start": 1329.33,
+      "end": 1330.47,
+      "text": "没办法呀",
+      "avg_logprob": -0.1431,
+      "no_speech_prob": 0.6045,
+      "review": true
+    },
+    {
+      "start": 1330.47,
+      "end": 1333.83,
+      "text": "我又不是家里有一万富翁的家产",
+      "avg_logprob": -0.1431,
+      "no_speech_prob": 0.6045,
+      "review": true
+    },
+    {
+      "start": 1333.83,
+      "end": 1335.03,
+      "text": "不然我绝对敢怼他",
+      "avg_logprob": -0.1431,
+      "no_speech_prob": 0.6045,
+      "review": true
+    },
+    {
+      "start": 1335.03,
+      "end": 1336.15,
+      "text": "是吧",
+      "avg_logprob": -0.1431,
+      "no_speech_prob": 0.6045,
+      "review": true
+    },
+    {
+      "start": 1336.15,
+      "end": 1338.67,
+      "text": "没人兜底像我这种我不愿意去亏钱",
+      "avg_logprob": -0.1431,
+      "no_speech_prob": 0.6045,
+      "review": true
+    },
+    {
+      "start": 1338.67,
+      "end": 1340.09,
+      "text": "很遗憾",
+      "avg_logprob": -0.1431,
+      "no_speech_prob": 0.6045,
+      "review": true
+    },
+    {
+      "start": 1340.09,
+      "end": 1372.84,
+      "text": "生命中就是诸多的遗憾",
+      "avg_logprob": -0.0975,
+      "no_speech_prob": 0.1222,
+      "review": false
+    },
+    {
+      "start": 1372.86,
+      "end": 1410.92,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1001,
+      "no_speech_prob": 0.2128,
+      "review": false
+    },
+    {
+      "start": 1410.94,
+      "end": 1413.24,
+      "text": "这些东西其实都很牛的",
+      "avg_logprob": -0.129,
+      "no_speech_prob": 0.355,
+      "review": false
+    },
+    {
+      "start": 1413.24,
+      "end": 1414.6,
+      "text": "我也毫不夸张的说",
+      "avg_logprob": -0.129,
+      "no_speech_prob": 0.355,
+      "review": false
+    },
+    {
+      "start": 1414.6,
+      "end": 1415.14,
+      "text": "是不是",
+      "avg_logprob": -0.129,
+      "no_speech_prob": 0.355,
+      "review": false
+    },
+    {
+      "start": 1415.14,
+      "end": 1417.94,
+      "text": "我看好的基本上没有差",
+      "avg_logprob": -0.129,
+      "no_speech_prob": 0.355,
+      "review": false
+    },
+    {
+      "start": 1417.94,
+      "end": 1419.86,
+      "text": "但是你有没有勇气去买",
+      "avg_logprob": -0.129,
+      "no_speech_prob": 0.355,
+      "review": false
+    },
+    {
+      "start": 1419.86,
+      "end": 1421.24,
+      "text": "有没有人给你兜底",
+      "avg_logprob": -0.129,
+      "no_speech_prob": 0.355,
+      "review": false
+    },
+    {
+      "start": 1421.24,
+      "end": 1424.06,
+      "text": "你能不能接受10%到20%的亏损",
+      "avg_logprob": -0.129,
+      "no_speech_prob": 0.355,
+      "review": false
+    },
+    {
+      "start": 1424.06,
+      "end": 1428.07,
+      "text": "这些就是看你一个自己的了",
+      "avg_logprob": -0.129,
+      "no_speech_prob": 0.355,
+      "review": false
+    },
+    {
+      "start": 1428.07,
+      "end": 1430.4,
+      "text": "你不能接受的话",
+      "avg_logprob": -0.129,
+      "no_speech_prob": 0.355,
+      "review": false
+    },
+    {
+      "start": 1430.4,
+      "end": 1432.76,
+      "text": "你就只有放弃",
+      "avg_logprob": -0.129,
+      "no_speech_prob": 0.355,
+      "review": false
+    },
+    {
+      "start": 1432.76,
+      "end": 1434.08,
+      "text": "这种情况下",
+      "avg_logprob": -0.129,
+      "no_speech_prob": 0.355,
+      "review": false
+    },
+    {
+      "start": 1434.08,
+      "end": 1435.1,
+      "text": "家底好的人",
+      "avg_logprob": -0.129,
+      "no_speech_prob": 0.355,
+      "review": false
+    },
+    {
+      "start": 1435.1,
+      "end": 1437.18,
+      "text": "所以炒股为什么到最后",
+      "avg_logprob": -0.129,
+      "no_speech_prob": 0.355,
+      "review": false
+    },
+    {
+      "start": 1437.18,
+      "end": 1438.62,
+      "text": "还是拼家底",
+      "avg_logprob": -0.129,
+      "no_speech_prob": 0.355,
+      "review": false
+    },
+    {
+      "start": 1438.62,
+      "end": 1439.48,
+      "text": "你家底好的人",
+      "avg_logprob": -0.129,
+      "no_speech_prob": 0.355,
+      "review": false
+    },
+    {
+      "start": 1439.48,
+      "end": 1440.44,
+      "text": "你不在乎这些",
+      "avg_logprob": -0.129,
+      "no_speech_prob": 0.355,
+      "review": false
+    },
+    {
+      "start": 1440.44,
+      "end": 1490.36,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1012,
+      "no_speech_prob": 0.095,
+      "review": false
+    },
+    {
+      "start": 1490.38,
+      "end": 1491.82,
+      "text": "斯林杰也是大形态突破",
+      "avg_logprob": -0.1826,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1491.82,
+      "end": 1496.46,
+      "text": "你看他也是大形态突破之后暴涨",
+      "avg_logprob": -0.1826,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1496.46,
+      "end": 1497.3,
+      "text": "你看是不是",
+      "avg_logprob": -0.1826,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1497.3,
+      "end": 1499.18,
+      "text": "所以这种大形态突破的话",
+      "avg_logprob": -0.1826,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1499.18,
+      "end": 1500.3,
+      "text": "大家一定要引起注意",
+      "avg_logprob": -0.1826,
+      "no_speech_prob": 0.0,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 13.52
+}

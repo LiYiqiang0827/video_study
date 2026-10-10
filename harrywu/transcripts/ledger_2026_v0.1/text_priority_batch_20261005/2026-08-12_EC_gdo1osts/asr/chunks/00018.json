@@ -1,0 +1,64 @@
+{
+  "begin": 5400.0,
+  "finish": 5700.0,
+  "segments": [
+    {
+      "start": 5398.0,
+      "end": 5456.6,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0607,
+      "no_speech_prob": 0.3608,
+      "review": false
+    },
+    {
+      "start": 5456.62,
+      "end": 5489.98,
+      "text": "中文字幕志愿者 李宗盛",
+      "avg_logprob": -0.3081,
+      "no_speech_prob": 0.3047,
+      "review": false
+    },
+    {
+      "start": 5490.0,
+      "end": 5520.1,
+      "text": "南起科技也都是",
+      "avg_logprob": -0.3394,
+      "no_speech_prob": 0.9956,
+      "review": true
+    },
+    {
+      "start": 5520.12,
+      "end": 5586.68,
+      "text": "中文字幕志愿者 李宗盛",
+      "avg_logprob": -0.2875,
+      "no_speech_prob": 0.1881,
+      "review": false
+    },
+    {
+      "start": 5586.7,
+      "end": 5647.08,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1089,
+      "no_speech_prob": 0.4468,
+      "review": false
+    },
+    {
+      "start": 5647.1,
+      "end": 5686.62,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0878,
+      "no_speech_prob": 0.1378,
+      "review": false
+    },
+    {
+      "start": 5686.64,
+      "end": 5702.01,
+      "text": "这个位置深圳应该会回调一下,不要着急,回调到,回调到,回调一会儿吧,回调这个位置再说,不要着急,再怎么回调,回调到这儿来,等几分钟。",
+      "avg_logprob": -0.1066,
+      "no_speech_prob": 0.0,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 9.83
+}

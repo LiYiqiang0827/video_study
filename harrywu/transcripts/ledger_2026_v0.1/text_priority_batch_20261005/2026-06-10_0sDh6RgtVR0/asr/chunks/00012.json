@@ -1,0 +1,680 @@
+{
+  "begin": 3600.0,
+  "finish": 3843.134694,
+  "segments": [
+    {
+      "start": 3598.11,
+      "end": 3626.95,
+      "text": "它虽然在跌,但是它没有啥,我个人觉得,我觉得它在跌,但是它还是有机会起来的,你放心,财务数据这么好,今年的增长这么强,然后这一波上升也是上升的动力,就是上升的很健康,它是一波巨尺转的上升,加速回抽,我个人觉得没有什么大问题啊,今天在跌也很正常,昨天涨那么高吧,是不是,昨天涨这么高,你看今天跌都没有把昨天的跌穿呢,所以问题不大吧,我个人觉得问题不大啊",
+      "avg_logprob": -0.0814,
+      "no_speech_prob": 0.3706,
+      "review": false
+    },
+    {
+      "start": 3626.95,
+      "end": 3629.49,
+      "text": "你我觉得还是可以继续拿这个问题回答",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.6143,
+      "review": true
+    },
+    {
+      "start": 3629.49,
+      "end": 3630.53,
+      "text": "像这些",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.6143,
+      "review": true
+    },
+    {
+      "start": 3630.53,
+      "end": 3632.73,
+      "text": "这些没有什么大问题啊",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.6143,
+      "review": true
+    },
+    {
+      "start": 3632.73,
+      "end": 3633.25,
+      "text": "很正常",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.6143,
+      "review": true
+    },
+    {
+      "start": 3633.25,
+      "end": 3635.21,
+      "text": "就是他的回撤而已啊",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.6143,
+      "review": true
+    },
+    {
+      "start": 3635.21,
+      "end": 3635.37,
+      "text": "好",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.6143,
+      "review": true
+    },
+    {
+      "start": 3635.37,
+      "end": 3636.65,
+      "text": "其他的没有什么说的啊",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.6143,
+      "review": true
+    },
+    {
+      "start": 3636.65,
+      "end": 3637.53,
+      "text": "其他的没有啥说的",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.6143,
+      "review": true
+    },
+    {
+      "start": 3637.53,
+      "end": 3639.01,
+      "text": "就是给大家聊聊",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.6143,
+      "review": true
+    },
+    {
+      "start": 3639.01,
+      "end": 3641.03,
+      "text": "反正会的会的",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.6143,
+      "review": true
+    },
+    {
+      "start": 3641.03,
+      "end": 3642.69,
+      "text": "我会继续拍影片的啊",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.6143,
+      "review": true
+    },
+    {
+      "start": 3642.69,
+      "end": 3643.57,
+      "text": "会的拍影片",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.6143,
+      "review": true
+    },
+    {
+      "start": 3643.57,
+      "end": 3644.97,
+      "text": "我现在要赚钱了",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.6143,
+      "review": true
+    },
+    {
+      "start": 3644.97,
+      "end": 3645.79,
+      "text": "赚钱",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.6143,
+      "review": true
+    },
+    {
+      "start": 3645.79,
+      "end": 3647.17,
+      "text": "我最近",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.6143,
+      "review": true
+    },
+    {
+      "start": 3647.17,
+      "end": 3650.05,
+      "text": "真的是遇到些事",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.6143,
+      "review": true
+    },
+    {
+      "start": 3650.05,
+      "end": 3652.86,
+      "text": "最近",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.6143,
+      "review": true
+    },
+    {
+      "start": 3652.86,
+      "end": 3655.54,
+      "text": "我今天后面也会把这些",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.6143,
+      "review": true
+    },
+    {
+      "start": 3655.54,
+      "end": 3657.54,
+      "text": "后面会会争取努力的吧",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.6143,
+      "review": true
+    },
+    {
+      "start": 3657.54,
+      "end": 3658.68,
+      "text": "好久没做公开课了",
+      "avg_logprob": -0.1301,
+      "no_speech_prob": 0.0823,
+      "review": false
+    },
+    {
+      "start": 3658.68,
+      "end": 3660.28,
+      "text": "我正去这个周末做公开课",
+      "avg_logprob": -0.1301,
+      "no_speech_prob": 0.0823,
+      "review": false
+    },
+    {
+      "start": 3660.28,
+      "end": 3661.82,
+      "text": "把最近的一些想法跟大家聊一聊",
+      "avg_logprob": -0.1301,
+      "no_speech_prob": 0.0823,
+      "review": false
+    },
+    {
+      "start": 3661.82,
+      "end": 3663.28,
+      "text": "其他的没有啥",
+      "avg_logprob": -0.1301,
+      "no_speech_prob": 0.0823,
+      "review": false
+    },
+    {
+      "start": 3663.28,
+      "end": 3669.86,
+      "text": "然后也希望大家继续支持我的玄学频道云聪学艺",
+      "avg_logprob": -0.1301,
+      "no_speech_prob": 0.0823,
+      "review": false
+    },
+    {
+      "start": 3669.86,
+      "end": 3671.7,
+      "text": "大家再看一下",
+      "avg_logprob": -0.1301,
+      "no_speech_prob": 0.0823,
+      "review": false
+    },
+    {
+      "start": 3671.7,
+      "end": 3681.28,
+      "text": "如果你们不管喜不喜欢你们去捧个人气",
+      "avg_logprob": -0.1301,
+      "no_speech_prob": 0.0823,
+      "review": false
+    },
+    {
+      "start": 3681.28,
+      "end": 3682.42,
+      "text": "捧个人场",
+      "avg_logprob": -0.1301,
+      "no_speech_prob": 0.0823,
+      "review": false
+    },
+    {
+      "start": 3682.42,
+      "end": 3684.38,
+      "text": "订阅一下捧个人场",
+      "avg_logprob": -0.1301,
+      "no_speech_prob": 0.0823,
+      "review": false
+    },
+    {
+      "start": 3684.38,
+      "end": 3686.54,
+      "text": "现在我把时辰介绍",
+      "avg_logprob": -0.1301,
+      "no_speech_prob": 0.0823,
+      "review": false
+    },
+    {
+      "start": 3686.54,
+      "end": 3687.46,
+      "text": "我等会再传一个",
+      "avg_logprob": -0.1301,
+      "no_speech_prob": 0.0823,
+      "review": false
+    },
+    {
+      "start": 3687.46,
+      "end": 3691.38,
+      "text": "其实最近的这些还是挺有趣的",
+      "avg_logprob": -0.1555,
+      "no_speech_prob": 0.2242,
+      "review": false
+    },
+    {
+      "start": 3691.38,
+      "end": 3695.54,
+      "text": "你前面那些是比较枯燥",
+      "avg_logprob": -0.1555,
+      "no_speech_prob": 0.2242,
+      "review": false
+    },
+    {
+      "start": 3695.54,
+      "end": 3696.8,
+      "text": "一般的人也不想学",
+      "avg_logprob": -0.1555,
+      "no_speech_prob": 0.2242,
+      "review": false
+    },
+    {
+      "start": 3696.8,
+      "end": 3698.88,
+      "text": "但是最近识神的这些东西",
+      "avg_logprob": -0.1555,
+      "no_speech_prob": 0.2242,
+      "review": false
+    },
+    {
+      "start": 3698.88,
+      "end": 3700.38,
+      "text": "还是真的是很有趣",
+      "avg_logprob": -0.1555,
+      "no_speech_prob": 0.2242,
+      "review": false
+    },
+    {
+      "start": 3700.38,
+      "end": 3702.02,
+      "text": "还是可以看一看的",
+      "avg_logprob": -0.1555,
+      "no_speech_prob": 0.2242,
+      "review": false
+    },
+    {
+      "start": 3702.02,
+      "end": 3703.9,
+      "text": "刚才有朋友一直在说比特币",
+      "avg_logprob": -0.1555,
+      "no_speech_prob": 0.2242,
+      "review": false
+    },
+    {
+      "start": 3703.9,
+      "end": 3704.96,
+      "text": "最近但是我们看一下",
+      "avg_logprob": -0.1555,
+      "no_speech_prob": 0.2242,
+      "review": false
+    },
+    {
+      "start": 3704.96,
+      "end": 3705.76,
+      "text": "我都不看他了",
+      "avg_logprob": -0.1555,
+      "no_speech_prob": 0.2242,
+      "review": false
+    },
+    {
+      "start": 3705.76,
+      "end": 3706.68,
+      "text": "因为我说没有机会",
+      "avg_logprob": -0.1555,
+      "no_speech_prob": 0.2242,
+      "review": false
+    },
+    {
+      "start": 3706.68,
+      "end": 3708.12,
+      "text": "我说一点机会都没有",
+      "avg_logprob": -0.1555,
+      "no_speech_prob": 0.2242,
+      "review": false
+    },
+    {
+      "start": 3708.12,
+      "end": 3710.72,
+      "text": "我觉得比特币最近一点机会都没有",
+      "avg_logprob": -0.1555,
+      "no_speech_prob": 0.2242,
+      "review": false
+    },
+    {
+      "start": 3710.72,
+      "end": 3712.0,
+      "text": "看看是不是一点机会都没有",
+      "avg_logprob": -0.1555,
+      "no_speech_prob": 0.2242,
+      "review": false
+    },
+    {
+      "start": 3712.0,
+      "end": 3712.98,
+      "text": "是啊你看",
+      "avg_logprob": -0.1555,
+      "no_speech_prob": 0.2242,
+      "review": false
+    },
+    {
+      "start": 3712.98,
+      "end": 3713.66,
+      "text": "是不是",
+      "avg_logprob": -0.1555,
+      "no_speech_prob": 0.2242,
+      "review": false
+    },
+    {
+      "start": 3713.66,
+      "end": 3715.38,
+      "text": "最近一点机会都没有",
+      "avg_logprob": -0.1555,
+      "no_speech_prob": 0.2242,
+      "review": false
+    },
+    {
+      "start": 3715.38,
+      "end": 3717.22,
+      "text": "自从这个地方被止损之后",
+      "avg_logprob": -0.1555,
+      "no_speech_prob": 0.2242,
+      "review": false
+    },
+    {
+      "start": 3717.22,
+      "end": 3743.42,
+      "text": "当时我们收到止损在哪吗?当时你看,最开始我给会员收到止损就在这儿嘛,是不是?我们只要是这个地方,我当时说的是,这个地方下降趋势线跌破,这个头肩跌破,第一波就不行了,那么第二波呢,倒不是在这儿,第二波在这儿,这个位置,哎,你可以买一下,但是如果失败了止损,止损就走掉了吗?就没有了,那后面根本就不行,你看我昨天我还直播的时候不说吗?",
+      "avg_logprob": -0.0706,
+      "no_speech_prob": 0.9741,
+      "review": true
+    },
+    {
+      "start": 3743.42,
+      "end": 3746.5,
+      "text": "我说这一根阳线几乎是不可能是低点的",
+      "avg_logprob": -0.0783,
+      "no_speech_prob": 0.2678,
+      "review": false
+    },
+    {
+      "start": 3746.5,
+      "end": 3747.26,
+      "text": "几乎不可能",
+      "avg_logprob": -0.0783,
+      "no_speech_prob": 0.2678,
+      "review": false
+    },
+    {
+      "start": 3747.26,
+      "end": 3750.1,
+      "text": "因为这一波从价格行为学的角度来讲",
+      "avg_logprob": -0.0783,
+      "no_speech_prob": 0.2678,
+      "review": false
+    },
+    {
+      "start": 3750.1,
+      "end": 3757.48,
+      "text": "这一波这么大的连续四根超级大的历史型的大的大阴K线",
+      "avg_logprob": -0.0783,
+      "no_speech_prob": 0.2678,
+      "review": false
+    },
+    {
+      "start": 3757.48,
+      "end": 3762.08,
+      "text": "这么一个小的大阳K线根本不足以支撑它",
+      "avg_logprob": -0.0783,
+      "no_speech_prob": 0.2678,
+      "review": false
+    },
+    {
+      "start": 3762.08,
+      "end": 3764.6,
+      "text": "这个力量完全是不均衡的",
+      "avg_logprob": -0.0783,
+      "no_speech_prob": 0.2678,
+      "review": false
+    },
+    {
+      "start": 3764.6,
+      "end": 3766.48,
+      "text": "所以这个最多是一个小回调而已",
+      "avg_logprob": -0.0783,
+      "no_speech_prob": 0.2678,
+      "review": false
+    },
+    {
+      "start": 3766.48,
+      "end": 3767.72,
+      "text": "大概率还会下来",
+      "avg_logprob": -0.0783,
+      "no_speech_prob": 0.2678,
+      "review": false
+    },
+    {
+      "start": 3767.72,
+      "end": 3770.02,
+      "text": "它什么时候呢",
+      "avg_logprob": -0.0783,
+      "no_speech_prob": 0.2678,
+      "review": false
+    },
+    {
+      "start": 3770.02,
+      "end": 3772.96,
+      "text": "比如说它这连续几天下下下比较弱",
+      "avg_logprob": -0.0783,
+      "no_speech_prob": 0.2678,
+      "review": false
+    },
+    {
+      "start": 3772.96,
+      "end": 3784.52,
+      "text": "特别是这个K线越来越小,越来越小,有个下影线,第二天一根阳线,这个阳线又是又粗又壮,这个阳线又大,那么基本上你可以在这个阳线买一买,还可以",
+      "avg_logprob": -0.0664,
+      "no_speech_prob": 0.3538,
+      "review": false
+    },
+    {
+      "start": 3784.52,
+      "end": 3791.86,
+      "text": "它不出现这种结构你不要买,我觉得是没有,几乎是不可能赚钱的,不出现这种结构是很难很难的",
+      "avg_logprob": -0.0664,
+      "no_speech_prob": 0.3538,
+      "review": false
+    },
+    {
+      "start": 3792.18,
+      "end": 3801.48,
+      "text": "就算出现这种结构,因为它跌得这么深,大概率它还会起来之后,在这儿大阳线之后,它还会折腾,它不可能一下上去,它还会这样折腾",
+      "avg_logprob": -0.0664,
+      "no_speech_prob": 0.3538,
+      "review": false
+    },
+    {
+      "start": 3801.48,
+      "end": 3803.1,
+      "text": "折腾折腾折腾折腾",
+      "avg_logprob": -0.1279,
+      "no_speech_prob": 0.1335,
+      "review": false
+    },
+    {
+      "start": 3803.1,
+      "end": 3803.96,
+      "text": "最后再上来",
+      "avg_logprob": -0.1279,
+      "no_speech_prob": 0.1335,
+      "review": false
+    },
+    {
+      "start": 3803.96,
+      "end": 3805.78,
+      "text": "基本上是走这样的一个结构",
+      "avg_logprob": -0.1279,
+      "no_speech_prob": 0.1335,
+      "review": false
+    },
+    {
+      "start": 3805.78,
+      "end": 3806.68,
+      "text": "我觉得啊",
+      "avg_logprob": -0.1279,
+      "no_speech_prob": 0.1335,
+      "review": false
+    },
+    {
+      "start": 3806.68,
+      "end": 3808.66,
+      "text": "走这样的结构的可能性是比较大的",
+      "avg_logprob": -0.1279,
+      "no_speech_prob": 0.1335,
+      "review": false
+    },
+    {
+      "start": 3808.66,
+      "end": 3809.98,
+      "text": "非常非常大的",
+      "avg_logprob": -0.1279,
+      "no_speech_prob": 0.1335,
+      "review": false
+    },
+    {
+      "start": 3809.98,
+      "end": 3810.9,
+      "text": "所以现在还早",
+      "avg_logprob": -0.1279,
+      "no_speech_prob": 0.1335,
+      "review": false
+    },
+    {
+      "start": 3810.9,
+      "end": 3813.04,
+      "text": "我觉得加密货币还非常早",
+      "avg_logprob": -0.1279,
+      "no_speech_prob": 0.1335,
+      "review": false
+    },
+    {
+      "start": 3813.04,
+      "end": 3813.94,
+      "text": "还早得很",
+      "avg_logprob": -0.1279,
+      "no_speech_prob": 0.1335,
+      "review": false
+    },
+    {
+      "start": 3813.94,
+      "end": 3815.36,
+      "text": "好",
+      "avg_logprob": -0.1279,
+      "no_speech_prob": 0.1335,
+      "review": false
+    },
+    {
+      "start": 3815.36,
+      "end": 3816.5,
+      "text": "大概是这样子啊",
+      "avg_logprob": -0.1279,
+      "no_speech_prob": 0.1335,
+      "review": false
+    },
+    {
+      "start": 3816.5,
+      "end": 3817.08,
+      "text": "其他没多少",
+      "avg_logprob": -0.1279,
+      "no_speech_prob": 0.1335,
+      "review": false
+    },
+    {
+      "start": 3817.08,
+      "end": 3818.86,
+      "text": "其他的我就不多说了",
+      "avg_logprob": -0.1279,
+      "no_speech_prob": 0.1335,
+      "review": false
+    },
+    {
+      "start": 3818.86,
+      "end": 3820.9,
+      "text": "这两天我可能会经常做直播",
+      "avg_logprob": -0.1279,
+      "no_speech_prob": 0.1335,
+      "review": false
+    },
+    {
+      "start": 3820.9,
+      "end": 3822.64,
+      "text": "因为这两天我想说话",
+      "avg_logprob": -0.1279,
+      "no_speech_prob": 0.1335,
+      "review": false
+    },
+    {
+      "start": 3822.64,
+      "end": 3823.46,
+      "text": "我比较无聊",
+      "avg_logprob": -0.1279,
+      "no_speech_prob": 0.1335,
+      "review": false
+    },
+    {
+      "start": 3823.46,
+      "end": 3825.6,
+      "text": "我觉得不然不然的话",
+      "avg_logprob": -0.1279,
+      "no_speech_prob": 0.1335,
+      "review": false
+    },
+    {
+      "start": 3825.6,
+      "end": 3828.06,
+      "text": "天天让我这个一个人待着",
+      "avg_logprob": -0.1279,
+      "no_speech_prob": 0.1335,
+      "review": false
+    },
+    {
+      "start": 3828.06,
+      "end": 3829.32,
+      "text": "又比较安静的话",
+      "avg_logprob": -0.1279,
+      "no_speech_prob": 0.1335,
+      "review": false
+    },
+    {
+      "start": 3829.32,
+      "end": 3831.26,
+      "text": "我估计我最近我都会得抑郁症的",
+      "avg_logprob": -0.1279,
+      "no_speech_prob": 0.1335,
+      "review": false
+    },
+    {
+      "start": 3831.26,
+      "end": 3833.22,
+      "text": "所以我会多直播,多跟大家聊聊天",
+      "avg_logprob": -0.1487,
+      "no_speech_prob": 0.0263,
+      "review": false
+    },
+    {
+      "start": 3833.22,
+      "end": 3836.62,
+      "text": "好,非常感谢,咱们明天见",
+      "avg_logprob": -0.1487,
+      "no_speech_prob": 0.0263,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 24.52
+}

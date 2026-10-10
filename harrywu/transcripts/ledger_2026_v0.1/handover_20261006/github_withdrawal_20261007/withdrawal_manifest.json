@@ -1,0 +1,128 @@
+{
+  "repository": "LiYiqiang0827/TradingAgent",
+  "branch": "MrWu",
+  "base_commit": "d5ec591137d143d94cc1e3618c1c89629f80604b",
+  "removed_directory": "docs/research/mrwu_yuncong_media_20260930",
+  "files": [
+    {
+      "path": "docs/research/mrwu_yuncong_media_20260930/.gitattributes",
+      "size": 29,
+      "sha256": "730a35ae3d558080083c3103d9ac8100c3f6561678092abe341701dfa331eb1d"
+    },
+    {
+      "path": "docs/research/mrwu_yuncong_media_20260930/README.md",
+      "size": 2145,
+      "sha256": "4e92dc69a3ad5010616a840dfda3ce05f50193ba58f069c61bd5e9a01d20eaf7"
+    },
+    {
+      "path": "docs/research/mrwu_yuncong_media_20260930/SHA256SUMS.json",
+      "size": 2489,
+      "sha256": "ae777285bd696cd71e7369bae3379363ae722be3d779271fef0dffe19ec939ec"
+    },
+    {
+      "path": "docs/research/mrwu_yuncong_media_20260930/YouTube会员视频下载_AI接手指南.md",
+      "size": 19206,
+      "sha256": "7b34ea54cb881983579a31f5e8f39973aa6abfb67fbd6658cb482d40eca47456"
+    },
+    {
+      "path": "docs/research/mrwu_yuncong_media_20260930/local_media_platform-2.1.0-py3-none-any.whl",
+      "size": 21245,
+      "sha256": "d76eb21c0b781314b857ff8bd8253a1aa61d4d79f6b40f73f77d9453e20d8358"
+    },
+    {
+      "path": "docs/research/mrwu_yuncong_media_20260930/shared_media_platform/ACCEPTANCE_20260930.json",
+      "size": 791,
+      "sha256": "c9d86a0cb7094d579c64e2c5060d1b3c8e6262de385b62150833854e872ecda8"
+    },
+    {
+      "path": "docs/research/mrwu_yuncong_media_20260930/shared_media_platform/CHANGELOG_20260930.md",
+      "size": 6855,
+      "sha256": "7a10814882649ef5bf0f80c500e6957214107508387e2417c51f6608bed8d440"
+    },
+    {
+      "path": "docs/research/mrwu_yuncong_media_20260930/shared_media_platform/README.md",
+      "size": 9667,
+      "sha256": "1168604747c119cf3a2f69085d2bfda03af43ddde7a367649a9bf760173aebcb"
+    },
+    {
+      "path": "docs/research/mrwu_yuncong_media_20260930/shared_media_platform/compat/legacy_package_init.py",
+      "size": 751,
+      "sha256": "30d084c3193c8c4f98adf0e7bfa0c95e3e92d1a13b028ea76dda4916aa53c83a"
+    },
+    {
+      "path": "docs/research/mrwu_yuncong_media_20260930/shared_media_platform/pyproject.toml",
+      "size": 700,
+      "sha256": "f6f3d255be5c5561eb82cd5bfad2893e7c0db7fe54926a7a26b4769756821a41"
+    },
+    {
+      "path": "docs/research/mrwu_yuncong_media_20260930/shared_media_platform/src/media_platform/__init__.py",
+      "size": 101,
+      "sha256": "43adb48a69b2a133235b8fbd5901c0dfe6ab48b7d5a041ef215964d7232fe5e9"
+    },
+    {
+      "path": "docs/research/mrwu_yuncong_media_20260930/shared_media_platform/src/media_platform/__main__.py",
+      "size": 31,
+      "sha256": "96863fad19ea91611f5ad966fc4d4e6af09e55c4e1e1171d6d277d22e312e21c"
+    },
+    {
+      "path": "docs/research/mrwu_yuncong_media_20260930/shared_media_platform/src/media_platform/cli.py",
+      "size": 3170,
+      "sha256": "6a08d3f06e3dfb52fc622e734061439755892e72bb0e2ed5593613a21352e1bf"
+    },
+    {
+      "path": "docs/research/mrwu_yuncong_media_20260930/shared_media_platform/src/media_platform/evidence.py",
+      "size": 5651,
+      "sha256": "8421b7df670e4525236aa325b0d7caa48daa75ed46eb5f66b642f7d449a54737"
+    },
+    {
+      "path": "docs/research/mrwu_yuncong_media_20260930/shared_media_platform/src/media_platform/frame_review.py",
+      "size": 7900,
+      "sha256": "c91e20d1b76de843b3a871a26559921ec026ffc50f1cdd2357812c89fcfa1dc7"
+    },
+    {
+      "path": "docs/research/mrwu_yuncong_media_20260930/shared_media_platform/src/media_platform/ingest.py",
+      "size": 38486,
+      "sha256": "ebd2735630a1e50d9417877fa57a254633c672de9dfd56ac1603d39f406c87b8"
+    },
+    {
+      "path": "docs/research/mrwu_yuncong_media_20260930/shared_media_platform/src/media_platform/paths.py",
+      "size": 724,
+      "sha256": "be351e5361780ad6313c69c3bf1c0ddd26c932ecfce33e1ec20a547332fe9e9f"
+    },
+    {
+      "path": "docs/research/mrwu_yuncong_media_20260930/shared_media_platform/tests/test_frame_review.py",
+      "size": 2942,
+      "sha256": "29c1c490d582a4486ca524f1641b15ab2e8dfa485f5d1f152fdb2e2569eb533f"
+    },
+    {
+      "path": "docs/research/mrwu_yuncong_media_20260930/shared_media_platform/tests/test_portable.py",
+      "size": 3056,
+      "sha256": "83f424dbc35f8c5949de54c6def4637c3a0833897370cde22b3dd23600cd7ee5"
+    },
+    {
+      "path": "docs/research/mrwu_yuncong_media_20260930/云聪五段视频_完整理解总结_20260930.md",
+      "size": 55527,
+      "sha256": "4189ccb7d8f3ee2685b8192deabec02a2e6cd8eae35492ec2db42aba672d9d4c"
+    },
+    {
+      "path": "docs/research/mrwu_yuncong_media_20260930/本地音视频基建_共通化更新说明_20260930.md",
+      "size": 6855,
+      "sha256": "7a10814882649ef5bf0f80c500e6957214107508387e2417c51f6608bed8d440"
+    },
+    {
+      "path": "docs/research/mrwu_yuncong_media_20260930/跨项目音视频识别调用指南.md",
+      "size": 9667,
+      "sha256": "1168604747c119cf3a2f69085d2bfda03af43ddde7a367649a9bf760173aebcb"
+    }
+  ],
+  "review_document": "policyStudy/docs/project_rocket_review_v2_20261004.md",
+  "backup_zip": "D:\\YuncongVideoAnalysis\\ledger_2026_v0.1\\handover_20261006\\github_withdrawal_20261007\\withdrawn_materials_before_removal.zip",
+  "backup_sha256": "728245022d92e98c42adbe6175a42c7af3243639ba279d206a3140428befca27",
+  "published_commit": "302a7d32d98d93a51146cf71246d2544c8c3e24f",
+  "commit_url": "https://github.com/LiYiqiang0827/TradingAgent/commit/302a7d32d98d93a51146cf71246d2544c8c3e24f",
+  "verified_at_utc": "2026-10-07T02:18:20.304463+00:00",
+  "remote_branch_verified": true,
+  "remaining_keyword_matches_in_current_tree": 0,
+  "git_history_rewritten": false,
+  "local_and_google_drive_sources_retained": true
+}

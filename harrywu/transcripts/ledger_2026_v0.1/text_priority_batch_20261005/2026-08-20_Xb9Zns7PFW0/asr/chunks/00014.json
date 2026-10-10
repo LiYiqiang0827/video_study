@@ -1,0 +1,528 @@
+{
+  "begin": 4200.0,
+  "finish": 4500.0,
+  "segments": [
+    {
+      "start": 4201.2,
+      "end": 4203.24,
+      "text": "你换了美元你也买不了美股",
+      "avg_logprob": -0.1308,
+      "no_speech_prob": 0.2008,
+      "review": false
+    },
+    {
+      "start": 4203.24,
+      "end": 4205.57,
+      "text": "所以将来要真的是",
+      "avg_logprob": -0.1308,
+      "no_speech_prob": 0.2008,
+      "review": false
+    },
+    {
+      "start": 4205.57,
+      "end": 4208.09,
+      "text": "我将来如果要特别好做美股的话",
+      "avg_logprob": -0.1308,
+      "no_speech_prob": 0.2008,
+      "review": false
+    },
+    {
+      "start": 4208.09,
+      "end": 4208.81,
+      "text": "要么去香港",
+      "avg_logprob": -0.1308,
+      "no_speech_prob": 0.2008,
+      "review": false
+    },
+    {
+      "start": 4208.81,
+      "end": 4210.83,
+      "text": "要么就是去加拿大美国",
+      "avg_logprob": -0.1308,
+      "no_speech_prob": 0.2008,
+      "review": false
+    },
+    {
+      "start": 4210.83,
+      "end": 4216.85,
+      "text": "但是因为我要去回中国照顾父母以后也没办法",
+      "avg_logprob": -0.1308,
+      "no_speech_prob": 0.2008,
+      "review": false
+    },
+    {
+      "start": 4216.85,
+      "end": 4218.27,
+      "text": "中央行业现在可以买吗",
+      "avg_logprob": -0.1308,
+      "no_speech_prob": 0.2008,
+      "review": false
+    },
+    {
+      "start": 4218.27,
+      "end": 4220.13,
+      "text": "我现在不会买",
+      "avg_logprob": -0.1308,
+      "no_speech_prob": 0.2008,
+      "review": false
+    },
+    {
+      "start": 4220.13,
+      "end": 4220.69,
+      "text": "不好意思",
+      "avg_logprob": -0.1308,
+      "no_speech_prob": 0.2008,
+      "review": false
+    },
+    {
+      "start": 4220.69,
+      "end": 4222.49,
+      "text": "这些都不是我的买入位置了",
+      "avg_logprob": -0.1308,
+      "no_speech_prob": 0.2008,
+      "review": false
+    },
+    {
+      "start": 4222.49,
+      "end": 4224.09,
+      "text": "一周前才可以买",
+      "avg_logprob": -0.1308,
+      "no_speech_prob": 0.2008,
+      "review": false
+    },
+    {
+      "start": 4224.09,
+      "end": 4231.71,
+      "text": "商业航天完全不做",
+      "avg_logprob": -0.1308,
+      "no_speech_prob": 0.2008,
+      "review": false
+    },
+    {
+      "start": 4231.71,
+      "end": 4261.69,
+      "text": "商业航天现在已经完全没有题材了",
+      "avg_logprob": -0.3176,
+      "no_speech_prob": 0.2644,
+      "review": false
+    },
+    {
+      "start": 4261.71,
+      "end": 4263.97,
+      "text": "山岳航天已经完全没有热度了",
+      "avg_logprob": -0.1493,
+      "no_speech_prob": 0.0838,
+      "review": false
+    },
+    {
+      "start": 4263.97,
+      "end": 4265.55,
+      "text": "没有热度就不要卖了",
+      "avg_logprob": -0.1493,
+      "no_speech_prob": 0.0838,
+      "review": false
+    },
+    {
+      "start": 4265.55,
+      "end": 4268.09,
+      "text": "不计要还看吗",
+      "avg_logprob": -0.1493,
+      "no_speech_prob": 0.0838,
+      "review": false
+    },
+    {
+      "start": 4268.09,
+      "end": 4268.95,
+      "text": "它不上去了吗",
+      "avg_logprob": -0.1493,
+      "no_speech_prob": 0.0838,
+      "review": false
+    },
+    {
+      "start": 4268.95,
+      "end": 4270.39,
+      "text": "长得很好啊",
+      "avg_logprob": -0.1493,
+      "no_speech_prob": 0.0838,
+      "review": false
+    },
+    {
+      "start": 4270.39,
+      "end": 4271.51,
+      "text": "中阳糖业加仓吗",
+      "avg_logprob": -0.1493,
+      "no_speech_prob": 0.0838,
+      "review": false
+    },
+    {
+      "start": 4271.51,
+      "end": 4272.41,
+      "text": "我也不加仓",
+      "avg_logprob": -0.1493,
+      "no_speech_prob": 0.0838,
+      "review": false
+    },
+    {
+      "start": 4272.41,
+      "end": 4272.63,
+      "text": "好不好",
+      "avg_logprob": -0.1493,
+      "no_speech_prob": 0.0838,
+      "review": false
+    },
+    {
+      "start": 4272.63,
+      "end": 4273.77,
+      "text": "我觉得我还没有大赚",
+      "avg_logprob": -0.1493,
+      "no_speech_prob": 0.0838,
+      "review": false
+    },
+    {
+      "start": 4273.77,
+      "end": 4275.19,
+      "text": "我可能赚了10%左右吧",
+      "avg_logprob": -0.1493,
+      "no_speech_prob": 0.0838,
+      "review": false
+    },
+    {
+      "start": 4275.19,
+      "end": 4275.95,
+      "text": "我看看我赚了多少",
+      "avg_logprob": -0.1493,
+      "no_speech_prob": 0.0838,
+      "review": false
+    },
+    {
+      "start": 4275.95,
+      "end": 4276.79,
+      "text": "中阳糖业",
+      "avg_logprob": -0.1493,
+      "no_speech_prob": 0.0838,
+      "review": false
+    },
+    {
+      "start": 4276.79,
+      "end": 4279.09,
+      "text": "中阳糖业",
+      "avg_logprob": -0.1493,
+      "no_speech_prob": 0.0838,
+      "review": false
+    },
+    {
+      "start": 4279.09,
+      "end": 4281.19,
+      "text": "那比如说可能过段时间软件又起来了",
+      "avg_logprob": -0.1493,
+      "no_speech_prob": 0.0838,
+      "review": false
+    },
+    {
+      "start": 4281.19,
+      "end": 4283.43,
+      "text": "我个人认为软件会起来",
+      "avg_logprob": -0.1493,
+      "no_speech_prob": 0.0838,
+      "review": false
+    },
+    {
+      "start": 4283.43,
+      "end": 4284.81,
+      "text": "我真的认为软件会起来",
+      "avg_logprob": -0.1493,
+      "no_speech_prob": 0.0838,
+      "review": false
+    },
+    {
+      "start": 4284.81,
+      "end": 4286.17,
+      "text": "它题材我告诉大家",
+      "avg_logprob": -0.1493,
+      "no_speech_prob": 0.0838,
+      "review": false
+    },
+    {
+      "start": 4286.17,
+      "end": 4287.63,
+      "text": "题材一般是这样子啊",
+      "avg_logprob": -0.1493,
+      "no_speech_prob": 0.0838,
+      "review": false
+    },
+    {
+      "start": 4287.63,
+      "end": 4289.39,
+      "text": "就是这是我根据我这么多年的经验",
+      "avg_logprob": -0.1493,
+      "no_speech_prob": 0.0838,
+      "review": false
+    },
+    {
+      "start": 4289.39,
+      "end": 4291.61,
+      "text": "它题材一个新题材",
+      "avg_logprob": -0.1493,
+      "no_speech_prob": 0.0838,
+      "review": false
+    },
+    {
+      "start": 4291.61,
+      "end": 4295.57,
+      "text": "几乎都是先搞一下",
+      "avg_logprob": -0.1121,
+      "no_speech_prob": 0.2329,
+      "review": false
+    },
+    {
+      "start": 4295.57,
+      "end": 4296.97,
+      "text": "就是这样搞一下",
+      "avg_logprob": -0.1121,
+      "no_speech_prob": 0.2329,
+      "review": false
+    },
+    {
+      "start": 4296.97,
+      "end": 4298.53,
+      "text": "然后他就会回撤一段时间",
+      "avg_logprob": -0.1121,
+      "no_speech_prob": 0.2329,
+      "review": false
+    },
+    {
+      "start": 4298.53,
+      "end": 4300.11,
+      "text": "好像个题材销声匿迹了",
+      "avg_logprob": -0.1121,
+      "no_speech_prob": 0.2329,
+      "review": false
+    },
+    {
+      "start": 4300.11,
+      "end": 4301.13,
+      "text": "再搞一下",
+      "avg_logprob": -0.1121,
+      "no_speech_prob": 0.2329,
+      "review": false
+    },
+    {
+      "start": 4301.13,
+      "end": 4304.51,
+      "text": "然后才会慢慢的持续上来",
+      "avg_logprob": -0.1121,
+      "no_speech_prob": 0.2329,
+      "review": false
+    },
+    {
+      "start": 4304.51,
+      "end": 4306.35,
+      "text": "所以为什么说这么重要",
+      "avg_logprob": -0.1121,
+      "no_speech_prob": 0.2329,
+      "review": false
+    },
+    {
+      "start": 4306.35,
+      "end": 4307.37,
+      "text": "好多的",
+      "avg_logprob": -0.1121,
+      "no_speech_prob": 0.2329,
+      "review": false
+    },
+    {
+      "start": 4307.37,
+      "end": 4308.63,
+      "text": "你看包括这个糖",
+      "avg_logprob": -0.1121,
+      "no_speech_prob": 0.2329,
+      "review": false
+    },
+    {
+      "start": 4308.63,
+      "end": 4310.15,
+      "text": "我是很早前就买了",
+      "avg_logprob": -0.1121,
+      "no_speech_prob": 0.2329,
+      "review": false
+    },
+    {
+      "start": 4310.15,
+      "end": 4310.95,
+      "text": "为什么农业",
+      "avg_logprob": -0.1121,
+      "no_speech_prob": 0.2329,
+      "review": false
+    },
+    {
+      "start": 4310.95,
+      "end": 4313.19,
+      "text": "但是买了他不会马上赚钱",
+      "avg_logprob": -0.1121,
+      "no_speech_prob": 0.2329,
+      "review": false
+    },
+    {
+      "start": 4313.19,
+      "end": 4314.45,
+      "text": "他会有个回撤",
+      "avg_logprob": -0.1121,
+      "no_speech_prob": 0.2329,
+      "review": false
+    },
+    {
+      "start": 4314.45,
+      "end": 4315.05,
+      "text": "慢慢的",
+      "avg_logprob": -0.1121,
+      "no_speech_prob": 0.2329,
+      "review": false
+    },
+    {
+      "start": 4315.05,
+      "end": 4317.89,
+      "text": "当这个题材第二次开始攻击的时候",
+      "avg_logprob": -0.1121,
+      "no_speech_prob": 0.2329,
+      "review": false
+    },
+    {
+      "start": 4317.89,
+      "end": 4319.17,
+      "text": "往往是最好的时候",
+      "avg_logprob": -0.1121,
+      "no_speech_prob": 0.2329,
+      "review": false
+    },
+    {
+      "start": 4319.17,
+      "end": 4320.63,
+      "text": "所以说当时软件",
+      "avg_logprob": -0.1121,
+      "no_speech_prob": 0.2329,
+      "review": false
+    },
+    {
+      "start": 4320.63,
+      "end": 4351.27,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1167,
+      "no_speech_prob": 0.4497,
+      "review": false
+    },
+    {
+      "start": 4351.29,
+      "end": 4387.92,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "avg_logprob": -0.1955,
+      "no_speech_prob": 0.27,
+      "review": false
+    },
+    {
+      "start": 4387.94,
+      "end": 4420.28,
+      "text": "A股很难做,可能就很难做,A股是最难做的,但是A股你做好了,我觉得也是非常赚钱的,A股做好了也是非常舒服的,因为它规律性比美股还好把握,我反倒觉得美股有些事物很难把握,所以我的感觉是美股就是只要你位置买对了,你后面根本就不要动了,你就打死不动,你一路就是中间怎么都不要动,你基本上就赚钱,只要你买到好的位置,A股不行",
+      "avg_logprob": -0.0954,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4420.28,
+      "end": 4423.6,
+      "text": "A股买到好的位置之后你动来动去还有机会",
+      "avg_logprob": -0.0947,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 4423.6,
+      "end": 4425.72,
+      "text": "我觉得它规律性还好掌握",
+      "avg_logprob": -0.0947,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 4425.72,
+      "end": 4428.4,
+      "text": "美股那个规律性在我看来就",
+      "avg_logprob": -0.0947,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 4428.4,
+      "end": 4432.02,
+      "text": "它的短线就是供你操作的空间其实不多",
+      "avg_logprob": -0.0947,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 4432.02,
+      "end": 4434.92,
+      "text": "而且美股那个保密比A股做的太好了",
+      "avg_logprob": -0.0947,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 4434.92,
+      "end": 4440.08,
+      "text": "你看美股那些公司暴涨之前一点都看不出来",
+      "avg_logprob": -0.0947,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 4440.08,
+      "end": 4443.38,
+      "text": "从它的什么量价结构啊期权结构啊",
+      "avg_logprob": -0.0947,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 4443.38,
+      "end": 4444.38,
+      "text": "根本看不出来",
+      "avg_logprob": -0.0947,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 4444.38,
+      "end": 4448.72,
+      "text": "那A股跟你说几乎绝对大涨的股票你都看得出来",
+      "avg_logprob": -0.0947,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 4448.72,
+      "end": 4450.2,
+      "text": "一眼就看出来了",
+      "avg_logprob": -0.0947,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 4450.2,
+      "end": 4480.18,
+      "text": "那有资金在操作,有人在里面搞事情,那美股根本看不出来,它的保密工作做的太好了,但是A股就好,至少说我能看得出来,所以我觉得我很有把握,作为A股我赚钱赚的比美股顺畅多了,但是呢美股就是你不要乱动,但是要耐心等,只要你位置做好了,你看我的那个前段时间说的那个SpaceX,你看我们一直不买一直不买一直买,终于位置来了,你买进去不要动就行了,还有以前英特尔也是,你一直不要做不要做,但终于可以做了,买进去了,",
+      "avg_logprob": -0.0738,
+      "no_speech_prob": 0.9258,
+      "review": true
+    },
+    {
+      "start": 4480.2,
+      "end": 4501.98,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1073,
+      "no_speech_prob": 0.0123,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 22.33
+}

@@ -1,0 +1,65 @@
+{
+  "schema": 1,
+  "source": "D:\\YuncongVideoAnalysis\\2026-01-01_to_2026-10-03\\A股 交易策略 实盘直播（1月9日）.mp4",
+  "duration": 8710.222948,
+  "params": {
+    "source_sha256": "686fe6e957c25ff6e6ebdb8f94200c8b6fb803bafde54f8b2bc3f7ad0c74721b",
+    "times": [
+      600.0,
+      615.0,
+      632.0,
+      689.0,
+      719.0,
+      2405.0
+    ],
+    "method": "accurate-seek-copyts-original-v1"
+  },
+  "frames": [
+    {
+      "requested_time": 600.0,
+      "time": 600.0,
+      "decoded_pts": 600.0,
+      "frame": "frame_00000_000600000.jpg",
+      "sha256": "c6913154ef351eaed584f7c33cb8fc52bae81c354dccff25a61964be49b7e3a5"
+    },
+    {
+      "requested_time": 615.0,
+      "time": 615.0,
+      "decoded_pts": 615.0,
+      "frame": "frame_00001_000615000.jpg",
+      "sha256": "f93119f39d6559b1da08143b1f0a3077c90cf3e8ea82a4ea15b1762267b07aff"
+    },
+    {
+      "requested_time": 632.0,
+      "time": 632.0,
+      "decoded_pts": 632.0,
+      "frame": "frame_00002_000632000.jpg",
+      "sha256": "768f1e82c845d9a4fd505b5e0ccd9fb1add2197d8e889ea383991f24c4572b43"
+    },
+    {
+      "requested_time": 689.0,
+      "time": 689.0,
+      "decoded_pts": 689.0,
+      "frame": "frame_00003_000689000.jpg",
+      "sha256": "f010fc1cccc3f9b9d17bc9e0b6ed2652db28178d131198f11581664947d1545d"
+    },
+    {
+      "requested_time": 719.0,
+      "time": 719.0,
+      "decoded_pts": 719.0,
+      "frame": "frame_00004_000719000.jpg",
+      "sha256": "fa25f22e5d16dc92f9e08f11eace45175ac2462b30b532c4cab0535c0de3d7ac"
+    },
+    {
+      "requested_time": 2405.0,
+      "time": 2405.0,
+      "decoded_pts": 2405.0,
+      "frame": "frame_00005_002405000.jpg",
+      "sha256": "28ed4f52687ae72c50b3a39ccd8a35e3b2a7b8a98b573ffa5c15bb0813c99931"
+    }
+  ],
+  "status": "complete",
+  "sheets": [
+    "sheet_001.jpg"
+  ]
+}

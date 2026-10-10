@@ -1,0 +1,22 @@
+{
+  "asr": "complete",
+  "text": "complete",
+  "upload": "complete",
+  "stream_id": "U15sH8So7PA",
+  "created_utc": "2026-10-05T09:24:20.766770+00:00",
+  "asr_started_utc": "2026-10-05T23:11:13.699505+00:00",
+  "asr_finished_utc": "2026-10-05T23:20:40.097298+00:00",
+  "asr_wall_seconds": 566.203,
+  "return_code": 15,
+  "paused_by": "explicit_user_request",
+  "paused_utc": "2026-10-05T11:11:16.468767+00:00",
+  "completed_chunk_files": [
+    "00000.json"
+  ],
+  "resume": "Existing audio and completed chunks are preserved; resume extraction, then primary text review.",
+  "text_completed_utc": "2026-10-05T23:22:05.379911+00:00",
+  "stock_name_replacements": 169,
+  "pending_names": 17,
+  "upload_completed_utc": "2026-10-05T23:25:53.680Z",
+  "cloud_receipt": "D:\\YuncongVideoAnalysis\\ledger_2026_v0.1\\text_priority_batch_20261005\\2026-08-13_U15sH8So7PA\\谷歌云盘上传记录.json"
+}

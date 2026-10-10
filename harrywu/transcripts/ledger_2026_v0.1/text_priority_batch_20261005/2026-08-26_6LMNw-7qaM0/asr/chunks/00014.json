@@ -1,0 +1,560 @@
+{
+  "begin": 4200.0,
+  "finish": 4500.0,
+  "segments": [
+    {
+      "start": 4199.62,
+      "end": 4208.85,
+      "text": "语述不观察,我也不观察",
+      "avg_logprob": -0.1613,
+      "no_speech_prob": 0.3096,
+      "review": false
+    },
+    {
+      "start": 4208.85,
+      "end": 4211.65,
+      "text": "语述这个公司本质上还是挺差的,说句真心话",
+      "avg_logprob": -0.1613,
+      "no_speech_prob": 0.3096,
+      "review": false
+    },
+    {
+      "start": 4211.65,
+      "end": 4216.03,
+      "text": "你看那个老板嘛,上市的时候一脸都一点都笑不出来",
+      "avg_logprob": -0.1613,
+      "no_speech_prob": 0.3096,
+      "review": false
+    },
+    {
+      "start": 4216.03,
+      "end": 4217.77,
+      "text": "他自己都觉得被高估了",
+      "avg_logprob": -0.1613,
+      "no_speech_prob": 0.3096,
+      "review": false
+    },
+    {
+      "start": 4217.77,
+      "end": 4219.41,
+      "text": "他自己都知道被做局了",
+      "avg_logprob": -0.1613,
+      "no_speech_prob": 0.3096,
+      "review": false
+    },
+    {
+      "start": 4219.41,
+      "end": 4220.05,
+      "text": "为什么呀?",
+      "avg_logprob": -0.1613,
+      "no_speech_prob": 0.3096,
+      "review": false
+    },
+    {
+      "start": 4220.49,
+      "end": 4224.15,
+      "text": "他当天上市的时候一大帮人发大财了",
+      "avg_logprob": -0.1613,
+      "no_speech_prob": 0.3096,
+      "review": false
+    },
+    {
+      "start": 4224.15,
+      "end": 4225.65,
+      "text": "然后疯狂抛售",
+      "avg_logprob": -0.1613,
+      "no_speech_prob": 0.3096,
+      "review": false
+    },
+    {
+      "start": 4225.65,
+      "end": 4227.25,
+      "text": "左鸟受赞",
+      "avg_logprob": -0.1613,
+      "no_speech_prob": 0.3096,
+      "review": false
+    },
+    {
+      "start": 4227.25,
+      "end": 4228.99,
+      "text": "把他一个人剩在那一边",
+      "avg_logprob": -0.1613,
+      "no_speech_prob": 0.3096,
+      "review": false
+    },
+    {
+      "start": 4228.99,
+      "end": 4231.09,
+      "text": "哎,说句真心话",
+      "avg_logprob": -0.1613,
+      "no_speech_prob": 0.3096,
+      "review": false
+    },
+    {
+      "start": 4231.29,
+      "end": 4234.45,
+      "text": "所以他整个的一天没有见过一个",
+      "avg_logprob": -0.1613,
+      "no_speech_prob": 0.3096,
+      "review": false
+    },
+    {
+      "start": 4234.45,
+      "end": 4270.44,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "avg_logprob": -0.207,
+      "no_speech_prob": 0.2382,
+      "review": false
+    },
+    {
+      "start": 4270.46,
+      "end": 4300.57,
+      "text": "今天大盘你看,标准的三角形突破啊,所以没有啥,我觉得今天大盘指数应该能够缓一缓了啊,应该能缓一缓,所以如果你手里有的话应该是没什么问题的啊,其实我手里有只是不告诉你们,我没办法告诉你们,现在我觉得,现在有时候都不敢说票了,说了之后,一是我觉得太诡异了,有些票说的太动荡了,你看我在池塘股里面两个涨停股,",
+      "avg_logprob": -0.0841,
+      "no_speech_prob": 0.151,
+      "review": false
+    },
+    {
+      "start": 4300.57,
+      "end": 4306.98,
+      "text": "哎呀,有的现在真的不敢跟你们说了,说实话,你们还是学方法吧",
+      "avg_logprob": -0.1331,
+      "no_speech_prob": 0.0157,
+      "review": false
+    },
+    {
+      "start": 4306.98,
+      "end": 4309.86,
+      "text": "我现在我自己偷偷赚钱算了",
+      "avg_logprob": -0.1331,
+      "no_speech_prob": 0.0157,
+      "review": false
+    },
+    {
+      "start": 4309.86,
+      "end": 4313.34,
+      "text": "有些地方我现在跟你们说了,你们被锤了,最后还在骂我",
+      "avg_logprob": -0.1331,
+      "no_speech_prob": 0.0157,
+      "review": false
+    },
+    {
+      "start": 4313.34,
+      "end": 4315.74,
+      "text": "你们的方,你们自己也接受不了",
+      "avg_logprob": -0.1331,
+      "no_speech_prob": 0.0157,
+      "review": false
+    },
+    {
+      "start": 4315.74,
+      "end": 4318.32,
+      "text": "所以现在我自己自己赚钱了",
+      "avg_logprob": -0.1331,
+      "no_speech_prob": 0.0157,
+      "review": false
+    },
+    {
+      "start": 4318.32,
+      "end": 4320.6,
+      "text": "我现在跟你们说只说大票了",
+      "avg_logprob": -0.1331,
+      "no_speech_prob": 0.0157,
+      "review": false
+    },
+    {
+      "start": 4320.6,
+      "end": 4324.86,
+      "text": "大票你们就,给你们说小票我都自己赚了",
+      "avg_logprob": -0.1331,
+      "no_speech_prob": 0.0157,
+      "review": false
+    },
+    {
+      "start": 4324.86,
+      "end": 4326.06,
+      "text": "哎呀,我现在不敢说小票了",
+      "avg_logprob": -0.1331,
+      "no_speech_prob": 0.0157,
+      "review": false
+    },
+    {
+      "start": 4326.06,
+      "end": 4327.64,
+      "text": "我都觉得我都被人坑了",
+      "avg_logprob": -0.1331,
+      "no_speech_prob": 0.0157,
+      "review": false
+    },
+    {
+      "start": 4327.64,
+      "end": 4329.46,
+      "text": "我一说小票就一天到晚冻在了面",
+      "avg_logprob": -0.1331,
+      "no_speech_prob": 0.0157,
+      "review": false
+    },
+    {
+      "start": 4329.46,
+      "end": 4331.22,
+      "text": "不说的话我自己赚钱,赚得好好的",
+      "avg_logprob": -0.1331,
+      "no_speech_prob": 0.0157,
+      "review": false
+    },
+    {
+      "start": 4331.22,
+      "end": 4379.94,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.101,
+      "no_speech_prob": 0.0704,
+      "review": false
+    },
+    {
+      "start": 4379.96,
+      "end": 4383.86,
+      "text": "小票交易不了,所以我尽量买护身300,中正500给你们说,尽量说这种",
+      "avg_logprob": -0.146,
+      "no_speech_prob": 0.2542,
+      "review": false
+    },
+    {
+      "start": 4383.86,
+      "end": 4387.11,
+      "text": "好的好的,没婚姻最好了",
+      "avg_logprob": -0.146,
+      "no_speech_prob": 0.2542,
+      "review": false
+    },
+    {
+      "start": 4387.11,
+      "end": 4389.37,
+      "text": "好,我们再来看看吧",
+      "avg_logprob": -0.146,
+      "no_speech_prob": 0.2542,
+      "review": false
+    },
+    {
+      "start": 4389.37,
+      "end": 4397.61,
+      "text": "我们今天,哎呀,今天你们说这个,你看,反正是有色我是不敢去追的",
+      "avg_logprob": -0.146,
+      "no_speech_prob": 0.2542,
+      "review": false
+    },
+    {
+      "start": 4397.61,
+      "end": 4403.05,
+      "text": "你们要追你们去追,因为有色黄金嘛,是以前的最好的位置",
+      "avg_logprob": -0.146,
+      "no_speech_prob": 0.2542,
+      "review": false
+    },
+    {
+      "start": 4403.05,
+      "end": 4405.57,
+      "text": "但是已经错过了,是不是,已经错过了",
+      "avg_logprob": -0.146,
+      "no_speech_prob": 0.2542,
+      "review": false
+    },
+    {
+      "start": 4405.57,
+      "end": 4407.49,
+      "text": "黄金最好的位置错过了",
+      "avg_logprob": -0.146,
+      "no_speech_prob": 0.2542,
+      "review": false
+    },
+    {
+      "start": 4408.17,
+      "end": 4409.97,
+      "text": "现在这个位置追我也不追了",
+      "avg_logprob": -0.146,
+      "no_speech_prob": 0.2542,
+      "review": false
+    },
+    {
+      "start": 4409.97,
+      "end": 4412.09,
+      "text": "你看现在这个位置追我也不去追了",
+      "avg_logprob": -0.1224,
+      "no_speech_prob": 0.2495,
+      "review": false
+    },
+    {
+      "start": 4412.09,
+      "end": 4414.99,
+      "text": "那么错过了就错过了呗",
+      "avg_logprob": -0.1224,
+      "no_speech_prob": 0.2495,
+      "review": false
+    },
+    {
+      "start": 4414.99,
+      "end": 4417.27,
+      "text": "那我也觉得没有啥了",
+      "avg_logprob": -0.1224,
+      "no_speech_prob": 0.2495,
+      "review": false
+    },
+    {
+      "start": 4417.27,
+      "end": 4418.51,
+      "text": "黄金也不叫错过吧",
+      "avg_logprob": -0.1224,
+      "no_speech_prob": 0.2495,
+      "review": false
+    },
+    {
+      "start": 4418.51,
+      "end": 4420.29,
+      "text": "黄金其实第一时间我说了",
+      "avg_logprob": -0.1224,
+      "no_speech_prob": 0.2495,
+      "review": false
+    },
+    {
+      "start": 4420.29,
+      "end": 4421.85,
+      "text": "只是说我也没拿那么久",
+      "avg_logprob": -0.1224,
+      "no_speech_prob": 0.2495,
+      "review": false
+    },
+    {
+      "start": 4421.85,
+      "end": 4423.57,
+      "text": "我也没有拿那么久",
+      "avg_logprob": -0.1224,
+      "no_speech_prob": 0.2495,
+      "review": false
+    },
+    {
+      "start": 4423.57,
+      "end": 4424.77,
+      "text": "但是我以前说的",
+      "avg_logprob": -0.1224,
+      "no_speech_prob": 0.2495,
+      "review": false
+    },
+    {
+      "start": 4424.77,
+      "end": 4426.39,
+      "text": "黄金如果你有ETF",
+      "avg_logprob": -0.1224,
+      "no_speech_prob": 0.2495,
+      "review": false
+    },
+    {
+      "start": 4426.39,
+      "end": 4428.81,
+      "text": "那个位置其实你应该买了就不动了",
+      "avg_logprob": -0.1224,
+      "no_speech_prob": 0.2495,
+      "review": false
+    },
+    {
+      "start": 4428.81,
+      "end": 4430.21,
+      "text": "其实最好就是买了不动",
+      "avg_logprob": -0.1224,
+      "no_speech_prob": 0.2495,
+      "review": false
+    },
+    {
+      "start": 4430.21,
+      "end": 4431.45,
+      "text": "今天没有啥",
+      "avg_logprob": -0.1224,
+      "no_speech_prob": 0.2495,
+      "review": false
+    },
+    {
+      "start": 4431.45,
+      "end": 4432.59,
+      "text": "今天就是有色",
+      "avg_logprob": -0.1224,
+      "no_speech_prob": 0.2495,
+      "review": false
+    },
+    {
+      "start": 4432.59,
+      "end": 4434.41,
+      "text": "我们也看了一下",
+      "avg_logprob": -0.1224,
+      "no_speech_prob": 0.2495,
+      "review": false
+    },
+    {
+      "start": 4434.41,
+      "end": 4437.23,
+      "text": "今天所有的就是证券",
+      "avg_logprob": -0.1224,
+      "no_speech_prob": 0.2495,
+      "review": false
+    },
+    {
+      "start": 4437.23,
+      "end": 4438.23,
+      "text": "证券我打死不破",
+      "avg_logprob": -0.1224,
+      "no_speech_prob": 0.2495,
+      "review": false
+    },
+    {
+      "start": 4438.23,
+      "end": 4440.85,
+      "text": "我们通过这个主力金额可以看得出来",
+      "avg_logprob": -0.1478,
+      "no_speech_prob": 0.2766,
+      "review": false
+    },
+    {
+      "start": 4440.85,
+      "end": 4443.39,
+      "text": "今天呢半导体这些还是不行的啊",
+      "avg_logprob": -0.1478,
+      "no_speech_prob": 0.2766,
+      "review": false
+    },
+    {
+      "start": 4443.39,
+      "end": 4445.37,
+      "text": "半导体啊CPU啊都不行",
+      "avg_logprob": -0.1478,
+      "no_speech_prob": 0.2766,
+      "review": false
+    },
+    {
+      "start": 4445.37,
+      "end": 4447.29,
+      "text": "那今天主要是涨啥",
+      "avg_logprob": -0.1478,
+      "no_speech_prob": 0.2766,
+      "review": false
+    },
+    {
+      "start": 4447.29,
+      "end": 4448.09,
+      "text": "就是涨有色",
+      "avg_logprob": -0.1478,
+      "no_speech_prob": 0.2766,
+      "review": false
+    },
+    {
+      "start": 4448.09,
+      "end": 4449.23,
+      "text": "你看紫金矿业啊",
+      "avg_logprob": -0.1478,
+      "no_speech_prob": 0.2766,
+      "review": false
+    },
+    {
+      "start": 4449.23,
+      "end": 4449.91,
+      "text": "江西铜业啊",
+      "avg_logprob": -0.1478,
+      "no_speech_prob": 0.2766,
+      "review": false
+    },
+    {
+      "start": 4449.91,
+      "end": 4450.79,
+      "text": "木业就涨有色",
+      "avg_logprob": -0.1478,
+      "no_speech_prob": 0.2766,
+      "review": false
+    },
+    {
+      "start": 4450.79,
+      "end": 4452.45,
+      "text": "第二个涨券商",
+      "avg_logprob": -0.1478,
+      "no_speech_prob": 0.2766,
+      "review": false
+    },
+    {
+      "start": 4452.45,
+      "end": 4454.33,
+      "text": "涨券商",
+      "avg_logprob": -0.1478,
+      "no_speech_prob": 0.2766,
+      "review": false
+    },
+    {
+      "start": 4454.33,
+      "end": 4456.97,
+      "text": "这两个都是我不想买的",
+      "avg_logprob": -0.1478,
+      "no_speech_prob": 0.2766,
+      "review": false
+    },
+    {
+      "start": 4456.97,
+      "end": 4457.93,
+      "text": "有色也不想买",
+      "avg_logprob": -0.1478,
+      "no_speech_prob": 0.2766,
+      "review": false
+    },
+    {
+      "start": 4457.93,
+      "end": 4459.37,
+      "text": "券商也不想买",
+      "avg_logprob": -0.1478,
+      "no_speech_prob": 0.2766,
+      "review": false
+    },
+    {
+      "start": 4459.37,
+      "end": 4461.47,
+      "text": "所以就没了",
+      "avg_logprob": -0.1478,
+      "no_speech_prob": 0.2766,
+      "review": false
+    },
+    {
+      "start": 4461.47,
+      "end": 4463.37,
+      "text": "所以今天我不买了",
+      "avg_logprob": -0.1478,
+      "no_speech_prob": 0.2766,
+      "review": false
+    },
+    {
+      "start": 4463.37,
+      "end": 4465.75,
+      "text": "今天我唯一的排队的就是",
+      "avg_logprob": -0.1478,
+      "no_speech_prob": 0.2766,
+      "review": false
+    },
+    {
+      "start": 4465.75,
+      "end": 4497.44,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0969,
+      "no_speech_prob": 0.1887,
+      "review": false
+    },
+    {
+      "start": 4497.46,
+      "end": 4498.08,
+      "text": "特别容易涨",
+      "avg_logprob": -0.159,
+      "no_speech_prob": 0.9971,
+      "review": true
+    },
+    {
+      "start": 4498.08,
+      "end": 4499.78,
+      "text": "所以如果你做股指期货的话",
+      "avg_logprob": -0.159,
+      "no_speech_prob": 0.9971,
+      "review": true
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 21.14
+}

@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "source": "D:\\YuncongVideoAnalysis\\2026-01-01_to_2026-10-03\\A股 交易策略 实盘直播（1月9日）.mp4",
+  "duration": 8710.222948,
+  "params": {
+    "source_sha256": "686fe6e957c25ff6e6ebdb8f94200c8b6fb803bafde54f8b2bc3f7ad0c74721b",
+    "times": [
+      600.0,
+      2400.0,
+      5400.0
+    ],
+    "method": "accurate-seek-copyts-original-v1"
+  },
+  "frames": [
+    {
+      "requested_time": 600.0,
+      "time": 600.0,
+      "decoded_pts": 600.0,
+      "frame": "frame_00000_000600000.jpg",
+      "sha256": "c6913154ef351eaed584f7c33cb8fc52bae81c354dccff25a61964be49b7e3a5"
+    },
+    {
+      "requested_time": 2400.0,
+      "time": 2400.0,
+      "decoded_pts": 2400.0,
+      "frame": "frame_00001_002400000.jpg",
+      "sha256": "8fc0b1be910b479f44f27a21474b4590f9de356dbd357f6c2ba9fe32415151f4"
+    },
+    {
+      "requested_time": 5400.0,
+      "time": 5400.0,
+      "decoded_pts": 5400.0,
+      "frame": "frame_00002_005400000.jpg",
+      "sha256": "3aebd802c6bb54823924659b6ad4f42ba073adbadeb7e0fdd9b260966dab3ab0"
+    }
+  ],
+  "status": "complete",
+  "sheets": [
+    "sheet_001.jpg"
+  ]
+}

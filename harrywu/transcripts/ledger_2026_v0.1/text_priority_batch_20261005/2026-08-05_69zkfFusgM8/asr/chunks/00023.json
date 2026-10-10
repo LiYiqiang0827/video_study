@@ -1,0 +1,976 @@
+{
+  "begin": 6900.0,
+  "finish": 7200.0,
+  "segments": [
+    {
+      "start": 6898.0,
+      "end": 6930.16,
+      "text": "好,那么今天没有啥了啊,今天没有啥了,美股开盘直播,哎呀,说实话美股,哎,美股,大家都说美股特别好做,有些时候美股,美股我还拿不准,说实话,美股我拿不准,好,为什么说我没这波没亏钱呢,因为是我跑得快呀,你们看我会员节目早跑了,全部跑完了,我跑得快呀,",
+      "avg_logprob": -0.1101,
+      "no_speech_prob": 0.8667,
+      "review": true
+    },
+    {
+      "start": 6930.18,
+      "end": 6932.94,
+      "text": "我跑得快,所以很早就跑光了",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.3457,
+      "review": false
+    },
+    {
+      "start": 6932.94,
+      "end": 6935.5,
+      "text": "美股,好,说说美股吧",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.3457,
+      "review": false
+    },
+    {
+      "start": 6935.5,
+      "end": 6938.72,
+      "text": "其实用我的方法做美股也是很赚钱的",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.3457,
+      "review": false
+    },
+    {
+      "start": 6938.72,
+      "end": 6941.46,
+      "text": "只不过呢,就是我就是长期以来",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.3457,
+      "review": false
+    },
+    {
+      "start": 6941.46,
+      "end": 6943.02,
+      "text": "我做美股没有做一股多",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.3457,
+      "review": false
+    },
+    {
+      "start": 6943.02,
+      "end": 6948.64,
+      "text": "就是我对A股的盘感和经验远比美股丰富",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.3457,
+      "review": false
+    },
+    {
+      "start": 6948.64,
+      "end": 6950.56,
+      "text": "但是美股绝对比A股好做",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.3457,
+      "review": false
+    },
+    {
+      "start": 6950.56,
+      "end": 6951.96,
+      "text": "那肯定的,好不好",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.3457,
+      "review": false
+    },
+    {
+      "start": 6951.96,
+      "end": 6954.46,
+      "text": "所以说有些时候美股我还不太敢去",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.3457,
+      "review": false
+    },
+    {
+      "start": 6954.46,
+      "end": 6957.24,
+      "text": "就是我总觉得美股还比较担心",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.3457,
+      "review": false
+    },
+    {
+      "start": 6957.24,
+      "end": 6958.88,
+      "text": "但是我做美股大家也看到",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.3457,
+      "review": false
+    },
+    {
+      "start": 6958.88,
+      "end": 6960.6,
+      "text": "一般的也是做的比较好的",
+      "avg_logprob": -0.0991,
+      "no_speech_prob": 0.5742,
+      "review": true
+    },
+    {
+      "start": 6960.6,
+      "end": 6962.96,
+      "text": "但是最大问题就是没有那种像A股",
+      "avg_logprob": -0.0991,
+      "no_speech_prob": 0.5742,
+      "review": true
+    },
+    {
+      "start": 6962.96,
+      "end": 6965.8,
+      "text": "A股真的我自己觉得我做A股做的如鱼得水",
+      "avg_logprob": -0.0991,
+      "no_speech_prob": 0.5742,
+      "review": true
+    },
+    {
+      "start": 6965.8,
+      "end": 6968.1,
+      "text": "我几乎不会犯什么大的错误",
+      "avg_logprob": -0.0991,
+      "no_speech_prob": 0.5742,
+      "review": true
+    },
+    {
+      "start": 6968.1,
+      "end": 6971.66,
+      "text": "而且对A股也非常了解",
+      "avg_logprob": -0.0991,
+      "no_speech_prob": 0.5742,
+      "review": true
+    },
+    {
+      "start": 6971.66,
+      "end": 6974.04,
+      "text": "不管从指数到ETF到个股",
+      "avg_logprob": -0.0991,
+      "no_speech_prob": 0.5742,
+      "review": true
+    },
+    {
+      "start": 6974.04,
+      "end": 6975.02,
+      "text": "你随便给我说个个股",
+      "avg_logprob": -0.0991,
+      "no_speech_prob": 0.5742,
+      "review": true
+    },
+    {
+      "start": 6975.02,
+      "end": 6976.82,
+      "text": "我第一时间跟你说出它的题材是什么",
+      "avg_logprob": -0.0991,
+      "no_speech_prob": 0.5742,
+      "review": true
+    },
+    {
+      "start": 6976.82,
+      "end": 6979.3,
+      "text": "就是它的这个题材里面有哪些是浓头",
+      "avg_logprob": -0.0991,
+      "no_speech_prob": 0.5742,
+      "review": true
+    },
+    {
+      "start": 6979.3,
+      "end": 6981.14,
+      "text": "就是我非常清晰",
+      "avg_logprob": -0.0991,
+      "no_speech_prob": 0.5742,
+      "review": true
+    },
+    {
+      "start": 6981.14,
+      "end": 6984.24,
+      "text": "哎呀美股就比较难一点点",
+      "avg_logprob": -0.0991,
+      "no_speech_prob": 0.5742,
+      "review": true
+    },
+    {
+      "start": 6984.24,
+      "end": 6987.62,
+      "text": "这是为什么说我不去不喜欢去做美股的直播",
+      "avg_logprob": -0.0991,
+      "no_speech_prob": 0.5742,
+      "review": true
+    },
+    {
+      "start": 6987.62,
+      "end": 6989.18,
+      "text": "我里面给大家做会员节目",
+      "avg_logprob": -0.1398,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 6989.18,
+      "end": 6991.26,
+      "text": "去盘后去说美股",
+      "avg_logprob": -0.1398,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 6991.26,
+      "end": 6992.6,
+      "text": "因为我在盘中嘛",
+      "avg_logprob": -0.1398,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 6992.6,
+      "end": 6993.56,
+      "text": "我反应不过来",
+      "avg_logprob": -0.1398,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 6993.56,
+      "end": 6994.56,
+      "text": "我看了有些",
+      "avg_logprob": -0.1398,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 6994.56,
+      "end": 6995.88,
+      "text": "因为美股都不知道干嘛的",
+      "avg_logprob": -0.1398,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 6995.88,
+      "end": 6997.1,
+      "text": "我还在研究半天",
+      "avg_logprob": -0.1398,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 6997.1,
+      "end": 6998.22,
+      "text": "但是呢",
+      "avg_logprob": -0.1398,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 6998.22,
+      "end": 7000.46,
+      "text": "如果我从仅从技术上讲的话",
+      "avg_logprob": -0.1398,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 7000.46,
+      "end": 7001.64,
+      "text": "也是没有问题的",
+      "avg_logprob": -0.1398,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 7001.64,
+      "end": 7003.06,
+      "text": "相对来说",
+      "avg_logprob": -0.1398,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 7003.06,
+      "end": 7009.88,
+      "text": "美股拿不拿杠杆已经被割了",
+      "avg_logprob": -0.1398,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 7009.88,
+      "end": 7013.57,
+      "text": "美股不拿杠杆怎么会被割了呀",
+      "avg_logprob": -0.1398,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 7013.57,
+      "end": 7014.55,
+      "text": "那是啥意思",
+      "avg_logprob": -0.1398,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 7014.55,
+      "end": 7016.07,
+      "text": "拿杠杆才被割嘛",
+      "avg_logprob": -0.1398,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 7016.07,
+      "end": 7016.49,
+      "text": "是不是",
+      "avg_logprob": -0.1398,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 7016.49,
+      "end": 7018.49,
+      "text": "以后我争取吧",
+      "avg_logprob": -0.1398,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 7018.49,
+      "end": 7019.37,
+      "text": "以后也是",
+      "avg_logprob": -0.1398,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 7019.37,
+      "end": 7020.61,
+      "text": "以后也争取",
+      "avg_logprob": -0.1398,
+      "no_speech_prob": 0.1437,
+      "review": false
+    },
+    {
+      "start": 7020.61,
+      "end": 7026.95,
+      "text": "反正但是我估计因为最关键的问题是美股我钱少我就做的少",
+      "avg_logprob": -0.1186,
+      "no_speech_prob": 0.1138,
+      "review": false
+    },
+    {
+      "start": 7026.95,
+      "end": 7030.41,
+      "text": "美股里面账户里面钱少就做的少",
+      "avg_logprob": -0.1186,
+      "no_speech_prob": 0.1138,
+      "review": false
+    },
+    {
+      "start": 7030.41,
+      "end": 7033.41,
+      "text": "但是我觉得还是带大家做是可以的",
+      "avg_logprob": -0.1186,
+      "no_speech_prob": 0.1138,
+      "review": false
+    },
+    {
+      "start": 7033.41,
+      "end": 7035.15,
+      "text": "给大家看盘还是没问题的",
+      "avg_logprob": -0.1186,
+      "no_speech_prob": 0.1138,
+      "review": false
+    },
+    {
+      "start": 7035.15,
+      "end": 7037.33,
+      "text": "以后给大家做看盘还是没问题的",
+      "avg_logprob": -0.1186,
+      "no_speech_prob": 0.1138,
+      "review": false
+    },
+    {
+      "start": 7037.33,
+      "end": 7042.4,
+      "text": "但是整体来说我还是比较喜欢A股",
+      "avg_logprob": -0.1186,
+      "no_speech_prob": 0.1138,
+      "review": false
+    },
+    {
+      "start": 7042.4,
+      "end": 7045.6,
+      "text": "美股就是傻了",
+      "avg_logprob": -0.1186,
+      "no_speech_prob": 0.1138,
+      "review": false
+    },
+    {
+      "start": 7045.6,
+      "end": 7047.5,
+      "text": "就是越笨越好",
+      "avg_logprob": -0.1186,
+      "no_speech_prob": 0.1138,
+      "review": false
+    },
+    {
+      "start": 7047.5,
+      "end": 7048.54,
+      "text": "不要太聪明",
+      "avg_logprob": -0.1186,
+      "no_speech_prob": 0.1138,
+      "review": false
+    },
+    {
+      "start": 7048.54,
+      "end": 7049.96,
+      "text": "越笨越好",
+      "avg_logprob": -0.1186,
+      "no_speech_prob": 0.1138,
+      "review": false
+    },
+    {
+      "start": 7049.96,
+      "end": 7051.78,
+      "text": "你就拿着不动是最好的",
+      "avg_logprob": -0.1097,
+      "no_speech_prob": 0.6675,
+      "review": true
+    },
+    {
+      "start": 7051.78,
+      "end": 7055.08,
+      "text": "你只要是在低位买了拿了不动",
+      "avg_logprob": -0.1097,
+      "no_speech_prob": 0.6675,
+      "review": true
+    },
+    {
+      "start": 7055.08,
+      "end": 7057.06,
+      "text": "你就比较好",
+      "avg_logprob": -0.1097,
+      "no_speech_prob": 0.6675,
+      "review": true
+    },
+    {
+      "start": 7057.06,
+      "end": 7059.22,
+      "text": "其实就是傻拿就好",
+      "avg_logprob": -0.1097,
+      "no_speech_prob": 0.6675,
+      "review": true
+    },
+    {
+      "start": 7059.22,
+      "end": 7062.26,
+      "text": "A股不一样",
+      "avg_logprob": -0.1097,
+      "no_speech_prob": 0.6675,
+      "review": true
+    },
+    {
+      "start": 7062.26,
+      "end": 7063.9,
+      "text": "A股还有好多好多",
+      "avg_logprob": -0.1097,
+      "no_speech_prob": 0.6675,
+      "review": true
+    },
+    {
+      "start": 7063.9,
+      "end": 7064.98,
+      "text": "对美股大跌了",
+      "avg_logprob": -0.1097,
+      "no_speech_prob": 0.6675,
+      "review": true
+    },
+    {
+      "start": 7064.98,
+      "end": 7066.42,
+      "text": "到了跌的位置就买",
+      "avg_logprob": -0.1097,
+      "no_speech_prob": 0.6675,
+      "review": true
+    },
+    {
+      "start": 7066.42,
+      "end": 7070.4,
+      "text": "就是这样子的",
+      "avg_logprob": -0.1097,
+      "no_speech_prob": 0.6675,
+      "review": true
+    },
+    {
+      "start": 7070.4,
+      "end": 7072.14,
+      "text": "A股我做的还更好一点",
+      "avg_logprob": -0.1097,
+      "no_speech_prob": 0.6675,
+      "review": true
+    },
+    {
+      "start": 7072.14,
+      "end": 7074.14,
+      "text": "美股其实不需要学那么多东西",
+      "avg_logprob": -0.1097,
+      "no_speech_prob": 0.6675,
+      "review": true
+    },
+    {
+      "start": 7074.14,
+      "end": 7075.28,
+      "text": "只要你有钱",
+      "avg_logprob": -0.1097,
+      "no_speech_prob": 0.6675,
+      "review": true
+    },
+    {
+      "start": 7075.28,
+      "end": 7076.5,
+      "text": "跌到位置就买",
+      "avg_logprob": -0.1097,
+      "no_speech_prob": 0.6675,
+      "review": true
+    },
+    {
+      "start": 7076.5,
+      "end": 7077.0,
+      "text": "是吧",
+      "avg_logprob": -0.1097,
+      "no_speech_prob": 0.6675,
+      "review": true
+    },
+    {
+      "start": 7077.0,
+      "end": 7078.06,
+      "text": "跌到位置买",
+      "avg_logprob": -0.1097,
+      "no_speech_prob": 0.6675,
+      "review": true
+    },
+    {
+      "start": 7078.06,
+      "end": 7079.08,
+      "text": "那些关键的位置",
+      "avg_logprob": -0.1097,
+      "no_speech_prob": 0.6675,
+      "review": true
+    },
+    {
+      "start": 7079.08,
+      "end": 7080.86,
+      "text": "只要你稍微学一下我的技术分析",
+      "avg_logprob": -0.1097,
+      "no_speech_prob": 0.6675,
+      "review": true
+    },
+    {
+      "start": 7080.86,
+      "end": 7085.67,
+      "text": "其实是没啥问题的",
+      "avg_logprob": -0.1577,
+      "no_speech_prob": 0.4165,
+      "review": false
+    },
+    {
+      "start": 7085.67,
+      "end": 7088.78,
+      "text": "你看你看我做英特尔",
+      "avg_logprob": -0.1577,
+      "no_speech_prob": 0.4165,
+      "review": false
+    },
+    {
+      "start": 7088.78,
+      "end": 7091.52,
+      "text": "美股我最光荣的战绩",
+      "avg_logprob": -0.1577,
+      "no_speech_prob": 0.4165,
+      "review": false
+    },
+    {
+      "start": 7091.52,
+      "end": 7093.2,
+      "text": "我跟大家说一下美股最光荣的战绩",
+      "avg_logprob": -0.1577,
+      "no_speech_prob": 0.4165,
+      "review": false
+    },
+    {
+      "start": 7093.2,
+      "end": 7096.82,
+      "text": "第一个就是多年前",
+      "avg_logprob": -0.1577,
+      "no_speech_prob": 0.4165,
+      "review": false
+    },
+    {
+      "start": 7096.82,
+      "end": 7098.8,
+      "text": "在这个位置",
+      "avg_logprob": -0.1577,
+      "no_speech_prob": 0.4165,
+      "review": false
+    },
+    {
+      "start": 7098.8,
+      "end": 7101.98,
+      "text": "我说特斯拉最完美的买点出现",
+      "avg_logprob": -0.1577,
+      "no_speech_prob": 0.4165,
+      "review": false
+    },
+    {
+      "start": 7101.98,
+      "end": 7103.44,
+      "text": "那是在这一年",
+      "avg_logprob": -0.1577,
+      "no_speech_prob": 0.4165,
+      "review": false
+    },
+    {
+      "start": 7103.44,
+      "end": 7104.44,
+      "text": "这一年",
+      "avg_logprob": -0.1577,
+      "no_speech_prob": 0.4165,
+      "review": false
+    },
+    {
+      "start": 7104.44,
+      "end": 7105.96,
+      "text": "这一年",
+      "avg_logprob": -0.1577,
+      "no_speech_prob": 0.4165,
+      "review": false
+    },
+    {
+      "start": 7105.96,
+      "end": 7107.78,
+      "text": "就是这一天我告诉大家",
+      "avg_logprob": -0.1577,
+      "no_speech_prob": 0.4165,
+      "review": false
+    },
+    {
+      "start": 7107.78,
+      "end": 7109.54,
+      "text": "因为这个都是有视频的",
+      "avg_logprob": -0.1577,
+      "no_speech_prob": 0.4165,
+      "review": false
+    },
+    {
+      "start": 7109.54,
+      "end": 7111.2,
+      "text": "你们就可以查我以前的视频",
+      "avg_logprob": -0.1577,
+      "no_speech_prob": 0.4165,
+      "review": false
+    },
+    {
+      "start": 7111.2,
+      "end": 7112.88,
+      "text": "这个跑哪去了",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.2285,
+      "review": false
+    },
+    {
+      "start": 7112.88,
+      "end": 7115.08,
+      "text": "我的那个跑哪去了",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.2285,
+      "review": false
+    },
+    {
+      "start": 7115.08,
+      "end": 7116.91,
+      "text": "在这在这",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.2285,
+      "review": false
+    },
+    {
+      "start": 7116.91,
+      "end": 7118.89,
+      "text": "这一天",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.2285,
+      "review": false
+    },
+    {
+      "start": 7118.89,
+      "end": 7120.45,
+      "text": "那个时候特斯拉才多少钱",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.2285,
+      "review": false
+    },
+    {
+      "start": 7120.45,
+      "end": 7121.45,
+      "text": "才一百块钱的时候",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.2285,
+      "review": false
+    },
+    {
+      "start": 7121.45,
+      "end": 7122.37,
+      "text": "就这一天",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.2285,
+      "review": false
+    },
+    {
+      "start": 7122.37,
+      "end": 7124.99,
+      "text": "我说特斯拉最完美的买点出现",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.2285,
+      "review": false
+    },
+    {
+      "start": 7124.99,
+      "end": 7127.79,
+      "text": "有一个朋友看我的",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.2285,
+      "review": false
+    },
+    {
+      "start": 7127.79,
+      "end": 7128.69,
+      "text": "当时做了期权",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.2285,
+      "review": false
+    },
+    {
+      "start": 7128.69,
+      "end": 7130.13,
+      "text": "他说翻了几百倍",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.2285,
+      "review": false
+    },
+    {
+      "start": 7130.13,
+      "end": 7132.55,
+      "text": "他拿了大概一年左右",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.2285,
+      "review": false
+    },
+    {
+      "start": 7132.55,
+      "end": 7133.93,
+      "text": "期权翻了几百倍",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.2285,
+      "review": false
+    },
+    {
+      "start": 7133.93,
+      "end": 7135.19,
+      "text": "就是这一天",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.2285,
+      "review": false
+    },
+    {
+      "start": 7135.19,
+      "end": 7137.31,
+      "text": "还有就是英特尔",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.2285,
+      "review": false
+    },
+    {
+      "start": 7137.31,
+      "end": 7138.77,
+      "text": "就是我最成功的",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.2285,
+      "review": false
+    },
+    {
+      "start": 7138.77,
+      "end": 7140.49,
+      "text": "就是还有英特尔",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.2285,
+      "review": false
+    },
+    {
+      "start": 7140.49,
+      "end": 7142.93,
+      "text": "那个时候我只有刚做美股",
+      "avg_logprob": -0.1072,
+      "no_speech_prob": 0.2303,
+      "review": false
+    },
+    {
+      "start": 7142.93,
+      "end": 7144.17,
+      "text": "特斯拉是我刚开始",
+      "avg_logprob": -0.1072,
+      "no_speech_prob": 0.2303,
+      "review": false
+    },
+    {
+      "start": 7144.17,
+      "end": 7145.83,
+      "text": "那个时候刚开始接触美股",
+      "avg_logprob": -0.1072,
+      "no_speech_prob": 0.2303,
+      "review": false
+    },
+    {
+      "start": 7145.83,
+      "end": 7146.57,
+      "text": "很多年前",
+      "avg_logprob": -0.1072,
+      "no_speech_prob": 0.2303,
+      "review": false
+    },
+    {
+      "start": 7146.57,
+      "end": 7148.9,
+      "text": "还有就是英特尔嘛",
+      "avg_logprob": -0.1072,
+      "no_speech_prob": 0.2303,
+      "review": false
+    },
+    {
+      "start": 7148.9,
+      "end": 7150.26,
+      "text": "就是最成功最成功的案例",
+      "avg_logprob": -0.1072,
+      "no_speech_prob": 0.2303,
+      "review": false
+    },
+    {
+      "start": 7150.26,
+      "end": 7155.31,
+      "text": "其他的呢",
+      "avg_logprob": -0.1072,
+      "no_speech_prob": 0.2303,
+      "review": false
+    },
+    {
+      "start": 7155.31,
+      "end": 7156.97,
+      "text": "就是其他的也有很多很多成功的案例",
+      "avg_logprob": -0.1072,
+      "no_speech_prob": 0.2303,
+      "review": false
+    },
+    {
+      "start": 7156.97,
+      "end": 7158.03,
+      "text": "但是这个太多了",
+      "avg_logprob": -0.1072,
+      "no_speech_prob": 0.2303,
+      "review": false
+    },
+    {
+      "start": 7158.03,
+      "end": 7159.93,
+      "text": "英特尔我是在这些位置说买的",
+      "avg_logprob": -0.1072,
+      "no_speech_prob": 0.2303,
+      "review": false
+    },
+    {
+      "start": 7159.93,
+      "end": 7160.79,
+      "text": "这些位置",
+      "avg_logprob": -0.1072,
+      "no_speech_prob": 0.2303,
+      "review": false
+    },
+    {
+      "start": 7160.79,
+      "end": 7162.17,
+      "text": "这些位置说买的",
+      "avg_logprob": -0.1072,
+      "no_speech_prob": 0.2303,
+      "review": false
+    },
+    {
+      "start": 7162.17,
+      "end": 7163.33,
+      "text": "特别是这一天",
+      "avg_logprob": -0.1072,
+      "no_speech_prob": 0.2303,
+      "review": false
+    },
+    {
+      "start": 7163.33,
+      "end": 7167.07,
+      "text": "我说英特尔最佳的买入位置出现了",
+      "avg_logprob": -0.1072,
+      "no_speech_prob": 0.2303,
+      "review": false
+    },
+    {
+      "start": 7167.07,
+      "end": 7170.3,
+      "text": "当时如果做期权的话",
+      "avg_logprob": -0.1072,
+      "no_speech_prob": 0.2303,
+      "review": false
+    },
+    {
+      "start": 7170.3,
+      "end": 7171.7,
+      "text": "现在至少有几百倍了",
+      "avg_logprob": -0.1072,
+      "no_speech_prob": 0.2303,
+      "review": false
+    },
+    {
+      "start": 7171.7,
+      "end": 7173.36,
+      "text": "几百倍了",
+      "avg_logprob": -0.1072,
+      "no_speech_prob": 0.2303,
+      "review": false
+    },
+    {
+      "start": 7173.36,
+      "end": 7174.7,
+      "text": "然后后面一直说英特尔",
+      "avg_logprob": -0.1072,
+      "no_speech_prob": 0.2303,
+      "review": false
+    },
+    {
+      "start": 7174.7,
+      "end": 7185.44,
+      "text": "后面说了好多次,英特尔不止说一次,一次这个地方说,这个地方说,这个地方也说,这个地方也说,我说了无数次英特尔,英特尔一直反复在做,一直反复在做",
+      "avg_logprob": -0.0575,
+      "no_speech_prob": 0.0627,
+      "review": false
+    },
+    {
+      "start": 7185.44,
+      "end": 7192.36,
+      "text": "包括前几天也是我说,你跌到位你就买英特尔,我说你这个绝对比其他票好,那现在证明又是正确的",
+      "avg_logprob": -0.0575,
+      "no_speech_prob": 0.0627,
+      "review": false
+    },
+    {
+      "start": 7192.36,
+      "end": 7201.97,
+      "text": "平台发展,那早忘了,A股里面的东西也比较多",
+      "avg_logprob": -0.0575,
+      "no_speech_prob": 0.0627,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 27.38
+}

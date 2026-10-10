@@ -1,0 +1,37 @@
+{
+  "version": "v0.1",
+  "window_start": "2026-01-01T00:00:00+08:00",
+  "window_end_exclusive": "2026-10-04T00:00:00+08:00",
+  "channel": "https://www.youtube.com/@yuncongtrade/streams",
+  "source_root": "D:\\YuncongVideoAnalysis\\2026-01-01_to_2026-10-03",
+  "privacy": "local_only",
+  "platform_version": "2.2.1",
+  "model": "large-v3",
+  "device": "cuda",
+  "compute_type": "float16",
+  "language": "zh",
+  "chunk_seconds": 300,
+  "vad": "conservative",
+  "resolution_policy": "720p_first_then_1080p_if_unreadable",
+  "bulk_gate": "User review of three pilots before bulk processing",
+  "pilots": [
+    {
+      "stream_id": "XSFwu5KOo5Y",
+      "kind": "盘中候选",
+      "source_path": "D:\\YuncongVideoAnalysis\\2026-01-01_to_2026-10-03\\A股 交易策略 实盘直播（1月9日）.mp4",
+      "duration_seconds": 8710.222948
+    },
+    {
+      "stream_id": "dMgT48e5NQo",
+      "kind": "盘后复盘",
+      "source_path": "D:\\YuncongVideoAnalysis\\2026-01-01_to_2026-10-03\\A股每日复盘直播（1月19日晚）.mp4",
+      "duration_seconds": 4227.796463
+    },
+    {
+      "stream_id": "zuo8FhWIdow",
+      "kind": "闲聊答疑候选",
+      "source_path": "D:\\YuncongVideoAnalysis\\2026-01-01_to_2026-10-03\\节日快乐，随便聊聊天 （5月3日早915点 北京时间）.mp4",
+      "duration_seconds": 8258.200091
+    }
+  ]
+}

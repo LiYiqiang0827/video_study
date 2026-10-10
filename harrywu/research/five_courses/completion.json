@@ -1,0 +1,31 @@
+{
+  "status": "complete",
+  "completed_date_local": "2026-09-30",
+  "task": "尽可能完整理解用户提供的云聪五段视频，并改进本地识别与画面复核基建",
+  "source_directory": "C:\\Users\\HarryWu_IOKI\\Videos\\飞云双突破\\For GPT",
+  "media_count": 5,
+  "source_duration_seconds": 8686.535,
+  "reviewed_frames": 169,
+  "audio_processing": "所有五段使用本地 CUDA large-v3 完成，全量转写已逐段阅读",
+  "interpretation": "五份课程笔记、13 类买点、共同框架、例外及未量化内容均已保存",
+  "deliverables": ["云聪视频理解报告.html", "understanding.json", "notes_03.json", "notes_04.json", "notes_08.json", "notes_09.json", "notes_buypoints.json", "acceptance.json"],
+  "authoritative_extractions": "platform_large_v3_v1",
+  "other_extractions": "根目录早先 turbo 转写是暂停前的不完整中间结果，不作为报告依据",
+  "infrastructure_changes": [
+    "C:\\Users\\HarryWu_IOKI\\Documents\\推し活\\media_platform\\frame_review.py",
+    "C:\\Users\\HarryWu_IOKI\\Documents\\推し活\\media_platform\\test_frame_review.py",
+    "C:\\Users\\HarryWu_IOKI\\Documents\\推し活\\media_platform\\README.md"
+  ],
+  "verification": {
+    "source_and_evidence_hashes": "passed",
+    "chunk_coverage": "passed",
+    "frame_timestamps_and_original_resolution": "passed",
+    "new_frame_tests": "3 passed",
+    "existing_platform_tests": "6 passed",
+    "report_local_links_and_javascript_syntax": "passed",
+    "report_ui": "页面布局、全文检索、时间引用的键盘打开和对应图文显示已核对"
+  },
+  "gpu_recognition_job": "finished; model process exited",
+  "preview": "本地 HTTP 阅读预览位于 127.0.0.1:8816；HTML 本身及相对路径图片已保存，可独立保留",
+  "limits": ["未逐帧观看视频", "机器转写仍保留错字和模型待核对标记，解释按图像与上下文整理", "未对课程概率与盈利承诺作实证检验", "没有把课程未定义的参数自行补成交易规则"]
+}

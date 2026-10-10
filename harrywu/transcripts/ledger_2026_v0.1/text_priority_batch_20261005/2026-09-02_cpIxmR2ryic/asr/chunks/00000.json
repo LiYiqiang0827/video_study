@@ -1,0 +1,208 @@
+{
+  "begin": 0.0,
+  "finish": 300.0,
+  "segments": [
+    {
+      "start": 68.46,
+      "end": 73.5,
+      "text": "我这边先忙点事啊,一会儿大家交流,我先赶快把我这个,这几个放上去",
+      "avg_logprob": -0.1293,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 73.5,
+      "end": 79.55,
+      "text": "我今天要观察的,等会儿要观察的啊",
+      "avg_logprob": -0.1293,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 79.55,
+      "end": 149.07,
+      "text": "我先忙点我的事情啊,你们等会儿再,等会儿再回答",
+      "avg_logprob": -0.1293,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 149.07,
+      "end": 151.31,
+      "text": "我在这个地方脑是遮着我的",
+      "avg_logprob": -0.1293,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 151.31,
+      "end": 155.82,
+      "text": "这个,放中间来行不行,我放远一点",
+      "avg_logprob": -0.1293,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 155.82,
+      "end": 183.39,
+      "text": "嗯,大家好,我看这个,看哪边,对,这边应该声音也没有问题啊,也不会有回音",
+      "avg_logprob": -0.1293,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 183.39,
+      "end": 185.45,
+      "text": "好我先忙一点我的事情啊",
+      "avg_logprob": -0.1203,
+      "no_speech_prob": 0.7158,
+      "review": true
+    },
+    {
+      "start": 185.45,
+      "end": 187.39,
+      "text": "我等我的事情忙完了之后再给你们联系",
+      "avg_logprob": -0.1203,
+      "no_speech_prob": 0.7158,
+      "review": true
+    },
+    {
+      "start": 187.39,
+      "end": 189.69,
+      "text": "我现在先看看我的",
+      "avg_logprob": -0.1203,
+      "no_speech_prob": 0.7158,
+      "review": true
+    },
+    {
+      "start": 189.69,
+      "end": 192.48,
+      "text": "我的观察的",
+      "avg_logprob": -0.1203,
+      "no_speech_prob": 0.7158,
+      "review": true
+    },
+    {
+      "start": 192.48,
+      "end": 193.54,
+      "text": "今天观察的这些",
+      "avg_logprob": -0.1203,
+      "no_speech_prob": 0.7158,
+      "review": true
+    },
+    {
+      "start": 193.54,
+      "end": 205.64,
+      "text": "昨天我排队排到了一些啊",
+      "avg_logprob": -0.1203,
+      "no_speech_prob": 0.7158,
+      "review": true
+    },
+    {
+      "start": 205.64,
+      "end": 206.96,
+      "text": "排到了一些",
+      "avg_logprob": -0.1203,
+      "no_speech_prob": 0.7158,
+      "review": true
+    },
+    {
+      "start": 206.96,
+      "end": 209.24,
+      "text": "今天我看看哪些要加仓",
+      "avg_logprob": -0.1203,
+      "no_speech_prob": 0.7158,
+      "review": true
+    },
+    {
+      "start": 209.24,
+      "end": 212.3,
+      "text": "你们就当天去排队啊",
+      "avg_logprob": -0.1203,
+      "no_speech_prob": 0.7158,
+      "review": true
+    },
+    {
+      "start": 212.3,
+      "end": 213.5,
+      "text": "不要第二天早上去买",
+      "avg_logprob": -0.1203,
+      "no_speech_prob": 0.7158,
+      "review": true
+    },
+    {
+      "start": 213.5,
+      "end": 214.32,
+      "text": "第二天早上去买",
+      "avg_logprob": -0.1203,
+      "no_speech_prob": 0.7158,
+      "review": true
+    },
+    {
+      "start": 214.32,
+      "end": 215.94,
+      "text": "我完全不敢保证啊",
+      "avg_logprob": -0.1203,
+      "no_speech_prob": 0.7158,
+      "review": true
+    },
+    {
+      "start": 215.94,
+      "end": 217.36,
+      "text": "你看那个风范最近跌的",
+      "avg_logprob": -0.1203,
+      "no_speech_prob": 0.7158,
+      "review": true
+    },
+    {
+      "start": 217.36,
+      "end": 218.42,
+      "text": "不是跌哈",
+      "avg_logprob": -0.1203,
+      "no_speech_prob": 0.7158,
+      "review": true
+    },
+    {
+      "start": 218.42,
+      "end": 219.5,
+      "text": "他最近演着震的",
+      "avg_logprob": -0.1203,
+      "no_speech_prob": 0.7158,
+      "review": true
+    },
+    {
+      "start": 219.5,
+      "end": 221.18,
+      "text": "但是最终还是让大家赚钱的",
+      "avg_logprob": -0.1203,
+      "no_speech_prob": 0.7158,
+      "review": true
+    },
+    {
+      "start": 221.18,
+      "end": 222.86,
+      "text": "只是真的是把我吓了一大跳",
+      "avg_logprob": -0.1203,
+      "no_speech_prob": 0.7158,
+      "review": true
+    },
+    {
+      "start": 222.86,
+      "end": 272.98,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1093,
+      "no_speech_prob": 0.8896,
+      "review": true
+    },
+    {
+      "start": 273.0,
+      "end": 304.79,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0921,
+      "no_speech_prob": 0.9707,
+      "review": true
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 12.55
+}

@@ -1,0 +1,728 @@
+{
+  "begin": 600.0,
+  "finish": 900.0,
+  "segments": [
+    {
+      "start": 598.0,
+      "end": 630.41,
+      "text": "然后呢,我看看啊,五方光电,国选高科,国选高科我排队了,我也买到了,我既排队了,我也买到了,哎呀,这个,你看,国选高科我既排队了,买到了,为什么呢,因为国选高科上周五打开了,打开了,所以买到了,然后西藏矿业也是,我既排队了,也买到了,西藏矿业也是,我既排队了,也买到了,因为上周五也是,它也打开了,是吧,你们看上周也是打开了,现在看起来都是赚钱的,你看,基本上都是赚钱的",
+      "avg_logprob": -0.08,
+      "no_speech_prob": 0.0518,
+      "review": false
+    },
+    {
+      "start": 630.41,
+      "end": 634.55,
+      "text": "除了我方光店,我没买到,今天不追了,第三个涨停我不追了",
+      "avg_logprob": -0.1319,
+      "no_speech_prob": 0.0814,
+      "review": false
+    },
+    {
+      "start": 634.55,
+      "end": 643.37,
+      "text": "然后呢,这个我们前几天电力,电力这些还是不行",
+      "avg_logprob": -0.1319,
+      "no_speech_prob": 0.0814,
+      "review": false
+    },
+    {
+      "start": 643.37,
+      "end": 648.89,
+      "text": "电力这些还是不行,电力这些票还是不行,这些票都不行",
+      "avg_logprob": -0.1319,
+      "no_speech_prob": 0.0814,
+      "review": false
+    },
+    {
+      "start": 648.89,
+      "end": 655.41,
+      "text": "最近新的票还好一点点,其他的,因为今天为什么,今天肯定跌呀",
+      "avg_logprob": -0.1319,
+      "no_speech_prob": 0.0814,
+      "review": false
+    },
+    {
+      "start": 655.41,
+      "end": 660.41,
+      "text": "你们知道吧,今天又没谈崩了嘛,今天谈崩了,大家可能知道了",
+      "avg_logprob": -0.1319,
+      "no_speech_prob": 0.0814,
+      "review": false
+    },
+    {
+      "start": 660.41,
+      "end": 662.41,
+      "text": "今天新闻他现在不是说",
+      "avg_logprob": -0.1525,
+      "no_speech_prob": 0.2321,
+      "review": false
+    },
+    {
+      "start": 662.41,
+      "end": 665.93,
+      "text": "才能说说现在美国又开始",
+      "avg_logprob": -0.1525,
+      "no_speech_prob": 0.2321,
+      "review": false
+    },
+    {
+      "start": 665.93,
+      "end": 669.03,
+      "text": "现在是美国要封锁伊朗的交通",
+      "avg_logprob": -0.1525,
+      "no_speech_prob": 0.2321,
+      "review": false
+    },
+    {
+      "start": 669.03,
+      "end": 672.25,
+      "text": "以前是伊朗要封锁",
+      "avg_logprob": -0.1525,
+      "no_speech_prob": 0.2321,
+      "review": false
+    },
+    {
+      "start": 672.25,
+      "end": 673.35,
+      "text": "现在是美国要封锁",
+      "avg_logprob": -0.1525,
+      "no_speech_prob": 0.2321,
+      "review": false
+    },
+    {
+      "start": 673.35,
+      "end": 676.77,
+      "text": "估计后面就是伊朗和美国两个就不停的对这个",
+      "avg_logprob": -0.1525,
+      "no_speech_prob": 0.2321,
+      "review": false
+    },
+    {
+      "start": 676.77,
+      "end": 679.79,
+      "text": "对这个就争夺",
+      "avg_logprob": -0.1525,
+      "no_speech_prob": 0.2321,
+      "review": false
+    },
+    {
+      "start": 679.79,
+      "end": 683.07,
+      "text": "就争夺这个霍尔摩斯港口",
+      "avg_logprob": -0.1525,
+      "no_speech_prob": 0.2321,
+      "review": false
+    },
+    {
+      "start": 683.07,
+      "end": 684.57,
+      "text": "肯定一直就是拿扯",
+      "avg_logprob": -0.1525,
+      "no_speech_prob": 0.2321,
+      "review": false
+    },
+    {
+      "start": 684.57,
+      "end": 690.13,
+      "text": "今天A股肯定是跌的呀",
+      "avg_logprob": -0.1525,
+      "no_speech_prob": 0.2321,
+      "review": false
+    },
+    {
+      "start": 690.13,
+      "end": 691.47,
+      "text": "一定的你看嘛",
+      "avg_logprob": -0.1525,
+      "no_speech_prob": 0.2321,
+      "review": false
+    },
+    {
+      "start": 691.47,
+      "end": 692.73,
+      "text": "现在才多少只涨",
+      "avg_logprob": -0.1525,
+      "no_speech_prob": 0.2321,
+      "review": false
+    },
+    {
+      "start": 692.73,
+      "end": 696.25,
+      "text": "现在才1000多是涨,3000多是跌,肯定的",
+      "avg_logprob": -0.1259,
+      "no_speech_prob": 0.0814,
+      "review": false
+    },
+    {
+      "start": 696.25,
+      "end": 700.87,
+      "text": "然后因为美股也是跌的吧,你们看美股,美股也是跌的",
+      "avg_logprob": -0.1259,
+      "no_speech_prob": 0.0814,
+      "review": false
+    },
+    {
+      "start": 700.87,
+      "end": 704.53,
+      "text": "盘后从跌1.29,现在拉上去了",
+      "avg_logprob": -0.1259,
+      "no_speech_prob": 0.0814,
+      "review": false
+    },
+    {
+      "start": 704.53,
+      "end": 708.39,
+      "text": "但是我估计整体应该是跌的,明天开盘应该是跌的",
+      "avg_logprob": -0.1259,
+      "no_speech_prob": 0.0814,
+      "review": false
+    },
+    {
+      "start": 708.39,
+      "end": 711.71,
+      "text": "美股应该是能够翻个倍吧,为什么呀",
+      "avg_logprob": -0.1259,
+      "no_speech_prob": 0.0814,
+      "review": false
+    },
+    {
+      "start": 711.71,
+      "end": 714.41,
+      "text": "因为美股你看上周五做空了",
+      "avg_logprob": -0.1259,
+      "no_speech_prob": 0.0814,
+      "review": false
+    },
+    {
+      "start": 714.41,
+      "end": 719.63,
+      "text": "我美股上周五,上周五,星期五的时候我说",
+      "avg_logprob": -0.1259,
+      "no_speech_prob": 0.0814,
+      "review": false
+    },
+    {
+      "start": 719.63,
+      "end": 725.29,
+      "text": "跌破开盘的时候,我就重新开空了QQSPY",
+      "avg_logprob": -0.1778,
+      "no_speech_prob": 0.1158,
+      "review": false
+    },
+    {
+      "start": 725.29,
+      "end": 729.65,
+      "text": "我既有空到周一的,也有空到下周五的",
+      "avg_logprob": -0.1778,
+      "no_speech_prob": 0.1158,
+      "review": false
+    },
+    {
+      "start": 729.65,
+      "end": 733.63,
+      "text": "那么我这些开空的空单,大概率是翻倍的",
+      "avg_logprob": -0.1778,
+      "no_speech_prob": 0.1158,
+      "review": false
+    },
+    {
+      "start": 733.63,
+      "end": 734.79,
+      "text": "最少应该是翻倍",
+      "avg_logprob": -0.1778,
+      "no_speech_prob": 0.1158,
+      "review": false
+    },
+    {
+      "start": 734.79,
+      "end": 738.79,
+      "text": "他只要没过,因为我就是觉得他们谈不成",
+      "avg_logprob": -0.1778,
+      "no_speech_prob": 0.1158,
+      "review": false
+    },
+    {
+      "start": 738.79,
+      "end": 740.53,
+      "text": "真的,我觉得谈不成",
+      "avg_logprob": -0.1778,
+      "no_speech_prob": 0.1158,
+      "review": false
+    },
+    {
+      "start": 740.53,
+      "end": 742.83,
+      "text": "哎,谈不成",
+      "avg_logprob": -0.1778,
+      "no_speech_prob": 0.1158,
+      "review": false
+    },
+    {
+      "start": 742.83,
+      "end": 746.45,
+      "text": "好,大概率是这样子的",
+      "avg_logprob": -0.1778,
+      "no_speech_prob": 0.1158,
+      "review": false
+    },
+    {
+      "start": 746.45,
+      "end": 753.71,
+      "text": "因为涉及到利益嘛,是不是",
+      "avg_logprob": -0.1778,
+      "no_speech_prob": 0.1158,
+      "review": false
+    },
+    {
+      "start": 753.71,
+      "end": 757.05,
+      "text": "涉及到利益这个是非常非常难的",
+      "avg_logprob": -0.134,
+      "no_speech_prob": 0.8765,
+      "review": true
+    },
+    {
+      "start": 757.05,
+      "end": 759.83,
+      "text": "你想利益这种事情",
+      "avg_logprob": -0.134,
+      "no_speech_prob": 0.8765,
+      "review": true
+    },
+    {
+      "start": 759.83,
+      "end": 763.01,
+      "text": "美国肯定不会放弃利益",
+      "avg_logprob": -0.134,
+      "no_speech_prob": 0.8765,
+      "review": true
+    },
+    {
+      "start": 763.01,
+      "end": 765.97,
+      "text": "那么伊朗好不容易这么多年",
+      "avg_logprob": -0.134,
+      "no_speech_prob": 0.8765,
+      "review": true
+    },
+    {
+      "start": 765.97,
+      "end": 769.17,
+      "text": "忽然发现我封锁这个海峡收过路费",
+      "avg_logprob": -0.134,
+      "no_speech_prob": 0.8765,
+      "review": true
+    },
+    {
+      "start": 769.17,
+      "end": 772.47,
+      "text": "可以彻底的解决我这个国家的美元危机",
+      "avg_logprob": -0.134,
+      "no_speech_prob": 0.8765,
+      "review": true
+    },
+    {
+      "start": 772.47,
+      "end": 773.87,
+      "text": "以及我的财政危机",
+      "avg_logprob": -0.134,
+      "no_speech_prob": 0.8765,
+      "review": true
+    },
+    {
+      "start": 773.87,
+      "end": 775.75,
+      "text": "那伊朗怎么会松口呢",
+      "avg_logprob": -0.134,
+      "no_speech_prob": 0.8765,
+      "review": true
+    },
+    {
+      "start": 775.75,
+      "end": 778.89,
+      "text": "而且伊朗后面还有北极熊",
+      "avg_logprob": -0.134,
+      "no_speech_prob": 0.8765,
+      "review": true
+    },
+    {
+      "start": 778.89,
+      "end": 781.23,
+      "text": "还有熊猫还在支持他",
+      "avg_logprob": -0.134,
+      "no_speech_prob": 0.8765,
+      "review": true
+    },
+    {
+      "start": 781.23,
+      "end": 784.33,
+      "text": "所以说理论上说伊朗也不会松口",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.0938,
+      "review": false
+    },
+    {
+      "start": 784.33,
+      "end": 787.79,
+      "text": "所以我个人觉得这个问题肯定不会这么简单的",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.0938,
+      "review": false
+    },
+    {
+      "start": 787.79,
+      "end": 789.07,
+      "text": "这么简单的",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.0938,
+      "review": false
+    },
+    {
+      "start": 789.07,
+      "end": 800.13,
+      "text": "所以就是虽然上周美股我没有怎么赚钱",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.0938,
+      "review": false
+    },
+    {
+      "start": 800.13,
+      "end": 801.85,
+      "text": "但是我马上要赚钱了",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.0938,
+      "review": false
+    },
+    {
+      "start": 801.85,
+      "end": 802.89,
+      "text": "这就是我说的",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.0938,
+      "review": false
+    },
+    {
+      "start": 802.89,
+      "end": 804.35,
+      "text": "只要大家有耐心",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.0938,
+      "review": false
+    },
+    {
+      "start": 804.35,
+      "end": 805.41,
+      "text": "大家有耐心",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.0938,
+      "review": false
+    },
+    {
+      "start": 805.41,
+      "end": 807.47,
+      "text": "你们就都可以顺利的赚钱",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.0938,
+      "review": false
+    },
+    {
+      "start": 807.47,
+      "end": 808.61,
+      "text": "都可以",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.0938,
+      "review": false
+    },
+    {
+      "start": 808.61,
+      "end": 812.74,
+      "text": "就是说你方法掌握了",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.0938,
+      "review": false
+    },
+    {
+      "start": 812.74,
+      "end": 813.7,
+      "text": "就是要有耐心",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.0938,
+      "review": false
+    },
+    {
+      "start": 813.7,
+      "end": 816.1,
+      "text": "只要有耐心",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.0938,
+      "review": false
+    },
+    {
+      "start": 816.1,
+      "end": 818.44,
+      "text": "声音小一点没有办法啊",
+      "avg_logprob": -0.1718,
+      "no_speech_prob": 0.196,
+      "review": false
+    },
+    {
+      "start": 818.44,
+      "end": 819.84,
+      "text": "我这边所有地方都已经",
+      "avg_logprob": -0.1718,
+      "no_speech_prob": 0.196,
+      "review": false
+    },
+    {
+      "start": 819.84,
+      "end": 822.34,
+      "text": "我这边所有地方都已经",
+      "avg_logprob": -0.1718,
+      "no_speech_prob": 0.196,
+      "review": false
+    },
+    {
+      "start": 822.34,
+      "end": 824.96,
+      "text": "都已经调好了",
+      "avg_logprob": -0.1718,
+      "no_speech_prob": 0.196,
+      "review": false
+    },
+    {
+      "start": 824.96,
+      "end": 826.08,
+      "text": "我没有任何办法了",
+      "avg_logprob": -0.1718,
+      "no_speech_prob": 0.196,
+      "review": false
+    },
+    {
+      "start": 826.08,
+      "end": 826.32,
+      "text": "好不好",
+      "avg_logprob": -0.1718,
+      "no_speech_prob": 0.196,
+      "review": false
+    },
+    {
+      "start": 826.32,
+      "end": 828.1,
+      "text": "我没有任何办法",
+      "avg_logprob": -0.1718,
+      "no_speech_prob": 0.196,
+      "review": false
+    },
+    {
+      "start": 828.1,
+      "end": 838.34,
+      "text": "我有什么事情开心",
+      "avg_logprob": -0.1718,
+      "no_speech_prob": 0.196,
+      "review": false
+    },
+    {
+      "start": 838.34,
+      "end": 842.12,
+      "text": "就是我不是在巴西买了一个",
+      "avg_logprob": -0.1718,
+      "no_speech_prob": 0.196,
+      "review": false
+    },
+    {
+      "start": 842.12,
+      "end": 843.8,
+      "text": "我的巴西",
+      "avg_logprob": -0.1718,
+      "no_speech_prob": 0.196,
+      "review": false
+    },
+    {
+      "start": 843.8,
+      "end": 845.66,
+      "text": "这是应该是算我第五套房产",
+      "avg_logprob": -0.1718,
+      "no_speech_prob": 0.196,
+      "review": false
+    },
+    {
+      "start": 845.66,
+      "end": 846.7,
+      "text": "我在巴西买了",
+      "avg_logprob": -0.1718,
+      "no_speech_prob": 0.196,
+      "review": false
+    },
+    {
+      "start": 846.7,
+      "end": 847.7,
+      "text": "就是买了一个",
+      "avg_logprob": -0.1718,
+      "no_speech_prob": 0.196,
+      "review": false
+    },
+    {
+      "start": 847.7,
+      "end": 850.6,
+      "text": "一个非常漂亮的一个",
+      "avg_logprob": -0.1718,
+      "no_speech_prob": 0.196,
+      "review": false
+    },
+    {
+      "start": 850.6,
+      "end": 851.92,
+      "text": "一个房子",
+      "avg_logprob": -0.1718,
+      "no_speech_prob": 0.196,
+      "review": false
+    },
+    {
+      "start": 851.92,
+      "end": 853.18,
+      "text": "一个房子",
+      "avg_logprob": -0.1718,
+      "no_speech_prob": 0.196,
+      "review": false
+    },
+    {
+      "start": 853.18,
+      "end": 854.96,
+      "text": "这个房子就是一个历史古迹",
+      "avg_logprob": -0.1099,
+      "no_speech_prob": 0.5576,
+      "review": true
+    },
+    {
+      "start": 854.96,
+      "end": 858.36,
+      "text": "然后呢我就是最近在开始装修啊",
+      "avg_logprob": -0.1099,
+      "no_speech_prob": 0.5576,
+      "review": true
+    },
+    {
+      "start": 858.36,
+      "end": 861.2,
+      "text": "在开始弄前面的那个围栏啊那些东西啊",
+      "avg_logprob": -0.1099,
+      "no_speech_prob": 0.5576,
+      "review": true
+    },
+    {
+      "start": 861.2,
+      "end": 863.28,
+      "text": "然后呢围栏那个东西呢",
+      "avg_logprob": -0.1099,
+      "no_speech_prob": 0.5576,
+      "review": true
+    },
+    {
+      "start": 863.28,
+      "end": 867.66,
+      "text": "是因为我自己找到一些七八十年前的那种",
+      "avg_logprob": -0.1099,
+      "no_speech_prob": 0.5576,
+      "review": true
+    },
+    {
+      "start": 867.66,
+      "end": 871.36,
+      "text": "他们那种铸铁那种花文雕饰的东西",
+      "avg_logprob": -0.1099,
+      "no_speech_prob": 0.5576,
+      "review": true
+    },
+    {
+      "start": 871.36,
+      "end": 875.02,
+      "text": "然后我把它全部放在我这个家的前面了",
+      "avg_logprob": -0.1099,
+      "no_speech_prob": 0.5576,
+      "review": true
+    },
+    {
+      "start": 875.02,
+      "end": 877.36,
+      "text": "然后我最近而且特别配套",
+      "avg_logprob": -0.1099,
+      "no_speech_prob": 0.5576,
+      "review": true
+    },
+    {
+      "start": 877.36,
+      "end": 878.88,
+      "text": "哎呀这个跟你们说也说不清楚",
+      "avg_logprob": -0.1099,
+      "no_speech_prob": 0.5576,
+      "review": true
+    },
+    {
+      "start": 878.88,
+      "end": 879.76,
+      "text": "反正就是一句话是吧",
+      "avg_logprob": -0.1099,
+      "no_speech_prob": 0.5576,
+      "review": true
+    },
+    {
+      "start": 879.76,
+      "end": 889.58,
+      "text": "就是我找到一个超级配套我房子的花园的七八十年前的那种铸铁",
+      "avg_logprob": -0.0963,
+      "no_speech_prob": 0.0872,
+      "review": false
+    },
+    {
+      "start": 889.58,
+      "end": 890.78,
+      "text": "那种铸铁雕饰",
+      "avg_logprob": -0.0963,
+      "no_speech_prob": 0.0872,
+      "review": false
+    },
+    {
+      "start": 890.78,
+      "end": 892.92,
+      "text": "然后就是可以把我的房子弄好",
+      "avg_logprob": -0.0963,
+      "no_speech_prob": 0.0872,
+      "review": false
+    },
+    {
+      "start": 892.92,
+      "end": 895.28,
+      "text": "所以今天我是过来拉",
+      "avg_logprob": -0.0963,
+      "no_speech_prob": 0.0872,
+      "review": false
+    },
+    {
+      "start": 895.28,
+      "end": 897.2,
+      "text": "然后我亲自去看了",
+      "avg_logprob": -0.0963,
+      "no_speech_prob": 0.0872,
+      "review": false
+    },
+    {
+      "start": 897.2,
+      "end": 898.26,
+      "text": "然后看完了之后呢",
+      "avg_logprob": -0.0963,
+      "no_speech_prob": 0.0872,
+      "review": false
+    },
+    {
+      "start": 898.26,
+      "end": 899.82,
+      "text": "就是又解决了一个大事情",
+      "avg_logprob": -0.0963,
+      "no_speech_prob": 0.0872,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 24.8
+}

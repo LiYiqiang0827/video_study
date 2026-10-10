@@ -1,0 +1,118 @@
+{
+  "passed": true,
+  "checked_at": "2026-09-30T00:01:37.403031+00:00",
+  "videos": [
+    {
+      "video": "3.趋势线精讲.mkv",
+      "duration_seconds": 1248.85,
+      "source_sha256": "afe8ddf5cea9b7646574fae376025b7ecfe0e0cda9ddc90398914f742311a8ff",
+      "source_unchanged": true,
+      "audio_coverage_complete": true,
+      "evidence_hashes_passed": true,
+      "chunks": 5,
+      "segments": 721,
+      "gpu_chunks": 5,
+      "model_review_flags": 694,
+      "frame_sets": [
+        {
+          "directory": "review_frames_v1/3.趋势线精讲",
+          "frames": 21,
+          "sha256_and_timestamps_passed": true
+        }
+      ]
+    },
+    {
+      "video": "4. 支撑与阻力精讲.mkv",
+      "duration_seconds": 979.834,
+      "source_sha256": "5face1f56cad64b4f2dc70eb6ac33037fba7f3bf3e8febd85cce9a95c6b7a329",
+      "source_unchanged": true,
+      "audio_coverage_complete": true,
+      "evidence_hashes_passed": true,
+      "chunks": 4,
+      "segments": 531,
+      "gpu_chunks": 4,
+      "model_review_flags": 477,
+      "frame_sets": [
+        {
+          "directory": "review_frames_v1/4. 支撑与阻力精讲",
+          "frames": 17,
+          "sha256_and_timestamps_passed": true
+        }
+      ]
+    },
+    {
+      "video": "8.逆转与持续 沽压盈亏比.mkv",
+      "duration_seconds": 648.35,
+      "source_sha256": "2fc315dd8850621b2480eb3287d7bbcdf810230554754613d215db5197302277",
+      "source_unchanged": true,
+      "audio_coverage_complete": true,
+      "evidence_hashes_passed": true,
+      "chunks": 3,
+      "segments": 370,
+      "gpu_chunks": 3,
+      "model_review_flags": 297,
+      "frame_sets": [
+        {
+          "directory": "review_frames_v1/8.逆转与持续 沽压盈亏比",
+          "frames": 11,
+          "sha256_and_timestamps_passed": true
+        }
+      ]
+    },
+    {
+      "video": "9. 构建双突破系统及交易经验.mkv",
+      "duration_seconds": 1830.834,
+      "source_sha256": "02dc5c3441a128da7a4327c7b5c13cc1dd1d5ac3009a5b71d8c8373fc439dc09",
+      "source_unchanged": true,
+      "audio_coverage_complete": true,
+      "evidence_hashes_passed": true,
+      "chunks": 7,
+      "segments": 1138,
+      "gpu_chunks": 7,
+      "model_review_flags": 1022,
+      "frame_sets": [
+        {
+          "directory": "review_frames_v1/9. 构建双突破系统及交易经验",
+          "frames": 31,
+          "sha256_and_timestamps_passed": true
+        }
+      ]
+    },
+    {
+      "video": "双突破所有买点.mkv",
+      "duration_seconds": 3978.667,
+      "source_sha256": "c44ccee04104201c1ae2cbb4f0e273cd31094844e090c4ff3fddd9eb445c9d59",
+      "source_unchanged": true,
+      "audio_coverage_complete": true,
+      "evidence_hashes_passed": true,
+      "chunks": 14,
+      "segments": 2387,
+      "gpu_chunks": 14,
+      "model_review_flags": 1887,
+      "frame_sets": [
+        {
+          "directory": "review_frames_v1/双突破所有买点",
+          "frames": 67,
+          "sha256_and_timestamps_passed": true
+        },
+        {
+          "directory": "targeted_frames/buy_early",
+          "frames": 8,
+          "sha256_and_timestamps_passed": true
+        },
+        {
+          "directory": "targeted_frames/buy_late",
+          "frames": 14,
+          "sha256_and_timestamps_passed": true
+        }
+      ]
+    }
+  ],
+  "total_duration_seconds": 8686.535,
+  "total_frames": 169,
+  "limits": [
+    "Full audio processing is not proof of verbatim accuracy.",
+    "Visual review uses sampled and targeted original frames, not every source frame.",
+    "Interpretation is source-based synthesis, not validation of profitability or asserted probabilities."
+  ]
+}

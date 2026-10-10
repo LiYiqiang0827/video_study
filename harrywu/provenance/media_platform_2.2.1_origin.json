@@ -1,0 +1,102 @@
+{
+  "runtime_version": "2.2.1",
+  "runtime_manifest": "D:\\YuncongVideoAnalysis\\ledger_2026_v0.1\\runtime_manifest.json",
+  "archives": [
+    {
+      "path": "C:\\Users\\HarryWu_IOKI\\Documents\\SharedTools\\media-platform\\dist\\local-media-platform-2.2.1-source.zip",
+      "sha256": "795307a48ca8f0e6ec1e6ba575a01c48c2d2bcb8ec3e00c98292712f1a476e5e",
+      "size_bytes": 65473
+    },
+    {
+      "path": "C:\\Users\\HarryWu_IOKI\\Documents\\SharedTools\\media-platform\\dist\\local_media_platform-2.2.1-py3-none-any.whl",
+      "sha256": "1a31c1a59a4c28d2c3a67cdd877d30fe7b267222f589b6c88c4fac961187978d",
+      "size_bytes": 35066
+    }
+  ],
+  "members": [
+    {
+      "path": "ACCEPTANCE_REFINE_20261001.json",
+      "size_bytes": 9062
+    },
+    {
+      "path": "pyproject.toml",
+      "size_bytes": 699
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 10687
+    },
+    {
+      "path": "REFINE_GUIDE_20261001.md",
+      "size_bytes": 6822
+    },
+    {
+      "path": "REFINE_SPEC_20261001.md",
+      "size_bytes": 24984
+    },
+    {
+      "path": "src/media_platform/__init__.py",
+      "size_bytes": 101
+    },
+    {
+      "path": "src/media_platform/__main__.py",
+      "size_bytes": 31
+    },
+    {
+      "path": "src/media_platform/cli.py",
+      "size_bytes": 3264
+    },
+    {
+      "path": "src/media_platform/evidence.py",
+      "size_bytes": 5651
+    },
+    {
+      "path": "src/media_platform/frame_review.py",
+      "size_bytes": 7900
+    },
+    {
+      "path": "src/media_platform/ingest.py",
+      "size_bytes": 38486
+    },
+    {
+      "path": "src/media_platform/paths.py",
+      "size_bytes": 724
+    },
+    {
+      "path": "src/media_platform/refine.py",
+      "size_bytes": 42698
+    },
+    {
+      "path": "tests/test_frame_review.py",
+      "size_bytes": 2942
+    },
+    {
+      "path": "tests/test_portable.py",
+      "size_bytes": 3056
+    },
+    {
+      "path": "tests/test_refine.py",
+      "size_bytes": 15250
+    },
+    {
+      "path": "acceptance/serial_resume_acceptance.json",
+      "size_bytes": 885
+    },
+    {
+      "path": "acceptance/audio_tail_v221.json",
+      "size_bytes": 3190
+    }
+  ],
+  "script_interface_checks": {
+    "def model_identity": true,
+    "--language": true,
+    "--device": true,
+    "--compute-type": true,
+    "--vad": true,
+    "--chunk-seconds": true,
+    "--no-video": true,
+    "--no-ocr": true,
+    "--resume": true
+  },
+  "validation_limit": "Static inspection only; no ASR run or bit-identical reproduction claim."
+}

@@ -1,0 +1,23 @@
+{
+  "task_id": "yuncong_text_pilot_20261004_0804",
+  "scope": "one_video_text_only",
+  "stream_id": "-9HY0rxruC0",
+  "title": "A股盘中看盘（8月4日 上午09:20点 北京时间）",
+  "source_path": "D:\\YuncongVideoAnalysis\\2026-01-01_to_2026-10-03\\A股盘中看盘（8月4日 上午0920点 北京时间）.mp4",
+  "source_sha256": "9f71fbb0660164579f59aaf897582320f2d8ae26626ab61ab63cbf66cc8de802",
+  "duration_seconds": 6025.903311,
+  "actual_start_beijing": "2026-08-04T09:28:34+08:00",
+  "model": "large-v3",
+  "device": "cuda",
+  "compute_type": "float16",
+  "language": "zh",
+  "vad": "conservative",
+  "chunk_seconds": 300,
+  "hint_file": "D:\\YuncongVideoAnalysis\\ledger_2026_v0.1\\planning\\stock_vocabulary_v0.1_20261004\\asr_hotwords_short.txt",
+  "hotwords_sha256": "bb7209225833d3c42da25ea3207ea1644b1cd3fe53578bee44fc34c07b7c4bd4",
+  "asr_timeout_seconds": 3600,
+  "created_utc": "2026-10-04T08:43:09.086433+00:00",
+  "visual_processing": false,
+  "other_videos_authorized": false,
+  "adapter_path": "C:\\Project Rocket\\tmp\\run_yuncong_text_pilot_20261004.py"
+}

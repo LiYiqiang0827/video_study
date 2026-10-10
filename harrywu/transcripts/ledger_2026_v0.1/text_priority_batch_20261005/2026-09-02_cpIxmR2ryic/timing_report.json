@@ -1,0 +1,32 @@
+{
+  "stream_id": "cpIxmR2ryic",
+  "duration_seconds": 8353.935964,
+  "asr_wall_seconds": 614.234,
+  "media_speed_multiple": 13.601,
+  "segments": 2513,
+  "chunks": 28,
+  "source_hash_matches": true,
+  "visual_processing": false,
+  "asr_large_model_token_usage": 0,
+  "text_stage": "complete",
+  "finished_utc": "2026-10-06T00:02:40.204008+00:00",
+  "original_segments": 2513,
+  "retained_nonempty_segments": 1852,
+  "sections": 65,
+  "retained_source_seconds": 5855.05,
+  "stock_name_replacements": 91,
+  "term_replacements": 79,
+  "pending_name_occurrences": 17,
+  "semantic_reviewer": "current_codex_primary",
+  "text_completed_utc": "2026-10-06T00:06:10.829607+00:00",
+  "checks": {
+    "source_asr_hash_unchanged": true,
+    "source_timestamps_and_ids_unchanged": true,
+    "spoken_numbers_unchanged": true,
+    "numbers_outside_approved_stock_name_aliases_unchanged": true,
+    "approved_numeric_name_segments": 0,
+    "section_coverage_complete": true,
+    "visual_processing": false
+  },
+  "original_asr_sha256": "1a91afeb21279815110e4242ec27d56fb3938129abef8bc01c49f8ccc576ca35"
+}

@@ -1,0 +1,368 @@
+{
+  "begin": 6300.0,
+  "finish": 6600.0,
+  "segments": [
+    {
+      "start": 6298.0,
+      "end": 6329.21,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0474,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 6329.23,
+      "end": 6361.51,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0779,
+      "no_speech_prob": 0.1888,
+      "review": false
+    },
+    {
+      "start": 6361.53,
+      "end": 6370.21,
+      "text": "反正一句话说完,昨天我也说了,是不是?昨天半导体是第一个入场位,今天半导体是第二个入场位,都可以入,半导体还有有色都可以入",
+      "avg_logprob": -0.097,
+      "no_speech_prob": 0.051,
+      "review": false
+    },
+    {
+      "start": 6370.21,
+      "end": 6377.39,
+      "text": "市场大涨放量涨停突破52周高谷",
+      "avg_logprob": -0.097,
+      "no_speech_prob": 0.051,
+      "review": false
+    },
+    {
+      "start": 6377.39,
+      "end": 6381.39,
+      "text": "市场哪在大涨啊?你这个问题就问错了",
+      "avg_logprob": -0.097,
+      "no_speech_prob": 0.051,
+      "review": false
+    },
+    {
+      "start": 6381.39,
+      "end": 6389.47,
+      "text": "所以你这个问题就问错了,你说市场大涨放量涨停突发52周高谷很少,因为市场没有大涨",
+      "avg_logprob": -0.097,
+      "no_speech_prob": 0.051,
+      "review": false
+    },
+    {
+      "start": 6389.47,
+      "end": 6393.25,
+      "text": "朋友,你哪个眼睛看见市场大涨,市场在暴跌啊",
+      "avg_logprob": -0.097,
+      "no_speech_prob": 0.051,
+      "review": false
+    },
+    {
+      "start": 6393.25,
+      "end": 6395.69,
+      "text": "最近深圳暴跌成这个鬼样子",
+      "avg_logprob": -0.1638,
+      "no_speech_prob": 0.214,
+      "review": false
+    },
+    {
+      "start": 6395.69,
+      "end": 6397.09,
+      "text": "它怎么可能大涨呢",
+      "avg_logprob": -0.1638,
+      "no_speech_prob": 0.214,
+      "review": false
+    },
+    {
+      "start": 6397.09,
+      "end": 6399.09,
+      "text": "市场哪里在大涨啊",
+      "avg_logprob": -0.1638,
+      "no_speech_prob": 0.214,
+      "review": false
+    },
+    {
+      "start": 6399.09,
+      "end": 6400.81,
+      "text": "上阵也暴跌成这个鬼样子",
+      "avg_logprob": -0.1638,
+      "no_speech_prob": 0.214,
+      "review": false
+    },
+    {
+      "start": 6400.81,
+      "end": 6403.01,
+      "text": "有的股票都已经腰斩了",
+      "avg_logprob": -0.1638,
+      "no_speech_prob": 0.214,
+      "review": false
+    },
+    {
+      "start": 6403.01,
+      "end": 6405.63,
+      "text": "你哪个眼睛看着市场在大涨啊",
+      "avg_logprob": -0.1638,
+      "no_speech_prob": 0.214,
+      "review": false
+    },
+    {
+      "start": 6405.63,
+      "end": 6406.97,
+      "text": "哪个眼睛是在大涨",
+      "avg_logprob": -0.1638,
+      "no_speech_prob": 0.214,
+      "review": false
+    },
+    {
+      "start": 6406.97,
+      "end": 6410.05,
+      "text": "市场只不过今天涨了一天而已",
+      "avg_logprob": -0.1638,
+      "no_speech_prob": 0.214,
+      "review": false
+    },
+    {
+      "start": 6410.05,
+      "end": 6411.67,
+      "text": "是不是",
+      "avg_logprob": -0.1638,
+      "no_speech_prob": 0.214,
+      "review": false
+    },
+    {
+      "start": 6411.67,
+      "end": 6413.45,
+      "text": "市场今天涨了一天而已",
+      "avg_logprob": -0.1638,
+      "no_speech_prob": 0.214,
+      "review": false
+    },
+    {
+      "start": 6413.45,
+      "end": 6415.63,
+      "text": "市场怎么能大涨啊",
+      "avg_logprob": -0.1638,
+      "no_speech_prob": 0.214,
+      "review": false
+    },
+    {
+      "start": 6415.63,
+      "end": 6416.87,
+      "text": "今天是第一天上涨",
+      "avg_logprob": -0.1638,
+      "no_speech_prob": 0.214,
+      "review": false
+    },
+    {
+      "start": 6416.87,
+      "end": 6418.85,
+      "text": "所以为什么说今天可以进呢",
+      "avg_logprob": -0.1638,
+      "no_speech_prob": 0.214,
+      "review": false
+    },
+    {
+      "start": 6418.85,
+      "end": 6420.01,
+      "text": "你们没进的话",
+      "avg_logprob": -0.1638,
+      "no_speech_prob": 0.214,
+      "review": false
+    },
+    {
+      "start": 6420.01,
+      "end": 6421.89,
+      "text": "半导体一天啥时候卖",
+      "avg_logprob": -0.1638,
+      "no_speech_prob": 0.214,
+      "review": false
+    },
+    {
+      "start": 6421.89,
+      "end": 6422.99,
+      "text": "哎呀着什么急嘛",
+      "avg_logprob": -0.1638,
+      "no_speech_prob": 0.214,
+      "review": false
+    },
+    {
+      "start": 6422.99,
+      "end": 6424.33,
+      "text": "他们早的要命",
+      "avg_logprob": -0.1495,
+      "no_speech_prob": 0.428,
+      "review": false
+    },
+    {
+      "start": 6424.33,
+      "end": 6426.05,
+      "text": "你要看半导体什么时候卖",
+      "avg_logprob": -0.1495,
+      "no_speech_prob": 0.428,
+      "review": false
+    },
+    {
+      "start": 6426.05,
+      "end": 6428.33,
+      "text": "我个人认为至少这个位置",
+      "avg_logprob": -0.1495,
+      "no_speech_prob": 0.428,
+      "review": false
+    },
+    {
+      "start": 6428.33,
+      "end": 6432.89,
+      "text": "这个位置大概最少最少也要等到他第一波到这个位置来",
+      "avg_logprob": -0.1495,
+      "no_speech_prob": 0.428,
+      "review": false
+    },
+    {
+      "start": 6432.89,
+      "end": 6435.83,
+      "text": "第二波能不能涨到这儿就不好说了",
+      "avg_logprob": -0.1495,
+      "no_speech_prob": 0.428,
+      "review": false
+    },
+    {
+      "start": 6435.83,
+      "end": 6438.23,
+      "text": "反正我买的从这涨到这儿",
+      "avg_logprob": -0.1495,
+      "no_speech_prob": 0.428,
+      "review": false
+    },
+    {
+      "start": 6438.23,
+      "end": 6439.47,
+      "text": "我就要先走50%",
+      "avg_logprob": -0.1495,
+      "no_speech_prob": 0.428,
+      "review": false
+    },
+    {
+      "start": 6439.47,
+      "end": 6441.17,
+      "text": "后面就不管他了",
+      "avg_logprob": -0.1495,
+      "no_speech_prob": 0.428,
+      "review": false
+    },
+    {
+      "start": 6441.17,
+      "end": 6442.99,
+      "text": "后面涨到这儿",
+      "avg_logprob": -0.1495,
+      "no_speech_prob": 0.428,
+      "review": false
+    },
+    {
+      "start": 6442.99,
+      "end": 6444.71,
+      "text": "那我就80%都要走完了",
+      "avg_logprob": -0.1495,
+      "no_speech_prob": 0.428,
+      "review": false
+    },
+    {
+      "start": 6444.71,
+      "end": 6446.29,
+      "text": "或者甚至100%都要走完",
+      "avg_logprob": -0.1495,
+      "no_speech_prob": 0.428,
+      "review": false
+    },
+    {
+      "start": 6446.29,
+      "end": 6447.59,
+      "text": "第一目标位",
+      "avg_logprob": -0.1495,
+      "no_speech_prob": 0.428,
+      "review": false
+    },
+    {
+      "start": 6447.59,
+      "end": 6448.99,
+      "text": "第二目标位",
+      "avg_logprob": -0.1495,
+      "no_speech_prob": 0.428,
+      "review": false
+    },
+    {
+      "start": 6448.99,
+      "end": 6452.04,
+      "text": "涨50%走50%",
+      "avg_logprob": -0.1495,
+      "no_speech_prob": 0.428,
+      "review": false
+    },
+    {
+      "start": 6452.04,
+      "end": 6485.28,
+      "text": "中文字幕志愿者 李宗盛",
+      "avg_logprob": -0.4205,
+      "no_speech_prob": 0.1379,
+      "review": false
+    },
+    {
+      "start": 6485.3,
+      "end": 6515.75,
+      "text": "明镜需要您的支持 欢迎订阅明镜",
+      "avg_logprob": -0.2467,
+      "no_speech_prob": 0.1047,
+      "review": false
+    },
+    {
+      "start": 6515.77,
+      "end": 6546.41,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.094,
+      "no_speech_prob": 0.6294,
+      "review": true
+    },
+    {
+      "start": 6546.43,
+      "end": 6555.49,
+      "text": "这些小期权,它即使波动大,但流动性很差,一点用都没有,做期权只做七朵金花就足够了,好不好",
+      "avg_logprob": -0.1301,
+      "no_speech_prob": 0.1705,
+      "review": false
+    },
+    {
+      "start": 6555.49,
+      "end": 6563.32,
+      "text": "男色朋友们,我不卖还不卖,你们要卖你们自己卖,你们可以放,减一点仓嘛,是不是,减一点仓,你可以减一点仓,好不好",
+      "avg_logprob": -0.1301,
+      "no_speech_prob": 0.1705,
+      "review": false
+    },
+    {
+      "start": 6563.32,
+      "end": 6587.78,
+      "text": "减一点仓,但是你不要全部买,再开买的有色也得赚钱",
+      "avg_logprob": -0.1301,
+      "no_speech_prob": 0.1705,
+      "review": false
+    },
+    {
+      "start": 6587.78,
+      "end": 6595.82,
+      "text": "我有色这几只都买了,乌我只买了一个,乌我是买了哪一个,我看看",
+      "avg_logprob": -0.1301,
+      "no_speech_prob": 0.1705,
+      "review": false
+    },
+    {
+      "start": 6595.82,
+      "end": 6598.99,
+      "text": "我是买的这个",
+      "avg_logprob": -0.4308,
+      "no_speech_prob": 0.3896,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 18.53
+}

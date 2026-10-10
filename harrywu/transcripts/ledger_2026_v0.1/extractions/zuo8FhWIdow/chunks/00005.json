@@ -1,0 +1,1288 @@
+{
+  "begin": 1500.0,
+  "finish": 1800.0,
+  "segments": [
+    {
+      "start": 1505.85,
+      "end": 1508.72,
+      "text": "对这个位置",
+      "avg_logprob": -0.193,
+      "no_speech_prob": 0.832,
+      "review": true
+    },
+    {
+      "start": 1508.72,
+      "end": 1516.51,
+      "text": "可能这一天是不是还说英特尔",
+      "avg_logprob": -0.193,
+      "no_speech_prob": 0.832,
+      "review": true
+    },
+    {
+      "start": 1516.51,
+      "end": 1518.27,
+      "text": "反正连续",
+      "avg_logprob": -0.193,
+      "no_speech_prob": 0.832,
+      "review": true
+    },
+    {
+      "start": 1518.27,
+      "end": 1532.25,
+      "text": "我记得我当时我的印象里面好像是连续说了几天",
+      "avg_logprob": -0.193,
+      "no_speech_prob": 0.832,
+      "review": true
+    },
+    {
+      "start": 1532.25,
+      "end": 1536.82,
+      "text": "反正连续说了几次",
+      "avg_logprob": -0.193,
+      "no_speech_prob": 0.832,
+      "review": true
+    },
+    {
+      "start": 1536.82,
+      "end": 1538.54,
+      "text": "英特尔好几次",
+      "avg_logprob": -0.193,
+      "no_speech_prob": 0.832,
+      "review": true
+    },
+    {
+      "start": 1538.54,
+      "end": 1539.36,
+      "text": "反正就是像这种",
+      "avg_logprob": -0.193,
+      "no_speech_prob": 0.832,
+      "review": true
+    },
+    {
+      "start": 1539.36,
+      "end": 1541.42,
+      "text": "我就把这个正好给你举例",
+      "avg_logprob": -0.193,
+      "no_speech_prob": 0.832,
+      "review": true
+    },
+    {
+      "start": 1541.42,
+      "end": 1543.22,
+      "text": "就是举刚才你问的问题",
+      "avg_logprob": -0.193,
+      "no_speech_prob": 0.832,
+      "review": true
+    },
+    {
+      "start": 1543.22,
+      "end": 1544.94,
+      "text": "就是商品期货也好",
+      "avg_logprob": -0.1258,
+      "no_speech_prob": 0.7949,
+      "review": true
+    },
+    {
+      "start": 1544.94,
+      "end": 1546.06,
+      "text": "还是期权也好",
+      "avg_logprob": -0.1258,
+      "no_speech_prob": 0.7949,
+      "review": true
+    },
+    {
+      "start": 1546.06,
+      "end": 1548.76,
+      "text": "你就是要找到最好的点",
+      "avg_logprob": -0.1258,
+      "no_speech_prob": 0.7949,
+      "review": true
+    },
+    {
+      "start": 1548.76,
+      "end": 1549.76,
+      "text": "然后就思考",
+      "avg_logprob": -0.1258,
+      "no_speech_prob": 0.7949,
+      "review": true
+    },
+    {
+      "start": 1549.76,
+      "end": 1551.78,
+      "text": "他基本面有些基本面分析",
+      "avg_logprob": -0.1258,
+      "no_speech_prob": 0.7949,
+      "review": true
+    },
+    {
+      "start": 1551.78,
+      "end": 1552.64,
+      "text": "你来不及的",
+      "avg_logprob": -0.1258,
+      "no_speech_prob": 0.7949,
+      "review": true
+    },
+    {
+      "start": 1552.64,
+      "end": 1553.78,
+      "text": "就是有些基本面分析",
+      "avg_logprob": -0.1258,
+      "no_speech_prob": 0.7949,
+      "review": true
+    },
+    {
+      "start": 1553.78,
+      "end": 1555.72,
+      "text": "就是他用他的杠杆",
+      "avg_logprob": -0.1258,
+      "no_speech_prob": 0.7949,
+      "review": true
+    },
+    {
+      "start": 1555.72,
+      "end": 1557.28,
+      "text": "杠杆要特别灵敏",
+      "avg_logprob": -0.1258,
+      "no_speech_prob": 0.7949,
+      "review": true
+    },
+    {
+      "start": 1557.28,
+      "end": 1558.3,
+      "text": "这就是为什么说",
+      "avg_logprob": -0.1258,
+      "no_speech_prob": 0.7949,
+      "review": true
+    },
+    {
+      "start": 1558.3,
+      "end": 1560.02,
+      "text": "这种带杠杆的",
+      "avg_logprob": -0.1258,
+      "no_speech_prob": 0.7949,
+      "review": true
+    },
+    {
+      "start": 1560.02,
+      "end": 1562.34,
+      "text": "就是你一定要去学技术分析",
+      "avg_logprob": -0.1258,
+      "no_speech_prob": 0.7949,
+      "review": true
+    },
+    {
+      "start": 1562.34,
+      "end": 1563.8,
+      "text": "因为你基本面分析在不在好",
+      "avg_logprob": -0.1258,
+      "no_speech_prob": 0.7949,
+      "review": true
+    },
+    {
+      "start": 1563.8,
+      "end": 1565.2,
+      "text": "你可能中间一个波动",
+      "avg_logprob": -0.1258,
+      "no_speech_prob": 0.7949,
+      "review": true
+    },
+    {
+      "start": 1565.2,
+      "end": 1565.76,
+      "text": "你就没了",
+      "avg_logprob": -0.1258,
+      "no_speech_prob": 0.7949,
+      "review": true
+    },
+    {
+      "start": 1565.76,
+      "end": 1566.36,
+      "text": "全部没了",
+      "avg_logprob": -0.1258,
+      "no_speech_prob": 0.7949,
+      "review": true
+    },
+    {
+      "start": 1566.36,
+      "end": 1568.11,
+      "text": "好",
+      "avg_logprob": -0.1258,
+      "no_speech_prob": 0.7949,
+      "review": true
+    },
+    {
+      "start": 1568.11,
+      "end": 1569.63,
+      "text": "这个客客问算电协同",
+      "avg_logprob": -0.1258,
+      "no_speech_prob": 0.7949,
+      "review": true
+    },
+    {
+      "start": 1569.63,
+      "end": 1570.57,
+      "text": "其实算电协同很早",
+      "avg_logprob": -0.1258,
+      "no_speech_prob": 0.7949,
+      "review": true
+    },
+    {
+      "start": 1570.57,
+      "end": 1571.59,
+      "text": "我就认为该成热点",
+      "avg_logprob": -0.1258,
+      "no_speech_prob": 0.7949,
+      "review": true
+    },
+    {
+      "start": 1571.59,
+      "end": 1572.65,
+      "text": "但是一直没有炒",
+      "avg_logprob": -0.1258,
+      "no_speech_prob": 0.7949,
+      "review": true
+    },
+    {
+      "start": 1572.65,
+      "end": 1574.15,
+      "text": "电力这个我也不知道为什么",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.6782,
+      "review": true
+    },
+    {
+      "start": 1574.15,
+      "end": 1574.77,
+      "text": "它不热",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.6782,
+      "review": true
+    },
+    {
+      "start": 1574.77,
+      "end": 1576.01,
+      "text": "就电力是慢热",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.6782,
+      "review": true
+    },
+    {
+      "start": 1576.01,
+      "end": 1578.43,
+      "text": "就电力好像是一直都是很慢热的",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.6782,
+      "review": true
+    },
+    {
+      "start": 1578.43,
+      "end": 1580.83,
+      "text": "所以我以前买了一两次是赚钱了",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.6782,
+      "review": true
+    },
+    {
+      "start": 1580.83,
+      "end": 1582.07,
+      "text": "但是后面都回来了",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.6782,
+      "review": true
+    },
+    {
+      "start": 1582.07,
+      "end": 1582.93,
+      "text": "都回来了",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.6782,
+      "review": true
+    },
+    {
+      "start": 1582.93,
+      "end": 1584.11,
+      "text": "很遗憾啊",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.6782,
+      "review": true
+    },
+    {
+      "start": 1584.11,
+      "end": 1584.93,
+      "text": "很遗憾",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.6782,
+      "review": true
+    },
+    {
+      "start": 1584.93,
+      "end": 1602.42,
+      "text": "甲骨文腾讯啊",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.6782,
+      "review": true
+    },
+    {
+      "start": 1602.42,
+      "end": 1611.11,
+      "text": "甲骨文腾讯",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.6782,
+      "review": true
+    },
+    {
+      "start": 1611.11,
+      "end": 1616.44,
+      "text": "甲骨文腾讯",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.6782,
+      "review": true
+    },
+    {
+      "start": 1616.44,
+      "end": 1616.72,
+      "text": "好的",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.6782,
+      "review": true
+    },
+    {
+      "start": 1616.72,
+      "end": 1618.12,
+      "text": "我们都看一下啊",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.6782,
+      "review": true
+    },
+    {
+      "start": 1618.12,
+      "end": 1619.2,
+      "text": "好我们看一下",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.6782,
+      "review": true
+    },
+    {
+      "start": 1619.2,
+      "end": 1621.18,
+      "text": "我先看一下大家有什么问题啊",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.6782,
+      "review": true
+    },
+    {
+      "start": 1621.18,
+      "end": 1625.14,
+      "text": "对不对",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.6782,
+      "review": true
+    },
+    {
+      "start": 1625.14,
+      "end": 1626.32,
+      "text": "远期期权有啊",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.6782,
+      "review": true
+    },
+    {
+      "start": 1626.32,
+      "end": 1627.04,
+      "text": "当然有啊",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.6782,
+      "review": true
+    },
+    {
+      "start": 1627.04,
+      "end": 1628.22,
+      "text": "很远的远期期权有的",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.6782,
+      "review": true
+    },
+    {
+      "start": 1628.22,
+      "end": 1629.3,
+      "text": "你看你随便打开一个",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.6782,
+      "review": true
+    },
+    {
+      "start": 1629.3,
+      "end": 1630.28,
+      "text": "美股啊",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.6782,
+      "review": true
+    },
+    {
+      "start": 1630.28,
+      "end": 1630.9,
+      "text": "我们说是美股",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.6782,
+      "review": true
+    },
+    {
+      "start": 1630.9,
+      "end": 1632.14,
+      "text": "你看你随便就算打开",
+      "avg_logprob": -0.1176,
+      "no_speech_prob": 0.6538,
+      "review": true
+    },
+    {
+      "start": 1632.14,
+      "end": 1633.1,
+      "text": "比如这个英特尔吧",
+      "avg_logprob": -0.1176,
+      "no_speech_prob": 0.6538,
+      "review": true
+    },
+    {
+      "start": 1633.1,
+      "end": 1634.1,
+      "text": "你关于一关期权",
+      "avg_logprob": -0.1176,
+      "no_speech_prob": 0.6538,
+      "review": true
+    },
+    {
+      "start": 1634.1,
+      "end": 1635.18,
+      "text": "你看往后面展开",
+      "avg_logprob": -0.1176,
+      "no_speech_prob": 0.6538,
+      "review": true
+    },
+    {
+      "start": 1635.18,
+      "end": 1636.94,
+      "text": "他都有很久很久以后的期权了",
+      "avg_logprob": -0.1176,
+      "no_speech_prob": 0.6538,
+      "review": true
+    },
+    {
+      "start": 1636.94,
+      "end": 1638.2,
+      "text": "但不是每个人都有远期期权",
+      "avg_logprob": -0.1176,
+      "no_speech_prob": 0.6538,
+      "review": true
+    },
+    {
+      "start": 1638.2,
+      "end": 1640.8,
+      "text": "他有的你看这个人到什么时候",
+      "avg_logprob": -0.1176,
+      "no_speech_prob": 0.6538,
+      "review": true
+    },
+    {
+      "start": 1640.8,
+      "end": 1642.32,
+      "text": "最远到2017年",
+      "avg_logprob": -0.1176,
+      "no_speech_prob": 0.6538,
+      "review": true
+    },
+    {
+      "start": 1642.32,
+      "end": 1644.1,
+      "text": "2028年1月21号都有",
+      "avg_logprob": -0.1176,
+      "no_speech_prob": 0.6538,
+      "review": true
+    },
+    {
+      "start": 1644.1,
+      "end": 1646.3,
+      "text": "有远期期权的远期期权",
+      "avg_logprob": -0.1176,
+      "no_speech_prob": 0.6538,
+      "review": true
+    },
+    {
+      "start": 1646.3,
+      "end": 1647.82,
+      "text": "只不过远期期权有些时候",
+      "avg_logprob": -0.1176,
+      "no_speech_prob": 0.6538,
+      "review": true
+    },
+    {
+      "start": 1647.82,
+      "end": 1648.94,
+      "text": "他那个很不合理",
+      "avg_logprob": -0.1176,
+      "no_speech_prob": 0.6538,
+      "review": true
+    },
+    {
+      "start": 1648.94,
+      "end": 1650.24,
+      "text": "他的价格很不合理",
+      "avg_logprob": -0.1176,
+      "no_speech_prob": 0.6538,
+      "review": true
+    },
+    {
+      "start": 1650.24,
+      "end": 1657.01,
+      "text": "买卖都很不合理",
+      "avg_logprob": -0.1176,
+      "no_speech_prob": 0.6538,
+      "review": true
+    },
+    {
+      "start": 1657.01,
+      "end": 1657.97,
+      "text": "有一个那么远的期权",
+      "avg_logprob": -0.1176,
+      "no_speech_prob": 0.6538,
+      "review": true
+    },
+    {
+      "start": 1657.97,
+      "end": 1664.84,
+      "text": "海外华人炒A股是什么执念",
+      "avg_logprob": -0.1176,
+      "no_speech_prob": 0.6538,
+      "review": true
+    },
+    {
+      "start": 1664.84,
+      "end": 1666.5,
+      "text": "哎呀你这个你不用关心了",
+      "avg_logprob": -0.1176,
+      "no_speech_prob": 0.6538,
+      "review": true
+    },
+    {
+      "start": 1666.5,
+      "end": 1666.88,
+      "text": "是吧",
+      "avg_logprob": -0.1176,
+      "no_speech_prob": 0.6538,
+      "review": true
+    },
+    {
+      "start": 1666.88,
+      "end": 1667.9,
+      "text": "你这个关心他干嘛呢",
+      "avg_logprob": -0.1176,
+      "no_speech_prob": 0.6538,
+      "review": true
+    },
+    {
+      "start": 1667.9,
+      "end": 1668.26,
+      "text": "是不是",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.811,
+      "review": true
+    },
+    {
+      "start": 1668.26,
+      "end": 1670.28,
+      "text": "这个东西",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.811,
+      "review": true
+    },
+    {
+      "start": 1670.28,
+      "end": 1672.06,
+      "text": "人家每个喜欢啥就喜欢啥嘛",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.811,
+      "review": true
+    },
+    {
+      "start": 1672.06,
+      "end": 1672.32,
+      "text": "是不是",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.811,
+      "review": true
+    },
+    {
+      "start": 1672.32,
+      "end": 1676.18,
+      "text": "该做啥就做啥嘛",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.811,
+      "review": true
+    },
+    {
+      "start": 1676.18,
+      "end": 1676.86,
+      "text": "这个有啥呀",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.811,
+      "review": true
+    },
+    {
+      "start": 1676.86,
+      "end": 1677.14,
+      "text": "是不是",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.811,
+      "review": true
+    },
+    {
+      "start": 1677.14,
+      "end": 1679.38,
+      "text": "这个我觉得咱们就",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.811,
+      "review": true
+    },
+    {
+      "start": 1679.38,
+      "end": 1680.6,
+      "text": "你就不用关心人家的",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.811,
+      "review": true
+    },
+    {
+      "start": 1680.6,
+      "end": 1681.7,
+      "text": "每个人他不一样嘛",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.811,
+      "review": true
+    },
+    {
+      "start": 1681.7,
+      "end": 1682.08,
+      "text": "是不是",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.811,
+      "review": true
+    },
+    {
+      "start": 1682.08,
+      "end": 1683.52,
+      "text": "每个人的感觉不一样",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.811,
+      "review": true
+    },
+    {
+      "start": 1683.52,
+      "end": 1684.58,
+      "text": "情况不一样",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.811,
+      "review": true
+    },
+    {
+      "start": 1684.58,
+      "end": 1686.2,
+      "text": "很简单啊",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.811,
+      "review": true
+    },
+    {
+      "start": 1686.2,
+      "end": 1687.54,
+      "text": "很多人朝A股是熟悉嘛",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.811,
+      "review": true
+    },
+    {
+      "start": 1687.54,
+      "end": 1688.92,
+      "text": "他对A股比较熟啊",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.811,
+      "review": true
+    },
+    {
+      "start": 1688.92,
+      "end": 1690.66,
+      "text": "那很多美股的公司他也不熟悉",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.811,
+      "review": true
+    },
+    {
+      "start": 1690.66,
+      "end": 1692.14,
+      "text": "然后呢也不接触",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.811,
+      "review": true
+    },
+    {
+      "start": 1692.14,
+      "end": 1692.74,
+      "text": "然后呢",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.811,
+      "review": true
+    },
+    {
+      "start": 1692.74,
+      "end": 1694.84,
+      "text": "他对A股的所有的公司比较熟",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.811,
+      "review": true
+    },
+    {
+      "start": 1694.84,
+      "end": 1695.46,
+      "text": "这种东西",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.811,
+      "review": true
+    },
+    {
+      "start": 1695.46,
+      "end": 1697.58,
+      "text": "所以如果比如你从小生活在美国",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.811,
+      "review": true
+    },
+    {
+      "start": 1697.58,
+      "end": 1698.9,
+      "text": "那你长在美国",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.811,
+      "review": true
+    },
+    {
+      "start": 1698.9,
+      "end": 1701.18,
+      "text": "那你对美国的那些公司可能比较熟",
+      "avg_logprob": -0.0884,
+      "no_speech_prob": 0.6396,
+      "review": true
+    },
+    {
+      "start": 1701.18,
+      "end": 1702.5,
+      "text": "还有海外嘛",
+      "avg_logprob": -0.0884,
+      "no_speech_prob": 0.6396,
+      "review": true
+    },
+    {
+      "start": 1702.5,
+      "end": 1703.46,
+      "text": "海外很多啊",
+      "avg_logprob": -0.0884,
+      "no_speech_prob": 0.6396,
+      "review": true
+    },
+    {
+      "start": 1703.46,
+      "end": 1705.68,
+      "text": "那比如说海外又不是每个人都在美国",
+      "avg_logprob": -0.0884,
+      "no_speech_prob": 0.6396,
+      "review": true
+    },
+    {
+      "start": 1705.68,
+      "end": 1707.4,
+      "text": "那么多人在全世界其他国家",
+      "avg_logprob": -0.0884,
+      "no_speech_prob": 0.6396,
+      "review": true
+    },
+    {
+      "start": 1707.4,
+      "end": 1708.96,
+      "text": "他可能对美国也并不熟嘛",
+      "avg_logprob": -0.0884,
+      "no_speech_prob": 0.6396,
+      "review": true
+    },
+    {
+      "start": 1708.96,
+      "end": 1710.78,
+      "text": "是不是对美国的公司也并不熟",
+      "avg_logprob": -0.0884,
+      "no_speech_prob": 0.6396,
+      "review": true
+    },
+    {
+      "start": 1710.78,
+      "end": 1712.66,
+      "text": "其实很多东西我觉得很简单啊",
+      "avg_logprob": -0.0884,
+      "no_speech_prob": 0.6396,
+      "review": true
+    },
+    {
+      "start": 1712.66,
+      "end": 1714.68,
+      "text": "这个东西比如说因为你是在美国",
+      "avg_logprob": -0.0884,
+      "no_speech_prob": 0.6396,
+      "review": true
+    },
+    {
+      "start": 1714.68,
+      "end": 1715.7,
+      "text": "你对美国很熟悉",
+      "avg_logprob": -0.0884,
+      "no_speech_prob": 0.6396,
+      "review": true
+    },
+    {
+      "start": 1715.7,
+      "end": 1717.2,
+      "text": "那些每一个公司啊",
+      "avg_logprob": -0.0884,
+      "no_speech_prob": 0.6396,
+      "review": true
+    },
+    {
+      "start": 1717.2,
+      "end": 1718.38,
+      "text": "你都是家喻户晓啊",
+      "avg_logprob": -0.0884,
+      "no_speech_prob": 0.6396,
+      "review": true
+    },
+    {
+      "start": 1718.38,
+      "end": 1720.34,
+      "text": "你平时都用的什么品牌的东西啊",
+      "avg_logprob": -0.0884,
+      "no_speech_prob": 0.6396,
+      "review": true
+    },
+    {
+      "start": 1720.34,
+      "end": 1721.78,
+      "text": "但是比如说我在德国",
+      "avg_logprob": -0.0884,
+      "no_speech_prob": 0.6396,
+      "review": true
+    },
+    {
+      "start": 1721.78,
+      "end": 1722.92,
+      "text": "假设我们在德国啊",
+      "avg_logprob": -0.0884,
+      "no_speech_prob": 0.6396,
+      "review": true
+    },
+    {
+      "start": 1722.92,
+      "end": 1723.62,
+      "text": "我知道有在德国",
+      "avg_logprob": -0.0884,
+      "no_speech_prob": 0.6396,
+      "review": true
+    },
+    {
+      "start": 1723.62,
+      "end": 1724.16,
+      "text": "有在印度",
+      "avg_logprob": -0.0884,
+      "no_speech_prob": 0.6396,
+      "review": true
+    },
+    {
+      "start": 1724.16,
+      "end": 1725.5,
+      "text": "有人在南非",
+      "avg_logprob": -0.0884,
+      "no_speech_prob": 0.6396,
+      "review": true
+    },
+    {
+      "start": 1725.5,
+      "end": 1726.1,
+      "text": "我举个例子",
+      "avg_logprob": -0.0884,
+      "no_speech_prob": 0.6396,
+      "review": true
+    },
+    {
+      "start": 1726.1,
+      "end": 1727.74,
+      "text": "那他们其实对美国也不熟悉",
+      "avg_logprob": -0.0884,
+      "no_speech_prob": 0.6396,
+      "review": true
+    },
+    {
+      "start": 1727.74,
+      "end": 1727.98,
+      "text": "是不是",
+      "avg_logprob": -0.0884,
+      "no_speech_prob": 0.6396,
+      "review": true
+    },
+    {
+      "start": 1727.98,
+      "end": 1729.1,
+      "text": "所以这个很正常",
+      "avg_logprob": -0.0993,
+      "no_speech_prob": 0.8862,
+      "review": true
+    },
+    {
+      "start": 1729.1,
+      "end": 1730.8,
+      "text": "所以他们对美国相对说",
+      "avg_logprob": -0.0993,
+      "no_speech_prob": 0.8862,
+      "review": true
+    },
+    {
+      "start": 1730.8,
+      "end": 1731.94,
+      "text": "如果是在中国长大的",
+      "avg_logprob": -0.0993,
+      "no_speech_prob": 0.8862,
+      "review": true
+    },
+    {
+      "start": 1731.94,
+      "end": 1733.04,
+      "text": "他对中国的公司",
+      "avg_logprob": -0.0993,
+      "no_speech_prob": 0.8862,
+      "review": true
+    },
+    {
+      "start": 1733.04,
+      "end": 1733.94,
+      "text": "中国的市场",
+      "avg_logprob": -0.0993,
+      "no_speech_prob": 0.8862,
+      "review": true
+    },
+    {
+      "start": 1733.94,
+      "end": 1736.0,
+      "text": "中国的交易风格会很熟悉",
+      "avg_logprob": -0.0993,
+      "no_speech_prob": 0.8862,
+      "review": true
+    },
+    {
+      "start": 1736.0,
+      "end": 1737.96,
+      "text": "其实我做A股做的一直很好",
+      "avg_logprob": -0.0993,
+      "no_speech_prob": 0.8862,
+      "review": true
+    },
+    {
+      "start": 1737.96,
+      "end": 1740.58,
+      "text": "我赚的几乎绝大部分钱都是A股",
+      "avg_logprob": -0.0993,
+      "no_speech_prob": 0.8862,
+      "review": true
+    },
+    {
+      "start": 1740.58,
+      "end": 1743.0,
+      "text": "当然另外一个原因也是因为美国的钱很少",
+      "avg_logprob": -0.0993,
+      "no_speech_prob": 0.8862,
+      "review": true
+    },
+    {
+      "start": 1743.0,
+      "end": 1744.18,
+      "text": "因为这个国内",
+      "avg_logprob": -0.0993,
+      "no_speech_prob": 0.8862,
+      "review": true
+    },
+    {
+      "start": 1744.18,
+      "end": 1747.9,
+      "text": "我的主要资金都是在中国的国内",
+      "avg_logprob": -0.0993,
+      "no_speech_prob": 0.8862,
+      "review": true
+    },
+    {
+      "start": 1747.9,
+      "end": 1749.8,
+      "text": "那么这个钱出不来的话",
+      "avg_logprob": -0.0993,
+      "no_speech_prob": 0.8862,
+      "review": true
+    },
+    {
+      "start": 1749.8,
+      "end": 1751.04,
+      "text": "那么你就很难",
+      "avg_logprob": -0.0993,
+      "no_speech_prob": 0.8862,
+      "review": true
+    },
+    {
+      "start": 1751.04,
+      "end": 1752.84,
+      "text": "很难去做",
+      "avg_logprob": -0.0993,
+      "no_speech_prob": 0.8862,
+      "review": true
+    },
+    {
+      "start": 1752.84,
+      "end": 1754.64,
+      "text": "所以其实这个东西很简单",
+      "avg_logprob": -0.0993,
+      "no_speech_prob": 0.8862,
+      "review": true
+    },
+    {
+      "start": 1754.64,
+      "end": 1755.54,
+      "text": "所以我觉得没有什么",
+      "avg_logprob": -0.0993,
+      "no_speech_prob": 0.8862,
+      "review": true
+    },
+    {
+      "start": 1755.54,
+      "end": 1756.56,
+      "text": "也不是什么执念了",
+      "avg_logprob": -0.0993,
+      "no_speech_prob": 0.8862,
+      "review": true
+    },
+    {
+      "start": 1756.56,
+      "end": 1757.64,
+      "text": "肯定是有原因的",
+      "avg_logprob": -0.0993,
+      "no_speech_prob": 0.8862,
+      "review": true
+    },
+    {
+      "start": 1757.64,
+      "end": 1758.0,
+      "text": "是不是",
+      "avg_logprob": -0.1229,
+      "no_speech_prob": 0.9224,
+      "review": true
+    },
+    {
+      "start": 1758.0,
+      "end": 1759.48,
+      "text": "肯定是原因的",
+      "avg_logprob": -0.1229,
+      "no_speech_prob": 0.9224,
+      "review": true
+    },
+    {
+      "start": 1759.48,
+      "end": 1762.37,
+      "text": "好",
+      "avg_logprob": -0.1229,
+      "no_speech_prob": 0.9224,
+      "review": true
+    },
+    {
+      "start": 1762.37,
+      "end": 1763.61,
+      "text": "我们来回答一些个股的问题",
+      "avg_logprob": -0.1229,
+      "no_speech_prob": 0.9224,
+      "review": true
+    },
+    {
+      "start": 1763.61,
+      "end": 1766.99,
+      "text": "刚才有的我也回答不了",
+      "avg_logprob": -0.1229,
+      "no_speech_prob": 0.9224,
+      "review": true
+    },
+    {
+      "start": 1766.99,
+      "end": 1769.73,
+      "text": "像这些算力算力电力协同",
+      "avg_logprob": -0.1229,
+      "no_speech_prob": 0.9224,
+      "review": true
+    },
+    {
+      "start": 1769.73,
+      "end": 1771.33,
+      "text": "会不会成为热点",
+      "avg_logprob": -0.1229,
+      "no_speech_prob": 0.9224,
+      "review": true
+    },
+    {
+      "start": 1771.33,
+      "end": 1772.53,
+      "text": "这个真不是真不好说",
+      "avg_logprob": -0.1229,
+      "no_speech_prob": 0.9224,
+      "review": true
+    },
+    {
+      "start": 1772.53,
+      "end": 1775.31,
+      "text": "但是我始终认为电力还是会慢慢涨的",
+      "avg_logprob": -0.1229,
+      "no_speech_prob": 0.9224,
+      "review": true
+    },
+    {
+      "start": 1775.31,
+      "end": 1776.03,
+      "text": "只不过它很慢",
+      "avg_logprob": -0.1229,
+      "no_speech_prob": 0.9224,
+      "review": true
+    },
+    {
+      "start": 1776.03,
+      "end": 1777.51,
+      "text": "它的动荡太厉害了",
+      "avg_logprob": -0.1229,
+      "no_speech_prob": 0.9224,
+      "review": true
+    },
+    {
+      "start": 1777.51,
+      "end": 1779.35,
+      "text": "像我以前买的一些江苏新能",
+      "avg_logprob": -0.1229,
+      "no_speech_prob": 0.9224,
+      "review": true
+    },
+    {
+      "start": 1779.35,
+      "end": 1782.65,
+      "text": "像江苏新能这些",
+      "avg_logprob": -0.1229,
+      "no_speech_prob": 0.9224,
+      "review": true
+    },
+    {
+      "start": 1782.65,
+      "end": 1784.53,
+      "text": "其实我我的位置都买的很好",
+      "avg_logprob": -0.1229,
+      "no_speech_prob": 0.9224,
+      "review": true
+    },
+    {
+      "start": 1784.53,
+      "end": 1785.39,
+      "text": "但结果都回来了",
+      "avg_logprob": -0.1229,
+      "no_speech_prob": 0.9224,
+      "review": true
+    },
+    {
+      "start": 1785.39,
+      "end": 1787.41,
+      "text": "你看我当时这个位置买的是吧",
+      "avg_logprob": -0.1229,
+      "no_speech_prob": 0.9224,
+      "review": true
+    },
+    {
+      "start": 1787.41,
+      "end": 1788.31,
+      "text": "这一波赚到了",
+      "avg_logprob": -0.1229,
+      "no_speech_prob": 0.9224,
+      "review": true
+    },
+    {
+      "start": 1788.31,
+      "end": 1789.43,
+      "text": "幸亏我这个人比较",
+      "avg_logprob": -0.1393,
+      "no_speech_prob": 0.119,
+      "review": false
+    },
+    {
+      "start": 1789.43,
+      "end": 1791.63,
+      "text": "就是我是一定有风险就走",
+      "avg_logprob": -0.1393,
+      "no_speech_prob": 0.119,
+      "review": false
+    },
+    {
+      "start": 1791.63,
+      "end": 1792.97,
+      "text": "比如低开我就一定会走",
+      "avg_logprob": -0.1393,
+      "no_speech_prob": 0.119,
+      "review": false
+    },
+    {
+      "start": 1792.97,
+      "end": 1794.07,
+      "text": "根本不用考虑那么多",
+      "avg_logprob": -0.1393,
+      "no_speech_prob": 0.119,
+      "review": false
+    },
+    {
+      "start": 1794.07,
+      "end": 1795.55,
+      "text": "但是我这种风格嘛",
+      "avg_logprob": -0.1393,
+      "no_speech_prob": 0.119,
+      "review": false
+    },
+    {
+      "start": 1795.55,
+      "end": 1796.45,
+      "text": "做美股就不行",
+      "avg_logprob": -0.1393,
+      "no_speech_prob": 0.119,
+      "review": false
+    },
+    {
+      "start": 1796.45,
+      "end": 1796.87,
+      "text": "是吧",
+      "avg_logprob": -0.1393,
+      "no_speech_prob": 0.119,
+      "review": false
+    },
+    {
+      "start": 1796.87,
+      "end": 1798.67,
+      "text": "你看美股好多就要死扛",
+      "avg_logprob": -0.1393,
+      "no_speech_prob": 0.119,
+      "review": false
+    },
+    {
+      "start": 1798.67,
+      "end": 1799.51,
+      "text": "所以这就是为什么说",
+      "avg_logprob": -0.1393,
+      "no_speech_prob": 0.119,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 46.41
+}

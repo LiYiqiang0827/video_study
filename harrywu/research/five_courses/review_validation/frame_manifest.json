@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "source": "C:\\Users\\HarryWu_IOKI\\Videos\\飞云双突破\\For GPT\\3.趋势线精讲.mkv",
+  "duration": 1248.85,
+  "params": {
+    "source_sha256": "afe8ddf5cea9b7646574fae376025b7ecfe0e0cda9ddc90398914f742311a8ff",
+    "times": [
+      0.5,
+      90.3,
+      1247.0
+    ],
+    "method": "accurate-seek-copyts-original-v1"
+  },
+  "frames": [
+    {
+      "requested_time": 0.5,
+      "time": 0.5,
+      "decoded_pts": 0.5,
+      "frame": "frame_00000_000000500.jpg",
+      "sha256": "ddb3e3967cd11ddfccbe2a428d2f706c5992f687ebd92b0feec0f03d915a5ca8"
+    },
+    {
+      "requested_time": 90.3,
+      "time": 90.3,
+      "decoded_pts": 90.3,
+      "frame": "frame_00001_000090300.jpg",
+      "sha256": "77362111e00ac95cbaee0b89674a91931c9f8591888fe36a1b71158cc2f228f0"
+    },
+    {
+      "requested_time": 1247.0,
+      "time": 1247.0,
+      "decoded_pts": 1247.0,
+      "frame": "frame_00002_001247000.jpg",
+      "sha256": "3eb9d87e05aaf32d70c918f0dc9230ee85ea8486bd74b0f0487ae6717337f7f3"
+    }
+  ],
+  "status": "complete",
+  "sheets": [
+    "sheet_001.jpg"
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "begin": 3600.0,
+  "finish": 3900.0,
+  "segments": [
+    {
+      "start": 3629.44,
+      "end": 3631.16,
+      "text": "反正你按照我的模式吧",
+      "avg_logprob": -0.2074,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3631.16,
+      "end": 3632.22,
+      "text": "90%",
+      "avg_logprob": -0.2074,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3632.22,
+      "end": 3633.1,
+      "text": "90%不敢说",
+      "avg_logprob": -0.2074,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3633.1,
+      "end": 3635.16,
+      "text": "70% 80%你都是会赚钱的",
+      "avg_logprob": -0.2074,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3635.16,
+      "end": 3636.76,
+      "text": "有些时候也会被锤啊",
+      "avg_logprob": -0.2074,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3636.76,
+      "end": 3638.72,
+      "text": "20% 30%也会被锤啊",
+      "avg_logprob": -0.2074,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3638.72,
+      "end": 3640.34,
+      "text": "被锤的时候你知道跑得快就没啥问题",
+      "avg_logprob": -0.2074,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3640.34,
+      "end": 3644.52,
+      "text": "问题不大",
+      "avg_logprob": -0.2074,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3644.52,
+      "end": 3647.1,
+      "text": "你不愿意跑了就没办法了",
+      "avg_logprob": -0.2074,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3647.1,
+      "end": 3650.46,
+      "text": "赚钱的嘛你就尽量拿着",
+      "avg_logprob": -0.2074,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3650.46,
+      "end": 3652.82,
+      "text": "赚钱的能拿多久拿多久",
+      "avg_logprob": -0.2074,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3652.82,
+      "end": 3684.82,
+      "text": "我们再看一下啊",
+      "avg_logprob": -0.2074,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3684.82,
+      "end": 3686.36,
+      "text": "券商这张有意思",
+      "avg_logprob": -0.2074,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3686.36,
+      "end": 3701.47,
+      "text": "可能还是想拉盘",
+      "avg_logprob": -0.2074,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3701.47,
+      "end": 3703.29,
+      "text": "券商展开还是想拉盘",
+      "avg_logprob": -0.2074,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3703.29,
+      "end": 3709.5,
+      "text": "香菜这个形态很漂亮",
+      "avg_logprob": -0.2074,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3709.5,
+      "end": 3713.8,
+      "text": "就比如说如果你喜欢券商那你就可以买香材",
+      "avg_logprob": -0.1433,
+      "no_speech_prob": 0.896,
+      "review": true
+    },
+    {
+      "start": 3713.8,
+      "end": 3715.98,
+      "text": "我不喜欢券商所以我就不动它",
+      "avg_logprob": -0.1433,
+      "no_speech_prob": 0.896,
+      "review": true
+    },
+    {
+      "start": 3715.98,
+      "end": 3719.52,
+      "text": "那比如说香材这个形态量价超级漂亮",
+      "avg_logprob": -0.1433,
+      "no_speech_prob": 0.896,
+      "review": true
+    },
+    {
+      "start": 3719.52,
+      "end": 3720.4,
+      "text": "很漂亮",
+      "avg_logprob": -0.1433,
+      "no_speech_prob": 0.896,
+      "review": true
+    },
+    {
+      "start": 3720.4,
+      "end": 3723.31,
+      "text": "就是你们当技术学习吧",
+      "avg_logprob": -0.1433,
+      "no_speech_prob": 0.896,
+      "review": true
+    },
+    {
+      "start": 3723.31,
+      "end": 3727.25,
+      "text": "就假设你在比特币、在美国、在商品期货",
+      "avg_logprob": -0.1433,
+      "no_speech_prob": 0.896,
+      "review": true
+    },
+    {
+      "start": 3727.25,
+      "end": 3730.29,
+      "text": "在其他所有地方看到这种形态你都一定要买",
+      "avg_logprob": -0.1433,
+      "no_speech_prob": 0.896,
+      "review": true
+    },
+    {
+      "start": 3730.29,
+      "end": 3731.85,
+      "text": "一分钟、五分钟、十分钟",
+      "avg_logprob": -0.1433,
+      "no_speech_prob": 0.896,
+      "review": true
+    },
+    {
+      "start": 3731.85,
+      "end": 3733.35,
+      "text": "只要看到这种形态必买",
+      "avg_logprob": -0.1433,
+      "no_speech_prob": 0.896,
+      "review": true
+    },
+    {
+      "start": 3733.35,
+      "end": 3734.53,
+      "text": "你知道就行",
+      "avg_logprob": -0.1433,
+      "no_speech_prob": 0.896,
+      "review": true
+    },
+    {
+      "start": 3734.53,
+      "end": 3739.17,
+      "text": "咱们就当技术方法学习",
+      "avg_logprob": -0.1433,
+      "no_speech_prob": 0.896,
+      "review": true
+    },
+    {
+      "start": 3739.17,
+      "end": 3744.37,
+      "text": "你如果在一分钟、三分钟、五分钟看得中形态,也必须要买,特别的好",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.9941,
+      "review": true
+    },
+    {
+      "start": 3744.37,
+      "end": 3749.01,
+      "text": "特别是就是你做股指期货也是,你只要看得中形态,马上开仓",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.9941,
+      "review": true
+    },
+    {
+      "start": 3749.01,
+      "end": 3751.34,
+      "text": "赚钱概率非常大",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.9941,
+      "review": true
+    },
+    {
+      "start": 3751.34,
+      "end": 3754.96,
+      "text": "其实形态学啊,技术都是共通的",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.9941,
+      "review": true
+    },
+    {
+      "start": 3754.96,
+      "end": 3803.45,
+      "text": "外汇、股票、期货,共通的",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.9941,
+      "review": true
+    },
+    {
+      "start": 3803.45,
+      "end": 3811.07,
+      "text": "包括题材像市北亚这些形态都是非常漂亮的",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.9941,
+      "review": true
+    },
+    {
+      "start": 3811.07,
+      "end": 3813.25,
+      "text": "把题材加进去就没意思了",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.9941,
+      "review": true
+    },
+    {
+      "start": 3813.25,
+      "end": 3816.53,
+      "text": "你看昨天的市宝,昨天的形态也是超级漂亮的",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.9941,
+      "review": true
+    },
+    {
+      "start": 3816.53,
+      "end": 3866.6,
+      "text": "全商在涨,难怪上阵在涨,像它这些,全商倒是,你看这个地方是一个三角形,很漂亮,我不喜欢买全商,全商持续性非常非常非常非常差,几乎是第二天它就跌的可能性非常非常非常大,我基本上不碰全商。",
+      "avg_logprob": -0.1767,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3866.6,
+      "end": 3905.93,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1421,
+      "no_speech_prob": 0.0,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 10.28
+}

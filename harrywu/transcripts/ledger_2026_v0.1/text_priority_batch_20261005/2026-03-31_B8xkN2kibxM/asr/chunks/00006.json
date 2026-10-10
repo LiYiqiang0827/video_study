@@ -1,0 +1,944 @@
+{
+  "begin": 1800.0,
+  "finish": 2100.0,
+  "segments": [
+    {
+      "start": 1800.94,
+      "end": 1806.08,
+      "text": "所以说我估计我最多再买一点点这个潜照吧",
+      "avg_logprob": -0.2346,
+      "no_speech_prob": 0.9492,
+      "review": true
+    },
+    {
+      "start": 1806.08,
+      "end": 1808.04,
+      "text": "因为潜照的它的",
+      "avg_logprob": -0.2346,
+      "no_speech_prob": 0.9492,
+      "review": true
+    },
+    {
+      "start": 1808.04,
+      "end": 1811.53,
+      "text": "我看潜照和信息哪个好",
+      "avg_logprob": -0.2346,
+      "no_speech_prob": 0.9492,
+      "review": true
+    },
+    {
+      "start": 1811.53,
+      "end": 1814.27,
+      "text": "潜照还是炒商业航天",
+      "avg_logprob": -0.2346,
+      "no_speech_prob": 0.9492,
+      "review": true
+    },
+    {
+      "start": 1814.27,
+      "end": 1819.31,
+      "text": "K线、形态、资金、信息",
+      "avg_logprob": -0.2346,
+      "no_speech_prob": 0.9492,
+      "review": true
+    },
+    {
+      "start": 1819.31,
+      "end": 1831.47,
+      "text": "对,等到潜照回收的时候买点潜照吧",
+      "avg_logprob": -0.2346,
+      "no_speech_prob": 0.9492,
+      "review": true
+    },
+    {
+      "start": 1831.47,
+      "end": 1834.13,
+      "text": "等到它回收到比如回到这个位置就可以买一点",
+      "avg_logprob": -0.2346,
+      "no_speech_prob": 0.9492,
+      "review": true
+    },
+    {
+      "start": 1834.13,
+      "end": 1836.69,
+      "text": "好大概是这样子",
+      "avg_logprob": -0.1707,
+      "no_speech_prob": 0.9316,
+      "review": true
+    },
+    {
+      "start": 1836.69,
+      "end": 1840.13,
+      "text": "这就是反正这个是我就给大家展示一下我的这些选股策略啊",
+      "avg_logprob": -0.1707,
+      "no_speech_prob": 0.9316,
+      "review": true
+    },
+    {
+      "start": 1840.13,
+      "end": 1841.83,
+      "text": "我的交易思路啊这些啊",
+      "avg_logprob": -0.1707,
+      "no_speech_prob": 0.9316,
+      "review": true
+    },
+    {
+      "start": 1841.83,
+      "end": 1842.97,
+      "text": "最后就没有啥啊",
+      "avg_logprob": -0.1707,
+      "no_speech_prob": 0.9316,
+      "review": true
+    },
+    {
+      "start": 1842.97,
+      "end": 1843.91,
+      "text": "最后回答一些问题",
+      "avg_logprob": -0.1707,
+      "no_speech_prob": 0.9316,
+      "review": true
+    },
+    {
+      "start": 1843.91,
+      "end": 1844.83,
+      "text": "我不回答个股",
+      "avg_logprob": -0.1707,
+      "no_speech_prob": 0.9316,
+      "review": true
+    },
+    {
+      "start": 1844.83,
+      "end": 1847.15,
+      "text": "我就回答简单的简单的几个那个了",
+      "avg_logprob": -0.1707,
+      "no_speech_prob": 0.9316,
+      "review": true
+    },
+    {
+      "start": 1847.15,
+      "end": 1848.71,
+      "text": "简单的几个黄金啊",
+      "avg_logprob": -0.1707,
+      "no_speech_prob": 0.9316,
+      "review": true
+    },
+    {
+      "start": 1848.71,
+      "end": 1849.91,
+      "text": "比特币啊那些啊",
+      "avg_logprob": -0.1707,
+      "no_speech_prob": 0.9316,
+      "review": true
+    },
+    {
+      "start": 1849.91,
+      "end": 1851.13,
+      "text": "我回答完了我就休息了",
+      "avg_logprob": -0.1707,
+      "no_speech_prob": 0.9316,
+      "review": true
+    },
+    {
+      "start": 1851.13,
+      "end": 1852.41,
+      "text": "我也不搞这么晚啊",
+      "avg_logprob": -0.1707,
+      "no_speech_prob": 0.9316,
+      "review": true
+    },
+    {
+      "start": 1852.41,
+      "end": 1854.11,
+      "text": "我也不搞这么晚",
+      "avg_logprob": -0.1707,
+      "no_speech_prob": 0.9316,
+      "review": true
+    },
+    {
+      "start": 1854.11,
+      "end": 1855.74,
+      "text": "嗯",
+      "avg_logprob": -0.1707,
+      "no_speech_prob": 0.9316,
+      "review": true
+    },
+    {
+      "start": 1855.74,
+      "end": 1860.99,
+      "text": "好我们看看比特币和黄金嘛",
+      "avg_logprob": -0.1707,
+      "no_speech_prob": 0.9316,
+      "review": true
+    },
+    {
+      "start": 1860.99,
+      "end": 1862.88,
+      "text": "好首先说说黄金嘛",
+      "avg_logprob": -0.1707,
+      "no_speech_prob": 0.9316,
+      "review": true
+    },
+    {
+      "start": 1862.88,
+      "end": 1863.78,
+      "text": "首先说一下黄金",
+      "avg_logprob": -0.1707,
+      "no_speech_prob": 0.9316,
+      "review": true
+    },
+    {
+      "start": 1863.78,
+      "end": 1866.35,
+      "text": "那我说一下黄金啊",
+      "avg_logprob": -0.1707,
+      "no_speech_prob": 0.9316,
+      "review": true
+    },
+    {
+      "start": 1866.35,
+      "end": 1896.33,
+      "text": "黄金我做的特别完美,我包括现在都有黄金,黄金我做的特别完美,黄金我跟大家说我怎么做的啊,就是前一段时间你们也知道黄金跌到这个最低的位置,当时从日线来看就是我的买点,你们可能其他在我的会员知道,我当时说黄金就分批买,这是一个,这是一个黄皮,这是一个,这是一个,差不多就这些位置,可以分批买黄金,就这些位置,这些位置,",
+      "avg_logprob": -0.0558,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1896.35,
+      "end": 1900.29,
+      "text": "因为你也不知道到底跌到这儿还是跌到这儿",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.585,
+      "review": true
+    },
+    {
+      "start": 1900.29,
+      "end": 1904.23,
+      "text": "所以当时呢我自己是跌到这儿了买了一点黄金",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.585,
+      "review": true
+    },
+    {
+      "start": 1904.23,
+      "end": 1906.43,
+      "text": "结果被锤了但是没有关系",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.585,
+      "review": true
+    },
+    {
+      "start": 1906.43,
+      "end": 1908.59,
+      "text": "我跌到这儿我又继续买黄金",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.585,
+      "review": true
+    },
+    {
+      "start": 1908.59,
+      "end": 1911.67,
+      "text": "所以说这个位置和这个位置我都买了",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.585,
+      "review": true
+    },
+    {
+      "start": 1911.67,
+      "end": 1913.33,
+      "text": "买了之后马上反弹了",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.585,
+      "review": true
+    },
+    {
+      "start": 1913.33,
+      "end": 1915.39,
+      "text": "反弹完了之后呢",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.585,
+      "review": true
+    },
+    {
+      "start": 1915.39,
+      "end": 1918.35,
+      "text": "那么我的策略就是反弹完",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.585,
+      "review": true
+    },
+    {
+      "start": 1918.35,
+      "end": 1920.53,
+      "text": "反弹到前面压力位",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.585,
+      "review": true
+    },
+    {
+      "start": 1920.53,
+      "end": 1922.73,
+      "text": "然后又走了一个ABC",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.585,
+      "review": true
+    },
+    {
+      "start": 1922.73,
+      "end": 1925.85,
+      "text": "ABC啊我就卖掉了",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.585,
+      "review": true
+    },
+    {
+      "start": 1925.85,
+      "end": 1928.95,
+      "text": "卖掉了之后我马上又买回来",
+      "avg_logprob": -0.1251,
+      "no_speech_prob": 0.3354,
+      "review": false
+    },
+    {
+      "start": 1928.95,
+      "end": 1930.39,
+      "text": "填个限价单在这",
+      "avg_logprob": -0.1251,
+      "no_speech_prob": 0.3354,
+      "review": false
+    },
+    {
+      "start": 1930.39,
+      "end": 1934.49,
+      "text": "我在这又全部买回来了",
+      "avg_logprob": -0.1251,
+      "no_speech_prob": 0.3354,
+      "review": false
+    },
+    {
+      "start": 1934.49,
+      "end": 1935.55,
+      "text": "那么很好",
+      "avg_logprob": -0.1251,
+      "no_speech_prob": 0.3354,
+      "review": false
+    },
+    {
+      "start": 1935.55,
+      "end": 1937.61,
+      "text": "所以说我这个黄金交易的非常完美",
+      "avg_logprob": -0.1251,
+      "no_speech_prob": 0.3354,
+      "review": false
+    },
+    {
+      "start": 1937.61,
+      "end": 1938.75,
+      "text": "那么现在呢",
+      "avg_logprob": -0.1251,
+      "no_speech_prob": 0.3354,
+      "review": false
+    },
+    {
+      "start": 1938.75,
+      "end": 1939.87,
+      "text": "如果我买了",
+      "avg_logprob": -0.1251,
+      "no_speech_prob": 0.3354,
+      "review": false
+    },
+    {
+      "start": 1939.87,
+      "end": 1940.47,
+      "text": "这是买点",
+      "avg_logprob": -0.1251,
+      "no_speech_prob": 0.3354,
+      "review": false
+    },
+    {
+      "start": 1940.47,
+      "end": 1942.33,
+      "text": "那么现在肯定不动啊",
+      "avg_logprob": -0.1251,
+      "no_speech_prob": 0.3354,
+      "review": false
+    },
+    {
+      "start": 1942.33,
+      "end": 1943.83,
+      "text": "肯定不动啊",
+      "avg_logprob": -0.1251,
+      "no_speech_prob": 0.3354,
+      "review": false
+    },
+    {
+      "start": 1943.83,
+      "end": 1945.95,
+      "text": "如果这是一个新的一个买点",
+      "avg_logprob": -0.1251,
+      "no_speech_prob": 0.3354,
+      "review": false
+    },
+    {
+      "start": 1945.95,
+      "end": 1948.27,
+      "text": "这是一个买点的话",
+      "avg_logprob": -0.1251,
+      "no_speech_prob": 0.3354,
+      "review": false
+    },
+    {
+      "start": 1948.27,
+      "end": 1949.65,
+      "text": "那我现在就不动了呀",
+      "avg_logprob": -0.1251,
+      "no_speech_prob": 0.3354,
+      "review": false
+    },
+    {
+      "start": 1949.65,
+      "end": 1950.67,
+      "text": "我为什么要动啊",
+      "avg_logprob": -0.1251,
+      "no_speech_prob": 0.3354,
+      "review": false
+    },
+    {
+      "start": 1950.67,
+      "end": 1951.53,
+      "text": "因为你看嘛",
+      "avg_logprob": -0.1251,
+      "no_speech_prob": 0.3354,
+      "review": false
+    },
+    {
+      "start": 1951.53,
+      "end": 1952.97,
+      "text": "低点的不断抬高啊",
+      "avg_logprob": -0.1251,
+      "no_speech_prob": 0.3354,
+      "review": false
+    },
+    {
+      "start": 1952.97,
+      "end": 1954.33,
+      "text": "低点低点低点",
+      "avg_logprob": -0.1251,
+      "no_speech_prob": 0.3354,
+      "review": false
+    },
+    {
+      "start": 1954.33,
+      "end": 1955.15,
+      "text": "形态很好啊",
+      "avg_logprob": -0.1251,
+      "no_speech_prob": 0.3354,
+      "review": false
+    },
+    {
+      "start": 1955.15,
+      "end": 1957.57,
+      "text": "他就在这回调一下算个啥嘛",
+      "avg_logprob": -0.1024,
+      "no_speech_prob": 0.8374,
+      "review": true
+    },
+    {
+      "start": 1957.57,
+      "end": 1959.13,
+      "text": "他只要不跌破这个位置",
+      "avg_logprob": -0.1024,
+      "no_speech_prob": 0.8374,
+      "review": true
+    },
+    {
+      "start": 1959.13,
+      "end": 1960.31,
+      "text": "不跌破这个位置",
+      "avg_logprob": -0.1024,
+      "no_speech_prob": 0.8374,
+      "review": true
+    },
+    {
+      "start": 1960.31,
+      "end": 1962.07,
+      "text": "那我坚定持有黄金",
+      "avg_logprob": -0.1024,
+      "no_speech_prob": 0.8374,
+      "review": true
+    },
+    {
+      "start": 1962.07,
+      "end": 1962.87,
+      "text": "好不好",
+      "avg_logprob": -0.1024,
+      "no_speech_prob": 0.8374,
+      "review": true
+    },
+    {
+      "start": 1962.87,
+      "end": 1963.89,
+      "text": "黄金是这么看的",
+      "avg_logprob": -0.1024,
+      "no_speech_prob": 0.8374,
+      "review": true
+    },
+    {
+      "start": 1963.89,
+      "end": 1965.55,
+      "text": "那你说现在该不该买",
+      "avg_logprob": -0.1024,
+      "no_speech_prob": 0.8374,
+      "review": true
+    },
+    {
+      "start": 1965.55,
+      "end": 1968.9,
+      "text": "有一点点可惜了",
+      "avg_logprob": -0.1024,
+      "no_speech_prob": 0.8374,
+      "review": true
+    },
+    {
+      "start": 1968.9,
+      "end": 1970.66,
+      "text": "你说你为什么不在回调的时候买",
+      "avg_logprob": -0.1024,
+      "no_speech_prob": 0.8374,
+      "review": true
+    },
+    {
+      "start": 1970.66,
+      "end": 1971.34,
+      "text": "我就问你",
+      "avg_logprob": -0.1024,
+      "no_speech_prob": 0.8374,
+      "review": true
+    },
+    {
+      "start": 1971.34,
+      "end": 1972.32,
+      "text": "你为什么不在这买",
+      "avg_logprob": -0.1024,
+      "no_speech_prob": 0.8374,
+      "review": true
+    },
+    {
+      "start": 1972.32,
+      "end": 1973.5,
+      "text": "这么好的位置",
+      "avg_logprob": -0.1024,
+      "no_speech_prob": 0.8374,
+      "review": true
+    },
+    {
+      "start": 1973.5,
+      "end": 1975.72,
+      "text": "你稍微学一下我的技术分析",
+      "avg_logprob": -0.1024,
+      "no_speech_prob": 0.8374,
+      "review": true
+    },
+    {
+      "start": 1975.72,
+      "end": 1976.92,
+      "text": "你个人看出来这种位置",
+      "avg_logprob": -0.1024,
+      "no_speech_prob": 0.8374,
+      "review": true
+    },
+    {
+      "start": 1976.92,
+      "end": 1978.86,
+      "text": "这么好的位置",
+      "avg_logprob": -0.1024,
+      "no_speech_prob": 0.8374,
+      "review": true
+    },
+    {
+      "start": 1978.86,
+      "end": 1980.82,
+      "text": "这种就是算一个大趋势的",
+      "avg_logprob": -0.1024,
+      "no_speech_prob": 0.8374,
+      "review": true
+    },
+    {
+      "start": 1980.82,
+      "end": 1984.82,
+      "text": "一个底部的一个突破回调确认的位置吗",
+      "avg_logprob": -0.1024,
+      "no_speech_prob": 0.8374,
+      "review": true
+    },
+    {
+      "start": 1984.82,
+      "end": 1989.92,
+      "text": "这是我教的我的13个买点里面最喜欢的位置之一嘛",
+      "avg_logprob": -0.121,
+      "no_speech_prob": 0.9775,
+      "review": true
+    },
+    {
+      "start": 1989.92,
+      "end": 1999.98,
+      "text": "我的13个买点最喜欢的买点之一嘛",
+      "avg_logprob": -0.121,
+      "no_speech_prob": 0.9775,
+      "review": true
+    },
+    {
+      "start": 1999.98,
+      "end": 2001.8,
+      "text": "那你为什么不在这买呢",
+      "avg_logprob": -0.121,
+      "no_speech_prob": 0.9775,
+      "review": true
+    },
+    {
+      "start": 2001.8,
+      "end": 2003.3,
+      "text": "所以说你还是要多学习",
+      "avg_logprob": -0.121,
+      "no_speech_prob": 0.9775,
+      "review": true
+    },
+    {
+      "start": 2003.3,
+      "end": 2005.3,
+      "text": "所以现在如果你买了就不动啊",
+      "avg_logprob": -0.121,
+      "no_speech_prob": 0.9775,
+      "review": true
+    },
+    {
+      "start": 2005.3,
+      "end": 2006.1,
+      "text": "你就不要管它了",
+      "avg_logprob": -0.121,
+      "no_speech_prob": 0.9775,
+      "review": true
+    },
+    {
+      "start": 2006.1,
+      "end": 2009.62,
+      "text": "但是你会说你现在新买很难很难",
+      "avg_logprob": -0.121,
+      "no_speech_prob": 0.9775,
+      "review": true
+    },
+    {
+      "start": 2009.62,
+      "end": 2011.78,
+      "text": "现在新买除非你是当时钉盘",
+      "avg_logprob": -0.121,
+      "no_speech_prob": 0.9775,
+      "review": true
+    },
+    {
+      "start": 2011.78,
+      "end": 2013.58,
+      "text": "钉盘你买在这还行",
+      "avg_logprob": -0.121,
+      "no_speech_prob": 0.9775,
+      "review": true
+    },
+    {
+      "start": 2013.58,
+      "end": 2015.56,
+      "text": "你说你现在这个位置很尴尬了",
+      "avg_logprob": -0.1164,
+      "no_speech_prob": 0.1979,
+      "review": false
+    },
+    {
+      "start": 2015.56,
+      "end": 2016.6,
+      "text": "这个位置呢",
+      "avg_logprob": -0.1164,
+      "no_speech_prob": 0.1979,
+      "review": false
+    },
+    {
+      "start": 2016.6,
+      "end": 2018.76,
+      "text": "那么我的观点就是说还是等回调吧",
+      "avg_logprob": -0.1164,
+      "no_speech_prob": 0.1979,
+      "review": false
+    },
+    {
+      "start": 2018.76,
+      "end": 2019.96,
+      "text": "它现在也在回调嘛",
+      "avg_logprob": -0.1164,
+      "no_speech_prob": 0.1979,
+      "review": false
+    },
+    {
+      "start": 2019.96,
+      "end": 2021.28,
+      "text": "它回调这些位置",
+      "avg_logprob": -0.1164,
+      "no_speech_prob": 0.1979,
+      "review": false
+    },
+    {
+      "start": 2021.28,
+      "end": 2023.18,
+      "text": "然后你如果可以盯盘的话",
+      "avg_logprob": -0.1164,
+      "no_speech_prob": 0.1979,
+      "review": false
+    },
+    {
+      "start": 2023.18,
+      "end": 2025.8,
+      "text": "你再看它一根线起来你再买",
+      "avg_logprob": -0.1164,
+      "no_speech_prob": 0.1979,
+      "review": false
+    },
+    {
+      "start": 2025.8,
+      "end": 2027.48,
+      "text": "这样子会保险一些",
+      "avg_logprob": -0.1164,
+      "no_speech_prob": 0.1979,
+      "review": false
+    },
+    {
+      "start": 2027.48,
+      "end": 2030.66,
+      "text": "那么黄金我的分析肯定是上涨的呀",
+      "avg_logprob": -0.1164,
+      "no_speech_prob": 0.1979,
+      "review": false
+    },
+    {
+      "start": 2030.66,
+      "end": 2034.06,
+      "text": "它肯定还会反弹的呀",
+      "avg_logprob": -0.1164,
+      "no_speech_prob": 0.1979,
+      "review": false
+    },
+    {
+      "start": 2034.06,
+      "end": 2036.0,
+      "text": "那么下一波我反弹到哪卖呢",
+      "avg_logprob": -0.1164,
+      "no_speech_prob": 0.1979,
+      "review": false
+    },
+    {
+      "start": 2036.0,
+      "end": 2037.98,
+      "text": "好我下一波我自己啊",
+      "avg_logprob": -0.1164,
+      "no_speech_prob": 0.1979,
+      "review": false
+    },
+    {
+      "start": 2037.98,
+      "end": 2041.51,
+      "text": "我自己大概率是反弹到这儿",
+      "avg_logprob": -0.1164,
+      "no_speech_prob": 0.1979,
+      "review": false
+    },
+    {
+      "start": 2041.51,
+      "end": 2042.55,
+      "text": "还是肯定要卖的啊",
+      "avg_logprob": -0.1164,
+      "no_speech_prob": 0.1979,
+      "review": false
+    },
+    {
+      "start": 2042.55,
+      "end": 2043.65,
+      "text": "我肯定不会一直拿",
+      "avg_logprob": -0.1164,
+      "no_speech_prob": 0.1979,
+      "review": false
+    },
+    {
+      "start": 2043.65,
+      "end": 2046.05,
+      "text": "黄金反弹到这些位置或者这些位置",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.9917,
+      "review": true
+    },
+    {
+      "start": 2046.05,
+      "end": 2050.55,
+      "text": "一般的我就从这坐到这或者这",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.9917,
+      "review": true
+    },
+    {
+      "start": 2050.55,
+      "end": 2051.35,
+      "text": "这个看情况",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.9917,
+      "review": true
+    },
+    {
+      "start": 2051.35,
+      "end": 2054.65,
+      "text": "如果它在这个位置是一个大阳线特别强",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.9917,
+      "review": true
+    },
+    {
+      "start": 2054.65,
+      "end": 2055.75,
+      "text": "那一般的能够到这",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.9917,
+      "review": true
+    },
+    {
+      "start": 2055.75,
+      "end": 2057.65,
+      "text": "就是到这",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.9917,
+      "review": true
+    },
+    {
+      "start": 2057.65,
+      "end": 2059.13,
+      "text": "它如果到不了这的话",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.9917,
+      "review": true
+    },
+    {
+      "start": 2059.13,
+      "end": 2060.75,
+      "text": "那就基本上到这就结束了",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.9917,
+      "review": true
+    },
+    {
+      "start": 2060.75,
+      "end": 2061.69,
+      "text": "看情况吧",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.9917,
+      "review": true
+    },
+    {
+      "start": 2061.69,
+      "end": 2062.37,
+      "text": "看情况吧",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.9917,
+      "review": true
+    },
+    {
+      "start": 2062.37,
+      "end": 2064.57,
+      "text": "黄金这个看它的情况",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.9917,
+      "review": true
+    },
+    {
+      "start": 2064.57,
+      "end": 2067.23,
+      "text": "反正基本上到了这些位置",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.9917,
+      "review": true
+    },
+    {
+      "start": 2067.23,
+      "end": 2068.07,
+      "text": "我还是要走的",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.9917,
+      "review": true
+    },
+    {
+      "start": 2068.07,
+      "end": 2068.97,
+      "text": "特别是到这",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.9917,
+      "review": true
+    },
+    {
+      "start": 2068.97,
+      "end": 2071.37,
+      "text": "如果它有一个很大幅度的反弹",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.9917,
+      "review": true
+    },
+    {
+      "start": 2071.37,
+      "end": 2072.33,
+      "text": "能够反弹到这的话",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.9917,
+      "review": true
+    },
+    {
+      "start": 2072.33,
+      "end": 2073.25,
+      "text": "我肯定会走",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.9917,
+      "review": true
+    },
+    {
+      "start": 2073.25,
+      "end": 2076.15,
+      "text": "好,这是黄金,我们看比特币",
+      "avg_logprob": -0.1581,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 2076.15,
+      "end": 2093.47,
+      "text": "比特币呢,我觉得还要等一等",
+      "avg_logprob": -0.1581,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 2093.47,
+      "end": 2095.51,
+      "text": "反正我是觉得还要等一等",
+      "avg_logprob": -0.1581,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 2095.51,
+      "end": 2097.93,
+      "text": "但是你们现在想做一下也可以",
+      "avg_logprob": -0.1581,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 2097.93,
+      "end": 2099.93,
+      "text": "因为从日线来看的话",
+      "avg_logprob": -0.1581,
+      "no_speech_prob": 0.0,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 27.09
+}

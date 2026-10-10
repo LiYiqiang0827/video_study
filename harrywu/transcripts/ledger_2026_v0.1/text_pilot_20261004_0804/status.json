@@ -1,0 +1,14 @@
+{
+  "status": "text_pilot_complete",
+  "started_utc": "2026-10-04T08:44:09.059617+00:00",
+  "runner_pid": 132180,
+  "child_pid": null,
+  "task_id": "yuncong_text_pilot_20261004_0804",
+  "attempt": 2,
+  "ended_utc": "2026-10-04T09:00:09.959168+00:00",
+  "asr_wall_seconds": 960.609,
+  "finalized_utc": "2026-10-04T09:04:47.765703+00:00",
+  "current": null,
+  "name_correction": "complete_with_pending_fragments",
+  "name_correction_completed_utc": "2026-10-04T09:16:00.326907+00:00"
+}

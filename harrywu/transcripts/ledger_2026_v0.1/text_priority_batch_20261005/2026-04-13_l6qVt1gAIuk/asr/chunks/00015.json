@@ -1,0 +1,544 @@
+{
+  "begin": 4500.0,
+  "finish": 4800.0,
+  "segments": [
+    {
+      "start": 4498.0,
+      "end": 4527.98,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0598,
+      "no_speech_prob": 0.2129,
+      "review": false
+    },
+    {
+      "start": 4528.0,
+      "end": 4539.76,
+      "text": "你们真是,我免费给你的课程,免费给你的课程,你不去学习,我真要收你一个九千九,收你一个一万,你才愿意学吗?",
+      "avg_logprob": -0.1082,
+      "no_speech_prob": 0.1136,
+      "review": false
+    },
+    {
+      "start": 4540.92,
+      "end": 4556.22,
+      "text": "这么多知识点,你去搜嘛,油管,云丛学艺,你先把知识点一个一个先自己先学一学,你自己学了,我将来再做线下班啊,做线上班啊,给你讲一讲,把你的疑问讲一讲,你就能通。",
+      "avg_logprob": -0.1082,
+      "no_speech_prob": 0.1136,
+      "review": false
+    },
+    {
+      "start": 4556.22,
+      "end": 4559.6,
+      "text": "我跟你说玄学八字也好大人也好",
+      "avg_logprob": -0.1219,
+      "no_speech_prob": 0.2546,
+      "review": false
+    },
+    {
+      "start": 4559.6,
+      "end": 4561.52,
+      "text": "你自己不去学这些东西",
+      "avg_logprob": -0.1219,
+      "no_speech_prob": 0.2546,
+      "review": false
+    },
+    {
+      "start": 4561.52,
+      "end": 4563.36,
+      "text": "一点用都没有",
+      "avg_logprob": -0.1219,
+      "no_speech_prob": 0.2546,
+      "review": false
+    },
+    {
+      "start": 4563.36,
+      "end": 4565.76,
+      "text": "一个老师收你十万块钱",
+      "avg_logprob": -0.1219,
+      "no_speech_prob": 0.2546,
+      "review": false
+    },
+    {
+      "start": 4565.76,
+      "end": 4567.34,
+      "text": "手把手教你都学不会",
+      "avg_logprob": -0.1219,
+      "no_speech_prob": 0.2546,
+      "review": false
+    },
+    {
+      "start": 4567.34,
+      "end": 4567.96,
+      "text": "为什么呀",
+      "avg_logprob": -0.1219,
+      "no_speech_prob": 0.2546,
+      "review": false
+    },
+    {
+      "start": 4567.96,
+      "end": 4569.98,
+      "text": "你知基础过不了关",
+      "avg_logprob": -0.1219,
+      "no_speech_prob": 0.2546,
+      "review": false
+    },
+    {
+      "start": 4569.98,
+      "end": 4572.95,
+      "text": "你最简单的他说半天",
+      "avg_logprob": -0.1219,
+      "no_speech_prob": 0.2546,
+      "review": false
+    },
+    {
+      "start": 4572.95,
+      "end": 4573.67,
+      "text": "我跟你说",
+      "avg_logprob": -0.1219,
+      "no_speech_prob": 0.2546,
+      "review": false
+    },
+    {
+      "start": 4573.67,
+      "end": 4575.41,
+      "text": "一个老师跟你说半天",
+      "avg_logprob": -0.1219,
+      "no_speech_prob": 0.2546,
+      "review": false
+    },
+    {
+      "start": 4575.41,
+      "end": 4576.25,
+      "text": "他收你十万块钱",
+      "avg_logprob": -0.1219,
+      "no_speech_prob": 0.2546,
+      "review": false
+    },
+    {
+      "start": 4576.25,
+      "end": 4578.03,
+      "text": "说来我收你十万",
+      "avg_logprob": -0.1219,
+      "no_speech_prob": 0.2546,
+      "review": false
+    },
+    {
+      "start": 4578.03,
+      "end": 4579.17,
+      "text": "我教你真功夫",
+      "avg_logprob": -0.1219,
+      "no_speech_prob": 0.2546,
+      "review": false
+    },
+    {
+      "start": 4579.17,
+      "end": 4580.37,
+      "text": "教你什么秘诀",
+      "avg_logprob": -0.1219,
+      "no_speech_prob": 0.2546,
+      "review": false
+    },
+    {
+      "start": 4580.37,
+      "end": 4582.81,
+      "text": "我跟你说你一丁点都听不懂",
+      "avg_logprob": -0.1219,
+      "no_speech_prob": 0.2546,
+      "review": false
+    },
+    {
+      "start": 4582.81,
+      "end": 4583.51,
+      "text": "为什么呀",
+      "avg_logprob": -0.1219,
+      "no_speech_prob": 0.2546,
+      "review": false
+    },
+    {
+      "start": 4583.51,
+      "end": 4585.61,
+      "text": "因为你基础知识完全不行",
+      "avg_logprob": -0.1219,
+      "no_speech_prob": 0.2546,
+      "review": false
+    },
+    {
+      "start": 4585.61,
+      "end": 4587.61,
+      "text": "你先学我这些吧",
+      "avg_logprob": -0.1468,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 4587.61,
+      "end": 4590.65,
+      "text": "先把这所有的技术知识点全部打通",
+      "avg_logprob": -0.1468,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 4590.65,
+      "end": 4592.91,
+      "text": "基本上你要有个脉络",
+      "avg_logprob": -0.1468,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 4592.91,
+      "end": 4594.57,
+      "text": "基本上说啥",
+      "avg_logprob": -0.1468,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 4594.57,
+      "end": 4595.47,
+      "text": "一个人知道",
+      "avg_logprob": -0.1468,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 4595.47,
+      "end": 4597.23,
+      "text": "什么叫地质三行啊",
+      "avg_logprob": -0.1468,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 4597.23,
+      "end": 4598.47,
+      "text": "什么叫十二掌声啊",
+      "avg_logprob": -0.1468,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 4598.47,
+      "end": 4599.67,
+      "text": "什么叫自作掌声啊",
+      "avg_logprob": -0.1468,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 4599.67,
+      "end": 4601.51,
+      "text": "什么叫自作死目决啊",
+      "avg_logprob": -0.1468,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 4601.51,
+      "end": 4602.01,
+      "text": "是吧",
+      "avg_logprob": -0.1468,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 4602.01,
+      "end": 4603.03,
+      "text": "六川六海啊",
+      "avg_logprob": -0.1468,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 4603.03,
+      "end": 4603.81,
+      "text": "六冲啊",
+      "avg_logprob": -0.1468,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 4603.81,
+      "end": 4606.27,
+      "text": "是不是地质残干是啥东西啊",
+      "avg_logprob": -0.1468,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 4606.27,
+      "end": 4608.63,
+      "text": "你所有东西都要很清楚",
+      "avg_logprob": -0.1468,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 4608.63,
+      "end": 4611.23,
+      "text": "他有人再给你讲一下行吗",
+      "avg_logprob": -0.1468,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 4611.23,
+      "end": 4611.53,
+      "text": "好不好",
+      "avg_logprob": -0.1468,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 4611.53,
+      "end": 4612.51,
+      "text": "你要",
+      "avg_logprob": -0.1468,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 4612.51,
+      "end": 4614.57,
+      "text": "所以说学八字也好",
+      "avg_logprob": -0.1468,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 4614.57,
+      "end": 4615.37,
+      "text": "玄学也好",
+      "avg_logprob": -0.1468,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 4615.37,
+      "end": 4644.05,
+      "text": "6帧也好,梅花艺术也好,我跟你说,你给别人再多钱也交不回你,因为这玩意儿就是要一个很牢很扎实的基础功,你没有基础功,你去拜啥师傅都没用,真的我毫不夸张的说,你自己把基础功打好,师傅到时候就是把你的疑问一解答,一下子像个窗户纸一样捅破了,你就明白了,你要是基础功不到位,给再多钱都没用",
+      "avg_logprob": -0.0814,
+      "no_speech_prob": 0.1343,
+      "review": false
+    },
+    {
+      "start": 4644.05,
+      "end": 4674.03,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1076,
+      "no_speech_prob": 0.1534,
+      "review": false
+    },
+    {
+      "start": 4674.05,
+      "end": 4704.98,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1009,
+      "no_speech_prob": 0.0898,
+      "review": false
+    },
+    {
+      "start": 4705.0,
+      "end": 4747.64,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0975,
+      "no_speech_prob": 0.1698,
+      "review": false
+    },
+    {
+      "start": 4747.66,
+      "end": 4749.04,
+      "text": "放量大阳线",
+      "avg_logprob": -0.1119,
+      "no_speech_prob": 0.3049,
+      "review": false
+    },
+    {
+      "start": 4749.04,
+      "end": 4750.86,
+      "text": "如果真不放量也无所谓",
+      "avg_logprob": -0.1119,
+      "no_speech_prob": 0.3049,
+      "review": false
+    },
+    {
+      "start": 4750.86,
+      "end": 4754.02,
+      "text": "因为这个美股的这个量价分析是没有A股的明确",
+      "avg_logprob": -0.1119,
+      "no_speech_prob": 0.3049,
+      "review": false
+    },
+    {
+      "start": 4754.02,
+      "end": 4756.3,
+      "text": "但是你至少有一根大阳线",
+      "avg_logprob": -0.1119,
+      "no_speech_prob": 0.3049,
+      "review": false
+    },
+    {
+      "start": 4756.3,
+      "end": 4761.46,
+      "text": "因为这个大阳线在表示说真正的有机构或者大资金在参与",
+      "avg_logprob": -0.1119,
+      "no_speech_prob": 0.3049,
+      "review": false
+    },
+    {
+      "start": 4761.46,
+      "end": 4764.52,
+      "text": "如果像这次天天都是这种小烂K线",
+      "avg_logprob": -0.1119,
+      "no_speech_prob": 0.3049,
+      "review": false
+    },
+    {
+      "start": 4764.52,
+      "end": 4766.52,
+      "text": "这边大资金还不愿意参与",
+      "avg_logprob": -0.1119,
+      "no_speech_prob": 0.3049,
+      "review": false
+    },
+    {
+      "start": 4766.52,
+      "end": 4769.4,
+      "text": "你只有找到大资金才能找到后盾",
+      "avg_logprob": -0.1119,
+      "no_speech_prob": 0.3049,
+      "review": false
+    },
+    {
+      "start": 4769.4,
+      "end": 4770.0,
+      "text": "好不好",
+      "avg_logprob": -0.1119,
+      "no_speech_prob": 0.3049,
+      "review": false
+    },
+    {
+      "start": 4770.0,
+      "end": 4773.64,
+      "text": "小米不看啊",
+      "avg_logprob": -0.1119,
+      "no_speech_prob": 0.3049,
+      "review": false
+    },
+    {
+      "start": 4773.64,
+      "end": 4774.58,
+      "text": "小米有说过无数次",
+      "avg_logprob": -0.1119,
+      "no_speech_prob": 0.3049,
+      "review": false
+    },
+    {
+      "start": 4774.58,
+      "end": 4776.42,
+      "text": "这完全不行啊",
+      "avg_logprob": -0.1119,
+      "no_speech_prob": 0.3049,
+      "review": false
+    },
+    {
+      "start": 4776.42,
+      "end": 4778.12,
+      "text": "小米这个公司都出问题了",
+      "avg_logprob": -0.1119,
+      "no_speech_prob": 0.3049,
+      "review": false
+    },
+    {
+      "start": 4778.12,
+      "end": 4781.06,
+      "text": "整个的这个负面新闻又产生",
+      "avg_logprob": -0.1104,
+      "no_speech_prob": 0.1458,
+      "review": false
+    },
+    {
+      "start": 4781.06,
+      "end": 4783.82,
+      "text": "而且小米的又没有这个核心的竞争力",
+      "avg_logprob": -0.1104,
+      "no_speech_prob": 0.1458,
+      "review": false
+    },
+    {
+      "start": 4783.82,
+      "end": 4786.04,
+      "text": "如果你用巴菲特的",
+      "avg_logprob": -0.1104,
+      "no_speech_prob": 0.1458,
+      "review": false
+    },
+    {
+      "start": 4786.04,
+      "end": 4787.52,
+      "text": "我们先不说技术分析",
+      "avg_logprob": -0.1104,
+      "no_speech_prob": 0.1458,
+      "review": false
+    },
+    {
+      "start": 4787.52,
+      "end": 4788.58,
+      "text": "抛开技术分析",
+      "avg_logprob": -0.1104,
+      "no_speech_prob": 0.1458,
+      "review": false
+    },
+    {
+      "start": 4788.58,
+      "end": 4791.62,
+      "text": "你去用巴菲特他最简单的话说",
+      "avg_logprob": -0.1104,
+      "no_speech_prob": 0.1458,
+      "review": false
+    },
+    {
+      "start": 4791.62,
+      "end": 4793.14,
+      "text": "巴菲特评价一个公司",
+      "avg_logprob": -0.1104,
+      "no_speech_prob": 0.1458,
+      "review": false
+    },
+    {
+      "start": 4793.14,
+      "end": 4793.8,
+      "text": "非常简单",
+      "avg_logprob": -0.1104,
+      "no_speech_prob": 0.1458,
+      "review": false
+    },
+    {
+      "start": 4793.8,
+      "end": 4796.06,
+      "text": "你这个公司一句话跟我说完",
+      "avg_logprob": -0.1104,
+      "no_speech_prob": 0.1458,
+      "review": false
+    },
+    {
+      "start": 4796.06,
+      "end": 4797.36,
+      "text": "它的核心的护城河",
+      "avg_logprob": -0.1104,
+      "no_speech_prob": 0.1458,
+      "review": false
+    },
+    {
+      "start": 4797.36,
+      "end": 4799.38,
+      "text": "说实话小米是没有",
+      "avg_logprob": -0.1104,
+      "no_speech_prob": 0.1458,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 24.42
+}

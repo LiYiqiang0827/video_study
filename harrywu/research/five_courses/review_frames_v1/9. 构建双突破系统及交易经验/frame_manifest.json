@@ -1,0 +1,271 @@
+{
+  "schema": 1,
+  "source": "C:\\Users\\HarryWu_IOKI\\Videos\\飞云双突破\\For GPT\\9. 构建双突破系统及交易经验.mkv",
+  "duration": 1830.834,
+  "params": {
+    "source_sha256": "02dc5c3441a128da7a4327c7b5c13cc1dd1d5ac3009a5b71d8c8373fc439dc09",
+    "times": [
+      0.5,
+      60.5,
+      120.5,
+      180.5,
+      240.5,
+      300.5,
+      360.5,
+      420.5,
+      480.5,
+      540.5,
+      600.5,
+      660.5,
+      720.5,
+      780.5,
+      840.5,
+      900.5,
+      960.5,
+      1020.5,
+      1080.5,
+      1140.5,
+      1200.5,
+      1260.5,
+      1320.5,
+      1380.5,
+      1440.5,
+      1500.5,
+      1560.5,
+      1620.5,
+      1680.5,
+      1740.5,
+      1800.5
+    ],
+    "method": "accurate-seek-copyts-original-v1"
+  },
+  "frames": [
+    {
+      "requested_time": 0.5,
+      "time": 0.5,
+      "decoded_pts": 0.5,
+      "frame": "frame_00000_000000500.jpg",
+      "sha256": "93dca6f630f2354216d320e8168fd9ca2a6817af68c9bb5cfcb911127ae6e0cd"
+    },
+    {
+      "requested_time": 60.5,
+      "time": 60.5,
+      "decoded_pts": 60.5,
+      "frame": "frame_00001_000060500.jpg",
+      "sha256": "1c5b36a4b227fab77290bb00dfb6bec7c8128d2a9b43ccd06193ddbd3e73eb01"
+    },
+    {
+      "requested_time": 120.5,
+      "time": 120.5,
+      "decoded_pts": 120.5,
+      "frame": "frame_00002_000120500.jpg",
+      "sha256": "1ac47c12f88149d680509f3a1789bceff175c31221f3943fa6347998d26cd8f3"
+    },
+    {
+      "requested_time": 180.5,
+      "time": 180.5,
+      "decoded_pts": 180.5,
+      "frame": "frame_00003_000180500.jpg",
+      "sha256": "dc06f37bdd988de3afa6c2a80760e4496ad00a5b34a969213e9d4dae7bbc2fbd"
+    },
+    {
+      "requested_time": 240.5,
+      "time": 240.5,
+      "decoded_pts": 240.5,
+      "frame": "frame_00004_000240500.jpg",
+      "sha256": "9230e7f34f1ac5853dca3b9f88fc3d7eb6b6b10be65bf503d034c2d06af053bf"
+    },
+    {
+      "requested_time": 300.5,
+      "time": 300.5,
+      "decoded_pts": 300.5,
+      "frame": "frame_00005_000300500.jpg",
+      "sha256": "12ac656c98ed2e5352af33e2c8bed391640819b7af081645d5da4e0f4c26475a"
+    },
+    {
+      "requested_time": 360.5,
+      "time": 360.5,
+      "decoded_pts": 360.5,
+      "frame": "frame_00006_000360500.jpg",
+      "sha256": "a68d920f3c8df8964438655c93f8b54408c218695604cb76864749cd9d04b97e"
+    },
+    {
+      "requested_time": 420.5,
+      "time": 420.5,
+      "decoded_pts": 420.5,
+      "frame": "frame_00007_000420500.jpg",
+      "sha256": "49fe35aacd117a11325989c6bf45d48c707880dae22af8d14395ec27897f37ec"
+    },
+    {
+      "requested_time": 480.5,
+      "time": 480.5,
+      "decoded_pts": 480.5,
+      "frame": "frame_00008_000480500.jpg",
+      "sha256": "16400bb96b9113169c5d03b9977a1e1f8863e73a4c5ea714ad4dfeab543a54a9"
+    },
+    {
+      "requested_time": 540.5,
+      "time": 540.5,
+      "decoded_pts": 540.5,
+      "frame": "frame_00009_000540500.jpg",
+      "sha256": "48b0859e208ee4f43e395bd2edcd3ab51dae4bd159b28b7f3cf46cd3dd027b1a"
+    },
+    {
+      "requested_time": 600.5,
+      "time": 600.5,
+      "decoded_pts": 600.5,
+      "frame": "frame_00010_000600500.jpg",
+      "sha256": "de53fd7721e1a0ce31d867ba5a41d5c2848e29699a9ed10959d07adcb372ef12"
+    },
+    {
+      "requested_time": 660.5,
+      "time": 660.5,
+      "decoded_pts": 660.5,
+      "frame": "frame_00011_000660500.jpg",
+      "sha256": "9ac2b42ddedfd6ea45faf6bf895a29f41008801e996d5c16d583b9b2235052a8"
+    },
+    {
+      "requested_time": 720.5,
+      "time": 720.5,
+      "decoded_pts": 720.5,
+      "frame": "frame_00012_000720500.jpg",
+      "sha256": "bad51a19dc1620eff609b1c52cf8b28a35e9a4d1561681ccdf79e51fb96e7293"
+    },
+    {
+      "requested_time": 780.5,
+      "time": 780.5,
+      "decoded_pts": 780.5,
+      "frame": "frame_00013_000780500.jpg",
+      "sha256": "fae9455f773a3566991a1545b935eaf9bf1963b28857b104a3e0d8d115995be9"
+    },
+    {
+      "requested_time": 840.5,
+      "time": 840.5,
+      "decoded_pts": 840.5,
+      "frame": "frame_00014_000840500.jpg",
+      "sha256": "a652041662c67fe52307c30b4cf73aec4a3a83f3ed493406e19694ab233c36d0"
+    },
+    {
+      "requested_time": 900.5,
+      "time": 900.5,
+      "decoded_pts": 900.5,
+      "frame": "frame_00015_000900500.jpg",
+      "sha256": "cdcb709f5153761c272eb0c49de6e24e5d44a11c24956973406b4211c61ea7e2"
+    },
+    {
+      "requested_time": 960.5,
+      "time": 960.5,
+      "decoded_pts": 960.5,
+      "frame": "frame_00016_000960500.jpg",
+      "sha256": "826e4287347e0647a439b5636ebd5003191b5688fedf1e6034a3a1bf92319099"
+    },
+    {
+      "requested_time": 1020.5,
+      "time": 1020.5,
+      "decoded_pts": 1020.5,
+      "frame": "frame_00017_001020500.jpg",
+      "sha256": "021ea9e6590cb208c4c55128bae510d996c40263b14d56368bdd7d68a1742ad3"
+    },
+    {
+      "requested_time": 1080.5,
+      "time": 1080.5,
+      "decoded_pts": 1080.5,
+      "frame": "frame_00018_001080500.jpg",
+      "sha256": "ddb5599a8e3a2a6370cd246f8cef9cbc2ccc263c060ac07fed166cdf32eab0e8"
+    },
+    {
+      "requested_time": 1140.5,
+      "time": 1140.5,
+      "decoded_pts": 1140.5,
+      "frame": "frame_00019_001140500.jpg",
+      "sha256": "d43ba3fc7614c91704248b397e742478b9076c919889e80ba0fcc09873d9aed4"
+    },
+    {
+      "requested_time": 1200.5,
+      "time": 1200.5,
+      "decoded_pts": 1200.5,
+      "frame": "frame_00020_001200500.jpg",
+      "sha256": "b4a6a103148f49fa2335ef1309cb2ed71145ea46604fdddf071895b28f6b3642"
+    },
+    {
+      "requested_time": 1260.5,
+      "time": 1260.5,
+      "decoded_pts": 1260.5,
+      "frame": "frame_00021_001260500.jpg",
+      "sha256": "3f03b14d593c54385a21b32620fff542229344fb2b3003c0e90fb13625a9ee0b"
+    },
+    {
+      "requested_time": 1320.5,
+      "time": 1320.5,
+      "decoded_pts": 1320.5,
+      "frame": "frame_00022_001320500.jpg",
+      "sha256": "f95b997af8ddad381eb5205b1317901600906e8e68a7a3a283ed197144a6bf68"
+    },
+    {
+      "requested_time": 1380.5,
+      "time": 1380.5,
+      "decoded_pts": 1380.5,
+      "frame": "frame_00023_001380500.jpg",
+      "sha256": "61ddde40fa1f5e46caf8cd2f501b9ead18bc7713550e9ac5c470fdbc833b432d"
+    },
+    {
+      "requested_time": 1440.5,
+      "time": 1440.5,
+      "decoded_pts": 1440.5,
+      "frame": "frame_00024_001440500.jpg",
+      "sha256": "48393fbab605085bd15b916b103f476ea5ed718118dd124f87c3ab31918e2b5b"
+    },
+    {
+      "requested_time": 1500.5,
+      "time": 1500.5,
+      "decoded_pts": 1500.5,
+      "frame": "frame_00025_001500500.jpg",
+      "sha256": "ecf57db36ebab7d254a042aa7d5c0cb8a74fcc04b7db681ab01838106df473bb"
+    },
+    {
+      "requested_time": 1560.5,
+      "time": 1560.5,
+      "decoded_pts": 1560.5,
+      "frame": "frame_00026_001560500.jpg",
+      "sha256": "36624b545b47aef2a932a49694837495a091b44aeb0e6f7440d424124e2625fa"
+    },
+    {
+      "requested_time": 1620.5,
+      "time": 1620.5,
+      "decoded_pts": 1620.5,
+      "frame": "frame_00027_001620500.jpg",
+      "sha256": "86e70cdaf9cbebf1dd53272d77411635b3f5fa7a2dc350fc75613cb2cf9327bc"
+    },
+    {
+      "requested_time": 1680.5,
+      "time": 1680.5,
+      "decoded_pts": 1680.5,
+      "frame": "frame_00028_001680500.jpg",
+      "sha256": "21673b4402ea194646e50a1476ffeb192739b2df3cf012addbbec7f5d57b69eb"
+    },
+    {
+      "requested_time": 1740.5,
+      "time": 1740.5,
+      "decoded_pts": 1740.5,
+      "frame": "frame_00029_001740500.jpg",
+      "sha256": "cdb6d88a681d2d42a6324b27ad567831ae1f48f2c48349ace93e041b14c19d2c"
+    },
+    {
+      "requested_time": 1800.5,
+      "time": 1800.5,
+      "decoded_pts": 1800.5,
+      "frame": "frame_00030_001800500.jpg",
+      "sha256": "760658907f32fa5726fd3b66d0c863affe9bbe2a118ee0cf3c94965c21762231"
+    }
+  ],
+  "status": "complete",
+  "sheets": [
+    "sheet_001.jpg",
+    "sheet_002.jpg",
+    "sheet_003.jpg",
+    "sheet_004.jpg",
+    "sheet_005.jpg",
+    "sheet_006.jpg"
+  ],
+  "speech_extraction": "C:\\Project Rocket\\output\\feiyun_double_breakout\\platform_large_v3_v1\\9. 构建双突破系统及交易经验_02dc5c3441_0s_66f4580d"
+}

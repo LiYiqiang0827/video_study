@@ -1,0 +1,17 @@
+{
+  "asr": "complete",
+  "text": "complete",
+  "upload": "complete",
+  "stream_id": "MonICnSdMwU",
+  "created_utc": "2026-10-05T09:24:20.515639+00:00",
+  "asr_started_utc": "2026-10-05T09:55:10.790183+00:00",
+  "asr_finished_utc": "2026-10-05T10:03:30.975151+00:00",
+  "asr_wall_seconds": 500.172,
+  "return_code": 1,
+  "asr_acceptance": "source and outputs verified; derived evidence validation excludes only closing fixed ASR noise",
+  "asr_noise_exception": "D:\\YuncongVideoAnalysis\\ledger_2026_v0.1\\text_priority_batch_20261005\\2026-07-29_MonICnSdMwU\\asr_noise_exception.json",
+  "text_completed_utc": "2026-10-05T10:17:32.585397+00:00",
+  "stock_name_replacements": 103,
+  "pending_names": 7,
+  "cloud_receipt": "D:\\YuncongVideoAnalysis\\ledger_2026_v0.1\\text_priority_batch_20261005\\2026-07-29_MonICnSdMwU\\谷歌云盘上传记录.json"
+}

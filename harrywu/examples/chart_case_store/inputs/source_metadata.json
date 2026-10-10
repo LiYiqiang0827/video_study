@@ -1,0 +1,15 @@
+{
+  "case_id": "yuncong_20260109_002025_000632",
+  "stock": "002025.SZ",
+  "name_from_original_frame": "航天电器",
+  "video_id": "XSFwu5KOo5Y",
+  "video_seconds": 632,
+  "stream_start_beijing": "2026-01-09T09:12:34+08:00",
+  "offset_implied_time": "2026-01-09T09:23:06+08:00",
+  "screen_clock": "2026-01-09T09:22:33+08:00",
+  "chosen_cutoff": "2026-01-09T09:22:33+08:00",
+  "confidence": "medium",
+  "reason": "两来源均在开盘前；采用较早的屏幕时钟，价格仅显示1月8日及以前已收盘日线；不声称已解决33秒偏差或还原集合竞价。",
+  "video_sha256": "686fe6e957c25ff6e6ebdb8f94200c8b6fb803bafde54f8b2bc3f7ad0c74721b",
+  "frame_sha256": "768f1e82c845d9a4fd505b5e0ccd9fb1add2197d8e889ea383991f24c4572b43"
+}

@@ -1,0 +1,576 @@
+{
+  "begin": 300.0,
+  "finish": 600.0,
+  "segments": [
+    {
+      "start": 298.0,
+      "end": 314.16,
+      "text": "今天要是低开的话,小心一点哦,今天是几星年珠,刚才我要看了,给大家看了,六星年珠还是五星年珠,有这种天象,一般的有这种天象啊,不好的天象啊,往往市场就要出现巨大的震荡,大家小心一点",
+      "avg_logprob": -0.128,
+      "no_speech_prob": 0.6055,
+      "review": true
+    },
+    {
+      "start": 314.16,
+      "end": 322.62,
+      "text": "诶,我进来看看八字口,我看一下啊,是个啥八字,今天我看市场是个啥八字啊",
+      "avg_logprob": -0.128,
+      "no_speech_prob": 0.6055,
+      "review": true
+    },
+    {
+      "start": 322.62,
+      "end": 337.55,
+      "text": "丙五年丙深月",
+      "avg_logprob": -0.2368,
+      "no_speech_prob": 0.1396,
+      "review": false
+    },
+    {
+      "start": 337.55,
+      "end": 357.8,
+      "text": "看日子嘛不带凶",
+      "avg_logprob": -0.2368,
+      "no_speech_prob": 0.1396,
+      "review": false
+    },
+    {
+      "start": 357.8,
+      "end": 361.18,
+      "text": "这个五火是生物土的",
+      "avg_logprob": -0.2368,
+      "no_speech_prob": 0.1396,
+      "review": false
+    },
+    {
+      "start": 361.18,
+      "end": 363.4,
+      "text": "地支五火是生物土的",
+      "avg_logprob": -0.2368,
+      "no_speech_prob": 0.1396,
+      "review": false
+    },
+    {
+      "start": 363.4,
+      "end": 367.9,
+      "text": "然后呢天干这个丙火也是生物土的",
+      "avg_logprob": -0.2368,
+      "no_speech_prob": 0.1396,
+      "review": false
+    },
+    {
+      "start": 367.9,
+      "end": 369.32,
+      "text": "看日子不是凶",
+      "avg_logprob": -0.2368,
+      "no_speech_prob": 0.1396,
+      "review": false
+    },
+    {
+      "start": 369.32,
+      "end": 372.76,
+      "text": "地支的这个两个五火是刻这个神经的",
+      "avg_logprob": -0.2368,
+      "no_speech_prob": 0.1396,
+      "review": false
+    },
+    {
+      "start": 372.76,
+      "end": 375.88,
+      "text": "两个我夹着磕这个神经去治这个神经的",
+      "avg_logprob": -0.1349,
+      "no_speech_prob": 0.2089,
+      "review": false
+    },
+    {
+      "start": 375.88,
+      "end": 377.7,
+      "text": "但是也没有什么大的凶",
+      "avg_logprob": -0.1349,
+      "no_speech_prob": 0.2089,
+      "review": false
+    },
+    {
+      "start": 377.7,
+      "end": 379.34,
+      "text": "也没有什么天磕地冲啊",
+      "avg_logprob": -0.1349,
+      "no_speech_prob": 0.2089,
+      "review": false
+    },
+    {
+      "start": 379.34,
+      "end": 380.24,
+      "text": "也没有啥",
+      "avg_logprob": -0.1349,
+      "no_speech_prob": 0.2089,
+      "review": false
+    },
+    {
+      "start": 380.24,
+      "end": 381.56,
+      "text": "不算",
+      "avg_logprob": -0.1349,
+      "no_speech_prob": 0.2089,
+      "review": false
+    },
+    {
+      "start": 381.56,
+      "end": 383.86,
+      "text": "看日子倒不算特别凶啊",
+      "avg_logprob": -0.1349,
+      "no_speech_prob": 0.2089,
+      "review": false
+    },
+    {
+      "start": 383.86,
+      "end": 387.08,
+      "text": "看日子不是很凶的日子",
+      "avg_logprob": -0.1349,
+      "no_speech_prob": 0.2089,
+      "review": false
+    },
+    {
+      "start": 387.08,
+      "end": 388.88,
+      "text": "反正有奇特的天象",
+      "avg_logprob": -0.1349,
+      "no_speech_prob": 0.2089,
+      "review": false
+    },
+    {
+      "start": 388.88,
+      "end": 399.33,
+      "text": "很容易要买在最高",
+      "avg_logprob": -0.1349,
+      "no_speech_prob": 0.2089,
+      "review": false
+    },
+    {
+      "start": 399.33,
+      "end": 400.23,
+      "text": "卖在最低",
+      "avg_logprob": -0.1349,
+      "no_speech_prob": 0.2089,
+      "review": false
+    },
+    {
+      "start": 400.23,
+      "end": 400.65,
+      "text": "对啊",
+      "avg_logprob": -0.1349,
+      "no_speech_prob": 0.2089,
+      "review": false
+    },
+    {
+      "start": 400.65,
+      "end": 401.41,
+      "text": "那肯定是的",
+      "avg_logprob": -0.1349,
+      "no_speech_prob": 0.2089,
+      "review": false
+    },
+    {
+      "start": 401.41,
+      "end": 404.12,
+      "text": "市场没有八字",
+      "avg_logprob": -0.1349,
+      "no_speech_prob": 0.2089,
+      "review": false
+    },
+    {
+      "start": 404.12,
+      "end": 405.66,
+      "text": "只是有些特殊的日子",
+      "avg_logprob": -0.1349,
+      "no_speech_prob": 0.2089,
+      "review": false
+    },
+    {
+      "start": 405.66,
+      "end": 406.32,
+      "text": "我们看一眼",
+      "avg_logprob": -0.1349,
+      "no_speech_prob": 0.2089,
+      "review": false
+    },
+    {
+      "start": 406.32,
+      "end": 408.88,
+      "text": "因为市场八字不知道怎么看",
+      "avg_logprob": -0.1349,
+      "no_speech_prob": 0.2089,
+      "review": false
+    },
+    {
+      "start": 408.88,
+      "end": 409.66,
+      "text": "我也不知道怎么看",
+      "avg_logprob": -0.1349,
+      "no_speech_prob": 0.2089,
+      "review": false
+    },
+    {
+      "start": 409.66,
+      "end": 410.06,
+      "text": "说实话",
+      "avg_logprob": -0.1349,
+      "no_speech_prob": 0.2089,
+      "review": false
+    },
+    {
+      "start": 410.06,
+      "end": 410.9,
+      "text": "我估计也很难",
+      "avg_logprob": -0.1349,
+      "no_speech_prob": 0.2089,
+      "review": false
+    },
+    {
+      "start": 410.9,
+      "end": 412.66,
+      "text": "好,我们赶快看看开盘了",
+      "avg_logprob": -0.2346,
+      "no_speech_prob": 0.1577,
+      "review": false
+    },
+    {
+      "start": 412.66,
+      "end": 415.14,
+      "text": "看看刚才我看到这个有没有涨",
+      "avg_logprob": -0.2346,
+      "no_speech_prob": 0.1577,
+      "review": false
+    },
+    {
+      "start": 415.14,
+      "end": 418.22,
+      "text": "今天的这个重点关注的这个",
+      "avg_logprob": -0.2346,
+      "no_speech_prob": 0.1577,
+      "review": false
+    },
+    {
+      "start": 418.22,
+      "end": 421.27,
+      "text": "还好啊,都没有跌,你看",
+      "avg_logprob": -0.2346,
+      "no_speech_prob": 0.1577,
+      "review": false
+    },
+    {
+      "start": 421.27,
+      "end": 424.31,
+      "text": "蓝色光标、抗热化尘、卡带印、招银线都没有跌",
+      "avg_logprob": -0.2346,
+      "no_speech_prob": 0.1577,
+      "review": false
+    },
+    {
+      "start": 424.31,
+      "end": 425.35,
+      "text": "挺好的,挺好的",
+      "avg_logprob": -0.2346,
+      "no_speech_prob": 0.1577,
+      "review": false
+    },
+    {
+      "start": 425.35,
+      "end": 429.79,
+      "text": "我看到这个华南盟店,哎哟,华南盟店没有高开",
+      "avg_logprob": -0.2346,
+      "no_speech_prob": 0.1577,
+      "review": false
+    },
+    {
+      "start": 429.79,
+      "end": 431.8,
+      "text": "没有高开",
+      "avg_logprob": -0.2346,
+      "no_speech_prob": 0.1577,
+      "review": false
+    },
+    {
+      "start": 431.8,
+      "end": 434.0,
+      "text": "那证明今天电力还上不去",
+      "avg_logprob": -0.2346,
+      "no_speech_prob": 0.1577,
+      "review": false
+    },
+    {
+      "start": 434.0,
+      "end": 435.98,
+      "text": "小心一点就",
+      "avg_logprob": -0.2346,
+      "no_speech_prob": 0.1577,
+      "review": false
+    },
+    {
+      "start": 435.98,
+      "end": 438.46,
+      "text": "没有高开",
+      "avg_logprob": -0.2346,
+      "no_speech_prob": 0.1577,
+      "review": false
+    },
+    {
+      "start": 438.46,
+      "end": 444.76,
+      "text": "就是童谣石油今天放在这里面",
+      "avg_logprob": -0.161,
+      "no_speech_prob": 0.5527,
+      "review": true
+    },
+    {
+      "start": 444.76,
+      "end": 448.5,
+      "text": "今天就把这个删了",
+      "avg_logprob": -0.161,
+      "no_speech_prob": 0.5527,
+      "review": true
+    },
+    {
+      "start": 448.5,
+      "end": 449.28,
+      "text": "这是昨天的了",
+      "avg_logprob": -0.161,
+      "no_speech_prob": 0.5527,
+      "review": true
+    },
+    {
+      "start": 449.28,
+      "end": 450.48,
+      "text": "昨天关注的一些",
+      "avg_logprob": -0.161,
+      "no_speech_prob": 0.5527,
+      "review": true
+    },
+    {
+      "start": 450.48,
+      "end": 453.86,
+      "text": "好",
+      "avg_logprob": -0.161,
+      "no_speech_prob": 0.5527,
+      "review": true
+    },
+    {
+      "start": 453.86,
+      "end": 455.76,
+      "text": "我们来看看吧",
+      "avg_logprob": -0.161,
+      "no_speech_prob": 0.5527,
+      "review": true
+    },
+    {
+      "start": 455.76,
+      "end": 456.68,
+      "text": "看看今天有啥",
+      "avg_logprob": -0.161,
+      "no_speech_prob": 0.5527,
+      "review": true
+    },
+    {
+      "start": 456.68,
+      "end": 461.64,
+      "text": "今天整个的市场还是跌的吗",
+      "avg_logprob": -0.161,
+      "no_speech_prob": 0.5527,
+      "review": true
+    },
+    {
+      "start": 461.64,
+      "end": 464.08,
+      "text": "整个市场2700只下跌",
+      "avg_logprob": -0.161,
+      "no_speech_prob": 0.5527,
+      "review": true
+    },
+    {
+      "start": 464.08,
+      "end": 465.6,
+      "text": "上涨1800只",
+      "avg_logprob": -0.161,
+      "no_speech_prob": 0.5527,
+      "review": true
+    },
+    {
+      "start": 465.6,
+      "end": 467.34,
+      "text": "整个市场还是跌的",
+      "avg_logprob": -0.161,
+      "no_speech_prob": 0.5527,
+      "review": true
+    },
+    {
+      "start": 467.34,
+      "end": 468.74,
+      "text": "然后涨幅榜",
+      "avg_logprob": -0.161,
+      "no_speech_prob": 0.5527,
+      "review": true
+    },
+    {
+      "start": 468.74,
+      "end": 470.16,
+      "text": "赶快看看涨幅榜跌幅榜",
+      "avg_logprob": -0.161,
+      "no_speech_prob": 0.5527,
+      "review": true
+    },
+    {
+      "start": 470.16,
+      "end": 471.0,
+      "text": "大概是哪些",
+      "avg_logprob": -0.161,
+      "no_speech_prob": 0.5527,
+      "review": true
+    },
+    {
+      "start": 471.0,
+      "end": 478.45,
+      "text": "软件半导体还是有点涨",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.436,
+      "review": false
+    },
+    {
+      "start": 478.45,
+      "end": 480.39,
+      "text": "软件半导体算力",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.436,
+      "review": false
+    },
+    {
+      "start": 480.39,
+      "end": 482.43,
+      "text": "跌的是煤炭",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.436,
+      "review": false
+    },
+    {
+      "start": 482.43,
+      "end": 485.14,
+      "text": "医药在开始跌了",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.436,
+      "review": false
+    },
+    {
+      "start": 485.14,
+      "end": 487.36,
+      "text": "这两天今天医药估计不行了",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.436,
+      "review": false
+    },
+    {
+      "start": 487.36,
+      "end": 488.78,
+      "text": "今天医药整体还是不行",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.436,
+      "review": false
+    },
+    {
+      "start": 488.78,
+      "end": 489.9,
+      "text": "现在开盘",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.436,
+      "review": false
+    },
+    {
+      "start": 489.9,
+      "end": 491.1,
+      "text": "煤炭医药",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.436,
+      "review": false
+    },
+    {
+      "start": 491.1,
+      "end": 495.04,
+      "text": "软件在开始涨",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.436,
+      "review": false
+    },
+    {
+      "start": 495.04,
+      "end": 496.54,
+      "text": "我已经没有软件股了",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.436,
+      "review": false
+    },
+    {
+      "start": 496.54,
+      "end": 500.59,
+      "text": "我看我是不是那个有一个小软件股",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.436,
+      "review": false
+    },
+    {
+      "start": 500.59,
+      "end": 501.25,
+      "text": "但仓位不重",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.436,
+      "review": false
+    },
+    {
+      "start": 501.25,
+      "end": 504.81,
+      "text": "就是那个凯因网络",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.436,
+      "review": false
+    },
+    {
+      "start": 504.81,
+      "end": 505.79,
+      "text": "仓位不重",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.436,
+      "review": false
+    },
+    {
+      "start": 505.79,
+      "end": 509.38,
+      "text": "蓝色光标算软件股",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.436,
+      "review": false
+    },
+    {
+      "start": 509.38,
+      "end": 510.5,
+      "text": "蓝色光标我有",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.436,
+      "review": false
+    },
+    {
+      "start": 510.5,
+      "end": 544.93,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0844,
+      "no_speech_prob": 0.0977,
+      "review": false
+    },
+    {
+      "start": 544.95,
+      "end": 586.4,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1051,
+      "no_speech_prob": 0.0,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 21.19
+}

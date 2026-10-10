@@ -1,0 +1,552 @@
+{
+  "begin": 1200.0,
+  "finish": 1500.0,
+  "segments": [
+    {
+      "start": 1198.84,
+      "end": 1203.44,
+      "text": "不行,他位置不好,他现在上去补缺口,这种我一般都不做",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1203.44,
+      "end": 1207.88,
+      "text": "他去补缺口,这种位置不好,这种位置不好,我就不跟了,这个题材",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1207.88,
+      "end": 1220.88,
+      "text": "那么,储存芯片,储存芯片这个超级反弹,这个不能跟,这个不能跟,为什么呀",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1220.88,
+      "end": 1225.18,
+      "text": "美股这样暴涨,那美股一回调,他们还不得回调,不能跟",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1227.02,
+      "end": 1231.32,
+      "text": "半导体,半导体设备,哦,今天其实半导体设备",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1231.32,
+      "end": 1234.46,
+      "text": "开盘倒是该做一个ETF",
+      "avg_logprob": -0.1056,
+      "no_speech_prob": 0.1887,
+      "review": false
+    },
+    {
+      "start": 1234.46,
+      "end": 1235.88,
+      "text": "我在会员里面说",
+      "avg_logprob": -0.1056,
+      "no_speech_prob": 0.1887,
+      "review": false
+    },
+    {
+      "start": 1235.88,
+      "end": 1238.28,
+      "text": "我说我们今天要做一点半导体设备的ETF",
+      "avg_logprob": -0.1056,
+      "no_speech_prob": 0.1887,
+      "review": false
+    },
+    {
+      "start": 1238.28,
+      "end": 1240.08,
+      "text": "我自己开盘的时候",
+      "avg_logprob": -0.1056,
+      "no_speech_prob": 0.1887,
+      "review": false
+    },
+    {
+      "start": 1240.08,
+      "end": 1241.2,
+      "text": "因为我处理太晨光",
+      "avg_logprob": -0.1056,
+      "no_speech_prob": 0.1887,
+      "review": false
+    },
+    {
+      "start": 1241.2,
+      "end": 1242.3,
+      "text": "把我影响了",
+      "avg_logprob": -0.1056,
+      "no_speech_prob": 0.1887,
+      "review": false
+    },
+    {
+      "start": 1242.3,
+      "end": 1243.08,
+      "text": "不然的话",
+      "avg_logprob": -0.1056,
+      "no_speech_prob": 0.1887,
+      "review": false
+    },
+    {
+      "start": 1243.08,
+      "end": 1244.9,
+      "text": "我今天可能低价的时候",
+      "avg_logprob": -0.1056,
+      "no_speech_prob": 0.1887,
+      "review": false
+    },
+    {
+      "start": 1244.9,
+      "end": 1246.52,
+      "text": "买一点半导体设备的ETF",
+      "avg_logprob": -0.1056,
+      "no_speech_prob": 0.1887,
+      "review": false
+    },
+    {
+      "start": 1246.52,
+      "end": 1248.54,
+      "text": "其实是应该是正确的",
+      "avg_logprob": -0.1056,
+      "no_speech_prob": 0.1887,
+      "review": false
+    },
+    {
+      "start": 1248.54,
+      "end": 1249.96,
+      "text": "或者半导体的ETF",
+      "avg_logprob": -0.1056,
+      "no_speech_prob": 0.1887,
+      "review": false
+    },
+    {
+      "start": 1249.96,
+      "end": 1253.83,
+      "text": "这个这样做法",
+      "avg_logprob": -0.1056,
+      "no_speech_prob": 0.1887,
+      "review": false
+    },
+    {
+      "start": 1253.83,
+      "end": 1254.77,
+      "text": "其实半导体的",
+      "avg_logprob": -0.1056,
+      "no_speech_prob": 0.1887,
+      "review": false
+    },
+    {
+      "start": 1254.77,
+      "end": 1257.25,
+      "text": "半导体的ETF做一点还是正确的",
+      "avg_logprob": -0.1056,
+      "no_speech_prob": 0.1887,
+      "review": false
+    },
+    {
+      "start": 1257.25,
+      "end": 1257.69,
+      "text": "说实话",
+      "avg_logprob": -0.1056,
+      "no_speech_prob": 0.1887,
+      "review": false
+    },
+    {
+      "start": 1257.69,
+      "end": 1259.37,
+      "text": "半导体的ETF",
+      "avg_logprob": -0.1056,
+      "no_speech_prob": 0.1887,
+      "review": false
+    },
+    {
+      "start": 1259.37,
+      "end": 1266.67,
+      "text": "但是没有做在第一时间",
+      "avg_logprob": -0.1056,
+      "no_speech_prob": 0.1887,
+      "review": false
+    },
+    {
+      "start": 1266.67,
+      "end": 1267.55,
+      "text": "那就算了吧",
+      "avg_logprob": -0.2063,
+      "no_speech_prob": 0.0757,
+      "review": false
+    },
+    {
+      "start": 1267.55,
+      "end": 1271.71,
+      "text": "看一下今天资金还是在打云南折叶",
+      "avg_logprob": -0.2063,
+      "no_speech_prob": 0.0757,
+      "review": false
+    },
+    {
+      "start": 1271.71,
+      "end": 1273.41,
+      "text": "你看这是昨天我排队的",
+      "avg_logprob": -0.2063,
+      "no_speech_prob": 0.0757,
+      "review": false
+    },
+    {
+      "start": 1273.41,
+      "end": 1275.21,
+      "text": "可惜没排上",
+      "avg_logprob": -0.2063,
+      "no_speech_prob": 0.0757,
+      "review": false
+    },
+    {
+      "start": 1275.21,
+      "end": 1276.46,
+      "text": "紫光",
+      "avg_logprob": -0.2063,
+      "no_speech_prob": 0.0757,
+      "review": false
+    },
+    {
+      "start": 1276.46,
+      "end": 1280.8,
+      "text": "网易招新起来了",
+      "avg_logprob": -0.2063,
+      "no_speech_prob": 0.0757,
+      "review": false
+    },
+    {
+      "start": 1280.8,
+      "end": 1289.13,
+      "text": "寒武纪",
+      "avg_logprob": -0.2063,
+      "no_speech_prob": 0.0757,
+      "review": false
+    },
+    {
+      "start": 1289.13,
+      "end": 1290.93,
+      "text": "半导体还是起来了",
+      "avg_logprob": -0.2063,
+      "no_speech_prob": 0.0757,
+      "review": false
+    },
+    {
+      "start": 1290.93,
+      "end": 1292.65,
+      "text": "还是在走",
+      "avg_logprob": -0.2063,
+      "no_speech_prob": 0.0757,
+      "review": false
+    },
+    {
+      "start": 1292.65,
+      "end": 1317.42,
+      "text": "半导体就是选个股不好选",
+      "avg_logprob": -0.2063,
+      "no_speech_prob": 0.0757,
+      "review": false
+    },
+    {
+      "start": 1317.42,
+      "end": 1320.76,
+      "text": "选个股现在我觉得只有选那TF了",
+      "avg_logprob": -0.2063,
+      "no_speech_prob": 0.0757,
+      "review": false
+    },
+    {
+      "start": 1320.76,
+      "end": 1322.6,
+      "text": "整个半导体现在",
+      "avg_logprob": -0.2063,
+      "no_speech_prob": 0.0757,
+      "review": false
+    },
+    {
+      "start": 1322.6,
+      "end": 1328.52,
+      "text": "其实北京军政挺好的",
+      "avg_logprob": -0.2063,
+      "no_speech_prob": 0.0757,
+      "review": false
+    },
+    {
+      "start": 1328.52,
+      "end": 1332.52,
+      "text": "北京军阵我一直觉得它非常的好",
+      "avg_logprob": -0.1496,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 1332.52,
+      "end": 1333.66,
+      "text": "看你们自己的",
+      "avg_logprob": -0.1496,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 1333.66,
+      "end": 1336.02,
+      "text": "我个人觉得整个的半道题肯定是反弹",
+      "avg_logprob": -0.1496,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 1336.02,
+      "end": 1336.82,
+      "text": "还是可以做的",
+      "avg_logprob": -0.1496,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 1336.82,
+      "end": 1338.66,
+      "text": "但是选哪一支真的很难",
+      "avg_logprob": -0.1496,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 1338.66,
+      "end": 1339.98,
+      "text": "真的很难",
+      "avg_logprob": -0.1496,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 1339.98,
+      "end": 1341.7,
+      "text": "选哪一支真的很难",
+      "avg_logprob": -0.1496,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 1341.7,
+      "end": 1343.08,
+      "text": "我们看看半道题ETF吧",
+      "avg_logprob": -0.1496,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 1343.08,
+      "end": 1344.54,
+      "text": "就选那ETF吧",
+      "avg_logprob": -0.1496,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 1344.54,
+      "end": 1346.66,
+      "text": "实在没有就选那ETF其实最好的",
+      "avg_logprob": -0.1496,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 1346.66,
+      "end": 1348.54,
+      "text": "最稳最稳",
+      "avg_logprob": -0.1496,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 1348.54,
+      "end": 1362.62,
+      "text": "就是你可以买了不动它",
+      "avg_logprob": -0.1496,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 1362.62,
+      "end": 1370.51,
+      "text": "我们看看ETF在哪里",
+      "avg_logprob": -0.1496,
+      "no_speech_prob": 0.1223,
+      "review": false
+    },
+    {
+      "start": 1370.51,
+      "end": 1382.02,
+      "text": "就是每一个软件它其实都比较",
+      "avg_logprob": -0.1746,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1382.02,
+      "end": 1384.12,
+      "text": "每一个软件它都比较那个",
+      "avg_logprob": -0.1746,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1384.12,
+      "end": 1386.98,
+      "text": "就是我用的软件和这个又不一样",
+      "avg_logprob": -0.1746,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1386.98,
+      "end": 1388.6,
+      "text": "没关系打字吧",
+      "avg_logprob": -0.1746,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1388.6,
+      "end": 1392.2,
+      "text": "半导体ETF",
+      "avg_logprob": -0.1746,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1392.2,
+      "end": 1416.83,
+      "text": "不是这个",
+      "avg_logprob": -0.1746,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1416.83,
+      "end": 1426.43,
+      "text": "我这个不好找",
+      "avg_logprob": -0.1746,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1426.43,
+      "end": 1427.11,
+      "text": "我在这个里面找",
+      "avg_logprob": -0.1746,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1427.11,
+      "end": 1428.31,
+      "text": "等一下我这边马上就有",
+      "avg_logprob": -0.1746,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1428.31,
+      "end": 1476.61,
+      "text": "今天其实有一点点遗憾",
+      "avg_logprob": -0.1746,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1476.61,
+      "end": 1477.09,
+      "text": "说实话",
+      "avg_logprob": -0.1746,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1477.09,
+      "end": 1479.15,
+      "text": "我开盘去处理这个事情去了",
+      "avg_logprob": -0.1746,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1479.15,
+      "end": 1483.14,
+      "text": "今天不然今天开盘",
+      "avg_logprob": -0.1506,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1483.14,
+      "end": 1486.12,
+      "text": "集合竞价买半导体是最完美的",
+      "avg_logprob": -0.1506,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1486.12,
+      "end": 1489.34,
+      "text": "集合竞价买半导体ETF是最完美的",
+      "avg_logprob": -0.1506,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1489.34,
+      "end": 1490.52,
+      "text": "现在也上去了",
+      "avg_logprob": -0.1506,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1490.52,
+      "end": 1492.4,
+      "text": "全不上去了",
+      "avg_logprob": -0.1506,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1492.4,
+      "end": 1495.93,
+      "text": "哎呀可惜了可惜了可惜了",
+      "avg_logprob": -0.1506,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1495.93,
+      "end": 1498.48,
+      "text": "那我就晚一点再说吧",
+      "avg_logprob": -0.1506,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 1498.48,
+      "end": 1499.74,
+      "text": "太可惜了",
+      "avg_logprob": -0.1506,
+      "no_speech_prob": 0.0,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 14.19
+}

@@ -1,0 +1,576 @@
+{
+  "begin": 6900.0,
+  "finish": 7200.0,
+  "segments": [
+    {
+      "start": 6903.16,
+      "end": 6912.22,
+      "text": "有些时候有漏网之鱼,有些时候是它后面起来了,因为它中间,越到后面它就越好",
+      "avg_logprob": -0.1418,
+      "no_speech_prob": 0.9819,
+      "review": true
+    },
+    {
+      "start": 6912.22,
+      "end": 6918.4,
+      "text": "我给大家说一下,你们尽量找45度角的,45度角的它的资金一般的不会骗人,明白吧?",
+      "avg_logprob": -0.1418,
+      "no_speech_prob": 0.9819,
+      "review": true
+    },
+    {
+      "start": 6918.46,
+      "end": 6924.72,
+      "text": "不要找一早上就拉伸的,就是永远找45度角,你看南四我看是不是45度角",
+      "avg_logprob": -0.1418,
+      "no_speech_prob": 0.9819,
+      "review": true
+    },
+    {
+      "start": 6924.72,
+      "end": 6930.05,
+      "text": "你看,大家看,你尽量找这种,就是这种",
+      "avg_logprob": -0.0947,
+      "no_speech_prob": 0.2194,
+      "review": false
+    },
+    {
+      "start": 6930.05,
+      "end": 6935.73,
+      "text": "这种一般的,这种一般的就不是骗人的,这种一般的就是很正常的",
+      "avg_logprob": -0.0947,
+      "no_speech_prob": 0.2194,
+      "review": false
+    },
+    {
+      "start": 6935.73,
+      "end": 6938.17,
+      "text": "它下午直接跌下来可能性也比较小",
+      "avg_logprob": -0.0947,
+      "no_speech_prob": 0.2194,
+      "review": false
+    },
+    {
+      "start": 6938.17,
+      "end": 6944.51,
+      "text": "尽量找这种45度角的,尽量找这种或者是横盘,小幅横盘,突破的",
+      "avg_logprob": -0.0947,
+      "no_speech_prob": 0.2194,
+      "review": false
+    },
+    {
+      "start": 6944.51,
+      "end": 6948.23,
+      "text": "它和看日线是一模一样的,其实看分析图和看日线几乎是一样的",
+      "avg_logprob": -0.0947,
+      "no_speech_prob": 0.2194,
+      "review": false
+    },
+    {
+      "start": 6948.23,
+      "end": 6951.83,
+      "text": "几乎是一样的,就是你们找这种成功率比较高一点",
+      "avg_logprob": -0.0947,
+      "no_speech_prob": 0.2194,
+      "review": false
+    },
+    {
+      "start": 6951.83,
+      "end": 6953.39,
+      "text": "特别是找下午这种",
+      "avg_logprob": -0.0947,
+      "no_speech_prob": 0.2194,
+      "review": false
+    },
+    {
+      "start": 6953.39,
+      "end": 6956.44,
+      "text": "你看今天中国飞车也是这样子的",
+      "avg_logprob": -0.1621,
+      "no_speech_prob": 0.4817,
+      "review": false
+    },
+    {
+      "start": 6956.44,
+      "end": 6957.36,
+      "text": "你看一上午是吧",
+      "avg_logprob": -0.1621,
+      "no_speech_prob": 0.4817,
+      "review": false
+    },
+    {
+      "start": 6957.36,
+      "end": 6958.62,
+      "text": "它都是慢慢的",
+      "avg_logprob": -0.1621,
+      "no_speech_prob": 0.4817,
+      "review": false
+    },
+    {
+      "start": 6958.62,
+      "end": 6959.26,
+      "text": "你看是不是",
+      "avg_logprob": -0.1621,
+      "no_speech_prob": 0.4817,
+      "review": false
+    },
+    {
+      "start": 6959.26,
+      "end": 6960.86,
+      "text": "它都长得很健康的",
+      "avg_logprob": -0.1621,
+      "no_speech_prob": 0.4817,
+      "review": false
+    },
+    {
+      "start": 6960.86,
+      "end": 6962.02,
+      "text": "这就是很健康的",
+      "avg_logprob": -0.1621,
+      "no_speech_prob": 0.4817,
+      "review": false
+    },
+    {
+      "start": 6962.02,
+      "end": 6963.42,
+      "text": "这就是很健康的",
+      "avg_logprob": -0.1621,
+      "no_speech_prob": 0.4817,
+      "review": false
+    },
+    {
+      "start": 6963.42,
+      "end": 6965.7,
+      "text": "那种一上来就给你猛拉那种",
+      "avg_logprob": -0.1621,
+      "no_speech_prob": 0.4817,
+      "review": false
+    },
+    {
+      "start": 6965.7,
+      "end": 6967.7,
+      "text": "啪的像拉上去那种",
+      "avg_logprob": -0.1621,
+      "no_speech_prob": 0.4817,
+      "review": false
+    },
+    {
+      "start": 6967.7,
+      "end": 6968.64,
+      "text": "小心",
+      "avg_logprob": -0.1621,
+      "no_speech_prob": 0.4817,
+      "review": false
+    },
+    {
+      "start": 6968.64,
+      "end": 6971.46,
+      "text": "那种有时候很极端",
+      "avg_logprob": -0.1621,
+      "no_speech_prob": 0.4817,
+      "review": false
+    },
+    {
+      "start": 6971.46,
+      "end": 6972.64,
+      "text": "有时候就骗人的",
+      "avg_logprob": -0.1621,
+      "no_speech_prob": 0.4817,
+      "review": false
+    },
+    {
+      "start": 6972.64,
+      "end": 6988.22,
+      "text": "你看这个就不是吗",
+      "avg_logprob": -0.1621,
+      "no_speech_prob": 0.4817,
+      "review": false
+    },
+    {
+      "start": 6988.22,
+      "end": 6988.54,
+      "text": "是不是",
+      "avg_logprob": -0.1621,
+      "no_speech_prob": 0.4817,
+      "review": false
+    },
+    {
+      "start": 6988.54,
+      "end": 6990.42,
+      "text": "一上来拿起来",
+      "avg_logprob": -0.1621,
+      "no_speech_prob": 0.4817,
+      "review": false
+    },
+    {
+      "start": 6990.42,
+      "end": 6990.66,
+      "text": "你看",
+      "avg_logprob": -0.1621,
+      "no_speech_prob": 0.4817,
+      "review": false
+    },
+    {
+      "start": 6990.66,
+      "end": 6992.74,
+      "text": "开盘快速往上拉",
+      "avg_logprob": -0.1621,
+      "no_speech_prob": 0.4817,
+      "review": false
+    },
+    {
+      "start": 6992.74,
+      "end": 6994.32,
+      "text": "这种就是有时候不好",
+      "avg_logprob": -0.1621,
+      "no_speech_prob": 0.4817,
+      "review": false
+    },
+    {
+      "start": 6994.32,
+      "end": 6996.4,
+      "text": "所以等到11点的时候再去看",
+      "avg_logprob": -0.1621,
+      "no_speech_prob": 0.4817,
+      "review": false
+    },
+    {
+      "start": 6996.4,
+      "end": 7003.78,
+      "text": "有没有45度角的,基本上你的赚钱的就是成功的概率是大很多",
+      "avg_logprob": -0.0796,
+      "no_speech_prob": 0.3225,
+      "review": false
+    },
+    {
+      "start": 7003.78,
+      "end": 7013.88,
+      "text": "朝日其实挺好的,朝日挺好的,就财务税太烂,流通值太小,但是它形态这种挺好的",
+      "avg_logprob": -0.0796,
+      "no_speech_prob": 0.3225,
+      "review": false
+    },
+    {
+      "start": 7013.88,
+      "end": 7019.57,
+      "text": "它是除了喜吧之外,唯一的一个我还看得上的",
+      "avg_logprob": -0.0796,
+      "no_speech_prob": 0.3225,
+      "review": false
+    },
+    {
+      "start": 7019.57,
+      "end": 7031.92,
+      "text": "像那个前段时间有朋友说买船舶,那前几天你问我,我说不该买",
+      "avg_logprob": -0.0796,
+      "no_speech_prob": 0.3225,
+      "review": false
+    },
+    {
+      "start": 7031.92,
+      "end": 7035.08,
+      "text": "但是今天你看其实就是一个买入位置,但是是你喜欢船舶啊",
+      "avg_logprob": -0.0796,
+      "no_speech_prob": 0.3225,
+      "review": false
+    },
+    {
+      "start": 7035.08,
+      "end": 7064.92,
+      "text": "我说,如果你就盯着传播,只做传播的话,那那个时候就是一个机会了,现在我是不做的,那种票太慢太慢太慢太慢太慢,我的天,我完全没有这个耐心,我买的票就是要赶快给我,你赶快给我涨,涨我就吃油,不涨咔,砍掉,天天在这磨来磨去磨来磨去,我完全不行了,受不了,就是很简单,要么直接给我暴涨,要么直接给我暴跌,一跌我就砍仓,一涨我就吃油,你不要在这边磨,",
+      "avg_logprob": -0.0766,
+      "no_speech_prob": 0.9888,
+      "review": true
+    },
+    {
+      "start": 7065.08,
+      "end": 7068.55,
+      "text": "摸来摸去的非常的讨厌",
+      "avg_logprob": -0.1661,
+      "no_speech_prob": 0.2793,
+      "review": false
+    },
+    {
+      "start": 7068.55,
+      "end": 7072.86,
+      "text": "像中国船舶那种票就摸死人了",
+      "avg_logprob": -0.1661,
+      "no_speech_prob": 0.2793,
+      "review": false
+    },
+    {
+      "start": 7072.86,
+      "end": 7089.26,
+      "text": "像国选高科这些也很正常",
+      "avg_logprob": -0.1661,
+      "no_speech_prob": 0.2793,
+      "review": false
+    },
+    {
+      "start": 7089.26,
+      "end": 7092.52,
+      "text": "你看上去之后横盘这些也很正常",
+      "avg_logprob": -0.1661,
+      "no_speech_prob": 0.2793,
+      "review": false
+    },
+    {
+      "start": 7092.52,
+      "end": 7093.76,
+      "text": "下午还有机会",
+      "avg_logprob": -0.1661,
+      "no_speech_prob": 0.2793,
+      "review": false
+    },
+    {
+      "start": 7093.76,
+      "end": 7115.31,
+      "text": "我看德龙昨天是个好卖点",
+      "avg_logprob": -0.1661,
+      "no_speech_prob": 0.2793,
+      "review": false
+    },
+    {
+      "start": 7115.31,
+      "end": 7117.87,
+      "text": "如果我昨天买的话我一定会买",
+      "avg_logprob": -0.1661,
+      "no_speech_prob": 0.2793,
+      "review": false
+    },
+    {
+      "start": 7117.87,
+      "end": 7119.73,
+      "text": "大家看这个量特别的漂亮",
+      "avg_logprob": -0.1661,
+      "no_speech_prob": 0.2793,
+      "review": false
+    },
+    {
+      "start": 7119.73,
+      "end": 7121.47,
+      "text": "我看德龙的量特别的漂亮",
+      "avg_logprob": -0.1661,
+      "no_speech_prob": 0.2793,
+      "review": false
+    },
+    {
+      "start": 7121.47,
+      "end": 7123.67,
+      "text": "但是今天已经不是好卖点了",
+      "avg_logprob": -0.1661,
+      "no_speech_prob": 0.2793,
+      "review": false
+    },
+    {
+      "start": 7123.67,
+      "end": 7124.75,
+      "text": "昨天买点特别好",
+      "avg_logprob": -0.1661,
+      "no_speech_prob": 0.2793,
+      "review": false
+    },
+    {
+      "start": 7124.75,
+      "end": 7128.59,
+      "text": "今天已经不是好卖点了",
+      "avg_logprob": -0.1661,
+      "no_speech_prob": 0.2793,
+      "review": false
+    },
+    {
+      "start": 7128.59,
+      "end": 7129.83,
+      "text": "所以今天涨停了呢",
+      "avg_logprob": -0.1661,
+      "no_speech_prob": 0.2793,
+      "review": false
+    },
+    {
+      "start": 7129.83,
+      "end": 7133.02,
+      "text": "哎呀,其实还是很有规律的,我跟你说",
+      "avg_logprob": -0.1001,
+      "no_speech_prob": 0.9941,
+      "review": true
+    },
+    {
+      "start": 7133.02,
+      "end": 7138.28,
+      "text": "A股虽然有时候我会被锤,但是整体上来说,我觉得我做的还是得心应手的",
+      "avg_logprob": -0.1001,
+      "no_speech_prob": 0.9941,
+      "review": true
+    },
+    {
+      "start": 7138.28,
+      "end": 7139.86,
+      "text": "但是被锤的时候也真是很郁闷",
+      "avg_logprob": -0.1001,
+      "no_speech_prob": 0.9941,
+      "review": true
+    },
+    {
+      "start": 7139.86,
+      "end": 7144.34,
+      "text": "你什么都准,就是啪的一耳光给你扇过来",
+      "avg_logprob": -0.1001,
+      "no_speech_prob": 0.9941,
+      "review": true
+    },
+    {
+      "start": 7144.34,
+      "end": 7147.72,
+      "text": "但是准的时候也非常准",
+      "avg_logprob": -0.1001,
+      "no_speech_prob": 0.9941,
+      "review": true
+    },
+    {
+      "start": 7147.72,
+      "end": 7150.06,
+      "text": "规律性我觉得比美股强多了",
+      "avg_logprob": -0.1001,
+      "no_speech_prob": 0.9941,
+      "review": true
+    },
+    {
+      "start": 7150.06,
+      "end": 7153.86,
+      "text": "但是说不准的时候也是真的是,哎,让你气得吐血",
+      "avg_logprob": -0.1001,
+      "no_speech_prob": 0.9941,
+      "review": true
+    },
+    {
+      "start": 7153.86,
+      "end": 7156.84,
+      "text": "但是还好了,不准的时候我一般跑得比较快,所以我没啥",
+      "avg_logprob": -0.1001,
+      "no_speech_prob": 0.9941,
+      "review": true
+    },
+    {
+      "start": 7156.84,
+      "end": 7159.06,
+      "text": "但是你们可能比较倒霉的,你们不愿意跑",
+      "avg_logprob": -0.1001,
+      "no_speech_prob": 0.9941,
+      "review": true
+    },
+    {
+      "start": 7159.06,
+      "end": 7161.46,
+      "text": "我一看不对我靠我第一时间就跑",
+      "avg_logprob": -0.1961,
+      "no_speech_prob": 0.1287,
+      "review": false
+    },
+    {
+      "start": 7161.46,
+      "end": 7175.86,
+      "text": "游夫、柴水特纳、新纤维、迪伦工业",
+      "avg_logprob": -0.1961,
+      "no_speech_prob": 0.1287,
+      "review": false
+    },
+    {
+      "start": 7175.86,
+      "end": 7178.16,
+      "text": "这些得看PTA了",
+      "avg_logprob": -0.1961,
+      "no_speech_prob": 0.1287,
+      "review": false
+    },
+    {
+      "start": 7178.16,
+      "end": 7180.18,
+      "text": "要看看花工PTA的一个情况",
+      "avg_logprob": -0.1961,
+      "no_speech_prob": 0.1287,
+      "review": false
+    },
+    {
+      "start": 7180.18,
+      "end": 7182.84,
+      "text": "PTA行它就行",
+      "avg_logprob": -0.1961,
+      "no_speech_prob": 0.1287,
+      "review": false
+    },
+    {
+      "start": 7182.84,
+      "end": 7185.2,
+      "text": "PTA不行它就不行",
+      "avg_logprob": -0.1961,
+      "no_speech_prob": 0.1287,
+      "review": false
+    },
+    {
+      "start": 7185.2,
+      "end": 7190.15,
+      "text": "今天没有意思",
+      "avg_logprob": -0.1961,
+      "no_speech_prob": 0.1287,
+      "review": false
+    },
+    {
+      "start": 7190.15,
+      "end": 7191.05,
+      "text": "完全没有意思",
+      "avg_logprob": -0.1961,
+      "no_speech_prob": 0.1287,
+      "review": false
+    },
+    {
+      "start": 7191.05,
+      "end": 7192.65,
+      "text": "今天就在一支票",
+      "avg_logprob": -0.1961,
+      "no_speech_prob": 0.1287,
+      "review": false
+    },
+    {
+      "start": 7192.65,
+      "end": 7193.79,
+      "text": "我觉得值得买",
+      "avg_logprob": -0.1961,
+      "no_speech_prob": 0.1287,
+      "review": false
+    },
+    {
+      "start": 7193.79,
+      "end": 7195.73,
+      "text": "幸好也买到了",
+      "avg_logprob": -0.1961,
+      "no_speech_prob": 0.1287,
+      "review": false
+    },
+    {
+      "start": 7195.73,
+      "end": 7196.71,
+      "text": "明天我们看看",
+      "avg_logprob": -0.1961,
+      "no_speech_prob": 0.1287,
+      "review": false
+    },
+    {
+      "start": 7196.71,
+      "end": 7198.24,
+      "text": "好",
+      "avg_logprob": -0.1961,
+      "no_speech_prob": 0.1287,
+      "review": false
+    },
+    {
+      "start": 7198.24,
+      "end": 7199.86,
+      "text": "在我看来今天完全没有其他的票",
+      "avg_logprob": -0.1961,
+      "no_speech_prob": 0.1287,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 20.55
+}

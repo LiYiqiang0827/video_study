@@ -1,0 +1,512 @@
+{
+  "begin": 300.0,
+  "finish": 600.0,
+  "segments": [
+    {
+      "start": 298.0,
+      "end": 335.54,
+      "text": "没有啥可说的",
+      "avg_logprob": -0.3529,
+      "no_speech_prob": 0.0004,
+      "review": false
+    },
+    {
+      "start": 335.56,
+      "end": 375.04,
+      "text": "该止损就一定要止损",
+      "avg_logprob": -0.2839,
+      "no_speech_prob": 0.9946,
+      "review": true
+    },
+    {
+      "start": 375.06,
+      "end": 427.67,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.077,
+      "no_speech_prob": 0.9951,
+      "review": true
+    },
+    {
+      "start": 427.69,
+      "end": 457.79,
+      "text": "我有啊我手里有我手里有康乐花城所以说我不用担心这个医药我得说我现在是有一个热点在那么华为NPU联盟这个热点我们看看他现在今天有没有比较好的手辟成员就是看光讯看华工那么这里面你看他说关联度第一的就是华工华工科技华风科技力讯精密中心通讯紫光那就看华工科技关联度第一",
+      "avg_logprob": -0.0878,
+      "no_speech_prob": 0.17,
+      "review": false
+    },
+    {
+      "start": 457.81,
+      "end": 459.13,
+      "text": "那我看一下华工科技",
+      "avg_logprob": -0.1378,
+      "no_speech_prob": 0.447,
+      "review": false
+    },
+    {
+      "start": 459.13,
+      "end": 471.06,
+      "text": "华工科技它虽然关联度低",
+      "avg_logprob": -0.1378,
+      "no_speech_prob": 0.447,
+      "review": false
+    },
+    {
+      "start": 471.06,
+      "end": 473.22,
+      "text": "但是它这个位置我的天跌得好惨",
+      "avg_logprob": -0.1378,
+      "no_speech_prob": 0.447,
+      "review": false
+    },
+    {
+      "start": 473.22,
+      "end": 476.18,
+      "text": "今天主力进了6730万",
+      "avg_logprob": -0.1378,
+      "no_speech_prob": 0.447,
+      "review": false
+    },
+    {
+      "start": 476.18,
+      "end": 478.38,
+      "text": "进了6730万",
+      "avg_logprob": -0.1378,
+      "no_speech_prob": 0.447,
+      "review": false
+    },
+    {
+      "start": 478.38,
+      "end": 481.72,
+      "text": "这个今天涨了4.41",
+      "avg_logprob": -0.1378,
+      "no_speech_prob": 0.447,
+      "review": false
+    },
+    {
+      "start": 481.72,
+      "end": 483.9,
+      "text": "分数图现在是这么走的",
+      "avg_logprob": -0.1378,
+      "no_speech_prob": 0.447,
+      "review": false
+    },
+    {
+      "start": 483.9,
+      "end": 485.72,
+      "text": "分数图走得还挺好的",
+      "avg_logprob": -0.1378,
+      "no_speech_prob": 0.447,
+      "review": false
+    },
+    {
+      "start": 485.72,
+      "end": 488.14,
+      "text": "但是这个题材它怎么今天在炒呢",
+      "avg_logprob": -0.1378,
+      "no_speech_prob": 0.447,
+      "review": false
+    },
+    {
+      "start": 488.14,
+      "end": 490.04,
+      "text": "我不知道为什么它今天在炒",
+      "avg_logprob": -0.1378,
+      "no_speech_prob": 0.447,
+      "review": false
+    },
+    {
+      "start": 490.04,
+      "end": 491.14,
+      "text": "今天是什么原因吗",
+      "avg_logprob": -0.1378,
+      "no_speech_prob": 0.447,
+      "review": false
+    },
+    {
+      "start": 491.14,
+      "end": 492.82,
+      "text": "我看盘前必读里面是什么原因",
+      "avg_logprob": -0.1378,
+      "no_speech_prob": 0.447,
+      "review": false
+    },
+    {
+      "start": 492.82,
+      "end": 494.96,
+      "text": "它为什么今天忽然起来呢",
+      "avg_logprob": -0.1378,
+      "no_speech_prob": 0.447,
+      "review": false
+    },
+    {
+      "start": 494.96,
+      "end": 499.36,
+      "text": "它是前几天的概念",
+      "avg_logprob": -0.155,
+      "no_speech_prob": 0.0019,
+      "review": false
+    },
+    {
+      "start": 499.36,
+      "end": 500.28,
+      "text": "它不是",
+      "avg_logprob": -0.155,
+      "no_speech_prob": 0.0019,
+      "review": false
+    },
+    {
+      "start": 500.28,
+      "end": 510.2,
+      "text": "它是前几天的概念",
+      "avg_logprob": -0.155,
+      "no_speech_prob": 0.0019,
+      "review": false
+    },
+    {
+      "start": 510.2,
+      "end": 513.88,
+      "text": "为什么今天再涨呢",
+      "avg_logprob": -0.155,
+      "no_speech_prob": 0.0019,
+      "review": false
+    },
+    {
+      "start": 513.88,
+      "end": 516.06,
+      "text": "反正我们先把它放进去吧",
+      "avg_logprob": -0.155,
+      "no_speech_prob": 0.0019,
+      "review": false
+    },
+    {
+      "start": 516.06,
+      "end": 518.06,
+      "text": "因为如果你要炒这个概念的话",
+      "avg_logprob": -0.155,
+      "no_speech_prob": 0.0019,
+      "review": false
+    },
+    {
+      "start": 518.06,
+      "end": 519.04,
+      "text": "你就炒华工就行了",
+      "avg_logprob": -0.155,
+      "no_speech_prob": 0.0019,
+      "review": false
+    },
+    {
+      "start": 519.04,
+      "end": 520.18,
+      "text": "你就知道了",
+      "avg_logprob": -0.155,
+      "no_speech_prob": 0.0019,
+      "review": false
+    },
+    {
+      "start": 520.18,
+      "end": 521.02,
+      "text": "今天如果",
+      "avg_logprob": -0.155,
+      "no_speech_prob": 0.0019,
+      "review": false
+    },
+    {
+      "start": 521.02,
+      "end": 523.76,
+      "text": "今日热点我们炒华工就行了",
+      "avg_logprob": -0.155,
+      "no_speech_prob": 0.0019,
+      "review": false
+    },
+    {
+      "start": 523.76,
+      "end": 526.83,
+      "text": "如果要炒这个的话就炒华工",
+      "avg_logprob": -0.155,
+      "no_speech_prob": 0.0019,
+      "review": false
+    },
+    {
+      "start": 526.83,
+      "end": 537.14,
+      "text": "然后我们再来看一下",
+      "avg_logprob": -0.155,
+      "no_speech_prob": 0.0019,
+      "review": false
+    },
+    {
+      "start": 537.14,
+      "end": 539.3,
+      "text": "我们首先都是题材",
+      "avg_logprob": -0.155,
+      "no_speech_prob": 0.0019,
+      "review": false
+    },
+    {
+      "start": 539.3,
+      "end": 540.94,
+      "text": "我首先永远都是先看题材",
+      "avg_logprob": -0.155,
+      "no_speech_prob": 0.0019,
+      "review": false
+    },
+    {
+      "start": 540.94,
+      "end": 544.06,
+      "text": "那么如果要炒花给光学封装",
+      "avg_logprob": -0.168,
+      "no_speech_prob": 0.222,
+      "review": false
+    },
+    {
+      "start": 544.06,
+      "end": 544.94,
+      "text": "这些就不炒了",
+      "avg_logprob": -0.168,
+      "no_speech_prob": 0.222,
+      "review": false
+    },
+    {
+      "start": 544.94,
+      "end": 545.42,
+      "text": "这些都是",
+      "avg_logprob": -0.168,
+      "no_speech_prob": 0.222,
+      "review": false
+    },
+    {
+      "start": 545.42,
+      "end": 548.32,
+      "text": "这些就是那个老的题材",
+      "avg_logprob": -0.168,
+      "no_speech_prob": 0.222,
+      "review": false
+    },
+    {
+      "start": 548.32,
+      "end": 550.44,
+      "text": "今天是做一个超跌反弹了",
+      "avg_logprob": -0.168,
+      "no_speech_prob": 0.222,
+      "review": false
+    },
+    {
+      "start": 550.44,
+      "end": 551.72,
+      "text": "我一般的不去做了",
+      "avg_logprob": -0.168,
+      "no_speech_prob": 0.222,
+      "review": false
+    },
+    {
+      "start": 551.72,
+      "end": 553.5,
+      "text": "创新药",
+      "avg_logprob": -0.168,
+      "no_speech_prob": 0.222,
+      "review": false
+    },
+    {
+      "start": 553.5,
+      "end": 554.8,
+      "text": "宁华英呢",
+      "avg_logprob": -0.168,
+      "no_speech_prob": 0.222,
+      "review": false
+    },
+    {
+      "start": 554.8,
+      "end": 555.82,
+      "text": "最近一直是涨价",
+      "avg_logprob": -0.168,
+      "no_speech_prob": 0.222,
+      "review": false
+    },
+    {
+      "start": 555.82,
+      "end": 557.14,
+      "text": "宁华英一直涨价",
+      "avg_logprob": -0.168,
+      "no_speech_prob": 0.222,
+      "review": false
+    },
+    {
+      "start": 557.14,
+      "end": 558.32,
+      "text": "哦原来如此",
+      "avg_logprob": -0.168,
+      "no_speech_prob": 0.222,
+      "review": false
+    },
+    {
+      "start": 558.32,
+      "end": 559.68,
+      "text": "所以云南储业又涨起来了",
+      "avg_logprob": -0.168,
+      "no_speech_prob": 0.222,
+      "review": false
+    },
+    {
+      "start": 559.68,
+      "end": 560.74,
+      "text": "就两个",
+      "avg_logprob": -0.168,
+      "no_speech_prob": 0.222,
+      "review": false
+    },
+    {
+      "start": 560.74,
+      "end": 561.64,
+      "text": "一个云南储业",
+      "avg_logprob": -0.168,
+      "no_speech_prob": 0.222,
+      "review": false
+    },
+    {
+      "start": 561.64,
+      "end": 563.52,
+      "text": "一个素签联盟",
+      "avg_logprob": -0.168,
+      "no_speech_prob": 0.222,
+      "review": false
+    },
+    {
+      "start": 563.52,
+      "end": 565.12,
+      "text": "哎呀",
+      "avg_logprob": -0.168,
+      "no_speech_prob": 0.222,
+      "review": false
+    },
+    {
+      "start": 565.12,
+      "end": 565.5,
+      "text": "这个",
+      "avg_logprob": -0.168,
+      "no_speech_prob": 0.222,
+      "review": false
+    },
+    {
+      "start": 565.5,
+      "end": 568.78,
+      "text": "这个我一般的也不去追了",
+      "avg_logprob": -0.168,
+      "no_speech_prob": 0.222,
+      "review": false
+    },
+    {
+      "start": 568.78,
+      "end": 570.1,
+      "text": "云南储业",
+      "avg_logprob": -0.168,
+      "no_speech_prob": 0.222,
+      "review": false
+    },
+    {
+      "start": 570.1,
+      "end": 571.36,
+      "text": "就是云南储业",
+      "avg_logprob": -0.1299,
+      "no_speech_prob": 0.7158,
+      "review": true
+    },
+    {
+      "start": 571.36,
+      "end": 573.14,
+      "text": "核心就是云南储业",
+      "avg_logprob": -0.1299,
+      "no_speech_prob": 0.7158,
+      "review": true
+    },
+    {
+      "start": 573.14,
+      "end": 575.82,
+      "text": "云南储业、苏千联盟两大核心",
+      "avg_logprob": -0.1299,
+      "no_speech_prob": 0.7158,
+      "review": true
+    },
+    {
+      "start": 575.82,
+      "end": 578.4,
+      "text": "反正因为最近他们都是半道体嘛",
+      "avg_logprob": -0.1299,
+      "no_speech_prob": 0.7158,
+      "review": true
+    },
+    {
+      "start": 578.4,
+      "end": 580.72,
+      "text": "哦不是苏千联盛两大核心",
+      "avg_logprob": -0.1299,
+      "no_speech_prob": 0.7158,
+      "review": true
+    },
+    {
+      "start": 580.72,
+      "end": 583.16,
+      "text": "云南储业太快了",
+      "avg_logprob": -0.1299,
+      "no_speech_prob": 0.7158,
+      "review": true
+    },
+    {
+      "start": 583.16,
+      "end": 585.38,
+      "text": "要追的话今天开盘追还行",
+      "avg_logprob": -0.1299,
+      "no_speech_prob": 0.7158,
+      "review": true
+    },
+    {
+      "start": 585.38,
+      "end": 587.7,
+      "text": "你看云南储业如果开盘追",
+      "avg_logprob": -0.1299,
+      "no_speech_prob": 0.7158,
+      "review": true
+    },
+    {
+      "start": 587.7,
+      "end": 590.38,
+      "text": "云南储业如果开盘追还行",
+      "avg_logprob": -0.1299,
+      "no_speech_prob": 0.7158,
+      "review": true
+    },
+    {
+      "start": 590.38,
+      "end": 593.12,
+      "text": "它这个也算超级反弹里面的比较好的",
+      "avg_logprob": -0.1299,
+      "no_speech_prob": 0.7158,
+      "review": true
+    },
+    {
+      "start": 593.12,
+      "end": 596.0,
+      "text": "但是如果你现在再去追的话",
+      "avg_logprob": -0.1299,
+      "no_speech_prob": 0.7158,
+      "review": true
+    },
+    {
+      "start": 596.0,
+      "end": 598.4,
+      "text": "看看吧等会涨停了",
+      "avg_logprob": -0.1299,
+      "no_speech_prob": 0.7158,
+      "review": true
+    },
+    {
+      "start": 598.4,
+      "end": 599.66,
+      "text": "可以排个队什么的",
+      "avg_logprob": -0.1299,
+      "no_speech_prob": 0.7158,
+      "review": true
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 39.73
+}

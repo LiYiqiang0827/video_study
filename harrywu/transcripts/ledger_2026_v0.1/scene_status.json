@@ -1,0 +1,24 @@
+{
+  "status": "complete",
+  "runner_pid": 42204,
+  "completed": [
+    {
+      "stream_id": "XSFwu5KOo5Y",
+      "scene_frames": 2319
+    },
+    {
+      "stream_id": "dMgT48e5NQo",
+      "scene_frames": 1230
+    },
+    {
+      "stream_id": "zuo8FhWIdow",
+      "scene_frames": 2129
+    }
+  ],
+  "current": null,
+  "selection": "all decoded frames, 320px scene metric, threshold 0.04",
+  "started": "2026-10-03T03:33:56.639258+00:00",
+  "phase": "original_frame_extraction",
+  "scene_count": 2129,
+  "ended": "2026-10-03T04:18:33.858888+00:00"
+}

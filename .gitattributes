@@ -1,0 +1,6 @@
+# Preserve evidence bytes and the SHA256 manifests in this research snapshot.
+harrywu/** -text
+README.md -text
+AGENTS.md -text
+.gitignore -text
+.gitattributes -text

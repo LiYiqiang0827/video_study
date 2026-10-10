@@ -1,0 +1,488 @@
+{
+  "begin": 4500.0,
+  "finish": 4800.0,
+  "segments": [
+    {
+      "start": 4498.0,
+      "end": 4503.8,
+      "text": "但是你看我这没追,在这买,买的是不是好,这种买入位置就很舒服嘛,是吧,就很舒服",
+      "avg_logprob": -0.1009,
+      "no_speech_prob": 0.2495,
+      "review": false
+    },
+    {
+      "start": 4503.8,
+      "end": 4522.73,
+      "text": "真的啊,我跟你大家说,你不要指望暴赚,你只要有一定的资金,你按照我的方法赚一些钱,还是非常容易的,说实话啊,一点都不难",
+      "avg_logprob": -0.1009,
+      "no_speech_prob": 0.2495,
+      "review": false
+    },
+    {
+      "start": 4522.73,
+      "end": 4531.23,
+      "text": "但是呢,你说你指望,你说我天天像人家那种牛,牛人一样,牛散一样,你几天给我翻个倍,什么一个月给我翻个几倍,那我没这个本事啊",
+      "avg_logprob": -0.1009,
+      "no_speech_prob": 0.2495,
+      "review": false
+    },
+    {
+      "start": 4531.23,
+      "end": 4533.35,
+      "text": "但是我让你在股市里面赚钱",
+      "avg_logprob": -0.1325,
+      "no_speech_prob": 0.6343,
+      "review": true
+    },
+    {
+      "start": 4533.35,
+      "end": 4534.43,
+      "text": "不亏钱",
+      "avg_logprob": -0.1325,
+      "no_speech_prob": 0.6343,
+      "review": true
+    },
+    {
+      "start": 4534.43,
+      "end": 4536.23,
+      "text": "你只要严格的跟我学",
+      "avg_logprob": -0.1325,
+      "no_speech_prob": 0.6343,
+      "review": true
+    },
+    {
+      "start": 4536.23,
+      "end": 4537.69,
+      "text": "这个我是可以给你保证的",
+      "avg_logprob": -0.1325,
+      "no_speech_prob": 0.6343,
+      "review": true
+    },
+    {
+      "start": 4537.69,
+      "end": 4539.05,
+      "text": "但是该跑的时候一定要跑",
+      "avg_logprob": -0.1325,
+      "no_speech_prob": 0.6343,
+      "review": true
+    },
+    {
+      "start": 4539.05,
+      "end": 4540.67,
+      "text": "你看我这个错了",
+      "avg_logprob": -0.1325,
+      "no_speech_prob": 0.6343,
+      "review": true
+    },
+    {
+      "start": 4540.67,
+      "end": 4545.23,
+      "text": "昨天跑了开盘就走了一个票",
+      "avg_logprob": -0.1325,
+      "no_speech_prob": 0.6343,
+      "review": true
+    },
+    {
+      "start": 4545.23,
+      "end": 4546.23,
+      "text": "赛里斯",
+      "avg_logprob": -0.1325,
+      "no_speech_prob": 0.6343,
+      "review": true
+    },
+    {
+      "start": 4546.23,
+      "end": 4548.27,
+      "text": "今天开盘又走了这个",
+      "avg_logprob": -0.1325,
+      "no_speech_prob": 0.6343,
+      "review": true
+    },
+    {
+      "start": 4548.27,
+      "end": 4549.67,
+      "text": "该走的我都会走的",
+      "avg_logprob": -0.1325,
+      "no_speech_prob": 0.6343,
+      "review": true
+    },
+    {
+      "start": 4549.67,
+      "end": 4552.35,
+      "text": "我绝对不会多占一分钟",
+      "avg_logprob": -0.1325,
+      "no_speech_prob": 0.6343,
+      "review": true
+    },
+    {
+      "start": 4552.35,
+      "end": 4553.41,
+      "text": "因为我其他票赚钱",
+      "avg_logprob": -0.1325,
+      "no_speech_prob": 0.6343,
+      "review": true
+    },
+    {
+      "start": 4553.41,
+      "end": 4554.17,
+      "text": "我怕什么",
+      "avg_logprob": -0.1325,
+      "no_speech_prob": 0.6343,
+      "review": true
+    },
+    {
+      "start": 4554.17,
+      "end": 4556.69,
+      "text": "但是如果你只赌一支票的话就很麻烦",
+      "avg_logprob": -0.1325,
+      "no_speech_prob": 0.6343,
+      "review": true
+    },
+    {
+      "start": 4556.69,
+      "end": 4559.79,
+      "text": "你只赌一支票你就舍不得",
+      "avg_logprob": -0.1325,
+      "no_speech_prob": 0.6343,
+      "review": true
+    },
+    {
+      "start": 4559.79,
+      "end": 4578.82,
+      "text": "这个Magic Kim,你这个人是杀人诛心",
+      "avg_logprob": -0.1493,
+      "no_speech_prob": 0.6572,
+      "review": true
+    },
+    {
+      "start": 4578.82,
+      "end": 4582.82,
+      "text": "美股只赚钱学不到技术",
+      "avg_logprob": -0.1493,
+      "no_speech_prob": 0.6572,
+      "review": true
+    },
+    {
+      "start": 4582.82,
+      "end": 4586.64,
+      "text": "你学个屁,你还学干嘛嘛,你赚钱不就好了嘛,何必呢",
+      "avg_logprob": -0.1493,
+      "no_speech_prob": 0.6572,
+      "review": true
+    },
+    {
+      "start": 4586.64,
+      "end": 4593.03,
+      "text": "杀人诛心啊",
+      "avg_logprob": -0.1493,
+      "no_speech_prob": 0.6572,
+      "review": true
+    },
+    {
+      "start": 4593.03,
+      "end": 4603.9,
+      "text": "洛阳物业成本21,可不可以加仓,看一下",
+      "avg_logprob": -0.1493,
+      "no_speech_prob": 0.6572,
+      "review": true
+    },
+    {
+      "start": 4603.9,
+      "end": 4613.83,
+      "text": "可以,可以,我觉得可以啊",
+      "avg_logprob": -0.1493,
+      "no_speech_prob": 0.6572,
+      "review": true
+    },
+    {
+      "start": 4613.83,
+      "end": 4616.97,
+      "text": "哦,你成本20,你成本都没回来",
+      "avg_logprob": -0.1493,
+      "no_speech_prob": 0.6572,
+      "review": true
+    },
+    {
+      "start": 4616.97,
+      "end": 4618.55,
+      "text": "你那么着急加仓干嘛",
+      "avg_logprob": -0.1493,
+      "no_speech_prob": 0.6572,
+      "review": true
+    },
+    {
+      "start": 4618.55,
+      "end": 4621.63,
+      "text": "但是如果我们说纯粹是没有买的话",
+      "avg_logprob": -0.1493,
+      "no_speech_prob": 0.6572,
+      "review": true
+    },
+    {
+      "start": 4621.63,
+      "end": 4623.51,
+      "text": "这个是一个买点啊",
+      "avg_logprob": -0.1493,
+      "no_speech_prob": 0.6572,
+      "review": true
+    },
+    {
+      "start": 4623.51,
+      "end": 4626.23,
+      "text": "看起来是很漂亮的一个形态的突破点",
+      "avg_logprob": -0.1227,
+      "no_speech_prob": 0.0267,
+      "review": false
+    },
+    {
+      "start": 4626.23,
+      "end": 4628.87,
+      "text": "而且资金也在一直往层层往上抱",
+      "avg_logprob": -0.1227,
+      "no_speech_prob": 0.0267,
+      "review": false
+    },
+    {
+      "start": 4628.87,
+      "end": 4635.07,
+      "text": "而且你看现在有色出来了",
+      "avg_logprob": -0.1227,
+      "no_speech_prob": 0.0267,
+      "review": false
+    },
+    {
+      "start": 4635.07,
+      "end": 4637.07,
+      "text": "你看这个题材出来了",
+      "avg_logprob": -0.1227,
+      "no_speech_prob": 0.0267,
+      "review": false
+    },
+    {
+      "start": 4637.07,
+      "end": 4639.41,
+      "text": "现在的题材马上变了",
+      "avg_logprob": -0.1227,
+      "no_speech_prob": 0.0267,
+      "review": false
+    },
+    {
+      "start": 4639.41,
+      "end": 4640.61,
+      "text": "你看现在题材马上变了",
+      "avg_logprob": -0.1227,
+      "no_speech_prob": 0.0267,
+      "review": false
+    },
+    {
+      "start": 4640.61,
+      "end": 4642.05,
+      "text": "今天涨有色金属了",
+      "avg_logprob": -0.1227,
+      "no_speech_prob": 0.0267,
+      "review": false
+    },
+    {
+      "start": 4642.05,
+      "end": 4643.8,
+      "text": "美伊冲突海运",
+      "avg_logprob": -0.1227,
+      "no_speech_prob": 0.0267,
+      "review": false
+    },
+    {
+      "start": 4643.8,
+      "end": 4646.66,
+      "text": "中原海南招商能传",
+      "avg_logprob": -0.1227,
+      "no_speech_prob": 0.0267,
+      "review": false
+    },
+    {
+      "start": 4646.66,
+      "end": 4650.02,
+      "text": "你看美伊冲突现在马上出来了",
+      "avg_logprob": -0.1227,
+      "no_speech_prob": 0.0267,
+      "review": false
+    },
+    {
+      "start": 4650.02,
+      "end": 4650.86,
+      "text": "中原海南在涨",
+      "avg_logprob": -0.1227,
+      "no_speech_prob": 0.0267,
+      "review": false
+    },
+    {
+      "start": 4650.86,
+      "end": 4652.38,
+      "text": "但是这个我不会追",
+      "avg_logprob": -0.1227,
+      "no_speech_prob": 0.0267,
+      "review": false
+    },
+    {
+      "start": 4652.38,
+      "end": 4654.46,
+      "text": "第二个有色金属屋",
+      "avg_logprob": -0.1227,
+      "no_speech_prob": 0.0267,
+      "review": false
+    },
+    {
+      "start": 4654.46,
+      "end": 4668.54,
+      "text": "厦门物业、中务高薪、张源物业",
+      "avg_logprob": -0.1882,
+      "no_speech_prob": 0.1157,
+      "review": false
+    },
+    {
+      "start": 4668.54,
+      "end": 4671.54,
+      "text": "你看今天涨停的反倒是小票",
+      "avg_logprob": -0.1882,
+      "no_speech_prob": 0.1157,
+      "review": false
+    },
+    {
+      "start": 4671.54,
+      "end": 4673.58,
+      "text": "祥路物业涨停",
+      "avg_logprob": -0.1882,
+      "no_speech_prob": 0.1157,
+      "review": false
+    },
+    {
+      "start": 4673.58,
+      "end": 4678.54,
+      "text": "要么是厦门物业",
+      "avg_logprob": -0.1882,
+      "no_speech_prob": 0.1157,
+      "review": false
+    },
+    {
+      "start": 4678.54,
+      "end": 4681.86,
+      "text": "厦门物业它是第一的排的第一的",
+      "avg_logprob": -0.1882,
+      "no_speech_prob": 0.1157,
+      "review": false
+    },
+    {
+      "start": 4681.86,
+      "end": 4685.42,
+      "text": "中务高薪排第二的",
+      "avg_logprob": -0.1882,
+      "no_speech_prob": 0.1157,
+      "review": false
+    },
+    {
+      "start": 4685.42,
+      "end": 4687.62,
+      "text": "第一第二制收入",
+      "avg_logprob": -0.1882,
+      "no_speech_prob": 0.1157,
+      "review": false
+    },
+    {
+      "start": 4687.62,
+      "end": 4690.02,
+      "text": "厦门物业按理说比这个还好啊",
+      "avg_logprob": -0.1882,
+      "no_speech_prob": 0.1157,
+      "review": false
+    },
+    {
+      "start": 4690.02,
+      "end": 4693.94,
+      "text": "我们再看有色金属还有啥",
+      "avg_logprob": -0.1882,
+      "no_speech_prob": 0.1157,
+      "review": false
+    },
+    {
+      "start": 4693.94,
+      "end": 4696.67,
+      "text": "有色金属就多了",
+      "avg_logprob": -0.1882,
+      "no_speech_prob": 0.1157,
+      "review": false
+    },
+    {
+      "start": 4696.67,
+      "end": 4706.87,
+      "text": "我的天,黄金、白银、铜、铝、褶、加五啊,这太多了,有色技术太多了,美",
+      "avg_logprob": -0.2019,
+      "no_speech_prob": 0.0743,
+      "review": false
+    },
+    {
+      "start": 4706.87,
+      "end": 4711.41,
+      "text": "诶,那有没有有色技术ETF啊,我看一下啊,有色ETF",
+      "avg_logprob": -0.2019,
+      "no_speech_prob": 0.0743,
+      "review": false
+    },
+    {
+      "start": 4711.41,
+      "end": 4778.41,
+      "text": "512,4000,512,4000,512,4000",
+      "avg_logprob": -0.2019,
+      "no_speech_prob": 0.0743,
+      "review": false
+    },
+    {
+      "start": 4778.41,
+      "end": 4786.25,
+      "text": "诶,如果你们愿意的话,也可以做ETF啊,做点有色技术的ETF啊",
+      "avg_logprob": -0.2019,
+      "no_speech_prob": 0.0743,
+      "review": false
+    },
+    {
+      "start": 4786.25,
+      "end": 4788.88,
+      "text": "因为为什么呢?今天是第一天",
+      "avg_logprob": -0.1848,
+      "no_speech_prob": 0.0734,
+      "review": false
+    },
+    {
+      "start": 4788.88,
+      "end": 4792.56,
+      "text": "这个有色金属ETF今天是一小时也是第一天",
+      "avg_logprob": -0.1848,
+      "no_speech_prob": 0.0734,
+      "review": false
+    },
+    {
+      "start": 4792.56,
+      "end": 4795.96,
+      "text": "这个可是一个标准的,不能再标准的买入结构啊",
+      "avg_logprob": -0.1848,
+      "no_speech_prob": 0.0734,
+      "review": false
+    },
+    {
+      "start": 4795.96,
+      "end": 4798.65,
+      "text": "我觉得有色有细",
+      "avg_logprob": -0.1848,
+      "no_speech_prob": 0.0734,
+      "review": false
+    },
+    {
+      "start": 4798.65,
+      "end": 4800.77,
+      "text": "哎,你看,现在不就希望就出来了吗?",
+      "avg_logprob": -0.1848,
+      "no_speech_prob": 0.0734,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 16.61
+}

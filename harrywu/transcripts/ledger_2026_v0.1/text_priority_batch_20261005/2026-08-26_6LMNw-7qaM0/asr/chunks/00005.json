@@ -1,0 +1,672 @@
+{
+  "begin": 1500.0,
+  "finish": 1800.0,
+  "segments": [
+    {
+      "start": 1500.24,
+      "end": 1503.18,
+      "text": "所以说今天如果等会能够上去的话",
+      "avg_logprob": -0.1451,
+      "no_speech_prob": 0.0396,
+      "review": false
+    },
+    {
+      "start": 1503.18,
+      "end": 1505.78,
+      "text": "它已经上去了6.67、6.7了",
+      "avg_logprob": -0.1451,
+      "no_speech_prob": 0.0396,
+      "review": false
+    },
+    {
+      "start": 1505.78,
+      "end": 1507.2,
+      "text": "1.83个亿",
+      "avg_logprob": -0.1451,
+      "no_speech_prob": 0.0396,
+      "review": false
+    },
+    {
+      "start": 1507.2,
+      "end": 1508.52,
+      "text": "像这种",
+      "avg_logprob": -0.1451,
+      "no_speech_prob": 0.0396,
+      "review": false
+    },
+    {
+      "start": 1508.52,
+      "end": 1510.5,
+      "text": "就是还是一句话",
+      "avg_logprob": -0.1451,
+      "no_speech_prob": 0.0396,
+      "review": false
+    },
+    {
+      "start": 1510.5,
+      "end": 1514.82,
+      "text": "A股shit的问题就是",
+      "avg_logprob": -0.1451,
+      "no_speech_prob": 0.0396,
+      "review": false
+    },
+    {
+      "start": 1514.82,
+      "end": 1516.96,
+      "text": "你套住了你又不能跑",
+      "avg_logprob": -0.1451,
+      "no_speech_prob": 0.0396,
+      "review": false
+    },
+    {
+      "start": 1516.96,
+      "end": 1519.82,
+      "text": "只要你被骗进去了你会很惨的是吧",
+      "avg_logprob": -0.1451,
+      "no_speech_prob": 0.0396,
+      "review": false
+    },
+    {
+      "start": 1519.82,
+      "end": 1522.12,
+      "text": "早看被骗进去下午下来",
+      "avg_logprob": -0.1451,
+      "no_speech_prob": 0.0396,
+      "review": false
+    },
+    {
+      "start": 1522.12,
+      "end": 1523.94,
+      "text": "连续两天至少10%",
+      "avg_logprob": -0.1451,
+      "no_speech_prob": 0.0396,
+      "review": false
+    },
+    {
+      "start": 1523.94,
+      "end": 1525.72,
+      "text": "所以A股就是这个shit",
+      "avg_logprob": -0.1451,
+      "no_speech_prob": 0.0396,
+      "review": false
+    },
+    {
+      "start": 1525.72,
+      "end": 1526.58,
+      "text": "特别shit",
+      "avg_logprob": -0.1451,
+      "no_speech_prob": 0.0396,
+      "review": false
+    },
+    {
+      "start": 1526.58,
+      "end": 1529.34,
+      "text": "所以我宁愿等到11点",
+      "avg_logprob": -0.1293,
+      "no_speech_prob": 0.4319,
+      "review": false
+    },
+    {
+      "start": 1529.34,
+      "end": 1530.94,
+      "text": "资金进的更多了",
+      "avg_logprob": -0.1293,
+      "no_speech_prob": 0.4319,
+      "review": false
+    },
+    {
+      "start": 1530.94,
+      "end": 1532.9,
+      "text": "早盘被骗进去了比较麻烦",
+      "avg_logprob": -0.1293,
+      "no_speech_prob": 0.4319,
+      "review": false
+    },
+    {
+      "start": 1532.9,
+      "end": 1535.28,
+      "text": "但是我告诉大家一个特点",
+      "avg_logprob": -0.1293,
+      "no_speech_prob": 0.4319,
+      "review": false
+    },
+    {
+      "start": 1535.28,
+      "end": 1538.48,
+      "text": "一般的像这种45度角上去",
+      "avg_logprob": -0.1293,
+      "no_speech_prob": 0.4319,
+      "review": false
+    },
+    {
+      "start": 1538.48,
+      "end": 1539.7,
+      "text": "被骗的可能性很小",
+      "avg_logprob": -0.1293,
+      "no_speech_prob": 0.4319,
+      "review": false
+    },
+    {
+      "start": 1539.7,
+      "end": 1542.04,
+      "text": "最大的可能性就是这种",
+      "avg_logprob": -0.1293,
+      "no_speech_prob": 0.4319,
+      "review": false
+    },
+    {
+      "start": 1542.04,
+      "end": 1543.78,
+      "text": "一口气拉上去",
+      "avg_logprob": -0.1293,
+      "no_speech_prob": 0.4319,
+      "review": false
+    },
+    {
+      "start": 1543.78,
+      "end": 1545.28,
+      "text": "拉被骗的可能性非常大",
+      "avg_logprob": -0.1293,
+      "no_speech_prob": 0.4319,
+      "review": false
+    },
+    {
+      "start": 1545.28,
+      "end": 1546.5,
+      "text": "大家注意一下",
+      "avg_logprob": -0.1293,
+      "no_speech_prob": 0.4319,
+      "review": false
+    },
+    {
+      "start": 1546.5,
+      "end": 1548.64,
+      "text": "45度角被骗的可能性很小",
+      "avg_logprob": -0.1293,
+      "no_speech_prob": 0.4319,
+      "review": false
+    },
+    {
+      "start": 1548.64,
+      "end": 1549.4,
+      "text": "分尸图",
+      "avg_logprob": -0.1293,
+      "no_speech_prob": 0.4319,
+      "review": false
+    },
+    {
+      "start": 1549.4,
+      "end": 1551.5,
+      "text": "所以你可以慢慢去找分尸图",
+      "avg_logprob": -0.1293,
+      "no_speech_prob": 0.4319,
+      "review": false
+    },
+    {
+      "start": 1551.5,
+      "end": 1552.4,
+      "text": "45度角的",
+      "avg_logprob": -0.1293,
+      "no_speech_prob": 0.4319,
+      "review": false
+    },
+    {
+      "start": 1552.4,
+      "end": 1563.33,
+      "text": "同,同今天,同在涨,同估计还是有可能会涨",
+      "avg_logprob": -0.1524,
+      "no_speech_prob": 0.1127,
+      "review": false
+    },
+    {
+      "start": 1563.33,
+      "end": 1578.26,
+      "text": "开开实业这是个啥玩意儿,46亿的药物流通,这种飘风险,大得要死,根本不管它了",
+      "avg_logprob": -0.1524,
+      "no_speech_prob": 0.1127,
+      "review": false
+    },
+    {
+      "start": 1578.26,
+      "end": 1588.31,
+      "text": "澳阳健康你看,澳阳健康也是有大形态要突破了哟,大家看,是吧",
+      "avg_logprob": -0.1524,
+      "no_speech_prob": 0.1127,
+      "review": false
+    },
+    {
+      "start": 1588.89,
+      "end": 1593.27,
+      "text": "这种大形态突破的就要重点关注,量也是不错的",
+      "avg_logprob": -0.1524,
+      "no_speech_prob": 0.1127,
+      "review": false
+    },
+    {
+      "start": 1593.27,
+      "end": 1602.1,
+      "text": "我跟大家说一下,像这种啊,当天排队,还可以排一排,第二天绝对就不要去买了",
+      "avg_logprob": -0.103,
+      "no_speech_prob": 0.1006,
+      "review": false
+    },
+    {
+      "start": 1602.1,
+      "end": 1609.34,
+      "text": "你看像这种,你看你第二天去买就多惨,第二天,当天涨停,第二天去买就连去亏惨了,百分之二三十",
+      "avg_logprob": -0.103,
+      "no_speech_prob": 0.1006,
+      "review": false
+    },
+    {
+      "start": 1609.34,
+      "end": 1618.82,
+      "text": "因为当天排个队,万一错了,第二天早上还能跑得过来,但是你第二天就不行了,三十五亿也太小了",
+      "avg_logprob": -0.103,
+      "no_speech_prob": 0.1006,
+      "review": false
+    },
+    {
+      "start": 1618.82,
+      "end": 1623.22,
+      "text": "反正这种都是风险很大,如果它是第一个涨停这种,我还愿意排",
+      "avg_logprob": -0.103,
+      "no_speech_prob": 0.1006,
+      "review": false
+    },
+    {
+      "start": 1623.22,
+      "end": 1681.18,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "avg_logprob": -0.2293,
+      "no_speech_prob": 0.2976,
+      "review": false
+    },
+    {
+      "start": 1681.2,
+      "end": 1687.35,
+      "text": "智飞的财务数据怎么这么烂",
+      "avg_logprob": -0.1223,
+      "no_speech_prob": 0.4014,
+      "review": false
+    },
+    {
+      "start": 1687.35,
+      "end": 1689.65,
+      "text": "流通值184亿还可以",
+      "avg_logprob": -0.1223,
+      "no_speech_prob": 0.4014,
+      "review": false
+    },
+    {
+      "start": 1689.65,
+      "end": 1695.23,
+      "text": "说实话智飞啊",
+      "avg_logprob": -0.1223,
+      "no_speech_prob": 0.4014,
+      "review": false
+    },
+    {
+      "start": 1695.23,
+      "end": 1695.85,
+      "text": "我跟你说一下",
+      "avg_logprob": -0.1223,
+      "no_speech_prob": 0.4014,
+      "review": false
+    },
+    {
+      "start": 1695.85,
+      "end": 1699.53,
+      "text": "智飞他这种这种K线图是很漂亮的",
+      "avg_logprob": -0.1223,
+      "no_speech_prob": 0.4014,
+      "review": false
+    },
+    {
+      "start": 1699.53,
+      "end": 1700.29,
+      "text": "我给大家先说一下",
+      "avg_logprob": -0.1223,
+      "no_speech_prob": 0.4014,
+      "review": false
+    },
+    {
+      "start": 1700.29,
+      "end": 1702.07,
+      "text": "我们先不管财务数据啊",
+      "avg_logprob": -0.1223,
+      "no_speech_prob": 0.4014,
+      "review": false
+    },
+    {
+      "start": 1702.07,
+      "end": 1705.01,
+      "text": "智飞的这个K线的这种形态是非常漂亮的",
+      "avg_logprob": -0.1223,
+      "no_speech_prob": 0.4014,
+      "review": false
+    },
+    {
+      "start": 1705.01,
+      "end": 1706.41,
+      "text": "他先一个涨停",
+      "avg_logprob": -0.1223,
+      "no_speech_prob": 0.4014,
+      "review": false
+    },
+    {
+      "start": 1706.41,
+      "end": 1707.73,
+      "text": "杀下去回来",
+      "avg_logprob": -0.1223,
+      "no_speech_prob": 0.4014,
+      "review": false
+    },
+    {
+      "start": 1707.73,
+      "end": 1708.35,
+      "text": "你看吧",
+      "avg_logprob": -0.1223,
+      "no_speech_prob": 0.4014,
+      "review": false
+    },
+    {
+      "start": 1708.35,
+      "end": 1711.23,
+      "text": "这种就是标准的突破回抽",
+      "avg_logprob": -0.1223,
+      "no_speech_prob": 0.4014,
+      "review": false
+    },
+    {
+      "start": 1711.23,
+      "end": 1713.35,
+      "text": "确认再度放量涨停",
+      "avg_logprob": -0.1223,
+      "no_speech_prob": 0.4014,
+      "review": false
+    },
+    {
+      "start": 1713.35,
+      "end": 1714.51,
+      "text": "资金又进了一个亿",
+      "avg_logprob": -0.1223,
+      "no_speech_prob": 0.4014,
+      "review": false
+    },
+    {
+      "start": 1714.51,
+      "end": 1716.35,
+      "text": "所以说他这种其实是",
+      "avg_logprob": -0.1223,
+      "no_speech_prob": 0.4014,
+      "review": false
+    },
+    {
+      "start": 1716.35,
+      "end": 1717.89,
+      "text": "还是就说",
+      "avg_logprob": -0.1223,
+      "no_speech_prob": 0.4014,
+      "review": false
+    },
+    {
+      "start": 1717.89,
+      "end": 1722.93,
+      "text": "至少说从盈亏比的角度来讲是一个非常好的一个买点",
+      "avg_logprob": -0.0901,
+      "no_speech_prob": 0.0726,
+      "review": false
+    },
+    {
+      "start": 1722.93,
+      "end": 1724.41,
+      "text": "我给大家说一下盈亏比",
+      "avg_logprob": -0.0901,
+      "no_speech_prob": 0.0726,
+      "review": false
+    },
+    {
+      "start": 1724.41,
+      "end": 1728.23,
+      "text": "所以他把我先放到这个放到观察里面观察吧",
+      "avg_logprob": -0.0901,
+      "no_speech_prob": 0.0726,
+      "review": false
+    },
+    {
+      "start": 1728.23,
+      "end": 1729.89,
+      "text": "就是我们先不说其他的",
+      "avg_logprob": -0.0901,
+      "no_speech_prob": 0.0726,
+      "review": false
+    },
+    {
+      "start": 1729.89,
+      "end": 1732.11,
+      "text": "就从盈亏比的角度来讲",
+      "avg_logprob": -0.0901,
+      "no_speech_prob": 0.0726,
+      "review": false
+    },
+    {
+      "start": 1732.11,
+      "end": 1734.75,
+      "text": "这种这种形态是非常漂亮的",
+      "avg_logprob": -0.0901,
+      "no_speech_prob": 0.0726,
+      "review": false
+    },
+    {
+      "start": 1734.75,
+      "end": 1739.83,
+      "text": "那么从从这个mRNA疫苗的角度来看",
+      "avg_logprob": -0.0901,
+      "no_speech_prob": 0.0726,
+      "review": false
+    },
+    {
+      "start": 1739.83,
+      "end": 1741.43,
+      "text": "我们看看他的这个题材面啊",
+      "avg_logprob": -0.0901,
+      "no_speech_prob": 0.0726,
+      "review": false
+    },
+    {
+      "start": 1741.43,
+      "end": 1743.91,
+      "text": "mRNA疫苗他他算个啥",
+      "avg_logprob": -0.0901,
+      "no_speech_prob": 0.0726,
+      "review": false
+    },
+    {
+      "start": 1743.91,
+      "end": 1745.87,
+      "text": "我看他在里面算个算个什么",
+      "avg_logprob": -0.0901,
+      "no_speech_prob": 0.0726,
+      "review": false
+    },
+    {
+      "start": 1745.87,
+      "end": 1746.43,
+      "text": "智飞",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.06,
+      "review": false
+    },
+    {
+      "start": 1746.43,
+      "end": 1748.89,
+      "text": "沃森是观念度第一的",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.06,
+      "review": false
+    },
+    {
+      "start": 1748.89,
+      "end": 1750.43,
+      "text": "我看沃森观念度第一的",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.06,
+      "review": false
+    },
+    {
+      "start": 1750.43,
+      "end": 1753.41,
+      "text": "他也是跌停回去回来",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.06,
+      "review": false
+    },
+    {
+      "start": 1753.41,
+      "end": 1754.51,
+      "text": "康希诺",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.06,
+      "review": false
+    },
+    {
+      "start": 1754.51,
+      "end": 1757.49,
+      "text": "你看整个的题材都还是不错的",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.06,
+      "review": false
+    },
+    {
+      "start": 1757.49,
+      "end": 1759.89,
+      "text": "你看康希诺已经暴涨了",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.06,
+      "review": false
+    },
+    {
+      "start": 1759.89,
+      "end": 1760.83,
+      "text": "然后呢",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.06,
+      "review": false
+    },
+    {
+      "start": 1760.83,
+      "end": 1764.69,
+      "text": "智飞他是与阿法纳合作了",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.06,
+      "review": false
+    },
+    {
+      "start": 1764.69,
+      "end": 1769.8,
+      "text": "合作了这个投资生性生物切入MRNA赛道",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.06,
+      "review": false
+    },
+    {
+      "start": 1769.8,
+      "end": 1773.87,
+      "text": "也只是和阿法纳合作了",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.06,
+      "review": false
+    },
+    {
+      "start": 1773.87,
+      "end": 1775.29,
+      "text": "还是有合作的",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.06,
+      "review": false
+    },
+    {
+      "start": 1775.29,
+      "end": 1776.45,
+      "text": "还是有合作开发的",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.06,
+      "review": false
+    },
+    {
+      "start": 1776.45,
+      "end": 1780.8,
+      "text": "我们看看智飞、康泰",
+      "avg_logprob": -0.2085,
+      "no_speech_prob": 0.832,
+      "review": true
+    },
+    {
+      "start": 1780.8,
+      "end": 1785.13,
+      "text": "哦他整个的",
+      "avg_logprob": -0.2085,
+      "no_speech_prob": 0.832,
+      "review": true
+    },
+    {
+      "start": 1785.13,
+      "end": 1787.25,
+      "text": "有没有mRNA的这个",
+      "avg_logprob": -0.2085,
+      "no_speech_prob": 0.832,
+      "review": true
+    },
+    {
+      "start": 1787.25,
+      "end": 1791.09,
+      "text": "这个这个mRNA的这个疫苗",
+      "avg_logprob": -0.2085,
+      "no_speech_prob": 0.832,
+      "review": true
+    },
+    {
+      "start": 1791.09,
+      "end": 1792.11,
+      "text": "他应该没有",
+      "avg_logprob": -0.2085,
+      "no_speech_prob": 0.832,
+      "review": true
+    },
+    {
+      "start": 1792.11,
+      "end": 1794.93,
+      "text": "没有这个他的这个什么叫基金啊",
+      "avg_logprob": -0.2085,
+      "no_speech_prob": 0.832,
+      "review": true
+    },
+    {
+      "start": 1794.93,
+      "end": 1797.81,
+      "text": "要这个有他的这个基金的话",
+      "avg_logprob": -0.2085,
+      "no_speech_prob": 0.832,
+      "review": true
+    },
+    {
+      "start": 1797.81,
+      "end": 1798.69,
+      "text": "我觉得我还愿意买",
+      "avg_logprob": -0.2085,
+      "no_speech_prob": 0.832,
+      "review": true
+    },
+    {
+      "start": 1798.69,
+      "end": 1799.73,
+      "text": "你看这些",
+      "avg_logprob": -0.2085,
+      "no_speech_prob": 0.832,
+      "review": true
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 19.84
+}

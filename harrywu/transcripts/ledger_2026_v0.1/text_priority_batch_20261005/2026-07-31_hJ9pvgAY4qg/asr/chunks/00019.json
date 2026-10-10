@@ -1,0 +1,312 @@
+{
+  "begin": 5700.0,
+  "finish": 6000.0,
+  "segments": [
+    {
+      "start": 5698.0,
+      "end": 5721.16,
+      "text": "那是A股,只要不炒概念,这说什么A股很难赚钱,好公司不一定能赚钱,这是A股能赚钱太难了,再好的公司他也不一定能赚钱,他必须要炒题材炒概念,你在A股里面你不去炒题材不去炒概念就很难赚钱,所以说这个公司我只能说公司是好公司,但是炒不起来啊,炒不起来",
+      "avg_logprob": -0.1006,
+      "no_speech_prob": 0.9736,
+      "review": true
+    },
+    {
+      "start": 5721.16,
+      "end": 5768.22,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0836,
+      "no_speech_prob": 0.119,
+      "review": false
+    },
+    {
+      "start": 5768.24,
+      "end": 5815.38,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0361,
+      "no_speech_prob": 0.365,
+      "review": false
+    },
+    {
+      "start": 5815.4,
+      "end": 5816.14,
+      "text": "1点天下",
+      "avg_logprob": -0.1667,
+      "no_speech_prob": 0.2983,
+      "review": false
+    },
+    {
+      "start": 5816.14,
+      "end": 5817.38,
+      "text": "当时蓝色光标第一",
+      "avg_logprob": -0.1667,
+      "no_speech_prob": 0.2983,
+      "review": false
+    },
+    {
+      "start": 5817.38,
+      "end": 5818.34,
+      "text": "1点光标第二",
+      "avg_logprob": -0.1667,
+      "no_speech_prob": 0.2983,
+      "review": false
+    },
+    {
+      "start": 5818.34,
+      "end": 5818.82,
+      "text": "利欧",
+      "avg_logprob": -0.1667,
+      "no_speech_prob": 0.2983,
+      "review": false
+    },
+    {
+      "start": 5818.82,
+      "end": 5820.3,
+      "text": "它都涨停了已经",
+      "avg_logprob": -0.1667,
+      "no_speech_prob": 0.2983,
+      "review": false
+    },
+    {
+      "start": 5820.3,
+      "end": 5821.3,
+      "text": "还有天龙",
+      "avg_logprob": -0.1667,
+      "no_speech_prob": 0.2983,
+      "review": false
+    },
+    {
+      "start": 5821.3,
+      "end": 5822.82,
+      "text": "天龙是排第四的",
+      "avg_logprob": -0.1667,
+      "no_speech_prob": 0.2983,
+      "review": false
+    },
+    {
+      "start": 5822.82,
+      "end": 5825.52,
+      "text": "一般的炒蓝色光标就会炒天龙",
+      "avg_logprob": -0.1667,
+      "no_speech_prob": 0.2983,
+      "review": false
+    },
+    {
+      "start": 5825.52,
+      "end": 5826.58,
+      "text": "但是这些东西都要",
+      "avg_logprob": -0.1667,
+      "no_speech_prob": 0.2983,
+      "review": false
+    },
+    {
+      "start": 5826.58,
+      "end": 5828.7,
+      "text": "其实这些东西你都要课后要做公司",
+      "avg_logprob": -0.1667,
+      "no_speech_prob": 0.2983,
+      "review": false
+    },
+    {
+      "start": 5828.7,
+      "end": 5829.44,
+      "text": "塞里斯起来了",
+      "avg_logprob": -0.1667,
+      "no_speech_prob": 0.2983,
+      "review": false
+    },
+    {
+      "start": 5829.44,
+      "end": 5830.16,
+      "text": "起来了买吧",
+      "avg_logprob": -0.1667,
+      "no_speech_prob": 0.2983,
+      "review": false
+    },
+    {
+      "start": 5830.16,
+      "end": 5831.7,
+      "text": "这个也差不了多少了",
+      "avg_logprob": -0.1667,
+      "no_speech_prob": 0.2983,
+      "review": false
+    },
+    {
+      "start": 5831.7,
+      "end": 5832.66,
+      "text": "就是它再往下跌",
+      "avg_logprob": -0.1667,
+      "no_speech_prob": 0.2983,
+      "review": false
+    },
+    {
+      "start": 5832.66,
+      "end": 5833.7,
+      "text": "跌个1%而已",
+      "avg_logprob": -0.1667,
+      "no_speech_prob": 0.2983,
+      "review": false
+    },
+    {
+      "start": 5833.7,
+      "end": 5834.48,
+      "text": "就是我估计",
+      "avg_logprob": -0.1667,
+      "no_speech_prob": 0.2983,
+      "review": false
+    },
+    {
+      "start": 5834.48,
+      "end": 5835.18,
+      "text": "你想嘛",
+      "avg_logprob": -0.1667,
+      "no_speech_prob": 0.2983,
+      "review": false
+    },
+    {
+      "start": 5835.18,
+      "end": 5837.16,
+      "text": "它要跌到61块7",
+      "avg_logprob": -0.1667,
+      "no_speech_prob": 0.2983,
+      "review": false
+    },
+    {
+      "start": 5837.16,
+      "end": 5838.34,
+      "text": "也只是跌个1%而已",
+      "avg_logprob": -0.1667,
+      "no_speech_prob": 0.2983,
+      "review": false
+    },
+    {
+      "start": 5838.34,
+      "end": 5839.26,
+      "text": "可以做了",
+      "avg_logprob": -0.1667,
+      "no_speech_prob": 0.2983,
+      "review": false
+    },
+    {
+      "start": 5839.26,
+      "end": 5841.7,
+      "text": "这个也不用等啥了",
+      "avg_logprob": -0.1667,
+      "no_speech_prob": 0.2983,
+      "review": false
+    },
+    {
+      "start": 5841.7,
+      "end": 5847.22,
+      "text": "反正就是",
+      "avg_logprob": -0.1667,
+      "no_speech_prob": 0.2983,
+      "review": false
+    },
+    {
+      "start": 5847.22,
+      "end": 5849.14,
+      "text": "这个也只是跌1%而已",
+      "avg_logprob": -0.1667,
+      "no_speech_prob": 0.2983,
+      "review": false
+    },
+    {
+      "start": 5849.14,
+      "end": 5879.84,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.109,
+      "no_speech_prob": 0.9937,
+      "review": true
+    },
+    {
+      "start": 5879.86,
+      "end": 5911.86,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1168,
+      "no_speech_prob": 0.0938,
+      "review": false
+    },
+    {
+      "start": 5911.88,
+      "end": 5950.57,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0994,
+      "no_speech_prob": 0.1987,
+      "review": false
+    },
+    {
+      "start": 5950.59,
+      "end": 5964.37,
+      "text": "微软健康也是AI医疗,它今天涨也涨的分支,它不是跟着涨医药,它是涨的也是相当于是AI医疗的一个分支",
+      "avg_logprob": -0.169,
+      "no_speech_prob": 0.4097,
+      "review": false
+    },
+    {
+      "start": 5964.37,
+      "end": 5974.09,
+      "text": "你看,其实今天新题材就是这个AI的这个营销,就是这块,新题材就是这块",
+      "avg_logprob": -0.169,
+      "no_speech_prob": 0.4097,
+      "review": false
+    },
+    {
+      "start": 5974.09,
+      "end": 5981.03,
+      "text": "但是你,大家可以看到,今天这个题材才出来,但是昨天资金就先进了安森光标",
+      "avg_logprob": -0.169,
+      "no_speech_prob": 0.4097,
+      "review": false
+    },
+    {
+      "start": 5981.27,
+      "end": 5985.87,
+      "text": "是不是,我们这两天连续直播你会发现,资金首先先于板块而动",
+      "avg_logprob": -0.169,
+      "no_speech_prob": 0.4097,
+      "review": false
+    },
+    {
+      "start": 5985.87,
+      "end": 5987.61,
+      "text": "这就是为什么说",
+      "avg_logprob": -0.08,
+      "no_speech_prob": 0.0021,
+      "review": false
+    },
+    {
+      "start": 5987.61,
+      "end": 5991.29,
+      "text": "你看我为什么反复的我要去看这个东西",
+      "avg_logprob": -0.08,
+      "no_speech_prob": 0.0021,
+      "review": false
+    },
+    {
+      "start": 5991.29,
+      "end": 5993.73,
+      "text": "你看我每天每隔一个小时",
+      "avg_logprob": -0.08,
+      "no_speech_prob": 0.0021,
+      "review": false
+    },
+    {
+      "start": 5993.73,
+      "end": 5996.27,
+      "text": "我就会扫一遍这个主力金额",
+      "avg_logprob": -0.08,
+      "no_speech_prob": 0.0021,
+      "review": false
+    },
+    {
+      "start": 5996.27,
+      "end": 5998.79,
+      "text": "我几乎每隔一个小时",
+      "avg_logprob": -0.08,
+      "no_speech_prob": 0.0021,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 20.42
+}

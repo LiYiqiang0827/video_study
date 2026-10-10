@@ -1,0 +1,576 @@
+{
+  "begin": 1200.0,
+  "finish": 1500.0,
+  "segments": [
+    {
+      "start": 1198.0,
+      "end": 1231.01,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "avg_logprob": -0.1707,
+      "no_speech_prob": 0.1256,
+      "review": false
+    },
+    {
+      "start": 1231.03,
+      "end": 1261.13,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0483,
+      "no_speech_prob": 0.9922,
+      "review": true
+    },
+    {
+      "start": 1261.15,
+      "end": 1291.13,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0905,
+      "no_speech_prob": 0.252,
+      "review": false
+    },
+    {
+      "start": 1291.15,
+      "end": 1321.13,
+      "text": "中文字幕志愿者 李宗盛",
+      "avg_logprob": -0.4281,
+      "no_speech_prob": 0.5957,
+      "review": true
+    },
+    {
+      "start": 1321.15,
+      "end": 1322.99,
+      "text": "基本上可以保证80%的概率",
+      "avg_logprob": -0.0776,
+      "no_speech_prob": 0.2469,
+      "review": false
+    },
+    {
+      "start": 1322.99,
+      "end": 1324.09,
+      "text": "所以你不用太着急",
+      "avg_logprob": -0.0776,
+      "no_speech_prob": 0.2469,
+      "review": false
+    },
+    {
+      "start": 1324.09,
+      "end": 1324.73,
+      "text": "我个人觉得",
+      "avg_logprob": -0.0776,
+      "no_speech_prob": 0.2469,
+      "review": false
+    },
+    {
+      "start": 1324.73,
+      "end": 1326.65,
+      "text": "所以就仓位控制好再行",
+      "avg_logprob": -0.0776,
+      "no_speech_prob": 0.2469,
+      "review": false
+    },
+    {
+      "start": 1326.65,
+      "end": 1328.01,
+      "text": "你仓位控制不好",
+      "avg_logprob": -0.0776,
+      "no_speech_prob": 0.2469,
+      "review": false
+    },
+    {
+      "start": 1328.01,
+      "end": 1329.11,
+      "text": "你肯定会着急",
+      "avg_logprob": -0.0776,
+      "no_speech_prob": 0.2469,
+      "review": false
+    },
+    {
+      "start": 1329.11,
+      "end": 1329.89,
+      "text": "是不是",
+      "avg_logprob": -0.0776,
+      "no_speech_prob": 0.2469,
+      "review": false
+    },
+    {
+      "start": 1329.89,
+      "end": 1333.75,
+      "text": "美股的盘后是啥意思",
+      "avg_logprob": -0.0776,
+      "no_speech_prob": 0.2469,
+      "review": false
+    },
+    {
+      "start": 1333.75,
+      "end": 1334.89,
+      "text": "对啊你们好多都不知道",
+      "avg_logprob": -0.0776,
+      "no_speech_prob": 0.2469,
+      "review": false
+    },
+    {
+      "start": 1334.89,
+      "end": 1337.15,
+      "text": "美股的盘后就是美股",
+      "avg_logprob": -0.0776,
+      "no_speech_prob": 0.2469,
+      "review": false
+    },
+    {
+      "start": 1337.15,
+      "end": 1338.45,
+      "text": "它不光是日内",
+      "avg_logprob": -0.0776,
+      "no_speech_prob": 0.2469,
+      "review": false
+    },
+    {
+      "start": 1338.45,
+      "end": 1339.21,
+      "text": "它盘后还有",
+      "avg_logprob": -0.0776,
+      "no_speech_prob": 0.2469,
+      "review": false
+    },
+    {
+      "start": 1339.21,
+      "end": 1341.17,
+      "text": "它盘后财报大跌",
+      "avg_logprob": -0.0776,
+      "no_speech_prob": 0.2469,
+      "review": false
+    },
+    {
+      "start": 1341.17,
+      "end": 1343.47,
+      "text": "就是盘后啥意思",
+      "avg_logprob": -0.0776,
+      "no_speech_prob": 0.2469,
+      "review": false
+    },
+    {
+      "start": 1343.47,
+      "end": 1346.77,
+      "text": "就是这个盘后它也可以交易",
+      "avg_logprob": -0.0776,
+      "no_speech_prob": 0.2469,
+      "review": false
+    },
+    {
+      "start": 1346.77,
+      "end": 1348.71,
+      "text": "只是交易的量比较小一点而已",
+      "avg_logprob": -0.0776,
+      "no_speech_prob": 0.2469,
+      "review": false
+    },
+    {
+      "start": 1348.71,
+      "end": 1349.87,
+      "text": "特别是出了财报",
+      "avg_logprob": -0.0776,
+      "no_speech_prob": 0.2469,
+      "review": false
+    },
+    {
+      "start": 1349.87,
+      "end": 1351.85,
+      "text": "这样之它基本上是不会涨起来了",
+      "avg_logprob": -0.0776,
+      "no_speech_prob": 0.2469,
+      "review": false
+    },
+    {
+      "start": 1351.85,
+      "end": 1352.97,
+      "text": "因为他出财报了嘛",
+      "avg_logprob": -0.1587,
+      "no_speech_prob": 0.29,
+      "review": false
+    },
+    {
+      "start": 1352.97,
+      "end": 1354.07,
+      "text": "他财报比较",
+      "avg_logprob": -0.1587,
+      "no_speech_prob": 0.29,
+      "review": false
+    },
+    {
+      "start": 1354.07,
+      "end": 1355.65,
+      "text": "财报比较差",
+      "avg_logprob": -0.1587,
+      "no_speech_prob": 0.29,
+      "review": false
+    },
+    {
+      "start": 1355.65,
+      "end": 1357.78,
+      "text": "他财报比较差的话",
+      "avg_logprob": -0.1587,
+      "no_speech_prob": 0.29,
+      "review": false
+    },
+    {
+      "start": 1357.78,
+      "end": 1359.98,
+      "text": "他基本上不可能又暴涨了",
+      "avg_logprob": -0.1587,
+      "no_speech_prob": 0.29,
+      "review": false
+    },
+    {
+      "start": 1359.98,
+      "end": 1361.0,
+      "text": "他一跌就会跌的",
+      "avg_logprob": -0.1587,
+      "no_speech_prob": 0.29,
+      "review": false
+    },
+    {
+      "start": 1361.0,
+      "end": 1361.52,
+      "text": "一直跌的",
+      "avg_logprob": -0.1587,
+      "no_speech_prob": 0.29,
+      "review": false
+    },
+    {
+      "start": 1361.52,
+      "end": 1362.8,
+      "text": "基本上是这样子啊",
+      "avg_logprob": -0.1587,
+      "no_speech_prob": 0.29,
+      "review": false
+    },
+    {
+      "start": 1362.8,
+      "end": 1364.6,
+      "text": "你看这个还有一个",
+      "avg_logprob": -0.1587,
+      "no_speech_prob": 0.29,
+      "review": false
+    },
+    {
+      "start": 1364.6,
+      "end": 1366.22,
+      "text": "这个不当是他跌",
+      "avg_logprob": -0.1587,
+      "no_speech_prob": 0.29,
+      "review": false
+    },
+    {
+      "start": 1366.22,
+      "end": 1367.38,
+      "text": "还有一只也在跌",
+      "avg_logprob": -0.1587,
+      "no_speech_prob": 0.29,
+      "review": false
+    },
+    {
+      "start": 1367.38,
+      "end": 1367.9,
+      "text": "你看是不是",
+      "avg_logprob": -0.1587,
+      "no_speech_prob": 0.29,
+      "review": false
+    },
+    {
+      "start": 1367.9,
+      "end": 1370.52,
+      "text": "还有一个这个西部数据",
+      "avg_logprob": -0.1587,
+      "no_speech_prob": 0.29,
+      "review": false
+    },
+    {
+      "start": 1370.52,
+      "end": 1371.48,
+      "text": "WDC",
+      "avg_logprob": -0.1587,
+      "no_speech_prob": 0.29,
+      "review": false
+    },
+    {
+      "start": 1371.48,
+      "end": 1373.66,
+      "text": "这个都是非常重要的",
+      "avg_logprob": -0.1587,
+      "no_speech_prob": 0.29,
+      "review": false
+    },
+    {
+      "start": 1373.66,
+      "end": 1374.44,
+      "text": "WDC",
+      "avg_logprob": -0.1587,
+      "no_speech_prob": 0.29,
+      "review": false
+    },
+    {
+      "start": 1374.44,
+      "end": 1375.88,
+      "text": "西部数据纯属",
+      "avg_logprob": -0.1587,
+      "no_speech_prob": 0.29,
+      "review": false
+    },
+    {
+      "start": 1375.88,
+      "end": 1376.16,
+      "text": "你看",
+      "avg_logprob": -0.1587,
+      "no_speech_prob": 0.29,
+      "review": false
+    },
+    {
+      "start": 1376.16,
+      "end": 1377.54,
+      "text": "他跌的更狠",
+      "avg_logprob": -0.1587,
+      "no_speech_prob": 0.29,
+      "review": false
+    },
+    {
+      "start": 1377.54,
+      "end": 1379.49,
+      "text": "他盘后跌了",
+      "avg_logprob": -0.1587,
+      "no_speech_prob": 0.29,
+      "review": false
+    },
+    {
+      "start": 1379.49,
+      "end": 1380.89,
+      "text": "你看盘后跌了11%",
+      "avg_logprob": -0.1587,
+      "no_speech_prob": 0.29,
+      "review": false
+    },
+    {
+      "start": 1380.89,
+      "end": 1414.46,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1042,
+      "no_speech_prob": 0.1005,
+      "review": false
+    },
+    {
+      "start": 1414.48,
+      "end": 1461.92,
+      "text": "是啊,你看芯片,我卖的那个位置其实没那么好,现在又起来了,但是那个没有关系,那就是我的交易原则,它起来就起来,是吧,那有啥,没有啥的啊,没有什么,实际上现在它这个低开之后啊,它都高走了一些些,但是如果刚才没有走完的话,我会在现在低开高走的位置现在全部减仓,全部平仓啊,这是我的交易规则,基本上是,我手里这些也没问题,但是我也不加仓了,",
+      "avg_logprob": -0.0599,
+      "no_speech_prob": 0.646,
+      "review": true
+    },
+    {
+      "start": 1461.92,
+      "end": 1465.14,
+      "text": "因为今天如果我赚钱我又不加仓了",
+      "avg_logprob": -0.1728,
+      "no_speech_prob": 0.2385,
+      "review": false
+    },
+    {
+      "start": 1465.14,
+      "end": 1466.6,
+      "text": "因为这个",
+      "avg_logprob": -0.1728,
+      "no_speech_prob": 0.2385,
+      "review": false
+    },
+    {
+      "start": 1466.6,
+      "end": 1469.7,
+      "text": "你看咱们的拥有选的也是正确的",
+      "avg_logprob": -0.1728,
+      "no_speech_prob": 0.2385,
+      "review": false
+    },
+    {
+      "start": 1469.7,
+      "end": 1469.92,
+      "text": "是吧",
+      "avg_logprob": -0.1728,
+      "no_speech_prob": 0.2385,
+      "review": false
+    },
+    {
+      "start": 1469.92,
+      "end": 1470.6,
+      "text": "也没有问题",
+      "avg_logprob": -0.1728,
+      "no_speech_prob": 0.2385,
+      "review": false
+    },
+    {
+      "start": 1470.6,
+      "end": 1471.96,
+      "text": "拥有也是赚钱的",
+      "avg_logprob": -0.1728,
+      "no_speech_prob": 0.2385,
+      "review": false
+    },
+    {
+      "start": 1471.96,
+      "end": 1474.42,
+      "text": "这个新业这些只要是赚钱的",
+      "avg_logprob": -0.1728,
+      "no_speech_prob": 0.2385,
+      "review": false
+    },
+    {
+      "start": 1474.42,
+      "end": 1475.06,
+      "text": "你就尽量拿",
+      "avg_logprob": -0.1728,
+      "no_speech_prob": 0.2385,
+      "review": false
+    },
+    {
+      "start": 1475.06,
+      "end": 1476.04,
+      "text": "不要那么着急走",
+      "avg_logprob": -0.1728,
+      "no_speech_prob": 0.2385,
+      "review": false
+    },
+    {
+      "start": 1476.04,
+      "end": 1477.4,
+      "text": "拥有就赚钱了",
+      "avg_logprob": -0.1728,
+      "no_speech_prob": 0.2385,
+      "review": false
+    },
+    {
+      "start": 1477.4,
+      "end": 1477.62,
+      "text": "你看",
+      "avg_logprob": -0.1728,
+      "no_speech_prob": 0.2385,
+      "review": false
+    },
+    {
+      "start": 1477.62,
+      "end": 1478.9,
+      "text": "不要着急走",
+      "avg_logprob": -0.1728,
+      "no_speech_prob": 0.2385,
+      "review": false
+    },
+    {
+      "start": 1478.9,
+      "end": 1480.4,
+      "text": "黄黄炫芳也是赚钱的",
+      "avg_logprob": -0.1728,
+      "no_speech_prob": 0.2385,
+      "review": false
+    },
+    {
+      "start": 1480.4,
+      "end": 1481.12,
+      "text": "不要着急走",
+      "avg_logprob": -0.1728,
+      "no_speech_prob": 0.2385,
+      "review": false
+    },
+    {
+      "start": 1481.12,
+      "end": 1484.79,
+      "text": "互联网黄金不管他了",
+      "avg_logprob": -0.1728,
+      "no_speech_prob": 0.2385,
+      "review": false
+    },
+    {
+      "start": 1484.79,
+      "end": 1485.81,
+      "text": "这个反正也是赚钱的",
+      "avg_logprob": -0.1728,
+      "no_speech_prob": 0.2385,
+      "review": false
+    },
+    {
+      "start": 1485.81,
+      "end": 1486.87,
+      "text": "至少现在赚钱的",
+      "avg_logprob": -0.1728,
+      "no_speech_prob": 0.2385,
+      "review": false
+    },
+    {
+      "start": 1486.87,
+      "end": 1488.69,
+      "text": "夏孟五月也赚钱的",
+      "avg_logprob": -0.1728,
+      "no_speech_prob": 0.2385,
+      "review": false
+    },
+    {
+      "start": 1488.69,
+      "end": 1490.29,
+      "text": "凯因网络嘛",
+      "avg_logprob": -0.1728,
+      "no_speech_prob": 0.2385,
+      "review": false
+    },
+    {
+      "start": 1490.29,
+      "end": 1491.17,
+      "text": "我估计今天",
+      "avg_logprob": -0.1728,
+      "no_speech_prob": 0.2385,
+      "review": false
+    },
+    {
+      "start": 1491.17,
+      "end": 1492.93,
+      "text": "那前面几个网络在涨",
+      "avg_logprob": -0.1728,
+      "no_speech_prob": 0.2385,
+      "review": false
+    },
+    {
+      "start": 1492.93,
+      "end": 1494.05,
+      "text": "他应该差不点去",
+      "avg_logprob": -0.2315,
+      "no_speech_prob": 0.3367,
+      "review": false
+    },
+    {
+      "start": 1494.05,
+      "end": 1496.07,
+      "text": "诺普,这个已经走了",
+      "avg_logprob": -0.2315,
+      "no_speech_prob": 0.3367,
+      "review": false
+    },
+    {
+      "start": 1496.07,
+      "end": 1497.05,
+      "text": "这已经走了",
+      "avg_logprob": -0.2315,
+      "no_speech_prob": 0.3367,
+      "review": false
+    },
+    {
+      "start": 1497.05,
+      "end": 1498.51,
+      "text": "这就不用说了",
+      "avg_logprob": -0.2315,
+      "no_speech_prob": 0.3367,
+      "review": false
+    },
+    {
+      "start": 1498.51,
+      "end": 1499.77,
+      "text": "这种错了就错了",
+      "avg_logprob": -0.2315,
+      "no_speech_prob": 0.3367,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 25.53
+}

@@ -1,0 +1,18 @@
+{
+  "created_at": "2026-10-05T00:20:13.809316+00:00",
+  "sources": {
+    "ASTRA_MKT_WEATHER_V02_EXECUTION_BRIEF_20261005.md": "a98763be5380346267abd697e880a867e989a0d2eca6cd55d5ed9b8406e8e379",
+    "DATA_UNIFY_20261005.md": "59a42cf7f41584ec5341d5e7acd6c71b48984431c0b7aebd9fad1f6214cc74ba",
+    "market_sentiment_state_machine_design_v0.2_20261005.md": "8011cb48706fd8c74d38dbe78339602489fe9c13a8db36795b98640c7500a5f2"
+  },
+  "frozen_spec_sha256": "5e9c555733b83d9644aa224de2a867fd655fbe795453a8259da0aae38a4344a3",
+  "calibration_file_sha256": "cc3d0898686ced275740a3bb71eebd4b0002f6b7f754088663ebb712b8369a56",
+  "calibration_internal_fingerprint": "99cbcb663454bae1d93ec839c3fad0ff7b1b8893cc2ff5f84d860bb34aea36cf",
+  "published_raw_daily_sha256": "0c98dd4270a662948aeafe71b366243032c4207b4a1ac3baa71c96b0b44fb017",
+  "f1_reused_source_sha256": {
+    "production.py": "73a0e4ae9344837811369e9d7bbf07d648968e863a49e2f5c84a54523fa92dd5",
+    "score.py": "e5d3f22537769be436f14b9ea13358acee12052ef290aa6f7c737551bffaa853",
+    "config/formal_spec.json": "6229cfc9be8f0c0fb794ffe71a28b6edc49f456e82f5fb7d7a211781a298bb42"
+  },
+  "note": "F1 input content hashes and published-table match are in controller_acceptance.json and W01 evidence; old source algorithms unchanged."
+}

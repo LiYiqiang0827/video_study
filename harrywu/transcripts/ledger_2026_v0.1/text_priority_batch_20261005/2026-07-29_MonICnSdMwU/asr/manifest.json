@@ -1,0 +1,530 @@
+{
+  "schema": 2,
+  "version": "2.0",
+  "source": "D:\\YuncongVideoAnalysis\\2026-01-01_to_2026-10-03\\一人苦，不如一起苦 ;) A股一起看盘（7月29日 上午930点 ）.mp4",
+  "source_bytes": 245049037,
+  "source_sha256": "189ec7f55ce36a643d269e8d9d1267b961fcf305875c321e0f1de9b6a4e88da2",
+  "source_modified": "2026-10-03T02:40:32.290000+00:00",
+  "params": {
+    "model": "large-v3",
+    "language": "zh",
+    "device": "cuda",
+    "compute_type": "float16",
+    "start": 0.0,
+    "end": null,
+    "vad": "conservative",
+    "chunk_seconds": 300,
+    "no_audio": false,
+    "no_video": true,
+    "no_ocr": true,
+    "frame_interval": null,
+    "change_threshold": 0.004,
+    "max_frames": 300,
+    "perspective": false,
+    "selected_audio_stream": 1,
+    "profile_sha256": "7dd677164d7ee353da6ed2b3230e9d9233ad7f441e963494d32ff75247b45c97"
+  },
+  "params_sha256": "8c9314ab252786dfc9aa7e28a38b7de92ac4340613d48e4106c9b87dea708942",
+  "created": "2026-10-05T09:55:14.160353+00:00",
+  "start": 0.0,
+  "end": 6883.323356,
+  "duration": 6883.323356,
+  "streams": [
+    {
+      "index": 0,
+      "codec_name": "h264",
+      "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+      "profile": "Main",
+      "codec_type": "video",
+      "codec_tag_string": "avc1",
+      "codec_tag": "0x31637661",
+      "mime_codec_string": "avc1.4d401f",
+      "width": 1280,
+      "height": 720,
+      "coded_width": 1280,
+      "coded_height": 720,
+      "has_b_frames": 1,
+      "sample_aspect_ratio": "1:1",
+      "display_aspect_ratio": "16:9",
+      "pix_fmt": "yuv420p",
+      "level": 31,
+      "color_range": "tv",
+      "color_space": "bt709",
+      "color_transfer": "bt709",
+      "color_primaries": "bt709",
+      "chroma_location": "left",
+      "field_order": "progressive",
+      "is_avc": "true",
+      "nal_length_size": "4",
+      "id": "0x1",
+      "r_frame_rate": "30/1",
+      "avg_frame_rate": "30/1",
+      "time_base": "1/15360",
+      "start_pts": 0,
+      "start_time": "0.000000",
+      "duration_ts": 105726976,
+      "duration": "6883.266667",
+      "bit_rate": "148544",
+      "bits_per_raw_sample": "8",
+      "nb_frames": "206498",
+      "extradata_size": 43,
+      "disposition": {
+        "default": 1,
+        "dub": 0,
+        "original": 0,
+        "comment": 0,
+        "lyrics": 0,
+        "karaoke": 0,
+        "forced": 0,
+        "hearing_impaired": 0,
+        "visual_impaired": 0,
+        "clean_effects": 0,
+        "attached_pic": 0,
+        "timed_thumbnails": 0,
+        "non_diegetic": 0,
+        "captions": 0,
+        "descriptions": 0,
+        "metadata": 0,
+        "dependent": 0,
+        "still_image": 0,
+        "multilayer": 0
+      },
+      "tags": {
+        "language": "und",
+        "handler_name": "ISO Media file produced by Google Inc."
+      }
+    },
+    {
+      "index": 1,
+      "codec_name": "aac",
+      "codec_long_name": "AAC (Advanced Audio Coding)",
+      "profile": "LC",
+      "codec_type": "audio",
+      "codec_tag_string": "mp4a",
+      "codec_tag": "0x6134706d",
+      "mime_codec_string": "mp4a.40.2",
+      "sample_fmt": "fltp",
+      "sample_rate": "44100",
+      "channels": 2,
+      "channel_layout": "stereo",
+      "bits_per_sample": 0,
+      "initial_padding": 0,
+      "id": "0x2",
+      "r_frame_rate": "0/0",
+      "avg_frame_rate": "0/0",
+      "time_base": "1/44100",
+      "start_pts": 0,
+      "start_time": "0.000000",
+      "duration_ts": 303554560,
+      "duration": "6883.323356",
+      "bit_rate": "127999",
+      "nb_frames": "296440",
+      "extradata_size": 16,
+      "disposition": {
+        "default": 1,
+        "dub": 0,
+        "original": 0,
+        "comment": 0,
+        "lyrics": 0,
+        "karaoke": 0,
+        "forced": 0,
+        "hearing_impaired": 0,
+        "visual_impaired": 0,
+        "clean_effects": 0,
+        "attached_pic": 0,
+        "timed_thumbnails": 0,
+        "non_diegetic": 0,
+        "captions": 0,
+        "descriptions": 0,
+        "metadata": 0,
+        "dependent": 0,
+        "still_image": 0,
+        "multilayer": 0
+      },
+      "tags": {
+        "language": "eng",
+        "handler_name": "ISO Media file produced by Google Inc."
+      }
+    }
+  ],
+  "steps": {
+    "audio": "complete",
+    "video": "skipped",
+    "evidence": "failed"
+  },
+  "model": {
+    "id": "Systran/faster-whisper-large-v3",
+    "revision": "edaa852ec7e145841d8ffdb056a99866b5f0a478",
+    "cache": "C:\\Users\\HarryWu_IOKI\\.cache\\huggingface\\hub\\models--Systran--faster-whisper-large-v3\\snapshots\\edaa852ec7e145841d8ffdb056a99866b5f0a478",
+    "hotwords_sha256": "bb7209225833d3c42da25ea3207ea1644b1cd3fe53578bee44fc34c07b7c4bd4"
+  },
+  "chunks": [
+    {
+      "index": 0,
+      "sha256": "0e9f45e2d71c8fb91d56cd9c29287e2f978d50f4a9dc6a47d9636e65f3e2be64",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 16.75,
+        "cpu_percent": 12.8,
+        "vram_free_gib": 7.21,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 0.62
+      },
+      "elapsed_seconds": 9.28
+    },
+    {
+      "index": 1,
+      "sha256": "7fdd542026e0d05b806de564d411e748151c97449b019b3e6eee9d304cb590b6",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 16.28,
+        "cpu_percent": 21.6,
+        "vram_free_gib": 3.28,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 4.55
+      },
+      "elapsed_seconds": 16.76
+    },
+    {
+      "index": 2,
+      "sha256": "458b86a1be7ce2ee00bc1b1f1d2ae59cf859c67e547a7ac4eda7c491f0700fd7",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 16.26,
+        "cpu_percent": 27.8,
+        "vram_free_gib": 3.28,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 4.55
+      },
+      "elapsed_seconds": 24.86
+    },
+    {
+      "index": 3,
+      "sha256": "7ae66578df3381ea053ca14022efadd2daffeccfd418d7559c76d78d86001016",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 16.28,
+        "cpu_percent": 25.7,
+        "vram_free_gib": 3.28,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 4.55
+      },
+      "elapsed_seconds": 21.17
+    },
+    {
+      "index": 4,
+      "sha256": "bfd839c57435a9fc1bcaf070031f52d6a1de833a3f56cd431252f856bf5047fd",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 16.28,
+        "cpu_percent": 13.9,
+        "vram_free_gib": 3.28,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 4.55
+      },
+      "elapsed_seconds": 21.5
+    },
+    {
+      "index": 5,
+      "sha256": "9f34d62cad0c71b5f4f6cc13781bc55fc77b45435256ee673e0ff26d4d82a226",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 16.28,
+        "cpu_percent": 44.7,
+        "vram_free_gib": 3.28,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 4.55
+      },
+      "elapsed_seconds": 21.56
+    },
+    {
+      "index": 6,
+      "sha256": "d81fe72a5db3389fdb48be77870f891301c099b66afb706bc6138188a90a85a1",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 15.99,
+        "cpu_percent": 16.1,
+        "vram_free_gib": 3.28,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 4.55
+      },
+      "elapsed_seconds": 17.0
+    },
+    {
+      "index": 7,
+      "sha256": "50e744afb3b4675cc82327050b8e234731a829aecbe2101b5ee563c62e1ae1b7",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 16.0,
+        "cpu_percent": 7.1,
+        "vram_free_gib": 3.28,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 4.55
+      },
+      "elapsed_seconds": 21.72
+    },
+    {
+      "index": 8,
+      "sha256": "b92ceca4fb8c6132b1008ebbfc9c42467be02521a08bc0dd19125e007a0c9d26",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 16.03,
+        "cpu_percent": 11.3,
+        "vram_free_gib": 3.28,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 4.55
+      },
+      "elapsed_seconds": 21.52
+    },
+    {
+      "index": 9,
+      "sha256": "4b4473b7e0830c21a2b78510ae121a853ec9bb8afa98e7a5623c61e1e7ed3a72",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 15.99,
+        "cpu_percent": 22.8,
+        "vram_free_gib": 3.28,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 4.55
+      },
+      "elapsed_seconds": 22.52
+    },
+    {
+      "index": 10,
+      "sha256": "9ac8861839e13bf0068c532fa293ea0c3279c2dc6e4600e4d07e649c49015d64",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 15.95,
+        "cpu_percent": 44.0,
+        "vram_free_gib": 3.28,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 4.55
+      },
+      "elapsed_seconds": 21.17
+    },
+    {
+      "index": 11,
+      "sha256": "ea9e08864ebc0adbead8979e94a0e95c34c4a8c44cfa4f5df15687910624f143",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 15.99,
+        "cpu_percent": 7.3,
+        "vram_free_gib": 3.28,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 4.55
+      },
+      "elapsed_seconds": 24.44
+    },
+    {
+      "index": 12,
+      "sha256": "4635d4c10937ce3f96b60215dde44a1f6ed3c43bb6c7bcb286fe91e6f7965147",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 16.0,
+        "cpu_percent": 33.0,
+        "vram_free_gib": 3.28,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 4.55
+      },
+      "elapsed_seconds": 20.67
+    },
+    {
+      "index": 13,
+      "sha256": "b3a1e759f09e8baf64ec47c73719ea96827872cb40b4c76af359eabe337aef79",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 16.22,
+        "cpu_percent": 7.3,
+        "vram_free_gib": 3.28,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 4.55
+      },
+      "elapsed_seconds": 24.72
+    },
+    {
+      "index": 14,
+      "sha256": "ade8529c1e2f210b1922e689ca088b388a9174f7ef92aeff0cb003d7aa8ea37c",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 16.22,
+        "cpu_percent": 13.0,
+        "vram_free_gib": 3.28,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 4.55
+      },
+      "elapsed_seconds": 25.14
+    },
+    {
+      "index": 15,
+      "sha256": "80ff73102d779c8a8fd67ca108a2dd28c90727ad171eb7146d663355e8acb205",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 16.21,
+        "cpu_percent": 19.1,
+        "vram_free_gib": 3.28,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 4.55
+      },
+      "elapsed_seconds": 15.44
+    },
+    {
+      "index": 16,
+      "sha256": "81a4f3227e368262ad59dff6a2d9c7c5474060958f190af636d6d77cd26b54b5",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 16.22,
+        "cpu_percent": 11.8,
+        "vram_free_gib": 3.28,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 4.55
+      },
+      "elapsed_seconds": 28.94
+    },
+    {
+      "index": 17,
+      "sha256": "a3ca83a1bde0cf301a49a2b5192b7b8af6fc6196b5f20544807d9a62eb7be50a",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 16.2,
+        "cpu_percent": 11.0,
+        "vram_free_gib": 3.28,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 4.55
+      },
+      "elapsed_seconds": 19.12
+    },
+    {
+      "index": 18,
+      "sha256": "c630b253da5e353507fb52f8d2494924b653a19975d1048facf9c1ad5165c8ea",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 15.82,
+        "cpu_percent": 15.6,
+        "vram_free_gib": 3.28,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 4.55
+      },
+      "elapsed_seconds": 16.98
+    },
+    {
+      "index": 19,
+      "sha256": "2e33d1e9c5e5aba34f32e9b7acd51a4c5260cd3eb6bbf647c12d08895527e51b",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 15.93,
+        "cpu_percent": 24.6,
+        "vram_free_gib": 3.28,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 4.55
+      },
+      "elapsed_seconds": 19.98
+    },
+    {
+      "index": 20,
+      "sha256": "4f04ea835602486d1a4dc14a1f60a2ed2f02fde2d9fcc85a96a32b28b9f60f13",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 15.99,
+        "cpu_percent": 7.8,
+        "vram_free_gib": 3.28,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 4.55
+      },
+      "elapsed_seconds": 18.95
+    },
+    {
+      "index": 21,
+      "sha256": "803adcc63d8da00481fd1eba24a7d91b7a57ec6490656a9b75704cd236bf683e",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 15.99,
+        "cpu_percent": 15.7,
+        "vram_free_gib": 3.28,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 4.55
+      },
+      "elapsed_seconds": 17.73
+    },
+    {
+      "index": 22,
+      "sha256": "35cf8598d1510638f52ff72046636b844529d6607d4c07a13d458401d1ba9351",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 15.9,
+        "cpu_percent": 16.8,
+        "vram_free_gib": 3.28,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 4.55
+      },
+      "elapsed_seconds": 25.28
+    }
+  ],
+  "audio": {
+    "model": "Systran/faster-whisper-large-v3",
+    "segments": 1883,
+    "boundary_deduplication": [
+      {
+        "time": 2398.65,
+        "action": "overlapping_alternative",
+        "kept": "later",
+        "review": true
+      }
+    ],
+    "possible_silence_intervals": [
+      {
+        "start": 305.4,
+        "end": 333.54
+      },
+      {
+        "start": 2078.2,
+        "end": 2099.52
+      },
+      {
+        "start": 3003.74,
+        "end": 3028.0
+      },
+      {
+        "start": 4197.37,
+        "end": 4207.45
+      },
+      {
+        "start": 4699.66,
+        "end": 4728.01
+      }
+    ],
+    "review_count": 755,
+    "elapsed_seconds": 476.45
+  },
+  "outputs": {
+    "speech.json": "80a451e963494893f4c2abd58f013097adccffb2832e68d4f0d7bb27a8a05dd0",
+    "speech.md": "ff868cc81b3d20b54d61d3cc1fc7d4a45fd55148f870ae236d0b5afd51adc2d2"
+  },
+  "last_error": {
+    "type": "ValueError",
+    "message": "Speech timestamp outside selected interval",
+    "time": "2026-10-05T10:03:30.140753+00:00"
+  }
+}

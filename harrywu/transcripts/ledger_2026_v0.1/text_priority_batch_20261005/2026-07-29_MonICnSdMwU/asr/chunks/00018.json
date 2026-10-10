@@ -1,0 +1,576 @@
+{
+  "begin": 5400.0,
+  "finish": 5700.0,
+  "segments": [
+    {
+      "start": 5400.28,
+      "end": 5402.55,
+      "text": "我这边查一查",
+      "avg_logprob": -0.2228,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5402.55,
+      "end": 5415.44,
+      "text": "他一定是有理由的",
+      "avg_logprob": -0.2228,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5415.44,
+      "end": 5444.15,
+      "text": "我靠他真不知道理由",
+      "avg_logprob": -0.2228,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5444.15,
+      "end": 5448.92,
+      "text": "不知道要炒啥",
+      "avg_logprob": -0.2228,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5448.92,
+      "end": 5458.28,
+      "text": "得好好研究一下他了",
+      "avg_logprob": -0.2228,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5458.28,
+      "end": 5460.15,
+      "text": "不知道要炒啥",
+      "avg_logprob": -0.2228,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5460.15,
+      "end": 5464.54,
+      "text": "这边都没有找到他的炒的这个题材出来",
+      "avg_logprob": -0.2228,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5464.54,
+      "end": 5466.34,
+      "text": "题材亮点都没有",
+      "avg_logprob": -0.2228,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5466.34,
+      "end": 5468.3,
+      "text": "我看他的这个股东是谁",
+      "avg_logprob": -0.2228,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5468.3,
+      "end": 5477.93,
+      "text": "还有集团",
+      "avg_logprob": -0.2228,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5477.93,
+      "end": 5482.05,
+      "text": "股东增减吃",
+      "avg_logprob": -0.2228,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5482.05,
+      "end": 5486.15,
+      "text": "好像是国资委的吧",
+      "avg_logprob": -0.2228,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5486.15,
+      "end": 5488.84,
+      "text": "国资委的应该是",
+      "avg_logprob": -0.2019,
+      "no_speech_prob": 0.2328,
+      "review": false
+    },
+    {
+      "start": 5488.84,
+      "end": 5508.08,
+      "text": "香港中央结算在进",
+      "avg_logprob": -0.2019,
+      "no_speech_prob": 0.2328,
+      "review": false
+    },
+    {
+      "start": 5508.08,
+      "end": 5511.47,
+      "text": "李卓退出",
+      "avg_logprob": -0.2019,
+      "no_speech_prob": 0.2328,
+      "review": false
+    },
+    {
+      "start": 5511.47,
+      "end": 5520.51,
+      "text": "夏崇阳、余洪彪在进",
+      "avg_logprob": -0.2019,
+      "no_speech_prob": 0.2328,
+      "review": false
+    },
+    {
+      "start": 5520.51,
+      "end": 5525.62,
+      "text": "周津天、高盛国际在进",
+      "avg_logprob": -0.2019,
+      "no_speech_prob": 0.2328,
+      "review": false
+    },
+    {
+      "start": 5525.62,
+      "end": 5526.82,
+      "text": "自由自尽",
+      "avg_logprob": -0.2019,
+      "no_speech_prob": 0.2328,
+      "review": false
+    },
+    {
+      "start": 5526.82,
+      "end": 5528.24,
+      "text": "新进的",
+      "avg_logprob": -0.2019,
+      "no_speech_prob": 0.2328,
+      "review": false
+    },
+    {
+      "start": 5528.24,
+      "end": 5532.3,
+      "text": "高盛国际在进",
+      "avg_logprob": -0.2019,
+      "no_speech_prob": 0.2328,
+      "review": false
+    },
+    {
+      "start": 5532.3,
+      "end": 5535.78,
+      "text": "而且高盛国际的自由自尽在进",
+      "avg_logprob": -0.2019,
+      "no_speech_prob": 0.2328,
+      "review": false
+    },
+    {
+      "start": 5535.78,
+      "end": 5548.3,
+      "text": "可以值得看一看",
+      "avg_logprob": -0.2019,
+      "no_speech_prob": 0.2328,
+      "review": false
+    },
+    {
+      "start": 5548.3,
+      "end": 5551.85,
+      "text": "你想高盛国际自己在进",
+      "avg_logprob": -0.2019,
+      "no_speech_prob": 0.2328,
+      "review": false
+    },
+    {
+      "start": 5551.85,
+      "end": 5552.95,
+      "text": "然后呢",
+      "avg_logprob": -0.1764,
+      "no_speech_prob": 0.5063,
+      "review": true
+    },
+    {
+      "start": 5552.95,
+      "end": 5554.79,
+      "text": "新晋这几个股东",
+      "avg_logprob": -0.1764,
+      "no_speech_prob": 0.5063,
+      "review": true
+    },
+    {
+      "start": 5554.79,
+      "end": 5557.35,
+      "text": "你们可以去查一下他们是什么人",
+      "avg_logprob": -0.1764,
+      "no_speech_prob": 0.5063,
+      "review": true
+    },
+    {
+      "start": 5557.35,
+      "end": 5557.71,
+      "text": "我跟你说",
+      "avg_logprob": -0.1764,
+      "no_speech_prob": 0.5063,
+      "review": true
+    },
+    {
+      "start": 5557.71,
+      "end": 5559.29,
+      "text": "就是要做这么细致的工作",
+      "avg_logprob": -0.1764,
+      "no_speech_prob": 0.5063,
+      "review": true
+    },
+    {
+      "start": 5559.29,
+      "end": 5561.15,
+      "text": "面对这些妖股啊",
+      "avg_logprob": -0.1764,
+      "no_speech_prob": 0.5063,
+      "review": true
+    },
+    {
+      "start": 5561.15,
+      "end": 5563.03,
+      "text": "我告诉你们一些方法",
+      "avg_logprob": -0.1764,
+      "no_speech_prob": 0.5063,
+      "review": true
+    },
+    {
+      "start": 5563.03,
+      "end": 5563.71,
+      "text": "你敢",
+      "avg_logprob": -0.1764,
+      "no_speech_prob": 0.5063,
+      "review": true
+    },
+    {
+      "start": 5563.71,
+      "end": 5565.33,
+      "text": "你人肉搜索一下",
+      "avg_logprob": -0.1764,
+      "no_speech_prob": 0.5063,
+      "review": true
+    },
+    {
+      "start": 5565.33,
+      "end": 5566.33,
+      "text": "金周天",
+      "avg_logprob": -0.1764,
+      "no_speech_prob": 0.5063,
+      "review": true
+    },
+    {
+      "start": 5566.33,
+      "end": 5567.75,
+      "text": "什么韩金森",
+      "avg_logprob": -0.1764,
+      "no_speech_prob": 0.5063,
+      "review": true
+    },
+    {
+      "start": 5567.75,
+      "end": 5568.81,
+      "text": "这些是什么人",
+      "avg_logprob": -0.1764,
+      "no_speech_prob": 0.5063,
+      "review": true
+    },
+    {
+      "start": 5568.81,
+      "end": 5569.95,
+      "text": "啊",
+      "avg_logprob": -0.1764,
+      "no_speech_prob": 0.5063,
+      "review": true
+    },
+    {
+      "start": 5569.95,
+      "end": 5571.73,
+      "text": "搞不好他们有些内幕消息",
+      "avg_logprob": -0.1764,
+      "no_speech_prob": 0.5063,
+      "review": true
+    },
+    {
+      "start": 5571.73,
+      "end": 5572.63,
+      "text": "啊",
+      "avg_logprob": -0.1764,
+      "no_speech_prob": 0.5063,
+      "review": true
+    },
+    {
+      "start": 5572.63,
+      "end": 5573.71,
+      "text": "这种新晋的啊",
+      "avg_logprob": -0.1764,
+      "no_speech_prob": 0.5063,
+      "review": true
+    },
+    {
+      "start": 5573.71,
+      "end": 5574.89,
+      "text": "就查这种新晋的",
+      "avg_logprob": -0.1764,
+      "no_speech_prob": 0.5063,
+      "review": true
+    },
+    {
+      "start": 5574.89,
+      "end": 5576.23,
+      "text": "啊",
+      "avg_logprob": -0.1764,
+      "no_speech_prob": 0.5063,
+      "review": true
+    },
+    {
+      "start": 5576.23,
+      "end": 5577.83,
+      "text": "查这种新晋的",
+      "avg_logprob": -0.1764,
+      "no_speech_prob": 0.5063,
+      "review": true
+    },
+    {
+      "start": 5577.83,
+      "end": 5579.19,
+      "text": "高盛国际晋",
+      "avg_logprob": -0.1764,
+      "no_speech_prob": 0.5063,
+      "review": true
+    },
+    {
+      "start": 5579.19,
+      "end": 5581.37,
+      "text": "这边人家外资有一点什么消息",
+      "avg_logprob": -0.1764,
+      "no_speech_prob": 0.5063,
+      "review": true
+    },
+    {
+      "start": 5581.37,
+      "end": 5619.0,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1174,
+      "no_speech_prob": 0.2111,
+      "review": false
+    },
+    {
+      "start": 5619.02,
+      "end": 5621.44,
+      "text": "哦不涉及",
+      "avg_logprob": -0.1386,
+      "no_speech_prob": 0.9824,
+      "review": true
+    },
+    {
+      "start": 5621.44,
+      "end": 5632.2,
+      "text": "一收",
+      "avg_logprob": -0.1386,
+      "no_speech_prob": 0.9824,
+      "review": true
+    },
+    {
+      "start": 5632.2,
+      "end": 5649.14,
+      "text": "不知道啊",
+      "avg_logprob": -0.1386,
+      "no_speech_prob": 0.9824,
+      "review": true
+    },
+    {
+      "start": 5649.14,
+      "end": 5652.84,
+      "text": "或者还有一种可能就是说一般的一个板块要走嘛",
+      "avg_logprob": -0.1386,
+      "no_speech_prob": 0.9824,
+      "review": true
+    },
+    {
+      "start": 5652.84,
+      "end": 5655.46,
+      "text": "他会推一个腰骨或者一个龙头出来",
+      "avg_logprob": -0.1386,
+      "no_speech_prob": 0.9824,
+      "review": true
+    },
+    {
+      "start": 5655.46,
+      "end": 5658.1,
+      "text": "这个龙头不一定是他的盘子最大",
+      "avg_logprob": -0.1386,
+      "no_speech_prob": 0.9824,
+      "review": true
+    },
+    {
+      "start": 5658.1,
+      "end": 5660.12,
+      "text": "比如哈耀这个盘子比较小",
+      "avg_logprob": -0.1386,
+      "no_speech_prob": 0.9824,
+      "review": true
+    },
+    {
+      "start": 5660.12,
+      "end": 5661.72,
+      "text": "他们要推一个天天长那种",
+      "avg_logprob": -0.1386,
+      "no_speech_prob": 0.9824,
+      "review": true
+    },
+    {
+      "start": 5661.72,
+      "end": 5664.28,
+      "text": "就是一个板块他都会推一个出来",
+      "avg_logprob": -0.1386,
+      "no_speech_prob": 0.9824,
+      "review": true
+    },
+    {
+      "start": 5664.28,
+      "end": 5667.38,
+      "text": "有可能有些时候推的东西没有啥理由",
+      "avg_logprob": -0.1386,
+      "no_speech_prob": 0.9824,
+      "review": true
+    },
+    {
+      "start": 5667.38,
+      "end": 5668.4,
+      "text": "他就是要推他",
+      "avg_logprob": -0.1386,
+      "no_speech_prob": 0.9824,
+      "review": true
+    },
+    {
+      "start": 5668.4,
+      "end": 5670.06,
+      "text": "就是要有一个明星嘛",
+      "avg_logprob": -0.1386,
+      "no_speech_prob": 0.9824,
+      "review": true
+    },
+    {
+      "start": 5670.06,
+      "end": 5672.8,
+      "text": "这是我做A股做这么多年的一个经验",
+      "avg_logprob": -0.1386,
+      "no_speech_prob": 0.9824,
+      "review": true
+    },
+    {
+      "start": 5672.8,
+      "end": 5675.38,
+      "text": "就是比如说你的这个低空经济你要涨",
+      "avg_logprob": -0.1128,
+      "no_speech_prob": 0.312,
+      "review": false
+    },
+    {
+      "start": 5675.38,
+      "end": 5677.88,
+      "text": "它可能推一个你都想没想到的一个东西",
+      "avg_logprob": -0.1128,
+      "no_speech_prob": 0.312,
+      "review": false
+    },
+    {
+      "start": 5677.88,
+      "end": 5679.58,
+      "text": "天天涨天天涨一次一次一直涨一涨",
+      "avg_logprob": -0.1128,
+      "no_speech_prob": 0.312,
+      "review": false
+    },
+    {
+      "start": 5679.58,
+      "end": 5681.1,
+      "text": "它就是拿一个标杆出来",
+      "avg_logprob": -0.1128,
+      "no_speech_prob": 0.312,
+      "review": false
+    },
+    {
+      "start": 5681.1,
+      "end": 5683.76,
+      "text": "它会不会把它要推出来呢",
+      "avg_logprob": -0.1128,
+      "no_speech_prob": 0.312,
+      "review": false
+    },
+    {
+      "start": 5683.76,
+      "end": 5684.24,
+      "text": "也有可能",
+      "avg_logprob": -0.1128,
+      "no_speech_prob": 0.312,
+      "review": false
+    },
+    {
+      "start": 5684.24,
+      "end": 5685.52,
+      "text": "有些时候你都不知道它为什么涨",
+      "avg_logprob": -0.1128,
+      "no_speech_prob": 0.312,
+      "review": false
+    },
+    {
+      "start": 5685.52,
+      "end": 5687.72,
+      "text": "但有理由是最好的",
+      "avg_logprob": -0.1128,
+      "no_speech_prob": 0.312,
+      "review": false
+    },
+    {
+      "start": 5687.72,
+      "end": 5691.34,
+      "text": "因为这种模式是以前的A股模式",
+      "avg_logprob": -0.1128,
+      "no_speech_prob": 0.312,
+      "review": false
+    },
+    {
+      "start": 5691.34,
+      "end": 5693.64,
+      "text": "最近这一年A股都是做龙头了",
+      "avg_logprob": -0.1128,
+      "no_speech_prob": 0.312,
+      "review": false
+    },
+    {
+      "start": 5693.64,
+      "end": 5696.02,
+      "text": "做这种就是半轮体龙头",
+      "avg_logprob": -0.1128,
+      "no_speech_prob": 0.312,
+      "review": false
+    },
+    {
+      "start": 5696.02,
+      "end": 5696.98,
+      "text": "它就不是这种模式",
+      "avg_logprob": -0.1128,
+      "no_speech_prob": 0.312,
+      "review": false
+    },
+    {
+      "start": 5696.98,
+      "end": 5699.58,
+      "text": "那么以前的A股的模式就是这种模式",
+      "avg_logprob": -0.1128,
+      "no_speech_prob": 0.312,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 16.98
+}

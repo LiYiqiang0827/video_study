@@ -1,0 +1,132 @@
+{
+  "schema": 1,
+  "source": "C:\\Users\\HarryWu_IOKI\\Videos\\飞云双突破\\For GPT\\双突破所有买点.mkv",
+  "duration": 3978.667,
+  "params": {
+    "source_sha256": "c44ccee04104201c1ae2cbb4f0e273cd31094844e090c4ff3fddd9eb445c9d59",
+    "times": [
+      3630.0,
+      3675.0,
+      3690.0,
+      3705.0,
+      3735.0,
+      3750.0,
+      3765.0,
+      3795.0,
+      3810.0,
+      3825.0,
+      3855.0,
+      3885.0,
+      3930.0,
+      3970.0
+    ],
+    "method": "accurate-seek-copyts-original-v1"
+  },
+  "frames": [
+    {
+      "requested_time": 3630.0,
+      "time": 3630.0,
+      "decoded_pts": 3630.0,
+      "frame": "frame_00000_003630000.jpg",
+      "sha256": "2436e06a2625da2846fe271b8b9cfe2264d94d3b1ad57034c8fe31121b77fa21"
+    },
+    {
+      "requested_time": 3675.0,
+      "time": 3675.0,
+      "decoded_pts": 3675.0,
+      "frame": "frame_00001_003675000.jpg",
+      "sha256": "3f54e6775ff7f4b36feef769c5d3e328d0d9d7accb86dde338d992609d4201a6"
+    },
+    {
+      "requested_time": 3690.0,
+      "time": 3690.0,
+      "decoded_pts": 3690.0,
+      "frame": "frame_00002_003690000.jpg",
+      "sha256": "9c780318556758049882c85ad7b3fee2159daa526054971beb044c37e5b9117c"
+    },
+    {
+      "requested_time": 3705.0,
+      "time": 3705.0,
+      "decoded_pts": 3705.0,
+      "frame": "frame_00003_003705000.jpg",
+      "sha256": "5b2fcfd1f8ee60a0a253cf6f571e1af5d7896efba0715f505c5ec1519f4a888f"
+    },
+    {
+      "requested_time": 3735.0,
+      "time": 3735.0,
+      "decoded_pts": 3735.0,
+      "frame": "frame_00004_003735000.jpg",
+      "sha256": "7ea26dceb5e30d9e8b79c05b0f105fa6f9bf001e56c6325ac3ce6225ec94aa5d"
+    },
+    {
+      "requested_time": 3750.0,
+      "time": 3750.0,
+      "decoded_pts": 3750.0,
+      "frame": "frame_00005_003750000.jpg",
+      "sha256": "9a43f09cae6a5d7726a2a9ec2fde4f14f3d13642a7e0722b50c2ba8127a60737"
+    },
+    {
+      "requested_time": 3765.0,
+      "time": 3765.0,
+      "decoded_pts": 3765.0,
+      "frame": "frame_00006_003765000.jpg",
+      "sha256": "84c470fa7234e95aac9722d0d795a45e8f4a7cc42a5147b5a767ee617b7fe960"
+    },
+    {
+      "requested_time": 3795.0,
+      "time": 3795.0,
+      "decoded_pts": 3795.0,
+      "frame": "frame_00007_003795000.jpg",
+      "sha256": "de14629efe3e0a02578bbb763ae7e6b7b1a76ffd61f63ac5e17cc8bc7c7d758c"
+    },
+    {
+      "requested_time": 3810.0,
+      "time": 3810.0,
+      "decoded_pts": 3810.0,
+      "frame": "frame_00008_003810000.jpg",
+      "sha256": "53a613bf0141a67063852a5ebaf1827a704bfc1fdb73f415147028638e8491a3"
+    },
+    {
+      "requested_time": 3825.0,
+      "time": 3825.0,
+      "decoded_pts": 3825.0,
+      "frame": "frame_00009_003825000.jpg",
+      "sha256": "77ff314c2b12f9121214c80fdd9ac81d4fafa7dff31c1fca375ca9cd3d7a4645"
+    },
+    {
+      "requested_time": 3855.0,
+      "time": 3855.0,
+      "decoded_pts": 3855.0,
+      "frame": "frame_00010_003855000.jpg",
+      "sha256": "391ba3849d734cef1125f85a517088ae9edb0b2befa7d8179594737caab5cc93"
+    },
+    {
+      "requested_time": 3885.0,
+      "time": 3885.0,
+      "decoded_pts": 3885.0,
+      "frame": "frame_00011_003885000.jpg",
+      "sha256": "d11341e354fcb26a9a4ca2ca5d1b16c3092dc7e133526dc4c9b40b34af0ece5a"
+    },
+    {
+      "requested_time": 3930.0,
+      "time": 3930.0,
+      "decoded_pts": 3930.0,
+      "frame": "frame_00012_003930000.jpg",
+      "sha256": "483e37f0b5a4bb5b7518e8213d8ec05bee6b5e0d1b05dab590a5e2e8fe3c820b"
+    },
+    {
+      "requested_time": 3970.0,
+      "time": 3970.0,
+      "decoded_pts": 3970.0,
+      "frame": "frame_00013_003970000.jpg",
+      "sha256": "d32c50ea32808f1d8014787a1e5da413cd0d4a7dfce566986edacf9dabc84e33"
+    }
+  ],
+  "status": "complete",
+  "sheets": [
+    "sheet_001.jpg",
+    "sheet_002.jpg",
+    "sheet_003.jpg"
+  ],
+  "speech_extraction": "C:\\Project Rocket\\output\\feiyun_double_breakout\\platform_large_v3_v1\\双突破所有买点_c44ccee041_0s_66f4580d"
+}

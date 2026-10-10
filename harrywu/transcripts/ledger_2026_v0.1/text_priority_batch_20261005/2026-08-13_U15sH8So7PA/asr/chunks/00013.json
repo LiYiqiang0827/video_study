@@ -1,0 +1,400 @@
+{
+  "begin": 3900.0,
+  "finish": 4200.0,
+  "segments": [
+    {
+      "start": 3901.58,
+      "end": 3904.6,
+      "text": "加什么呀?加资金流",
+      "avg_logprob": -0.1704,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3904.6,
+      "end": 3909.88,
+      "text": "今天资金进去了,是不是?资金流",
+      "avg_logprob": -0.1704,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3909.88,
+      "end": 3914.58,
+      "text": "还加什么呀?加K线,是不是?",
+      "avg_logprob": -0.1704,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3915.1,
+      "end": 3919.02,
+      "text": "再加形态,再加量加",
+      "avg_logprob": -0.1704,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3919.02,
+      "end": 3926.2,
+      "text": "还要加个啥?大家说还加个啥?量堆,是不是?",
+      "avg_logprob": -0.1704,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3926.2,
+      "end": 3958.02,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0893,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3958.04,
+      "end": 3987.76,
+      "text": "就是我们有一群人,你们都很牛,我找不到你找,我们在市场里面赚钱,我赚你们那几个钱,说实话,我根本不care,我根本不care干嘛,但是我真的是想找一帮朋友,有时候,哎,我没看到,你说,你看你看,你没看到这个好,哎,我一看我也赚钱了,是吧,这个才是真正的互助互利,好不好,就是这才是我真的达到目标,将来呢,我们这些朋友里面,我们找到一群真的牛的人,我们天天就这样子啊,但是你都要牛啊,你们不能一天到晚给我拿烂股,你拿烂股现在骂你,",
+      "avg_logprob": -0.0758,
+      "no_speech_prob": 0.3535,
+      "review": false
+    },
+    {
+      "start": 3988.04,
+      "end": 3988.94,
+      "text": "好不好",
+      "avg_logprob": -0.1879,
+      "no_speech_prob": 0.4006,
+      "review": false
+    },
+    {
+      "start": 3988.94,
+      "end": 3990.94,
+      "text": "你来难过我要骂你",
+      "avg_logprob": -0.1879,
+      "no_speech_prob": 0.4006,
+      "review": false
+    },
+    {
+      "start": 3990.94,
+      "end": 3992.84,
+      "text": "我真的是把你骂回去",
+      "avg_logprob": -0.1879,
+      "no_speech_prob": 0.4006,
+      "review": false
+    },
+    {
+      "start": 3992.84,
+      "end": 3994.64,
+      "text": "我们的目标是天天赚钱",
+      "avg_logprob": -0.1879,
+      "no_speech_prob": 0.4006,
+      "review": false
+    },
+    {
+      "start": 3994.64,
+      "end": 3996.08,
+      "text": "天天赚钱",
+      "avg_logprob": -0.1879,
+      "no_speech_prob": 0.4006,
+      "review": false
+    },
+    {
+      "start": 3996.08,
+      "end": 3997.88,
+      "text": "你们靠我赚钱",
+      "avg_logprob": -0.1879,
+      "no_speech_prob": 0.4006,
+      "review": false
+    },
+    {
+      "start": 3997.88,
+      "end": 3998.94,
+      "text": "我要靠你们赚钱",
+      "avg_logprob": -0.1879,
+      "no_speech_prob": 0.4006,
+      "review": false
+    },
+    {
+      "start": 3998.94,
+      "end": 4002.38,
+      "text": "我不是赚你们的那几个三瓜两枣的",
+      "avg_logprob": -0.1879,
+      "no_speech_prob": 0.4006,
+      "review": false
+    },
+    {
+      "start": 4002.38,
+      "end": 4004.86,
+      "text": "因为我也没看到的时候",
+      "avg_logprob": -0.1879,
+      "no_speech_prob": 0.4006,
+      "review": false
+    },
+    {
+      "start": 4004.86,
+      "end": 4005.2,
+      "text": "是不是",
+      "avg_logprob": -0.1879,
+      "no_speech_prob": 0.4006,
+      "review": false
+    },
+    {
+      "start": 4005.2,
+      "end": 4007.16,
+      "text": "我也没看到的时候",
+      "avg_logprob": -0.1879,
+      "no_speech_prob": 0.4006,
+      "review": false
+    },
+    {
+      "start": 4007.16,
+      "end": 4008.48,
+      "text": "你看这个亮点很漂亮",
+      "avg_logprob": -0.1879,
+      "no_speech_prob": 0.4006,
+      "review": false
+    },
+    {
+      "start": 4008.48,
+      "end": 4009.32,
+      "text": "这个亮点很漂亮",
+      "avg_logprob": -0.1879,
+      "no_speech_prob": 0.4006,
+      "review": false
+    },
+    {
+      "start": 4009.32,
+      "end": 4010.56,
+      "text": "很紧亮超级漂亮",
+      "avg_logprob": -0.1879,
+      "no_speech_prob": 0.4006,
+      "review": false
+    },
+    {
+      "start": 4010.56,
+      "end": 4012.18,
+      "text": "就是你们就关注这种",
+      "avg_logprob": -0.1879,
+      "no_speech_prob": 0.4006,
+      "review": false
+    },
+    {
+      "start": 4012.18,
+      "end": 4013.0,
+      "text": "一定要关注",
+      "avg_logprob": -0.1879,
+      "no_speech_prob": 0.4006,
+      "review": false
+    },
+    {
+      "start": 4013.0,
+      "end": 4014.36,
+      "text": "但是这个位置就不好了",
+      "avg_logprob": -0.1879,
+      "no_speech_prob": 0.4006,
+      "review": false
+    },
+    {
+      "start": 4014.36,
+      "end": 4014.76,
+      "text": "好不好",
+      "avg_logprob": -0.1879,
+      "no_speech_prob": 0.4006,
+      "review": false
+    },
+    {
+      "start": 4014.76,
+      "end": 4016.64,
+      "text": "你看超级漂亮",
+      "avg_logprob": -0.1879,
+      "no_speech_prob": 0.4006,
+      "review": false
+    },
+    {
+      "start": 4016.64,
+      "end": 4016.96,
+      "text": "好不好",
+      "avg_logprob": -0.1879,
+      "no_speech_prob": 0.4006,
+      "review": false
+    },
+    {
+      "start": 4016.96,
+      "end": 4049.39,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0874,
+      "no_speech_prob": 0.7949,
+      "review": true
+    },
+    {
+      "start": 4049.41,
+      "end": 4111.92,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1064,
+      "no_speech_prob": 0.8306,
+      "review": true
+    },
+    {
+      "start": 4111.94,
+      "end": 4135.8,
+      "text": "好,华工起来了,康龙化成还震荡,南企也起来了,赵延熙药呢也还是起来了,今天没啥大问题,蓝色光标假打,假的可能,中天科技很正常,恒通光电很正常,大家看哈,以后也学会看分析图,分析图和其实差不多,你看我一看分析图,我觉得今天基本上都没啥问题啊,基本没啥问题",
+      "avg_logprob": -0.1402,
+      "no_speech_prob": 0.2993,
+      "review": false
+    },
+    {
+      "start": 4135.8,
+      "end": 4141.0,
+      "text": "无疑的你看周江医药又回来了",
+      "avg_logprob": -0.1739,
+      "no_speech_prob": 0.9658,
+      "review": true
+    },
+    {
+      "start": 4141.0,
+      "end": 4142.2,
+      "text": "所以你现在就知道",
+      "avg_logprob": -0.1739,
+      "no_speech_prob": 0.9658,
+      "review": true
+    },
+    {
+      "start": 4142.2,
+      "end": 4144.56,
+      "text": "我为什么要在这做个套了",
+      "avg_logprob": -0.1739,
+      "no_speech_prob": 0.9658,
+      "review": true
+    },
+    {
+      "start": 4144.56,
+      "end": 4145.02,
+      "text": "是吧",
+      "avg_logprob": -0.1739,
+      "no_speech_prob": 0.9658,
+      "review": true
+    },
+    {
+      "start": 4145.02,
+      "end": 4146.36,
+      "text": "在这做个套了",
+      "avg_logprob": -0.1739,
+      "no_speech_prob": 0.9658,
+      "review": true
+    },
+    {
+      "start": 4146.36,
+      "end": 4147.12,
+      "text": "你看是不是",
+      "avg_logprob": -0.1739,
+      "no_speech_prob": 0.9658,
+      "review": true
+    },
+    {
+      "start": 4147.12,
+      "end": 4148.56,
+      "text": "这做的很正确",
+      "avg_logprob": -0.1739,
+      "no_speech_prob": 0.9658,
+      "review": true
+    },
+    {
+      "start": 4148.56,
+      "end": 4150.3,
+      "text": "该做今天这种",
+      "avg_logprob": -0.1739,
+      "no_speech_prob": 0.9658,
+      "review": true
+    },
+    {
+      "start": 4150.3,
+      "end": 4151.9,
+      "text": "做个套了",
+      "avg_logprob": -0.1739,
+      "no_speech_prob": 0.9658,
+      "review": true
+    },
+    {
+      "start": 4151.9,
+      "end": 4153.52,
+      "text": "先把我的利润先保住再说",
+      "avg_logprob": -0.1739,
+      "no_speech_prob": 0.9658,
+      "review": true
+    },
+    {
+      "start": 4153.52,
+      "end": 4154.86,
+      "text": "先不要那么贪心",
+      "avg_logprob": -0.1739,
+      "no_speech_prob": 0.9658,
+      "review": true
+    },
+    {
+      "start": 4154.86,
+      "end": 4155.96,
+      "text": "该保住利润",
+      "avg_logprob": -0.1739,
+      "no_speech_prob": 0.9658,
+      "review": true
+    },
+    {
+      "start": 4155.96,
+      "end": 4156.78,
+      "text": "先风险第一",
+      "avg_logprob": -0.1739,
+      "no_speech_prob": 0.9658,
+      "review": true
+    },
+    {
+      "start": 4156.78,
+      "end": 4159.04,
+      "text": "风险第一",
+      "avg_logprob": -0.1739,
+      "no_speech_prob": 0.9658,
+      "review": true
+    },
+    {
+      "start": 4159.04,
+      "end": 4169.29,
+      "text": "风险第一赚钱第二",
+      "avg_logprob": -0.1739,
+      "no_speech_prob": 0.9658,
+      "review": true
+    },
+    {
+      "start": 4169.29,
+      "end": 4170.47,
+      "text": "永远都是这样子",
+      "avg_logprob": -0.1739,
+      "no_speech_prob": 0.9658,
+      "review": true
+    },
+    {
+      "start": 4170.47,
+      "end": 4171.27,
+      "text": "风险第一赚钱第二",
+      "avg_logprob": -0.1739,
+      "no_speech_prob": 0.9658,
+      "review": true
+    },
+    {
+      "start": 4171.27,
+      "end": 4174.31,
+      "text": "这个石油啊",
+      "avg_logprob": -0.1739,
+      "no_speech_prob": 0.9658,
+      "review": true
+    },
+    {
+      "start": 4174.31,
+      "end": 4196.09,
+      "text": "这个石油啊,我看看到哪了,要不要,我看要加点仓了,这个石油我还是要加点仓了,这个石油要加点仓了,因为应该有10%了吧,11块4,现在10块4,对,10%了,10%要加点仓了,300164,这个石油要加点仓,石油唯一亏损票是今天的",
+      "avg_logprob": -0.0895,
+      "no_speech_prob": 0.5776,
+      "review": true
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 20.78
+}

@@ -1,0 +1,888 @@
+{
+  "begin": 6900.0,
+  "finish": 7200.0,
+  "segments": [
+    {
+      "start": 6898.0,
+      "end": 6927.98,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0716,
+      "no_speech_prob": 0.428,
+      "review": false
+    },
+    {
+      "start": 6928.0,
+      "end": 6990.96,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0778,
+      "no_speech_prob": 0.2407,
+      "review": false
+    },
+    {
+      "start": 6990.98,
+      "end": 6991.84,
+      "text": "很佛系",
+      "avg_logprob": -0.1619,
+      "no_speech_prob": 0.446,
+      "review": false
+    },
+    {
+      "start": 6991.84,
+      "end": 6993.68,
+      "text": "你看了你不会紧张啊",
+      "avg_logprob": -0.1619,
+      "no_speech_prob": 0.446,
+      "review": false
+    },
+    {
+      "start": 6993.68,
+      "end": 6994.84,
+      "text": "对市场怎么样好不好",
+      "avg_logprob": -0.1619,
+      "no_speech_prob": 0.446,
+      "review": false
+    },
+    {
+      "start": 6994.84,
+      "end": 6996.3,
+      "text": "所以这个哲学的书",
+      "avg_logprob": -0.1619,
+      "no_speech_prob": 0.446,
+      "review": false
+    },
+    {
+      "start": 6996.3,
+      "end": 6998.8,
+      "text": "对你不能说你看了你像马上有结果",
+      "avg_logprob": -0.1619,
+      "no_speech_prob": 0.446,
+      "review": false
+    },
+    {
+      "start": 6998.8,
+      "end": 6999.28,
+      "text": "不会的",
+      "avg_logprob": -0.1619,
+      "no_speech_prob": 0.446,
+      "review": false
+    },
+    {
+      "start": 6999.28,
+      "end": 7000.44,
+      "text": "但是有些哲学书",
+      "avg_logprob": -0.1619,
+      "no_speech_prob": 0.446,
+      "review": false
+    },
+    {
+      "start": 7000.44,
+      "end": 7002.64,
+      "text": "它会给你一震的感觉啊",
+      "avg_logprob": -0.1619,
+      "no_speech_prob": 0.446,
+      "review": false
+    },
+    {
+      "start": 7002.64,
+      "end": 7003.7,
+      "text": "给你这个灵魂深处",
+      "avg_logprob": -0.1619,
+      "no_speech_prob": 0.446,
+      "review": false
+    },
+    {
+      "start": 7003.7,
+      "end": 7005.3,
+      "text": "给你这个很有用的",
+      "avg_logprob": -0.1619,
+      "no_speech_prob": 0.446,
+      "review": false
+    },
+    {
+      "start": 7005.3,
+      "end": 7008.28,
+      "text": "哎呦",
+      "avg_logprob": -0.1619,
+      "no_speech_prob": 0.446,
+      "review": false
+    },
+    {
+      "start": 7008.28,
+      "end": 7009.56,
+      "text": "莫纳鲁",
+      "avg_logprob": -0.1619,
+      "no_speech_prob": 0.446,
+      "review": false
+    },
+    {
+      "start": 7009.56,
+      "end": 7010.78,
+      "text": "你是在茅山吗",
+      "avg_logprob": -0.1619,
+      "no_speech_prob": 0.446,
+      "review": false
+    },
+    {
+      "start": 7010.78,
+      "end": 7011.72,
+      "text": "可以啊",
+      "avg_logprob": -0.1619,
+      "no_speech_prob": 0.446,
+      "review": false
+    },
+    {
+      "start": 7011.72,
+      "end": 7012.34,
+      "text": "可以啊",
+      "avg_logprob": -0.1619,
+      "no_speech_prob": 0.446,
+      "review": false
+    },
+    {
+      "start": 7012.34,
+      "end": 7013.08,
+      "text": "你是我的会员吗",
+      "avg_logprob": -0.1619,
+      "no_speech_prob": 0.446,
+      "review": false
+    },
+    {
+      "start": 7013.08,
+      "end": 7013.88,
+      "text": "联系我一下呀",
+      "avg_logprob": -0.1619,
+      "no_speech_prob": 0.446,
+      "review": false
+    },
+    {
+      "start": 7013.88,
+      "end": 7015.16,
+      "text": "我真是想来学啊",
+      "avg_logprob": -0.1619,
+      "no_speech_prob": 0.446,
+      "review": false
+    },
+    {
+      "start": 7015.16,
+      "end": 7016.58,
+      "text": "我不是开玩笑的啊",
+      "avg_logprob": -0.1619,
+      "no_speech_prob": 0.446,
+      "review": false
+    },
+    {
+      "start": 7016.58,
+      "end": 7017.42,
+      "text": "因为为什么呢",
+      "avg_logprob": -0.1619,
+      "no_speech_prob": 0.446,
+      "review": false
+    },
+    {
+      "start": 7017.42,
+      "end": 7018.1,
+      "text": "我八字学完",
+      "avg_logprob": -0.1619,
+      "no_speech_prob": 0.446,
+      "review": false
+    },
+    {
+      "start": 7018.1,
+      "end": 7018.68,
+      "text": "大量学完了",
+      "avg_logprob": -0.1619,
+      "no_speech_prob": 0.446,
+      "review": false
+    },
+    {
+      "start": 7018.68,
+      "end": 7020.42,
+      "text": "我真的是想做一个事情",
+      "avg_logprob": -0.1619,
+      "no_speech_prob": 0.446,
+      "review": false
+    },
+    {
+      "start": 7020.42,
+      "end": 7022.2,
+      "text": "就是去拜访全国名山",
+      "avg_logprob": -0.1619,
+      "no_speech_prob": 0.446,
+      "review": false
+    },
+    {
+      "start": 7022.2,
+      "end": 7025.66,
+      "text": "当然我先去拜访那些八字和六字好的师傅",
+      "avg_logprob": -0.1444,
+      "no_speech_prob": 0.6919,
+      "review": true
+    },
+    {
+      "start": 7025.66,
+      "end": 7028.08,
+      "text": "我想花点钱给他们学一学",
+      "avg_logprob": -0.1444,
+      "no_speech_prob": 0.6919,
+      "review": true
+    },
+    {
+      "start": 7028.08,
+      "end": 7029.9,
+      "text": "把我的水平再提高一下",
+      "avg_logprob": -0.1444,
+      "no_speech_prob": 0.6919,
+      "review": true
+    },
+    {
+      "start": 7029.9,
+      "end": 7031.36,
+      "text": "那么其次如果",
+      "avg_logprob": -0.1444,
+      "no_speech_prob": 0.6919,
+      "review": true
+    },
+    {
+      "start": 7031.36,
+      "end": 7033.2,
+      "text": "我就是还是一句话",
+      "avg_logprob": -0.1444,
+      "no_speech_prob": 0.6919,
+      "review": true
+    },
+    {
+      "start": 7033.2,
+      "end": 7035.08,
+      "text": "我并不是真想去捉妖捉鬼",
+      "avg_logprob": -0.1444,
+      "no_speech_prob": 0.6919,
+      "review": true
+    },
+    {
+      "start": 7035.08,
+      "end": 7036.46,
+      "text": "我是这个是开玩笑的",
+      "avg_logprob": -0.1444,
+      "no_speech_prob": 0.6919,
+      "review": true
+    },
+    {
+      "start": 7036.46,
+      "end": 7039.5,
+      "text": "但是我非常想去了解道德的世界观",
+      "avg_logprob": -0.1444,
+      "no_speech_prob": 0.6919,
+      "review": true
+    },
+    {
+      "start": 7039.5,
+      "end": 7040.72,
+      "text": "就是把这个",
+      "avg_logprob": -0.1444,
+      "no_speech_prob": 0.6919,
+      "review": true
+    },
+    {
+      "start": 7040.72,
+      "end": 7042.5,
+      "text": "就是哎呀",
+      "avg_logprob": -0.1444,
+      "no_speech_prob": 0.6919,
+      "review": true
+    },
+    {
+      "start": 7042.5,
+      "end": 7043.2,
+      "text": "内心深处",
+      "avg_logprob": -0.1444,
+      "no_speech_prob": 0.6919,
+      "review": true
+    },
+    {
+      "start": 7043.2,
+      "end": 7045.46,
+      "text": "我是一个大龄的好奇宝宝",
+      "avg_logprob": -0.1444,
+      "no_speech_prob": 0.6919,
+      "review": true
+    },
+    {
+      "start": 7045.46,
+      "end": 7047.4,
+      "text": "我对这个世界充满了好奇",
+      "avg_logprob": -0.1444,
+      "no_speech_prob": 0.6919,
+      "review": true
+    },
+    {
+      "start": 7047.4,
+      "end": 7049.7,
+      "text": "我对这个特别是这个",
+      "avg_logprob": -0.1444,
+      "no_speech_prob": 0.6919,
+      "review": true
+    },
+    {
+      "start": 7049.7,
+      "end": 7050.66,
+      "text": "这个",
+      "avg_logprob": -0.1444,
+      "no_speech_prob": 0.6919,
+      "review": true
+    },
+    {
+      "start": 7050.66,
+      "end": 7054.68,
+      "text": "我们物质世界背后的灵魂世界我充满了好奇",
+      "avg_logprob": -0.1171,
+      "no_speech_prob": 0.3389,
+      "review": false
+    },
+    {
+      "start": 7054.68,
+      "end": 7056.86,
+      "text": "加上我自己也有一些神奇的经历",
+      "avg_logprob": -0.1171,
+      "no_speech_prob": 0.3389,
+      "review": false
+    },
+    {
+      "start": 7056.86,
+      "end": 7058.02,
+      "text": "你们可能以前也知道",
+      "avg_logprob": -0.1171,
+      "no_speech_prob": 0.3389,
+      "review": false
+    },
+    {
+      "start": 7058.02,
+      "end": 7059.16,
+      "text": "以前跟他讲过",
+      "avg_logprob": -0.1171,
+      "no_speech_prob": 0.3389,
+      "review": false
+    },
+    {
+      "start": 7059.16,
+      "end": 7061.88,
+      "text": "所以说我还是想继续探索这一块的东西",
+      "avg_logprob": -0.1171,
+      "no_speech_prob": 0.3389,
+      "review": false
+    },
+    {
+      "start": 7061.88,
+      "end": 7063.54,
+      "text": "有机会我来到时候来",
+      "avg_logprob": -0.1171,
+      "no_speech_prob": 0.3389,
+      "review": false
+    },
+    {
+      "start": 7063.54,
+      "end": 7064.58,
+      "text": "一定来你们茅山",
+      "avg_logprob": -0.1171,
+      "no_speech_prob": 0.3389,
+      "review": false
+    },
+    {
+      "start": 7064.58,
+      "end": 7067.59,
+      "text": "可以啊可以啊",
+      "avg_logprob": -0.1171,
+      "no_speech_prob": 0.3389,
+      "review": false
+    },
+    {
+      "start": 7067.59,
+      "end": 7070.19,
+      "text": "这个前回望",
+      "avg_logprob": -0.1171,
+      "no_speech_prob": 0.3389,
+      "review": false
+    },
+    {
+      "start": 7070.19,
+      "end": 7070.91,
+      "text": "可以啊",
+      "avg_logprob": -0.1171,
+      "no_speech_prob": 0.3389,
+      "review": false
+    },
+    {
+      "start": 7070.91,
+      "end": 7071.99,
+      "text": "到时你们来介绍一下",
+      "avg_logprob": -0.1171,
+      "no_speech_prob": 0.3389,
+      "review": false
+    },
+    {
+      "start": 7071.99,
+      "end": 7074.05,
+      "text": "他愿意带我的话",
+      "avg_logprob": -0.1171,
+      "no_speech_prob": 0.3389,
+      "review": false
+    },
+    {
+      "start": 7074.05,
+      "end": 7076.37,
+      "text": "但是我要先把基础功打得很扎实",
+      "avg_logprob": -0.1171,
+      "no_speech_prob": 0.3389,
+      "review": false
+    },
+    {
+      "start": 7076.37,
+      "end": 7080.45,
+      "text": "我自己先会把这三本的八字数讲完",
+      "avg_logprob": -0.1171,
+      "no_speech_prob": 0.3389,
+      "review": false
+    },
+    {
+      "start": 7080.45,
+      "end": 7081.77,
+      "text": "大六任学得非常好",
+      "avg_logprob": -0.12,
+      "no_speech_prob": 0.1362,
+      "review": false
+    },
+    {
+      "start": 7081.77,
+      "end": 7082.49,
+      "text": "然后我再来看",
+      "avg_logprob": -0.12,
+      "no_speech_prob": 0.1362,
+      "review": false
+    },
+    {
+      "start": 7082.49,
+      "end": 7084.03,
+      "text": "但是并不是每个道士都会这些",
+      "avg_logprob": -0.12,
+      "no_speech_prob": 0.1362,
+      "review": false
+    },
+    {
+      "start": 7084.03,
+      "end": 7085.11,
+      "text": "其实有道士也不会",
+      "avg_logprob": -0.12,
+      "no_speech_prob": 0.1362,
+      "review": false
+    },
+    {
+      "start": 7085.11,
+      "end": 7087.05,
+      "text": "每个人他就自己有些自己的东西",
+      "avg_logprob": -0.12,
+      "no_speech_prob": 0.1362,
+      "review": false
+    },
+    {
+      "start": 7087.05,
+      "end": 7104.82,
+      "text": "今天医药不是涨起来了吗",
+      "avg_logprob": -0.12,
+      "no_speech_prob": 0.1362,
+      "review": false
+    },
+    {
+      "start": 7104.82,
+      "end": 7105.78,
+      "text": "医药也是可以做的",
+      "avg_logprob": -0.12,
+      "no_speech_prob": 0.1362,
+      "review": false
+    },
+    {
+      "start": 7105.78,
+      "end": 7107.1,
+      "text": "医药可以做",
+      "avg_logprob": -0.12,
+      "no_speech_prob": 0.1362,
+      "review": false
+    },
+    {
+      "start": 7107.1,
+      "end": 7109.42,
+      "text": "说说这个",
+      "avg_logprob": -0.12,
+      "no_speech_prob": 0.1362,
+      "review": false
+    },
+    {
+      "start": 7109.42,
+      "end": 7110.52,
+      "text": "刚才有朋友问我",
+      "avg_logprob": -0.12,
+      "no_speech_prob": 0.1362,
+      "review": false
+    },
+    {
+      "start": 7110.52,
+      "end": 7112.38,
+      "text": "奇门遁甲和大六任哪个好",
+      "avg_logprob": -0.12,
+      "no_speech_prob": 0.1362,
+      "review": false
+    },
+    {
+      "start": 7112.38,
+      "end": 7113.52,
+      "text": "我再次回答一下",
+      "avg_logprob": -0.12,
+      "no_speech_prob": 0.1362,
+      "review": false
+    },
+    {
+      "start": 7113.52,
+      "end": 7115.42,
+      "text": "我个人认为大六任好",
+      "avg_logprob": -0.12,
+      "no_speech_prob": 0.1362,
+      "review": false
+    },
+    {
+      "start": 7115.42,
+      "end": 7115.96,
+      "text": "为什么呢",
+      "avg_logprob": -0.12,
+      "no_speech_prob": 0.1362,
+      "review": false
+    },
+    {
+      "start": 7115.96,
+      "end": 7116.56,
+      "text": "有两个理由",
+      "avg_logprob": -0.12,
+      "no_speech_prob": 0.1362,
+      "review": false
+    },
+    {
+      "start": 7116.56,
+      "end": 7118.64,
+      "text": "第一个理由就是大六任有很多书",
+      "avg_logprob": -0.12,
+      "no_speech_prob": 0.1362,
+      "review": false
+    },
+    {
+      "start": 7118.64,
+      "end": 7121.1,
+      "text": "而且大六任的内容",
+      "avg_logprob": -0.12,
+      "no_speech_prob": 0.1362,
+      "review": false
+    },
+    {
+      "start": 7121.1,
+      "end": 7123.18,
+      "text": "它没有任何的增益",
+      "avg_logprob": -0.12,
+      "no_speech_prob": 0.1362,
+      "review": false
+    },
+    {
+      "start": 7123.18,
+      "end": 7124.68,
+      "text": "这是非常非常重要的",
+      "avg_logprob": -0.12,
+      "no_speech_prob": 0.1362,
+      "review": false
+    },
+    {
+      "start": 7124.68,
+      "end": 7127.98,
+      "text": "就是你学这种易经也好玄学也好",
+      "avg_logprob": -0.1022,
+      "no_speech_prob": 0.1078,
+      "review": false
+    },
+    {
+      "start": 7127.98,
+      "end": 7128.8,
+      "text": "它叫玄学为什么",
+      "avg_logprob": -0.1022,
+      "no_speech_prob": 0.1078,
+      "review": false
+    },
+    {
+      "start": 7128.8,
+      "end": 7129.68,
+      "text": "它不是科学",
+      "avg_logprob": -0.1022,
+      "no_speech_prob": 0.1078,
+      "review": false
+    },
+    {
+      "start": 7129.68,
+      "end": 7130.52,
+      "text": "它不是数学",
+      "avg_logprob": -0.1022,
+      "no_speech_prob": 0.1078,
+      "review": false
+    },
+    {
+      "start": 7130.52,
+      "end": 7131.58,
+      "text": "它没有教材",
+      "avg_logprob": -0.1022,
+      "no_speech_prob": 0.1078,
+      "review": false
+    },
+    {
+      "start": 7131.58,
+      "end": 7134.3,
+      "text": "所以说你那个人说的准也不准",
+      "avg_logprob": -0.1022,
+      "no_speech_prob": 0.1078,
+      "review": false
+    },
+    {
+      "start": 7134.3,
+      "end": 7134.98,
+      "text": "你根本就不知道",
+      "avg_logprob": -0.1022,
+      "no_speech_prob": 0.1078,
+      "review": false
+    },
+    {
+      "start": 7134.98,
+      "end": 7137.16,
+      "text": "或者有些时候你只能自己去验证",
+      "avg_logprob": -0.1022,
+      "no_speech_prob": 0.1078,
+      "review": false
+    },
+    {
+      "start": 7137.16,
+      "end": 7139.2,
+      "text": "那么唯一的",
+      "avg_logprob": -0.1022,
+      "no_speech_prob": 0.1078,
+      "review": false
+    },
+    {
+      "start": 7139.2,
+      "end": 7141.48,
+      "text": "为什么我只学八字和大论论",
+      "avg_logprob": -0.1022,
+      "no_speech_prob": 0.1078,
+      "review": false
+    },
+    {
+      "start": 7141.48,
+      "end": 7143.52,
+      "text": "就是因为只有这两个学位",
+      "avg_logprob": -0.1022,
+      "no_speech_prob": 0.1078,
+      "review": false
+    },
+    {
+      "start": 7143.52,
+      "end": 7147.96,
+      "text": "从古至今有非常完整的教学体系教材",
+      "avg_logprob": -0.1022,
+      "no_speech_prob": 0.1078,
+      "review": false
+    },
+    {
+      "start": 7147.96,
+      "end": 7151.12,
+      "text": "就是你可以看到每个古人的那些书",
+      "avg_logprob": -0.1022,
+      "no_speech_prob": 0.1078,
+      "review": false
+    },
+    {
+      "start": 7151.12,
+      "end": 7151.74,
+      "text": "那些内容",
+      "avg_logprob": -0.1022,
+      "no_speech_prob": 0.1078,
+      "review": false
+    },
+    {
+      "start": 7151.74,
+      "end": 7153.06,
+      "text": "你可以自己去判断",
+      "avg_logprob": -0.1022,
+      "no_speech_prob": 0.1078,
+      "review": false
+    },
+    {
+      "start": 7153.36,
+      "end": 7154.5,
+      "text": "其他的都没有",
+      "avg_logprob": -0.1022,
+      "no_speech_prob": 0.1078,
+      "review": false
+    },
+    {
+      "start": 7154.5,
+      "end": 7155.72,
+      "text": "就比如奇门遁甲",
+      "avg_logprob": -0.104,
+      "no_speech_prob": 0.7964,
+      "review": true
+    },
+    {
+      "start": 7155.72,
+      "end": 7156.98,
+      "text": "它都很乱的",
+      "avg_logprob": -0.104,
+      "no_speech_prob": 0.7964,
+      "review": true
+    },
+    {
+      "start": 7156.98,
+      "end": 7159.92,
+      "text": "什么阴奇门、阳奇门、各种各样的奇门",
+      "avg_logprob": -0.104,
+      "no_speech_prob": 0.7964,
+      "review": true
+    },
+    {
+      "start": 7159.92,
+      "end": 7161.96,
+      "text": "就是它就有点乱",
+      "avg_logprob": -0.104,
+      "no_speech_prob": 0.7964,
+      "review": true
+    },
+    {
+      "start": 7161.96,
+      "end": 7162.54,
+      "text": "明白吧",
+      "avg_logprob": -0.104,
+      "no_speech_prob": 0.7964,
+      "review": true
+    },
+    {
+      "start": 7162.54,
+      "end": 7163.56,
+      "text": "那特别是有",
+      "avg_logprob": -0.104,
+      "no_speech_prob": 0.7964,
+      "review": true
+    },
+    {
+      "start": 7163.56,
+      "end": 7166.3,
+      "text": "你说A书告诉你这样看",
+      "avg_logprob": -0.104,
+      "no_speech_prob": 0.7964,
+      "review": true
+    },
+    {
+      "start": 7166.3,
+      "end": 7167.76,
+      "text": "B书又告诉你不这样看",
+      "avg_logprob": -0.104,
+      "no_speech_prob": 0.7964,
+      "review": true
+    },
+    {
+      "start": 7167.76,
+      "end": 7169.28,
+      "text": "我说这个你怎么学呢",
+      "avg_logprob": -0.104,
+      "no_speech_prob": 0.7964,
+      "review": true
+    },
+    {
+      "start": 7169.28,
+      "end": 7170.8,
+      "text": "所以说奇门的问题在这",
+      "avg_logprob": -0.104,
+      "no_speech_prob": 0.7964,
+      "review": true
+    },
+    {
+      "start": 7170.8,
+      "end": 7172.48,
+      "text": "就它本身就有门派",
+      "avg_logprob": -0.104,
+      "no_speech_prob": 0.7964,
+      "review": true
+    },
+    {
+      "start": 7172.48,
+      "end": 7174.44,
+      "text": "大家之间还有一些不同的观点",
+      "avg_logprob": -0.104,
+      "no_speech_prob": 0.7964,
+      "review": true
+    },
+    {
+      "start": 7174.44,
+      "end": 7175.34,
+      "text": "那就麻烦了",
+      "avg_logprob": -0.104,
+      "no_speech_prob": 0.7964,
+      "review": true
+    },
+    {
+      "start": 7175.34,
+      "end": 7175.86,
+      "text": "是不是",
+      "avg_logprob": -0.104,
+      "no_speech_prob": 0.7964,
+      "review": true
+    },
+    {
+      "start": 7175.86,
+      "end": 7177.16,
+      "text": "包括八字都有",
+      "avg_logprob": -0.104,
+      "no_speech_prob": 0.7964,
+      "review": true
+    },
+    {
+      "start": 7177.16,
+      "end": 7179.44,
+      "text": "但是八字还稍微好一点点",
+      "avg_logprob": -0.104,
+      "no_speech_prob": 0.7964,
+      "review": true
+    },
+    {
+      "start": 7179.44,
+      "end": 7181.0,
+      "text": "就是有些不同的派别",
+      "avg_logprob": -0.104,
+      "no_speech_prob": 0.7964,
+      "review": true
+    },
+    {
+      "start": 7181.0,
+      "end": 7182.88,
+      "text": "它就结论是一样的",
+      "avg_logprob": -0.104,
+      "no_speech_prob": 0.7964,
+      "review": true
+    },
+    {
+      "start": 7182.88,
+      "end": 7184.04,
+      "text": "那如果奇门不同的派别",
+      "avg_logprob": -0.104,
+      "no_speech_prob": 0.7964,
+      "review": true
+    },
+    {
+      "start": 7184.04,
+      "end": 7201.98,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.112,
+      "no_speech_prob": 0.046,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 22.78
+}

@@ -1,0 +1,592 @@
+{
+  "begin": 0.0,
+  "finish": 300.0,
+  "segments": [
+    {
+      "start": 42.06,
+      "end": 43.42,
+      "text": "什么声音呢一只",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.9736,
+      "review": true
+    },
+    {
+      "start": 43.42,
+      "end": 52.36,
+      "text": "哎呀今天这个市场",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.9736,
+      "review": true
+    },
+    {
+      "start": 52.36,
+      "end": 55.06,
+      "text": "这个特别是芯片股啊",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.9736,
+      "review": true
+    },
+    {
+      "start": 55.06,
+      "end": 56.96,
+      "text": "好几个都回去了",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.9736,
+      "review": true
+    },
+    {
+      "start": 56.96,
+      "end": 59.82,
+      "text": "还有我的ETF也回去了",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.9736,
+      "review": true
+    },
+    {
+      "start": 59.82,
+      "end": 60.6,
+      "text": "所以现在",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.9736,
+      "review": true
+    },
+    {
+      "start": 60.6,
+      "end": 64.26,
+      "text": "现在我在考虑要不要开盘就止损了",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.9736,
+      "review": true
+    },
+    {
+      "start": 64.26,
+      "end": 66.39,
+      "text": "芯片的ETF",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.9736,
+      "review": true
+    },
+    {
+      "start": 66.39,
+      "end": 68.53,
+      "text": "华盛顿跌三个点",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.9736,
+      "review": true
+    },
+    {
+      "start": 68.53,
+      "end": 69.37,
+      "text": "两个点",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.9736,
+      "review": true
+    },
+    {
+      "start": 69.37,
+      "end": 73.13,
+      "text": "芯片到底是现在就砍仓",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.9736,
+      "review": true
+    },
+    {
+      "start": 73.13,
+      "end": 75.61,
+      "text": "还是等会稍微回调一下砍仓",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.9736,
+      "review": true
+    },
+    {
+      "start": 75.93,
+      "end": 78.23,
+      "text": "今天基本上是昨天买的那些",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.9736,
+      "review": true
+    },
+    {
+      "start": 78.23,
+      "end": 95.07,
+      "text": "有色,像湖南黄金,像昨天买的这些啊,今天没有啥,都还在涨,但是呢,只要是半导体,半导体又不行,",
+      "avg_logprob": -0.1921,
+      "no_speech_prob": 0.8931,
+      "review": true
+    },
+    {
+      "start": 95.07,
+      "end": 98.15,
+      "text": "现在半导体你看互联网黄金啊",
+      "avg_logprob": -0.1447,
+      "no_speech_prob": 0.1639,
+      "review": false
+    },
+    {
+      "start": 98.15,
+      "end": 99.57,
+      "text": "还有买的000426",
+      "avg_logprob": -0.1447,
+      "no_speech_prob": 0.1639,
+      "review": false
+    },
+    {
+      "start": 99.57,
+      "end": 103.11,
+      "text": "这都没有啥问题",
+      "avg_logprob": -0.1447,
+      "no_speech_prob": 0.1639,
+      "review": false
+    },
+    {
+      "start": 103.11,
+      "end": 108.0,
+      "text": "但是这个半导体这块",
+      "avg_logprob": -0.1447,
+      "no_speech_prob": 0.1639,
+      "review": false
+    },
+    {
+      "start": 108.0,
+      "end": 111.04,
+      "text": "半导体这块现在要被捶了",
+      "avg_logprob": -0.1447,
+      "no_speech_prob": 0.1639,
+      "review": false
+    },
+    {
+      "start": 111.04,
+      "end": 113.8,
+      "text": "我现在考虑要不要开盘止损呢",
+      "avg_logprob": -0.1447,
+      "no_speech_prob": 0.1639,
+      "review": false
+    },
+    {
+      "start": 113.8,
+      "end": 117.22,
+      "text": "你看下面乌叶、黄河旋风、康龙化尘这些都没问题",
+      "avg_logprob": -0.1447,
+      "no_speech_prob": 0.1639,
+      "review": false
+    },
+    {
+      "start": 117.22,
+      "end": 117.68,
+      "text": "我的",
+      "avg_logprob": -0.1447,
+      "no_speech_prob": 0.1639,
+      "review": false
+    },
+    {
+      "start": 117.68,
+      "end": 120.8,
+      "text": "但是半导体全线回调的比较厉害",
+      "avg_logprob": -0.1447,
+      "no_speech_prob": 0.1639,
+      "review": false
+    },
+    {
+      "start": 120.8,
+      "end": 123.86,
+      "text": "这个半导体",
+      "avg_logprob": -0.1447,
+      "no_speech_prob": 0.1639,
+      "review": false
+    },
+    {
+      "start": 123.86,
+      "end": 124.72,
+      "text": "我看看韩国吧",
+      "avg_logprob": -0.1447,
+      "no_speech_prob": 0.1639,
+      "review": false
+    },
+    {
+      "start": 124.72,
+      "end": 126.56,
+      "text": "看看韩国那边是什么样子的",
+      "avg_logprob": -0.1447,
+      "no_speech_prob": 0.1639,
+      "review": false
+    },
+    {
+      "start": 126.56,
+      "end": 128.36,
+      "text": "只有盯着韩国做了",
+      "avg_logprob": -0.1472,
+      "no_speech_prob": 0.1558,
+      "review": false
+    },
+    {
+      "start": 128.36,
+      "end": 131.29,
+      "text": "这没有办法",
+      "avg_logprob": -0.1472,
+      "no_speech_prob": 0.1558,
+      "review": false
+    },
+    {
+      "start": 131.29,
+      "end": 134.27,
+      "text": "因为今天肯定是要减仓的",
+      "avg_logprob": -0.1472,
+      "no_speech_prob": 0.1558,
+      "review": false
+    },
+    {
+      "start": 134.27,
+      "end": 137.31,
+      "text": "因为美国那边好几个半导体大跌嘛",
+      "avg_logprob": -0.1472,
+      "no_speech_prob": 0.1558,
+      "review": false
+    },
+    {
+      "start": 137.31,
+      "end": 139.47,
+      "text": "美国那边好几个半导体大跌",
+      "avg_logprob": -0.1472,
+      "no_speech_prob": 0.1558,
+      "review": false
+    },
+    {
+      "start": 139.47,
+      "end": 149.38,
+      "text": "你这个是不能迟到明天去的",
+      "avg_logprob": -0.1472,
+      "no_speech_prob": 0.1558,
+      "review": false
+    },
+    {
+      "start": 149.38,
+      "end": 150.8,
+      "text": "韩国那个是哪一个",
+      "avg_logprob": -0.1472,
+      "no_speech_prob": 0.1558,
+      "review": false
+    },
+    {
+      "start": 150.8,
+      "end": 160.96,
+      "text": "韩国已经开始这样跌了",
+      "avg_logprob": -0.1472,
+      "no_speech_prob": 0.1558,
+      "review": false
+    },
+    {
+      "start": 160.96,
+      "end": 162.28,
+      "text": "真的是shit",
+      "avg_logprob": -0.1472,
+      "no_speech_prob": 0.1558,
+      "review": false
+    },
+    {
+      "start": 162.28,
+      "end": 163.44,
+      "text": "真的是太shit了",
+      "avg_logprob": -0.1472,
+      "no_speech_prob": 0.1558,
+      "review": false
+    },
+    {
+      "start": 163.44,
+      "end": 168.02,
+      "text": "韩国难怪,韩国这样跌的话呢,等会儿看看有没有反弹",
+      "avg_logprob": -0.1211,
+      "no_speech_prob": 0.2583,
+      "review": false
+    },
+    {
+      "start": 168.02,
+      "end": 171.12,
+      "text": "韩国如果能够,因为它已经跌了一阵了",
+      "avg_logprob": -0.1211,
+      "no_speech_prob": 0.2583,
+      "review": false
+    },
+    {
+      "start": 171.12,
+      "end": 174.42,
+      "text": "韩国能够有反弹的话呢,A股那边也可能有点点反弹",
+      "avg_logprob": -0.1211,
+      "no_speech_prob": 0.2583,
+      "review": false
+    },
+    {
+      "start": 174.42,
+      "end": 181.81,
+      "text": "反正今天,今天,今天大家知道就行了啊",
+      "avg_logprob": -0.1211,
+      "no_speech_prob": 0.2583,
+      "review": false
+    },
+    {
+      "start": 181.81,
+      "end": 185.87,
+      "text": "我们今天只有这个,今天只有,今天只有会员啊",
+      "avg_logprob": -0.1211,
+      "no_speech_prob": 0.2583,
+      "review": false
+    },
+    {
+      "start": 185.87,
+      "end": 188.99,
+      "text": "我们就没有公开其他的了,所以今天人比较少",
+      "avg_logprob": -0.1211,
+      "no_speech_prob": 0.2583,
+      "review": false
+    },
+    {
+      "start": 188.99,
+      "end": 192.01,
+      "text": "哎呀,反正今天不知道",
+      "avg_logprob": -0.1634,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 192.01,
+      "end": 197.67,
+      "text": "整体来说除了这些有色像其他的今天都不行",
+      "avg_logprob": -0.1634,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 197.67,
+      "end": 199.67,
+      "text": "其他的都不行",
+      "avg_logprob": -0.1634,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 199.67,
+      "end": 204.03,
+      "text": "我现在的今天的操作也就是等到反弹起来走",
+      "avg_logprob": -0.1634,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 204.03,
+      "end": 206.9,
+      "text": "像588170",
+      "avg_logprob": -0.1634,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 206.9,
+      "end": 209.26,
+      "text": "588170",
+      "avg_logprob": -0.1634,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 209.26,
+      "end": 210.96,
+      "text": "像我这些池仓",
+      "avg_logprob": -0.1634,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 210.96,
+      "end": 214.02,
+      "text": "就反弹起来再走",
+      "avg_logprob": -0.1634,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 214.02,
+      "end": 221.38,
+      "text": "159516",
+      "avg_logprob": -0.1634,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 221.38,
+      "end": 227.22,
+      "text": "这个半导体真的是",
+      "avg_logprob": -0.1634,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 227.22,
+      "end": 229.6,
+      "text": "但是我还是相信啊",
+      "avg_logprob": -0.1861,
+      "no_speech_prob": 0.9487,
+      "review": true
+    },
+    {
+      "start": 229.6,
+      "end": 232.26,
+      "text": "我相信它迟早会起来的",
+      "avg_logprob": -0.1861,
+      "no_speech_prob": 0.9487,
+      "review": true
+    },
+    {
+      "start": 232.26,
+      "end": 233.98,
+      "text": "但是短线",
+      "avg_logprob": -0.1861,
+      "no_speech_prob": 0.9487,
+      "review": true
+    },
+    {
+      "start": 233.98,
+      "end": 235.86,
+      "text": "短线你不能去堵这个",
+      "avg_logprob": -0.1861,
+      "no_speech_prob": 0.9487,
+      "review": true
+    },
+    {
+      "start": 235.86,
+      "end": 237.92,
+      "text": "也不能说堵它起来",
+      "avg_logprob": -0.1861,
+      "no_speech_prob": 0.9487,
+      "review": true
+    },
+    {
+      "start": 237.92,
+      "end": 238.84,
+      "text": "那就比较",
+      "avg_logprob": -0.1861,
+      "no_speech_prob": 0.9487,
+      "review": true
+    },
+    {
+      "start": 238.84,
+      "end": 240.8,
+      "text": "我觉得就比较不好了",
+      "avg_logprob": -0.1861,
+      "no_speech_prob": 0.9487,
+      "review": true
+    },
+    {
+      "start": 240.8,
+      "end": 241.86,
+      "text": "你要",
+      "avg_logprob": -0.1861,
+      "no_speech_prob": 0.9487,
+      "review": true
+    },
+    {
+      "start": 241.86,
+      "end": 245.18,
+      "text": "是不是",
+      "avg_logprob": -0.1861,
+      "no_speech_prob": 0.9487,
+      "review": true
+    },
+    {
+      "start": 245.18,
+      "end": 247.36,
+      "text": "你不能堵它起来",
+      "avg_logprob": -0.1861,
+      "no_speech_prob": 0.9487,
+      "review": true
+    },
+    {
+      "start": 247.36,
+      "end": 249.39,
+      "text": "堵它起来的话就非常的不好",
+      "avg_logprob": -0.1861,
+      "no_speech_prob": 0.9487,
+      "review": true
+    },
+    {
+      "start": 249.39,
+      "end": 271.28,
+      "text": "京东方",
+      "avg_logprob": -0.1861,
+      "no_speech_prob": 0.9487,
+      "review": true
+    },
+    {
+      "start": 271.28,
+      "end": 273.91,
+      "text": "我先看一下我手里啊",
+      "avg_logprob": -0.1861,
+      "no_speech_prob": 0.9487,
+      "review": true
+    },
+    {
+      "start": 273.91,
+      "end": 275.05,
+      "text": "我把我手里的这些票",
+      "avg_logprob": -0.1861,
+      "no_speech_prob": 0.9487,
+      "review": true
+    },
+    {
+      "start": 275.05,
+      "end": 276.67,
+      "text": "京东方",
+      "avg_logprob": -0.1861,
+      "no_speech_prob": 0.9487,
+      "review": true
+    },
+    {
+      "start": 276.67,
+      "end": 284.82,
+      "text": "这些票今天可能都会处理了",
+      "avg_logprob": -0.1861,
+      "no_speech_prob": 0.9487,
+      "review": true
+    },
+    {
+      "start": 284.82,
+      "end": 286.34,
+      "text": "该处理要全部处理完了",
+      "avg_logprob": -0.2667,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 286.34,
+      "end": 288.94,
+      "text": "只要有小反弹我今天都要走完",
+      "avg_logprob": -0.2667,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 288.94,
+      "end": 290.84,
+      "text": "就是半道题啊",
+      "avg_logprob": -0.2667,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 290.84,
+      "end": 293.48,
+      "text": "以后就不进了",
+      "avg_logprob": -0.2667,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 293.48,
+      "end": 297.91,
+      "text": "设备TF15999",
+      "avg_logprob": -0.2667,
+      "no_speech_prob": 0.0,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 16.06
+}

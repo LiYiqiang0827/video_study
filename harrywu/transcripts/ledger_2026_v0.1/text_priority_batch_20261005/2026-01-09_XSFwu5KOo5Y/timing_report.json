@@ -1,0 +1,21 @@
+{
+  "asr_reused": true,
+  "stream_id": "XSFwu5KOo5Y",
+  "original_segments": 4312,
+  "retained_nonempty_segments": 3844,
+  "sections": 28,
+  "retained_source_seconds": 7639.0,
+  "stock_name_replacements": 314,
+  "pending_name_occurrences": 44,
+  "semantic_reviewer": "current_codex_primary",
+  "text_stage": "complete",
+  "text_completed_utc": "2026-10-05T09:40:39.839849+00:00",
+  "checks": {
+    "source_asr_hash_unchanged": true,
+    "source_timestamps_and_ids_unchanged": true,
+    "spoken_numbers_unchanged": true,
+    "section_coverage_complete": true,
+    "visual_processing": false
+  },
+  "original_asr_sha256": "7437847deccbdc7a05d61eb84a8c6add046a80666cf3941c9e5af8291ccdf683"
+}

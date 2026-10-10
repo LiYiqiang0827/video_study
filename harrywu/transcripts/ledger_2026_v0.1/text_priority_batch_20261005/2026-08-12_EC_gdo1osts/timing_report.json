@@ -1,0 +1,31 @@
+{
+  "stream_id": "EC_gdo1osts",
+  "duration_seconds": 6626.557098,
+  "asr_wall_seconds": 550.187,
+  "segments": 1776,
+  "chunks": 23,
+  "source_hash_matches": true,
+  "visual_processing": false,
+  "asr_large_model_token_usage": 0,
+  "text_stage": "complete",
+  "asr_noise_exception": "D:\\YuncongVideoAnalysis\\ledger_2026_v0.1\\text_priority_batch_20261005\\2026-08-12_EC_gdo1osts\\asr_noise_exception.json",
+  "original_segments": 1776,
+  "retained_nonempty_segments": 1589,
+  "sections": 32,
+  "retained_source_seconds": 5905.0,
+  "stock_name_replacements": 128,
+  "term_replacements": 14,
+  "pending_name_occurrences": 6,
+  "semantic_reviewer": "current_codex_primary",
+  "text_completed_utc": "2026-10-05T11:08:45.846945+00:00",
+  "checks": {
+    "source_asr_hash_unchanged": true,
+    "source_timestamps_and_ids_unchanged": true,
+    "spoken_numbers_unchanged": true,
+    "numbers_outside_approved_stock_name_aliases_unchanged": true,
+    "approved_numeric_name_segments": 0,
+    "section_coverage_complete": true,
+    "visual_processing": false
+  },
+  "original_asr_sha256": "cf81fe0d5b8b9211e8bac2e933caad46d12ec92b66bb59ce7b2b28bfe5e383f7"
+}

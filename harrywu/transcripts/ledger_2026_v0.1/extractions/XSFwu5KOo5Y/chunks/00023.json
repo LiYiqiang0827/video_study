@@ -1,0 +1,1208 @@
+{
+  "begin": 6900.0,
+  "finish": 7200.0,
+  "segments": [
+    {
+      "start": 6900.58,
+      "end": 6903.54,
+      "text": "你找一个现在比较热的商业航天啊",
+      "avg_logprob": -0.116,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 6903.54,
+      "end": 6904.58,
+      "text": "你拿个一年",
+      "avg_logprob": -0.116,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 6904.58,
+      "end": 6905.3,
+      "text": "我觉得可以",
+      "avg_logprob": -0.116,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 6905.3,
+      "end": 6907.2,
+      "text": "我个人觉得",
+      "avg_logprob": -0.116,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 6907.2,
+      "end": 6908.9,
+      "text": "如果你要长达",
+      "avg_logprob": -0.116,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 6908.9,
+      "end": 6910.48,
+      "text": "你还是建议对",
+      "avg_logprob": -0.116,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 6910.48,
+      "end": 6911.62,
+      "text": "还是要找这个",
+      "avg_logprob": -0.116,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 6911.62,
+      "end": 6914.22,
+      "text": "就是现在真正的比较会",
+      "avg_logprob": -0.116,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 6914.22,
+      "end": 6918.0,
+      "text": "就是今后一到两年之内",
+      "avg_logprob": -0.116,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 6918.0,
+      "end": 6921.06,
+      "text": "整个人类的这个科技发展动向",
+      "avg_logprob": -0.116,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 6921.06,
+      "end": 6923.4,
+      "text": "我个人觉得新能源车到头了",
+      "avg_logprob": -0.116,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 6923.4,
+      "end": 6925.28,
+      "text": "如果不到头",
+      "avg_logprob": -0.116,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 6925.28,
+      "end": 6926.98,
+      "text": "比亚迪也不可能跑到巴西",
+      "avg_logprob": -0.116,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 6926.98,
+      "end": 6928.98,
+      "text": "这么远地球另外一边的建厂",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.9575,
+      "review": true
+    },
+    {
+      "start": 6928.98,
+      "end": 6931.0,
+      "text": "因为国内新能源车饱和了",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.9575,
+      "review": true
+    },
+    {
+      "start": 6931.0,
+      "end": 6932.6,
+      "text": "应该不会太增长了",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.9575,
+      "review": true
+    },
+    {
+      "start": 6932.6,
+      "end": 6934.3,
+      "text": "那么什么会有很大的空间",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.9575,
+      "review": true
+    },
+    {
+      "start": 6934.3,
+      "end": 6935.7,
+      "text": "商业航天是不是",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.9575,
+      "review": true
+    },
+    {
+      "start": 6935.7,
+      "end": 6938.5,
+      "text": "然后呢这个机器人",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.9575,
+      "review": true
+    },
+    {
+      "start": 6938.5,
+      "end": 6940.3,
+      "text": "肯定是有很大的增长空间",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.9575,
+      "review": true
+    },
+    {
+      "start": 6940.3,
+      "end": 6941.68,
+      "text": "毫无疑问的是吧",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.9575,
+      "review": true
+    },
+    {
+      "start": 6941.68,
+      "end": 6943.08,
+      "text": "这些还有芯片",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.9575,
+      "review": true
+    },
+    {
+      "start": 6943.08,
+      "end": 6944.08,
+      "text": "中国的芯片",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.9575,
+      "review": true
+    },
+    {
+      "start": 6944.08,
+      "end": 6945.5,
+      "text": "这个毫无疑问",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.9575,
+      "review": true
+    },
+    {
+      "start": 6945.5,
+      "end": 6946.58,
+      "text": "中国要自己搞芯片",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.9575,
+      "review": true
+    },
+    {
+      "start": 6946.58,
+      "end": 6948.58,
+      "text": "中美现在对抗成这样了",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.9575,
+      "review": true
+    },
+    {
+      "start": 6948.58,
+      "end": 6950.04,
+      "text": "搞不好哪一天打起来了",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.9575,
+      "review": true
+    },
+    {
+      "start": 6950.04,
+      "end": 6951.7,
+      "text": "你中国还不搞自己芯片",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.9575,
+      "review": true
+    },
+    {
+      "start": 6951.7,
+      "end": 6953.06,
+      "text": "所以说这些东西",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.9575,
+      "review": true
+    },
+    {
+      "start": 6953.06,
+      "end": 6954.46,
+      "text": "这才是市场是不是",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.9575,
+      "review": true
+    },
+    {
+      "start": 6954.46,
+      "end": 6955.54,
+      "text": "这才是市场",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.9575,
+      "review": true
+    },
+    {
+      "start": 6955.54,
+      "end": 6956.86,
+      "text": "你去搞新能源车",
+      "avg_logprob": -0.1111,
+      "no_speech_prob": 0.9575,
+      "review": true
+    },
+    {
+      "start": 6956.86,
+      "end": 6957.5,
+      "text": "没有意义的",
+      "avg_logprob": -0.1257,
+      "no_speech_prob": 0.9751,
+      "review": true
+    },
+    {
+      "start": 6957.5,
+      "end": 6958.68,
+      "text": "我个人认为新能源车",
+      "avg_logprob": -0.1257,
+      "no_speech_prob": 0.9751,
+      "review": true
+    },
+    {
+      "start": 6958.68,
+      "end": 6960.94,
+      "text": "汽车真的饱和了",
+      "avg_logprob": -0.1257,
+      "no_speech_prob": 0.9751,
+      "review": true
+    },
+    {
+      "start": 6960.94,
+      "end": 6963.18,
+      "text": "汽车这个行业真的饱和了",
+      "avg_logprob": -0.1257,
+      "no_speech_prob": 0.9751,
+      "review": true
+    },
+    {
+      "start": 6963.18,
+      "end": 6964.24,
+      "text": "你两三年前",
+      "avg_logprob": -0.1257,
+      "no_speech_prob": 0.9751,
+      "review": true
+    },
+    {
+      "start": 6964.24,
+      "end": 6964.96,
+      "text": "四年前",
+      "avg_logprob": -0.1257,
+      "no_speech_prob": 0.9751,
+      "review": true
+    },
+    {
+      "start": 6964.96,
+      "end": 6966.5,
+      "text": "你去搞新能源车还可以",
+      "avg_logprob": -0.1257,
+      "no_speech_prob": 0.9751,
+      "review": true
+    },
+    {
+      "start": 6966.5,
+      "end": 6967.8,
+      "text": "真的饱和了",
+      "avg_logprob": -0.1257,
+      "no_speech_prob": 0.9751,
+      "review": true
+    },
+    {
+      "start": 6967.8,
+      "end": 6971.15,
+      "text": "不同的软件不一样",
+      "avg_logprob": -0.1257,
+      "no_speech_prob": 0.9751,
+      "review": true
+    },
+    {
+      "start": 6971.15,
+      "end": 6971.75,
+      "text": "是的是的",
+      "avg_logprob": -0.1257,
+      "no_speech_prob": 0.9751,
+      "review": true
+    },
+    {
+      "start": 6971.75,
+      "end": 6972.77,
+      "text": "不同软件本来就不一样",
+      "avg_logprob": -0.1257,
+      "no_speech_prob": 0.9751,
+      "review": true
+    },
+    {
+      "start": 6972.77,
+      "end": 6973.63,
+      "text": "这个很正常的",
+      "avg_logprob": -0.1257,
+      "no_speech_prob": 0.9751,
+      "review": true
+    },
+    {
+      "start": 6973.63,
+      "end": 6974.83,
+      "text": "这个没有啥的",
+      "avg_logprob": -0.1257,
+      "no_speech_prob": 0.9751,
+      "review": true
+    },
+    {
+      "start": 6974.83,
+      "end": 6975.53,
+      "text": "这个没有啥",
+      "avg_logprob": -0.1257,
+      "no_speech_prob": 0.9751,
+      "review": true
+    },
+    {
+      "start": 6975.53,
+      "end": 6979.43,
+      "text": "但是基本上是一样的",
+      "avg_logprob": -0.1257,
+      "no_speech_prob": 0.9751,
+      "review": true
+    },
+    {
+      "start": 6979.43,
+      "end": 6981.31,
+      "text": "那个网站的地址贴上来吗",
+      "avg_logprob": -0.1257,
+      "no_speech_prob": 0.9751,
+      "review": true
+    },
+    {
+      "start": 6981.31,
+      "end": 6982.85,
+      "text": "网站的地址在这",
+      "avg_logprob": -0.1257,
+      "no_speech_prob": 0.9751,
+      "review": true
+    },
+    {
+      "start": 6982.85,
+      "end": 6985.64,
+      "text": "我不是第一个",
+      "avg_logprob": -0.1257,
+      "no_speech_prob": 0.9751,
+      "review": true
+    },
+    {
+      "start": 6985.64,
+      "end": 6986.34,
+      "text": "你们可能不知道",
+      "avg_logprob": -0.1257,
+      "no_speech_prob": 0.9751,
+      "review": true
+    },
+    {
+      "start": 6986.34,
+      "end": 6990.14,
+      "text": "我所有的这个视频下面都有我的网站地址",
+      "avg_logprob": -0.1609,
+      "no_speech_prob": 0.8325,
+      "review": true
+    },
+    {
+      "start": 6990.14,
+      "end": 6991.7,
+      "text": "只不过你们从来可能不看而已",
+      "avg_logprob": -0.1609,
+      "no_speech_prob": 0.8325,
+      "review": true
+    },
+    {
+      "start": 6991.7,
+      "end": 6992.28,
+      "text": "你看",
+      "avg_logprob": -0.1609,
+      "no_speech_prob": 0.8325,
+      "review": true
+    },
+    {
+      "start": 6992.28,
+      "end": 6995.1,
+      "text": "你看我所有的频道",
+      "avg_logprob": -0.1609,
+      "no_speech_prob": 0.8325,
+      "review": true
+    },
+    {
+      "start": 6995.1,
+      "end": 6997.02,
+      "text": "这个任何一个下面",
+      "avg_logprob": -0.1609,
+      "no_speech_prob": 0.8325,
+      "review": true
+    },
+    {
+      "start": 6997.02,
+      "end": 6998.82,
+      "text": "你看都有我的网站地址",
+      "avg_logprob": -0.1609,
+      "no_speech_prob": 0.8325,
+      "review": true
+    },
+    {
+      "start": 6998.82,
+      "end": 6999.84,
+      "text": "已经足够了",
+      "avg_logprob": -0.1609,
+      "no_speech_prob": 0.8325,
+      "review": true
+    },
+    {
+      "start": 6999.84,
+      "end": 7000.72,
+      "text": "你再也不用",
+      "avg_logprob": -0.1609,
+      "no_speech_prob": 0.8325,
+      "review": true
+    },
+    {
+      "start": 7000.72,
+      "end": 7003.26,
+      "text": "你看这下面都有我的网站地址",
+      "avg_logprob": -0.1609,
+      "no_speech_prob": 0.8325,
+      "review": true
+    },
+    {
+      "start": 7003.26,
+      "end": 7006.74,
+      "text": "你看这个云聪云聪trade",
+      "avg_logprob": -0.1609,
+      "no_speech_prob": 0.8325,
+      "review": true
+    },
+    {
+      "start": 7006.74,
+      "end": 7007.76,
+      "text": "都有网站地址",
+      "avg_logprob": -0.1609,
+      "no_speech_prob": 0.8325,
+      "review": true
+    },
+    {
+      "start": 7007.76,
+      "end": 7009.92,
+      "text": "哎呀一说起来这个就不好意思了",
+      "avg_logprob": -0.1609,
+      "no_speech_prob": 0.8325,
+      "review": true
+    },
+    {
+      "start": 7009.92,
+      "end": 7011.46,
+      "text": "我好久没有做公开课了",
+      "avg_logprob": -0.1609,
+      "no_speech_prob": 0.8325,
+      "review": true
+    },
+    {
+      "start": 7011.46,
+      "end": 7012.72,
+      "text": "就太忙了",
+      "avg_logprob": -0.1609,
+      "no_speech_prob": 0.8325,
+      "review": true
+    },
+    {
+      "start": 7012.72,
+      "end": 7013.28,
+      "text": "我本周一定",
+      "avg_logprob": -0.1609,
+      "no_speech_prob": 0.8325,
+      "review": true
+    },
+    {
+      "start": 7013.28,
+      "end": 7015.78,
+      "text": "这个你看上一下看一下",
+      "avg_logprob": -0.1609,
+      "no_speech_prob": 0.8325,
+      "review": true
+    },
+    {
+      "start": 7015.78,
+      "end": 7019.12,
+      "text": "云聪不是我的名字吗",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.8164,
+      "review": true
+    },
+    {
+      "start": 7019.12,
+      "end": 7020.14,
+      "text": "Trade交易",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.8164,
+      "review": true
+    },
+    {
+      "start": 7020.14,
+      "end": 7020.96,
+      "text": "云聪Trade",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.8164,
+      "review": true
+    },
+    {
+      "start": 7020.96,
+      "end": 7023.6,
+      "text": "这个地方",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.8164,
+      "review": true
+    },
+    {
+      "start": 7023.6,
+      "end": 7025.26,
+      "text": "云聪Trade",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.8164,
+      "review": true
+    },
+    {
+      "start": 7025.26,
+      "end": 7026.12,
+      "text": "这个网站",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.8164,
+      "review": true
+    },
+    {
+      "start": 7026.12,
+      "end": 7027.08,
+      "text": "这是国内的网站",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.8164,
+      "review": true
+    },
+    {
+      "start": 7027.08,
+      "end": 7028.7,
+      "text": "那么你能够上油管",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.8164,
+      "review": true
+    },
+    {
+      "start": 7028.7,
+      "end": 7029.3,
+      "text": "你不必要",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.8164,
+      "review": true
+    },
+    {
+      "start": 7029.3,
+      "end": 7030.48,
+      "text": "油管上面都有",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.8164,
+      "review": true
+    },
+    {
+      "start": 7030.48,
+      "end": 7032.08,
+      "text": "你只要是我油管会员",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.8164,
+      "review": true
+    },
+    {
+      "start": 7032.08,
+      "end": 7032.7,
+      "text": "你都能看到",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.8164,
+      "review": true
+    },
+    {
+      "start": 7032.7,
+      "end": 7035.27,
+      "text": "你只要是我的油管会员",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.8164,
+      "review": true
+    },
+    {
+      "start": 7035.27,
+      "end": 7035.77,
+      "text": "都能看到",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.8164,
+      "review": true
+    },
+    {
+      "start": 7035.77,
+      "end": 7046.73,
+      "text": "再过20分钟收盘了",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.8164,
+      "review": true
+    },
+    {
+      "start": 7046.73,
+      "end": 7048.49,
+      "text": "就陪大家陪到收盘就行了",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.8164,
+      "review": true
+    },
+    {
+      "start": 7048.49,
+      "end": 7052.62,
+      "text": "我们看一下我们的这些票",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.8164,
+      "review": true
+    },
+    {
+      "start": 7052.62,
+      "end": 7053.78,
+      "text": "今天我们的这些票",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.8164,
+      "review": true
+    },
+    {
+      "start": 7053.78,
+      "end": 7055.78,
+      "text": "DN整段也回去了",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.8164,
+      "review": true
+    },
+    {
+      "start": 7055.78,
+      "end": 7056.48,
+      "text": "太好了",
+      "avg_logprob": -0.1481,
+      "no_speech_prob": 0.8164,
+      "review": true
+    },
+    {
+      "start": 7056.48,
+      "end": 7059.24,
+      "text": "只好没被锤了",
+      "avg_logprob": -0.2381,
+      "no_speech_prob": 0.8784,
+      "review": true
+    },
+    {
+      "start": 7059.24,
+      "end": 7060.5,
+      "text": "DN整段也回去了",
+      "avg_logprob": -0.2381,
+      "no_speech_prob": 0.8784,
+      "review": true
+    },
+    {
+      "start": 7060.5,
+      "end": 7061.32,
+      "text": "回去了",
+      "avg_logprob": -0.2381,
+      "no_speech_prob": 0.8784,
+      "review": true
+    },
+    {
+      "start": 7061.32,
+      "end": 7064.23,
+      "text": "蓝丝还没有涨停",
+      "avg_logprob": -0.2381,
+      "no_speech_prob": 0.8784,
+      "review": true
+    },
+    {
+      "start": 7064.23,
+      "end": 7065.73,
+      "text": "争取下午涨停吧",
+      "avg_logprob": -0.2381,
+      "no_speech_prob": 0.8784,
+      "review": true
+    },
+    {
+      "start": 7065.73,
+      "end": 7067.73,
+      "text": "每年天马",
+      "avg_logprob": -0.2381,
+      "no_speech_prob": 0.8784,
+      "review": true
+    },
+    {
+      "start": 7067.73,
+      "end": 7069.25,
+      "text": "东湖达能",
+      "avg_logprob": -0.2381,
+      "no_speech_prob": 0.8784,
+      "review": true
+    },
+    {
+      "start": 7069.25,
+      "end": 7071.29,
+      "text": "这些我不知道哪个买到了",
+      "avg_logprob": -0.2381,
+      "no_speech_prob": 0.8784,
+      "review": true
+    },
+    {
+      "start": 7071.29,
+      "end": 7071.75,
+      "text": "我都看一下",
+      "avg_logprob": -0.2381,
+      "no_speech_prob": 0.8784,
+      "review": true
+    },
+    {
+      "start": 7071.75,
+      "end": 7073.75,
+      "text": "周旧游戏买到了",
+      "avg_logprob": -0.2381,
+      "no_speech_prob": 0.8784,
+      "review": true
+    },
+    {
+      "start": 7073.75,
+      "end": 7074.57,
+      "text": "它打开了",
+      "avg_logprob": -0.2381,
+      "no_speech_prob": 0.8784,
+      "review": true
+    },
+    {
+      "start": 7074.57,
+      "end": 7078.92,
+      "text": "神广又开始要冲击涨停了",
+      "avg_logprob": -0.2381,
+      "no_speech_prob": 0.8784,
+      "review": true
+    },
+    {
+      "start": 7078.92,
+      "end": 7079.98,
+      "text": "电广打开了",
+      "avg_logprob": -0.2381,
+      "no_speech_prob": 0.8784,
+      "review": true
+    },
+    {
+      "start": 7079.98,
+      "end": 7081.68,
+      "text": "其他都没有上",
+      "avg_logprob": -0.2381,
+      "no_speech_prob": 0.8784,
+      "review": true
+    },
+    {
+      "start": 7081.68,
+      "end": 7083.08,
+      "text": "其他都很正常",
+      "avg_logprob": -0.2381,
+      "no_speech_prob": 0.8784,
+      "review": true
+    },
+    {
+      "start": 7083.08,
+      "end": 7084.6,
+      "text": "没有上",
+      "avg_logprob": -0.2381,
+      "no_speech_prob": 0.8784,
+      "review": true
+    },
+    {
+      "start": 7084.6,
+      "end": 7086.17,
+      "text": "迪安迪安",
+      "avg_logprob": -0.2283,
+      "no_speech_prob": 0.812,
+      "review": true
+    },
+    {
+      "start": 7086.17,
+      "end": 7088.53,
+      "text": "对迪安又涨又开始冲击涨停了",
+      "avg_logprob": -0.2283,
+      "no_speech_prob": 0.812,
+      "review": true
+    },
+    {
+      "start": 7088.53,
+      "end": 7089.53,
+      "text": "这挺好的啊",
+      "avg_logprob": -0.2283,
+      "no_speech_prob": 0.812,
+      "review": true
+    },
+    {
+      "start": 7089.53,
+      "end": 7090.17,
+      "text": "这是好事情",
+      "avg_logprob": -0.2283,
+      "no_speech_prob": 0.812,
+      "review": true
+    },
+    {
+      "start": 7090.17,
+      "end": 7093.01,
+      "text": "看一下我的这个这些票",
+      "avg_logprob": -0.2283,
+      "no_speech_prob": 0.812,
+      "review": true
+    },
+    {
+      "start": 7093.01,
+      "end": 7102.01,
+      "text": "迪安南斯",
+      "avg_logprob": -0.2283,
+      "no_speech_prob": 0.812,
+      "review": true
+    },
+    {
+      "start": 7102.01,
+      "end": 7104.18,
+      "text": "东湖高兴",
+      "avg_logprob": -0.2283,
+      "no_speech_prob": 0.812,
+      "review": true
+    },
+    {
+      "start": 7104.18,
+      "end": 7106.64,
+      "text": "大卫云南楚越",
+      "avg_logprob": -0.2283,
+      "no_speech_prob": 0.812,
+      "review": true
+    },
+    {
+      "start": 7106.64,
+      "end": 7108.84,
+      "text": "云南楚越打开了",
+      "avg_logprob": -0.2283,
+      "no_speech_prob": 0.812,
+      "review": true
+    },
+    {
+      "start": 7108.84,
+      "end": 7109.38,
+      "text": "我可能要",
+      "avg_logprob": -0.2283,
+      "no_speech_prob": 0.812,
+      "review": true
+    },
+    {
+      "start": 7109.38,
+      "end": 7112.26,
+      "text": "不行你看我又恐高了",
+      "avg_logprob": -0.2283,
+      "no_speech_prob": 0.812,
+      "review": true
+    },
+    {
+      "start": 7112.26,
+      "end": 7112.98,
+      "text": "哎呀不行",
+      "avg_logprob": -0.2283,
+      "no_speech_prob": 0.812,
+      "review": true
+    },
+    {
+      "start": 7112.98,
+      "end": 7115.56,
+      "text": "我可能走一半吗",
+      "avg_logprob": -0.2283,
+      "no_speech_prob": 0.812,
+      "review": true
+    },
+    {
+      "start": 7115.56,
+      "end": 7115.96,
+      "text": "走一半",
+      "avg_logprob": -0.2283,
+      "no_speech_prob": 0.812,
+      "review": true
+    },
+    {
+      "start": 7115.96,
+      "end": 7118.82,
+      "text": "哎呀我又开始恐高了",
+      "avg_logprob": -0.2283,
+      "no_speech_prob": 0.812,
+      "review": true
+    },
+    {
+      "start": 7118.82,
+      "end": 7120.94,
+      "text": "所以这就是我的问题",
+      "avg_logprob": -0.2283,
+      "no_speech_prob": 0.812,
+      "review": true
+    },
+    {
+      "start": 7120.94,
+      "end": 7122.16,
+      "text": "我也有问题啊",
+      "avg_logprob": -0.2283,
+      "no_speech_prob": 0.812,
+      "review": true
+    },
+    {
+      "start": 7122.16,
+      "end": 7122.98,
+      "text": "我这种也是",
+      "avg_logprob": -0.1973,
+      "no_speech_prob": 0.5337,
+      "review": true
+    },
+    {
+      "start": 7122.98,
+      "end": 7124.54,
+      "text": "我是也有问题的",
+      "avg_logprob": -0.1973,
+      "no_speech_prob": 0.5337,
+      "review": true
+    },
+    {
+      "start": 7124.54,
+      "end": 7128.68,
+      "text": "别人就是很高位去买",
+      "avg_logprob": -0.1973,
+      "no_speech_prob": 0.5337,
+      "review": true
+    },
+    {
+      "start": 7128.68,
+      "end": 7131.13,
+      "text": "我一涨高了",
+      "avg_logprob": -0.1973,
+      "no_speech_prob": 0.5337,
+      "review": true
+    },
+    {
+      "start": 7131.13,
+      "end": 7131.83,
+      "text": "我就恐高",
+      "avg_logprob": -0.1973,
+      "no_speech_prob": 0.5337,
+      "review": true
+    },
+    {
+      "start": 7131.83,
+      "end": 7133.91,
+      "text": "还好永辉超市起来了",
+      "avg_logprob": -0.1973,
+      "no_speech_prob": 0.5337,
+      "review": true
+    },
+    {
+      "start": 7133.91,
+      "end": 7135.55,
+      "text": "我现在永辉超市起来了",
+      "avg_logprob": -0.1973,
+      "no_speech_prob": 0.5337,
+      "review": true
+    },
+    {
+      "start": 7135.55,
+      "end": 7136.43,
+      "text": "这是个好事情",
+      "avg_logprob": -0.1973,
+      "no_speech_prob": 0.5337,
+      "review": true
+    },
+    {
+      "start": 7136.43,
+      "end": 7139.54,
+      "text": "但是说实话",
+      "avg_logprob": -0.1973,
+      "no_speech_prob": 0.5337,
+      "review": true
+    },
+    {
+      "start": 7139.54,
+      "end": 7140.5,
+      "text": "今天九景新财",
+      "avg_logprob": -0.1973,
+      "no_speech_prob": 0.5337,
+      "review": true
+    },
+    {
+      "start": 7140.5,
+      "end": 7142.34,
+      "text": "我太失望了",
+      "avg_logprob": -0.1973,
+      "no_speech_prob": 0.5337,
+      "review": true
+    },
+    {
+      "start": 7142.34,
+      "end": 7144.46,
+      "text": "它是从那么高的往下砸下来的",
+      "avg_logprob": -0.1973,
+      "no_speech_prob": 0.5337,
+      "review": true
+    },
+    {
+      "start": 7144.46,
+      "end": 7146.64,
+      "text": "它10%砸下来的",
+      "avg_logprob": -0.1973,
+      "no_speech_prob": 0.5337,
+      "review": true
+    },
+    {
+      "start": 7146.64,
+      "end": 7147.44,
+      "text": "太失望",
+      "avg_logprob": -0.1973,
+      "no_speech_prob": 0.5337,
+      "review": true
+    },
+    {
+      "start": 7147.44,
+      "end": 7149.1,
+      "text": "九景新财太失望",
+      "avg_logprob": -0.1973,
+      "no_speech_prob": 0.5337,
+      "review": true
+    },
+    {
+      "start": 7149.1,
+      "end": 7159.33,
+      "text": "其他的也没有事",
+      "avg_logprob": -0.1973,
+      "no_speech_prob": 0.5337,
+      "review": true
+    },
+    {
+      "start": 7159.33,
+      "end": 7164.72,
+      "text": "其他的还算正常吧",
+      "avg_logprob": -0.1973,
+      "no_speech_prob": 0.5337,
+      "review": true
+    },
+    {
+      "start": 7164.72,
+      "end": 7167.64,
+      "text": "DN好",
+      "avg_logprob": -0.2442,
+      "no_speech_prob": 0.8779,
+      "review": true
+    },
+    {
+      "start": 7167.64,
+      "end": 7170.2,
+      "text": "还没有到",
+      "avg_logprob": -0.2442,
+      "no_speech_prob": 0.8779,
+      "review": true
+    },
+    {
+      "start": 7170.2,
+      "end": 7172.26,
+      "text": "这没有啥",
+      "avg_logprob": -0.2442,
+      "no_speech_prob": 0.8779,
+      "review": true
+    },
+    {
+      "start": 7172.26,
+      "end": 7174.34,
+      "text": "我看今天有买到涨停没有",
+      "avg_logprob": -0.2442,
+      "no_speech_prob": 0.8779,
+      "review": true
+    },
+    {
+      "start": 7174.34,
+      "end": 7175.1,
+      "text": "看看到现在为止",
+      "avg_logprob": -0.2442,
+      "no_speech_prob": 0.8779,
+      "review": true
+    },
+    {
+      "start": 7175.1,
+      "end": 7176.88,
+      "text": "有没有买到涨停",
+      "avg_logprob": -0.2442,
+      "no_speech_prob": 0.8779,
+      "review": true
+    },
+    {
+      "start": 7176.88,
+      "end": 7180.74,
+      "text": "周就去买到了打开了",
+      "avg_logprob": -0.2442,
+      "no_speech_prob": 0.8779,
+      "review": true
+    },
+    {
+      "start": 7180.74,
+      "end": 7184.59,
+      "text": "每年见他没买到",
+      "avg_logprob": -0.2442,
+      "no_speech_prob": 0.8779,
+      "review": true
+    },
+    {
+      "start": 7184.59,
+      "end": 7187.99,
+      "text": "其他的好多的还是买到的",
+      "avg_logprob": -0.2442,
+      "no_speech_prob": 0.8779,
+      "review": true
+    },
+    {
+      "start": 7187.99,
+      "end": 7194.83,
+      "text": "红项也高开低走",
+      "avg_logprob": -0.2442,
+      "no_speech_prob": 0.8779,
+      "review": true
+    },
+    {
+      "start": 7194.83,
+      "end": 7197.09,
+      "text": "因为他现在指数在回调",
+      "avg_logprob": -0.2442,
+      "no_speech_prob": 0.8779,
+      "review": true
+    },
+    {
+      "start": 7197.09,
+      "end": 7197.85,
+      "text": "是吧",
+      "avg_logprob": -0.2442,
+      "no_speech_prob": 0.8779,
+      "review": true
+    },
+    {
+      "start": 7197.85,
+      "end": 7198.73,
+      "text": "只是在回调",
+      "avg_logprob": -0.2442,
+      "no_speech_prob": 0.8779,
+      "review": true
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 38.33
+}

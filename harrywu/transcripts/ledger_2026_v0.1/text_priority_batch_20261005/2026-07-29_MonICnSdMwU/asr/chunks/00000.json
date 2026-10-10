@@ -1,0 +1,400 @@
+{
+  "begin": 0.0,
+  "finish": 300.0,
+  "segments": [
+    {
+      "start": 84.46,
+      "end": 89.9,
+      "text": "现在应该是那边的9点半",
+      "avg_logprob": -0.2534,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 89.9,
+      "end": 95.13,
+      "text": "A股试探",
+      "avg_logprob": -0.2534,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 95.13,
+      "end": 105.05,
+      "text": "好,把这个换完",
+      "avg_logprob": -0.2534,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 105.05,
+      "end": 140.33,
+      "text": "这个地方是不公开",
+      "avg_logprob": -0.2534,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 140.33,
+      "end": 157.66,
+      "text": "看看今天呢",
+      "avg_logprob": -0.2534,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 157.66,
+      "end": 163.57,
+      "text": "今天本来是准备要被打锤的",
+      "avg_logprob": -0.2534,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 163.57,
+      "end": 169.36,
+      "text": "风华高科国资材料",
+      "avg_logprob": -0.2534,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 169.36,
+      "end": 204.26,
+      "text": "本来今天是说一个人太苦了",
+      "avg_logprob": -0.1981,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 204.26,
+      "end": 205.74,
+      "text": "我要一起看看",
+      "avg_logprob": -0.1981,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 205.74,
+      "end": 207.92,
+      "text": "刚才的看回播",
+      "avg_logprob": -0.1981,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 207.92,
+      "end": 209.66,
+      "text": "回播不是已经封了吗",
+      "avg_logprob": -0.1981,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 209.66,
+      "end": 210.2,
+      "text": "我不是已经",
+      "avg_logprob": -0.1981,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 210.2,
+      "end": 213.04,
+      "text": "我不让当时回播我过了",
+      "avg_logprob": -0.1981,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 213.04,
+      "end": 214.98,
+      "text": "不是回播",
+      "avg_logprob": -0.1981,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 214.98,
+      "end": 216.86,
+      "text": "我不是下面调成思想了吗",
+      "avg_logprob": -0.1981,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 216.86,
+      "end": 218.38,
+      "text": "咱又可以看了",
+      "avg_logprob": -0.1981,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 218.38,
+      "end": 218.72,
+      "text": "我看看",
+      "avg_logprob": -0.1981,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 218.72,
+      "end": 221.51,
+      "text": "这个回播调成思想了",
+      "avg_logprob": -0.1981,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 221.51,
+      "end": 222.79,
+      "text": "我不想把下午的放出来",
+      "avg_logprob": -0.1981,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 222.79,
+      "end": 237.16,
+      "text": "对了",
+      "avg_logprob": -0.1981,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 237.16,
+      "end": 238.02,
+      "text": "这个是不公开的出",
+      "avg_logprob": -0.1981,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 238.02,
+      "end": 240.02,
+      "text": "这个是可以公开的",
+      "avg_logprob": -0.1981,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 240.02,
+      "end": 244.95,
+      "text": "我们一起看一看",
+      "avg_logprob": -0.1981,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 244.95,
+      "end": 248.11,
+      "text": "今天我们一起看看盘",
+      "avg_logprob": -0.1786,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 248.11,
+      "end": 250.53,
+      "text": "今天我还说被锤呢",
+      "avg_logprob": -0.1786,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 250.53,
+      "end": 251.81,
+      "text": "今天怎么长起来了",
+      "avg_logprob": -0.1786,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 251.81,
+      "end": 255.93,
+      "text": "我还说今天要被狠狠的锤死",
+      "avg_logprob": -0.1786,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 255.93,
+      "end": 259.57,
+      "text": "我有这个风化高科",
+      "avg_logprob": -0.1786,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 259.57,
+      "end": 261.05,
+      "text": "康东化成",
+      "avg_logprob": -0.1786,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 261.05,
+      "end": 262.43,
+      "text": "你看这是我一直推荐的",
+      "avg_logprob": -0.1786,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 262.43,
+      "end": 263.51,
+      "text": "一直好的",
+      "avg_logprob": -0.1786,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 263.51,
+      "end": 264.85,
+      "text": "你看这真的是不错的",
+      "avg_logprob": -0.1786,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 264.85,
+      "end": 266.41,
+      "text": "这个我是一直看好的",
+      "avg_logprob": -0.1786,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 266.41,
+      "end": 267.83,
+      "text": "大家要拿稳",
+      "avg_logprob": -0.1786,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 267.83,
+      "end": 269.31,
+      "text": "我绝对不会走",
+      "avg_logprob": -0.1786,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 269.31,
+      "end": 271.11,
+      "text": "而且还坚定的补仓",
+      "avg_logprob": -0.1786,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 271.11,
+      "end": 274.66,
+      "text": "国词也起来一点点",
+      "avg_logprob": -0.1786,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 274.66,
+      "end": 275.62,
+      "text": "京东方下来了",
+      "avg_logprob": -0.2176,
+      "no_speech_prob": 0.228,
+      "review": false
+    },
+    {
+      "start": 275.62,
+      "end": 277.02,
+      "text": "京东方下来了",
+      "avg_logprob": -0.2176,
+      "no_speech_prob": 0.228,
+      "review": false
+    },
+    {
+      "start": 277.02,
+      "end": 279.32,
+      "text": "哎 多米尼还是死翘翘",
+      "avg_logprob": -0.2176,
+      "no_speech_prob": 0.228,
+      "review": false
+    },
+    {
+      "start": 279.32,
+      "end": 281.26,
+      "text": "多米尼死翘翘",
+      "avg_logprob": -0.2176,
+      "no_speech_prob": 0.228,
+      "review": false
+    },
+    {
+      "start": 281.26,
+      "end": 283.98,
+      "text": "哈哈 多米尼",
+      "avg_logprob": -0.2176,
+      "no_speech_prob": 0.228,
+      "review": false
+    },
+    {
+      "start": 283.98,
+      "end": 286.0,
+      "text": "哎 真正的事",
+      "avg_logprob": -0.2176,
+      "no_speech_prob": 0.228,
+      "review": false
+    },
+    {
+      "start": 286.0,
+      "end": 287.56,
+      "text": "估计还要死翘翘",
+      "avg_logprob": -0.2176,
+      "no_speech_prob": 0.228,
+      "review": false
+    },
+    {
+      "start": 287.56,
+      "end": 290.6,
+      "text": "这个难道卖了这么多天还没卖完吗",
+      "avg_logprob": -0.2176,
+      "no_speech_prob": 0.228,
+      "review": false
+    },
+    {
+      "start": 290.6,
+      "end": 291.44,
+      "text": "我的天哪",
+      "avg_logprob": -0.2176,
+      "no_speech_prob": 0.228,
+      "review": false
+    },
+    {
+      "start": 291.44,
+      "end": 293.82,
+      "text": "从这开始还有人在卖啊",
+      "avg_logprob": -0.2176,
+      "no_speech_prob": 0.228,
+      "review": false
+    },
+    {
+      "start": 293.82,
+      "end": 296.69,
+      "text": "哎 我看我还有没有持仓的",
+      "avg_logprob": -0.2176,
+      "no_speech_prob": 0.228,
+      "review": false
+    },
+    {
+      "start": 296.69,
+      "end": 299.89,
+      "text": "凤凰高科 康隆化成 国资材料 京东方",
+      "avg_logprob": -0.2176,
+      "no_speech_prob": 0.228,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 9.28
+}

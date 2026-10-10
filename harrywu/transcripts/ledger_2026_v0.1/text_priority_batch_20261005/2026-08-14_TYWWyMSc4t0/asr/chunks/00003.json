@@ -1,0 +1,736 @@
+{
+  "begin": 900.0,
+  "finish": 1200.0,
+  "segments": [
+    {
+      "start": 899.8,
+      "end": 915.4,
+      "text": "好朋友买不到啊",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 915.4,
+      "end": 916.24,
+      "text": "A股的问题就是",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 916.24,
+      "end": 917.9,
+      "text": "以前那个什么折页啊",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 917.9,
+      "end": 919.68,
+      "text": "你看我第一天买那么好的位置",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 919.68,
+      "end": 920.52,
+      "text": "我知道它会暴涨",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 920.52,
+      "end": 921.1,
+      "text": "买不到啊",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 921.1,
+      "end": 922.54,
+      "text": "这个博记也是",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 922.54,
+      "end": 924.62,
+      "text": "你看我看的还是很准的",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 924.62,
+      "end": 925.88,
+      "text": "我就知道它有暴涨",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 925.88,
+      "end": 927.16,
+      "text": "买不到啊",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 927.16,
+      "end": 928.48,
+      "text": "嗯这没办法",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 928.48,
+      "end": 929.56,
+      "text": "这是A股的特点",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 929.56,
+      "end": 930.62,
+      "text": "美股就不怕",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 930.62,
+      "end": 932.1,
+      "text": "美股你怎么都买得到",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 932.1,
+      "end": 933.58,
+      "text": "A股就是这样",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 933.58,
+      "end": 937.89,
+      "text": "好等会",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 937.89,
+      "end": 949.12,
+      "text": "看开盘了没有",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 949.12,
+      "end": 951.83,
+      "text": "如果开盘了之后啊",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 951.83,
+      "end": 954.45,
+      "text": "我等到我这边显示我都卖完了之后啊",
+      "avg_logprob": -0.1353,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 954.45,
+      "end": 955.45,
+      "text": "我就会把它们都删掉了",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.2108,
+      "review": false
+    },
+    {
+      "start": 955.45,
+      "end": 957.37,
+      "text": "因为今天基本上",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.2108,
+      "review": false
+    },
+    {
+      "start": 957.37,
+      "end": 965.15,
+      "text": "我自己的目标就是保住钱",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.2108,
+      "review": false
+    },
+    {
+      "start": 965.15,
+      "end": 965.83,
+      "text": "这两天",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.2108,
+      "review": false
+    },
+    {
+      "start": 965.83,
+      "end": 967.29,
+      "text": "我可以不赚钱",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.2108,
+      "review": false
+    },
+    {
+      "start": 967.29,
+      "end": 968.49,
+      "text": "但是我一定要保住我的钱",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.2108,
+      "review": false
+    },
+    {
+      "start": 968.49,
+      "end": 972.01,
+      "text": "我可以不大赚",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.2108,
+      "review": false
+    },
+    {
+      "start": 972.01,
+      "end": 973.33,
+      "text": "但是我绝对不能大亏",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.2108,
+      "review": false
+    },
+    {
+      "start": 973.33,
+      "end": 985.78,
+      "text": "好,成交完了",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.2108,
+      "review": false
+    },
+    {
+      "start": 985.78,
+      "end": 986.42,
+      "text": "成交完了",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.2108,
+      "review": false
+    },
+    {
+      "start": 986.42,
+      "end": 988.08,
+      "text": "一成一成成",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.2108,
+      "review": false
+    },
+    {
+      "start": 988.08,
+      "end": 988.68,
+      "text": "全部成交完了",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.2108,
+      "review": false
+    },
+    {
+      "start": 988.68,
+      "end": 989.2,
+      "text": "OK",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.2108,
+      "review": false
+    },
+    {
+      "start": 989.2,
+      "end": 991.14,
+      "text": "全部成交完了",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.2108,
+      "review": false
+    },
+    {
+      "start": 991.14,
+      "end": 993.14,
+      "text": "今天我没有了",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.2108,
+      "review": false
+    },
+    {
+      "start": 993.14,
+      "end": 994.3,
+      "text": "这都没有了",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.2108,
+      "review": false
+    },
+    {
+      "start": 994.3,
+      "end": 997.22,
+      "text": "不管它以后涨飞了和我都没有关系了",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.2108,
+      "review": false
+    },
+    {
+      "start": 997.22,
+      "end": 998.2,
+      "text": "涨上天都会没有关系",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.2108,
+      "review": false
+    },
+    {
+      "start": 998.36,
+      "end": 999.68,
+      "text": "我的原则在这必须走",
+      "avg_logprob": -0.1698,
+      "no_speech_prob": 0.2108,
+      "review": false
+    },
+    {
+      "start": 999.68,
+      "end": 1005.06,
+      "text": "好,1,2,3,4,5,我都没有了,全部删掉",
+      "avg_logprob": -0.1403,
+      "no_speech_prob": 0.1292,
+      "review": false
+    },
+    {
+      "start": 1005.06,
+      "end": 1014.24,
+      "text": "从我的,好,我现在就是浙江医药和通元石油,通元石油还没有走,但是不是重仓,通元石油都可以删掉,因为它轻仓",
+      "avg_logprob": -0.1403,
+      "no_speech_prob": 0.1292,
+      "review": false
+    },
+    {
+      "start": 1014.24,
+      "end": 1017.06,
+      "text": "我现在唯一的重仓就是仓位中的浙江医药了",
+      "avg_logprob": -0.1403,
+      "no_speech_prob": 0.1292,
+      "review": false
+    },
+    {
+      "start": 1017.06,
+      "end": 1020.88,
+      "text": "搏击医药嘛,我没买啊,没买啊,没买,我觉得太高了,太高了",
+      "avg_logprob": -0.1403,
+      "no_speech_prob": 0.1292,
+      "review": false
+    },
+    {
+      "start": 1020.88,
+      "end": 1025.06,
+      "text": "它如果今天回到了14块6,我倒考虑一下,我觉得太高了",
+      "avg_logprob": -0.1403,
+      "no_speech_prob": 0.1292,
+      "review": false
+    },
+    {
+      "start": 1025.06,
+      "end": 1025.92,
+      "text": "好OK",
+      "avg_logprob": -0.1684,
+      "no_speech_prob": 0.0018,
+      "review": false
+    },
+    {
+      "start": 1025.92,
+      "end": 1027.68,
+      "text": "今天我非常轻松",
+      "avg_logprob": -0.1684,
+      "no_speech_prob": 0.0018,
+      "review": false
+    },
+    {
+      "start": 1027.68,
+      "end": 1028.72,
+      "text": "我手里没有啥",
+      "avg_logprob": -0.1684,
+      "no_speech_prob": 0.0018,
+      "review": false
+    },
+    {
+      "start": 1028.72,
+      "end": 1029.92,
+      "text": "手里没有",
+      "avg_logprob": -0.1684,
+      "no_speech_prob": 0.0018,
+      "review": false
+    },
+    {
+      "start": 1029.92,
+      "end": 1031.32,
+      "text": "手里就一个州江一样",
+      "avg_logprob": -0.1684,
+      "no_speech_prob": 0.0018,
+      "review": false
+    },
+    {
+      "start": 1031.32,
+      "end": 1033.82,
+      "text": "这个把博记在头看一看",
+      "avg_logprob": -0.1684,
+      "no_speech_prob": 0.0018,
+      "review": false
+    },
+    {
+      "start": 1033.82,
+      "end": 1034.4,
+      "text": "能买就买",
+      "avg_logprob": -0.1684,
+      "no_speech_prob": 0.0018,
+      "review": false
+    },
+    {
+      "start": 1034.4,
+      "end": 1035.32,
+      "text": "不能买算了",
+      "avg_logprob": -0.1684,
+      "no_speech_prob": 0.0018,
+      "review": false
+    },
+    {
+      "start": 1035.32,
+      "end": 1036.58,
+      "text": "我非常轻松",
+      "avg_logprob": -0.1684,
+      "no_speech_prob": 0.0018,
+      "review": false
+    },
+    {
+      "start": 1036.58,
+      "end": 1037.44,
+      "text": "手里",
+      "avg_logprob": -0.1684,
+      "no_speech_prob": 0.0018,
+      "review": false
+    },
+    {
+      "start": 1037.44,
+      "end": 1043.81,
+      "text": "我们等会慢慢看",
+      "avg_logprob": -0.1684,
+      "no_speech_prob": 0.0018,
+      "review": false
+    },
+    {
+      "start": 1043.81,
+      "end": 1044.65,
+      "text": "慢慢看",
+      "avg_logprob": -0.1684,
+      "no_speech_prob": 0.0018,
+      "review": false
+    },
+    {
+      "start": 1044.65,
+      "end": 1045.47,
+      "text": "慢慢找",
+      "avg_logprob": -0.1684,
+      "no_speech_prob": 0.0018,
+      "review": false
+    },
+    {
+      "start": 1045.47,
+      "end": 1047.05,
+      "text": "有机会就买",
+      "avg_logprob": -0.1684,
+      "no_speech_prob": 0.0018,
+      "review": false
+    },
+    {
+      "start": 1047.05,
+      "end": 1060.72,
+      "text": "我是很可能会卖飞的",
+      "avg_logprob": -0.1684,
+      "no_speech_prob": 0.0018,
+      "review": false
+    },
+    {
+      "start": 1060.72,
+      "end": 1061.6,
+      "text": "你们不要",
+      "avg_logprob": -0.1684,
+      "no_speech_prob": 0.0018,
+      "review": false
+    },
+    {
+      "start": 1061.6,
+      "end": 1062.92,
+      "text": "不要怪我",
+      "avg_logprob": -0.1684,
+      "no_speech_prob": 0.0018,
+      "review": false
+    },
+    {
+      "start": 1062.92,
+      "end": 1064.28,
+      "text": "我跟你再次说一下",
+      "avg_logprob": -0.1684,
+      "no_speech_prob": 0.0018,
+      "review": false
+    },
+    {
+      "start": 1064.28,
+      "end": 1065.44,
+      "text": "我自己风格就是",
+      "avg_logprob": -0.1684,
+      "no_speech_prob": 0.0018,
+      "review": false
+    },
+    {
+      "start": 1065.44,
+      "end": 1066.76,
+      "text": "我留言不赚钱",
+      "avg_logprob": -0.1684,
+      "no_speech_prob": 0.0018,
+      "review": false
+    },
+    {
+      "start": 1066.76,
+      "end": 1068.46,
+      "text": "也不能够有风险",
+      "avg_logprob": -0.1684,
+      "no_speech_prob": 0.0018,
+      "review": false
+    },
+    {
+      "start": 1068.46,
+      "end": 1069.78,
+      "text": "再次说一下我的风格",
+      "avg_logprob": -0.1684,
+      "no_speech_prob": 0.0018,
+      "review": false
+    },
+    {
+      "start": 1069.78,
+      "end": 1073.48,
+      "text": "所以我是非常非常非常非常谨慎的一个人",
+      "avg_logprob": -0.1484,
+      "no_speech_prob": 0.1072,
+      "review": false
+    },
+    {
+      "start": 1073.48,
+      "end": 1075.92,
+      "text": "哎呀还是不容易啊",
+      "avg_logprob": -0.1484,
+      "no_speech_prob": 0.1072,
+      "review": false
+    },
+    {
+      "start": 1075.92,
+      "end": 1078.48,
+      "text": "还是苦命的娃",
+      "avg_logprob": -0.1484,
+      "no_speech_prob": 0.1072,
+      "review": false
+    },
+    {
+      "start": 1078.48,
+      "end": 1080.64,
+      "text": "没有人给你兜底啊",
+      "avg_logprob": -0.1484,
+      "no_speech_prob": 0.1072,
+      "review": false
+    },
+    {
+      "start": 1080.64,
+      "end": 1082.64,
+      "text": "你做什么事情你都要考虑到",
+      "avg_logprob": -0.1484,
+      "no_speech_prob": 0.1072,
+      "review": false
+    },
+    {
+      "start": 1082.64,
+      "end": 1084.7,
+      "text": "你要养的是一家人",
+      "avg_logprob": -0.1484,
+      "no_speech_prob": 0.1072,
+      "review": false
+    },
+    {
+      "start": 1084.7,
+      "end": 1086.9,
+      "text": "又不是你一个人",
+      "avg_logprob": -0.1484,
+      "no_speech_prob": 0.1072,
+      "review": false
+    },
+    {
+      "start": 1086.9,
+      "end": 1088.06,
+      "text": "所以对我来说",
+      "avg_logprob": -0.1484,
+      "no_speech_prob": 0.1072,
+      "review": false
+    },
+    {
+      "start": 1088.06,
+      "end": 1090.86,
+      "text": "我可以在这市场里面慢慢赚",
+      "avg_logprob": -0.1484,
+      "no_speech_prob": 0.1072,
+      "review": false
+    },
+    {
+      "start": 1090.86,
+      "end": 1092.08,
+      "text": "我可以接受慢慢赚",
+      "avg_logprob": -0.1484,
+      "no_speech_prob": 0.1072,
+      "review": false
+    },
+    {
+      "start": 1092.08,
+      "end": 1095.34,
+      "text": "但是我绝对不接受我有大的亏损",
+      "avg_logprob": -0.1484,
+      "no_speech_prob": 0.1072,
+      "review": false
+    },
+    {
+      "start": 1095.34,
+      "end": 1096.08,
+      "text": "OK",
+      "avg_logprob": -0.1484,
+      "no_speech_prob": 0.1072,
+      "review": false
+    },
+    {
+      "start": 1096.08,
+      "end": 1097.64,
+      "text": "这是我的一个风格啊",
+      "avg_logprob": -0.1484,
+      "no_speech_prob": 0.1072,
+      "review": false
+    },
+    {
+      "start": 1097.64,
+      "end": 1108.2,
+      "text": "但是像我这种太谨慎的人一般的就不追了",
+      "avg_logprob": -0.1622,
+      "no_speech_prob": 0.0684,
+      "review": false
+    },
+    {
+      "start": 1108.2,
+      "end": 1110.48,
+      "text": "你们这种胆子大的人可以注意一下",
+      "avg_logprob": -0.1622,
+      "no_speech_prob": 0.0684,
+      "review": false
+    },
+    {
+      "start": 1110.48,
+      "end": 1112.92,
+      "text": "像我这种特别谨慎的人一般就不追了",
+      "avg_logprob": -0.1622,
+      "no_speech_prob": 0.0684,
+      "review": false
+    },
+    {
+      "start": 1112.92,
+      "end": 1114.76,
+      "text": "他今天开的还是太高了",
+      "avg_logprob": -0.1622,
+      "no_speech_prob": 0.0684,
+      "review": false
+    },
+    {
+      "start": 1114.76,
+      "end": 1116.5,
+      "text": "他稍微低开一点我就去了",
+      "avg_logprob": -0.1622,
+      "no_speech_prob": 0.0684,
+      "review": false
+    },
+    {
+      "start": 1116.5,
+      "end": 1118.25,
+      "text": "好吧",
+      "avg_logprob": -0.1622,
+      "no_speech_prob": 0.0684,
+      "review": false
+    },
+    {
+      "start": 1118.25,
+      "end": 1124.52,
+      "text": "这是我的风格",
+      "avg_logprob": -0.1622,
+      "no_speech_prob": 0.0684,
+      "review": false
+    },
+    {
+      "start": 1124.52,
+      "end": 1125.5,
+      "text": "我的风格",
+      "avg_logprob": -0.1622,
+      "no_speech_prob": 0.0684,
+      "review": false
+    },
+    {
+      "start": 1125.5,
+      "end": 1135.66,
+      "text": "Simonie这个仓位管理是每个人不一样",
+      "avg_logprob": -0.1622,
+      "no_speech_prob": 0.0684,
+      "review": false
+    },
+    {
+      "start": 1135.66,
+      "end": 1138.02,
+      "text": "每个人钱多少是吧都不一样",
+      "avg_logprob": -0.1622,
+      "no_speech_prob": 0.0684,
+      "review": false
+    },
+    {
+      "start": 1138.02,
+      "end": 1139.76,
+      "text": "这个咋没法学",
+      "avg_logprob": -0.1622,
+      "no_speech_prob": 0.0684,
+      "review": false
+    },
+    {
+      "start": 1139.76,
+      "end": 1169.74,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1004,
+      "no_speech_prob": 0.1515,
+      "review": false
+    },
+    {
+      "start": 1169.76,
+      "end": 1208.01,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.079,
+      "no_speech_prob": 0.0714,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 18.8
+}

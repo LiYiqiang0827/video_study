@@ -1,0 +1,696 @@
+{
+  "begin": 3900.0,
+  "finish": 4200.0,
+  "segments": [
+    {
+      "start": 3898.0,
+      "end": 3928.1,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0699,
+      "no_speech_prob": 0.1685,
+      "review": false
+    },
+    {
+      "start": 3928.12,
+      "end": 3930.88,
+      "text": "10下持有",
+      "avg_logprob": -0.2065,
+      "no_speech_prob": 0.0361,
+      "review": false
+    },
+    {
+      "start": 3930.88,
+      "end": 3931.88,
+      "text": "OK",
+      "avg_logprob": -0.2065,
+      "no_speech_prob": 0.0361,
+      "review": false
+    },
+    {
+      "start": 3931.88,
+      "end": 3932.88,
+      "text": "就这么简单一个事情啊",
+      "avg_logprob": -0.2065,
+      "no_speech_prob": 0.0361,
+      "review": false
+    },
+    {
+      "start": 3932.88,
+      "end": 3934.88,
+      "text": "就算开盘价作为一个原则",
+      "avg_logprob": -0.2065,
+      "no_speech_prob": 0.0361,
+      "review": false
+    },
+    {
+      "start": 3934.88,
+      "end": 3935.88,
+      "text": "就可以这样子",
+      "avg_logprob": -0.2065,
+      "no_speech_prob": 0.0361,
+      "review": false
+    },
+    {
+      "start": 3935.88,
+      "end": 3937.88,
+      "text": "就做一个比较好的一个处理方式",
+      "avg_logprob": -0.2065,
+      "no_speech_prob": 0.0361,
+      "review": false
+    },
+    {
+      "start": 3937.88,
+      "end": 3945.66,
+      "text": "上周踩了大坑农",
+      "avg_logprob": -0.2065,
+      "no_speech_prob": 0.0361,
+      "review": false
+    },
+    {
+      "start": 3945.66,
+      "end": 3946.66,
+      "text": "农头对吧",
+      "avg_logprob": -0.2065,
+      "no_speech_prob": 0.0361,
+      "review": false
+    },
+    {
+      "start": 3946.66,
+      "end": 3947.66,
+      "text": "Steven",
+      "avg_logprob": -0.2065,
+      "no_speech_prob": 0.0361,
+      "review": false
+    },
+    {
+      "start": 3947.66,
+      "end": 3948.66,
+      "text": "我不知道你是哪个会员啊",
+      "avg_logprob": -0.2065,
+      "no_speech_prob": 0.0361,
+      "review": false
+    },
+    {
+      "start": 3948.66,
+      "end": 3949.66,
+      "text": "你们有一个会员",
+      "avg_logprob": -0.2065,
+      "no_speech_prob": 0.0361,
+      "review": false
+    },
+    {
+      "start": 3949.66,
+      "end": 3950.66,
+      "text": "一直跟我说",
+      "avg_logprob": -0.2065,
+      "no_speech_prob": 0.0361,
+      "review": false
+    },
+    {
+      "start": 3950.66,
+      "end": 3951.66,
+      "text": "就是要去做农头",
+      "avg_logprob": -0.2065,
+      "no_speech_prob": 0.0361,
+      "review": false
+    },
+    {
+      "start": 3951.66,
+      "end": 3953.66,
+      "text": "就是要做农头",
+      "avg_logprob": -0.2065,
+      "no_speech_prob": 0.0361,
+      "review": false
+    },
+    {
+      "start": 3953.66,
+      "end": 3954.66,
+      "text": "没办法",
+      "avg_logprob": -0.2065,
+      "no_speech_prob": 0.0361,
+      "review": false
+    },
+    {
+      "start": 3954.66,
+      "end": 3956.66,
+      "text": "你就你就当锻炼自己的勇气吧",
+      "avg_logprob": -0.2065,
+      "no_speech_prob": 0.0361,
+      "review": false
+    },
+    {
+      "start": 3956.66,
+      "end": 3957.66,
+      "text": "看你仓位",
+      "avg_logprob": -0.2065,
+      "no_speech_prob": 0.0361,
+      "review": false
+    },
+    {
+      "start": 3957.66,
+      "end": 3958.66,
+      "text": "仓位受到",
+      "avg_logprob": -0.2065,
+      "no_speech_prob": 0.0361,
+      "review": false
+    },
+    {
+      "start": 3958.66,
+      "end": 3959.66,
+      "text": "仓位",
+      "avg_logprob": -0.2065,
+      "no_speech_prob": 0.0361,
+      "review": false
+    },
+    {
+      "start": 3959.66,
+      "end": 3960.66,
+      "text": "哎呀",
+      "avg_logprob": -0.2065,
+      "no_speech_prob": 0.0361,
+      "review": false
+    },
+    {
+      "start": 3960.66,
+      "end": 3961.66,
+      "text": "仓位",
+      "avg_logprob": -0.2065,
+      "no_speech_prob": 0.0361,
+      "review": false
+    },
+    {
+      "start": 3961.66,
+      "end": 3962.66,
+      "text": "只要你仓位",
+      "avg_logprob": -0.2065,
+      "no_speech_prob": 0.0361,
+      "review": false
+    },
+    {
+      "start": 3962.66,
+      "end": 3963.66,
+      "text": "轻都无所谓",
+      "avg_logprob": -0.2065,
+      "no_speech_prob": 0.0361,
+      "review": false
+    },
+    {
+      "start": 3963.66,
+      "end": 3973.3,
+      "text": "如果没有声音是你的问题,我们其他人都有声音,好不好?没有声音是你的问题",
+      "avg_logprob": -0.1536,
+      "no_speech_prob": 0.1066,
+      "review": false
+    },
+    {
+      "start": 3973.3,
+      "end": 3981.79,
+      "text": "接着回国去了,听到你直播真新鲜,谢谢,谢谢",
+      "avg_logprob": -0.1536,
+      "no_speech_prob": 0.1066,
+      "review": false
+    },
+    {
+      "start": 3981.79,
+      "end": 3990.6,
+      "text": "其实不管国内还是国外,在哪生活,只要你看到优点,我给大家说,不要光盯着缺点",
+      "avg_logprob": -0.1536,
+      "no_speech_prob": 0.1066,
+      "review": false
+    },
+    {
+      "start": 3990.6,
+      "end": 3997.72,
+      "text": "你盯着缺点,美国也有缺点,加拿大也有缺点,我带的巴西更是缺点一大堆,是吧?",
+      "avg_logprob": -0.1536,
+      "no_speech_prob": 0.1066,
+      "review": false
+    },
+    {
+      "start": 3997.72,
+      "end": 4000.48,
+      "text": "但是只要你看的优点",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.3301,
+      "review": false
+    },
+    {
+      "start": 4000.48,
+      "end": 4002.44,
+      "text": "每个国家都有自己的优点",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.3301,
+      "review": false
+    },
+    {
+      "start": 4002.44,
+      "end": 4004.04,
+      "text": "你看是不是吗",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.3301,
+      "review": false
+    },
+    {
+      "start": 4004.04,
+      "end": 4005.6,
+      "text": "你要盯缺点",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.3301,
+      "review": false
+    },
+    {
+      "start": 4005.6,
+      "end": 4007.7,
+      "text": "加拿大很冷啊",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.3301,
+      "review": false
+    },
+    {
+      "start": 4007.7,
+      "end": 4007.92,
+      "text": "是不是",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.3301,
+      "review": false
+    },
+    {
+      "start": 4007.92,
+      "end": 4010.24,
+      "text": "那你要盯缺点",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.3301,
+      "review": false
+    },
+    {
+      "start": 4010.24,
+      "end": 4011.5,
+      "text": "那巴西自然这么烂",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.3301,
+      "review": false
+    },
+    {
+      "start": 4011.5,
+      "end": 4011.9,
+      "text": "是吧",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.3301,
+      "review": false
+    },
+    {
+      "start": 4011.9,
+      "end": 4013.74,
+      "text": "但是如果你要盯优点的话",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.3301,
+      "review": false
+    },
+    {
+      "start": 4013.74,
+      "end": 4014.28,
+      "text": "是吧",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.3301,
+      "review": false
+    },
+    {
+      "start": 4014.28,
+      "end": 4015.3,
+      "text": "那加拿大也非常好",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.3301,
+      "review": false
+    },
+    {
+      "start": 4015.3,
+      "end": 4016.72,
+      "text": "美国全世界是吧",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.3301,
+      "review": false
+    },
+    {
+      "start": 4016.72,
+      "end": 4018.84,
+      "text": "那全世界富人都想着去美国",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.3301,
+      "review": false
+    },
+    {
+      "start": 4018.84,
+      "end": 4020.58,
+      "text": "那巴西那一天到晚",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.3301,
+      "review": false
+    },
+    {
+      "start": 4020.58,
+      "end": 4022.16,
+      "text": "那些大家开开心心的",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.3301,
+      "review": false
+    },
+    {
+      "start": 4022.16,
+      "end": 4023.48,
+      "text": "而且是热带国家",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.3301,
+      "review": false
+    },
+    {
+      "start": 4023.48,
+      "end": 4026.64,
+      "text": "基本上像我们圣保罗这个城市",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.3301,
+      "review": false
+    },
+    {
+      "start": 4026.64,
+      "end": 4029.24,
+      "text": "像云南昆明一样四季如春",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.3303,
+      "review": false
+    },
+    {
+      "start": 4029.24,
+      "end": 4030.54,
+      "text": "既不冷又不热",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.3303,
+      "review": false
+    },
+    {
+      "start": 4030.54,
+      "end": 4031.92,
+      "text": "一年气候好得不得了",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.3303,
+      "review": false
+    },
+    {
+      "start": 4031.92,
+      "end": 4033.54,
+      "text": "那都是优点了是不是",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.3303,
+      "review": false
+    },
+    {
+      "start": 4033.54,
+      "end": 4035.42,
+      "text": "你只要不往平民窟跑",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.3303,
+      "review": false
+    },
+    {
+      "start": 4035.42,
+      "end": 4036.66,
+      "text": "根本也没有啥事",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.3303,
+      "review": false
+    },
+    {
+      "start": 4036.66,
+      "end": 4038.18,
+      "text": "就是你往平民窟跑的话",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.3303,
+      "review": false
+    },
+    {
+      "start": 4038.18,
+      "end": 4038.96,
+      "text": "自然肯定不好",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.3303,
+      "review": false
+    },
+    {
+      "start": 4038.96,
+      "end": 4040.18,
+      "text": "你不往平民窟跑",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.3303,
+      "review": false
+    },
+    {
+      "start": 4040.18,
+      "end": 4041.42,
+      "text": "也就平民窟跑",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.3303,
+      "review": false
+    },
+    {
+      "start": 4041.42,
+      "end": 4042.68,
+      "text": "你什么事情都没啥",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.3303,
+      "review": false
+    },
+    {
+      "start": 4042.68,
+      "end": 4044.78,
+      "text": "那你都没有问题啊",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.3303,
+      "review": false
+    },
+    {
+      "start": 4044.78,
+      "end": 4045.54,
+      "text": "是吧都没有问题",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.3303,
+      "review": false
+    },
+    {
+      "start": 4045.54,
+      "end": 4047.24,
+      "text": "所以你只要你在",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.3303,
+      "review": false
+    },
+    {
+      "start": 4047.24,
+      "end": 4048.82,
+      "text": "不管在国内还是国外",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.3303,
+      "review": false
+    },
+    {
+      "start": 4048.82,
+      "end": 4050.02,
+      "text": "只要你过得开心啊",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.3303,
+      "review": false
+    },
+    {
+      "start": 4050.02,
+      "end": 4052.3,
+      "text": "我记住你既然在国内了",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.3303,
+      "review": false
+    },
+    {
+      "start": 4052.3,
+      "end": 4053.72,
+      "text": "你就不要再去翻墙",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.3303,
+      "review": false
+    },
+    {
+      "start": 4053.72,
+      "end": 4085.78,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.07,
+      "no_speech_prob": 0.1952,
+      "review": false
+    },
+    {
+      "start": 4085.8,
+      "end": 4124.86,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0999,
+      "no_speech_prob": 0.2076,
+      "review": false
+    },
+    {
+      "start": 4124.88,
+      "end": 4161.22,
+      "text": "中文字幕志愿者 李宗盛",
+      "avg_logprob": -0.2353,
+      "no_speech_prob": 0.1593,
+      "review": false
+    },
+    {
+      "start": 4161.24,
+      "end": 4162.42,
+      "text": "我只会这些人做",
+      "avg_logprob": -0.1332,
+      "no_speech_prob": 0.0456,
+      "review": false
+    },
+    {
+      "start": 4162.42,
+      "end": 4164.44,
+      "text": "你可以说我怂",
+      "avg_logprob": -0.1332,
+      "no_speech_prob": 0.0456,
+      "review": false
+    },
+    {
+      "start": 4164.44,
+      "end": 4167.08,
+      "text": "你也可以说我太谨慎",
+      "avg_logprob": -0.1332,
+      "no_speech_prob": 0.0456,
+      "review": false
+    },
+    {
+      "start": 4167.08,
+      "end": 4168.34,
+      "text": "不过你怎么说我",
+      "avg_logprob": -0.1332,
+      "no_speech_prob": 0.0456,
+      "review": false
+    },
+    {
+      "start": 4168.34,
+      "end": 4169.4,
+      "text": "反正这是我的风格",
+      "avg_logprob": -0.1332,
+      "no_speech_prob": 0.0456,
+      "review": false
+    },
+    {
+      "start": 4169.4,
+      "end": 4171.62,
+      "text": "我的风格永远是风险第一",
+      "avg_logprob": -0.1332,
+      "no_speech_prob": 0.0456,
+      "review": false
+    },
+    {
+      "start": 4171.62,
+      "end": 4172.64,
+      "text": "在我看来",
+      "avg_logprob": -0.1332,
+      "no_speech_prob": 0.0456,
+      "review": false
+    },
+    {
+      "start": 4172.64,
+      "end": 4174.12,
+      "text": "只要我这天没做",
+      "avg_logprob": -0.1332,
+      "no_speech_prob": 0.0456,
+      "review": false
+    },
+    {
+      "start": 4174.12,
+      "end": 4175.54,
+      "text": "后面我基本不会做",
+      "avg_logprob": -0.1332,
+      "no_speech_prob": 0.0456,
+      "review": false
+    },
+    {
+      "start": 4175.54,
+      "end": 4176.14,
+      "text": "好吧",
+      "avg_logprob": -0.1332,
+      "no_speech_prob": 0.0456,
+      "review": false
+    },
+    {
+      "start": 4176.14,
+      "end": 4178.66,
+      "text": "就是我做这种双突破",
+      "avg_logprob": -0.1332,
+      "no_speech_prob": 0.0456,
+      "review": false
+    },
+    {
+      "start": 4178.66,
+      "end": 4180.08,
+      "text": "我永远都是第一天做",
+      "avg_logprob": -0.1332,
+      "no_speech_prob": 0.0456,
+      "review": false
+    },
+    {
+      "start": 4180.08,
+      "end": 4182.08,
+      "text": "所以你看我为什么找票",
+      "avg_logprob": -0.1332,
+      "no_speech_prob": 0.0456,
+      "review": false
+    },
+    {
+      "start": 4182.08,
+      "end": 4184.12,
+      "text": "我只找第一天的",
+      "avg_logprob": -0.1332,
+      "no_speech_prob": 0.0456,
+      "review": false
+    },
+    {
+      "start": 4184.12,
+      "end": 4184.9,
+      "text": "其实",
+      "avg_logprob": -0.1332,
+      "no_speech_prob": 0.0456,
+      "review": false
+    },
+    {
+      "start": 4184.9,
+      "end": 4187.09,
+      "text": "只要你",
+      "avg_logprob": -0.1332,
+      "no_speech_prob": 0.0456,
+      "review": false
+    },
+    {
+      "start": 4187.09,
+      "end": 4188.45,
+      "text": "我说句真心话",
+      "avg_logprob": -0.1332,
+      "no_speech_prob": 0.0456,
+      "review": false
+    },
+    {
+      "start": 4188.45,
+      "end": 4189.73,
+      "text": "我不知道多少我的会员",
+      "avg_logprob": -0.1332,
+      "no_speech_prob": 0.0456,
+      "review": false
+    },
+    {
+      "start": 4189.73,
+      "end": 4201.97,
+      "text": "现在你们按照我的方法做了,我真的不夸张,只要你心不急,你按我的方法做了几乎都是赚钱的,你唯一不赚钱就是你太急,比如说就这个例子,你看海光",
+      "avg_logprob": -0.0736,
+      "no_speech_prob": 0.1726,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 19.36
+}

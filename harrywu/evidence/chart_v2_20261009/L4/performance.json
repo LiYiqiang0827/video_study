@@ -1,0 +1,71 @@
+{
+  "task_id": "V2-L4",
+  "command": "& '.\\.venv\\Scripts\\python.exe' 'C:/Project Rocket/outputs/chart_tool_v2_20261009/L4/benchmark_daily.py'",
+  "scope": "600990.SH ten-year daily, default auto_width; one warmup then three same-process complete PNG/view/manifest/run bundles",
+  "cutoff": "2026-09-30T15:00:00+08:00",
+  "window": "10y",
+  "auto_width": true,
+  "min_slot_px": 3.0,
+  "max_width_px": 9600,
+  "warmup": {
+    "name": "warmup",
+    "wall_seconds": 1.1544415000098525,
+    "rows": 2421,
+    "canvas_width_px": 8162,
+    "status": "ok",
+    "stage_seconds": {
+      "reading_seconds": 0.07987060000596102,
+      "conversion_seconds": 0.03287359999376349,
+      "drawing_seconds": 0.3710255999903893,
+      "encoding_seconds": 0.18043380000744946
+    }
+  },
+  "repeats": [
+    {
+      "name": "repeat_1",
+      "wall_seconds": 0.8351022999995621,
+      "rows": 2421,
+      "canvas_width_px": 8162,
+      "status": "ok",
+      "stage_seconds": {
+        "reading_seconds": 0.057434500005911104,
+        "conversion_seconds": 0.03193709999322891,
+        "drawing_seconds": 0.3695863000029931,
+        "encoding_seconds": 0.16940739999699872
+      }
+    },
+    {
+      "name": "repeat_2",
+      "wall_seconds": 0.9182371999922907,
+      "rows": 2421,
+      "canvas_width_px": 8162,
+      "status": "ok",
+      "stage_seconds": {
+        "reading_seconds": 0.05451080000784714,
+        "conversion_seconds": 0.03326300000480842,
+        "drawing_seconds": 0.3616956000041682,
+        "encoding_seconds": 0.22980130001087673
+      }
+    },
+    {
+      "name": "repeat_3",
+      "wall_seconds": 1.0021916999976384,
+      "rows": 2421,
+      "canvas_width_px": 8162,
+      "status": "ok",
+      "stage_seconds": {
+        "reading_seconds": 0.06519889998889994,
+        "conversion_seconds": 0.056277900002896786,
+        "drawing_seconds": 0.40716439999232534,
+        "encoding_seconds": 0.2020764000044437
+      }
+    }
+  ],
+  "median_wall_seconds": 0.9182371999922907,
+  "target_seconds": 3.0,
+  "passed": true,
+  "multi_registry_performance": {
+    "status": "blocked",
+    "reason": "Production minute_sources.json priority=[]; X1 found the 09:30 source row is not established as pure auction and its time semantics remain unresolved. No registry source was enabled or invoked."
+  }
+}

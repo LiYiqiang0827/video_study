@@ -1,0 +1,1152 @@
+{
+  "begin": 3300.0,
+  "finish": 3600.0,
+  "segments": [
+    {
+      "start": 3298.0,
+      "end": 3303.49,
+      "text": "黄黄旋风这种就是一直拉吧",
+      "avg_logprob": -0.186,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 3303.49,
+      "end": 3304.11,
+      "text": "你就一直拉",
+      "avg_logprob": -0.186,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 3304.11,
+      "end": 3305.43,
+      "text": "这种什么可悲喜的",
+      "avg_logprob": -0.186,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 3305.43,
+      "end": 3306.09,
+      "text": "它在涨啊",
+      "avg_logprob": -0.186,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 3306.09,
+      "end": 3307.47,
+      "text": "它只要在涨你就拉着呀",
+      "avg_logprob": -0.186,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 3307.47,
+      "end": 3309.17,
+      "text": "你就不用太担心了",
+      "avg_logprob": -0.186,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 3309.17,
+      "end": 3309.85,
+      "text": "说实话啊",
+      "avg_logprob": -0.186,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 3309.85,
+      "end": 3311.05,
+      "text": "它只要在涨你就拿着",
+      "avg_logprob": -0.186,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 3311.05,
+      "end": 3313.45,
+      "text": "我自己是因为我不太想要这个",
+      "avg_logprob": -0.186,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 3313.45,
+      "end": 3315.25,
+      "text": "我想把这个半道题都走",
+      "avg_logprob": -0.186,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 3315.25,
+      "end": 3316.77,
+      "text": "但是我这个也不一定正确啊",
+      "avg_logprob": -0.186,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 3316.77,
+      "end": 3318.77,
+      "text": "它按理说它只要涨就拿着啊",
+      "avg_logprob": -0.186,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 3318.77,
+      "end": 3326.71,
+      "text": "小米还能拿吗",
+      "avg_logprob": -0.186,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 3326.71,
+      "end": 3327.19,
+      "text": "看一下啊",
+      "avg_logprob": -0.186,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 3327.19,
+      "end": 3327.79,
+      "text": "等会看看小米",
+      "avg_logprob": -0.186,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 3327.79,
+      "end": 3328.65,
+      "text": "好",
+      "avg_logprob": -0.186,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 3328.65,
+      "end": 3329.49,
+      "text": "看看小米",
+      "avg_logprob": -0.186,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 3329.49,
+      "end": 3332.41,
+      "text": "加仓你自己决定哈",
+      "avg_logprob": -0.186,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 3332.41,
+      "end": 3334.09,
+      "text": "加不加仓你们自己决定啊",
+      "avg_logprob": -0.186,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 3334.09,
+      "end": 3334.83,
+      "text": "我再说啊",
+      "avg_logprob": -0.186,
+      "no_speech_prob": 0.9873,
+      "review": true
+    },
+    {
+      "start": 3334.83,
+      "end": 3338.91,
+      "text": "我的加仓规则一般的是涨10%我才会加仓",
+      "avg_logprob": -0.0966,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 3338.91,
+      "end": 3342.65,
+      "text": "或者是涨停我会排队加仓",
+      "avg_logprob": -0.0966,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 3342.65,
+      "end": 3345.21,
+      "text": "涨10%我才会加仓一次",
+      "avg_logprob": -0.0966,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 3345.21,
+      "end": 3349.33,
+      "text": "或者跌10%我按照我的主动买套回调加仓一次",
+      "avg_logprob": -0.0966,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 3349.33,
+      "end": 3353.09,
+      "text": "一般的在中间2%4%我一般的不加仓",
+      "avg_logprob": -0.0966,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 3353.09,
+      "end": 3353.47,
+      "text": "我也不动",
+      "avg_logprob": -0.0966,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 3353.47,
+      "end": 3355.07,
+      "text": "为什么原因给大家说过",
+      "avg_logprob": -0.0966,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 3355.07,
+      "end": 3357.45,
+      "text": "因为这个时候加仓我不讲",
+      "avg_logprob": -0.0966,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 3357.45,
+      "end": 3358.83,
+      "text": "我给大家说过",
+      "avg_logprob": -0.0966,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 3358.83,
+      "end": 3361.11,
+      "text": "因为你中间稍微一加仓就容易亏钱",
+      "avg_logprob": -0.0966,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 3361.11,
+      "end": 3362.73,
+      "text": "非常容易亏钱",
+      "avg_logprob": -0.0966,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 3363.67,
+      "end": 3364.85,
+      "text": "凯特因我也买了",
+      "avg_logprob": -0.0966,
+      "no_speech_prob": 0.3025,
+      "review": false
+    },
+    {
+      "start": 3364.85,
+      "end": 3374.33,
+      "text": "我刚才买了,买了一点点,凯伦尼现在涨停了,我估计,他还是很好的,比如他涨停了,我就马上要加仓,就会在涨停排队再去加仓",
+      "avg_logprob": -0.1437,
+      "no_speech_prob": 0.7476,
+      "review": true
+    },
+    {
+      "start": 3374.33,
+      "end": 3397.0,
+      "text": "哎,海正,海正我排队了,我看我排队了没有,海正我应该有排队吧,怕没排上,有排队有排队,海正有排队,海正有排队",
+      "avg_logprob": -0.1437,
+      "no_speech_prob": 0.7476,
+      "review": true
+    },
+    {
+      "start": 3397.0,
+      "end": 3408.97,
+      "text": "小米我看小米啊",
+      "avg_logprob": -0.1741,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3408.97,
+      "end": 3415.16,
+      "text": "小米是港股",
+      "avg_logprob": -0.1741,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3415.16,
+      "end": 3422.86,
+      "text": "我这个怎么这么慢",
+      "avg_logprob": -0.1741,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3422.86,
+      "end": 3424.02,
+      "text": "好了好了现在好了",
+      "avg_logprob": -0.1741,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3424.02,
+      "end": 3428.53,
+      "text": "哦小米哦小米现在回调的很厉害哦",
+      "avg_logprob": -0.1741,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3428.53,
+      "end": 3430.35,
+      "text": "小米回调很厉害哦",
+      "avg_logprob": -0.1741,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3430.35,
+      "end": 3433.07,
+      "text": "小米现在这些位置是加仓位哦",
+      "avg_logprob": -0.1741,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3433.07,
+      "end": 3434.73,
+      "text": "比如说我不知道你在哪买的",
+      "avg_logprob": -0.1741,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3434.73,
+      "end": 3436.31,
+      "text": "但是按理说你如果你做套的话",
+      "avg_logprob": -0.1741,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3436.31,
+      "end": 3438.61,
+      "text": "这些位置是可以去加仓做套的",
+      "avg_logprob": -0.1741,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3438.61,
+      "end": 3441.09,
+      "text": "就加一点仓然后开始做反弹的",
+      "avg_logprob": -0.1741,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3441.09,
+      "end": 3442.29,
+      "text": "这个位置",
+      "avg_logprob": -0.1741,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3442.29,
+      "end": 3444.57,
+      "text": "但是呢你就算加仓也要看信号哦",
+      "avg_logprob": -0.1046,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3444.57,
+      "end": 3445.61,
+      "text": "我们看看15分钟",
+      "avg_logprob": -0.1046,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3445.61,
+      "end": 3448.35,
+      "text": "你看15分钟现在没有信号哦",
+      "avg_logprob": -0.1046,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3448.35,
+      "end": 3450.63,
+      "text": "但是呢这个15分钟等会儿",
+      "avg_logprob": -0.1046,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3450.63,
+      "end": 3451.35,
+      "text": "位置是到了",
+      "avg_logprob": -0.1046,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3451.35,
+      "end": 3452.33,
+      "text": "你看位置是到了",
+      "avg_logprob": -0.1046,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3452.33,
+      "end": 3454.47,
+      "text": "15分钟只要等会儿有一根阳线",
+      "avg_logprob": -0.1046,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3454.47,
+      "end": 3455.87,
+      "text": "你可以去加点仓",
+      "avg_logprob": -0.1046,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3455.87,
+      "end": 3457.29,
+      "text": "如果你没有走",
+      "avg_logprob": -0.1046,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3457.29,
+      "end": 3457.99,
+      "text": "15分钟",
+      "avg_logprob": -0.1046,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3457.99,
+      "end": 3459.83,
+      "text": "它等会儿出现一根阳线啊",
+      "avg_logprob": -0.1046,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3459.83,
+      "end": 3460.51,
+      "text": "比较大的阳线",
+      "avg_logprob": -0.1046,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3460.51,
+      "end": 3462.65,
+      "text": "我认为是可以开始买入的",
+      "avg_logprob": -0.1046,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3462.65,
+      "end": 3463.53,
+      "text": "是可以开始",
+      "avg_logprob": -0.1046,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3463.53,
+      "end": 3465.17,
+      "text": "如果你从来没买过小米",
+      "avg_logprob": -0.1046,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3465.17,
+      "end": 3466.41,
+      "text": "那现在肯定可以买小米",
+      "avg_logprob": -0.1046,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3466.41,
+      "end": 3468.07,
+      "text": "那如果你有小米",
+      "avg_logprob": -0.1046,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3468.07,
+      "end": 3468.89,
+      "text": "现在可以加点仓",
+      "avg_logprob": -0.1046,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3468.89,
+      "end": 3471.07,
+      "text": "这个位置是可以加仓做套的",
+      "avg_logprob": -0.1046,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3471.07,
+      "end": 3474.21,
+      "text": "这个位置是这个博断的二分之一嘛",
+      "avg_logprob": -0.1471,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3474.21,
+      "end": 3475.95,
+      "text": "你自己去量就量得出来",
+      "avg_logprob": -0.1471,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3475.95,
+      "end": 3477.29,
+      "text": "看我一眼都看出来了",
+      "avg_logprob": -0.1471,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3477.29,
+      "end": 3478.77,
+      "text": "它是这个博断二分之一",
+      "avg_logprob": -0.1471,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3478.77,
+      "end": 3480.27,
+      "text": "那么这种博断二分之一",
+      "avg_logprob": -0.1471,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3480.27,
+      "end": 3481.65,
+      "text": "只要有小区别",
+      "avg_logprob": -0.1471,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3481.65,
+      "end": 3483.03,
+      "text": "比如15分钟啊这些",
+      "avg_logprob": -0.1471,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3483.03,
+      "end": 3483.95,
+      "text": "它是可以做的",
+      "avg_logprob": -0.1471,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3483.95,
+      "end": 3485.35,
+      "text": "是可以做的啊",
+      "avg_logprob": -0.1471,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3485.35,
+      "end": 3486.57,
+      "text": "没问题",
+      "avg_logprob": -0.1471,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3486.57,
+      "end": 3493.66,
+      "text": "我没有微信群啊",
+      "avg_logprob": -0.1471,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3493.66,
+      "end": 3494.56,
+      "text": "不好意思啊",
+      "avg_logprob": -0.1471,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3494.56,
+      "end": 3495.9,
+      "text": "PHI我全部被封完了",
+      "avg_logprob": -0.1471,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3495.9,
+      "end": 3497.5,
+      "text": "我的微信群被封完了",
+      "avg_logprob": -0.1471,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3497.5,
+      "end": 3498.88,
+      "text": "而且是被人盯上了",
+      "avg_logprob": -0.1471,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3498.88,
+      "end": 3500.3,
+      "text": "我只要有新微信",
+      "avg_logprob": -0.1471,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3500.3,
+      "end": 3501.72,
+      "text": "一周之内就会被封",
+      "avg_logprob": -0.1471,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3501.72,
+      "end": 3503.5,
+      "text": "我没有办法啊",
+      "avg_logprob": -0.1471,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3503.5,
+      "end": 3507.29,
+      "text": "我们以后就在这里面嘛",
+      "avg_logprob": -0.1471,
+      "no_speech_prob": 0.3865,
+      "review": false
+    },
+    {
+      "start": 3507.29,
+      "end": 3509.61,
+      "text": "你就看我的微信",
+      "avg_logprob": -0.1533,
+      "no_speech_prob": 0.6992,
+      "review": true
+    },
+    {
+      "start": 3509.61,
+      "end": 3510.27,
+      "text": "就这里面",
+      "avg_logprob": -0.1533,
+      "no_speech_prob": 0.6992,
+      "review": true
+    },
+    {
+      "start": 3510.27,
+      "end": 3512.37,
+      "text": "我只要说个股马上被封",
+      "avg_logprob": -0.1533,
+      "no_speech_prob": 0.6992,
+      "review": true
+    },
+    {
+      "start": 3512.37,
+      "end": 3513.11,
+      "text": "第一时间被封",
+      "avg_logprob": -0.1533,
+      "no_speech_prob": 0.6992,
+      "review": true
+    },
+    {
+      "start": 3513.11,
+      "end": 3514.51,
+      "text": "就是好像有人盯着我",
+      "avg_logprob": -0.1533,
+      "no_speech_prob": 0.6992,
+      "review": true
+    },
+    {
+      "start": 3514.51,
+      "end": 3518.31,
+      "text": "要么就是我已经被微信重点监控了",
+      "avg_logprob": -0.1533,
+      "no_speech_prob": 0.6992,
+      "review": true
+    },
+    {
+      "start": 3518.31,
+      "end": 3519.61,
+      "text": "要么就是有人举报我",
+      "avg_logprob": -0.1533,
+      "no_speech_prob": 0.6992,
+      "review": true
+    },
+    {
+      "start": 3519.61,
+      "end": 3520.69,
+      "text": "所以没有办法",
+      "avg_logprob": -0.1533,
+      "no_speech_prob": 0.6992,
+      "review": true
+    },
+    {
+      "start": 3520.69,
+      "end": 3522.69,
+      "text": "我只要一上微信就被封",
+      "avg_logprob": -0.1533,
+      "no_speech_prob": 0.6992,
+      "review": true
+    },
+    {
+      "start": 3522.69,
+      "end": 3524.73,
+      "text": "只要稍微提行情就被封",
+      "avg_logprob": -0.1533,
+      "no_speech_prob": 0.6992,
+      "review": true
+    },
+    {
+      "start": 3524.73,
+      "end": 3525.43,
+      "text": "马上被封",
+      "avg_logprob": -0.1533,
+      "no_speech_prob": 0.6992,
+      "review": true
+    },
+    {
+      "start": 3525.43,
+      "end": 3527.99,
+      "text": "所以你们理解我实在没办法",
+      "avg_logprob": -0.1533,
+      "no_speech_prob": 0.6992,
+      "review": true
+    },
+    {
+      "start": 3527.99,
+      "end": 3536.64,
+      "text": "刚才有人问我啥",
+      "avg_logprob": -0.1533,
+      "no_speech_prob": 0.6992,
+      "review": true
+    },
+    {
+      "start": 3536.64,
+      "end": 3538.44,
+      "text": "诺普一样",
+      "avg_logprob": -0.1533,
+      "no_speech_prob": 0.6992,
+      "review": true
+    },
+    {
+      "start": 3538.44,
+      "end": 3538.76,
+      "text": "看一下",
+      "avg_logprob": -0.1533,
+      "no_speech_prob": 0.6992,
+      "review": true
+    },
+    {
+      "start": 3538.76,
+      "end": 3544.38,
+      "text": "不是我跟你们建的那个我也没用",
+      "avg_logprob": -0.1533,
+      "no_speech_prob": 0.6992,
+      "review": true
+    },
+    {
+      "start": 3544.38,
+      "end": 3546.02,
+      "text": "为什么呢",
+      "avg_logprob": -0.1207,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 3546.02,
+      "end": 3547.96,
+      "text": "我给你们建了那个群WhatsApp",
+      "avg_logprob": -0.1207,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 3547.96,
+      "end": 3548.68,
+      "text": "我也没有时间",
+      "avg_logprob": -0.1207,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 3548.68,
+      "end": 3550.66,
+      "text": "天天第一时间跟你说什么什么的",
+      "avg_logprob": -0.1207,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 3550.66,
+      "end": 3552.06,
+      "text": "因为那种没有用",
+      "avg_logprob": -0.1207,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 3552.06,
+      "end": 3552.88,
+      "text": "我跟你说了",
+      "avg_logprob": -0.1207,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 3552.88,
+      "end": 3553.62,
+      "text": "我马上就走了",
+      "avg_logprob": -0.1207,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 3553.62,
+      "end": 3554.64,
+      "text": "那你叫我咋办呢",
+      "avg_logprob": -0.1207,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 3554.64,
+      "end": 3555.6,
+      "text": "比如说我跟你说了个票",
+      "avg_logprob": -0.1207,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 3555.6,
+      "end": 3556.66,
+      "text": "我现在买了",
+      "avg_logprob": -0.1207,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 3556.66,
+      "end": 3558.78,
+      "text": "我可能第二天一早上开盘就跑了",
+      "avg_logprob": -0.1207,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 3558.78,
+      "end": 3559.76,
+      "text": "你根本来不及",
+      "avg_logprob": -0.1207,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 3559.76,
+      "end": 3560.48,
+      "text": "是不是",
+      "avg_logprob": -0.1207,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 3560.48,
+      "end": 3561.94,
+      "text": "你也做不到",
+      "avg_logprob": -0.1207,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 3561.94,
+      "end": 3562.68,
+      "text": "一会儿止损",
+      "avg_logprob": -0.1207,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 3562.68,
+      "end": 3566.94,
+      "text": "普罗摇曳",
+      "avg_logprob": -0.1207,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 3566.94,
+      "end": 3568.8,
+      "text": "普罗摇曳可以啊",
+      "avg_logprob": -0.1207,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 3568.8,
+      "end": 3569.22,
+      "text": "没问题啊",
+      "avg_logprob": -0.1207,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 3569.22,
+      "end": 3569.58,
+      "text": "现在涨",
+      "avg_logprob": -0.1207,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 3569.58,
+      "end": 3570.7,
+      "text": "我是已经走了",
+      "avg_logprob": -0.1207,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 3570.7,
+      "end": 3571.68,
+      "text": "我昨天走了",
+      "avg_logprob": -0.1207,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 3571.68,
+      "end": 3572.66,
+      "text": "因为这是我的原则",
+      "avg_logprob": -0.1207,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 3572.66,
+      "end": 3573.26,
+      "text": "不对就走了",
+      "avg_logprob": -0.1207,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 3573.26,
+      "end": 3574.64,
+      "text": "那但是它今天涨起来了",
+      "avg_logprob": -0.1207,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 3574.64,
+      "end": 3575.58,
+      "text": "如果你没有走",
+      "avg_logprob": -0.1207,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 3575.58,
+      "end": 3576.08,
+      "text": "恭喜你",
+      "avg_logprob": -0.1207,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 3576.08,
+      "end": 3576.84,
+      "text": "它涨起来了",
+      "avg_logprob": -0.1207,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 3576.84,
+      "end": 3577.14,
+      "text": "很好",
+      "avg_logprob": -0.1207,
+      "no_speech_prob": 0.9468,
+      "review": true
+    },
+    {
+      "start": 3577.14,
+      "end": 3579.26,
+      "text": "因为昨天医药没涨嘛",
+      "avg_logprob": -0.1393,
+      "no_speech_prob": 0.6318,
+      "review": true
+    },
+    {
+      "start": 3579.26,
+      "end": 3581.76,
+      "text": "所以我在想走到这个位置我得不买回来",
+      "avg_logprob": -0.1393,
+      "no_speech_prob": 0.6318,
+      "review": true
+    },
+    {
+      "start": 3581.76,
+      "end": 3583.12,
+      "text": "但是他没买回来了",
+      "avg_logprob": -0.1393,
+      "no_speech_prob": 0.6318,
+      "review": true
+    },
+    {
+      "start": 3583.12,
+      "end": 3585.14,
+      "text": "这个票我是亏的走的",
+      "avg_logprob": -0.1393,
+      "no_speech_prob": 0.6318,
+      "review": true
+    },
+    {
+      "start": 3585.14,
+      "end": 3586.6,
+      "text": "但是我亏的不多",
+      "avg_logprob": -0.1393,
+      "no_speech_prob": 0.6318,
+      "review": true
+    },
+    {
+      "start": 3586.6,
+      "end": 3587.52,
+      "text": "为什么呢",
+      "avg_logprob": -0.1393,
+      "no_speech_prob": 0.6318,
+      "review": true
+    },
+    {
+      "start": 3587.52,
+      "end": 3589.32,
+      "text": "因为这个票我是在这个位置走的嘛",
+      "avg_logprob": -0.1393,
+      "no_speech_prob": 0.6318,
+      "review": true
+    },
+    {
+      "start": 3589.32,
+      "end": 3589.8,
+      "text": "进去的",
+      "avg_logprob": -0.1393,
+      "no_speech_prob": 0.6318,
+      "review": true
+    },
+    {
+      "start": 3589.8,
+      "end": 3592.22,
+      "text": "然后呢我昨天开盘不久",
+      "avg_logprob": -0.1393,
+      "no_speech_prob": 0.6318,
+      "review": true
+    },
+    {
+      "start": 3592.22,
+      "end": 3593.8,
+      "text": "只要往下砸我就走了",
+      "avg_logprob": -0.1393,
+      "no_speech_prob": 0.6318,
+      "review": true
+    },
+    {
+      "start": 3593.8,
+      "end": 3594.96,
+      "text": "所以我亏的不多",
+      "avg_logprob": -0.1393,
+      "no_speech_prob": 0.6318,
+      "review": true
+    },
+    {
+      "start": 3594.96,
+      "end": 3596.22,
+      "text": "这个票亏的不多",
+      "avg_logprob": -0.1393,
+      "no_speech_prob": 0.6318,
+      "review": true
+    },
+    {
+      "start": 3596.22,
+      "end": 3598.58,
+      "text": "但是洛普要不然你再买回来",
+      "avg_logprob": -0.1393,
+      "no_speech_prob": 0.6318,
+      "review": true
+    },
+    {
+      "start": 3598.58,
+      "end": 3599.44,
+      "text": "看你自己了",
+      "avg_logprob": -0.1393,
+      "no_speech_prob": 0.6318,
+      "review": true
+    },
+    {
+      "start": 3599.44,
+      "end": 3600.4,
+      "text": "这个反正",
+      "avg_logprob": -0.1393,
+      "no_speech_prob": 0.6318,
+      "review": true
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 28.47
+}

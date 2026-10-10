@@ -1,0 +1,624 @@
+{
+  "begin": 2100.0,
+  "finish": 2400.0,
+  "segments": [
+    {
+      "start": 2099.55,
+      "end": 2102.11,
+      "text": "在美上海其实前段时间这个位置好的",
+      "avg_logprob": -0.1746,
+      "no_speech_prob": 0.6245,
+      "review": true
+    },
+    {
+      "start": 2102.11,
+      "end": 2104.57,
+      "text": "这几个我研究过这个半导体设备",
+      "avg_logprob": -0.1746,
+      "no_speech_prob": 0.6245,
+      "review": true
+    },
+    {
+      "start": 2104.57,
+      "end": 2105.43,
+      "text": "研究过",
+      "avg_logprob": -0.1746,
+      "no_speech_prob": 0.6245,
+      "review": true
+    },
+    {
+      "start": 2105.43,
+      "end": 2108.55,
+      "text": "当时它跌到这个位置其实还是有机会的",
+      "avg_logprob": -0.1746,
+      "no_speech_prob": 0.6245,
+      "review": true
+    },
+    {
+      "start": 2108.55,
+      "end": 2110.53,
+      "text": "这个还是有点点可惜",
+      "avg_logprob": -0.1746,
+      "no_speech_prob": 0.6245,
+      "review": true
+    },
+    {
+      "start": 2110.53,
+      "end": 2113.14,
+      "text": "汽车板块有移动了吗",
+      "avg_logprob": -0.1746,
+      "no_speech_prob": 0.6245,
+      "review": true
+    },
+    {
+      "start": 2113.14,
+      "end": 2125.06,
+      "text": "诶说句软件",
+      "avg_logprob": -0.1746,
+      "no_speech_prob": 0.6245,
+      "review": true
+    },
+    {
+      "start": 2125.06,
+      "end": 2126.06,
+      "text": "我看看那个任子行",
+      "avg_logprob": -0.1746,
+      "no_speech_prob": 0.6245,
+      "review": true
+    },
+    {
+      "start": 2126.06,
+      "end": 2127.88,
+      "text": "任子行",
+      "avg_logprob": -0.1746,
+      "no_speech_prob": 0.6245,
+      "review": true
+    },
+    {
+      "start": 2127.88,
+      "end": 2129.52,
+      "text": "现在在跌在这",
+      "avg_logprob": -0.1746,
+      "no_speech_prob": 0.6245,
+      "review": true
+    },
+    {
+      "start": 2129.52,
+      "end": 2131.12,
+      "text": "啊再往回调",
+      "avg_logprob": -0.1746,
+      "no_speech_prob": 0.6245,
+      "review": true
+    },
+    {
+      "start": 2131.12,
+      "end": 2133.2,
+      "text": "昨天本来我说这个位置可以看看",
+      "avg_logprob": -0.1746,
+      "no_speech_prob": 0.6245,
+      "review": true
+    },
+    {
+      "start": 2133.2,
+      "end": 2135.08,
+      "text": "昨天这个位置可以看看",
+      "avg_logprob": -0.1746,
+      "no_speech_prob": 0.6245,
+      "review": true
+    },
+    {
+      "start": 2135.08,
+      "end": 2138.32,
+      "text": "它这个量是很大很大的说实话",
+      "avg_logprob": -0.1746,
+      "no_speech_prob": 0.6245,
+      "review": true
+    },
+    {
+      "start": 2138.32,
+      "end": 2139.34,
+      "text": "量是超级大的",
+      "avg_logprob": -0.1746,
+      "no_speech_prob": 0.6245,
+      "review": true
+    },
+    {
+      "start": 2139.34,
+      "end": 2141.96,
+      "text": "流通值小了一点点",
+      "avg_logprob": -0.199,
+      "no_speech_prob": 0.0168,
+      "review": false
+    },
+    {
+      "start": 2141.96,
+      "end": 2143.26,
+      "text": "算了",
+      "avg_logprob": -0.199,
+      "no_speech_prob": 0.0168,
+      "review": false
+    },
+    {
+      "start": 2143.26,
+      "end": 2145.35,
+      "text": "哎呀没有什么可买的",
+      "avg_logprob": -0.199,
+      "no_speech_prob": 0.0168,
+      "review": false
+    },
+    {
+      "start": 2145.35,
+      "end": 2147.11,
+      "text": "看来看去都没有什么可买的",
+      "avg_logprob": -0.199,
+      "no_speech_prob": 0.0168,
+      "review": false
+    },
+    {
+      "start": 2147.11,
+      "end": 2196.24,
+      "text": "我看看今天亮笔排行",
+      "avg_logprob": -0.199,
+      "no_speech_prob": 0.0168,
+      "review": false
+    },
+    {
+      "start": 2196.24,
+      "end": 2197.38,
+      "text": "广聚能源",
+      "avg_logprob": -0.199,
+      "no_speech_prob": 0.0168,
+      "review": false
+    },
+    {
+      "start": 2197.38,
+      "end": 2198.82,
+      "text": "中波上升",
+      "avg_logprob": -0.199,
+      "no_speech_prob": 0.0168,
+      "review": false
+    },
+    {
+      "start": 2198.82,
+      "end": 2217.69,
+      "text": "湖北广电、陕西神广",
+      "avg_logprob": -0.199,
+      "no_speech_prob": 0.0168,
+      "review": false
+    },
+    {
+      "start": 2217.69,
+      "end": 2219.47,
+      "text": "又炒了一波媒体",
+      "avg_logprob": -0.199,
+      "no_speech_prob": 0.0168,
+      "review": false
+    },
+    {
+      "start": 2219.47,
+      "end": 2220.63,
+      "text": "这不知道炒啥",
+      "avg_logprob": -0.199,
+      "no_speech_prob": 0.0168,
+      "review": false
+    },
+    {
+      "start": 2220.63,
+      "end": 2221.89,
+      "text": "这些都没有啥题材",
+      "avg_logprob": -0.199,
+      "no_speech_prob": 0.0168,
+      "review": false
+    },
+    {
+      "start": 2221.89,
+      "end": 2223.05,
+      "text": "算了没意思",
+      "avg_logprob": -0.199,
+      "no_speech_prob": 0.0168,
+      "review": false
+    },
+    {
+      "start": 2223.05,
+      "end": 2224.89,
+      "text": "这些我也不去看它",
+      "avg_logprob": -0.199,
+      "no_speech_prob": 0.0168,
+      "review": false
+    },
+    {
+      "start": 2224.89,
+      "end": 2233.45,
+      "text": "不去买它",
+      "avg_logprob": -0.199,
+      "no_speech_prob": 0.0168,
+      "review": false
+    },
+    {
+      "start": 2233.45,
+      "end": 2235.23,
+      "text": "哇百花是真腰啊",
+      "avg_logprob": -0.199,
+      "no_speech_prob": 0.0168,
+      "review": false
+    },
+    {
+      "start": 2235.23,
+      "end": 2235.75,
+      "text": "我天",
+      "avg_logprob": -0.199,
+      "no_speech_prob": 0.0168,
+      "review": false
+    },
+    {
+      "start": 2235.75,
+      "end": 2236.79,
+      "text": "这种票买不到的",
+      "avg_logprob": -0.199,
+      "no_speech_prob": 0.0168,
+      "review": false
+    },
+    {
+      "start": 2236.79,
+      "end": 2237.93,
+      "text": "太腰了",
+      "avg_logprob": -0.199,
+      "no_speech_prob": 0.0168,
+      "review": false
+    },
+    {
+      "start": 2237.93,
+      "end": 2272.48,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0923,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 2272.5,
+      "end": 2273.72,
+      "text": "今天还是没有提示信",
+      "avg_logprob": -0.1882,
+      "no_speech_prob": 0.1205,
+      "review": false
+    },
+    {
+      "start": 2273.72,
+      "end": 2276.48,
+      "text": "香山",
+      "avg_logprob": -0.1882,
+      "no_speech_prob": 0.1205,
+      "review": false
+    },
+    {
+      "start": 2276.48,
+      "end": 2278.68,
+      "text": "大家注意哦",
+      "avg_logprob": -0.1882,
+      "no_speech_prob": 0.1205,
+      "review": false
+    },
+    {
+      "start": 2278.68,
+      "end": 2280.0,
+      "text": "这种大形态突破",
+      "avg_logprob": -0.1882,
+      "no_speech_prob": 0.1205,
+      "review": false
+    },
+    {
+      "start": 2280.0,
+      "end": 2281.12,
+      "text": "大家要注意一下哦",
+      "avg_logprob": -0.1882,
+      "no_speech_prob": 0.1205,
+      "review": false
+    },
+    {
+      "start": 2281.12,
+      "end": 2283.26,
+      "text": "你就是你重点关注的是这种",
+      "avg_logprob": -0.1882,
+      "no_speech_prob": 0.1205,
+      "review": false
+    },
+    {
+      "start": 2283.26,
+      "end": 2285.86,
+      "text": "这种大形态突破",
+      "avg_logprob": -0.1882,
+      "no_speech_prob": 0.1205,
+      "review": false
+    },
+    {
+      "start": 2285.86,
+      "end": 2288.43,
+      "text": "这种大形态突破",
+      "avg_logprob": -0.1882,
+      "no_speech_prob": 0.1205,
+      "review": false
+    },
+    {
+      "start": 2288.43,
+      "end": 2289.89,
+      "text": "不管它是什么行业",
+      "avg_logprob": -0.1882,
+      "no_speech_prob": 0.1205,
+      "review": false
+    },
+    {
+      "start": 2289.89,
+      "end": 2290.39,
+      "text": "反正你在",
+      "avg_logprob": -0.1882,
+      "no_speech_prob": 0.1205,
+      "review": false
+    },
+    {
+      "start": 2290.39,
+      "end": 2291.63,
+      "text": "你先好好看看",
+      "avg_logprob": -0.1882,
+      "no_speech_prob": 0.1205,
+      "review": false
+    },
+    {
+      "start": 2291.63,
+      "end": 2293.93,
+      "text": "香山",
+      "avg_logprob": -0.1882,
+      "no_speech_prob": 0.1205,
+      "review": false
+    },
+    {
+      "start": 2293.93,
+      "end": 2294.79,
+      "text": "它是干嘛的",
+      "avg_logprob": -0.1882,
+      "no_speech_prob": 0.1205,
+      "review": false
+    },
+    {
+      "start": 2294.79,
+      "end": 2295.61,
+      "text": "香山",
+      "avg_logprob": -0.1882,
+      "no_speech_prob": 0.1205,
+      "review": false
+    },
+    {
+      "start": 2295.61,
+      "end": 2300.13,
+      "text": "智能座舱新能源充电设备",
+      "avg_logprob": -0.1882,
+      "no_speech_prob": 0.1205,
+      "review": false
+    },
+    {
+      "start": 2300.13,
+      "end": 2304.55,
+      "text": "流通值55个亿",
+      "avg_logprob": -0.1882,
+      "no_speech_prob": 0.1205,
+      "review": false
+    },
+    {
+      "start": 2304.55,
+      "end": 2308.62,
+      "text": "它这种",
+      "avg_logprob": -0.1882,
+      "no_speech_prob": 0.1205,
+      "review": false
+    },
+    {
+      "start": 2308.62,
+      "end": 2310.96,
+      "text": "这种啥题材",
+      "avg_logprob": -0.1139,
+      "no_speech_prob": 0.1534,
+      "review": false
+    },
+    {
+      "start": 2310.96,
+      "end": 2312.9,
+      "text": "智能、仓位、新能源",
+      "avg_logprob": -0.1139,
+      "no_speech_prob": 0.1534,
+      "review": false
+    },
+    {
+      "start": 2312.9,
+      "end": 2314.9,
+      "text": "这种一般都没有啥题材",
+      "avg_logprob": -0.1139,
+      "no_speech_prob": 0.1534,
+      "review": false
+    },
+    {
+      "start": 2314.9,
+      "end": 2317.46,
+      "text": "但是这种反正说一定要注意",
+      "avg_logprob": -0.1139,
+      "no_speech_prob": 0.1534,
+      "review": false
+    },
+    {
+      "start": 2317.46,
+      "end": 2319.5,
+      "text": "这种就说大形态突破",
+      "avg_logprob": -0.1139,
+      "no_speech_prob": 0.1534,
+      "review": false
+    },
+    {
+      "start": 2319.5,
+      "end": 2320.72,
+      "text": "这种容易出大牛股",
+      "avg_logprob": -0.1139,
+      "no_speech_prob": 0.1534,
+      "review": false
+    },
+    {
+      "start": 2320.72,
+      "end": 2321.44,
+      "text": "你看它这种",
+      "avg_logprob": -0.1139,
+      "no_speech_prob": 0.1534,
+      "review": false
+    },
+    {
+      "start": 2321.44,
+      "end": 2325.08,
+      "text": "你看刺青股历史以来最大的高点在这",
+      "avg_logprob": -0.1139,
+      "no_speech_prob": 0.1534,
+      "review": false
+    },
+    {
+      "start": 2325.08,
+      "end": 2327.02,
+      "text": "要是把这个地方突破了",
+      "avg_logprob": -0.1139,
+      "no_speech_prob": 0.1534,
+      "review": false
+    },
+    {
+      "start": 2327.02,
+      "end": 2327.6,
+      "text": "相当于啥",
+      "avg_logprob": -0.1139,
+      "no_speech_prob": 0.1534,
+      "review": false
+    },
+    {
+      "start": 2327.6,
+      "end": 2331.58,
+      "text": "相当于把它所有的历史的套牢盘",
+      "avg_logprob": -0.1139,
+      "no_speech_prob": 0.1534,
+      "review": false
+    },
+    {
+      "start": 2331.58,
+      "end": 2333.3,
+      "text": "全部全部全部全部突破",
+      "avg_logprob": -0.1139,
+      "no_speech_prob": 0.1534,
+      "review": false
+    },
+    {
+      "start": 2333.3,
+      "end": 2336.0,
+      "text": "那么你想人家要把这么大套牢盘突破",
+      "avg_logprob": -0.1139,
+      "no_speech_prob": 0.1534,
+      "review": false
+    },
+    {
+      "start": 2336.0,
+      "end": 2337.34,
+      "text": "肯定是有理由的",
+      "avg_logprob": -0.1139,
+      "no_speech_prob": 0.1534,
+      "review": false
+    },
+    {
+      "start": 2337.34,
+      "end": 2337.74,
+      "text": "是吧",
+      "avg_logprob": -0.1139,
+      "no_speech_prob": 0.1534,
+      "review": false
+    },
+    {
+      "start": 2337.74,
+      "end": 2339.08,
+      "text": "我们看看吧",
+      "avg_logprob": -0.1635,
+      "no_speech_prob": 0.1172,
+      "review": false
+    },
+    {
+      "start": 2339.08,
+      "end": 2339.98,
+      "text": "我看一下",
+      "avg_logprob": -0.1635,
+      "no_speech_prob": 0.1172,
+      "review": false
+    },
+    {
+      "start": 2339.98,
+      "end": 2344.49,
+      "text": "我看一下香山股份",
+      "avg_logprob": -0.1635,
+      "no_speech_prob": 0.1172,
+      "review": false
+    },
+    {
+      "start": 2344.49,
+      "end": 2346.13,
+      "text": "我们来AI一下",
+      "avg_logprob": -0.1635,
+      "no_speech_prob": 0.1172,
+      "review": false
+    },
+    {
+      "start": 2346.13,
+      "end": 2386.12,
+      "text": "香山股份原本是家用电子称其家",
+      "avg_logprob": -0.1635,
+      "no_speech_prob": 0.1172,
+      "review": false
+    },
+    {
+      "start": 2386.12,
+      "end": 2387.08,
+      "text": "然后呢",
+      "avg_logprob": -0.1635,
+      "no_speech_prob": 0.1172,
+      "review": false
+    },
+    {
+      "start": 2387.08,
+      "end": 2391.4,
+      "text": "蛇吞象收购了汽车电子巨头军胜旗下的军胜群英",
+      "avg_logprob": -0.1635,
+      "no_speech_prob": 0.1172,
+      "review": false
+    },
+    {
+      "start": 2391.4,
+      "end": 2393.02,
+      "text": "就变成这个了",
+      "avg_logprob": -0.1635,
+      "no_speech_prob": 0.1172,
+      "review": false
+    },
+    {
+      "start": 2393.02,
+      "end": 2393.3,
+      "text": "好",
+      "avg_logprob": -0.1635,
+      "no_speech_prob": 0.1172,
+      "review": false
+    },
+    {
+      "start": 2393.3,
+      "end": 2395.68,
+      "text": "它没有什么护城河",
+      "avg_logprob": -0.1635,
+      "no_speech_prob": 0.1172,
+      "review": false
+    },
+    {
+      "start": 2395.68,
+      "end": 2398.55,
+      "text": "在市场占有率",
+      "avg_logprob": -0.1635,
+      "no_speech_prob": 0.1172,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 18.08
+}

@@ -1,0 +1,456 @@
+{
+  "begin": 7200.0,
+  "finish": 7500.0,
+  "segments": [
+    {
+      "start": 7198.0,
+      "end": 7236.92,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0579,
+      "no_speech_prob": 0.3286,
+      "review": false
+    },
+    {
+      "start": 7236.94,
+      "end": 7266.92,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1052,
+      "no_speech_prob": 0.5947,
+      "review": true
+    },
+    {
+      "start": 7266.94,
+      "end": 7306.12,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "avg_logprob": -0.1963,
+      "no_speech_prob": 0.5522,
+      "review": true
+    },
+    {
+      "start": 7306.14,
+      "end": 7310.62,
+      "text": "人不是你有没有本事,核心你有没有控制贪欲",
+      "avg_logprob": -0.1308,
+      "no_speech_prob": 0.3328,
+      "review": false
+    },
+    {
+      "start": 7310.62,
+      "end": 7313.54,
+      "text": "最近你们知道有个人,但是据说是不是真的我不知道",
+      "avg_logprob": -0.1308,
+      "no_speech_prob": 0.3328,
+      "review": false
+    },
+    {
+      "start": 7313.54,
+      "end": 7317.7,
+      "text": "有个戴口罩的一个人,叫口罩哥,口罩哥研报",
+      "avg_logprob": -0.1308,
+      "no_speech_prob": 0.3328,
+      "review": false
+    },
+    {
+      "start": 7317.7,
+      "end": 7321.42,
+      "text": "他不是说他最近彻底破产了吗,还倒亏几千万",
+      "avg_logprob": -0.1308,
+      "no_speech_prob": 0.3328,
+      "review": false
+    },
+    {
+      "start": 7321.42,
+      "end": 7325.16,
+      "text": "说他亏了上亿,所有的身家亏光了,还倒亏几千万",
+      "avg_logprob": -0.1308,
+      "no_speech_prob": 0.3328,
+      "review": false
+    },
+    {
+      "start": 7325.16,
+      "end": 7326.26,
+      "text": "但是真实假我不知道",
+      "avg_logprob": -0.1308,
+      "no_speech_prob": 0.3328,
+      "review": false
+    },
+    {
+      "start": 7326.26,
+      "end": 7330.42,
+      "text": "所以我们这一行,说句真心话,就是走悬崖边上",
+      "avg_logprob": -0.1308,
+      "no_speech_prob": 0.3328,
+      "review": false
+    },
+    {
+      "start": 7330.42,
+      "end": 7333.1,
+      "text": "哪有那么容易上亿了",
+      "avg_logprob": -0.1308,
+      "no_speech_prob": 0.3328,
+      "review": false
+    },
+    {
+      "start": 7333.1,
+      "end": 7335.68,
+      "text": "只要你把风险控制的好",
+      "avg_logprob": -0.0816,
+      "no_speech_prob": 0.3333,
+      "review": false
+    },
+    {
+      "start": 7335.68,
+      "end": 7337.12,
+      "text": "你就一定不会赚大钱",
+      "avg_logprob": -0.0816,
+      "no_speech_prob": 0.3333,
+      "review": false
+    },
+    {
+      "start": 7337.12,
+      "end": 7338.92,
+      "text": "但是你要想赚大钱",
+      "avg_logprob": -0.0816,
+      "no_speech_prob": 0.3333,
+      "review": false
+    },
+    {
+      "start": 7338.92,
+      "end": 7339.94,
+      "text": "你就要准备亏大钱",
+      "avg_logprob": -0.0816,
+      "no_speech_prob": 0.3333,
+      "review": false
+    },
+    {
+      "start": 7339.94,
+      "end": 7342.74,
+      "text": "因为这是很公平的",
+      "avg_logprob": -0.0816,
+      "no_speech_prob": 0.3333,
+      "review": false
+    },
+    {
+      "start": 7342.74,
+      "end": 7344.48,
+      "text": "我既不想赚大钱",
+      "avg_logprob": -0.0816,
+      "no_speech_prob": 0.3333,
+      "review": false
+    },
+    {
+      "start": 7344.48,
+      "end": 7346.94,
+      "text": "那我把风险控制这么好",
+      "avg_logprob": -0.0816,
+      "no_speech_prob": 0.3333,
+      "review": false
+    },
+    {
+      "start": 7346.94,
+      "end": 7349.14,
+      "text": "那我这辈子就不可能像人家赚大钱",
+      "avg_logprob": -0.0816,
+      "no_speech_prob": 0.3333,
+      "review": false
+    },
+    {
+      "start": 7349.14,
+      "end": 7350.12,
+      "text": "但是呢",
+      "avg_logprob": -0.0816,
+      "no_speech_prob": 0.3333,
+      "review": false
+    },
+    {
+      "start": 7350.12,
+      "end": 7353.74,
+      "text": "赚让我足够幸福的钱是没问题的",
+      "avg_logprob": -0.0816,
+      "no_speech_prob": 0.3333,
+      "review": false
+    },
+    {
+      "start": 7353.74,
+      "end": 7363.95,
+      "text": "结婚很久的男人都向往单身生活",
+      "avg_logprob": -0.0816,
+      "no_speech_prob": 0.3333,
+      "review": false
+    },
+    {
+      "start": 7363.95,
+      "end": 7365.53,
+      "text": "也不一定啊",
+      "avg_logprob": -0.0816,
+      "no_speech_prob": 0.3333,
+      "review": false
+    },
+    {
+      "start": 7365.53,
+      "end": 7366.87,
+      "text": "看你幸福不幸福啊",
+      "avg_logprob": -0.0816,
+      "no_speech_prob": 0.3333,
+      "review": false
+    },
+    {
+      "start": 7366.87,
+      "end": 7368.55,
+      "text": "你幸福你就向往单身",
+      "avg_logprob": -0.0816,
+      "no_speech_prob": 0.3333,
+      "review": false
+    },
+    {
+      "start": 7368.55,
+      "end": 7369.25,
+      "text": "你不幸福",
+      "avg_logprob": -0.0816,
+      "no_speech_prob": 0.3333,
+      "review": false
+    },
+    {
+      "start": 7369.25,
+      "end": 7408.7,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0691,
+      "no_speech_prob": 0.9766,
+      "review": true
+    },
+    {
+      "start": 7408.72,
+      "end": 7411.66,
+      "text": "我看有没有,我们现在还有十多分钟嘛,就收盘了",
+      "avg_logprob": -0.13,
+      "no_speech_prob": 0.2028,
+      "review": false
+    },
+    {
+      "start": 7411.66,
+      "end": 7413.74,
+      "text": "收盘之前我还想买个芯片股",
+      "avg_logprob": -0.13,
+      "no_speech_prob": 0.2028,
+      "review": false
+    },
+    {
+      "start": 7413.74,
+      "end": 7417.32,
+      "text": "网易照新盘子太大了,2500亿",
+      "avg_logprob": -0.13,
+      "no_speech_prob": 0.2028,
+      "review": false
+    },
+    {
+      "start": 7417.32,
+      "end": 7420.46,
+      "text": "但是呢,我个人觉得它还是有机会的",
+      "avg_logprob": -0.13,
+      "no_speech_prob": 0.2028,
+      "review": false
+    },
+    {
+      "start": 7420.46,
+      "end": 7424.43,
+      "text": "网易照新,反正储存芯片会够,价会够",
+      "avg_logprob": -0.13,
+      "no_speech_prob": 0.2028,
+      "review": false
+    },
+    {
+      "start": 7424.43,
+      "end": 7428.39,
+      "text": "要么就是它是龙头嘛,要么就买它也可以",
+      "avg_logprob": -0.13,
+      "no_speech_prob": 0.2028,
+      "review": false
+    },
+    {
+      "start": 7428.39,
+      "end": 7431.94,
+      "text": "其实它我觉得还是能够涨到500的",
+      "avg_logprob": -0.13,
+      "no_speech_prob": 0.2028,
+      "review": false
+    },
+    {
+      "start": 7431.94,
+      "end": 7435.4,
+      "text": "涨个20%没有问题,20%或550",
+      "avg_logprob": -0.13,
+      "no_speech_prob": 0.2028,
+      "review": false
+    },
+    {
+      "start": 7435.4,
+      "end": 7438.82,
+      "text": "就网易照新啊,我觉得还是有机会的啊",
+      "avg_logprob": -0.13,
+      "no_speech_prob": 0.2028,
+      "review": false
+    },
+    {
+      "start": 7439.3,
+      "end": 7440.94,
+      "text": "它是龙头嘛,它肯定是龙头",
+      "avg_logprob": -0.1556,
+      "no_speech_prob": 0.2866,
+      "review": false
+    },
+    {
+      "start": 7440.94,
+      "end": 7442.36,
+      "text": "它和那个",
+      "avg_logprob": -0.1556,
+      "no_speech_prob": 0.2866,
+      "review": false
+    },
+    {
+      "start": 7442.36,
+      "end": 7445.0,
+      "text": "这些算了,你看这个涨了三天",
+      "avg_logprob": -0.1556,
+      "no_speech_prob": 0.2866,
+      "review": false
+    },
+    {
+      "start": 7445.0,
+      "end": 7446.06,
+      "text": "这种我一般都不追了",
+      "avg_logprob": -0.1556,
+      "no_speech_prob": 0.2866,
+      "review": false
+    },
+    {
+      "start": 7446.06,
+      "end": 7449.04,
+      "text": "它都到一个波段的50%了",
+      "avg_logprob": -0.1556,
+      "no_speech_prob": 0.2866,
+      "review": false
+    },
+    {
+      "start": 7449.04,
+      "end": 7451.14,
+      "text": "你看吧,这个波段的50%了",
+      "avg_logprob": -0.1556,
+      "no_speech_prob": 0.2866,
+      "review": false
+    },
+    {
+      "start": 7451.14,
+      "end": 7452.3,
+      "text": "这种就非常容易回调",
+      "avg_logprob": -0.1556,
+      "no_speech_prob": 0.2866,
+      "review": false
+    },
+    {
+      "start": 7452.3,
+      "end": 7453.56,
+      "text": "我一般都绝对不追",
+      "avg_logprob": -0.1556,
+      "no_speech_prob": 0.2866,
+      "review": false
+    },
+    {
+      "start": 7453.56,
+      "end": 7459.1,
+      "text": "它也是,这种绝对不追",
+      "avg_logprob": -0.1556,
+      "no_speech_prob": 0.2866,
+      "review": false
+    },
+    {
+      "start": 7459.1,
+      "end": 7460.34,
+      "text": "到压力位了",
+      "avg_logprob": -0.1556,
+      "no_speech_prob": 0.2866,
+      "review": false
+    },
+    {
+      "start": 7460.34,
+      "end": 7468.61,
+      "text": "恒通光电,1300多亿",
+      "avg_logprob": -0.1556,
+      "no_speech_prob": 0.2866,
+      "review": false
+    },
+    {
+      "start": 7468.61,
+      "end": 7485.72,
+      "text": "几万很可惜,昨天排队了没买到啊",
+      "avg_logprob": -0.1556,
+      "no_speech_prob": 0.2866,
+      "review": false
+    },
+    {
+      "start": 7485.72,
+      "end": 7487.6,
+      "text": "北京军政的",
+      "avg_logprob": -0.1556,
+      "no_speech_prob": 0.2866,
+      "review": false
+    },
+    {
+      "start": 7487.6,
+      "end": 7489.2,
+      "text": "北京军政的",
+      "avg_logprob": -0.1556,
+      "no_speech_prob": 0.2866,
+      "review": false
+    },
+    {
+      "start": 7489.2,
+      "end": 7489.88,
+      "text": "储存芯片",
+      "avg_logprob": -0.1556,
+      "no_speech_prob": 0.2866,
+      "review": false
+    },
+    {
+      "start": 7489.88,
+      "end": 7491.94,
+      "text": "它好像也是一个细分龙头",
+      "avg_logprob": -0.1497,
+      "no_speech_prob": 0.2798,
+      "review": false
+    },
+    {
+      "start": 7491.94,
+      "end": 7493.18,
+      "text": "我等会查一下",
+      "avg_logprob": -0.1497,
+      "no_speech_prob": 0.2798,
+      "review": false
+    },
+    {
+      "start": 7493.18,
+      "end": 7497.14,
+      "text": "它好像是一个细分龙头",
+      "avg_logprob": -0.1497,
+      "no_speech_prob": 0.2798,
+      "review": false
+    },
+    {
+      "start": 7497.14,
+      "end": 7498.26,
+      "text": "北京军阵",
+      "avg_logprob": -0.1497,
+      "no_speech_prob": 0.2798,
+      "review": false
+    },
+    {
+      "start": 7498.26,
+      "end": 7499.62,
+      "text": "我记得啊",
+      "avg_logprob": -0.1497,
+      "no_speech_prob": 0.2798,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 21.78
+}

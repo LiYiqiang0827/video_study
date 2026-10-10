@@ -1,0 +1,576 @@
+{
+  "begin": 4800.0,
+  "finish": 5100.0,
+  "segments": [
+    {
+      "start": 4801.98,
+      "end": 4806.88,
+      "text": "凯莱因买少了一点点,我看看我后面排队有没有排上",
+      "avg_logprob": -0.1423,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 4806.88,
+      "end": 4810.24,
+      "text": "因为我排队排得早嘛,排得特别早",
+      "avg_logprob": -0.1423,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 4810.24,
+      "end": 4811.86,
+      "text": "哇靠,排得这么早都没买到",
+      "avg_logprob": -0.1423,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 4811.86,
+      "end": 4815.08,
+      "text": "凯莱因买少了一点点,凯莱因买的不多",
+      "avg_logprob": -0.1423,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 4815.08,
+      "end": 4821.62,
+      "text": "然后呢,这个永安药液比凯莱因多",
+      "avg_logprob": -0.1423,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 4821.62,
+      "end": 4824.6,
+      "text": "但是现在还没有赚钱,现在等我看看吧",
+      "avg_logprob": -0.1423,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 4824.6,
+      "end": 4828.48,
+      "text": "我们看看他等到11点之后看看他是不是假的",
+      "avg_logprob": -0.1561,
+      "no_speech_prob": 0.2244,
+      "review": false
+    },
+    {
+      "start": 4828.48,
+      "end": 4829.28,
+      "text": "是不是洗盘",
+      "avg_logprob": -0.1561,
+      "no_speech_prob": 0.2244,
+      "review": false
+    },
+    {
+      "start": 4829.28,
+      "end": 4831.46,
+      "text": "他如果等会11点快速拉起",
+      "avg_logprob": -0.1561,
+      "no_speech_prob": 0.2244,
+      "review": false
+    },
+    {
+      "start": 4831.46,
+      "end": 4832.22,
+      "text": "那这个就是洗盘",
+      "avg_logprob": -0.1561,
+      "no_speech_prob": 0.2244,
+      "review": false
+    },
+    {
+      "start": 4832.22,
+      "end": 4833.2,
+      "text": "明确的洗盘",
+      "avg_logprob": -0.1561,
+      "no_speech_prob": 0.2244,
+      "review": false
+    },
+    {
+      "start": 4833.2,
+      "end": 4834.58,
+      "text": "那明天行情很好",
+      "avg_logprob": -0.1561,
+      "no_speech_prob": 0.2244,
+      "review": false
+    },
+    {
+      "start": 4834.58,
+      "end": 4836.12,
+      "text": "他不能的话今天就",
+      "avg_logprob": -0.1561,
+      "no_speech_prob": 0.2244,
+      "review": false
+    },
+    {
+      "start": 4836.12,
+      "end": 4838.64,
+      "text": "如果今天拉不起来啊",
+      "avg_logprob": -0.1561,
+      "no_speech_prob": 0.2244,
+      "review": false
+    },
+    {
+      "start": 4838.64,
+      "end": 4839.92,
+      "text": "对不起哈",
+      "avg_logprob": -0.1561,
+      "no_speech_prob": 0.2244,
+      "review": false
+    },
+    {
+      "start": 4839.92,
+      "end": 4842.48,
+      "text": "至少要亏让大家亏两三天啊",
+      "avg_logprob": -0.1561,
+      "no_speech_prob": 0.2244,
+      "review": false
+    },
+    {
+      "start": 4842.48,
+      "end": 4843.74,
+      "text": "那那就很抱歉啊",
+      "avg_logprob": -0.1561,
+      "no_speech_prob": 0.2244,
+      "review": false
+    },
+    {
+      "start": 4843.74,
+      "end": 4844.62,
+      "text": "这个我也没办法",
+      "avg_logprob": -0.1561,
+      "no_speech_prob": 0.2244,
+      "review": false
+    },
+    {
+      "start": 4844.62,
+      "end": 4847.16,
+      "text": "这个A股就是这样",
+      "avg_logprob": -0.1561,
+      "no_speech_prob": 0.2244,
+      "review": false
+    },
+    {
+      "start": 4847.16,
+      "end": 4849.68,
+      "text": "比如说如果是美股的话",
+      "avg_logprob": -0.1561,
+      "no_speech_prob": 0.2244,
+      "review": false
+    },
+    {
+      "start": 4849.68,
+      "end": 4850.42,
+      "text": "他拉不起来",
+      "avg_logprob": -0.1561,
+      "no_speech_prob": 0.2244,
+      "review": false
+    },
+    {
+      "start": 4850.42,
+      "end": 4851.92,
+      "text": "那我下午就开始减仓了",
+      "avg_logprob": -0.1561,
+      "no_speech_prob": 0.2244,
+      "review": false
+    },
+    {
+      "start": 4851.92,
+      "end": 4852.74,
+      "text": "但是A股没办法",
+      "avg_logprob": -0.1561,
+      "no_speech_prob": 0.2244,
+      "review": false
+    },
+    {
+      "start": 4852.74,
+      "end": 4854.3,
+      "text": "减到我舒服为止",
+      "avg_logprob": -0.1561,
+      "no_speech_prob": 0.2244,
+      "review": false
+    },
+    {
+      "start": 4868.92,
+      "end": 4872.5,
+      "text": "怎么判断买点,就按照我的技术,13个买点,记出来",
+      "avg_logprob": -0.1351,
+      "no_speech_prob": 0.039,
+      "review": false
+    },
+    {
+      "start": 4872.5,
+      "end": 4878.88,
+      "text": "能不能做中线,看技术看不出来,必须要看基本面",
+      "avg_logprob": -0.1351,
+      "no_speech_prob": 0.039,
+      "review": false
+    },
+    {
+      "start": 4878.88,
+      "end": 4883.36,
+      "text": "看基本面,看它的题材,看它的盈利,这些情况",
+      "avg_logprob": -0.1351,
+      "no_speech_prob": 0.039,
+      "review": false
+    },
+    {
+      "start": 4883.36,
+      "end": 4886.92,
+      "text": "交锋电子0066,30066",
+      "avg_logprob": -0.1351,
+      "no_speech_prob": 0.039,
+      "review": false
+    },
+    {
+      "start": 4886.92,
+      "end": 4891.31,
+      "text": "半导体现在在涨,半导体在涨",
+      "avg_logprob": -0.1351,
+      "no_speech_prob": 0.039,
+      "review": false
+    },
+    {
+      "start": 4891.31,
+      "end": 4895.79,
+      "text": "我是实在被半导体整怕了,半导体涨这么好,肯定拿,没问题,拿着吧",
+      "avg_logprob": -0.1351,
+      "no_speech_prob": 0.039,
+      "review": false
+    },
+    {
+      "start": 4895.79,
+      "end": 4899.85,
+      "text": "而且今天资金进了4个亿,多好啊,拿着吧,这没问题,恭喜",
+      "avg_logprob": -0.1351,
+      "no_speech_prob": 0.039,
+      "review": false
+    },
+    {
+      "start": 4899.85,
+      "end": 4935.45,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0743,
+      "no_speech_prob": 0.3457,
+      "review": false
+    },
+    {
+      "start": 4935.47,
+      "end": 4937.59,
+      "text": "这个要去看它的基本面好不好",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.3062,
+      "review": false
+    },
+    {
+      "start": 4937.59,
+      "end": 4941.01,
+      "text": "这个东西能不能做中上线你必须要看基本面",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.3062,
+      "review": false
+    },
+    {
+      "start": 4941.01,
+      "end": 4943.99,
+      "text": "8月10号发财报了哟",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.3062,
+      "review": false
+    },
+    {
+      "start": 4943.99,
+      "end": 4945.21,
+      "text": "你小心一点哦",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.3062,
+      "review": false
+    },
+    {
+      "start": 4945.21,
+      "end": 4946.85,
+      "text": "马上发财报了哟",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.3062,
+      "review": false
+    },
+    {
+      "start": 4946.85,
+      "end": 4948.49,
+      "text": "这些玩意儿财报好就暴涨",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.3062,
+      "review": false
+    },
+    {
+      "start": 4948.49,
+      "end": 4950.49,
+      "text": "财报不好就暴跌",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.3062,
+      "review": false
+    },
+    {
+      "start": 4950.49,
+      "end": 4952.45,
+      "text": "你可以用AI先预测一下",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.3062,
+      "review": false
+    },
+    {
+      "start": 4952.45,
+      "end": 4953.91,
+      "text": "预测一下",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.3062,
+      "review": false
+    },
+    {
+      "start": 4953.91,
+      "end": 4962.81,
+      "text": "对对对",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.3062,
+      "review": false
+    },
+    {
+      "start": 4962.81,
+      "end": 4965.11,
+      "text": "但是我要用卖费这个词嘛给大家",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.3062,
+      "review": false
+    },
+    {
+      "start": 4965.11,
+      "end": 4967.41,
+      "text": "理论上说对于我自己从来没有卖费",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.3062,
+      "review": false
+    },
+    {
+      "start": 4967.41,
+      "end": 4968.65,
+      "text": "只要是我规则的东西",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.3062,
+      "review": false
+    },
+    {
+      "start": 4968.65,
+      "end": 4970.31,
+      "text": "我就有规则的话",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.3062,
+      "review": false
+    },
+    {
+      "start": 4970.31,
+      "end": 4971.73,
+      "text": "我就根本没有啥",
+      "avg_logprob": -0.1184,
+      "no_speech_prob": 0.3062,
+      "review": false
+    },
+    {
+      "start": 4971.73,
+      "end": 4975.96,
+      "text": "圣红是圣红股份吗?",
+      "avg_logprob": -0.1786,
+      "no_speech_prob": 0.1368,
+      "review": false
+    },
+    {
+      "start": 4976.7,
+      "end": 4977.4,
+      "text": "港股270",
+      "avg_logprob": -0.1786,
+      "no_speech_prob": 0.1368,
+      "review": false
+    },
+    {
+      "start": 4977.4,
+      "end": 4978.68,
+      "text": "是圣红股份吗?",
+      "avg_logprob": -0.1786,
+      "no_speech_prob": 0.1368,
+      "review": false
+    },
+    {
+      "start": 4978.74,
+      "end": 4978.98,
+      "text": "看一下",
+      "avg_logprob": -0.1786,
+      "no_speech_prob": 0.1368,
+      "review": false
+    },
+    {
+      "start": 4978.98,
+      "end": 4981.76,
+      "text": "圣红股份",
+      "avg_logprob": -0.1786,
+      "no_speech_prob": 0.1368,
+      "review": false
+    },
+    {
+      "start": 4981.76,
+      "end": 4988.18,
+      "text": "我不知道你个圣红是什么呀",
+      "avg_logprob": -0.1786,
+      "no_speech_prob": 0.1368,
+      "review": false
+    },
+    {
+      "start": 4988.18,
+      "end": 4988.98,
+      "text": "是港股",
+      "avg_logprob": -0.1786,
+      "no_speech_prob": 0.1368,
+      "review": false
+    },
+    {
+      "start": 4988.98,
+      "end": 4990.54,
+      "text": "圣红",
+      "avg_logprob": -0.1786,
+      "no_speech_prob": 0.1368,
+      "review": false
+    },
+    {
+      "start": 4990.54,
+      "end": 4993.46,
+      "text": "我不知道哦",
+      "avg_logprob": -0.1786,
+      "no_speech_prob": 0.1368,
+      "review": false
+    },
+    {
+      "start": 4993.46,
+      "end": 4994.34,
+      "text": "我不知道你说的什么",
+      "avg_logprob": -0.1786,
+      "no_speech_prob": 0.1368,
+      "review": false
+    },
+    {
+      "start": 4994.34,
+      "end": 4995.54,
+      "text": "因为我对港股不熟悉",
+      "avg_logprob": -0.1786,
+      "no_speech_prob": 0.1368,
+      "review": false
+    },
+    {
+      "start": 4995.54,
+      "end": 4997.12,
+      "text": "你把全名都打给我",
+      "avg_logprob": -0.1786,
+      "no_speech_prob": 0.1368,
+      "review": false
+    },
+    {
+      "start": 4997.12,
+      "end": 5000.48,
+      "text": "圣红全名打给我",
+      "avg_logprob": -0.1786,
+      "no_speech_prob": 0.1368,
+      "review": false
+    },
+    {
+      "start": 5000.48,
+      "end": 5001.02,
+      "text": "好吧",
+      "avg_logprob": -0.1786,
+      "no_speech_prob": 0.1368,
+      "review": false
+    },
+    {
+      "start": 5001.02,
+      "end": 5002.0,
+      "text": "名字全部打给我",
+      "avg_logprob": -0.1786,
+      "no_speech_prob": 0.1368,
+      "review": false
+    },
+    {
+      "start": 5002.0,
+      "end": 5002.4,
+      "text": "圣红",
+      "avg_logprob": -0.1786,
+      "no_speech_prob": 0.1368,
+      "review": false
+    },
+    {
+      "start": 5002.4,
+      "end": 5003.56,
+      "text": "我不知道个圣红是啥",
+      "avg_logprob": -0.1786,
+      "no_speech_prob": 0.1368,
+      "review": false
+    },
+    {
+      "start": 5003.56,
+      "end": 5004.44,
+      "text": "我查不出来",
+      "avg_logprob": -0.1786,
+      "no_speech_prob": 0.1368,
+      "review": false
+    },
+    {
+      "start": 5004.44,
+      "end": 5005.68,
+      "text": "港股这我也查不出来",
+      "avg_logprob": -0.1786,
+      "no_speech_prob": 0.1368,
+      "review": false
+    },
+    {
+      "start": 5005.68,
+      "end": 5006.9,
+      "text": "我看胜利",
+      "avg_logprob": -0.1786,
+      "no_speech_prob": 0.1368,
+      "review": false
+    },
+    {
+      "start": 5006.9,
+      "end": 5011.17,
+      "text": "看看啊",
+      "avg_logprob": -0.1786,
+      "no_speech_prob": 0.1368,
+      "review": false
+    },
+    {
+      "start": 5011.17,
+      "end": 5042.21,
+      "text": "胜利的胜利的胜利的",
+      "avg_logprob": -0.55,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5042.23,
+      "end": 5080.65,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0816,
+      "no_speech_prob": 0.5122,
+      "review": true
+    },
+    {
+      "start": 5080.67,
+      "end": 5110.96,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0896,
+      "no_speech_prob": 0.5171,
+      "review": true
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 21.22
+}

@@ -1,0 +1,17 @@
+{
+  "reason": "Only fixed closing ASR advertisement extended beyond media; original retained, excluded from validation and research.",
+  "removed_from_validation": [
+    {
+      "start": 6857.65,
+      "end": 6892.48,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.111,
+      "no_speech_prob": 0.0004,
+      "review": false,
+      "id": "s01883"
+    }
+  ],
+  "original_asr_sha256": "80a451e963494893f4c2abd58f013097adccffb2832e68d4f0d7bb27a8a05dd0",
+  "validated_segments": 1882,
+  "checked_utc": "2026-10-05T10:08:51.402558+00:00"
+}

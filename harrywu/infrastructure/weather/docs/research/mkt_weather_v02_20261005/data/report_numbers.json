@@ -1,0 +1,67 @@
+{
+  "calendar_days": 424,
+  "three_reading_days": 424,
+  "weather_days": 424,
+  "by_year": [
+    {
+      "year": "2025",
+      "sunny": 85,
+      "cloudy": 68,
+      "overcast": 19,
+      "thunder": 25,
+      "storm": 46
+    },
+    {
+      "year": "2026",
+      "sunny": 32,
+      "cloudy": 69,
+      "overcast": 27,
+      "thunder": 6,
+      "storm": 47
+    }
+  ],
+  "quality": {
+    "2025|OK": 181,
+    "2025|DEGRADED": 62,
+    "2026|OK": 153,
+    "2026|DEGRADED": 28
+  },
+  "forecast": {
+    "target_start": "2026-01-01",
+    "target_end": "2026-09-30",
+    "target_days": 181,
+    "common_n": 181,
+    "methods": {
+      "frequency": {
+        "n": 181,
+        "hits": 78,
+        "accuracy": 0.430939226519337,
+        "ex_post": false
+      },
+      "persistence": {
+        "n": 181,
+        "hits": 74,
+        "accuracy": 0.4088397790055249,
+        "ex_post": false
+      },
+      "mode_known": {
+        "n": 181,
+        "hits": 51,
+        "accuracy": 0.281767955801105,
+        "ex_post": false
+      },
+      "mode_ex_post": {
+        "n": 181,
+        "hits": 69,
+        "accuracy": 0.3812154696132597,
+        "ex_post": true
+      }
+    },
+    "mode_ex_post": "cloudy",
+    "mode_ex_post_basis": "All valid actual weather in evaluation target period; hindsight, not executable",
+    "sample_small_n": 0,
+    "exclusions": {},
+    "tie_break": "current if tied else sunny,cloudy,overcast,thunder,storm; ex-post mode fixed order",
+    "conclusion": "本次频率预报超过当时可用简单基准；仍需区分事后全期众数与有限历史样本"
+  }
+}

@@ -1,0 +1,840 @@
+{
+  "begin": 2100.0,
+  "finish": 2400.0,
+  "segments": [
+    {
+      "start": 2098.91,
+      "end": 2109.22,
+      "text": "所以它这个也是这样变的",
+      "avg_logprob": -0.1471,
+      "no_speech_prob": 0.7026,
+      "review": true
+    },
+    {
+      "start": 2109.22,
+      "end": 2110.0,
+      "text": "你看现在",
+      "avg_logprob": -0.1471,
+      "no_speech_prob": 0.7026,
+      "review": true
+    },
+    {
+      "start": 2110.0,
+      "end": 2111.4,
+      "text": "我刚才说铜",
+      "avg_logprob": -0.1471,
+      "no_speech_prob": 0.7026,
+      "review": true
+    },
+    {
+      "start": 2111.4,
+      "end": 2113.52,
+      "text": "你看铜就起来了",
+      "avg_logprob": -0.1471,
+      "no_speech_prob": 0.7026,
+      "review": true
+    },
+    {
+      "start": 2113.52,
+      "end": 2115.96,
+      "text": "估计是铜了7货",
+      "avg_logprob": -0.1471,
+      "no_speech_prob": 0.7026,
+      "review": true
+    },
+    {
+      "start": 2115.96,
+      "end": 2117.84,
+      "text": "我估计铜了7货起来了",
+      "avg_logprob": -0.1471,
+      "no_speech_prob": 0.7026,
+      "review": true
+    },
+    {
+      "start": 2117.84,
+      "end": 2120.56,
+      "text": "这个铜就要看大宗的原因了",
+      "avg_logprob": -0.1471,
+      "no_speech_prob": 0.7026,
+      "review": true
+    },
+    {
+      "start": 2120.56,
+      "end": 2122.14,
+      "text": "研究一下为什么铜现在涨",
+      "avg_logprob": -0.1471,
+      "no_speech_prob": 0.7026,
+      "review": true
+    },
+    {
+      "start": 2122.14,
+      "end": 2132.47,
+      "text": "你看我在今天的节目里面说的是寒武纪",
+      "avg_logprob": -0.1471,
+      "no_speech_prob": 0.7026,
+      "review": true
+    },
+    {
+      "start": 2132.47,
+      "end": 2134.87,
+      "text": "寒武纪昨天这个位置我就觉得可以进",
+      "avg_logprob": -0.1471,
+      "no_speech_prob": 0.7026,
+      "review": true
+    },
+    {
+      "start": 2134.87,
+      "end": 2136.35,
+      "text": "你看今天又起来了",
+      "avg_logprob": -0.1471,
+      "no_speech_prob": 0.7026,
+      "review": true
+    },
+    {
+      "start": 2136.35,
+      "end": 2139.97,
+      "text": "寒武纪这个我就能看到112",
+      "avg_logprob": -0.1471,
+      "no_speech_prob": 0.7026,
+      "review": true
+    },
+    {
+      "start": 2139.97,
+      "end": 2144.15,
+      "text": "那么像昨天我当时在节目里面说",
+      "avg_logprob": -0.1654,
+      "no_speech_prob": 0.0005,
+      "review": false
+    },
+    {
+      "start": 2144.15,
+      "end": 2145.41,
+      "text": "如果我买的话",
+      "avg_logprob": -0.1654,
+      "no_speech_prob": 0.0005,
+      "review": false
+    },
+    {
+      "start": 2145.41,
+      "end": 2146.45,
+      "text": "昨天我就买寒武纪",
+      "avg_logprob": -0.1654,
+      "no_speech_prob": 0.0005,
+      "review": false
+    },
+    {
+      "start": 2146.45,
+      "end": 2150.7,
+      "text": "东方财富起来了",
+      "avg_logprob": -0.1654,
+      "no_speech_prob": 0.0005,
+      "review": false
+    },
+    {
+      "start": 2150.7,
+      "end": 2151.48,
+      "text": "很有意思",
+      "avg_logprob": -0.1654,
+      "no_speech_prob": 0.0005,
+      "review": false
+    },
+    {
+      "start": 2151.48,
+      "end": 2153.68,
+      "text": "这个券商起来了",
+      "avg_logprob": -0.1654,
+      "no_speech_prob": 0.0005,
+      "review": false
+    },
+    {
+      "start": 2153.68,
+      "end": 2154.54,
+      "text": "代表啥",
+      "avg_logprob": -0.1654,
+      "no_speech_prob": 0.0005,
+      "review": false
+    },
+    {
+      "start": 2154.54,
+      "end": 2158.32,
+      "text": "同龄有色",
+      "avg_logprob": -0.1654,
+      "no_speech_prob": 0.0005,
+      "review": false
+    },
+    {
+      "start": 2158.32,
+      "end": 2168.61,
+      "text": "今天是有色的账",
+      "avg_logprob": -0.1654,
+      "no_speech_prob": 0.0005,
+      "review": false
+    },
+    {
+      "start": 2168.61,
+      "end": 2171.64,
+      "text": "今天这个位置",
+      "avg_logprob": -0.1654,
+      "no_speech_prob": 0.0005,
+      "review": false
+    },
+    {
+      "start": 2171.64,
+      "end": 2175.08,
+      "text": "券商账可不是什么好事情的",
+      "avg_logprob": -0.1654,
+      "no_speech_prob": 0.0005,
+      "review": false
+    },
+    {
+      "start": 2175.08,
+      "end": 2179.16,
+      "text": "券商有些时候是过来压盘的",
+      "avg_logprob": -0.1654,
+      "no_speech_prob": 0.0005,
+      "review": false
+    },
+    {
+      "start": 2179.16,
+      "end": 2180.0,
+      "text": "护盘的",
+      "avg_logprob": -0.1654,
+      "no_speech_prob": 0.0005,
+      "review": false
+    },
+    {
+      "start": 2180.0,
+      "end": 2183.09,
+      "text": "这个位置券商账",
+      "avg_logprob": -0.1654,
+      "no_speech_prob": 0.0005,
+      "review": false
+    },
+    {
+      "start": 2183.09,
+      "end": 2184.61,
+      "text": "要谨慎",
+      "avg_logprob": -0.1654,
+      "no_speech_prob": 0.0005,
+      "review": false
+    },
+    {
+      "start": 2184.61,
+      "end": 2187.88,
+      "text": "黄、红",
+      "avg_logprob": -0.2019,
+      "no_speech_prob": 0.124,
+      "review": false
+    },
+    {
+      "start": 2187.88,
+      "end": 2196.11,
+      "text": "现在有色全掀起来了",
+      "avg_logprob": -0.2019,
+      "no_speech_prob": 0.124,
+      "review": false
+    },
+    {
+      "start": 2196.11,
+      "end": 2197.71,
+      "text": "但是我又不太喜欢追有色",
+      "avg_logprob": -0.2019,
+      "no_speech_prob": 0.124,
+      "review": false
+    },
+    {
+      "start": 2197.71,
+      "end": 2199.23,
+      "text": "那比如说",
+      "avg_logprob": -0.2019,
+      "no_speech_prob": 0.124,
+      "review": false
+    },
+    {
+      "start": 2199.23,
+      "end": 2203.12,
+      "text": "喜欢追的话",
+      "avg_logprob": -0.2019,
+      "no_speech_prob": 0.124,
+      "review": false
+    },
+    {
+      "start": 2203.12,
+      "end": 2205.79,
+      "text": "可以追有色",
+      "avg_logprob": -0.2019,
+      "no_speech_prob": 0.124,
+      "review": false
+    },
+    {
+      "start": 2205.79,
+      "end": 2207.17,
+      "text": "但是我不喜欢追有色",
+      "avg_logprob": -0.2019,
+      "no_speech_prob": 0.124,
+      "review": false
+    },
+    {
+      "start": 2207.17,
+      "end": 2239.37,
+      "text": "国选高科",
+      "avg_logprob": -0.2019,
+      "no_speech_prob": 0.124,
+      "review": false
+    },
+    {
+      "start": 2239.37,
+      "end": 2242.03,
+      "text": "哇从49、59",
+      "avg_logprob": -0.2019,
+      "no_speech_prob": 0.124,
+      "review": false
+    },
+    {
+      "start": 2242.03,
+      "end": 2243.61,
+      "text": "跌到了28了",
+      "avg_logprob": -0.2019,
+      "no_speech_prob": 0.124,
+      "review": false
+    },
+    {
+      "start": 2243.61,
+      "end": 2244.69,
+      "text": "跌到25",
+      "avg_logprob": -0.2019,
+      "no_speech_prob": 0.124,
+      "review": false
+    },
+    {
+      "start": 2244.69,
+      "end": 2246.87,
+      "text": "展办腰斩直接腰斩",
+      "avg_logprob": -0.2019,
+      "no_speech_prob": 0.124,
+      "review": false
+    },
+    {
+      "start": 2246.87,
+      "end": 2248.63,
+      "text": "49跌到了25",
+      "avg_logprob": -0.2019,
+      "no_speech_prob": 0.124,
+      "review": false
+    },
+    {
+      "start": 2248.63,
+      "end": 2251.01,
+      "text": "现在慢慢的慢慢的开始恢复爬坡",
+      "avg_logprob": -0.2019,
+      "no_speech_prob": 0.124,
+      "review": false
+    },
+    {
+      "start": 2251.01,
+      "end": 2253.91,
+      "text": "哎呀说实话这些票啊",
+      "avg_logprob": -0.2019,
+      "no_speech_prob": 0.124,
+      "review": false
+    },
+    {
+      "start": 2253.91,
+      "end": 2256.99,
+      "text": "你要是有耐心,我觉得还是有可能的",
+      "avg_logprob": -0.1265,
+      "no_speech_prob": 0.9976,
+      "review": true
+    },
+    {
+      "start": 2256.99,
+      "end": 2259.09,
+      "text": "这又不是什么烂公司",
+      "avg_logprob": -0.1265,
+      "no_speech_prob": 0.9976,
+      "review": true
+    },
+    {
+      "start": 2259.09,
+      "end": 2263.19,
+      "text": "国选也算是中国最好的这种新能源公司之一了吧",
+      "avg_logprob": -0.1265,
+      "no_speech_prob": 0.9976,
+      "review": true
+    },
+    {
+      "start": 2263.19,
+      "end": 2263.83,
+      "text": "腰斩",
+      "avg_logprob": -0.1265,
+      "no_speech_prob": 0.9976,
+      "review": true
+    },
+    {
+      "start": 2263.83,
+      "end": 2268.17,
+      "text": "那么从27涨到35也是有可能的",
+      "avg_logprob": -0.1265,
+      "no_speech_prob": 0.9976,
+      "review": true
+    },
+    {
+      "start": 2268.17,
+      "end": 2269.41,
+      "text": "但是就是要有耐心",
+      "avg_logprob": -0.1265,
+      "no_speech_prob": 0.9976,
+      "review": true
+    },
+    {
+      "start": 2269.41,
+      "end": 2272.77,
+      "text": "这些他要有非常大的耐心",
+      "avg_logprob": -0.1265,
+      "no_speech_prob": 0.9976,
+      "review": true
+    },
+    {
+      "start": 2272.77,
+      "end": 2274.71,
+      "text": "公司还是好公司",
+      "avg_logprob": -0.1265,
+      "no_speech_prob": 0.9976,
+      "review": true
+    },
+    {
+      "start": 2274.71,
+      "end": 2277.53,
+      "text": "中国最优秀的新能源电池公司之一",
+      "avg_logprob": -0.1265,
+      "no_speech_prob": 0.9976,
+      "review": true
+    },
+    {
+      "start": 2277.53,
+      "end": 2280.32,
+      "text": "但是现在又不涨新能源",
+      "avg_logprob": -0.1265,
+      "no_speech_prob": 0.9976,
+      "review": true
+    },
+    {
+      "start": 2280.32,
+      "end": 2281.72,
+      "text": "整个的汽车行业",
+      "avg_logprob": -0.1265,
+      "no_speech_prob": 0.9976,
+      "review": true
+    },
+    {
+      "start": 2281.72,
+      "end": 2284.6,
+      "text": "就说如果你是出于估值啊",
+      "avg_logprob": -0.132,
+      "no_speech_prob": 0.1532,
+      "review": false
+    },
+    {
+      "start": 2284.6,
+      "end": 2286.66,
+      "text": "这些你去买基本面买也行",
+      "avg_logprob": -0.132,
+      "no_speech_prob": 0.1532,
+      "review": false
+    },
+    {
+      "start": 2286.66,
+      "end": 2291.7,
+      "text": "但是如果你是严格的按照热点模式啊",
+      "avg_logprob": -0.132,
+      "no_speech_prob": 0.1532,
+      "review": false
+    },
+    {
+      "start": 2291.7,
+      "end": 2293.34,
+      "text": "就不行啊",
+      "avg_logprob": -0.132,
+      "no_speech_prob": 0.1532,
+      "review": false
+    },
+    {
+      "start": 2293.34,
+      "end": 2294.2,
+      "text": "严格的热点模式",
+      "avg_logprob": -0.132,
+      "no_speech_prob": 0.1532,
+      "review": false
+    },
+    {
+      "start": 2294.2,
+      "end": 2295.7,
+      "text": "就看你自己喜欢哪种模式了",
+      "avg_logprob": -0.132,
+      "no_speech_prob": 0.1532,
+      "review": false
+    },
+    {
+      "start": 2295.7,
+      "end": 2298.32,
+      "text": "反正咱们就是尽量别买",
+      "avg_logprob": -0.132,
+      "no_speech_prob": 0.1532,
+      "review": false
+    },
+    {
+      "start": 2298.32,
+      "end": 2301.44,
+      "text": "我现在是谨慎谨慎再谨慎",
+      "avg_logprob": -0.132,
+      "no_speech_prob": 0.1532,
+      "review": false
+    },
+    {
+      "start": 2301.44,
+      "end": 2303.98,
+      "text": "像云南铜啊",
+      "avg_logprob": -0.132,
+      "no_speech_prob": 0.1532,
+      "review": false
+    },
+    {
+      "start": 2303.98,
+      "end": 2305.82,
+      "text": "这些其实现在这个位置还可以",
+      "avg_logprob": -0.132,
+      "no_speech_prob": 0.1532,
+      "review": false
+    },
+    {
+      "start": 2305.82,
+      "end": 2310.17,
+      "text": "大宗商品",
+      "avg_logprob": -0.132,
+      "no_speech_prob": 0.1532,
+      "review": false
+    },
+    {
+      "start": 2310.17,
+      "end": 2316.45,
+      "text": "大宗这个要去想大宗商品铜的涨价逻辑在哪里",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.0481,
+      "review": false
+    },
+    {
+      "start": 2316.45,
+      "end": 2322.07,
+      "text": "那么前一段时间这波涨价是因为AI呀数据中心那用铜用的特别多",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.0481,
+      "review": false
+    },
+    {
+      "start": 2322.07,
+      "end": 2323.73,
+      "text": "铜非常贵涨价",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.0481,
+      "review": false
+    },
+    {
+      "start": 2323.73,
+      "end": 2325.83,
+      "text": "那现在他的涨价逻辑在哪里",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.0481,
+      "review": false
+    },
+    {
+      "start": 2325.83,
+      "end": 2327.33,
+      "text": "这帮AI如果退潮的话",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.0481,
+      "review": false
+    },
+    {
+      "start": 2327.33,
+      "end": 2328.83,
+      "text": "他还有没有这个逻辑",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.0481,
+      "review": false
+    },
+    {
+      "start": 2328.83,
+      "end": 2337.86,
+      "text": "喜罢",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.0481,
+      "review": false
+    },
+    {
+      "start": 2337.86,
+      "end": 2339.14,
+      "text": "大家知道吗",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.0481,
+      "review": false
+    },
+    {
+      "start": 2339.14,
+      "end": 2339.9,
+      "text": "喜罢",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.0481,
+      "review": false
+    },
+    {
+      "start": 2339.9,
+      "end": 2341.38,
+      "text": "喜罢",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.0481,
+      "review": false
+    },
+    {
+      "start": 2341.38,
+      "end": 2342.96,
+      "text": "如果说老会员知道",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.0481,
+      "review": false
+    },
+    {
+      "start": 2342.96,
+      "end": 2344.96,
+      "text": "我们在这些位置买过喜罢",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.0481,
+      "review": false
+    },
+    {
+      "start": 2344.96,
+      "end": 2346.86,
+      "text": "又回来了",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.0481,
+      "review": false
+    },
+    {
+      "start": 2346.86,
+      "end": 2347.68,
+      "text": "又回来了",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.0481,
+      "review": false
+    },
+    {
+      "start": 2347.68,
+      "end": 2349.92,
+      "text": "你不要以为洗把是洗头的",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.1749,
+      "review": false
+    },
+    {
+      "start": 2349.92,
+      "end": 2351.72,
+      "text": "但他也是有这个业务",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.1749,
+      "review": false
+    },
+    {
+      "start": 2351.72,
+      "end": 2354.78,
+      "text": "他其实主要是炒了一个电池的",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.1749,
+      "review": false
+    },
+    {
+      "start": 2354.78,
+      "end": 2358.54,
+      "text": "炒了一个毛利率",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.1749,
+      "review": false
+    },
+    {
+      "start": 2358.54,
+      "end": 2361.1,
+      "text": "PE83",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.1749,
+      "review": false
+    },
+    {
+      "start": 2361.1,
+      "end": 2362.44,
+      "text": "这东西都没法看",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.1749,
+      "review": false
+    },
+    {
+      "start": 2362.44,
+      "end": 2364.1,
+      "text": "中期预报怎么样",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.1749,
+      "review": false
+    },
+    {
+      "start": 2364.1,
+      "end": 2364.86,
+      "text": "业绩预亏",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.1749,
+      "review": false
+    },
+    {
+      "start": 2364.86,
+      "end": 2366.02,
+      "text": "还要预亏呢",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.1749,
+      "review": false
+    },
+    {
+      "start": 2366.02,
+      "end": 2368.56,
+      "text": "8月28号出中报",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.1749,
+      "review": false
+    },
+    {
+      "start": 2368.56,
+      "end": 2370.28,
+      "text": "中报反正都要亏了",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.1749,
+      "review": false
+    },
+    {
+      "start": 2370.28,
+      "end": 2372.24,
+      "text": "但是他这种形态很漂亮",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.1749,
+      "review": false
+    },
+    {
+      "start": 2372.24,
+      "end": 2373.36,
+      "text": "说实话",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.1749,
+      "review": false
+    },
+    {
+      "start": 2373.36,
+      "end": 2376.02,
+      "text": "咱们就从这个形态的角度来讲",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.1749,
+      "review": false
+    },
+    {
+      "start": 2376.02,
+      "end": 2377.62,
+      "text": "形态超级漂亮",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.1749,
+      "review": false
+    },
+    {
+      "start": 2377.62,
+      "end": 2380.28,
+      "text": "就这个电池也好久没炒过了",
+      "avg_logprob": -0.2352,
+      "no_speech_prob": 0.1238,
+      "review": false
+    },
+    {
+      "start": 2380.28,
+      "end": 2383.16,
+      "text": "这个形态就是这种就是标准的",
+      "avg_logprob": -0.2352,
+      "no_speech_prob": 0.1238,
+      "review": false
+    },
+    {
+      "start": 2383.16,
+      "end": 2384.9,
+      "text": "这个形态漂亮啊",
+      "avg_logprob": -0.2352,
+      "no_speech_prob": 0.1238,
+      "review": false
+    },
+    {
+      "start": 2384.9,
+      "end": 2385.36,
+      "text": "说实话",
+      "avg_logprob": -0.2352,
+      "no_speech_prob": 0.1238,
+      "review": false
+    },
+    {
+      "start": 2385.36,
+      "end": 2386.66,
+      "text": "这个形态简直是",
+      "avg_logprob": -0.2352,
+      "no_speech_prob": 0.1238,
+      "review": false
+    },
+    {
+      "start": 2386.66,
+      "end": 2387.38,
+      "text": "哇",
+      "avg_logprob": -0.2352,
+      "no_speech_prob": 0.1238,
+      "review": false
+    },
+    {
+      "start": 2387.38,
+      "end": 2388.36,
+      "text": "这个形态就是",
+      "avg_logprob": -0.2352,
+      "no_speech_prob": 0.1238,
+      "review": false
+    },
+    {
+      "start": 2388.36,
+      "end": 2389.28,
+      "text": "哇",
+      "avg_logprob": -0.2352,
+      "no_speech_prob": 0.1238,
+      "review": false
+    },
+    {
+      "start": 2389.28,
+      "end": 2390.66,
+      "text": "这个这个形态简直是",
+      "avg_logprob": -0.2352,
+      "no_speech_prob": 0.1238,
+      "review": false
+    },
+    {
+      "start": 2390.66,
+      "end": 2391.58,
+      "text": "哇",
+      "avg_logprob": -0.2352,
+      "no_speech_prob": 0.1238,
+      "review": false
+    },
+    {
+      "start": 2391.58,
+      "end": 2400.66,
+      "text": "这个是教科书",
+      "avg_logprob": -0.2352,
+      "no_speech_prob": 0.1238,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 18.31
+}

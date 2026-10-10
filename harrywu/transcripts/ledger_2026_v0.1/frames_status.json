@@ -1,0 +1,23 @@
+{
+  "status": "ten_second_frames_complete_scene_and_semantic_review_pending",
+  "runner_pid": 8524,
+  "completed": [
+    {
+      "stream_id": "XSFwu5KOo5Y",
+      "frames": 871
+    },
+    {
+      "stream_id": "dMgT48e5NQo",
+      "frames": 423
+    },
+    {
+      "stream_id": "zuo8FhWIdow",
+      "frames": 826
+    }
+  ],
+  "current": null,
+  "child_pid": null,
+  "interval_seconds": 10,
+  "started": "2026-10-03T03:28:04.107711+00:00",
+  "ended": "2026-10-03T03:36:27.266513+00:00"
+}

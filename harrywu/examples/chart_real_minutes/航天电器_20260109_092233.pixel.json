@@ -1,0 +1,57 @@
+{
+  "status": "pass",
+  "panels": {
+    "daily": {
+      "status": "pass",
+      "mode": "normal",
+      "bars": 250,
+      "volume_expected": 250,
+      "volume_visible": 250,
+      "candle_visible": 250,
+      "line_visible": 0,
+      "colored_right_of_last_bar": 0,
+      "colored_in_fixed_slot_tail": 0,
+      "duplicate_columns": 0,
+      "failures": []
+    },
+    "15m": {
+      "status": "pass",
+      "mode": "normal",
+      "bars": 80,
+      "volume_expected": 80,
+      "volume_visible": 80,
+      "candle_visible": 80,
+      "line_visible": 0,
+      "colored_right_of_last_bar": 0,
+      "colored_in_fixed_slot_tail": 0,
+      "duplicate_columns": 0,
+      "failures": []
+    },
+    "1m": {
+      "status": "pass",
+      "mode": "normal",
+      "bars": 240,
+      "volume_expected": 238,
+      "volume_visible": 238,
+      "candle_visible": 240,
+      "line_visible": 0,
+      "colored_right_of_last_bar": 0,
+      "colored_in_fixed_slot_tail": 0,
+      "duplicate_columns": 0,
+      "failures": []
+    },
+    "intraday": {
+      "status": "pass",
+      "mode": "line",
+      "bars": 240,
+      "volume_expected": 238,
+      "volume_visible": 238,
+      "candle_visible": 0,
+      "line_visible": 240,
+      "colored_right_of_last_bar": 0,
+      "colored_in_fixed_slot_tail": 0,
+      "duplicate_columns": 0,
+      "failures": []
+    }
+  }
+}

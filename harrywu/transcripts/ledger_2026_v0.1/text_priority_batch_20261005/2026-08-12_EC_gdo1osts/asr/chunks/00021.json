@@ -1,0 +1,552 @@
+{
+  "begin": 6300.0,
+  "finish": 6600.0,
+  "segments": [
+    {
+      "start": 6298.0,
+      "end": 6327.98,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1037,
+      "no_speech_prob": 0.374,
+      "review": false
+    },
+    {
+      "start": 6328.0,
+      "end": 6331.58,
+      "text": "所以你还是要注意开盘之后的那些走法",
+      "avg_logprob": -0.0909,
+      "no_speech_prob": 0.0665,
+      "review": false
+    },
+    {
+      "start": 6331.58,
+      "end": 6354.34,
+      "text": "美股的海力士和美光",
+      "avg_logprob": -0.0909,
+      "no_speech_prob": 0.0665,
+      "review": false
+    },
+    {
+      "start": 6354.34,
+      "end": 6356.68,
+      "text": "我就觉得他们的位置就不太好了",
+      "avg_logprob": -0.0909,
+      "no_speech_prob": 0.0665,
+      "review": false
+    },
+    {
+      "start": 6356.68,
+      "end": 6358.04,
+      "text": "说实话美股的海力士和美光",
+      "avg_logprob": -0.0909,
+      "no_speech_prob": 0.0665,
+      "review": false
+    },
+    {
+      "start": 6358.04,
+      "end": 6359.56,
+      "text": "你们要自己决定",
+      "avg_logprob": -0.0909,
+      "no_speech_prob": 0.0665,
+      "review": false
+    },
+    {
+      "start": 6359.56,
+      "end": 6361.68,
+      "text": "美股的海力士和美光",
+      "avg_logprob": -0.0909,
+      "no_speech_prob": 0.0665,
+      "review": false
+    },
+    {
+      "start": 6361.68,
+      "end": 6362.96,
+      "text": "我就觉得你们要自己决定",
+      "avg_logprob": -0.0909,
+      "no_speech_prob": 0.0665,
+      "review": false
+    },
+    {
+      "start": 6362.96,
+      "end": 6364.68,
+      "text": "这个位置",
+      "avg_logprob": -0.0909,
+      "no_speech_prob": 0.0665,
+      "review": false
+    },
+    {
+      "start": 6364.68,
+      "end": 6366.9,
+      "text": "我觉得我买的A股的这些位置",
+      "avg_logprob": -0.0909,
+      "no_speech_prob": 0.0665,
+      "review": false
+    },
+    {
+      "start": 6366.9,
+      "end": 6367.82,
+      "text": "他们是位置好",
+      "avg_logprob": -0.0909,
+      "no_speech_prob": 0.0665,
+      "review": false
+    },
+    {
+      "start": 6367.82,
+      "end": 6370.0,
+      "text": "他们是这个位置很完美",
+      "avg_logprob": -0.0909,
+      "no_speech_prob": 0.0665,
+      "review": false
+    },
+    {
+      "start": 6370.0,
+      "end": 6370.86,
+      "text": "我认为很完美",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 6370.86,
+      "end": 6372.52,
+      "text": "这个位置不是那么差",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 6372.52,
+      "end": 6374.94,
+      "text": "但是你这个美股的这个位置",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 6374.94,
+      "end": 6375.88,
+      "text": "我就觉得很尴尬了",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 6375.88,
+      "end": 6377.56,
+      "text": "我觉得很尴尬",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 6377.56,
+      "end": 6381.53,
+      "text": "但是就要看明天了",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 6381.53,
+      "end": 6382.45,
+      "text": "就今天是很尴尬",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 6382.45,
+      "end": 6384.03,
+      "text": "现在盘后在涨",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 6384.03,
+      "end": 6385.13,
+      "text": "就看看明天",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 6385.13,
+      "end": 6386.51,
+      "text": "它明天一样的",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 6386.51,
+      "end": 6387.47,
+      "text": "那明天开盘",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 6387.47,
+      "end": 6388.47,
+      "text": "这个三角形突破",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 6388.47,
+      "end": 6390.13,
+      "text": "我个人觉得还是可以涨的",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 6390.13,
+      "end": 6390.43,
+      "text": "好不好",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 6390.43,
+      "end": 6391.97,
+      "text": "明天看明天了",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 6391.97,
+      "end": 6392.49,
+      "text": "15分钟",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 6392.49,
+      "end": 6393.23,
+      "text": "我们看看明天",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 6393.23,
+      "end": 6394.91,
+      "text": "明天15分钟",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 6394.91,
+      "end": 6396.37,
+      "text": "你看现在是个三角形",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 6396.37,
+      "end": 6398.21,
+      "text": "你看是个很明确三角形",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 6398.21,
+      "end": 6399.27,
+      "text": "那么明天",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.189,
+      "review": false
+    },
+    {
+      "start": 6399.27,
+      "end": 6443.51,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0807,
+      "no_speech_prob": 0.1794,
+      "review": false
+    },
+    {
+      "start": 6443.53,
+      "end": 6485.54,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1011,
+      "no_speech_prob": 0.4888,
+      "review": false
+    },
+    {
+      "start": 6485.56,
+      "end": 6531.16,
+      "text": "中文字幕志愿者 李宗盛",
+      "avg_logprob": -0.3977,
+      "no_speech_prob": 0.1156,
+      "review": false
+    },
+    {
+      "start": 6531.18,
+      "end": 6532.72,
+      "text": "这个东西你自己决定的",
+      "avg_logprob": -0.2341,
+      "no_speech_prob": 0.0085,
+      "review": false
+    },
+    {
+      "start": 6532.72,
+      "end": 6534.36,
+      "text": "完全不受买入规则",
+      "avg_logprob": -0.2341,
+      "no_speech_prob": 0.0085,
+      "review": false
+    },
+    {
+      "start": 6534.36,
+      "end": 6535.66,
+      "text": "OK",
+      "avg_logprob": -0.2341,
+      "no_speech_prob": 0.0085,
+      "review": false
+    },
+    {
+      "start": 6535.66,
+      "end": 6539.75,
+      "text": "Amy的Drum",
+      "avg_logprob": -0.2341,
+      "no_speech_prob": 0.0085,
+      "review": false
+    },
+    {
+      "start": 6539.75,
+      "end": 6552.33,
+      "text": "这个也是",
+      "avg_logprob": -0.2341,
+      "no_speech_prob": 0.0085,
+      "review": false
+    },
+    {
+      "start": 6552.33,
+      "end": 6553.21,
+      "text": "明天早上",
+      "avg_logprob": -0.2341,
+      "no_speech_prob": 0.0085,
+      "review": false
+    },
+    {
+      "start": 6553.21,
+      "end": 6555.13,
+      "text": "它盘后不是涨起来了吗",
+      "avg_logprob": -0.2341,
+      "no_speech_prob": 0.0085,
+      "review": false
+    },
+    {
+      "start": 6555.13,
+      "end": 6557.05,
+      "text": "但是盘后涨不就是第二天涨",
+      "avg_logprob": -0.2341,
+      "no_speech_prob": 0.0085,
+      "review": false
+    },
+    {
+      "start": 6557.05,
+      "end": 6559.41,
+      "text": "它只要第二天这个开盘",
+      "avg_logprob": -0.2341,
+      "no_speech_prob": 0.0085,
+      "review": false
+    },
+    {
+      "start": 6559.41,
+      "end": 6561.09,
+      "text": "直接有个小缺口就可以了",
+      "avg_logprob": -0.2341,
+      "no_speech_prob": 0.0085,
+      "review": false
+    },
+    {
+      "start": 6561.09,
+      "end": 6561.81,
+      "text": "没问题",
+      "avg_logprob": -0.2341,
+      "no_speech_prob": 0.0085,
+      "review": false
+    },
+    {
+      "start": 6561.81,
+      "end": 6563.05,
+      "text": "这些东西都可以",
+      "avg_logprob": -0.2341,
+      "no_speech_prob": 0.0085,
+      "review": false
+    },
+    {
+      "start": 6563.05,
+      "end": 6568.66,
+      "text": "我也记一下",
+      "avg_logprob": -0.2341,
+      "no_speech_prob": 0.0085,
+      "review": false
+    },
+    {
+      "start": 6568.66,
+      "end": 6569.52,
+      "text": "我也记一下",
+      "avg_logprob": -0.2341,
+      "no_speech_prob": 0.0085,
+      "review": false
+    },
+    {
+      "start": 6569.52,
+      "end": 6573.07,
+      "text": "这些东西等会在我们的群里面",
+      "avg_logprob": -0.2341,
+      "no_speech_prob": 0.0085,
+      "review": false
+    },
+    {
+      "start": 6573.07,
+      "end": 6573.75,
+      "text": "跟大家说一下",
+      "avg_logprob": -0.2341,
+      "no_speech_prob": 0.0085,
+      "review": false
+    },
+    {
+      "start": 6573.75,
+      "end": 6574.71,
+      "text": "明天早上你们可以",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.4131,
+      "review": false
+    },
+    {
+      "start": 6574.71,
+      "end": 6576.19,
+      "text": "我肯定明天早上睡懒觉了",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.4131,
+      "review": false
+    },
+    {
+      "start": 6576.19,
+      "end": 6577.89,
+      "text": "那明天早上你们开盘啊",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.4131,
+      "review": false
+    },
+    {
+      "start": 6577.89,
+      "end": 6579.43,
+      "text": "这个缺口跳空都可以去看",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.4131,
+      "review": false
+    },
+    {
+      "start": 6579.43,
+      "end": 6582.11,
+      "text": "好 存储",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.4131,
+      "review": false
+    },
+    {
+      "start": 6582.11,
+      "end": 6583.47,
+      "text": "难怪现在国内在涨存储",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.4131,
+      "review": false
+    },
+    {
+      "start": 6583.47,
+      "end": 6584.51,
+      "text": "原来是这个原因",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.4131,
+      "review": false
+    },
+    {
+      "start": 6584.51,
+      "end": 6586.31,
+      "text": "啊 国内涨存储",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.4131,
+      "review": false
+    },
+    {
+      "start": 6586.31,
+      "end": 6590.07,
+      "text": "我们买的这些在涨吗",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.4131,
+      "review": false
+    },
+    {
+      "start": 6590.07,
+      "end": 6591.67,
+      "text": "对 都在涨啊",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.4131,
+      "review": false
+    },
+    {
+      "start": 6591.67,
+      "end": 6592.91,
+      "text": "我们买的这些都",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.4131,
+      "review": false
+    },
+    {
+      "start": 6592.91,
+      "end": 6594.33,
+      "text": "哎 不错 买了点都可以",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.4131,
+      "review": false
+    },
+    {
+      "start": 6594.33,
+      "end": 6594.97,
+      "text": "涨起来了",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.4131,
+      "review": false
+    },
+    {
+      "start": 6594.97,
+      "end": 6596.31,
+      "text": "它呢 也涨起来了",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.4131,
+      "review": false
+    },
+    {
+      "start": 6596.31,
+      "end": 6598.27,
+      "text": "哎 它呢 也涨起来了",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.4131,
+      "review": false
+    },
+    {
+      "start": 6598.27,
+      "end": 6600.37,
+      "text": "它 也涨起来了",
+      "avg_logprob": -0.1344,
+      "no_speech_prob": 0.4131,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 24.73
+}

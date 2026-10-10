@@ -1,0 +1,568 @@
+{
+  "begin": 600.0,
+  "finish": 900.0,
+  "segments": [
+    {
+      "start": 598.0,
+      "end": 635.83,
+      "text": "方法还是正确的",
+      "avg_logprob": -0.2174,
+      "no_speech_prob": 0.1454,
+      "review": false
+    },
+    {
+      "start": 635.85,
+      "end": 638.24,
+      "text": "这个而且今天直接低开啊",
+      "avg_logprob": -0.1502,
+      "no_speech_prob": 0.2136,
+      "review": false
+    },
+    {
+      "start": 638.24,
+      "end": 640.14,
+      "text": "昨天阳线今天直接低开",
+      "avg_logprob": -0.1502,
+      "no_speech_prob": 0.2136,
+      "review": false
+    },
+    {
+      "start": 640.14,
+      "end": 640.86,
+      "text": "不要买不要买",
+      "avg_logprob": -0.1502,
+      "no_speech_prob": 0.2136,
+      "review": false
+    },
+    {
+      "start": 640.86,
+      "end": 641.98,
+      "text": "这种不要买位置也不好",
+      "avg_logprob": -0.1502,
+      "no_speech_prob": 0.2136,
+      "review": false
+    },
+    {
+      "start": 641.98,
+      "end": 644.4,
+      "text": "而且你看他这种票我不敢碰啊",
+      "avg_logprob": -0.1502,
+      "no_speech_prob": 0.2136,
+      "review": false
+    },
+    {
+      "start": 644.4,
+      "end": 645.6,
+      "text": "要碰你们自己碰吧",
+      "avg_logprob": -0.1502,
+      "no_speech_prob": 0.2136,
+      "review": false
+    },
+    {
+      "start": 645.6,
+      "end": 647.4,
+      "text": "一字涨停一字跌停",
+      "avg_logprob": -0.1502,
+      "no_speech_prob": 0.2136,
+      "review": false
+    },
+    {
+      "start": 647.4,
+      "end": 650.82,
+      "text": "你看连续两天一字几乎一字跌停",
+      "avg_logprob": -0.1502,
+      "no_speech_prob": 0.2136,
+      "review": false
+    },
+    {
+      "start": 650.82,
+      "end": 651.92,
+      "text": "这可危险了",
+      "avg_logprob": -0.1502,
+      "no_speech_prob": 0.2136,
+      "review": false
+    },
+    {
+      "start": 651.92,
+      "end": 653.1,
+      "text": "我不敢碰啊",
+      "avg_logprob": -0.1502,
+      "no_speech_prob": 0.2136,
+      "review": false
+    },
+    {
+      "start": 653.1,
+      "end": 654.7,
+      "text": "你们要碰你们自己碰",
+      "avg_logprob": -0.1502,
+      "no_speech_prob": 0.2136,
+      "review": false
+    },
+    {
+      "start": 654.7,
+      "end": 657.45,
+      "text": "还可以吧",
+      "avg_logprob": -0.1502,
+      "no_speech_prob": 0.2136,
+      "review": false
+    },
+    {
+      "start": 657.45,
+      "end": 657.65,
+      "text": "是吧",
+      "avg_logprob": -0.1502,
+      "no_speech_prob": 0.2136,
+      "review": false
+    },
+    {
+      "start": 657.65,
+      "end": 659.11,
+      "text": "现在你看现在赵燕新药",
+      "avg_logprob": -0.1502,
+      "no_speech_prob": 0.2136,
+      "review": false
+    },
+    {
+      "start": 659.11,
+      "end": 659.73,
+      "text": "永安药业",
+      "avg_logprob": -0.1502,
+      "no_speech_prob": 0.2136,
+      "review": false
+    },
+    {
+      "start": 659.73,
+      "end": 660.73,
+      "text": "凯莱因",
+      "avg_logprob": -0.1502,
+      "no_speech_prob": 0.2136,
+      "review": false
+    },
+    {
+      "start": 660.73,
+      "end": 662.09,
+      "text": "康乐化成都起来了吗",
+      "avg_logprob": -0.1502,
+      "no_speech_prob": 0.2136,
+      "review": false
+    },
+    {
+      "start": 662.09,
+      "end": 663.43,
+      "text": "没有什么大问题啊",
+      "avg_logprob": -0.1502,
+      "no_speech_prob": 0.2136,
+      "review": false
+    },
+    {
+      "start": 663.43,
+      "end": 664.53,
+      "text": "没有什么大问题",
+      "avg_logprob": -0.1502,
+      "no_speech_prob": 0.2136,
+      "review": false
+    },
+    {
+      "start": 664.53,
+      "end": 665.25,
+      "text": "不用太担心",
+      "avg_logprob": -0.1502,
+      "no_speech_prob": 0.2136,
+      "review": false
+    },
+    {
+      "start": 665.25,
+      "end": 667.12,
+      "text": "不用太担心",
+      "avg_logprob": -0.1502,
+      "no_speech_prob": 0.2136,
+      "review": false
+    },
+    {
+      "start": 667.12,
+      "end": 675.15,
+      "text": "医生现在打开了,要不要排个队啊",
+      "avg_logprob": -0.1782,
+      "no_speech_prob": 0.0684,
+      "review": false
+    },
+    {
+      "start": 675.15,
+      "end": 679.37,
+      "text": "纠结纠结,像这种其实挺纠结的",
+      "avg_logprob": -0.1782,
+      "no_speech_prob": 0.0684,
+      "review": false
+    },
+    {
+      "start": 679.37,
+      "end": 685.8,
+      "text": "养殖业板块还是没有起来,板块是没有起来",
+      "avg_logprob": -0.1782,
+      "no_speech_prob": 0.0684,
+      "review": false
+    },
+    {
+      "start": 685.8,
+      "end": 687.88,
+      "text": "今天什么都涨啊,我们看一眼看一眼啊",
+      "avg_logprob": -0.1782,
+      "no_speech_prob": 0.0684,
+      "review": false
+    },
+    {
+      "start": 687.88,
+      "end": 689.7,
+      "text": "今天都没复盘呢,刚和你们聊天",
+      "avg_logprob": -0.1782,
+      "no_speech_prob": 0.0684,
+      "review": false
+    },
+    {
+      "start": 689.7,
+      "end": 692.98,
+      "text": "看一下,暑期电影党,哎这不去追",
+      "avg_logprob": -0.1782,
+      "no_speech_prob": 0.0684,
+      "review": false
+    },
+    {
+      "start": 692.98,
+      "end": 695.62,
+      "text": "这不有啥意思啊",
+      "avg_logprob": -0.1782,
+      "no_speech_prob": 0.0684,
+      "review": false
+    },
+    {
+      "start": 695.62,
+      "end": 699.64,
+      "text": "影艳不追,工业母鸡,哎今天工业母鸡第一次出来哦",
+      "avg_logprob": -0.1782,
+      "no_speech_prob": 0.0684,
+      "review": false
+    },
+    {
+      "start": 699.64,
+      "end": 701.44,
+      "text": "平时没有出来过哟",
+      "avg_logprob": -0.1782,
+      "no_speech_prob": 0.0684,
+      "review": false
+    },
+    {
+      "start": 701.44,
+      "end": 709.34,
+      "text": "华东数控、维红、公用母机DIS出来,也不行",
+      "avg_logprob": -0.1774,
+      "no_speech_prob": 0.0768,
+      "review": false
+    },
+    {
+      "start": 709.34,
+      "end": 712.22,
+      "text": "华东数控,也不行,也不行,没那么好",
+      "avg_logprob": -0.1774,
+      "no_speech_prob": 0.0768,
+      "review": false
+    },
+    {
+      "start": 712.22,
+      "end": 713.64,
+      "text": "铝、电解铝,看一下",
+      "avg_logprob": -0.1774,
+      "no_speech_prob": 0.0768,
+      "review": false
+    },
+    {
+      "start": 713.64,
+      "end": 722.06,
+      "text": "铝、电解铝、中国铝、神火,这一般般,很难拿",
+      "avg_logprob": -0.1774,
+      "no_speech_prob": 0.0768,
+      "review": false
+    },
+    {
+      "start": 722.06,
+      "end": 723.88,
+      "text": "像中铝这些盘子太大了",
+      "avg_logprob": -0.1774,
+      "no_speech_prob": 0.0768,
+      "review": false
+    },
+    {
+      "start": 723.88,
+      "end": 726.07,
+      "text": "黄金,黄金很正常",
+      "avg_logprob": -0.1774,
+      "no_speech_prob": 0.0768,
+      "review": false
+    },
+    {
+      "start": 726.07,
+      "end": 729.21,
+      "text": "其他的没有了,没有了",
+      "avg_logprob": -0.1774,
+      "no_speech_prob": 0.0768,
+      "review": false
+    },
+    {
+      "start": 729.21,
+      "end": 731.43,
+      "text": "你看今天也没有啥题材啊,没有题材",
+      "avg_logprob": -0.1774,
+      "no_speech_prob": 0.0768,
+      "review": false
+    },
+    {
+      "start": 731.43,
+      "end": 732.73,
+      "text": "没有啥题材",
+      "avg_logprob": -0.1774,
+      "no_speech_prob": 0.0768,
+      "review": false
+    },
+    {
+      "start": 732.73,
+      "end": 734.84,
+      "text": "慢慢等",
+      "avg_logprob": -0.1774,
+      "no_speech_prob": 0.0768,
+      "review": false
+    },
+    {
+      "start": 734.84,
+      "end": 774.71,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0776,
+      "no_speech_prob": 0.1006,
+      "review": false
+    },
+    {
+      "start": 774.73,
+      "end": 780.81,
+      "text": "哎,但是看你自己了,我觉得买还可以吧,反正我自己还是看好的啊,我自己一直是看好的啊",
+      "avg_logprob": -0.1405,
+      "no_speech_prob": 0.4846,
+      "review": false
+    },
+    {
+      "start": 780.81,
+      "end": 787.97,
+      "text": "但是你要有一个,万一跌到这现在你加仓的一个打算了,再次说一下啊,没有人是神仙买着就涨啊",
+      "avg_logprob": -0.1405,
+      "no_speech_prob": 0.4846,
+      "review": false
+    },
+    {
+      "start": 787.97,
+      "end": 792.64,
+      "text": "没有人是神仙买着就涨啊,这就我也没那么神哦",
+      "avg_logprob": -0.1405,
+      "no_speech_prob": 0.4846,
+      "review": false
+    },
+    {
+      "start": 792.64,
+      "end": 796.9,
+      "text": "啊,这个该该被锤就被锤,该回头就回头啊,这没办法哟",
+      "avg_logprob": -0.1405,
+      "no_speech_prob": 0.4846,
+      "review": false
+    },
+    {
+      "start": 796.9,
+      "end": 798.46,
+      "text": "啊,这没有办法哟",
+      "avg_logprob": -0.1405,
+      "no_speech_prob": 0.4846,
+      "review": false
+    },
+    {
+      "start": 798.46,
+      "end": 803.56,
+      "text": "你看这个蓝色光标和中阳堂叶下来了",
+      "avg_logprob": -0.1405,
+      "no_speech_prob": 0.4846,
+      "review": false
+    },
+    {
+      "start": 803.56,
+      "end": 806.16,
+      "text": "但是我对中天堂也还是有信心的",
+      "avg_logprob": -0.1379,
+      "no_speech_prob": 0.2617,
+      "review": false
+    },
+    {
+      "start": 806.16,
+      "end": 806.7,
+      "text": "说句实在话",
+      "avg_logprob": -0.1379,
+      "no_speech_prob": 0.2617,
+      "review": false
+    },
+    {
+      "start": 806.7,
+      "end": 809.42,
+      "text": "我觉得它下来我也不太一点都不担心",
+      "avg_logprob": -0.1379,
+      "no_speech_prob": 0.2617,
+      "review": false
+    },
+    {
+      "start": 809.42,
+      "end": 811.18,
+      "text": "蓝色光标也是",
+      "avg_logprob": -0.1379,
+      "no_speech_prob": 0.2617,
+      "review": false
+    },
+    {
+      "start": 811.18,
+      "end": 812.5,
+      "text": "这两个下来我根本不担心",
+      "avg_logprob": -0.1379,
+      "no_speech_prob": 0.2617,
+      "review": false
+    },
+    {
+      "start": 812.5,
+      "end": 813.22,
+      "text": "根本不担心",
+      "avg_logprob": -0.1379,
+      "no_speech_prob": 0.2617,
+      "review": false
+    },
+    {
+      "start": 813.22,
+      "end": 813.82,
+      "text": "随便它下",
+      "avg_logprob": -0.1379,
+      "no_speech_prob": 0.2617,
+      "review": false
+    },
+    {
+      "start": 813.82,
+      "end": 815.18,
+      "text": "我一点都不担心",
+      "avg_logprob": -0.1379,
+      "no_speech_prob": 0.2617,
+      "review": false
+    },
+    {
+      "start": 815.18,
+      "end": 816.66,
+      "text": "招人心要吗",
+      "avg_logprob": -0.1379,
+      "no_speech_prob": 0.2617,
+      "review": false
+    },
+    {
+      "start": 816.66,
+      "end": 817.7,
+      "text": "没买还是要等一等",
+      "avg_logprob": -0.1379,
+      "no_speech_prob": 0.2617,
+      "review": false
+    },
+    {
+      "start": 817.7,
+      "end": 820.58,
+      "text": "我感觉到它还要下到48块钱来",
+      "avg_logprob": -0.1379,
+      "no_speech_prob": 0.2617,
+      "review": false
+    },
+    {
+      "start": 820.58,
+      "end": 822.58,
+      "text": "它这个量太大了",
+      "avg_logprob": -0.1379,
+      "no_speech_prob": 0.2617,
+      "review": false
+    },
+    {
+      "start": 822.58,
+      "end": 824.34,
+      "text": "放的量太大了",
+      "avg_logprob": -0.1379,
+      "no_speech_prob": 0.2617,
+      "review": false
+    },
+    {
+      "start": 824.34,
+      "end": 826.72,
+      "text": "反正我觉得还是要小心一点",
+      "avg_logprob": -0.1379,
+      "no_speech_prob": 0.2617,
+      "review": false
+    },
+    {
+      "start": 826.72,
+      "end": 828.34,
+      "text": "不要太着急",
+      "avg_logprob": -0.1379,
+      "no_speech_prob": 0.2617,
+      "review": false
+    },
+    {
+      "start": 828.34,
+      "end": 837.13,
+      "text": "蓝色光标萎缩",
+      "avg_logprob": -0.1379,
+      "no_speech_prob": 0.2617,
+      "review": false
+    },
+    {
+      "start": 837.13,
+      "end": 838.09,
+      "text": "减不减仓",
+      "avg_logprob": -0.1379,
+      "no_speech_prob": 0.2617,
+      "review": false
+    },
+    {
+      "start": 838.09,
+      "end": 839.37,
+      "text": "不减仓你自己决定好不好",
+      "avg_logprob": -0.1379,
+      "no_speech_prob": 0.2617,
+      "review": false
+    },
+    {
+      "start": 839.37,
+      "end": 876.42,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1055,
+      "no_speech_prob": 0.3716,
+      "review": false
+    },
+    {
+      "start": 876.44,
+      "end": 878.74,
+      "text": "青仓的都比较多,重仓的比较少",
+      "avg_logprob": -0.1972,
+      "no_speech_prob": 0.0768,
+      "review": false
+    },
+    {
+      "start": 878.74,
+      "end": 880.38,
+      "text": "重仓的就这几只",
+      "avg_logprob": -0.1972,
+      "no_speech_prob": 0.0768,
+      "review": false
+    },
+    {
+      "start": 880.38,
+      "end": 901.71,
+      "text": "诶,我昨天",
+      "avg_logprob": -0.1972,
+      "no_speech_prob": 0.0768,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 23.84
+}

@@ -1,0 +1,102 @@
+{
+  "stream_id": "dMgT48e5NQo",
+  "region": [
+    995,
+    19,
+    1125,
+    38
+  ],
+  "upscale": 1,
+  "method": "RapidOCR recognition only, fixed title region",
+  "scope": "Main Tongdaxin title only; not whole-frame OCR",
+  "limitation": "Other layouts, prices, holding tables and clocks require separate OCR/review. No stock identity matching or event classification is done.",
+  "frames": [
+    {
+      "time": 600.0,
+      "frame": "D:\\YuncongVideoAnalysis\\ledger_2026_v0.1\\quality_frames\\dMgT48e5NQo\\frame_00000_000600000.jpg",
+      "frame_sha256": "2df30e5e91482f1c6a08204a8043c887b26ed0307736df60197efc89f792eee2",
+      "ocr": [
+        {
+          "text": "正在法",
+          "confidence": 0.7376705507437388,
+          "recognition_region_original_pixels": [
+            [
+              995,
+              19
+            ],
+            [
+              1125,
+              19
+            ],
+            [
+              1125,
+              38
+            ],
+            [
+              995,
+              38
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "time": 1800.0,
+      "frame": "D:\\YuncongVideoAnalysis\\ledger_2026_v0.1\\quality_frames\\dMgT48e5NQo\\frame_00001_001800000.jpg",
+      "frame_sha256": "69b9c6d334a91ccd16ae4a186ac20531055620ffc110ded269843bee5d18c9dc",
+      "ocr": [
+        {
+          "text": "600230沧州大化",
+          "confidence": 0.997639948129654,
+          "recognition_region_original_pixels": [
+            [
+              995,
+              19
+            ],
+            [
+              1125,
+              19
+            ],
+            [
+              1125,
+              38
+            ],
+            [
+              995,
+              38
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "time": 3600.0,
+      "frame": "D:\\YuncongVideoAnalysis\\ledger_2026_v0.1\\quality_frames\\dMgT48e5NQo\\frame_00002_003600000.jpg",
+      "frame_sha256": "1bed5e982b0d26ba735e490ba7a370a0fd6a449a772012abb294f83bcd672c1a",
+      "ocr": [
+        {
+          "text": "002628成都路桥",
+          "confidence": 0.9847911596298218,
+          "recognition_region_original_pixels": [
+            [
+              995,
+              19
+            ],
+            [
+              1125,
+              19
+            ],
+            [
+              1125,
+              38
+            ],
+            [
+              995,
+              38
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

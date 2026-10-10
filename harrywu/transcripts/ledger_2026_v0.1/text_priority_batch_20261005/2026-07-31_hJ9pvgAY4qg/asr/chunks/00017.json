@@ -1,0 +1,800 @@
+{
+  "begin": 5100.0,
+  "finish": 5400.0,
+  "segments": [
+    {
+      "start": 5098.0,
+      "end": 5127.98,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0761,
+      "no_speech_prob": 0.7441,
+      "review": true
+    },
+    {
+      "start": 5128.0,
+      "end": 5157.37,
+      "text": "同样光伏困境反转吗?不是赌,你得去查资料啊!你得去看研报啊!你得找出具体人家能够困境反转的原因啊!你不能去拍脑袋啊!你凭什么要去赌啊!你得去找数据啊!是不是?你得去找数据支持他有困境反转啊!",
+      "avg_logprob": -0.1092,
+      "no_speech_prob": 0.1885,
+      "review": false
+    },
+    {
+      "start": 5157.37,
+      "end": 5160.11,
+      "text": "是光伏最近国家出政策了吗?",
+      "avg_logprob": -0.1602,
+      "no_speech_prob": 0.2089,
+      "review": false
+    },
+    {
+      "start": 5160.39,
+      "end": 5162.51,
+      "text": "还是说光伏其他进来的时候死光了吗?",
+      "avg_logprob": -0.1602,
+      "no_speech_prob": 0.2089,
+      "review": false
+    },
+    {
+      "start": 5162.71,
+      "end": 5163.45,
+      "text": "就只剩它了",
+      "avg_logprob": -0.1602,
+      "no_speech_prob": 0.2089,
+      "review": false
+    },
+    {
+      "start": 5163.45,
+      "end": 5168.93,
+      "text": "还是说现在海外又掀起一股用中国光伏的新浪潮了吗?",
+      "avg_logprob": -0.1602,
+      "no_speech_prob": 0.2089,
+      "review": false
+    },
+    {
+      "start": 5169.45,
+      "end": 5171.15,
+      "text": "那如果啥都没有你不要去买",
+      "avg_logprob": -0.1602,
+      "no_speech_prob": 0.2089,
+      "review": false
+    },
+    {
+      "start": 5171.15,
+      "end": 5172.99,
+      "text": "好不好?不要去买",
+      "avg_logprob": -0.1602,
+      "no_speech_prob": 0.2089,
+      "review": false
+    },
+    {
+      "start": 5172.99,
+      "end": 5174.49,
+      "text": "那你真的是不要去买",
+      "avg_logprob": -0.1602,
+      "no_speech_prob": 0.2089,
+      "review": false
+    },
+    {
+      "start": 5174.49,
+      "end": 5175.55,
+      "text": "我建议啊",
+      "avg_logprob": -0.1602,
+      "no_speech_prob": 0.2089,
+      "review": false
+    },
+    {
+      "start": 5175.55,
+      "end": 5178.35,
+      "text": "你比如说你就看一些数据嘛",
+      "avg_logprob": -0.1602,
+      "no_speech_prob": 0.2089,
+      "review": false
+    },
+    {
+      "start": 5178.35,
+      "end": 5180.35,
+      "text": "那最近中国出口的数据是什么呀?",
+      "avg_logprob": -0.1602,
+      "no_speech_prob": 0.2089,
+      "review": false
+    },
+    {
+      "start": 5180.51,
+      "end": 5183.39,
+      "text": "电网高压电这些一直出口比较好",
+      "avg_logprob": -0.1602,
+      "no_speech_prob": 0.2089,
+      "review": false
+    },
+    {
+      "start": 5183.39,
+      "end": 5186.55,
+      "text": "那你可能这方面如果要超跌反弹",
+      "avg_logprob": -0.1602,
+      "no_speech_prob": 0.2089,
+      "review": false
+    },
+    {
+      "start": 5186.55,
+      "end": 5187.97,
+      "text": "你做做电网还可以",
+      "avg_logprob": -0.2016,
+      "no_speech_prob": 0.1656,
+      "review": false
+    },
+    {
+      "start": 5187.97,
+      "end": 5189.49,
+      "text": "但是你去看数据",
+      "avg_logprob": -0.2016,
+      "no_speech_prob": 0.1656,
+      "review": false
+    },
+    {
+      "start": 5189.49,
+      "end": 5191.79,
+      "text": "如果光伏现在欧洲又反倾销",
+      "avg_logprob": -0.2016,
+      "no_speech_prob": 0.1656,
+      "review": false
+    },
+    {
+      "start": 5191.79,
+      "end": 5192.97,
+      "text": "美国又不让进",
+      "avg_logprob": -0.2016,
+      "no_speech_prob": 0.1656,
+      "review": false
+    },
+    {
+      "start": 5192.97,
+      "end": 5196.13,
+      "text": "整个世界其实也就是非洲和拉美还在买",
+      "avg_logprob": -0.2016,
+      "no_speech_prob": 0.1656,
+      "review": false
+    },
+    {
+      "start": 5196.13,
+      "end": 5197.35,
+      "text": "他们又没钱",
+      "avg_logprob": -0.2016,
+      "no_speech_prob": 0.1656,
+      "review": false
+    },
+    {
+      "start": 5197.35,
+      "end": 5198.93,
+      "text": "那你做个啥呀",
+      "avg_logprob": -0.2016,
+      "no_speech_prob": 0.1656,
+      "review": false
+    },
+    {
+      "start": 5198.93,
+      "end": 5199.91,
+      "text": "光伏又内卷",
+      "avg_logprob": -0.2016,
+      "no_speech_prob": 0.1656,
+      "review": false
+    },
+    {
+      "start": 5199.91,
+      "end": 5200.53,
+      "text": "是吧",
+      "avg_logprob": -0.2016,
+      "no_speech_prob": 0.1656,
+      "review": false
+    },
+    {
+      "start": 5200.53,
+      "end": 5201.69,
+      "text": "你就不要去做了",
+      "avg_logprob": -0.2016,
+      "no_speech_prob": 0.1656,
+      "review": false
+    },
+    {
+      "start": 5201.69,
+      "end": 5206.3,
+      "text": "是的是的",
+      "avg_logprob": -0.2016,
+      "no_speech_prob": 0.1656,
+      "review": false
+    },
+    {
+      "start": 5206.3,
+      "end": 5208.64,
+      "text": "昨天那个Chella开那个TV啊",
+      "avg_logprob": -0.2016,
+      "no_speech_prob": 0.1656,
+      "review": false
+    },
+    {
+      "start": 5208.64,
+      "end": 5209.5,
+      "text": "我昨天说了",
+      "avg_logprob": -0.2016,
+      "no_speech_prob": 0.1656,
+      "review": false
+    },
+    {
+      "start": 5209.5,
+      "end": 5210.58,
+      "text": "你这个什么呀",
+      "avg_logprob": -0.2016,
+      "no_speech_prob": 0.1656,
+      "review": false
+    },
+    {
+      "start": 5210.58,
+      "end": 5212.24,
+      "text": "你这是西班牙语吗",
+      "avg_logprob": -0.2016,
+      "no_speech_prob": 0.1656,
+      "review": false
+    },
+    {
+      "start": 5212.24,
+      "end": 5213.5,
+      "text": "Gazze",
+      "avg_logprob": -0.2016,
+      "no_speech_prob": 0.1656,
+      "review": false
+    },
+    {
+      "start": 5213.5,
+      "end": 5214.78,
+      "text": "Gazze Hela",
+      "avg_logprob": -0.2016,
+      "no_speech_prob": 0.1656,
+      "review": false
+    },
+    {
+      "start": 5214.78,
+      "end": 5216.58,
+      "text": "这个昨天",
+      "avg_logprob": -0.2016,
+      "no_speech_prob": 0.1656,
+      "review": false
+    },
+    {
+      "start": 5216.58,
+      "end": 5218.62,
+      "text": "昨天那个我昨天早上",
+      "avg_logprob": -0.2016,
+      "no_speech_prob": 0.1656,
+      "review": false
+    },
+    {
+      "start": 5218.62,
+      "end": 5219.08,
+      "text": "你看嘛",
+      "avg_logprob": -0.2016,
+      "no_speech_prob": 0.1656,
+      "review": false
+    },
+    {
+      "start": 5219.08,
+      "end": 5221.94,
+      "text": "我说蓝色官媒昨天就给拉起来了",
+      "avg_logprob": -0.1567,
+      "no_speech_prob": 0.0826,
+      "review": false
+    },
+    {
+      "start": 5221.94,
+      "end": 5223.28,
+      "text": "他不是因为大盘不好",
+      "avg_logprob": -0.1567,
+      "no_speech_prob": 0.0826,
+      "review": false
+    },
+    {
+      "start": 5223.28,
+      "end": 5224.4,
+      "text": "他没办法",
+      "avg_logprob": -0.1567,
+      "no_speech_prob": 0.0826,
+      "review": false
+    },
+    {
+      "start": 5224.4,
+      "end": 5226.26,
+      "text": "主力昨天早上明确想拉了",
+      "avg_logprob": -0.1567,
+      "no_speech_prob": 0.0826,
+      "review": false
+    },
+    {
+      "start": 5226.26,
+      "end": 5227.88,
+      "text": "但大盘太糟糕了",
+      "avg_logprob": -0.1567,
+      "no_speech_prob": 0.0826,
+      "review": false
+    },
+    {
+      "start": 5227.88,
+      "end": 5229.96,
+      "text": "按理说昨天就给拉涨停了",
+      "avg_logprob": -0.1567,
+      "no_speech_prob": 0.0826,
+      "review": false
+    },
+    {
+      "start": 5229.96,
+      "end": 5230.62,
+      "text": "他昨天没拉",
+      "avg_logprob": -0.1567,
+      "no_speech_prob": 0.0826,
+      "review": false
+    },
+    {
+      "start": 5230.62,
+      "end": 5231.4,
+      "text": "大盘上不去",
+      "avg_logprob": -0.1567,
+      "no_speech_prob": 0.0826,
+      "review": false
+    },
+    {
+      "start": 5231.4,
+      "end": 5232.64,
+      "text": "他也不愿意拉",
+      "avg_logprob": -0.1567,
+      "no_speech_prob": 0.0826,
+      "review": false
+    },
+    {
+      "start": 5232.64,
+      "end": 5238.52,
+      "text": "对的对的",
+      "avg_logprob": -0.1567,
+      "no_speech_prob": 0.0826,
+      "review": false
+    },
+    {
+      "start": 5238.52,
+      "end": 5240.26,
+      "text": "所以这个press action",
+      "avg_logprob": -0.1567,
+      "no_speech_prob": 0.0826,
+      "review": false
+    },
+    {
+      "start": 5240.26,
+      "end": 5240.72,
+      "text": "well",
+      "avg_logprob": -0.1567,
+      "no_speech_prob": 0.0826,
+      "review": false
+    },
+    {
+      "start": 5240.72,
+      "end": 5243.2,
+      "text": "你跟我们一起进步吧",
+      "avg_logprob": -0.1567,
+      "no_speech_prob": 0.0826,
+      "review": false
+    },
+    {
+      "start": 5243.2,
+      "end": 5244.14,
+      "text": "你看我也在进步",
+      "avg_logprob": -0.1567,
+      "no_speech_prob": 0.0826,
+      "review": false
+    },
+    {
+      "start": 5244.14,
+      "end": 5246.14,
+      "text": "你以后就是把这个改掉",
+      "avg_logprob": -0.1567,
+      "no_speech_prob": 0.0826,
+      "review": false
+    },
+    {
+      "start": 5246.14,
+      "end": 5247.52,
+      "text": "就是不能光看个股",
+      "avg_logprob": -0.1567,
+      "no_speech_prob": 0.0826,
+      "review": false
+    },
+    {
+      "start": 5247.52,
+      "end": 5249.3,
+      "text": "要看板块效应",
+      "avg_logprob": -0.1567,
+      "no_speech_prob": 0.0826,
+      "review": false
+    },
+    {
+      "start": 5249.3,
+      "end": 5250.34,
+      "text": "要看龙头效应",
+      "avg_logprob": -0.1567,
+      "no_speech_prob": 0.0826,
+      "review": false
+    },
+    {
+      "start": 5250.34,
+      "end": 5251.64,
+      "text": "我们把这些效应看完",
+      "avg_logprob": -0.1567,
+      "no_speech_prob": 0.0826,
+      "review": false
+    },
+    {
+      "start": 5251.64,
+      "end": 5252.36,
+      "text": "你们就会赚钱",
+      "avg_logprob": -0.1567,
+      "no_speech_prob": 0.0826,
+      "review": false
+    },
+    {
+      "start": 5252.36,
+      "end": 5256.92,
+      "text": "利欧可以加吗?利欧,因为今天是利欧和蓝色光标是不是同一个板块的?",
+      "avg_logprob": -0.1328,
+      "no_speech_prob": 0.2715,
+      "review": false
+    },
+    {
+      "start": 5257.42,
+      "end": 5260.82,
+      "text": "如果蓝色光标涨了,利欧就涨起来了,我们看看利欧啊",
+      "avg_logprob": -0.1328,
+      "no_speech_prob": 0.2715,
+      "review": false
+    },
+    {
+      "start": 5260.82,
+      "end": 5268.53,
+      "text": "他应该是和蓝色光标一个理由的,对不对?",
+      "avg_logprob": -0.1328,
+      "no_speech_prob": 0.2715,
+      "review": false
+    },
+    {
+      "start": 5268.81,
+      "end": 5271.71,
+      "text": "他们是一个体系的,蓝色光标涨停,他也涨停",
+      "avg_logprob": -0.1328,
+      "no_speech_prob": 0.2715,
+      "review": false
+    },
+    {
+      "start": 5271.71,
+      "end": 5275.79,
+      "text": "那么他肯定可以加吗?可以加,我记得是一起的啊",
+      "avg_logprob": -0.1328,
+      "no_speech_prob": 0.2715,
+      "review": false
+    },
+    {
+      "start": 5275.79,
+      "end": 5279.15,
+      "text": "我记得是一起的,对,数字营销嘛,是吧?",
+      "avg_logprob": -0.1328,
+      "no_speech_prob": 0.2715,
+      "review": false
+    },
+    {
+      "start": 5279.35,
+      "end": 5282.31,
+      "text": "蓝色光标涨停,他也涨停,一样的啊,他给了涨停",
+      "avg_logprob": -0.1328,
+      "no_speech_prob": 0.2715,
+      "review": false
+    },
+    {
+      "start": 5282.31,
+      "end": 5283.35,
+      "text": "所以你可以加它",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.0735,
+      "review": false
+    },
+    {
+      "start": 5283.35,
+      "end": 5284.47,
+      "text": "但是都涨停了",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.0735,
+      "review": false
+    },
+    {
+      "start": 5284.47,
+      "end": 5285.21,
+      "text": "不一定买得到了",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.0735,
+      "review": false
+    },
+    {
+      "start": 5285.21,
+      "end": 5285.93,
+      "text": "可以加点仓",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.0735,
+      "review": false
+    },
+    {
+      "start": 5285.93,
+      "end": 5296.63,
+      "text": "超级电子光股份",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.0735,
+      "review": false
+    },
+    {
+      "start": 5296.63,
+      "end": 5298.19,
+      "text": "龙盘科技",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.0735,
+      "review": false
+    },
+    {
+      "start": 5298.19,
+      "end": 5309.54,
+      "text": "龙盘",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.0735,
+      "review": false
+    },
+    {
+      "start": 5309.54,
+      "end": 5311.76,
+      "text": "财务数据还可以啊",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.0735,
+      "review": false
+    },
+    {
+      "start": 5311.76,
+      "end": 5313.14,
+      "text": "今年增长了9倍",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.0735,
+      "review": false
+    },
+    {
+      "start": 5313.14,
+      "end": 5315.0,
+      "text": "股",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.0735,
+      "review": false
+    },
+    {
+      "start": 5315.0,
+      "end": 5316.98,
+      "text": "如同股也可以",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.0735,
+      "review": false
+    },
+    {
+      "start": 5316.98,
+      "end": 5317.62,
+      "text": "100个亿",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.0735,
+      "review": false
+    },
+    {
+      "start": 5317.62,
+      "end": 5320.12,
+      "text": "但是看它这个跌的",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.0735,
+      "review": false
+    },
+    {
+      "start": 5320.12,
+      "end": 5320.76,
+      "text": "我的天",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.0735,
+      "review": false
+    },
+    {
+      "start": 5320.76,
+      "end": 5322.32,
+      "text": "跌的很惨啊",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.0735,
+      "review": false
+    },
+    {
+      "start": 5322.32,
+      "end": 5323.22,
+      "text": "为什么呀",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.0735,
+      "review": false
+    },
+    {
+      "start": 5323.22,
+      "end": 5323.98,
+      "text": "它在预亏吗",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.0735,
+      "review": false
+    },
+    {
+      "start": 5323.98,
+      "end": 5324.42,
+      "text": "难道",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.0735,
+      "review": false
+    },
+    {
+      "start": 5324.42,
+      "end": 5326.56,
+      "text": "而且预计是有亏的呀",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.0735,
+      "review": false
+    },
+    {
+      "start": 5326.56,
+      "end": 5327.22,
+      "text": "还可以",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.0735,
+      "review": false
+    },
+    {
+      "start": 5327.22,
+      "end": 5328.96,
+      "text": "那就不是核心咯",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.0735,
+      "review": false
+    },
+    {
+      "start": 5328.96,
+      "end": 5330.56,
+      "text": "那它这个票应该不是核心股了",
+      "avg_logprob": -0.1945,
+      "no_speech_prob": 0.0735,
+      "review": false
+    },
+    {
+      "start": 5330.56,
+      "end": 5331.94,
+      "text": "你去查一查",
+      "avg_logprob": -0.1527,
+      "no_speech_prob": 0.1638,
+      "review": false
+    },
+    {
+      "start": 5331.94,
+      "end": 5334.68,
+      "text": "他是不是龙头核心",
+      "avg_logprob": -0.1527,
+      "no_speech_prob": 0.1638,
+      "review": false
+    },
+    {
+      "start": 5334.68,
+      "end": 5338.0,
+      "text": "他如果不是龙头核心你就尽量被买了",
+      "avg_logprob": -0.1527,
+      "no_speech_prob": 0.1638,
+      "review": false
+    },
+    {
+      "start": 5338.0,
+      "end": 5339.06,
+      "text": "他的K线图又不好",
+      "avg_logprob": -0.1527,
+      "no_speech_prob": 0.1638,
+      "review": false
+    },
+    {
+      "start": 5339.06,
+      "end": 5341.02,
+      "text": "K线又不好是吧",
+      "avg_logprob": -0.1527,
+      "no_speech_prob": 0.1638,
+      "review": false
+    },
+    {
+      "start": 5341.02,
+      "end": 5343.56,
+      "text": "反正我不知道你有没有研究他",
+      "avg_logprob": -0.1527,
+      "no_speech_prob": 0.1638,
+      "review": false
+    },
+    {
+      "start": 5343.56,
+      "end": 5344.46,
+      "text": "因为他我没研究过",
+      "avg_logprob": -0.1527,
+      "no_speech_prob": 0.1638,
+      "review": false
+    },
+    {
+      "start": 5344.46,
+      "end": 5346.66,
+      "text": "他炒什么概念",
+      "avg_logprob": -0.1527,
+      "no_speech_prob": 0.1638,
+      "review": false
+    },
+    {
+      "start": 5346.66,
+      "end": 5349.82,
+      "text": "磷酸铁锂、液能、华为",
+      "avg_logprob": -0.1527,
+      "no_speech_prob": 0.1638,
+      "review": false
+    },
+    {
+      "start": 5349.82,
+      "end": 5352.46,
+      "text": "磷酸铁锂、液能、华为认证",
+      "avg_logprob": -0.1527,
+      "no_speech_prob": 0.1638,
+      "review": false
+    },
+    {
+      "start": 5352.46,
+      "end": 5359.4,
+      "text": "锂矿、电池",
+      "avg_logprob": -0.1527,
+      "no_speech_prob": 0.1638,
+      "review": false
+    },
+    {
+      "start": 5359.4,
+      "end": 5363.02,
+      "text": "磷酸铁锂",
+      "avg_logprob": -0.1527,
+      "no_speech_prob": 0.1638,
+      "review": false
+    },
+    {
+      "start": 5363.02,
+      "end": 5366.56,
+      "text": "我就不行",
+      "avg_logprob": -0.1527,
+      "no_speech_prob": 0.1638,
+      "review": false
+    },
+    {
+      "start": 5366.56,
+      "end": 5367.84,
+      "text": "我就不行",
+      "avg_logprob": -0.1527,
+      "no_speech_prob": 0.1638,
+      "review": false
+    },
+    {
+      "start": 5367.84,
+      "end": 5397.82,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1023,
+      "no_speech_prob": 0.5454,
+      "review": true
+    },
+    {
+      "start": 5397.84,
+      "end": 5399.18,
+      "text": "题材又不猛",
+      "avg_logprob": -0.1682,
+      "no_speech_prob": 0.0013,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 26.95
+}

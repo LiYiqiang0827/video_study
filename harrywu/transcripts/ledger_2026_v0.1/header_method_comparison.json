@@ -1,0 +1,295 @@
+{
+  "scope": "Nine manually read main-title samples, not whole-pilot acceptance",
+  "roi": [
+    960,
+    14,
+    1130,
+    48
+  ],
+  "upscale": 2,
+  "det_limit_side_len": 96,
+  "det_limit_type": "min",
+  "records": [
+    {
+      "stream_id": "XSFwu5KOo5Y",
+      "time": 600.5,
+      "expected_code": "688636",
+      "method": "original",
+      "texts": [
+        "回",
+        "688636智明达",
+        "委比",
+        "0.11%委差"
+      ],
+      "codes": [
+        "688636"
+      ],
+      "correct": true,
+      "seconds": 0.297
+    },
+    {
+      "stream_id": "XSFwu5KOo5Y",
+      "time": 600.5,
+      "expected_code": "688636",
+      "method": "yellow_title",
+      "texts": [
+        "88E：36智明达",
+        "1"
+      ],
+      "codes": [],
+      "correct": false,
+      "seconds": 0.141
+    },
+    {
+      "stream_id": "XSFwu5KOo5Y",
+      "time": 2400.5,
+      "expected_code": "603067",
+      "method": "original",
+      "texts": [
+        "回603067报华股份",
+        "委比",
+        "-73.96%委差",
+        "-1568"
+      ],
+      "codes": [
+        "603067"
+      ],
+      "correct": true,
+      "seconds": 0.312
+    },
+    {
+      "stream_id": "XSFwu5KOo5Y",
+      "time": 2400.5,
+      "expected_code": "603067",
+      "method": "yellow_title",
+      "texts": [
+        "6031B摄华股份"
+      ],
+      "codes": [],
+      "correct": false,
+      "seconds": 0.047
+    },
+    {
+      "stream_id": "XSFwu5KOo5Y",
+      "time": 610.5,
+      "expected_code": "002025",
+      "method": "original",
+      "texts": [
+        "回",
+        "002025航天电器",
+        "委比",
+        "22.64%委差",
+        "4468"
+      ],
+      "codes": [
+        "002025"
+      ],
+      "correct": true,
+      "seconds": 0.328
+    },
+    {
+      "stream_id": "XSFwu5KOo5Y",
+      "time": 610.5,
+      "expected_code": "002025",
+      "method": "yellow_title",
+      "texts": [
+        "102125航天电器"
+      ],
+      "codes": [
+        "102125"
+      ],
+      "correct": false,
+      "seconds": 0.047
+    },
+    {
+      "stream_id": "XSFwu5KOo5Y",
+      "time": 690.5,
+      "expected_code": "688776",
+      "method": "original",
+      "texts": [
+        "回",
+        "K688776国光电气",
+        "委比",
+        "%986",
+        "50"
+      ],
+      "codes": [
+        "688776"
+      ],
+      "correct": true,
+      "seconds": 0.359
+    },
+    {
+      "stream_id": "XSFwu5KOo5Y",
+      "time": 690.5,
+      "expected_code": "688776",
+      "method": "yellow_title",
+      "texts": [
+        "88776国光电气"
+      ],
+      "codes": [],
+      "correct": false,
+      "seconds": 0.031
+    },
+    {
+      "stream_id": "XSFwu5KOo5Y",
+      "time": 720.5,
+      "expected_code": "600990",
+      "method": "original",
+      "texts": [
+        "回",
+        "R600990四创电子",
+        "委比",
+        "%210"
+      ],
+      "codes": [
+        "600990"
+      ],
+      "correct": true,
+      "seconds": 0.094
+    },
+    {
+      "stream_id": "XSFwu5KOo5Y",
+      "time": 720.5,
+      "expected_code": "600990",
+      "method": "yellow_title",
+      "texts": [
+        "319四创电"
+      ],
+      "codes": [],
+      "correct": false,
+      "seconds": 0.031
+    },
+    {
+      "stream_id": "XSFwu5KOo5Y",
+      "time": 740.5,
+      "expected_code": "688511",
+      "method": "original",
+      "texts": [
+        "回",
+        "K688511*ST天微",
+        "委比",
+        "35.19%委差",
+        "38"
+      ],
+      "codes": [
+        "688511"
+      ],
+      "correct": true,
+      "seconds": 0.11
+    },
+    {
+      "stream_id": "XSFwu5KOo5Y",
+      "time": 740.5,
+      "expected_code": "688511",
+      "method": "yellow_title",
+      "texts": [
+        "688511917"
+      ],
+      "codes": [],
+      "correct": false,
+      "seconds": 0.047
+    },
+    {
+      "stream_id": "dMgT48e5NQo",
+      "time": 1800.5,
+      "expected_code": "600230",
+      "method": "original",
+      "texts": [
+        "回",
+        "600230沧州大化",
+        "委比",
+        "100.00%委美",
+        "46528"
+      ],
+      "codes": [
+        "600230"
+      ],
+      "correct": true,
+      "seconds": 0.093
+    },
+    {
+      "stream_id": "dMgT48e5NQo",
+      "time": 1800.5,
+      "expected_code": "600230",
+      "method": "yellow_title",
+      "texts": [
+        "100230个大心"
+      ],
+      "codes": [
+        "100230"
+      ],
+      "correct": false,
+      "seconds": 0.032
+    },
+    {
+      "stream_id": "dMgT48e5NQo",
+      "time": 3600.5,
+      "expected_code": "002628",
+      "method": "original",
+      "texts": [
+        "回",
+        "802628成都路桥",
+        "委比",
+        "100.80%委美",
+        "13:9万"
+      ],
+      "codes": [
+        "802628"
+      ],
+      "correct": false,
+      "seconds": 0.109
+    },
+    {
+      "stream_id": "dMgT48e5NQo",
+      "time": 3600.5,
+      "expected_code": "002628",
+      "method": "yellow_title",
+      "texts": [
+        "02828成都校"
+      ],
+      "codes": [],
+      "correct": false,
+      "seconds": 0.031
+    },
+    {
+      "stream_id": "zuo8FhWIdow",
+      "time": 3600.5,
+      "expected_code": "688658",
+      "method": "original",
+      "texts": [
+        "回",
+        "K688658悦康药业",
+        "委比",
+        "19.06%委差"
+      ],
+      "codes": [
+        "688658"
+      ],
+      "correct": true,
+      "seconds": 0.235
+    },
+    {
+      "stream_id": "zuo8FhWIdow",
+      "time": 3600.5,
+      "expected_code": "688658",
+      "method": "yellow_title",
+      "texts": [],
+      "codes": [],
+      "correct": false,
+      "seconds": 0.078
+    }
+  ],
+  "summary": {
+    "original": {
+      "correct": 8,
+      "total": 9,
+      "total_seconds": 1.94
+    },
+    "yellow_title": {
+      "correct": 0,
+      "total": 9,
+      "total_seconds": 0.48
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "begin": 0.0,
+  "finish": 90.0,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 29.98,
+      "text": "中文字幕提供",
+      "avg_logprob": -0.6883,
+      "no_speech_prob": 0.4077,
+      "review": false
+    },
+    {
+      "start": 60.0,
+      "end": 70.32,
+      "text": "好",
+      "avg_logprob": -0.6172,
+      "no_speech_prob": 0.1853,
+      "review": false
+    },
+    {
+      "start": 70.32,
+      "end": 70.9,
+      "text": "大家等一下",
+      "avg_logprob": -0.6172,
+      "no_speech_prob": 0.1853,
+      "review": false
+    },
+    {
+      "start": 70.9,
+      "end": 72.32,
+      "text": "不知道今天马上开始",
+      "avg_logprob": -0.6172,
+      "no_speech_prob": 0.1853,
+      "review": false
+    },
+    {
+      "start": 72.32,
+      "end": 89.98,
+      "text": "嗯",
+      "avg_logprob": -0.8374,
+      "no_speech_prob": 0.8301,
+      "review": true
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 2.45
+}

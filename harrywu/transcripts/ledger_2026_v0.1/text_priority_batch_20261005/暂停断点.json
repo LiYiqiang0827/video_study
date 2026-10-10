@@ -1,0 +1,170 @@
+{
+  "previous_pause": {
+    "status": "paused",
+    "reason": "Explicit user request: pause at a suitable boundary; continue tomorrow.",
+    "paused_utc": "2026-10-05T11:14:34.780Z",
+    "resume_after_user_message": true,
+    "completed_streams": 14,
+    "planned_streams": 20,
+    "next_stream": {
+      "date": "2026-08-13",
+      "id": "U15sH8So7PA",
+      "completed_audio_chunks": [
+        "00000.json"
+      ],
+      "completed_source_seconds": 300,
+      "interrupted_attempt_seconds": 58.219
+    },
+    "remaining": [
+      {
+        "date": "2026-08-13",
+        "id": "U15sH8So7PA"
+      },
+      {
+        "date": "2026-08-14",
+        "id": "TYWWyMSc4t0"
+      },
+      {
+        "date": "2026-08-19",
+        "id": "vzoh9dRVuUU"
+      },
+      {
+        "date": "2026-08-20",
+        "id": "Xb9Zns7PFW0"
+      },
+      {
+        "date": "2026-08-26",
+        "id": "6LMNw-7qaM0"
+      },
+      {
+        "date": "2026-09-02",
+        "id": "cpIxmR2ryic"
+      }
+    ],
+    "cloud_folder": "https://drive.google.com/drive/folders/1g-iftms84Z0b5t4kHDSTOG9pzcJKP-UF",
+    "cloud_readback": [
+      {
+        "stream_id": "XSFwu5KOo5Y",
+        "folder_url": "https://drive.google.com/drive/folders/1VeERfL0vBLnjkBM4qqnGScFI5YiElwuj",
+        "files_verified": 7,
+        "ids_names_and_sizes_match": true
+      },
+      {
+        "stream_id": "sH-gxN2M6iw",
+        "folder_url": "https://drive.google.com/drive/folders/1I9sYLXCPmTgFuejOzjZKB81OinuXTHiB",
+        "files_verified": 7,
+        "ids_names_and_sizes_match": true
+      },
+      {
+        "stream_id": "B8xkN2kibxM",
+        "folder_url": "https://drive.google.com/drive/folders/1XwK5JU91b5fNTk7Qwn6MjJFcwRkS8bSY",
+        "files_verified": 7,
+        "ids_names_and_sizes_match": true
+      },
+      {
+        "stream_id": "l6qVt1gAIuk",
+        "folder_url": "https://drive.google.com/drive/folders/1b_f4ZsF7vuowEhHVVZM1aSbxZK35K_z1",
+        "files_verified": 7,
+        "ids_names_and_sizes_match": true
+      },
+      {
+        "stream_id": "0sDh6RgtVR0",
+        "folder_url": "https://drive.google.com/drive/folders/1X8Dmd_836e2ZwW8KYUyGU_RabpiUz8P3",
+        "files_verified": 7,
+        "ids_names_and_sizes_match": true
+      },
+      {
+        "stream_id": "MonICnSdMwU",
+        "folder_url": "https://drive.google.com/drive/folders/12-__LTloLBqPLirHAG3ueFtfExoc5JLo",
+        "files_verified": 7,
+        "ids_names_and_sizes_match": true
+      },
+      {
+        "stream_id": "2PoupEXV2WA",
+        "folder_url": "https://drive.google.com/drive/folders/1qHM-0Gg5x28oqAU5EQFipdnFCqqLtAP-",
+        "files_verified": 7,
+        "ids_names_and_sizes_match": true
+      },
+      {
+        "stream_id": "hJ9pvgAY4qg",
+        "folder_url": "https://drive.google.com/drive/folders/1UWLGvQCX6hHNRTiPuFBj_Wtgp4RJ1zd9",
+        "files_verified": 7,
+        "ids_names_and_sizes_match": true
+      },
+      {
+        "stream_id": "-9HY0rxruC0",
+        "folder_url": "https://drive.google.com/drive/folders/1xHXBGL61wiqB97Fo2RMPFhTI-tOHpyfQ",
+        "files_verified": 7,
+        "ids_names_and_sizes_match": true
+      },
+      {
+        "stream_id": "69zkfFusgM8",
+        "folder_url": "https://drive.google.com/drive/folders/1aTJJgSmUdzBYyyVfkXehHMmEMdcloYC1",
+        "files_verified": 7,
+        "ids_names_and_sizes_match": true
+      },
+      {
+        "stream_id": "11uEocTvLcU",
+        "folder_url": "https://drive.google.com/drive/folders/1S2jf07xuJOA8IYP4SrCLCtpUT7mlYUuo",
+        "files_verified": 7,
+        "ids_names_and_sizes_match": true
+      },
+      {
+        "stream_id": "2r7MxJs-Lz0",
+        "folder_url": "https://drive.google.com/drive/folders/165o3mqnErOfsc7HrqCX2qb8UGl1qQ10z",
+        "files_verified": 7,
+        "ids_names_and_sizes_match": true
+      },
+      {
+        "stream_id": "S2M4McjjaaA",
+        "folder_url": "https://drive.google.com/drive/folders/1aak15UJVIIqYcKyZ1QSO03sYjVdm7URJ",
+        "files_verified": 7,
+        "ids_names_and_sizes_match": true
+      },
+      {
+        "stream_id": "EC_gdo1osts",
+        "folder_url": "https://drive.google.com/drive/folders/1F_ljr5LE_cHduCwxn_sf1Ucsh6KsiB7t",
+        "files_verified": 7,
+        "ids_names_and_sizes_match": true
+      }
+    ],
+    "requirements": [
+      "Preserve full original ASR and offsets",
+      "Correct stock names for each completed stream and update vocabulary",
+      "Keep daily trading, methods and learner stock questions",
+      "Remove chatter, promotions and standalone US/crypto discussions",
+      "No K-line/OCR/video/trade verification",
+      "No secondary agents or external-model workers",
+      "Only agreed priority-20; nonpriority-14 remain outside current scope"
+    ],
+    "scripts": {
+      "producer": "C:\\Project Rocket\\tmp\\yuncong_priority_batch_20261005.py",
+      "assemble": "C:\\Project Rocket\\tmp\\yuncong_finish_text_batch_20261005.py",
+      "validate_and_index": "C:\\Project Rocket\\tmp\\yuncong_priority_finish_all_20261005.py",
+      "fixed_noise_recovery": "C:\\Project Rocket\\tmp\\yuncong_asr_noise_recovery_20261005.py"
+    },
+    "resume_steps": [
+      "Read this checkpoint, batch.json and current status files.",
+      "Remove only the batch STOP file after the user resumes.",
+      "Start the existing producer with --run; it skips completed streams and resumes saved audio chunks.",
+      "Read and review all remaining speech; save review.json before finishing text and uploading seven files.",
+      "Reuse existing Drive file/folder IDs; inspect receipts before creating any resource.",
+      "After all twenty are complete, run the final validator without --partial; update the same root index files."
+    ],
+    "asr_noise_exceptions": [
+      "MonICnSdMwU",
+      "EC_gdo1osts"
+    ],
+    "notes": "Only fixed closing advertisements outside video duration were excluded from derived validation; original ASR was preserved. All 14 delivered folders passed Drive ID/name/byte-size checks."
+  },
+  "status": "complete",
+  "completed_utc": "2026-10-06T00:06:26.007156+00:00",
+  "completed_streams": 20,
+  "planned_streams": 20,
+  "remaining": [],
+  "next_stream": null,
+  "final_acceptance": "D:\\YuncongVideoAnalysis\\ledger_2026_v0.1\\text_priority_batch_20261005\\final_acceptance.json",
+  "cloud_folder": "https://drive.google.com/drive/folders/1g-iftms84Z0b5t4kHDSTOG9pzcJKP-UF",
+  "cloud_root_index_verified": true,
+  "cloud_root_index_verified_utc": "2026-10-06T00:07:46.548501+00:00"
+}

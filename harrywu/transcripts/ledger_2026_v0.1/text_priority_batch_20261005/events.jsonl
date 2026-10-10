@@ -1,0 +1,41 @@
+{"event": "asr_start", "at_utc": "2026-10-05T09:24:22.926075+00:00", "stream_id": "sH-gxN2M6iw", "date": "2026-03-20"}
+{"event": "asr_complete", "at_utc": "2026-10-05T09:31:43.343170+00:00", "stream_id": "sH-gxN2M6iw", "date": "2026-03-20", "seconds": 440.157, "segments": 1788}
+{"event": "asr_start", "at_utc": "2026-10-05T09:31:43.346557+00:00", "stream_id": "B8xkN2kibxM", "date": "2026-03-31"}
+{"event": "asr_complete", "at_utc": "2026-10-05T09:36:55.708626+00:00", "stream_id": "B8xkN2kibxM", "date": "2026-03-31", "seconds": 312.125, "segments": 1098}
+{"event": "asr_start", "at_utc": "2026-10-05T09:36:55.711734+00:00", "stream_id": "l6qVt1gAIuk", "date": "2026-04-13"}
+{"event": "asr_complete", "at_utc": "2026-10-05T09:49:20.407861+00:00", "stream_id": "l6qVt1gAIuk", "date": "2026-04-13", "seconds": 744.25, "segments": 2723}
+{"event": "asr_start", "at_utc": "2026-10-05T09:49:20.412078+00:00", "stream_id": "0sDh6RgtVR0", "date": "2026-06-10"}
+{"event": "asr_complete", "at_utc": "2026-10-05T09:55:10.788176+00:00", "stream_id": "0sDh6RgtVR0", "date": "2026-06-10", "seconds": 350.14, "segments": 1321}
+{"event": "asr_start", "at_utc": "2026-10-05T09:55:10.792207+00:00", "stream_id": "MonICnSdMwU", "date": "2026-07-29"}
+{"event": "asr_failed", "at_utc": "2026-10-05T10:03:30.977199+00:00", "stream_id": "MonICnSdMwU", "seconds": 500.172}
+{"event": "asr_start", "at_utc": "2026-10-05T10:03:30.982942+00:00", "stream_id": "2PoupEXV2WA", "date": "2026-07-30"}
+{"event": "asr_accepted_with_closing_noise_exception", "at_utc": "2026-10-05T10:08:51.407046+00:00", "stream_id": "MonICnSdMwU", "excluded": 1}
+{"event": "asr_complete", "at_utc": "2026-10-05T10:09:31.360952+00:00", "stream_id": "2PoupEXV2WA", "date": "2026-07-30", "seconds": 360.125, "segments": 1203}
+{"event": "asr_start", "at_utc": "2026-10-05T10:09:31.364187+00:00", "stream_id": "hJ9pvgAY4qg", "date": "2026-07-31"}
+{"event": "asr_complete", "at_utc": "2026-10-05T10:17:45.820296+00:00", "stream_id": "hJ9pvgAY4qg", "date": "2026-07-31", "seconds": 494.187, "segments": 1879}
+{"event": "asr_start", "at_utc": "2026-10-05T10:17:45.824296+00:00", "stream_id": "69zkfFusgM8", "date": "2026-08-05"}
+{"event": "asr_complete", "at_utc": "2026-10-05T10:27:20.395922+00:00", "stream_id": "69zkfFusgM8", "date": "2026-08-05", "seconds": 574.297, "segments": 2043}
+{"event": "asr_start", "at_utc": "2026-10-05T10:27:20.442296+00:00", "stream_id": "11uEocTvLcU", "date": "2026-08-06"}
+{"event": "asr_complete", "at_utc": "2026-10-05T10:34:04.878707+00:00", "stream_id": "11uEocTvLcU", "date": "2026-08-06", "seconds": 404.172, "segments": 1456}
+{"event": "asr_start", "at_utc": "2026-10-05T10:34:04.884091+00:00", "stream_id": "2r7MxJs-Lz0", "date": "2026-08-07"}
+{"event": "asr_complete", "at_utc": "2026-10-05T10:47:01.356950+00:00", "stream_id": "2r7MxJs-Lz0", "date": "2026-08-07", "seconds": 776.25, "segments": 2653}
+{"event": "asr_start", "at_utc": "2026-10-05T10:47:01.361993+00:00", "stream_id": "S2M4McjjaaA", "date": "2026-08-11"}
+{"event": "asr_complete", "at_utc": "2026-10-05T10:54:53.742259+00:00", "stream_id": "S2M4McjjaaA", "date": "2026-08-11", "seconds": 472.156, "segments": 1633}
+{"event": "asr_start", "at_utc": "2026-10-05T10:54:53.746395+00:00", "stream_id": "EC_gdo1osts", "date": "2026-08-12"}
+{"event": "asr_failed", "at_utc": "2026-10-05T11:04:03.938373+00:00", "stream_id": "EC_gdo1osts", "seconds": 550.187}
+{"event": "asr_start", "at_utc": "2026-10-05T11:04:03.947182+00:00", "stream_id": "U15sH8So7PA", "date": "2026-08-13"}
+{"event": "asr_failed", "at_utc": "2026-10-05T11:05:02.172223+00:00", "stream_id": "U15sH8So7PA", "seconds": 58.219}
+{"event": "asr_accepted_with_closing_noise_exception", "at_utc": "2026-10-05T11:05:27.471244+00:00", "stream_id": "EC_gdo1osts", "excluded": 1}
+{"event": "asr_start", "at_utc": "2026-10-05T23:11:13.700508+00:00", "stream_id": "U15sH8So7PA", "date": "2026-08-13"}
+{"event": "asr_complete", "at_utc": "2026-10-05T23:20:40.099372+00:00", "stream_id": "U15sH8So7PA", "date": "2026-08-13", "seconds": 566.203, "segments": 2300}
+{"event": "asr_start", "at_utc": "2026-10-05T23:20:40.141317+00:00", "stream_id": "TYWWyMSc4t0", "date": "2026-08-14"}
+{"event": "asr_complete", "at_utc": "2026-10-05T23:28:12.499301+00:00", "stream_id": "TYWWyMSc4t0", "date": "2026-08-14", "seconds": 452.172, "segments": 1751}
+{"event": "asr_start", "at_utc": "2026-10-05T23:28:12.580507+00:00", "stream_id": "vzoh9dRVuUU", "date": "2026-08-19"}
+{"event": "asr_complete", "at_utc": "2026-10-05T23:36:39.027410+00:00", "stream_id": "vzoh9dRVuUU", "date": "2026-08-19", "seconds": 506.25, "segments": 1963}
+{"event": "asr_start", "at_utc": "2026-10-05T23:36:39.031262+00:00", "stream_id": "Xb9Zns7PFW0", "date": "2026-08-20"}
+{"event": "asr_complete", "at_utc": "2026-10-05T23:43:39.369063+00:00", "stream_id": "Xb9Zns7PFW0", "date": "2026-08-20", "seconds": 420.14, "segments": 1670}
+{"event": "asr_start", "at_utc": "2026-10-05T23:43:39.372440+00:00", "stream_id": "6LMNw-7qaM0", "date": "2026-08-26"}
+{"event": "asr_complete", "at_utc": "2026-10-05T23:52:25.777951+00:00", "stream_id": "6LMNw-7qaM0", "date": "2026-08-26", "seconds": 526.172, "segments": 2180}
+{"event": "asr_start", "at_utc": "2026-10-05T23:52:25.814023+00:00", "stream_id": "cpIxmR2ryic", "date": "2026-09-02"}
+{"event": "asr_complete", "at_utc": "2026-10-06T00:02:40.207709+00:00", "stream_id": "cpIxmR2ryic", "date": "2026-09-02", "seconds": 614.234, "segments": 2513}
+{"event": "asr_queue_complete", "at_utc": "2026-10-06T00:02:40.210183+00:00", "completed": 6, "failures": []}

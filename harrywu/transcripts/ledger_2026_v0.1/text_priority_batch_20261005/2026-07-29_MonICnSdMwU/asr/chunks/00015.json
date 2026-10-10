@@ -1,0 +1,104 @@
+{
+  "begin": 4500.0,
+  "finish": 4800.0,
+  "segments": [
+    {
+      "start": 4499.45,
+      "end": 4514.75,
+      "text": "我已经很痛苦了,每天也是几十万了,我已经很痛苦了,每天也是上十万的亏的,我也不行了",
+      "avg_logprob": -0.2285,
+      "no_speech_prob": 0.6802,
+      "review": true
+    },
+    {
+      "start": 4514.75,
+      "end": 4531.4,
+      "text": "我用了五千万加上1.15亿,那我搞错了,反正总之他完蛋了,他那也估计也贪好多年",
+      "avg_logprob": -0.2285,
+      "no_speech_prob": 0.6802,
+      "review": true
+    },
+    {
+      "start": 4531.4,
+      "end": 4538.93,
+      "text": "我是的老师,第四次韩国,我是不对事,我也全跑完了,主要是我上周又进去了,这才是错的",
+      "avg_logprob": -0.2285,
+      "no_speech_prob": 0.6802,
+      "review": true
+    },
+    {
+      "start": 4538.93,
+      "end": 4574.42,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0894,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4574.44,
+      "end": 4615.14,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1022,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4615.16,
+      "end": 4645.38,
+      "text": "中文字幕志愿者 李宗盛",
+      "avg_logprob": -0.3853,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4645.4,
+      "end": 4688.14,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1044,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4688.16,
+      "end": 4699.66,
+      "text": "中控技术",
+      "avg_logprob": -0.6733,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 4728.01,
+      "end": 4757.99,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1058,
+      "no_speech_prob": 0.6924,
+      "review": true
+    },
+    {
+      "start": 4758.01,
+      "end": 4792.18,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0692,
+      "no_speech_prob": 0.9854,
+      "review": true
+    },
+    {
+      "start": 4792.2,
+      "end": 4796.26,
+      "text": "是的,今天只看A股,偶尔美股这些回来可以看一下",
+      "avg_logprob": -0.0998,
+      "no_speech_prob": 0.0004,
+      "review": false
+    },
+    {
+      "start": 4796.26,
+      "end": 4801.98,
+      "text": "彩虹这些以后大家不要做了,好不好,我们只做更大的龙头",
+      "avg_logprob": -0.0998,
+      "no_speech_prob": 0.0004,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 15.44
+}

@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "source": "D:\\YuncongVideoAnalysis\\2026-01-01_to_2026-10-03\\A股每日复盘直播（1月19日晚）.mp4",
+  "duration": 4227.796463,
+  "params": {
+    "source_sha256": "3492372a3dff40fad9f8daa1015e9bbcd5ec61ebd91481f44a6306b05287f7e5",
+    "times": [
+      600.0,
+      1800.0,
+      3600.0
+    ],
+    "method": "accurate-seek-copyts-original-v1"
+  },
+  "frames": [
+    {
+      "requested_time": 600.0,
+      "time": 600.0,
+      "decoded_pts": 600.0,
+      "frame": "frame_00000_000600000.jpg",
+      "sha256": "2df30e5e91482f1c6a08204a8043c887b26ed0307736df60197efc89f792eee2"
+    },
+    {
+      "requested_time": 1800.0,
+      "time": 1800.0,
+      "decoded_pts": 1800.0,
+      "frame": "frame_00001_001800000.jpg",
+      "sha256": "69b9c6d334a91ccd16ae4a186ac20531055620ffc110ded269843bee5d18c9dc"
+    },
+    {
+      "requested_time": 3600.0,
+      "time": 3600.0,
+      "decoded_pts": 3600.0,
+      "frame": "frame_00002_003600000.jpg",
+      "sha256": "1bed5e982b0d26ba735e490ba7a370a0fd6a449a772012abb294f83bcd672c1a"
+    }
+  ],
+  "status": "complete",
+  "sheets": [
+    "sheet_001.jpg"
+  ]
+}

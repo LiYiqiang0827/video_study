@@ -1,0 +1,269 @@
+{
+  "scope": "Nine main-title samples, not pilot acceptance",
+  "records": [
+    {
+      "stream_id": "XSFwu5KOo5Y",
+      "time": 600.5,
+      "expected_code": "688636",
+      "crop_left": 988,
+      "texts": [
+        "688636智明达1"
+      ],
+      "codes": [
+        "688636"
+      ],
+      "correct": true,
+      "seconds": 0.016
+    },
+    {
+      "stream_id": "XSFwu5KOo5Y",
+      "time": 600.5,
+      "expected_code": "688636",
+      "crop_left": 995,
+      "texts": [
+        "688636智明达1"
+      ],
+      "codes": [
+        "688636"
+      ],
+      "correct": true,
+      "seconds": 0.015
+    },
+    {
+      "stream_id": "XSFwu5KOo5Y",
+      "time": 2400.5,
+      "expected_code": "603067",
+      "crop_left": 988,
+      "texts": [
+        "603067振华股份"
+      ],
+      "codes": [
+        "603067"
+      ],
+      "correct": true,
+      "seconds": 0.016
+    },
+    {
+      "stream_id": "XSFwu5KOo5Y",
+      "time": 2400.5,
+      "expected_code": "603067",
+      "crop_left": 995,
+      "texts": [
+        "603067振华股份"
+      ],
+      "codes": [
+        "603067"
+      ],
+      "correct": true,
+      "seconds": 0.016
+    },
+    {
+      "stream_id": "XSFwu5KOo5Y",
+      "time": 610.5,
+      "expected_code": "002025",
+      "crop_left": 988,
+      "texts": [
+        "002025航天电器"
+      ],
+      "codes": [
+        "002025"
+      ],
+      "correct": true,
+      "seconds": 0.016
+    },
+    {
+      "stream_id": "XSFwu5KOo5Y",
+      "time": 610.5,
+      "expected_code": "002025",
+      "crop_left": 995,
+      "texts": [
+        "002025航天电器"
+      ],
+      "codes": [
+        "002025"
+      ],
+      "correct": true,
+      "seconds": 0.015
+    },
+    {
+      "stream_id": "XSFwu5KOo5Y",
+      "time": 690.5,
+      "expected_code": "688776",
+      "crop_left": 988,
+      "texts": [
+        "688776国光电气"
+      ],
+      "codes": [
+        "688776"
+      ],
+      "correct": true,
+      "seconds": 0.016
+    },
+    {
+      "stream_id": "XSFwu5KOo5Y",
+      "time": 690.5,
+      "expected_code": "688776",
+      "crop_left": 995,
+      "texts": [
+        "688776国光电气"
+      ],
+      "codes": [
+        "688776"
+      ],
+      "correct": true,
+      "seconds": 0.015
+    },
+    {
+      "stream_id": "XSFwu5KOo5Y",
+      "time": 720.5,
+      "expected_code": "600990",
+      "crop_left": 988,
+      "texts": [
+        "R600990四创电子"
+      ],
+      "codes": [
+        "600990"
+      ],
+      "correct": true,
+      "seconds": 0.016
+    },
+    {
+      "stream_id": "XSFwu5KOo5Y",
+      "time": 720.5,
+      "expected_code": "600990",
+      "crop_left": 995,
+      "texts": [
+        "600990四创电子"
+      ],
+      "codes": [
+        "600990"
+      ],
+      "correct": true,
+      "seconds": 0.015
+    },
+    {
+      "stream_id": "XSFwu5KOo5Y",
+      "time": 740.5,
+      "expected_code": "688511",
+      "crop_left": 988,
+      "texts": [
+        "K688511*ST天微"
+      ],
+      "codes": [
+        "688511"
+      ],
+      "correct": true,
+      "seconds": 0.016
+    },
+    {
+      "stream_id": "XSFwu5KOo5Y",
+      "time": 740.5,
+      "expected_code": "688511",
+      "crop_left": 995,
+      "texts": [
+        "688511*ST天微"
+      ],
+      "codes": [
+        "688511"
+      ],
+      "correct": true,
+      "seconds": 0.015
+    },
+    {
+      "stream_id": "dMgT48e5NQo",
+      "time": 1800.5,
+      "expected_code": "600230",
+      "crop_left": 988,
+      "texts": [
+        "P600230沧州大化"
+      ],
+      "codes": [
+        "600230"
+      ],
+      "correct": true,
+      "seconds": 0.016
+    },
+    {
+      "stream_id": "dMgT48e5NQo",
+      "time": 1800.5,
+      "expected_code": "600230",
+      "crop_left": 995,
+      "texts": [
+        "600230沧州大化"
+      ],
+      "codes": [
+        "600230"
+      ],
+      "correct": true,
+      "seconds": 0.016
+    },
+    {
+      "stream_id": "dMgT48e5NQo",
+      "time": 3600.5,
+      "expected_code": "002628",
+      "crop_left": 988,
+      "texts": [
+        "002628成都路桥"
+      ],
+      "codes": [
+        "002628"
+      ],
+      "correct": true,
+      "seconds": 0.015
+    },
+    {
+      "stream_id": "dMgT48e5NQo",
+      "time": 3600.5,
+      "expected_code": "002628",
+      "crop_left": 995,
+      "texts": [
+        "002628成都路桥"
+      ],
+      "codes": [
+        "002628"
+      ],
+      "correct": true,
+      "seconds": 0.0
+    },
+    {
+      "stream_id": "zuo8FhWIdow",
+      "time": 3600.5,
+      "expected_code": "688658",
+      "crop_left": 988,
+      "texts": [
+        "688658悦康药业"
+      ],
+      "codes": [
+        "688658"
+      ],
+      "correct": true,
+      "seconds": 0.016
+    },
+    {
+      "stream_id": "zuo8FhWIdow",
+      "time": 3600.5,
+      "expected_code": "688658",
+      "crop_left": 995,
+      "texts": [
+        "688658悦康药业"
+      ],
+      "codes": [
+        "688658"
+      ],
+      "correct": true,
+      "seconds": 0.016
+    }
+  ],
+  "summary": {
+    "988": {
+      "correct": 9,
+      "total": 9,
+      "seconds": 0.143
+    },
+    "995": {
+      "correct": 9,
+      "total": 9,
+      "seconds": 0.123
+    }
+  }
+}

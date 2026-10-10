@@ -1,0 +1,13 @@
+..................................................                       [100%]
+============================== warnings summary ===============================
+chart_tool/test_minute_source.py: 58 warnings
+  C:\Project Rocket\worktrees\video-study-harrywu\harrywu\tools\chart_tool\minute_source.py:240: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead.
+    values["bar_start"] = (ends - pd.Timedelta(minutes=1)).dt.strftime("%Y-%m-%dT%H:%M:%S+08:00")
+
+chart_tool/test_minute_source.py: 10 warnings
+  C:\Project Rocket\worktrees\video-study-harrywu\harrywu\tools\chart_tool\minute_source.py:238: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead.
+    ends = (ends + pd.Timedelta(minutes=1)).reset_index(drop=True)
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+50 passed, 11 deselected, 68 warnings in 8.33s
+

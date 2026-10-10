@@ -1,0 +1,624 @@
+{
+  "begin": 1800.0,
+  "finish": 2100.0,
+  "segments": [
+    {
+      "start": 1800.28,
+      "end": 1854.7,
+      "text": "哎呀,这个地方特别讨厌,哎呀,今天我从,等一下,这样来吧,对,这样来吧,啊,今天唯一选出的是这个,啊,周深威,然后呢,还有摩苏科技,还有什么呢,还有一个就是,还有就黄金ETF,黄金ETF,因为黄金我觉得买个股就不好买了,买ETF比较好一点,啊,我们就买这个,",
+      "avg_logprob": -0.157,
+      "no_speech_prob": 0.9683,
+      "review": true
+    },
+    {
+      "start": 1854.7,
+      "end": 1976.11,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1009,
+      "no_speech_prob": 0.9185,
+      "review": true
+    },
+    {
+      "start": 1976.13,
+      "end": 1978.23,
+      "text": "10块钱我就加仓就行了",
+      "avg_logprob": -0.0918,
+      "no_speech_prob": 0.9868,
+      "review": true
+    },
+    {
+      "start": 1978.23,
+      "end": 1979.75,
+      "text": "然后填个限价单",
+      "avg_logprob": -0.0918,
+      "no_speech_prob": 0.9868,
+      "review": true
+    },
+    {
+      "start": 1979.75,
+      "end": 1981.09,
+      "text": "它要跌到这儿",
+      "avg_logprob": -0.0918,
+      "no_speech_prob": 0.9868,
+      "review": true
+    },
+    {
+      "start": 1981.09,
+      "end": 1981.63,
+      "text": "我就加仓",
+      "avg_logprob": -0.0918,
+      "no_speech_prob": 0.9868,
+      "review": true
+    },
+    {
+      "start": 1981.63,
+      "end": 1982.87,
+      "text": "再跌到这儿继续加仓",
+      "avg_logprob": -0.0918,
+      "no_speech_prob": 0.9868,
+      "review": true
+    },
+    {
+      "start": 1982.87,
+      "end": 1986.21,
+      "text": "我相信1、2、3",
+      "avg_logprob": -0.0918,
+      "no_speech_prob": 0.9868,
+      "review": true
+    },
+    {
+      "start": 1986.21,
+      "end": 1987.61,
+      "text": "而且乘倍数买",
+      "avg_logprob": -0.0918,
+      "no_speech_prob": 0.9868,
+      "review": true
+    },
+    {
+      "start": 1987.61,
+      "end": 1988.59,
+      "text": "那比如说你这个地方",
+      "avg_logprob": -0.0918,
+      "no_speech_prob": 0.9868,
+      "review": true
+    },
+    {
+      "start": 1988.59,
+      "end": 1989.85,
+      "text": "你如果买个20万",
+      "avg_logprob": -0.0918,
+      "no_speech_prob": 0.9868,
+      "review": true
+    },
+    {
+      "start": 1989.85,
+      "end": 1991.09,
+      "text": "你这个地方可以买40万",
+      "avg_logprob": -0.0918,
+      "no_speech_prob": 0.9868,
+      "review": true
+    },
+    {
+      "start": 1991.09,
+      "end": 1991.73,
+      "text": "比如举个例子",
+      "avg_logprob": -0.0918,
+      "no_speech_prob": 0.9868,
+      "review": true
+    },
+    {
+      "start": 1991.73,
+      "end": 1993.51,
+      "text": "你如果钱比较少",
+      "avg_logprob": -0.0918,
+      "no_speech_prob": 0.9868,
+      "review": true
+    },
+    {
+      "start": 1993.51,
+      "end": 1994.23,
+      "text": "这个地方买2万",
+      "avg_logprob": -0.0918,
+      "no_speech_prob": 0.9868,
+      "review": true
+    },
+    {
+      "start": 1994.23,
+      "end": 1994.71,
+      "text": "这个买4万",
+      "avg_logprob": -0.0918,
+      "no_speech_prob": 0.9868,
+      "review": true
+    },
+    {
+      "start": 1994.71,
+      "end": 1995.19,
+      "text": "都无所谓",
+      "avg_logprob": -0.0918,
+      "no_speech_prob": 0.9868,
+      "review": true
+    },
+    {
+      "start": 1995.19,
+      "end": 1996.07,
+      "text": "就是你要分",
+      "avg_logprob": -0.0918,
+      "no_speech_prob": 0.9868,
+      "review": true
+    },
+    {
+      "start": 1996.07,
+      "end": 1997.73,
+      "text": "就是要那个加仓买",
+      "avg_logprob": -0.0918,
+      "no_speech_prob": 0.9868,
+      "review": true
+    },
+    {
+      "start": 1997.73,
+      "end": 1999.47,
+      "text": "因为黄金这种东西永远都是",
+      "avg_logprob": -0.0918,
+      "no_speech_prob": 0.9868,
+      "review": true
+    },
+    {
+      "start": 1999.47,
+      "end": 2000.57,
+      "text": "它跌到底",
+      "avg_logprob": -0.0918,
+      "no_speech_prob": 0.9868,
+      "review": true
+    },
+    {
+      "start": 2000.57,
+      "end": 2002.25,
+      "text": "它跌到底就一定会起来",
+      "avg_logprob": -0.0918,
+      "no_speech_prob": 0.9868,
+      "review": true
+    },
+    {
+      "start": 2002.25,
+      "end": 2004.65,
+      "text": "比如你买这个地方买50万",
+      "avg_logprob": -0.0918,
+      "no_speech_prob": 0.9868,
+      "review": true
+    },
+    {
+      "start": 2004.65,
+      "end": 2005.47,
+      "text": "你这个地方买100万",
+      "avg_logprob": -0.0918,
+      "no_speech_prob": 0.9868,
+      "review": true
+    },
+    {
+      "start": 2005.47,
+      "end": 2007.17,
+      "text": "这个地方买5万,你这个地方买10万",
+      "avg_logprob": -0.111,
+      "no_speech_prob": 0.4121,
+      "review": false
+    },
+    {
+      "start": 2007.17,
+      "end": 2008.39,
+      "text": "就是你就是",
+      "avg_logprob": -0.111,
+      "no_speech_prob": 0.4121,
+      "review": false
+    },
+    {
+      "start": 2008.39,
+      "end": 2009.67,
+      "text": "首先一句话说完",
+      "avg_logprob": -0.111,
+      "no_speech_prob": 0.4121,
+      "review": false
+    },
+    {
+      "start": 2009.67,
+      "end": 2011.35,
+      "text": "就是我们建仓嘛",
+      "avg_logprob": -0.111,
+      "no_speech_prob": 0.4121,
+      "review": false
+    },
+    {
+      "start": 2011.35,
+      "end": 2013.71,
+      "text": "不是说非要建在完美一个点",
+      "avg_logprob": -0.111,
+      "no_speech_prob": 0.4121,
+      "review": false
+    },
+    {
+      "start": 2013.71,
+      "end": 2015.69,
+      "text": "我们是一个区域",
+      "avg_logprob": -0.111,
+      "no_speech_prob": 0.4121,
+      "review": false
+    },
+    {
+      "start": 2015.69,
+      "end": 2016.93,
+      "text": "这是一个建仓区域",
+      "avg_logprob": -0.111,
+      "no_speech_prob": 0.4121,
+      "review": false
+    },
+    {
+      "start": 2016.93,
+      "end": 2018.39,
+      "text": "分批的建仓区域",
+      "avg_logprob": -0.111,
+      "no_speech_prob": 0.4121,
+      "review": false
+    },
+    {
+      "start": 2018.39,
+      "end": 2020.13,
+      "text": "这个概念一定要理解啊",
+      "avg_logprob": -0.111,
+      "no_speech_prob": 0.4121,
+      "review": false
+    },
+    {
+      "start": 2020.13,
+      "end": 2021.93,
+      "text": "你们如果非要去按一个点的话",
+      "avg_logprob": -0.111,
+      "no_speech_prob": 0.4121,
+      "review": false
+    },
+    {
+      "start": 2021.93,
+      "end": 2022.69,
+      "text": "你会很失败的",
+      "avg_logprob": -0.111,
+      "no_speech_prob": 0.4121,
+      "review": false
+    },
+    {
+      "start": 2022.69,
+      "end": 2023.35,
+      "text": "会很痛苦",
+      "avg_logprob": -0.111,
+      "no_speech_prob": 0.4121,
+      "review": false
+    },
+    {
+      "start": 2023.35,
+      "end": 2024.85,
+      "text": "但是你每次建仓区",
+      "avg_logprob": -0.111,
+      "no_speech_prob": 0.4121,
+      "review": false
+    },
+    {
+      "start": 2024.85,
+      "end": 2025.67,
+      "text": "比如说你看",
+      "avg_logprob": -0.111,
+      "no_speech_prob": 0.4121,
+      "review": false
+    },
+    {
+      "start": 2025.67,
+      "end": 2026.63,
+      "text": "比如说你说你到了",
+      "avg_logprob": -0.111,
+      "no_speech_prob": 0.4121,
+      "review": false
+    },
+    {
+      "start": 2026.63,
+      "end": 2028.33,
+      "text": "这个位置是你的建仓区",
+      "avg_logprob": -0.111,
+      "no_speech_prob": 0.4121,
+      "review": false
+    },
+    {
+      "start": 2028.33,
+      "end": 2030.39,
+      "text": "那你即使你这一天没涨",
+      "avg_logprob": -0.111,
+      "no_speech_prob": 0.4121,
+      "review": false
+    },
+    {
+      "start": 2030.39,
+      "end": 2031.29,
+      "text": "你也无所谓是吧",
+      "avg_logprob": -0.111,
+      "no_speech_prob": 0.4121,
+      "review": false
+    },
+    {
+      "start": 2031.29,
+      "end": 2032.47,
+      "text": "你反复的都可以建仓",
+      "avg_logprob": -0.111,
+      "no_speech_prob": 0.4121,
+      "review": false
+    },
+    {
+      "start": 2032.47,
+      "end": 2034.29,
+      "text": "但是你不要指望它",
+      "avg_logprob": -0.111,
+      "no_speech_prob": 0.4121,
+      "review": false
+    },
+    {
+      "start": 2034.29,
+      "end": 2036.95,
+      "text": "就是说你买了就百分之百要涨",
+      "avg_logprob": -0.1445,
+      "no_speech_prob": 0.149,
+      "review": false
+    },
+    {
+      "start": 2036.95,
+      "end": 2037.59,
+      "text": "这个不太可能",
+      "avg_logprob": -0.1445,
+      "no_speech_prob": 0.149,
+      "review": false
+    },
+    {
+      "start": 2037.59,
+      "end": 2042.95,
+      "text": "好我们看看这个",
+      "avg_logprob": -0.1445,
+      "no_speech_prob": 0.149,
+      "review": false
+    },
+    {
+      "start": 2042.95,
+      "end": 2045.95,
+      "text": "我现在在回答问题",
+      "avg_logprob": -0.1445,
+      "no_speech_prob": 0.149,
+      "review": false
+    },
+    {
+      "start": 2045.95,
+      "end": 2047.15,
+      "text": "我现在开始回答问题了",
+      "avg_logprob": -0.1445,
+      "no_speech_prob": 0.149,
+      "review": false
+    },
+    {
+      "start": 2047.15,
+      "end": 2048.65,
+      "text": "我们回答也不太多",
+      "avg_logprob": -0.1445,
+      "no_speech_prob": 0.149,
+      "review": false
+    },
+    {
+      "start": 2048.65,
+      "end": 2049.69,
+      "text": "反正今天正好人少",
+      "avg_logprob": -0.1445,
+      "no_speech_prob": 0.149,
+      "review": false
+    },
+    {
+      "start": 2049.69,
+      "end": 2051.31,
+      "text": "人多了就没法回答了",
+      "avg_logprob": -0.1445,
+      "no_speech_prob": 0.149,
+      "review": false
+    },
+    {
+      "start": 2051.31,
+      "end": 2052.09,
+      "text": "300724",
+      "avg_logprob": -0.1445,
+      "no_speech_prob": 0.149,
+      "review": false
+    },
+    {
+      "start": 2052.09,
+      "end": 2052.81,
+      "text": "我看一下",
+      "avg_logprob": -0.1445,
+      "no_speech_prob": 0.149,
+      "review": false
+    },
+    {
+      "start": 2052.81,
+      "end": 2060.36,
+      "text": "他今天有什么题材吗",
+      "avg_logprob": -0.1445,
+      "no_speech_prob": 0.149,
+      "review": false
+    },
+    {
+      "start": 2060.36,
+      "end": 2061.76,
+      "text": "这是一个优质股",
+      "avg_logprob": -0.1445,
+      "no_speech_prob": 0.149,
+      "review": false
+    },
+    {
+      "start": 2061.76,
+      "end": 2063.52,
+      "text": "我们说过优质股低息就可以了",
+      "avg_logprob": -0.1445,
+      "no_speech_prob": 0.149,
+      "review": false
+    },
+    {
+      "start": 2063.52,
+      "end": 2064.18,
+      "text": "是吧",
+      "avg_logprob": -0.1445,
+      "no_speech_prob": 0.149,
+      "review": false
+    },
+    {
+      "start": 2064.18,
+      "end": 2064.64,
+      "text": "优质股",
+      "avg_logprob": -0.1445,
+      "no_speech_prob": 0.149,
+      "review": false
+    },
+    {
+      "start": 2064.64,
+      "end": 2065.28,
+      "text": "他说优质股",
+      "avg_logprob": -0.1445,
+      "no_speech_prob": 0.149,
+      "review": false
+    },
+    {
+      "start": 2065.28,
+      "end": 2066.42,
+      "text": "这种优质股低息",
+      "avg_logprob": -0.1445,
+      "no_speech_prob": 0.149,
+      "review": false
+    },
+    {
+      "start": 2066.42,
+      "end": 2068.0,
+      "text": "还行吧",
+      "avg_logprob": -0.1445,
+      "no_speech_prob": 0.149,
+      "review": false
+    },
+    {
+      "start": 2068.0,
+      "end": 2071.32,
+      "text": "但是我也不知道其他的它有什么好处啊",
+      "avg_logprob": -0.1208,
+      "no_speech_prob": 0.3899,
+      "review": false
+    },
+    {
+      "start": 2071.32,
+      "end": 2073.04,
+      "text": "你如果喜欢它的话我觉得还可以",
+      "avg_logprob": -0.1208,
+      "no_speech_prob": 0.3899,
+      "review": false
+    },
+    {
+      "start": 2073.04,
+      "end": 2074.68,
+      "text": "今天是PCB概念嘛",
+      "avg_logprob": -0.1208,
+      "no_speech_prob": 0.3899,
+      "review": false
+    },
+    {
+      "start": 2074.68,
+      "end": 2077.12,
+      "text": "PCB概念反复炒一直在炒",
+      "avg_logprob": -0.1208,
+      "no_speech_prob": 0.3899,
+      "review": false
+    },
+    {
+      "start": 2077.12,
+      "end": 2079.46,
+      "text": "我觉得不算特别的完美",
+      "avg_logprob": -0.1208,
+      "no_speech_prob": 0.3899,
+      "review": false
+    },
+    {
+      "start": 2079.46,
+      "end": 2081.3,
+      "text": "但是肯定也还是符合了",
+      "avg_logprob": -0.1208,
+      "no_speech_prob": 0.3899,
+      "review": false
+    },
+    {
+      "start": 2081.3,
+      "end": 2083.04,
+      "text": "你说也算是一个方突破了",
+      "avg_logprob": -0.1208,
+      "no_speech_prob": 0.3899,
+      "review": false
+    },
+    {
+      "start": 2083.04,
+      "end": 2085.72,
+      "text": "但是我的问题我觉得为什么不完美呢",
+      "avg_logprob": -0.1208,
+      "no_speech_prob": 0.3899,
+      "review": false
+    },
+    {
+      "start": 2085.72,
+      "end": 2087.56,
+      "text": "它离这个压力位有点近",
+      "avg_logprob": -0.1208,
+      "no_speech_prob": 0.3899,
+      "review": false
+    },
+    {
+      "start": 2087.56,
+      "end": 2090.44,
+      "text": "有点近压力位有点近太近了",
+      "avg_logprob": -0.1208,
+      "no_speech_prob": 0.3899,
+      "review": false
+    },
+    {
+      "start": 2090.44,
+      "end": 2091.26,
+      "text": "马上就碰到了",
+      "avg_logprob": -0.1208,
+      "no_speech_prob": 0.3899,
+      "review": false
+    },
+    {
+      "start": 2091.26,
+      "end": 2093.24,
+      "text": "但是这个我还是可以做的",
+      "avg_logprob": -0.1208,
+      "no_speech_prob": 0.3899,
+      "review": false
+    },
+    {
+      "start": 2093.24,
+      "end": 2095.24,
+      "text": "你想做的话我可能就不做了",
+      "avg_logprob": -0.1208,
+      "no_speech_prob": 0.3899,
+      "review": false
+    },
+    {
+      "start": 2095.24,
+      "end": 2096.62,
+      "text": "我就算了啊",
+      "avg_logprob": -0.1208,
+      "no_speech_prob": 0.3899,
+      "review": false
+    },
+    {
+      "start": 2096.62,
+      "end": 2099.14,
+      "text": "我可能觉得像像比如像这些位置可能会更好一点",
+      "avg_logprob": -0.1357,
+      "no_speech_prob": 0.9712,
+      "review": true
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 17.47
+}

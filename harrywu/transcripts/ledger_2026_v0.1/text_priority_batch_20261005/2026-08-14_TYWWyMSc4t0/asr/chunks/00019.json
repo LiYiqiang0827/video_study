@@ -1,0 +1,320 @@
+{
+  "begin": 5700.0,
+  "finish": 6000.0,
+  "segments": [
+    {
+      "start": 5698.0,
+      "end": 5741.35,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1117,
+      "no_speech_prob": 0.9653,
+      "review": true
+    },
+    {
+      "start": 5741.37,
+      "end": 5778.96,
+      "text": "中文字幕志愿者 李宗盛",
+      "avg_logprob": -0.3626,
+      "no_speech_prob": 0.1842,
+      "review": false
+    },
+    {
+      "start": 5778.98,
+      "end": 5781.32,
+      "text": "我觉得短时间砸下去的可能性也非常小",
+      "avg_logprob": -0.1734,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5781.32,
+      "end": 5784.98,
+      "text": "但是它真砸下去了我还是要砍仓的",
+      "avg_logprob": -0.1734,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5784.98,
+      "end": 5787.24,
+      "text": "我考拉就不对了 太不对了",
+      "avg_logprob": -0.1734,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5787.24,
+      "end": 5788.94,
+      "text": "但是我觉得可能性很小",
+      "avg_logprob": -0.1734,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5788.94,
+      "end": 5795.34,
+      "text": "没有啥了吧 没有啥我就准备下了",
+      "avg_logprob": -0.1734,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5795.34,
+      "end": 5797.0,
+      "text": "今天根本就没有啥",
+      "avg_logprob": -0.1734,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5797.0,
+      "end": 5798.98,
+      "text": "300634 我看一下",
+      "avg_logprob": -0.1734,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5798.98,
+      "end": 5810.4,
+      "text": "采讯 机器人概念",
+      "avg_logprob": -0.1734,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5810.4,
+      "end": 5813.82,
+      "text": "这也不好啊 这肯定不好啊",
+      "avg_logprob": -0.1734,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5813.82,
+      "end": 5815.12,
+      "text": "好不好 这也不好",
+      "avg_logprob": -0.1734,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5815.12,
+      "end": 5818.34,
+      "text": "这些有啥好的呀 我也不知道你为什么买它",
+      "avg_logprob": -0.1734,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5818.34,
+      "end": 5850.5,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1206,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5850.52,
+      "end": 5855.08,
+      "text": "中粮是因为摆上期货",
+      "avg_logprob": -0.2212,
+      "no_speech_prob": 0.0663,
+      "review": false
+    },
+    {
+      "start": 5855.08,
+      "end": 5857.01,
+      "text": "是啊",
+      "avg_logprob": -0.2212,
+      "no_speech_prob": 0.0663,
+      "review": false
+    },
+    {
+      "start": 5857.01,
+      "end": 5859.43,
+      "text": "反正以后也不买这种期货的了",
+      "avg_logprob": -0.2212,
+      "no_speech_prob": 0.0663,
+      "review": false
+    },
+    {
+      "start": 5859.43,
+      "end": 5861.17,
+      "text": "有期货的也没有啥意义",
+      "avg_logprob": -0.2212,
+      "no_speech_prob": 0.0663,
+      "review": false
+    },
+    {
+      "start": 5861.17,
+      "end": 5862.45,
+      "text": "老是跟着期货跳",
+      "avg_logprob": -0.2212,
+      "no_speech_prob": 0.0663,
+      "review": false
+    },
+    {
+      "start": 5862.45,
+      "end": 5865.07,
+      "text": "也就很烦的",
+      "avg_logprob": -0.2212,
+      "no_speech_prob": 0.0663,
+      "review": false
+    },
+    {
+      "start": 5865.07,
+      "end": 5870.62,
+      "text": "还有啥问题没有",
+      "avg_logprob": -0.2212,
+      "no_speech_prob": 0.0663,
+      "review": false
+    },
+    {
+      "start": 5870.62,
+      "end": 5871.86,
+      "text": "咱们可以聊聊天",
+      "avg_logprob": -0.2212,
+      "no_speech_prob": 0.0663,
+      "review": false
+    },
+    {
+      "start": 5871.86,
+      "end": 5872.82,
+      "text": "还有其他东西聊聊天",
+      "avg_logprob": -0.2212,
+      "no_speech_prob": 0.0663,
+      "review": false
+    },
+    {
+      "start": 5872.82,
+      "end": 5873.96,
+      "text": "我们就下了",
+      "avg_logprob": -0.2212,
+      "no_speech_prob": 0.0663,
+      "review": false
+    },
+    {
+      "start": 5881.3,
+      "end": 5882.56,
+      "text": "这个会员",
+      "avg_logprob": -0.2212,
+      "no_speech_prob": 0.0663,
+      "review": false
+    },
+    {
+      "start": 5882.56,
+      "end": 5883.42,
+      "text": "Rafa",
+      "avg_logprob": -0.2212,
+      "no_speech_prob": 0.0663,
+      "review": false
+    },
+    {
+      "start": 5883.42,
+      "end": 5884.16,
+      "text": "不是",
+      "avg_logprob": -0.2212,
+      "no_speech_prob": 0.0663,
+      "review": false
+    },
+    {
+      "start": 5884.16,
+      "end": 5884.86,
+      "text": "Rafa",
+      "avg_logprob": -0.2212,
+      "no_speech_prob": 0.0663,
+      "review": false
+    },
+    {
+      "start": 5884.86,
+      "end": 5886.0,
+      "text": "这个会员",
+      "avg_logprob": -0.2212,
+      "no_speech_prob": 0.0663,
+      "review": false
+    },
+    {
+      "start": 5886.0,
+      "end": 5889.2,
+      "text": "他还给我发微信",
+      "avg_logprob": -0.2212,
+      "no_speech_prob": 0.0663,
+      "review": false
+    },
+    {
+      "start": 5889.2,
+      "end": 5890.14,
+      "text": "微信都被封了",
+      "avg_logprob": -0.2212,
+      "no_speech_prob": 0.0663,
+      "review": false
+    },
+    {
+      "start": 5890.14,
+      "end": 5891.46,
+      "text": "没有办法",
+      "avg_logprob": -0.2212,
+      "no_speech_prob": 0.0663,
+      "review": false
+    },
+    {
+      "start": 5891.46,
+      "end": 5918.47,
+      "text": "克罗华春回走完了",
+      "avg_logprob": -0.2212,
+      "no_speech_prob": 0.0663,
+      "review": false
+    },
+    {
+      "start": 5918.47,
+      "end": 5960.46,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0993,
+      "no_speech_prob": 0.9961,
+      "review": true
+    },
+    {
+      "start": 5960.48,
+      "end": 5990.46,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1145,
+      "no_speech_prob": 0.9541,
+      "review": true
+    },
+    {
+      "start": 5990.48,
+      "end": 5992.4,
+      "text": "就会大涨可能性很小",
+      "avg_logprob": -0.2823,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5992.4,
+      "end": 5996.77,
+      "text": "所以说就是",
+      "avg_logprob": -0.2823,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5996.77,
+      "end": 5999.09,
+      "text": "这是为什么说一定要位置很好",
+      "avg_logprob": -0.2823,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5999.09,
+      "end": 6000.37,
+      "text": "所以你看我",
+      "avg_logprob": -0.2823,
+      "no_speech_prob": 0.0,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 14.86
+}

@@ -1,0 +1,189 @@
+{
+  "stream_id": "dMgT48e5NQo",
+  "region": [
+    975,
+    18,
+    1130,
+    40
+  ],
+  "upscale": 3,
+  "scope": "Main Tongdaxin title only; not whole-frame OCR",
+  "limitation": "Other layouts, prices, holding tables and clocks require separate OCR/review. No stock identity matching or event classification is done.",
+  "frames": [
+    {
+      "time": 600.0,
+      "frame": "D:\\YuncongVideoAnalysis\\ledger_2026_v0.1\\quality_frames\\dMgT48e5NQo\\frame_00000_000600000.jpg",
+      "frame_sha256": "2df30e5e91482f1c6a08204a8043c887b26ed0307736df60197efc89f792eee2",
+      "ocr": [
+        {
+          "text": "正在讲",
+          "confidence": 0.729247530301412,
+          "box_original_pixels": [
+            [
+              1030.0,
+              31.33
+            ],
+            [
+              1054.0,
+              32.33
+            ],
+            [
+              1053.67,
+              39.67
+            ],
+            [
+              1029.67,
+              39.67
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "time": 1800.0,
+      "frame": "D:\\YuncongVideoAnalysis\\ledger_2026_v0.1\\quality_frames\\dMgT48e5NQo\\frame_00001_001800000.jpg",
+      "frame_sha256": "69b9c6d334a91ccd16ae4a186ac20531055620ffc110ded269843bee5d18c9dc",
+      "ocr": [
+        {
+          "text": "600230",
+          "confidence": 0.9939780533313751,
+          "box_original_pixels": [
+            [
+              995.67,
+              21.33
+            ],
+            [
+              1031.67,
+              21.33
+            ],
+            [
+              1031.67,
+              33.33
+            ],
+            [
+              995.67,
+              33.33
+            ]
+          ]
+        },
+        {
+          "text": "沧",
+          "confidence": 0.9993507266044617,
+          "box_original_pixels": [
+            [
+              1029.33,
+              19.67
+            ],
+            [
+              1045.67,
+              20.33
+            ],
+            [
+              1045.0,
+              34.33
+            ],
+            [
+              1028.67,
+              33.67
+            ]
+          ]
+        },
+        {
+          "text": "沧州大化",
+          "confidence": 0.9141335487365723,
+          "box_original_pixels": [
+            [
+              1036.33,
+              18.67
+            ],
+            [
+              1078.33,
+              18.33
+            ],
+            [
+              1078.33,
+              36.33
+            ],
+            [
+              1036.67,
+              36.33
+            ]
+          ]
+        },
+        {
+          "text": "R",
+          "confidence": 0.9663293957710266,
+          "box_original_pixels": [
+            [
+              990.0,
+              22.33
+            ],
+            [
+              994.67,
+              22.0
+            ],
+            [
+              994.67,
+              27.33
+            ],
+            [
+              990.0,
+              27.33
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "time": 3600.0,
+      "frame": "D:\\YuncongVideoAnalysis\\ledger_2026_v0.1\\quality_frames\\dMgT48e5NQo\\frame_00002_003600000.jpg",
+      "frame_sha256": "1bed5e982b0d26ba735e490ba7a370a0fd6a449a772012abb294f83bcd672c1a",
+      "ocr": [
+        {
+          "text": "成都路桥",
+          "confidence": 0.9977889955043793,
+          "box_original_pixels": [
+            [
+              1028.33,
+              18.33
+            ],
+            [
+              1078.0,
+              18.33
+            ],
+            [
+              1078.0,
+              36.33
+            ],
+            [
+              1028.33,
+              36.33
+            ]
+          ]
+        },
+        {
+          "text": "802628",
+          "confidence": 0.9828627606232961,
+          "box_original_pixels": [
+            [
+              995.67,
+              21.67
+            ],
+            [
+              1031.67,
+              21.67
+            ],
+            [
+              1031.67,
+              33.0
+            ],
+            [
+              995.67,
+              33.0
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

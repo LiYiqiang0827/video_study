@@ -1,0 +1,600 @@
+{
+  "begin": 6000.0,
+  "finish": 6300.0,
+  "segments": [
+    {
+      "start": 6000.12,
+      "end": 6005.56,
+      "text": "这个不买",
+      "avg_logprob": -0.1816,
+      "no_speech_prob": 0.0838,
+      "review": false
+    },
+    {
+      "start": 6005.56,
+      "end": 6007.06,
+      "text": "这些不知道要怎么拉",
+      "avg_logprob": -0.1816,
+      "no_speech_prob": 0.0838,
+      "review": false
+    },
+    {
+      "start": 6007.06,
+      "end": 6012.68,
+      "text": "茅台、比亚迪、比亚迪、这些汽车板块、新易盛",
+      "avg_logprob": -0.1816,
+      "no_speech_prob": 0.0838,
+      "review": false
+    },
+    {
+      "start": 6012.68,
+      "end": 6015.96,
+      "text": "你看还是资金还是前面资金进来最多的",
+      "avg_logprob": -0.1816,
+      "no_speech_prob": 0.0838,
+      "review": false
+    },
+    {
+      "start": 6015.96,
+      "end": 6017.46,
+      "text": "还是这个",
+      "avg_logprob": -0.1816,
+      "no_speech_prob": 0.0838,
+      "review": false
+    },
+    {
+      "start": 6017.46,
+      "end": 6019.69,
+      "text": "还是半导体",
+      "avg_logprob": -0.1816,
+      "no_speech_prob": 0.0838,
+      "review": false
+    },
+    {
+      "start": 6019.69,
+      "end": 6021.43,
+      "text": "所以我觉得还是有希望吧半导体",
+      "avg_logprob": -0.1816,
+      "no_speech_prob": 0.0838,
+      "review": false
+    },
+    {
+      "start": 6021.43,
+      "end": 6023.17,
+      "text": "传播在那传播",
+      "avg_logprob": -0.1816,
+      "no_speech_prob": 0.0838,
+      "review": false
+    },
+    {
+      "start": 6023.17,
+      "end": 6025.63,
+      "text": "传播这些也没有啥意义啊",
+      "avg_logprob": -0.1816,
+      "no_speech_prob": 0.0838,
+      "review": false
+    },
+    {
+      "start": 6025.63,
+      "end": 6027.95,
+      "text": "算了不做这些东西",
+      "avg_logprob": -0.1816,
+      "no_speech_prob": 0.0838,
+      "review": false
+    },
+    {
+      "start": 6027.95,
+      "end": 6029.31,
+      "text": "宁德时代也不做",
+      "avg_logprob": -0.1816,
+      "no_speech_prob": 0.0838,
+      "review": false
+    },
+    {
+      "start": 6029.31,
+      "end": 6035.79,
+      "text": "咸丰、复通版、PCB",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.1594,
+      "review": false
+    },
+    {
+      "start": 6035.79,
+      "end": 6039.78,
+      "text": "你看也还是和半导体相关的",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.1594,
+      "review": false
+    },
+    {
+      "start": 6039.78,
+      "end": 6043.14,
+      "text": "他要是前几天走成这个形态我肯定要买",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.1594,
+      "review": false
+    },
+    {
+      "start": 6043.14,
+      "end": 6045.4,
+      "text": "他现在走这个形态我也不关",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.1594,
+      "review": false
+    },
+    {
+      "start": 6045.4,
+      "end": 6047.03,
+      "text": "医药",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.1594,
+      "review": false
+    },
+    {
+      "start": 6047.03,
+      "end": 6048.39,
+      "text": "你看还是",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.1594,
+      "review": false
+    },
+    {
+      "start": 6048.39,
+      "end": 6051.08,
+      "text": "整体上来说我觉得",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.1594,
+      "review": false
+    },
+    {
+      "start": 6051.08,
+      "end": 6053.18,
+      "text": "还是",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.1594,
+      "review": false
+    },
+    {
+      "start": 6053.18,
+      "end": 6054.76,
+      "text": "就是说",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.1594,
+      "review": false
+    },
+    {
+      "start": 6054.76,
+      "end": 6057.2,
+      "text": "不会放弃希望吧",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.1594,
+      "review": false
+    },
+    {
+      "start": 6057.2,
+      "end": 6059.02,
+      "text": "下午有可能半导体还会拉一拉",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.1594,
+      "review": false
+    },
+    {
+      "start": 6059.02,
+      "end": 6061.68,
+      "text": "东方饮料算了我不进消费",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.1594,
+      "review": false
+    },
+    {
+      "start": 6061.68,
+      "end": 6064.08,
+      "text": "虽然今天消费有点恢复",
+      "avg_logprob": -0.1653,
+      "no_speech_prob": 0.1594,
+      "review": false
+    },
+    {
+      "start": 6064.08,
+      "end": 6069.0,
+      "text": "你看小商品城啊,东方饮料啊,他们都有资金在进,但是我不相信消费",
+      "avg_logprob": -0.1334,
+      "no_speech_prob": 0.1537,
+      "review": false
+    },
+    {
+      "start": 6069.0,
+      "end": 6085.14,
+      "text": "格力、化工,其他的都没有什么明显的",
+      "avg_logprob": -0.1334,
+      "no_speech_prob": 0.1537,
+      "review": false
+    },
+    {
+      "start": 6085.14,
+      "end": 6089.66,
+      "text": "其他的你看,也都没有什么明显的资金在进的",
+      "avg_logprob": -0.1334,
+      "no_speech_prob": 0.1537,
+      "review": false
+    },
+    {
+      "start": 6089.66,
+      "end": 6098.98,
+      "text": "整体来说这种资金进的最近,一样有两只资金,但是不是整体资金进的",
+      "avg_logprob": -0.1334,
+      "no_speech_prob": 0.1537,
+      "review": false
+    },
+    {
+      "start": 6098.98,
+      "end": 6105.54,
+      "text": "汽车明显有一点点反弹,不管是北汽南股啊",
+      "avg_logprob": -0.1334,
+      "no_speech_prob": 0.1537,
+      "review": false
+    },
+    {
+      "start": 6105.54,
+      "end": 6108.5,
+      "text": "你看还是赛迪斯啊",
+      "avg_logprob": -0.1502,
+      "no_speech_prob": 0.1913,
+      "review": false
+    },
+    {
+      "start": 6108.5,
+      "end": 6110.4,
+      "text": "还是那个汽车都是有点近的",
+      "avg_logprob": -0.1502,
+      "no_speech_prob": 0.1913,
+      "review": false
+    },
+    {
+      "start": 6110.4,
+      "end": 6111.48,
+      "text": "但是我不喜欢汽车",
+      "avg_logprob": -0.1502,
+      "no_speech_prob": 0.1913,
+      "review": false
+    },
+    {
+      "start": 6111.48,
+      "end": 6114.06,
+      "text": "我觉得汽车很难乘气候",
+      "avg_logprob": -0.1502,
+      "no_speech_prob": 0.1913,
+      "review": false
+    },
+    {
+      "start": 6114.06,
+      "end": 6118.08,
+      "text": "中国中缅刚才评价了",
+      "avg_logprob": -0.1502,
+      "no_speech_prob": 0.1913,
+      "review": false
+    },
+    {
+      "start": 6118.08,
+      "end": 6119.8,
+      "text": "我说其实一直都有资金在进",
+      "avg_logprob": -0.1502,
+      "no_speech_prob": 0.1913,
+      "review": false
+    },
+    {
+      "start": 6119.8,
+      "end": 6120.74,
+      "text": "今天是",
+      "avg_logprob": -0.1502,
+      "no_speech_prob": 0.1913,
+      "review": false
+    },
+    {
+      "start": 6120.74,
+      "end": 6126.92,
+      "text": "今天基本上没有啥大希望",
+      "avg_logprob": -0.1502,
+      "no_speech_prob": 0.1913,
+      "review": false
+    },
+    {
+      "start": 6126.92,
+      "end": 6129.28,
+      "text": "我觉得但是今天估计也不会大跌了",
+      "avg_logprob": -0.1502,
+      "no_speech_prob": 0.1913,
+      "review": false
+    },
+    {
+      "start": 6129.28,
+      "end": 6131.54,
+      "text": "不会像昨天那样子那么疯了",
+      "avg_logprob": -0.1502,
+      "no_speech_prob": 0.1913,
+      "review": false
+    },
+    {
+      "start": 6131.54,
+      "end": 6134.05,
+      "text": "我估计应该可能性比较小",
+      "avg_logprob": -0.1502,
+      "no_speech_prob": 0.1913,
+      "review": false
+    },
+    {
+      "start": 6134.05,
+      "end": 6138.41,
+      "text": "现在应该比较小了",
+      "avg_logprob": -0.1502,
+      "no_speech_prob": 0.1913,
+      "review": false
+    },
+    {
+      "start": 6138.41,
+      "end": 6152.55,
+      "text": "是沃尔活财这种莫名其妙的低跌一半没了",
+      "avg_logprob": -0.1551,
+      "no_speech_prob": 0.8794,
+      "review": true
+    },
+    {
+      "start": 6152.55,
+      "end": 6153.05,
+      "text": "真的是",
+      "avg_logprob": -0.1551,
+      "no_speech_prob": 0.8794,
+      "review": true
+    },
+    {
+      "start": 6153.05,
+      "end": 6154.91,
+      "text": "这个市场",
+      "avg_logprob": -0.1551,
+      "no_speech_prob": 0.8794,
+      "review": true
+    },
+    {
+      "start": 6154.91,
+      "end": 6155.19,
+      "text": "哎",
+      "avg_logprob": -0.1551,
+      "no_speech_prob": 0.8794,
+      "review": true
+    },
+    {
+      "start": 6155.19,
+      "end": 6155.77,
+      "text": "真的是",
+      "avg_logprob": -0.1551,
+      "no_speech_prob": 0.8794,
+      "review": true
+    },
+    {
+      "start": 6155.77,
+      "end": 6157.72,
+      "text": "难做",
+      "avg_logprob": -0.1551,
+      "no_speech_prob": 0.8794,
+      "review": true
+    },
+    {
+      "start": 6157.72,
+      "end": 6165.79,
+      "text": "没有啥",
+      "avg_logprob": -0.1551,
+      "no_speech_prob": 0.8794,
+      "review": true
+    },
+    {
+      "start": 6165.79,
+      "end": 6166.93,
+      "text": "今天没有啥意思",
+      "avg_logprob": -0.1551,
+      "no_speech_prob": 0.8794,
+      "review": true
+    },
+    {
+      "start": 6166.93,
+      "end": 6168.09,
+      "text": "咱们就随便看看板",
+      "avg_logprob": -0.1551,
+      "no_speech_prob": 0.8794,
+      "review": true
+    },
+    {
+      "start": 6168.09,
+      "end": 6168.69,
+      "text": "今天就没有",
+      "avg_logprob": -0.1551,
+      "no_speech_prob": 0.8794,
+      "review": true
+    },
+    {
+      "start": 6168.69,
+      "end": 6170.27,
+      "text": "基本上也没有",
+      "avg_logprob": -0.1551,
+      "no_speech_prob": 0.8794,
+      "review": true
+    },
+    {
+      "start": 6170.27,
+      "end": 6172.75,
+      "text": "资金也比较乱",
+      "avg_logprob": -0.1551,
+      "no_speech_prob": 0.8794,
+      "review": true
+    },
+    {
+      "start": 6172.75,
+      "end": 6175.59,
+      "text": "也没有明确的一个赛道啊",
+      "avg_logprob": -0.1551,
+      "no_speech_prob": 0.8794,
+      "review": true
+    },
+    {
+      "start": 6175.59,
+      "end": 6177.43,
+      "text": "没有明确的一个板块啊",
+      "avg_logprob": -0.1551,
+      "no_speech_prob": 0.8794,
+      "review": true
+    },
+    {
+      "start": 6177.43,
+      "end": 6179.11,
+      "text": "整体资金进的也比较乱",
+      "avg_logprob": -0.1551,
+      "no_speech_prob": 0.8794,
+      "review": true
+    },
+    {
+      "start": 6179.11,
+      "end": 6187.86,
+      "text": "反正还是为稳为主吧",
+      "avg_logprob": -0.1551,
+      "no_speech_prob": 0.8794,
+      "review": true
+    },
+    {
+      "start": 6187.86,
+      "end": 6189.1,
+      "text": "你看既然拉白酒",
+      "avg_logprob": -0.1551,
+      "no_speech_prob": 0.8794,
+      "review": true
+    },
+    {
+      "start": 6189.1,
+      "end": 6190.44,
+      "text": "就证明还是想稳一下",
+      "avg_logprob": -0.1551,
+      "no_speech_prob": 0.8794,
+      "review": true
+    },
+    {
+      "start": 6190.44,
+      "end": 6192.46,
+      "text": "不要把指数跌得太惨",
+      "avg_logprob": -0.1551,
+      "no_speech_prob": 0.8794,
+      "review": true
+    },
+    {
+      "start": 6192.46,
+      "end": 6229.83,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0863,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 6229.85,
+      "end": 6233.71,
+      "text": "好那就没有啥了我们就随便看看盘",
+      "avg_logprob": -0.1885,
+      "no_speech_prob": 0.5093,
+      "review": true
+    },
+    {
+      "start": 6233.71,
+      "end": 6237.41,
+      "text": "没有啥了",
+      "avg_logprob": -0.1885,
+      "no_speech_prob": 0.5093,
+      "review": true
+    },
+    {
+      "start": 6237.41,
+      "end": 6239.05,
+      "text": "月底会出现消费政策",
+      "avg_logprob": -0.1885,
+      "no_speech_prob": 0.5093,
+      "review": true
+    },
+    {
+      "start": 6239.05,
+      "end": 6240.29,
+      "text": "难怪",
+      "avg_logprob": -0.1885,
+      "no_speech_prob": 0.5093,
+      "review": true
+    },
+    {
+      "start": 6240.29,
+      "end": 6242.31,
+      "text": "那我也不看了反正",
+      "avg_logprob": -0.1885,
+      "no_speech_prob": 0.5093,
+      "review": true
+    },
+    {
+      "start": 6242.31,
+      "end": 6245.71,
+      "text": "我也不想做消费",
+      "avg_logprob": -0.1885,
+      "no_speech_prob": 0.5093,
+      "review": true
+    },
+    {
+      "start": 6245.71,
+      "end": 6253.39,
+      "text": "腾讯阿里巴巴",
+      "avg_logprob": -0.1885,
+      "no_speech_prob": 0.5093,
+      "review": true
+    },
+    {
+      "start": 6253.39,
+      "end": 6275.07,
+      "text": "腾讯阿里巴巴",
+      "avg_logprob": -0.1885,
+      "no_speech_prob": 0.5093,
+      "review": true
+    },
+    {
+      "start": 6275.07,
+      "end": 6280.38,
+      "text": "腾讯嘛",
+      "avg_logprob": -0.1885,
+      "no_speech_prob": 0.5093,
+      "review": true
+    },
+    {
+      "start": 6280.38,
+      "end": 6282.8,
+      "text": "前几天",
+      "avg_logprob": -0.1885,
+      "no_speech_prob": 0.5093,
+      "review": true
+    },
+    {
+      "start": 6282.8,
+      "end": 6286.46,
+      "text": "反正这个盘整体我觉得还行",
+      "avg_logprob": -0.1885,
+      "no_speech_prob": 0.5093,
+      "review": true
+    },
+    {
+      "start": 6286.46,
+      "end": 6288.78,
+      "text": "腾讯整体只要你有耐心还行",
+      "avg_logprob": -0.1885,
+      "no_speech_prob": 0.5093,
+      "review": true
+    },
+    {
+      "start": 6288.78,
+      "end": 6301.98,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1337,
+      "no_speech_prob": 0.2012,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 18.95
+}

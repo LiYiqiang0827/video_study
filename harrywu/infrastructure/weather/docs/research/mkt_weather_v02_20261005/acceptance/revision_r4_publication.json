@@ -1,0 +1,13 @@
+{
+  "verified_at": "2026-10-07",
+  "implementation_commit": "b7338a62311b4ef30a5148f12e9e9d12d439be74",
+  "target_branch": "MrWu",
+  "remote_ref_after_push": "b7338a62311b4ef30a5148f12e9e9d12d439be74",
+  "repository": "https://github.com/LiYiqiang0827/TradingAgent",
+  "implementation_changed_files": 33,
+  "published_tests": {"weather_cases":82,"weather_subtests":8,"legacy_f1_cases":37},
+  "source_inputs_calibration_parameters_unchanged": true,
+  "final_metadata_commit": "This receipt is committed after the verified implementation; exact final HEAD and cloud archive receipt are stored in the local R4 backup manifest to avoid self-referential hashes",
+  "cloud_destination": "https://drive.google.com/drive/folders/1hxzMaaVvUjZihATM9EDsO5tuhiZsqs43",
+  "cloud_upload_receipt": "C:/Project Rocket/artifacts/speculation_sentiment/mkt_weather_cloud_backup_20261005/revision_r4/CLOUD_UPLOAD_RECEIPT_R4.json"
+}

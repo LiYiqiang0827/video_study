@@ -1,0 +1,424 @@
+{
+  "begin": 0.0,
+  "finish": 300.0,
+  "segments": [
+    {
+      "start": 113.0,
+      "end": 145.17,
+      "text": "大家好,大家好,这个是我在外面出差,我在外面出去了,然后正好我在住酒店,这个酒店的信号估计会不会太好,所以今天能不能直播都不知道,好,感谢大家支持,所以这不是什么背景,这是一个酒店,今天直播A股吗?直播啊,等会我们看看,我们看看A股有啥,A股呢,我自己上周,我有两三只掌心股,上周这几只掌心股都买了,",
+      "avg_logprob": -0.1004,
+      "no_speech_prob": 0.9014,
+      "review": true
+    },
+    {
+      "start": 145.17,
+      "end": 147.17,
+      "text": "然后我等会看看效果吧",
+      "avg_logprob": -0.3098,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 147.17,
+      "end": 149.51,
+      "text": "我把这个A股马上打开",
+      "avg_logprob": -0.3098,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 149.51,
+      "end": 153.45,
+      "text": "我们等会儿",
+      "avg_logprob": -0.3098,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 154.15,
+      "end": 157.03,
+      "text": "没有声音吗",
+      "avg_logprob": -0.3098,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 157.03,
+      "end": 158.35,
+      "text": "是你的问题吗",
+      "avg_logprob": -0.3098,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 158.35,
+      "end": 159.05,
+      "text": "你们再看看",
+      "avg_logprob": -0.3098,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 159.05,
+      "end": 162.39,
+      "text": "其他的人有没有声音啊",
+      "avg_logprob": -0.3098,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 162.39,
+      "end": 163.43,
+      "text": "我看看",
+      "avg_logprob": -0.3098,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 163.43,
+      "end": 165.89,
+      "text": "应该有声音啊",
+      "avg_logprob": -0.3098,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 165.89,
+      "end": 167.59,
+      "text": "再看看你们有声音吗",
+      "avg_logprob": -0.3098,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 167.59,
+      "end": 169.55,
+      "text": "你们其他人听见吗",
+      "avg_logprob": -0.3098,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 169.55,
+      "end": 172.34,
+      "text": "我再看看这个地方是怎么回事",
+      "avg_logprob": -0.3098,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 172.34,
+      "end": 176.54,
+      "text": "我这边应该是有声音的",
+      "avg_logprob": -0.3098,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 176.54,
+      "end": 178.41,
+      "text": "喂喂",
+      "avg_logprob": -0.3098,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 178.41,
+      "end": 220.7,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1005,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 220.72,
+      "end": 221.52,
+      "text": "OK",
+      "avg_logprob": -0.1784,
+      "no_speech_prob": 0.0004,
+      "review": false
+    },
+    {
+      "start": 221.52,
+      "end": 224.56,
+      "text": "现在没问题",
+      "avg_logprob": -0.1784,
+      "no_speech_prob": 0.0004,
+      "review": false
+    },
+    {
+      "start": 224.56,
+      "end": 225.52,
+      "text": "现在肯定没问题了",
+      "avg_logprob": -0.1784,
+      "no_speech_prob": 0.0004,
+      "review": false
+    },
+    {
+      "start": 225.52,
+      "end": 227.62,
+      "text": "我把话筒调了一下",
+      "avg_logprob": -0.1784,
+      "no_speech_prob": 0.0004,
+      "review": false
+    },
+    {
+      "start": 227.62,
+      "end": 230.6,
+      "text": "而且正对着嘴应该就没问题了",
+      "avg_logprob": -0.1784,
+      "no_speech_prob": 0.0004,
+      "review": false
+    },
+    {
+      "start": 230.6,
+      "end": 231.94,
+      "text": "现在好很多了",
+      "avg_logprob": -0.1784,
+      "no_speech_prob": 0.0004,
+      "review": false
+    },
+    {
+      "start": 231.94,
+      "end": 232.4,
+      "text": "好很多了",
+      "avg_logprob": -0.1784,
+      "no_speech_prob": 0.0004,
+      "review": false
+    },
+    {
+      "start": 232.4,
+      "end": 233.72,
+      "text": "好很多",
+      "avg_logprob": -0.1784,
+      "no_speech_prob": 0.0004,
+      "review": false
+    },
+    {
+      "start": 233.72,
+      "end": 235.24,
+      "text": "肯定好很多了",
+      "avg_logprob": -0.1784,
+      "no_speech_prob": 0.0004,
+      "review": false
+    },
+    {
+      "start": 235.24,
+      "end": 235.66,
+      "text": "调好",
+      "avg_logprob": -0.1784,
+      "no_speech_prob": 0.0004,
+      "review": false
+    },
+    {
+      "start": 235.66,
+      "end": 243.94,
+      "text": "今天可能会比较性情一点",
+      "avg_logprob": -0.1784,
+      "no_speech_prob": 0.0004,
+      "review": false
+    },
+    {
+      "start": 243.94,
+      "end": 246.54,
+      "text": "因为今天我晚上出去喝了很多酒",
+      "avg_logprob": -0.1784,
+      "no_speech_prob": 0.0004,
+      "review": false
+    },
+    {
+      "start": 246.54,
+      "end": 248.42,
+      "text": "今天比较开心",
+      "avg_logprob": -0.1784,
+      "no_speech_prob": 0.0004,
+      "review": false
+    },
+    {
+      "start": 248.42,
+      "end": 252.02,
+      "text": "今天出去喝了很多酒",
+      "avg_logprob": -0.1784,
+      "no_speech_prob": 0.0004,
+      "review": false
+    },
+    {
+      "start": 252.02,
+      "end": 254.8,
+      "text": "然后回来本来不想做直播的",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.2432,
+      "review": false
+    },
+    {
+      "start": 254.8,
+      "end": 255.66,
+      "text": "后面想不行",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.2432,
+      "review": false
+    },
+    {
+      "start": 255.66,
+      "end": 256.68,
+      "text": "还是得做直播",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.2432,
+      "review": false
+    },
+    {
+      "start": 256.68,
+      "end": 258.02,
+      "text": "咱们说到做到",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.2432,
+      "review": false
+    },
+    {
+      "start": 258.02,
+      "end": 259.12,
+      "text": "必须不能失言",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.2432,
+      "review": false
+    },
+    {
+      "start": 259.12,
+      "end": 259.82,
+      "text": "是吧",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.2432,
+      "review": false
+    },
+    {
+      "start": 259.82,
+      "end": 261.68,
+      "text": "但是没有什么问题",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.2432,
+      "review": false
+    },
+    {
+      "start": 261.68,
+      "end": 263.18,
+      "text": "该我们做",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.2432,
+      "review": false
+    },
+    {
+      "start": 263.18,
+      "end": 264.7,
+      "text": "不管是做交易好",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.2432,
+      "review": false
+    },
+    {
+      "start": 264.7,
+      "end": 266.0,
+      "text": "还是今天做直播要好",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.2432,
+      "review": false
+    },
+    {
+      "start": 266.0,
+      "end": 266.82,
+      "text": "都没有什么问题",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.2432,
+      "review": false
+    },
+    {
+      "start": 266.82,
+      "end": 268.44,
+      "text": "好我们简单的",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.2432,
+      "review": false
+    },
+    {
+      "start": 268.44,
+      "end": 269.42,
+      "text": "我们等会再说吧",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.2432,
+      "review": false
+    },
+    {
+      "start": 269.42,
+      "end": 270.56,
+      "text": "我们先看一看",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.2432,
+      "review": false
+    },
+    {
+      "start": 270.56,
+      "end": 271.3,
+      "text": "声音好小",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.2432,
+      "review": false
+    },
+    {
+      "start": 271.3,
+      "end": 272.18,
+      "text": "还小吗",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.2432,
+      "review": false
+    },
+    {
+      "start": 272.18,
+      "end": 273.42,
+      "text": "不会吧",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.2432,
+      "review": false
+    },
+    {
+      "start": 273.42,
+      "end": 274.32,
+      "text": "现在声音很大了",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.2432,
+      "review": false
+    },
+    {
+      "start": 274.32,
+      "end": 277.14,
+      "text": "我在看看什么地方出问题了",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.2432,
+      "review": false
+    },
+    {
+      "start": 277.14,
+      "end": 279.33,
+      "text": "现在呢",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.2432,
+      "review": false
+    },
+    {
+      "start": 279.33,
+      "end": 281.01,
+      "text": "现在声音还小吗",
+      "avg_logprob": -0.1898,
+      "no_speech_prob": 0.2432,
+      "review": false
+    },
+    {
+      "start": 281.01,
+      "end": 312.61,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0994,
+      "no_speech_prob": 0.0,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 11.59
+}

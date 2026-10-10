@@ -1,0 +1,936 @@
+{
+  "begin": 2100.0,
+  "finish": 2400.0,
+  "segments": [
+    {
+      "start": 2099.92,
+      "end": 2101.42,
+      "text": "日线来看的话",
+      "avg_logprob": -0.1143,
+      "no_speech_prob": 0.8242,
+      "review": true
+    },
+    {
+      "start": 2101.42,
+      "end": 2104.68,
+      "text": "它只要跌破前面的这个位置就是很不好",
+      "avg_logprob": -0.1143,
+      "no_speech_prob": 0.8242,
+      "review": true
+    },
+    {
+      "start": 2104.68,
+      "end": 2106.44,
+      "text": "那肯定是很不好的",
+      "avg_logprob": -0.1143,
+      "no_speech_prob": 0.8242,
+      "review": true
+    },
+    {
+      "start": 2106.44,
+      "end": 2107.9,
+      "text": "日线来看的话",
+      "avg_logprob": -0.1143,
+      "no_speech_prob": 0.8242,
+      "review": true
+    },
+    {
+      "start": 2107.9,
+      "end": 2109.5,
+      "text": "它趋势是没有反转的",
+      "avg_logprob": -0.1143,
+      "no_speech_prob": 0.8242,
+      "review": true
+    },
+    {
+      "start": 2109.5,
+      "end": 2110.56,
+      "text": "它趋势没有反转",
+      "avg_logprob": -0.1143,
+      "no_speech_prob": 0.8242,
+      "review": true
+    },
+    {
+      "start": 2110.56,
+      "end": 2113.78,
+      "text": "那么我们从一小时来看的话",
+      "avg_logprob": -0.1143,
+      "no_speech_prob": 0.8242,
+      "review": true
+    },
+    {
+      "start": 2113.78,
+      "end": 2115.78,
+      "text": "一小时来看的话",
+      "avg_logprob": -0.1143,
+      "no_speech_prob": 0.8242,
+      "review": true
+    },
+    {
+      "start": 2115.78,
+      "end": 2116.58,
+      "text": "这个位置",
+      "avg_logprob": -0.1143,
+      "no_speech_prob": 0.8242,
+      "review": true
+    },
+    {
+      "start": 2116.58,
+      "end": 2118.82,
+      "text": "我当时好像今天在会员里面讲过的",
+      "avg_logprob": -0.1143,
+      "no_speech_prob": 0.8242,
+      "review": true
+    },
+    {
+      "start": 2118.82,
+      "end": 2120.78,
+      "text": "我说如果你从一小时看",
+      "avg_logprob": -0.1143,
+      "no_speech_prob": 0.8242,
+      "review": true
+    },
+    {
+      "start": 2120.78,
+      "end": 2122.2,
+      "text": "这个位置只要有一根阳线",
+      "avg_logprob": -0.1143,
+      "no_speech_prob": 0.8242,
+      "review": true
+    },
+    {
+      "start": 2122.2,
+      "end": 2123.3,
+      "text": "你可以试着去做",
+      "avg_logprob": -0.1143,
+      "no_speech_prob": 0.8242,
+      "review": true
+    },
+    {
+      "start": 2123.3,
+      "end": 2125.56,
+      "text": "你把你的止损放在这儿",
+      "avg_logprob": -0.1143,
+      "no_speech_prob": 0.8242,
+      "review": true
+    },
+    {
+      "start": 2125.56,
+      "end": 2127.86,
+      "text": "所以说不同的级别",
+      "avg_logprob": -0.1143,
+      "no_speech_prob": 0.8242,
+      "review": true
+    },
+    {
+      "start": 2127.86,
+      "end": 2128.74,
+      "text": "是不一样的",
+      "avg_logprob": -0.1826,
+      "no_speech_prob": 0.5889,
+      "review": true
+    },
+    {
+      "start": 2128.74,
+      "end": 2131.24,
+      "text": "不同的级别是不一样的",
+      "avg_logprob": -0.1826,
+      "no_speech_prob": 0.5889,
+      "review": true
+    },
+    {
+      "start": 2131.24,
+      "end": 2134.12,
+      "text": "所以如果你说从日线看",
+      "avg_logprob": -0.1826,
+      "no_speech_prob": 0.5889,
+      "review": true
+    },
+    {
+      "start": 2134.12,
+      "end": 2138.34,
+      "text": "日线看没有买点",
+      "avg_logprob": -0.1826,
+      "no_speech_prob": 0.5889,
+      "review": true
+    },
+    {
+      "start": 2138.34,
+      "end": 2140.2,
+      "text": "但是一小时有买点",
+      "avg_logprob": -0.1826,
+      "no_speech_prob": 0.5889,
+      "review": true
+    },
+    {
+      "start": 2140.2,
+      "end": 2145.47,
+      "text": "一小时有买点",
+      "avg_logprob": -0.1826,
+      "no_speech_prob": 0.5889,
+      "review": true
+    },
+    {
+      "start": 2145.47,
+      "end": 2147.77,
+      "text": "好我们再来看美股",
+      "avg_logprob": -0.1826,
+      "no_speech_prob": 0.5889,
+      "review": true
+    },
+    {
+      "start": 2147.77,
+      "end": 2150.69,
+      "text": "那么从美股的角度来看",
+      "avg_logprob": -0.1826,
+      "no_speech_prob": 0.5889,
+      "review": true
+    },
+    {
+      "start": 2150.69,
+      "end": 2153.93,
+      "text": "从美股从QQQ特别是QQQ",
+      "avg_logprob": -0.1826,
+      "no_speech_prob": 0.5889,
+      "review": true
+    },
+    {
+      "start": 2153.93,
+      "end": 2168.93,
+      "text": "QQQ来看可以买",
+      "avg_logprob": -0.1826,
+      "no_speech_prob": 0.5889,
+      "review": true
+    },
+    {
+      "start": 2168.93,
+      "end": 2169.65,
+      "text": "为什么呀",
+      "avg_logprob": -0.1826,
+      "no_speech_prob": 0.5889,
+      "review": true
+    },
+    {
+      "start": 2169.65,
+      "end": 2171.81,
+      "text": "因为QQQ现在在上涨",
+      "avg_logprob": -0.1826,
+      "no_speech_prob": 0.5889,
+      "review": true
+    },
+    {
+      "start": 2171.81,
+      "end": 2172.17,
+      "text": "是吧",
+      "avg_logprob": -0.1826,
+      "no_speech_prob": 0.5889,
+      "review": true
+    },
+    {
+      "start": 2172.17,
+      "end": 2176.85,
+      "text": "你看,现在还没有开盘,但是QQQ上涨了0.92",
+      "avg_logprob": -0.0886,
+      "no_speech_prob": 0.3962,
+      "review": false
+    },
+    {
+      "start": 2176.85,
+      "end": 2180.89,
+      "text": "那你从QQQ来看,明天美股一开盘,它就要上涨",
+      "avg_logprob": -0.0886,
+      "no_speech_prob": 0.3962,
+      "review": false
+    },
+    {
+      "start": 2180.89,
+      "end": 2184.09,
+      "text": "那么美股要上涨的话,这个加密货币肯定要上涨",
+      "avg_logprob": -0.0886,
+      "no_speech_prob": 0.3962,
+      "review": false
+    },
+    {
+      "start": 2184.09,
+      "end": 2187.29,
+      "text": "所以从这个角度来说,你可以买点加密,好不好",
+      "avg_logprob": -0.0886,
+      "no_speech_prob": 0.3962,
+      "review": false
+    },
+    {
+      "start": 2187.29,
+      "end": 2192.45,
+      "text": "所以从这两个分析,第一个就是一个小时K线",
+      "avg_logprob": -0.0886,
+      "no_speech_prob": 0.3962,
+      "review": false
+    },
+    {
+      "start": 2192.45,
+      "end": 2197.31,
+      "text": "第二个就是从现在盘后的夜盘的美股的交易来看",
+      "avg_logprob": -0.0886,
+      "no_speech_prob": 0.3962,
+      "review": false
+    },
+    {
+      "start": 2197.31,
+      "end": 2200.7,
+      "text": "我觉得是可以买的",
+      "avg_logprob": -0.0886,
+      "no_speech_prob": 0.3962,
+      "review": false
+    },
+    {
+      "start": 2200.7,
+      "end": 2202.5,
+      "text": "好,大概就跟大家说了",
+      "avg_logprob": -0.0886,
+      "no_speech_prob": 0.3962,
+      "review": false
+    },
+    {
+      "start": 2202.5,
+      "end": 2208.79,
+      "text": "所以说就是黄金啊加密货币啊都给大家说了",
+      "avg_logprob": -0.1295,
+      "no_speech_prob": 0.9976,
+      "review": true
+    },
+    {
+      "start": 2208.79,
+      "end": 2214.06,
+      "text": "美罗华那种就不要说了",
+      "avg_logprob": -0.1295,
+      "no_speech_prob": 0.9976,
+      "review": true
+    },
+    {
+      "start": 2214.06,
+      "end": 2215.4,
+      "text": "你想吧涨了五个板呢",
+      "avg_logprob": -0.1295,
+      "no_speech_prob": 0.9976,
+      "review": true
+    },
+    {
+      "start": 2215.4,
+      "end": 2216.18,
+      "text": "你们还要去买",
+      "avg_logprob": -0.1295,
+      "no_speech_prob": 0.9976,
+      "review": true
+    },
+    {
+      "start": 2216.18,
+      "end": 2217.24,
+      "text": "那你就太疯狂了",
+      "avg_logprob": -0.1295,
+      "no_speech_prob": 0.9976,
+      "review": true
+    },
+    {
+      "start": 2217.24,
+      "end": 2219.92,
+      "text": "你们就自己就太不注重风险了",
+      "avg_logprob": -0.1295,
+      "no_speech_prob": 0.9976,
+      "review": true
+    },
+    {
+      "start": 2219.92,
+      "end": 2221.6,
+      "text": "你第一个涨停你还可以静一下",
+      "avg_logprob": -0.1295,
+      "no_speech_prob": 0.9976,
+      "review": true
+    },
+    {
+      "start": 2221.6,
+      "end": 2222.56,
+      "text": "那五个涨停呢",
+      "avg_logprob": -0.1295,
+      "no_speech_prob": 0.9976,
+      "review": true
+    },
+    {
+      "start": 2222.56,
+      "end": 2224.3,
+      "text": "你还考虑这种票干嘛呢",
+      "avg_logprob": -0.1295,
+      "no_speech_prob": 0.9976,
+      "review": true
+    },
+    {
+      "start": 2224.3,
+      "end": 2225.16,
+      "text": "错过就错过了吧",
+      "avg_logprob": -0.1295,
+      "no_speech_prob": 0.9976,
+      "review": true
+    },
+    {
+      "start": 2225.16,
+      "end": 2235.9,
+      "text": "塞里斯不跑",
+      "avg_logprob": -0.1295,
+      "no_speech_prob": 0.9976,
+      "review": true
+    },
+    {
+      "start": 2235.9,
+      "end": 2239.38,
+      "text": "塞里斯你跑不是现在跑啊",
+      "avg_logprob": -0.1295,
+      "no_speech_prob": 0.9976,
+      "review": true
+    },
+    {
+      "start": 2239.38,
+      "end": 2240.34,
+      "text": "我也买了塞里斯",
+      "avg_logprob": -0.1295,
+      "no_speech_prob": 0.9976,
+      "review": true
+    },
+    {
+      "start": 2240.34,
+      "end": 2241.12,
+      "text": "但是我早",
+      "avg_logprob": -0.1295,
+      "no_speech_prob": 0.9976,
+      "review": true
+    },
+    {
+      "start": 2241.12,
+      "end": 2243.24,
+      "text": "你看嘛我就跟大家说一下啊",
+      "avg_logprob": -0.1295,
+      "no_speech_prob": 0.9976,
+      "review": true
+    },
+    {
+      "start": 2243.24,
+      "end": 2273.22,
+      "text": "就是你买错了,你没有啥,但是关键是你不是现在跑,哎,塞里斯我也买了,但是我也早走了,你看我走的位置在哪,塞里斯和这个是同时买的,我这塞里斯和比亚迪是同时买的,但是不对你就要走啊,不是现在走啊,是这个时候走啊,这一天走啊,你看嘛,我不是教大家的,我不是教大家的",
+      "avg_logprob": -0.0845,
+      "no_speech_prob": 0.5977,
+      "review": true
+    },
+    {
+      "start": 2273.24,
+      "end": 2275.48,
+      "text": "形态跌破就必须要走吗",
+      "avg_logprob": -0.121,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 2275.48,
+      "end": 2277.28,
+      "text": "如果你这个时候看不出来",
+      "avg_logprob": -0.121,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 2277.28,
+      "end": 2278.58,
+      "text": "你看一小时60分钟",
+      "avg_logprob": -0.121,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 2278.58,
+      "end": 2280.02,
+      "text": "你看60分钟",
+      "avg_logprob": -0.121,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 2280.02,
+      "end": 2281.98,
+      "text": "你跌破形态就要走啊",
+      "avg_logprob": -0.121,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 2281.98,
+      "end": 2283.38,
+      "text": "而不是现在走啊",
+      "avg_logprob": -0.121,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 2283.38,
+      "end": 2285.12,
+      "text": "比如说我当时选塞里斯",
+      "avg_logprob": -0.121,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 2285.12,
+      "end": 2286.28,
+      "text": "是这些位置选的是不是",
+      "avg_logprob": -0.121,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 2286.28,
+      "end": 2287.92,
+      "text": "比亚迪也是这些位置选的",
+      "avg_logprob": -0.121,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 2287.92,
+      "end": 2289.12,
+      "text": "那比亚迪上去了",
+      "avg_logprob": -0.121,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 2289.12,
+      "end": 2291.38,
+      "text": "那塞里斯不下去了就砍仓啊",
+      "avg_logprob": -0.121,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 2291.38,
+      "end": 2292.96,
+      "text": "你看这些位置一跌破",
+      "avg_logprob": -0.121,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 2292.96,
+      "end": 2293.94,
+      "text": "你就先砍仓啊",
+      "avg_logprob": -0.121,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 2293.94,
+      "end": 2294.7,
+      "text": "先走了呀",
+      "avg_logprob": -0.121,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 2294.7,
+      "end": 2295.44,
+      "text": "那没办法呀",
+      "avg_logprob": -0.121,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 2295.44,
+      "end": 2296.76,
+      "text": "那就有问题了呀",
+      "avg_logprob": -0.121,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 2296.76,
+      "end": 2297.18,
+      "text": "好不好",
+      "avg_logprob": -0.121,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 2297.18,
+      "end": 2300.58,
+      "text": "这短线至少是这样子的",
+      "avg_logprob": -0.121,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 2300.58,
+      "end": 2301.64,
+      "text": "那中长线就不要",
+      "avg_logprob": -0.121,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 2301.64,
+      "end": 2302.4,
+      "text": "好像不是这",
+      "avg_logprob": -0.121,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 2302.4,
+      "end": 2303.02,
+      "text": "不好意思",
+      "avg_logprob": -0.121,
+      "no_speech_prob": 0.9985,
+      "review": true
+    },
+    {
+      "start": 2303.02,
+      "end": 2330.42,
+      "text": "是这,应该是这,应该是这,这个是个买点,那么这个叫形态跌破点,就砍仓止损,那不是现在走啊,因为你现在走就证明你要做中上线嘛,我们永远是在形态跌破一瞬间就要砍仓走,就是永远止损是永远是形态跌破一瞬间走,",
+      "avg_logprob": -0.1219,
+      "no_speech_prob": 0.8354,
+      "review": true
+    },
+    {
+      "start": 2330.42,
+      "end": 2335.28,
+      "text": "不是等你跌了好久才走",
+      "avg_logprob": -0.119,
+      "no_speech_prob": 0.7607,
+      "review": true
+    },
+    {
+      "start": 2335.28,
+      "end": 2338.16,
+      "text": "不是等你跌到现在你说我走不走",
+      "avg_logprob": -0.119,
+      "no_speech_prob": 0.7607,
+      "review": true
+    },
+    {
+      "start": 2338.16,
+      "end": 2340.7,
+      "text": "说实话你要跌到现在根本就不用走了",
+      "avg_logprob": -0.119,
+      "no_speech_prob": 0.7607,
+      "review": true
+    },
+    {
+      "start": 2340.7,
+      "end": 2341.74,
+      "text": "你知道干嘛呀",
+      "avg_logprob": -0.119,
+      "no_speech_prob": 0.7607,
+      "review": true
+    },
+    {
+      "start": 2341.74,
+      "end": 2343.16,
+      "text": "你现在走它一走就上去了",
+      "avg_logprob": -0.119,
+      "no_speech_prob": 0.7607,
+      "review": true
+    },
+    {
+      "start": 2343.16,
+      "end": 2344.1,
+      "text": "你还后悔死",
+      "avg_logprob": -0.119,
+      "no_speech_prob": 0.7607,
+      "review": true
+    },
+    {
+      "start": 2344.1,
+      "end": 2347.66,
+      "text": "基本上你要砍仓必须这些位置砍仓",
+      "avg_logprob": -0.119,
+      "no_speech_prob": 0.7607,
+      "review": true
+    },
+    {
+      "start": 2347.66,
+      "end": 2350.58,
+      "text": "就是形态跌破这一瞬间砍仓",
+      "avg_logprob": -0.119,
+      "no_speech_prob": 0.7607,
+      "review": true
+    },
+    {
+      "start": 2350.58,
+      "end": 2352.54,
+      "text": "哪里是现在去砍仓",
+      "avg_logprob": -0.119,
+      "no_speech_prob": 0.7607,
+      "review": true
+    },
+    {
+      "start": 2352.54,
+      "end": 2355.58,
+      "text": "包括美股也是",
+      "avg_logprob": -0.119,
+      "no_speech_prob": 0.7607,
+      "review": true
+    },
+    {
+      "start": 2355.58,
+      "end": 2357.16,
+      "text": "你看嘛就包括它嘛",
+      "avg_logprob": -0.119,
+      "no_speech_prob": 0.7607,
+      "review": true
+    },
+    {
+      "start": 2357.16,
+      "end": 2359.42,
+      "text": "你看你以前假设你买错了",
+      "avg_logprob": -0.119,
+      "no_speech_prob": 0.7607,
+      "review": true
+    },
+    {
+      "start": 2359.42,
+      "end": 2361.24,
+      "text": "你在这买了你买错了",
+      "avg_logprob": -0.119,
+      "no_speech_prob": 0.7607,
+      "review": true
+    },
+    {
+      "start": 2361.24,
+      "end": 2363.26,
+      "text": "你永远是这个位置去砍仓",
+      "avg_logprob": -0.1079,
+      "no_speech_prob": 0.9946,
+      "review": true
+    },
+    {
+      "start": 2363.26,
+      "end": 2364.5,
+      "text": "而不是这儿",
+      "avg_logprob": -0.1079,
+      "no_speech_prob": 0.9946,
+      "review": true
+    },
+    {
+      "start": 2364.5,
+      "end": 2365.34,
+      "text": "也不是这儿",
+      "avg_logprob": -0.1079,
+      "no_speech_prob": 0.9946,
+      "review": true
+    },
+    {
+      "start": 2365.34,
+      "end": 2366.12,
+      "text": "你看你在这儿砍",
+      "avg_logprob": -0.1079,
+      "no_speech_prob": 0.9946,
+      "review": true
+    },
+    {
+      "start": 2366.12,
+      "end": 2367.06,
+      "text": "一上去了",
+      "avg_logprob": -0.1079,
+      "no_speech_prob": 0.9946,
+      "review": true
+    },
+    {
+      "start": 2367.06,
+      "end": 2367.7,
+      "text": "你又后悔了",
+      "avg_logprob": -0.1079,
+      "no_speech_prob": 0.9946,
+      "review": true
+    },
+    {
+      "start": 2367.7,
+      "end": 2368.3,
+      "text": "又买进去",
+      "avg_logprob": -0.1079,
+      "no_speech_prob": 0.9946,
+      "review": true
+    },
+    {
+      "start": 2368.3,
+      "end": 2369.24,
+      "text": "买进去了又下来了",
+      "avg_logprob": -0.1079,
+      "no_speech_prob": 0.9946,
+      "review": true
+    },
+    {
+      "start": 2369.24,
+      "end": 2370.78,
+      "text": "下来之后你又买进去",
+      "avg_logprob": -0.1079,
+      "no_speech_prob": 0.9946,
+      "review": true
+    },
+    {
+      "start": 2370.78,
+      "end": 2371.5,
+      "text": "然后它又下来了",
+      "avg_logprob": -0.1079,
+      "no_speech_prob": 0.9946,
+      "review": true
+    },
+    {
+      "start": 2371.5,
+      "end": 2372.12,
+      "text": "你又舍不得砍",
+      "avg_logprob": -0.1079,
+      "no_speech_prob": 0.9946,
+      "review": true
+    },
+    {
+      "start": 2372.12,
+      "end": 2373.38,
+      "text": "不是这样的",
+      "avg_logprob": -0.1079,
+      "no_speech_prob": 0.9946,
+      "review": true
+    },
+    {
+      "start": 2373.38,
+      "end": 2374.76,
+      "text": "你永远都是什么位置砍仓",
+      "avg_logprob": -0.1079,
+      "no_speech_prob": 0.9946,
+      "review": true
+    },
+    {
+      "start": 2374.76,
+      "end": 2377.02,
+      "text": "永远都是这个位置",
+      "avg_logprob": -0.1079,
+      "no_speech_prob": 0.9946,
+      "review": true
+    },
+    {
+      "start": 2377.02,
+      "end": 2378.12,
+      "text": "这个位置",
+      "avg_logprob": -0.1079,
+      "no_speech_prob": 0.9946,
+      "review": true
+    },
+    {
+      "start": 2378.12,
+      "end": 2379.08,
+      "text": "这个位置",
+      "avg_logprob": -0.1079,
+      "no_speech_prob": 0.9946,
+      "review": true
+    },
+    {
+      "start": 2379.08,
+      "end": 2379.96,
+      "text": "这个位置",
+      "avg_logprob": -0.1079,
+      "no_speech_prob": 0.9946,
+      "review": true
+    },
+    {
+      "start": 2379.96,
+      "end": 2380.42,
+      "text": "这个位置",
+      "avg_logprob": -0.1079,
+      "no_speech_prob": 0.9946,
+      "review": true
+    },
+    {
+      "start": 2380.42,
+      "end": 2380.66,
+      "text": "你看",
+      "avg_logprob": -0.1079,
+      "no_speech_prob": 0.9946,
+      "review": true
+    },
+    {
+      "start": 2380.66,
+      "end": 2382.74,
+      "text": "你永远都是跌破",
+      "avg_logprob": -0.1079,
+      "no_speech_prob": 0.9946,
+      "review": true
+    },
+    {
+      "start": 2382.74,
+      "end": 2383.82,
+      "text": "跌破",
+      "avg_logprob": -0.1079,
+      "no_speech_prob": 0.9946,
+      "review": true
+    },
+    {
+      "start": 2383.82,
+      "end": 2384.62,
+      "text": "跌破",
+      "avg_logprob": -0.1079,
+      "no_speech_prob": 0.9946,
+      "review": true
+    },
+    {
+      "start": 2384.62,
+      "end": 2385.34,
+      "text": "跌破",
+      "avg_logprob": -0.1079,
+      "no_speech_prob": 0.9946,
+      "review": true
+    },
+    {
+      "start": 2385.34,
+      "end": 2386.16,
+      "text": "跌破",
+      "avg_logprob": -0.1079,
+      "no_speech_prob": 0.9946,
+      "review": true
+    },
+    {
+      "start": 2386.16,
+      "end": 2387.58,
+      "text": "假设你买错了啊",
+      "avg_logprob": -0.1079,
+      "no_speech_prob": 0.9946,
+      "review": true
+    },
+    {
+      "start": 2387.58,
+      "end": 2389.02,
+      "text": "不管你在这儿买的买错了",
+      "avg_logprob": -0.1079,
+      "no_speech_prob": 0.9946,
+      "review": true
+    },
+    {
+      "start": 2389.02,
+      "end": 2389.54,
+      "text": "这儿砍仓",
+      "avg_logprob": -0.1079,
+      "no_speech_prob": 0.9946,
+      "review": true
+    },
+    {
+      "start": 2389.54,
+      "end": 2390.74,
+      "text": "这儿买错买错了",
+      "avg_logprob": -0.1079,
+      "no_speech_prob": 0.9946,
+      "review": true
+    },
+    {
+      "start": 2390.74,
+      "end": 2401.94,
+      "text": "这砍仓,这买错了,这砍仓,你这买错了,这砍仓,你都亏不了多少钱,你亏不了多少钱,你不能一直跌跌跌跌到这些位置说你砍仓,第二天一个上去",
+      "avg_logprob": -0.0558,
+      "no_speech_prob": 0.8994,
+      "review": true
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 27.27
+}

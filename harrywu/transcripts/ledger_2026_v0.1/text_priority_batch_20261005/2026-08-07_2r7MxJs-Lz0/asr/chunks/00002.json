@@ -1,0 +1,344 @@
+{
+  "begin": 600.0,
+  "finish": 900.0,
+  "segments": [
+    {
+      "start": 599.23,
+      "end": 607.71,
+      "text": "反正昨天我半道题全部走完,我也不知道对不对,我现在也没有看那些半道题了,我走了之后就把它删掉了,我也不知道今天这些半道题在涨还是在跌",
+      "avg_logprob": -0.1177,
+      "no_speech_prob": 0.9395,
+      "review": true
+    },
+    {
+      "start": 607.71,
+      "end": 630.2,
+      "text": "AI、烟草、复合铜铝、铜还是会涨,因为今天那个第一个孤金属在涨,孤金属在涨,腾远孤月",
+      "avg_logprob": -0.1177,
+      "no_speech_prob": 0.9395,
+      "review": true
+    },
+    {
+      "start": 630.2,
+      "end": 637.96,
+      "text": "今天我们看这个板块,第一个孤金属的板块在涨,有色还是在涨,第二个就是复合铜铝在涨",
+      "avg_logprob": -0.1177,
+      "no_speech_prob": 0.9395,
+      "review": true
+    },
+    {
+      "start": 637.96,
+      "end": 641.04,
+      "text": "因为今天铜嘛,那个铜矿关闭,大家肯定知道",
+      "avg_logprob": -0.1249,
+      "no_speech_prob": 0.0414,
+      "review": false
+    },
+    {
+      "start": 641.04,
+      "end": 646.82,
+      "text": "我看看,沃格光电,就是非洲有一个铜矿关闭了",
+      "avg_logprob": -0.1249,
+      "no_speech_prob": 0.0414,
+      "review": false
+    },
+    {
+      "start": 646.82,
+      "end": 649.28,
+      "text": "所以你每天要知道这些消息,你必须要知道",
+      "avg_logprob": -0.1249,
+      "no_speech_prob": 0.0414,
+      "review": false
+    },
+    {
+      "start": 649.28,
+      "end": 652.06,
+      "text": "知道你做不做是一回事,但是你必须要知道",
+      "avg_logprob": -0.1249,
+      "no_speech_prob": 0.0414,
+      "review": false
+    },
+    {
+      "start": 652.06,
+      "end": 654.38,
+      "text": "今天应该大概赚不了什么钱啊",
+      "avg_logprob": -0.1249,
+      "no_speech_prob": 0.0414,
+      "review": false
+    },
+    {
+      "start": 654.38,
+      "end": 656.48,
+      "text": "但是我的仓位已经降得很低了",
+      "avg_logprob": -0.1249,
+      "no_speech_prob": 0.0414,
+      "review": false
+    },
+    {
+      "start": 656.48,
+      "end": 659.46,
+      "text": "我们来大概看一下,今天有哪些涨的",
+      "avg_logprob": -0.1249,
+      "no_speech_prob": 0.0414,
+      "review": false
+    },
+    {
+      "start": 659.46,
+      "end": 672.62,
+      "text": "河远气体,云南折叶还是强,云南折叶太强了",
+      "avg_logprob": -0.1249,
+      "no_speech_prob": 0.0414,
+      "review": false
+    },
+    {
+      "start": 672.62,
+      "end": 686.33,
+      "text": "浩华能源、大企业能源、大有能源",
+      "avg_logprob": -0.262,
+      "no_speech_prob": 0.182,
+      "review": false
+    },
+    {
+      "start": 686.33,
+      "end": 690.23,
+      "text": "没有多少涨的",
+      "avg_logprob": -0.262,
+      "no_speech_prob": 0.182,
+      "review": false
+    },
+    {
+      "start": 690.23,
+      "end": 704.31,
+      "text": "不好做啊",
+      "avg_logprob": -0.262,
+      "no_speech_prob": 0.182,
+      "review": false
+    },
+    {
+      "start": 704.31,
+      "end": 705.07,
+      "text": "这也不好做",
+      "avg_logprob": -0.262,
+      "no_speech_prob": 0.182,
+      "review": false
+    },
+    {
+      "start": 705.07,
+      "end": 709.98,
+      "text": "大家都比较涨跌都是在一个很小的范围内啊",
+      "avg_logprob": -0.262,
+      "no_speech_prob": 0.182,
+      "review": false
+    },
+    {
+      "start": 709.98,
+      "end": 710.88,
+      "text": "不好做",
+      "avg_logprob": -0.262,
+      "no_speech_prob": 0.182,
+      "review": false
+    },
+    {
+      "start": 710.88,
+      "end": 713.98,
+      "text": "这种行情不好做",
+      "avg_logprob": -0.262,
+      "no_speech_prob": 0.182,
+      "review": false
+    },
+    {
+      "start": 713.98,
+      "end": 715.62,
+      "text": "今天慢慢看吧",
+      "avg_logprob": -0.262,
+      "no_speech_prob": 0.182,
+      "review": false
+    },
+    {
+      "start": 715.62,
+      "end": 716.86,
+      "text": "没有啥我们就不做了",
+      "avg_logprob": -0.262,
+      "no_speech_prob": 0.182,
+      "review": false
+    },
+    {
+      "start": 716.86,
+      "end": 719.38,
+      "text": "这也不是非要做是不是",
+      "avg_logprob": -0.262,
+      "no_speech_prob": 0.182,
+      "review": false
+    },
+    {
+      "start": 719.38,
+      "end": 723.29,
+      "text": "这东西不是非要做",
+      "avg_logprob": -0.262,
+      "no_speech_prob": 0.182,
+      "review": false
+    },
+    {
+      "start": 723.29,
+      "end": 726.75,
+      "text": "康龙化成你看",
+      "avg_logprob": -0.262,
+      "no_speech_prob": 0.182,
+      "review": false
+    },
+    {
+      "start": 726.75,
+      "end": 728.89,
+      "text": "银星这个什么网络",
+      "avg_logprob": -0.262,
+      "no_speech_prob": 0.182,
+      "review": false
+    },
+    {
+      "start": 728.89,
+      "end": 776.49,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0881,
+      "no_speech_prob": 0.3186,
+      "review": false
+    },
+    {
+      "start": 776.51,
+      "end": 808.44,
+      "text": "中文字幕志愿者 李宗盛",
+      "avg_logprob": -0.3162,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 808.46,
+      "end": 844.84,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0763,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 844.86,
+      "end": 873.71,
+      "text": "题材第一个还是有色,归产业,有色归产业,通威、大全、特变,美国不是给新能源增加税吗?为什么归产业还在涨呢?好奇怪哦,不管他了吧,好,我看到我不会争了,光模块海外收入排行,光模块,哦,这个也不去,这个肯定也不去追了啊,这个光模块不是还是有新闻吗?我们还是不去追了,",
+      "avg_logprob": -0.1448,
+      "no_speech_prob": 0.028,
+      "review": false
+    },
+    {
+      "start": 873.71,
+      "end": 875.59,
+      "text": "其他的呢",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.1274,
+      "review": false
+    },
+    {
+      "start": 875.59,
+      "end": 877.35,
+      "text": "资源断供",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.1274,
+      "review": false
+    },
+    {
+      "start": 877.35,
+      "end": 879.41,
+      "text": "对非洲刚果这个事情现在出来了",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.1274,
+      "review": false
+    },
+    {
+      "start": 879.41,
+      "end": 881.05,
+      "text": "非洲刚果的这个矿",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.1274,
+      "review": false
+    },
+    {
+      "start": 881.05,
+      "end": 882.97,
+      "text": "第一个是腾远姑业",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.1274,
+      "review": false
+    },
+    {
+      "start": 882.97,
+      "end": 885.19,
+      "text": "韩瑞姑业",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.1274,
+      "review": false
+    },
+    {
+      "start": 885.19,
+      "end": 887.41,
+      "text": "华友姑业、洛阳姑业",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.1274,
+      "review": false
+    },
+    {
+      "start": 887.41,
+      "end": 888.21,
+      "text": "我们看看马上哪个",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.1274,
+      "review": false
+    },
+    {
+      "start": 888.21,
+      "end": 890.75,
+      "text": "第一个腾远姑业是排第一的",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.1274,
+      "review": false
+    },
+    {
+      "start": 890.75,
+      "end": 892.64,
+      "text": "腾远姑业排第一",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.1274,
+      "review": false
+    },
+    {
+      "start": 892.64,
+      "end": 894.3,
+      "text": "韩瑞姑业排第二",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.1274,
+      "review": false
+    },
+    {
+      "start": 894.3,
+      "end": 896.51,
+      "text": "一个营收25亿",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.1274,
+      "review": false
+    },
+    {
+      "start": 896.51,
+      "end": 897.83,
+      "text": "一个营收17亿",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.1274,
+      "review": false
+    },
+    {
+      "start": 897.83,
+      "end": 900.59,
+      "text": "第三是华友姑业排第三",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.1274,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 22.17
+}

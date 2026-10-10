@@ -1,0 +1,220 @@
+{
+  "schema": 2,
+  "version": "2.0",
+  "source": "C:\\Users\\HarryWu_IOKI\\Videos\\飞云双突破\\For GPT\\4. 支撑与阻力精讲.mkv",
+  "source_bytes": 496782894,
+  "source_sha256": "5face1f56cad64b4f2dc70eb6ac33037fba7f3bf3e8febd85cce9a95c6b7a329",
+  "source_modified": "2022-09-26T04:30:31.492131+00:00",
+  "params": {
+    "model": "large-v3",
+    "language": "zh",
+    "device": "cuda",
+    "compute_type": "float16",
+    "start": 0.0,
+    "end": null,
+    "vad": "conservative",
+    "chunk_seconds": 300,
+    "no_audio": false,
+    "no_video": true,
+    "no_ocr": false,
+    "frame_interval": null,
+    "change_threshold": 0.004,
+    "max_frames": 300,
+    "perspective": false,
+    "selected_audio_stream": 1,
+    "profile_sha256": "7dd677164d7ee353da6ed2b3230e9d9233ad7f441e963494d32ff75247b45c97"
+  },
+  "params_sha256": "1d00deb80b365b00a93a0a5366a5f2aeaa58801a7b595a378ac2e6e9f6e73b67",
+  "created": "2026-09-29T23:31:02.700136+00:00",
+  "start": 0.0,
+  "end": 979.834,
+  "duration": 979.834,
+  "streams": [
+    {
+      "index": 0,
+      "codec_name": "h264",
+      "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+      "profile": "High",
+      "codec_type": "video",
+      "codec_tag_string": "[0][0][0][0]",
+      "codec_tag": "0x0000",
+      "mime_codec_string": "avc1.64002a",
+      "width": 1920,
+      "height": 1080,
+      "coded_width": 1920,
+      "coded_height": 1080,
+      "has_b_frames": 1,
+      "sample_aspect_ratio": "1:1",
+      "display_aspect_ratio": "16:9",
+      "pix_fmt": "yuv420p",
+      "level": 42,
+      "color_range": "tv",
+      "color_space": "bt709",
+      "color_transfer": "bt709",
+      "color_primaries": "bt709",
+      "chroma_location": "left",
+      "field_order": "progressive",
+      "is_avc": "true",
+      "nal_length_size": "4",
+      "r_frame_rate": "60/1",
+      "avg_frame_rate": "60/1",
+      "time_base": "1/1000",
+      "start_pts": 0,
+      "start_time": "0.000000",
+      "bits_per_raw_sample": "8",
+      "extradata_size": 61,
+      "disposition": {
+        "default": 0,
+        "dub": 0,
+        "original": 0,
+        "comment": 0,
+        "lyrics": 0,
+        "karaoke": 0,
+        "forced": 0,
+        "hearing_impaired": 0,
+        "visual_impaired": 0,
+        "clean_effects": 0,
+        "attached_pic": 0,
+        "timed_thumbnails": 0,
+        "non_diegetic": 0,
+        "captions": 0,
+        "descriptions": 0,
+        "metadata": 0,
+        "dependent": 0,
+        "still_image": 0,
+        "multilayer": 0
+      },
+      "tags": {
+        "DURATION": "00:16:19.834000000"
+      }
+    },
+    {
+      "index": 1,
+      "codec_name": "aac",
+      "codec_long_name": "AAC (Advanced Audio Coding)",
+      "profile": "LC",
+      "codec_type": "audio",
+      "codec_tag_string": "[0][0][0][0]",
+      "codec_tag": "0x0000",
+      "mime_codec_string": "mp4a.40.2",
+      "sample_fmt": "fltp",
+      "sample_rate": "48000",
+      "channels": 2,
+      "channel_layout": "stereo",
+      "bits_per_sample": 0,
+      "initial_padding": 0,
+      "r_frame_rate": "0/0",
+      "avg_frame_rate": "0/0",
+      "time_base": "1/1000",
+      "start_pts": 0,
+      "start_time": "0.000000",
+      "extradata_size": 5,
+      "disposition": {
+        "default": 0,
+        "dub": 0,
+        "original": 0,
+        "comment": 0,
+        "lyrics": 0,
+        "karaoke": 0,
+        "forced": 0,
+        "hearing_impaired": 0,
+        "visual_impaired": 0,
+        "clean_effects": 0,
+        "attached_pic": 0,
+        "timed_thumbnails": 0,
+        "non_diegetic": 0,
+        "captions": 0,
+        "descriptions": 0,
+        "metadata": 0,
+        "dependent": 0,
+        "still_image": 0,
+        "multilayer": 0
+      },
+      "tags": {
+        "title": "simple_aac_recording",
+        "DURATION": "00:16:19.797000000"
+      }
+    }
+  ],
+  "steps": {
+    "audio": "complete",
+    "video": "skipped",
+    "evidence": "complete"
+  },
+  "model": {
+    "id": "large-v3",
+    "revision": "not pinned"
+  },
+  "chunks": [
+    {
+      "index": 0,
+      "sha256": "e9f47eb8d5bd141a206ed32c7170244c7f87460d885025a4dce6e2ee8d7a5e30",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 18.79,
+        "cpu_percent": 18.4,
+        "vram_free_gib": 5.99,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 1.84
+      },
+      "elapsed_seconds": 75.81
+    },
+    {
+      "index": 1,
+      "sha256": "86bbc45e5b4af0333802d9c5a10e7396b1a886fc4262f832bfe836121d15ee7d",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 18.76,
+        "cpu_percent": 11.8,
+        "vram_free_gib": 2.17,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 5.66
+      },
+      "elapsed_seconds": 74.64
+    },
+    {
+      "index": 2,
+      "sha256": "9dccfeb2dfe639850870f9abbb05c25e26409b3a0a68ea41ad49e5d52979d691",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 18.56,
+        "cpu_percent": 8.1,
+        "vram_free_gib": 2.17,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 5.66
+      },
+      "elapsed_seconds": 58.45
+    },
+    {
+      "index": 3,
+      "sha256": "6ebae672edf5537c7d878ba8ff15719ca8dfbc5d1585489664c4d6b76cac89dc",
+      "device": "cuda",
+      "compute_type": "float16",
+      "resources_before": {
+        "ram_free_gib": 18.69,
+        "cpu_percent": 32.9,
+        "vram_free_gib": 2.19,
+        "vram_total_gib": 8.0,
+        "vram_used_gib": 5.64
+      },
+      "elapsed_seconds": 13.55
+    }
+  ],
+  "audio": {
+    "model": "large-v3",
+    "segments": 531,
+    "boundary_deduplication": [],
+    "possible_silence_intervals": [],
+    "review_count": 477,
+    "elapsed_seconds": 222.45
+  },
+  "outputs": {
+    "speech.json": "993974979cfa15aef7aa6a91da8c0da320db8d02c5df5959f5b4c2879b3b0e5c",
+    "speech.md": "1ea24361110d5da0990b0843ca5b3453613fb923fe7aa3649721cacba3c288dd"
+  },
+  "evidence_sha256": "ac4e036e6861dac9656204f394d01a7fa4ca444dd673900600e5e88865450ef8",
+  "updated": "2026-09-29T23:34:54.672318+00:00"
+}

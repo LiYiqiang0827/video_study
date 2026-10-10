@@ -1,0 +1,784 @@
+{
+  "begin": 5400.0,
+  "finish": 5700.0,
+  "segments": [
+    {
+      "start": 5413.44,
+      "end": 5415.66,
+      "text": "像这些一般的就是先买了之后啊",
+      "avg_logprob": -0.098,
+      "no_speech_prob": 0.4067,
+      "review": false
+    },
+    {
+      "start": 5415.66,
+      "end": 5416.84,
+      "text": "到时候如果它还往上涨",
+      "avg_logprob": -0.098,
+      "no_speech_prob": 0.4067,
+      "review": false
+    },
+    {
+      "start": 5416.84,
+      "end": 5419.2,
+      "text": "你可以加点就可以在涨厅排个队啊",
+      "avg_logprob": -0.098,
+      "no_speech_prob": 0.4067,
+      "review": false
+    },
+    {
+      "start": 5419.2,
+      "end": 5420.52,
+      "text": "再去涨厅排个队",
+      "avg_logprob": -0.098,
+      "no_speech_prob": 0.4067,
+      "review": false
+    },
+    {
+      "start": 5420.52,
+      "end": 5447.14,
+      "text": "咱们今天早上做芯片股做得很成功啊",
+      "avg_logprob": -0.098,
+      "no_speech_prob": 0.4067,
+      "review": false
+    },
+    {
+      "start": 5447.14,
+      "end": 5449.02,
+      "text": "今天有两波很成功",
+      "avg_logprob": -0.098,
+      "no_speech_prob": 0.4067,
+      "review": false
+    },
+    {
+      "start": 5449.02,
+      "end": 5450.76,
+      "text": "一个是芯片股啊",
+      "avg_logprob": -0.098,
+      "no_speech_prob": 0.4067,
+      "review": false
+    },
+    {
+      "start": 5450.76,
+      "end": 5451.72,
+      "text": "完美位置",
+      "avg_logprob": -0.098,
+      "no_speech_prob": 0.4067,
+      "review": false
+    },
+    {
+      "start": 5451.72,
+      "end": 5455.68,
+      "text": "第二个就是这个我们的现在这个资源啊",
+      "avg_logprob": -0.098,
+      "no_speech_prob": 0.4067,
+      "review": false
+    },
+    {
+      "start": 5455.68,
+      "end": 5458.08,
+      "text": "希望等会儿下午资源股也大涨吧",
+      "avg_logprob": -0.098,
+      "no_speech_prob": 0.4067,
+      "review": false
+    },
+    {
+      "start": 5458.08,
+      "end": 5459.02,
+      "text": "资源",
+      "avg_logprob": -0.098,
+      "no_speech_prob": 0.4067,
+      "review": false
+    },
+    {
+      "start": 5459.02,
+      "end": 5467.28,
+      "text": "现在可能稍微有一点点高",
+      "avg_logprob": -0.098,
+      "no_speech_prob": 0.4067,
+      "review": false
+    },
+    {
+      "start": 5467.28,
+      "end": 5469.54,
+      "text": "因为它可能不太好给你更好的位置",
+      "avg_logprob": -0.098,
+      "no_speech_prob": 0.4067,
+      "review": false
+    },
+    {
+      "start": 5469.54,
+      "end": 5471.94,
+      "text": "或者是你可以还没有买的话",
+      "avg_logprob": -0.098,
+      "no_speech_prob": 0.4067,
+      "review": false
+    },
+    {
+      "start": 5471.94,
+      "end": 5474.16,
+      "text": "你们可以再等等,看等会回到这些位置来",
+      "avg_logprob": -0.1245,
+      "no_speech_prob": 0.179,
+      "review": false
+    },
+    {
+      "start": 5474.16,
+      "end": 5479.53,
+      "text": "但是呢,无论怎么样,今天它是第一天",
+      "avg_logprob": -0.1245,
+      "no_speech_prob": 0.179,
+      "review": false
+    },
+    {
+      "start": 5479.53,
+      "end": 5483.23,
+      "text": "今天其实才是真正的买资源股的信号的第一天",
+      "avg_logprob": -0.1245,
+      "no_speech_prob": 0.179,
+      "review": false
+    },
+    {
+      "start": 5483.23,
+      "end": 5484.35,
+      "text": "反转的第一天",
+      "avg_logprob": -0.1245,
+      "no_speech_prob": 0.179,
+      "review": false
+    },
+    {
+      "start": 5484.35,
+      "end": 5486.89,
+      "text": "我估计应该是反转几天了",
+      "avg_logprob": -0.1245,
+      "no_speech_prob": 0.179,
+      "review": false
+    },
+    {
+      "start": 5486.89,
+      "end": 5492.92,
+      "text": "盖封我不买,我没买",
+      "avg_logprob": -0.1245,
+      "no_speech_prob": 0.179,
+      "review": false
+    },
+    {
+      "start": 5492.92,
+      "end": 5502.06,
+      "text": "白银有色,白银有色我就不去说了",
+      "avg_logprob": -0.1245,
+      "no_speech_prob": 0.179,
+      "review": false
+    },
+    {
+      "start": 5502.06,
+      "end": 5505.04,
+      "text": "为什么呢?大家可能知道白银有色这个公司",
+      "avg_logprob": -0.1245,
+      "no_speech_prob": 0.179,
+      "review": false
+    },
+    {
+      "start": 5505.04,
+      "end": 5507.32,
+      "text": "它其实不是做白银的,好像是",
+      "avg_logprob": -0.1245,
+      "no_speech_prob": 0.179,
+      "review": false
+    },
+    {
+      "start": 5507.32,
+      "end": 5508.58,
+      "text": "但大家可能会吵起",
+      "avg_logprob": -0.1245,
+      "no_speech_prob": 0.179,
+      "review": false
+    },
+    {
+      "start": 5508.58,
+      "end": 5510.88,
+      "text": "我就不去做了,我就买黄金吧",
+      "avg_logprob": -0.1245,
+      "no_speech_prob": 0.179,
+      "review": false
+    },
+    {
+      "start": 5510.88,
+      "end": 5511.78,
+      "text": "黄金比白银好",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.1815,
+      "review": false
+    },
+    {
+      "start": 5511.78,
+      "end": 5513.66,
+      "text": "我里面就买黄金",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.1815,
+      "review": false
+    },
+    {
+      "start": 5513.66,
+      "end": 5515.52,
+      "text": "据说白银有色的公司",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.1815,
+      "review": false
+    },
+    {
+      "start": 5515.52,
+      "end": 5517.08,
+      "text": "它其实不是搞白银的",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.1815,
+      "review": false
+    },
+    {
+      "start": 5517.08,
+      "end": 5518.62,
+      "text": "说它只不过是好听而已",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.1815,
+      "review": false
+    },
+    {
+      "start": 5518.62,
+      "end": 5519.02,
+      "text": "我们看看",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.1815,
+      "review": false
+    },
+    {
+      "start": 5519.02,
+      "end": 5521.3,
+      "text": "我们看看这个业内点评古本",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.1815,
+      "review": false
+    },
+    {
+      "start": 5521.3,
+      "end": 5523.3,
+      "text": "我看看",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.1815,
+      "review": false
+    },
+    {
+      "start": 5523.3,
+      "end": 5525.0,
+      "text": "公司概况",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.1815,
+      "review": false
+    },
+    {
+      "start": 5525.0,
+      "end": 5536.06,
+      "text": "对它那个你看",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.1815,
+      "review": false
+    },
+    {
+      "start": 5536.06,
+      "end": 5538.32,
+      "text": "就是我就是上次说了",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.1815,
+      "review": false
+    },
+    {
+      "start": 5538.32,
+      "end": 5539.1,
+      "text": "白银有色",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.1815,
+      "review": false
+    },
+    {
+      "start": 5539.1,
+      "end": 5540.92,
+      "text": "它最开始",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.1815,
+      "review": false
+    },
+    {
+      "start": 5540.92,
+      "end": 5543.74,
+      "text": "你知道为什么白银有色吗",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.1815,
+      "review": false
+    },
+    {
+      "start": 5543.74,
+      "end": 5545.72,
+      "text": "因为白银有色它不是搞白银",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.1815,
+      "review": false
+    },
+    {
+      "start": 5545.72,
+      "end": 5547.84,
+      "text": "它是在甘肃白银市",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.1815,
+      "review": false
+    },
+    {
+      "start": 5547.84,
+      "end": 5549.82,
+      "text": "做的一个有色公司",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.1815,
+      "review": false
+    },
+    {
+      "start": 5549.82,
+      "end": 5551.54,
+      "text": "所以这个特别搞笑",
+      "avg_logprob": -0.1166,
+      "no_speech_prob": 0.1079,
+      "review": false
+    },
+    {
+      "start": 5551.54,
+      "end": 5552.08,
+      "text": "我跟你说",
+      "avg_logprob": -0.1166,
+      "no_speech_prob": 0.1079,
+      "review": false
+    },
+    {
+      "start": 5552.08,
+      "end": 5553.4,
+      "text": "白银有色",
+      "avg_logprob": -0.1166,
+      "no_speech_prob": 0.1079,
+      "review": false
+    },
+    {
+      "start": 5553.4,
+      "end": 5555.28,
+      "text": "他们都是当白银鼓潮",
+      "avg_logprob": -0.1166,
+      "no_speech_prob": 0.1079,
+      "review": false
+    },
+    {
+      "start": 5555.28,
+      "end": 5556.84,
+      "text": "但是他不生产白银",
+      "avg_logprob": -0.1166,
+      "no_speech_prob": 0.1079,
+      "review": false
+    },
+    {
+      "start": 5556.84,
+      "end": 5560.12,
+      "text": "只不过他是运气太好了",
+      "avg_logprob": -0.1166,
+      "no_speech_prob": 0.1079,
+      "review": false
+    },
+    {
+      "start": 5560.12,
+      "end": 5561.84,
+      "text": "他是搞有色的",
+      "avg_logprob": -0.1166,
+      "no_speech_prob": 0.1079,
+      "review": false
+    },
+    {
+      "start": 5561.84,
+      "end": 5564.04,
+      "text": "然后他所在城市叫白银市",
+      "avg_logprob": -0.1166,
+      "no_speech_prob": 0.1079,
+      "review": false
+    },
+    {
+      "start": 5564.04,
+      "end": 5568.04,
+      "text": "是白银市的有色企业",
+      "avg_logprob": -0.1166,
+      "no_speech_prob": 0.1079,
+      "review": false
+    },
+    {
+      "start": 5568.04,
+      "end": 5569.06,
+      "text": "搞不搞笑",
+      "avg_logprob": -0.1166,
+      "no_speech_prob": 0.1079,
+      "review": false
+    },
+    {
+      "start": 5569.06,
+      "end": 5572.96,
+      "text": "但是所有的里面都把他当成白银鼓潮",
+      "avg_logprob": -0.1166,
+      "no_speech_prob": 0.1079,
+      "review": false
+    },
+    {
+      "start": 5572.96,
+      "end": 5574.8,
+      "text": "他其实根本不生产白银",
+      "avg_logprob": -0.1166,
+      "no_speech_prob": 0.1079,
+      "review": false
+    },
+    {
+      "start": 5574.8,
+      "end": 5576.9,
+      "text": "笑死了",
+      "avg_logprob": -0.1166,
+      "no_speech_prob": 0.1079,
+      "review": false
+    },
+    {
+      "start": 5576.9,
+      "end": 5578.58,
+      "text": "笑死了",
+      "avg_logprob": -0.1166,
+      "no_speech_prob": 0.1079,
+      "review": false
+    },
+    {
+      "start": 5578.58,
+      "end": 5580.52,
+      "text": "这个不是白银概念",
+      "avg_logprob": -0.188,
+      "no_speech_prob": 0.6572,
+      "review": true
+    },
+    {
+      "start": 5580.52,
+      "end": 5581.24,
+      "text": "你们知道吗",
+      "avg_logprob": -0.188,
+      "no_speech_prob": 0.6572,
+      "review": true
+    },
+    {
+      "start": 5581.24,
+      "end": 5583.26,
+      "text": "它是那个地方名字叫白银",
+      "avg_logprob": -0.188,
+      "no_speech_prob": 0.6572,
+      "review": true
+    },
+    {
+      "start": 5583.26,
+      "end": 5586.11,
+      "text": "笑死了",
+      "avg_logprob": -0.188,
+      "no_speech_prob": 0.6572,
+      "review": true
+    },
+    {
+      "start": 5586.11,
+      "end": 5592.3,
+      "text": "专门买黄金ETF",
+      "avg_logprob": -0.188,
+      "no_speech_prob": 0.6572,
+      "review": true
+    },
+    {
+      "start": 5592.3,
+      "end": 5593.72,
+      "text": "吃大量果汁黄金个股",
+      "avg_logprob": -0.188,
+      "no_speech_prob": 0.6572,
+      "review": true
+    },
+    {
+      "start": 5593.72,
+      "end": 5594.44,
+      "text": "对啊 是的",
+      "avg_logprob": -0.188,
+      "no_speech_prob": 0.6572,
+      "review": true
+    },
+    {
+      "start": 5594.44,
+      "end": 5595.22,
+      "text": "所以我就是",
+      "avg_logprob": -0.188,
+      "no_speech_prob": 0.6572,
+      "review": true
+    },
+    {
+      "start": 5595.22,
+      "end": 5596.68,
+      "text": "但是我也无所谓",
+      "avg_logprob": -0.188,
+      "no_speech_prob": 0.6572,
+      "review": true
+    },
+    {
+      "start": 5596.68,
+      "end": 5597.28,
+      "text": "无所谓",
+      "avg_logprob": -0.188,
+      "no_speech_prob": 0.6572,
+      "review": true
+    },
+    {
+      "start": 5597.28,
+      "end": 5598.04,
+      "text": "我知道黄金",
+      "avg_logprob": -0.188,
+      "no_speech_prob": 0.6572,
+      "review": true
+    },
+    {
+      "start": 5598.04,
+      "end": 5600.1,
+      "text": "谢谢 谢谢",
+      "avg_logprob": -0.188,
+      "no_speech_prob": 0.6572,
+      "review": true
+    },
+    {
+      "start": 5600.1,
+      "end": 5601.64,
+      "text": "我们买了",
+      "avg_logprob": -0.188,
+      "no_speech_prob": 0.6572,
+      "review": true
+    },
+    {
+      "start": 5601.64,
+      "end": 5602.3,
+      "text": "买了 谢谢",
+      "avg_logprob": -0.188,
+      "no_speech_prob": 0.6572,
+      "review": true
+    },
+    {
+      "start": 5602.3,
+      "end": 5603.84,
+      "text": "黄金买了这个",
+      "avg_logprob": -0.188,
+      "no_speech_prob": 0.6572,
+      "review": true
+    },
+    {
+      "start": 5603.84,
+      "end": 5605.04,
+      "text": "生产白银的",
+      "avg_logprob": -0.188,
+      "no_speech_prob": 0.6572,
+      "review": true
+    },
+    {
+      "start": 5605.04,
+      "end": 5605.76,
+      "text": "但是它少",
+      "avg_logprob": -0.188,
+      "no_speech_prob": 0.6572,
+      "review": true
+    },
+    {
+      "start": 5605.76,
+      "end": 5607.34,
+      "text": "它不是主要生产白银的",
+      "avg_logprob": -0.188,
+      "no_speech_prob": 0.6572,
+      "review": true
+    },
+    {
+      "start": 5607.34,
+      "end": 5609.06,
+      "text": "我记得当时就说了",
+      "avg_logprob": -0.188,
+      "no_speech_prob": 0.6572,
+      "review": true
+    },
+    {
+      "start": 5609.06,
+      "end": 5610.64,
+      "text": "它不是主要生产白银的",
+      "avg_logprob": -0.188,
+      "no_speech_prob": 0.6572,
+      "review": true
+    },
+    {
+      "start": 5610.64,
+      "end": 5612.6,
+      "text": "但是你可以买其他的嘛",
+      "avg_logprob": -0.1424,
+      "no_speech_prob": 0.0001,
+      "review": false
+    },
+    {
+      "start": 5612.6,
+      "end": 5615.32,
+      "text": "你买个ETF啊买个啥都可以啊",
+      "avg_logprob": -0.1424,
+      "no_speech_prob": 0.0001,
+      "review": false
+    },
+    {
+      "start": 5615.32,
+      "end": 5623.36,
+      "text": "你看今天还是情绪好",
+      "avg_logprob": -0.1424,
+      "no_speech_prob": 0.0001,
+      "review": false
+    },
+    {
+      "start": 5623.36,
+      "end": 5625.78,
+      "text": "他刚回调一点点马上拿起来了",
+      "avg_logprob": -0.1424,
+      "no_speech_prob": 0.0001,
+      "review": false
+    },
+    {
+      "start": 5625.78,
+      "end": 5627.14,
+      "text": "还是情绪好啊",
+      "avg_logprob": -0.1424,
+      "no_speech_prob": 0.0001,
+      "review": false
+    },
+    {
+      "start": 5627.14,
+      "end": 5628.6,
+      "text": "还是情绪比较好",
+      "avg_logprob": -0.1424,
+      "no_speech_prob": 0.0001,
+      "review": false
+    },
+    {
+      "start": 5628.6,
+      "end": 5630.44,
+      "text": "但是我一般的有色不敢买多了",
+      "avg_logprob": -0.1424,
+      "no_speech_prob": 0.0001,
+      "review": false
+    },
+    {
+      "start": 5630.44,
+      "end": 5631.6,
+      "text": "哎呀有色这些东西",
+      "avg_logprob": -0.1424,
+      "no_speech_prob": 0.0001,
+      "review": false
+    },
+    {
+      "start": 5631.6,
+      "end": 5634.04,
+      "text": "嗯他回调起来也很快的",
+      "avg_logprob": -0.1424,
+      "no_speech_prob": 0.0001,
+      "review": false
+    },
+    {
+      "start": 5634.04,
+      "end": 5638.09,
+      "text": "反正每个买一点点嘛",
+      "avg_logprob": -0.1424,
+      "no_speech_prob": 0.0001,
+      "review": false
+    },
+    {
+      "start": 5638.09,
+      "end": 5640.01,
+      "text": "中高新啊",
+      "avg_logprob": -0.1424,
+      "no_speech_prob": 0.0001,
+      "review": false
+    },
+    {
+      "start": 5640.01,
+      "end": 5641.49,
+      "text": "这都每个买了一点点",
+      "avg_logprob": -0.1424,
+      "no_speech_prob": 0.0001,
+      "review": false
+    },
+    {
+      "start": 5641.49,
+      "end": 5642.07,
+      "text": "厦门无意",
+      "avg_logprob": -0.1424,
+      "no_speech_prob": 0.0001,
+      "review": false
+    },
+    {
+      "start": 5642.07,
+      "end": 5645.74,
+      "text": "哎呀我看看我是我",
+      "avg_logprob": -0.1424,
+      "no_speech_prob": 0.0001,
+      "review": false
+    },
+    {
+      "start": 5645.74,
+      "end": 5647.44,
+      "text": "我应该是每个都买了一点点",
+      "avg_logprob": -0.1424,
+      "no_speech_prob": 0.0001,
+      "review": false
+    },
+    {
+      "start": 5647.44,
+      "end": 5648.98,
+      "text": "每个都买了一点点啊",
+      "avg_logprob": -0.1424,
+      "no_speech_prob": 0.0001,
+      "review": false
+    },
+    {
+      "start": 5648.98,
+      "end": 5650.04,
+      "text": "我看一下看一下",
+      "avg_logprob": -0.1424,
+      "no_speech_prob": 0.0001,
+      "review": false
+    },
+    {
+      "start": 5650.18,
+      "end": 5657.74,
+      "text": "对,这些个股都买了一些,反正都参与吧",
+      "avg_logprob": -0.1406,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5657.74,
+      "end": 5663.3,
+      "text": "厦门物业、新业、银锡、湖南、黄金,对,都买了一些,都参与了一些",
+      "avg_logprob": -0.1406,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5663.3,
+      "end": 5693.87,
+      "text": "今天没有啥,今天都挺成功的,我们的操作也挺成功的",
+      "avg_logprob": -0.1406,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 5693.87,
+      "end": 5702.17,
+      "text": "昨天操作本来也挺成功的,不是因为这个内置票的突发性新闻,都是很成功的",
+      "avg_logprob": -0.1406,
+      "no_speech_prob": 0.0,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 20.55
+}

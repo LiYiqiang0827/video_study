@@ -1,0 +1,122 @@
+{
+  "purpose": "看图工具",
+  "read_only": true,
+  "started_utc": "2026-10-09T01:26:54.895900+00:00",
+  "source_before": {
+    "path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\db_cn_basic.db",
+    "size": 14320226304,
+    "mtime_ns": 1791161073965953500
+  },
+  "timings": {
+    "daily_factor_total_s": 14.036898099991959,
+    "1m_read_s": 0.6350710999977309,
+    "15m_read_s": 0.21677460000501014,
+    "minute_total_s": 0.9307058999984292
+  },
+  "stocks": {
+    "002025.SZ": {
+      "reused_C_snapshot": true,
+      "daily_rows": 2662,
+      "factor_rows": 2855,
+      "factor_only_dates": 193
+    },
+    "600990.SH": {
+      "reused_C_snapshot": true,
+      "daily_rows": 2713,
+      "factor_rows": 2855,
+      "factor_only_dates": 142
+    },
+    "002326.SZ": {
+      "daily_read_s": 0.025461199998972006,
+      "factor_read_s": 13.893396600004053,
+      "daily_rows": 2746,
+      "factor_rows": 2855,
+      "daily_first": "20150105",
+      "daily_last": "20260930",
+      "factor_only_dates": 109
+    }
+  },
+  "schema_version": 43,
+  "source_after": {
+    "path": "D:\\ProjectRocketData\\legacy_C_Project_Rocket\\Trading Agent Database\\db_cn_basic.db",
+    "size": 14320226304,
+    "mtime_ns": 1791161073965953500
+  },
+  "source_stat_unchanged": true,
+  "1m": {
+    "rows": 0,
+    "columns": [
+      "ts_code",
+      "name",
+      "trade_date",
+      "datetime",
+      "time_idx",
+      "open",
+      "high",
+      "low",
+      "close",
+      "vol",
+      "amount",
+      "adj_factor"
+    ],
+    "first": null,
+    "last": null
+  },
+  "15m": {
+    "rows": 16,
+    "columns": [
+      "ts_code",
+      "name",
+      "trade_date",
+      "datetime",
+      "time_idx",
+      "open",
+      "high",
+      "low",
+      "close",
+      "vol",
+      "amount",
+      "adj_factor"
+    ],
+    "first": "2026-09-24 09:45:00",
+    "last": "2026-09-24 15:00:00"
+  },
+  "files": {
+    "002025.SZ.20260924.15m.parquet": {
+      "sha256": "9962f22ad69e4fd57107e2f4686b197fbcd21ce956971f53f3552988343ef54d",
+      "size": 8029
+    },
+    "002025.SZ.20260924.1m.parquet": {
+      "sha256": "a88df7a1cda4ec3c0f84c9231f1ac80dfa86d7ffc63f4cdf22d767bd06abb1c9",
+      "size": 5372
+    },
+    "002025.SZ.daily.parquet": {
+      "sha256": "f4eb0665f4f3ba9b5aadf3b79c165dc0c223bed44e942ecce83dd7e21058d72e",
+      "size": 148699
+    },
+    "002025.SZ.factors.parquet": {
+      "sha256": "0f4ddded4d3aaeb15eb96fc76b60cac71f0900bff5960dbd9d67d14cd5e2ef20",
+      "size": 27661
+    },
+    "002326.SZ.daily.parquet": {
+      "sha256": "5d1afc5fd80622b01d34e76a43d5ff5d975492076c19a2f5261900c53618fad4",
+      "size": 142828
+    },
+    "002326.SZ.factors.parquet": {
+      "sha256": "af3c181eef4d0e9b3ea1a429a85134138f4772f2d11314c571632da7c40eef29",
+      "size": 27581
+    },
+    "600990.SH.daily.parquet": {
+      "sha256": "6a1660a3e2df4cc03b0d86268cd2dfe996fd3df9fc18d0639d3e2787d81bf11e",
+      "size": 151805
+    },
+    "600990.SH.factors.parquet": {
+      "sha256": "8c0dedaded53d5b78895a05d27b170bb216f13cd28dc41d8c32eb84076ccc622",
+      "size": 27618
+    },
+    "calendar.parquet": {
+      "sha256": "afc99b2174a7dc5b750537d7055367ed834ffcb388cbfe9ed5ecc1f06bbf5991",
+      "size": 32781
+    }
+  }
+}

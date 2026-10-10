@@ -1,0 +1,1560 @@
+{
+  "begin": 900.0,
+  "finish": 1200.0,
+  "segments": [
+    {
+      "start": 899.88,
+      "end": 900.64,
+      "text": "出口也是",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.5991,
+      "review": true
+    },
+    {
+      "start": 900.64,
+      "end": 902.44,
+      "text": "出口的第一的也是涨停",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.5991,
+      "review": true
+    },
+    {
+      "start": 902.44,
+      "end": 903.86,
+      "text": "所以还删了逻辑",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.5991,
+      "review": true
+    },
+    {
+      "start": 903.86,
+      "end": 904.5,
+      "text": "他删了这个",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.5991,
+      "review": true
+    },
+    {
+      "start": 904.5,
+      "end": 906.06,
+      "text": "他的占有市场逻辑",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.5991,
+      "review": true
+    },
+    {
+      "start": 906.06,
+      "end": 907.02,
+      "text": "来做的涨停",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.5991,
+      "review": true
+    },
+    {
+      "start": 907.02,
+      "end": 908.46,
+      "text": "那么整个还是变压器",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.5991,
+      "review": true
+    },
+    {
+      "start": 908.46,
+      "end": 910.72,
+      "text": "变压器这块高压电变压器",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.5991,
+      "review": true
+    },
+    {
+      "start": 910.72,
+      "end": 914.28,
+      "text": "看这个固态变压器",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.5991,
+      "review": true
+    },
+    {
+      "start": 914.28,
+      "end": 914.8,
+      "text": "SST",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.5991,
+      "review": true
+    },
+    {
+      "start": 914.8,
+      "end": 915.46,
+      "text": "这是个什么",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.5991,
+      "review": true
+    },
+    {
+      "start": 915.46,
+      "end": 918.86,
+      "text": "你看他说在未来五年内",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.5991,
+      "review": true
+    },
+    {
+      "start": 918.86,
+      "end": 920.16,
+      "text": "平均符合增长率",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.5991,
+      "review": true
+    },
+    {
+      "start": 920.16,
+      "end": 921.32,
+      "text": "25%到35%",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.5991,
+      "review": true
+    },
+    {
+      "start": 921.32,
+      "end": 922.46,
+      "text": "那就是非常不错的",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.5991,
+      "review": true
+    },
+    {
+      "start": 922.46,
+      "end": 925.85,
+      "text": "你看固态变压器",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.5991,
+      "review": true
+    },
+    {
+      "start": 925.85,
+      "end": 926.27,
+      "text": "谁是第一",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.5991,
+      "review": true
+    },
+    {
+      "start": 926.27,
+      "end": 926.89,
+      "text": "中国西电",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.5991,
+      "review": true
+    },
+    {
+      "start": 926.89,
+      "end": 929.21,
+      "text": "第二个固态变压器",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.5991,
+      "review": true
+    },
+    {
+      "start": 929.21,
+      "end": 929.71,
+      "text": "四方",
+      "avg_logprob": -0.1106,
+      "no_speech_prob": 0.5991,
+      "review": true
+    },
+    {
+      "start": 929.71,
+      "end": 933.88,
+      "text": "哇这都好高了",
+      "avg_logprob": -0.1247,
+      "no_speech_prob": 0.6787,
+      "review": true
+    },
+    {
+      "start": 933.88,
+      "end": 935.24,
+      "text": "都涨得好高了",
+      "avg_logprob": -0.1247,
+      "no_speech_prob": 0.6787,
+      "review": true
+    },
+    {
+      "start": 935.24,
+      "end": 937.98,
+      "text": "这最近市场情绪不好",
+      "avg_logprob": -0.1247,
+      "no_speech_prob": 0.6787,
+      "review": true
+    },
+    {
+      "start": 937.98,
+      "end": 938.9,
+      "text": "我就不追高了",
+      "avg_logprob": -0.1247,
+      "no_speech_prob": 0.6787,
+      "review": true
+    },
+    {
+      "start": 938.9,
+      "end": 941.86,
+      "text": "那其实我平时我不恐高的",
+      "avg_logprob": -0.1247,
+      "no_speech_prob": 0.6787,
+      "review": true
+    },
+    {
+      "start": 941.86,
+      "end": 943.04,
+      "text": "市场情绪好的时候",
+      "avg_logprob": -0.1247,
+      "no_speech_prob": 0.6787,
+      "review": true
+    },
+    {
+      "start": 943.04,
+      "end": 944.44,
+      "text": "西电这些我都还敢追",
+      "avg_logprob": -0.1247,
+      "no_speech_prob": 0.6787,
+      "review": true
+    },
+    {
+      "start": 944.44,
+      "end": 946.42,
+      "text": "但是现在市场情绪不好",
+      "avg_logprob": -0.1247,
+      "no_speech_prob": 0.6787,
+      "review": true
+    },
+    {
+      "start": 946.42,
+      "end": 948.14,
+      "text": "但是我们心里要有底",
+      "avg_logprob": -0.1247,
+      "no_speech_prob": 0.6787,
+      "review": true
+    },
+    {
+      "start": 948.14,
+      "end": 949.98,
+      "text": "他现在这个固态变压器说",
+      "avg_logprob": -0.1247,
+      "no_speech_prob": 0.6787,
+      "review": true
+    },
+    {
+      "start": 949.98,
+      "end": 951.84,
+      "text": "他炒固态变压器是哪些票",
+      "avg_logprob": -0.1247,
+      "no_speech_prob": 0.6787,
+      "review": true
+    },
+    {
+      "start": 951.84,
+      "end": 953.58,
+      "text": "中国西电四方",
+      "avg_logprob": -0.1247,
+      "no_speech_prob": 0.6787,
+      "review": true
+    },
+    {
+      "start": 953.58,
+      "end": 955.1,
+      "text": "这主要是这两个",
+      "avg_logprob": -0.1247,
+      "no_speech_prob": 0.6787,
+      "review": true
+    },
+    {
+      "start": 955.1,
+      "end": 956.04,
+      "text": "因为他是一个占第一",
+      "avg_logprob": -0.1247,
+      "no_speech_prob": 0.6787,
+      "review": true
+    },
+    {
+      "start": 956.04,
+      "end": 956.5,
+      "text": "一个占第二",
+      "avg_logprob": -0.1247,
+      "no_speech_prob": 0.6787,
+      "review": true
+    },
+    {
+      "start": 956.5,
+      "end": 958.08,
+      "text": "你看我平时都会把记下来",
+      "avg_logprob": -0.1247,
+      "no_speech_prob": 0.6787,
+      "review": true
+    },
+    {
+      "start": 958.08,
+      "end": 958.8,
+      "text": "大家知道吗",
+      "avg_logprob": -0.1247,
+      "no_speech_prob": 0.6787,
+      "review": true
+    },
+    {
+      "start": 958.8,
+      "end": 960.12,
+      "text": "像这些都是新知识点",
+      "avg_logprob": -0.1247,
+      "no_speech_prob": 0.6787,
+      "review": true
+    },
+    {
+      "start": 960.12,
+      "end": 961.04,
+      "text": "应该我以前都不知道",
+      "avg_logprob": -0.1247,
+      "no_speech_prob": 0.6787,
+      "review": true
+    },
+    {
+      "start": 961.04,
+      "end": 962.06,
+      "text": "那比如说我都不知道",
+      "avg_logprob": -0.1525,
+      "no_speech_prob": 0.8408,
+      "review": true
+    },
+    {
+      "start": 962.06,
+      "end": 964.6,
+      "text": "这个中国西电的固态变压器是占第一的",
+      "avg_logprob": -0.1525,
+      "no_speech_prob": 0.8408,
+      "review": true
+    },
+    {
+      "start": 964.6,
+      "end": 965.8,
+      "text": "四方是占第二的",
+      "avg_logprob": -0.1525,
+      "no_speech_prob": 0.8408,
+      "review": true
+    },
+    {
+      "start": 965.8,
+      "end": 966.7,
+      "text": "那我就把它记下来",
+      "avg_logprob": -0.1525,
+      "no_speech_prob": 0.8408,
+      "review": true
+    },
+    {
+      "start": 966.7,
+      "end": 969.0,
+      "text": "那么下一次如果他炒的时候就知道了",
+      "avg_logprob": -0.1525,
+      "no_speech_prob": 0.8408,
+      "review": true
+    },
+    {
+      "start": 969.0,
+      "end": 970.1,
+      "text": "这都是学习啊",
+      "avg_logprob": -0.1525,
+      "no_speech_prob": 0.8408,
+      "review": true
+    },
+    {
+      "start": 970.1,
+      "end": 970.78,
+      "text": "都要学习",
+      "avg_logprob": -0.1525,
+      "no_speech_prob": 0.8408,
+      "review": true
+    },
+    {
+      "start": 970.78,
+      "end": 973.2,
+      "text": "每天都有新的知识点要学习啊",
+      "avg_logprob": -0.1525,
+      "no_speech_prob": 0.8408,
+      "review": true
+    },
+    {
+      "start": 973.2,
+      "end": 974.08,
+      "text": "这没办法啊",
+      "avg_logprob": -0.1525,
+      "no_speech_prob": 0.8408,
+      "review": true
+    },
+    {
+      "start": 974.08,
+      "end": 975.5,
+      "text": "航天的航空",
+      "avg_logprob": -0.1525,
+      "no_speech_prob": 0.8408,
+      "review": true
+    },
+    {
+      "start": 975.5,
+      "end": 977.04,
+      "text": "昨天稍微有一点点那个",
+      "avg_logprob": -0.1525,
+      "no_speech_prob": 0.8408,
+      "review": true
+    },
+    {
+      "start": 977.04,
+      "end": 978.64,
+      "text": "那个制冷剂",
+      "avg_logprob": -0.1525,
+      "no_speech_prob": 0.8408,
+      "review": true
+    },
+    {
+      "start": 978.64,
+      "end": 979.8,
+      "text": "花工里面的制冷剂",
+      "avg_logprob": -0.1525,
+      "no_speech_prob": 0.8408,
+      "review": true
+    },
+    {
+      "start": 979.8,
+      "end": 981.5,
+      "text": "哦",
+      "avg_logprob": -0.1525,
+      "no_speech_prob": 0.8408,
+      "review": true
+    },
+    {
+      "start": 981.5,
+      "end": 982.9,
+      "text": "涨价又是涨价概念",
+      "avg_logprob": -0.1525,
+      "no_speech_prob": 0.8408,
+      "review": true
+    },
+    {
+      "start": 982.9,
+      "end": 984.9,
+      "text": "你看只要是涨价概念就比较好",
+      "avg_logprob": -0.1525,
+      "no_speech_prob": 0.8408,
+      "review": true
+    },
+    {
+      "start": 984.9,
+      "end": 985.68,
+      "text": "好",
+      "avg_logprob": -0.1525,
+      "no_speech_prob": 0.8408,
+      "review": true
+    },
+    {
+      "start": 985.68,
+      "end": 987.02,
+      "text": "花工里面的制冷剂涨价概念",
+      "avg_logprob": -0.1525,
+      "no_speech_prob": 0.8408,
+      "review": true
+    },
+    {
+      "start": 987.02,
+      "end": 988.58,
+      "text": "我们看谁比较好啊",
+      "avg_logprob": -0.1525,
+      "no_speech_prob": 0.8408,
+      "review": true
+    },
+    {
+      "start": 988.58,
+      "end": 990.24,
+      "text": "三美是排第一的",
+      "avg_logprob": -0.1525,
+      "no_speech_prob": 0.8408,
+      "review": true
+    },
+    {
+      "start": 990.24,
+      "end": 992.04,
+      "text": "巨化是排第二的",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 992.04,
+      "end": 994.06,
+      "text": "无华是排第三的",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 994.06,
+      "end": 996.78,
+      "text": "他炒没有炒排第一第二炒第三",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 996.78,
+      "end": 999.94,
+      "text": "我看是不是形态比较好",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 999.94,
+      "end": 1003.72,
+      "text": "也不是形态比较好",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 1003.72,
+      "end": 1005.1,
+      "text": "可能就是加速概念嘛",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 1005.1,
+      "end": 1007.42,
+      "text": "但是这个这些题材就比较小了",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 1007.42,
+      "end": 1008.36,
+      "text": "题材太小了",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 1008.36,
+      "end": 1008.98,
+      "text": "这种机这个",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 1008.98,
+      "end": 1010.4,
+      "text": "这个公司就只有几个",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 1010.4,
+      "end": 1011.34,
+      "text": "这种题材比较小",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 1011.34,
+      "end": 1012.36,
+      "text": "我们一般的也不碰啊",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 1012.36,
+      "end": 1013.08,
+      "text": "我一般的不碰",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 1013.08,
+      "end": 1014.84,
+      "text": "你说整体电力设备吗",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 1014.84,
+      "end": 1015.34,
+      "text": "还可以",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 1015.34,
+      "end": 1016.32,
+      "text": "但是那个太小",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 1016.32,
+      "end": 1016.96,
+      "text": "嗯",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 1016.96,
+      "end": 1017.84,
+      "text": "好",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 1017.84,
+      "end": 1018.94,
+      "text": "我先这样子看一圈",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 1018.94,
+      "end": 1019.8,
+      "text": "然后呢",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 1019.8,
+      "end": 1020.88,
+      "text": "我会再看看涨停股啊",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 1020.88,
+      "end": 1021.14,
+      "text": "是吧",
+      "avg_logprob": -0.142,
+      "no_speech_prob": 0.7656,
+      "review": true
+    },
+    {
+      "start": 1021.14,
+      "end": 1022.06,
+      "text": "昨天水涨最多",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.5298,
+      "review": true
+    },
+    {
+      "start": 1022.06,
+      "end": 1023.26,
+      "text": "还是电力设备最多",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.5298,
+      "review": true
+    },
+    {
+      "start": 1023.26,
+      "end": 1024.76,
+      "text": "第二个是水电",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.5298,
+      "review": true
+    },
+    {
+      "start": 1024.76,
+      "end": 1026.88,
+      "text": "大型央企",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.5298,
+      "review": true
+    },
+    {
+      "start": 1026.88,
+      "end": 1028.02,
+      "text": "特高压",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.5298,
+      "review": true
+    },
+    {
+      "start": 1028.02,
+      "end": 1029.7,
+      "text": "所以昨天整个是电力",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.5298,
+      "review": true
+    },
+    {
+      "start": 1029.7,
+      "end": 1031.12,
+      "text": "整个就是电力",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.5298,
+      "review": true
+    },
+    {
+      "start": 1031.12,
+      "end": 1034.79,
+      "text": "有一次设备",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.5298,
+      "review": true
+    },
+    {
+      "start": 1034.79,
+      "end": 1036.05,
+      "text": "二次设备",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.5298,
+      "review": true
+    },
+    {
+      "start": 1036.05,
+      "end": 1037.17,
+      "text": "检测设备",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.5298,
+      "review": true
+    },
+    {
+      "start": 1037.17,
+      "end": 1043.88,
+      "text": "你看这个电科院是",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.5298,
+      "review": true
+    },
+    {
+      "start": 1043.88,
+      "end": 1046.46,
+      "text": "从事高压电检测的第三方",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.5298,
+      "review": true
+    },
+    {
+      "start": 1046.46,
+      "end": 1048.3,
+      "text": "红项也是检测",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.5298,
+      "review": true
+    },
+    {
+      "start": 1048.3,
+      "end": 1049.52,
+      "text": "所以这个是炒的",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.5298,
+      "review": true
+    },
+    {
+      "start": 1049.52,
+      "end": 1050.4,
+      "text": "在炒检测",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.5298,
+      "review": true
+    },
+    {
+      "start": 1050.4,
+      "end": 1051.8,
+      "text": "电科院是炒检测",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.5298,
+      "review": true
+    },
+    {
+      "start": 1051.8,
+      "end": 1053.72,
+      "text": "这里面分得更细了",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.5298,
+      "review": true
+    },
+    {
+      "start": 1053.72,
+      "end": 1054.94,
+      "text": "什么换流法呀",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.5298,
+      "review": true
+    },
+    {
+      "start": 1054.94,
+      "end": 1055.72,
+      "text": "变电设备呀",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.5298,
+      "review": true
+    },
+    {
+      "start": 1055.72,
+      "end": 1056.72,
+      "text": "变压器呀",
+      "avg_logprob": -0.1726,
+      "no_speech_prob": 0.5298,
+      "review": true
+    },
+    {
+      "start": 1056.72,
+      "end": 1058.81,
+      "text": "书店和铁塔",
+      "avg_logprob": -0.1167,
+      "no_speech_prob": 0.5151,
+      "review": true
+    },
+    {
+      "start": 1058.81,
+      "end": 1061.01,
+      "text": "我们昨天炒的可能是变压器吗",
+      "avg_logprob": -0.1167,
+      "no_speech_prob": 0.5151,
+      "review": true
+    },
+    {
+      "start": 1061.01,
+      "end": 1061.99,
+      "text": "二次设备",
+      "avg_logprob": -0.1167,
+      "no_speech_prob": 0.5151,
+      "review": true
+    },
+    {
+      "start": 1061.99,
+      "end": 1062.89,
+      "text": "好",
+      "avg_logprob": -0.1167,
+      "no_speech_prob": 0.5151,
+      "review": true
+    },
+    {
+      "start": 1062.89,
+      "end": 1063.97,
+      "text": "大概你心里就说",
+      "avg_logprob": -0.1167,
+      "no_speech_prob": 0.5151,
+      "review": true
+    },
+    {
+      "start": 1063.97,
+      "end": 1065.15,
+      "text": "我先这样过一遍",
+      "avg_logprob": -0.1167,
+      "no_speech_prob": 0.5151,
+      "review": true
+    },
+    {
+      "start": 1065.15,
+      "end": 1066.13,
+      "text": "我心里就底了",
+      "avg_logprob": -0.1167,
+      "no_speech_prob": 0.5151,
+      "review": true
+    },
+    {
+      "start": 1066.13,
+      "end": 1067.83,
+      "text": "哦市场在炒什么东西",
+      "avg_logprob": -0.1167,
+      "no_speech_prob": 0.5151,
+      "review": true
+    },
+    {
+      "start": 1067.83,
+      "end": 1069.67,
+      "text": "哪些东西更有逻辑",
+      "avg_logprob": -0.1167,
+      "no_speech_prob": 0.5151,
+      "review": true
+    },
+    {
+      "start": 1069.67,
+      "end": 1070.75,
+      "text": "那么我要跟",
+      "avg_logprob": -0.1167,
+      "no_speech_prob": 0.5151,
+      "review": true
+    },
+    {
+      "start": 1070.75,
+      "end": 1072.31,
+      "text": "我就只跟那些最有逻辑的",
+      "avg_logprob": -0.1167,
+      "no_speech_prob": 0.5151,
+      "review": true
+    },
+    {
+      "start": 1072.31,
+      "end": 1073.89,
+      "text": "我一般的是这么一个情况",
+      "avg_logprob": -0.1167,
+      "no_speech_prob": 0.5151,
+      "review": true
+    },
+    {
+      "start": 1073.89,
+      "end": 1075.55,
+      "text": "好那么这边看完了",
+      "avg_logprob": -0.1167,
+      "no_speech_prob": 0.5151,
+      "review": true
+    },
+    {
+      "start": 1075.55,
+      "end": 1077.69,
+      "text": "我就基本上心里就知道了",
+      "avg_logprob": -0.1167,
+      "no_speech_prob": 0.5151,
+      "review": true
+    },
+    {
+      "start": 1077.69,
+      "end": 1078.97,
+      "text": "今天有些我要把它记下来",
+      "avg_logprob": -0.1167,
+      "no_speech_prob": 0.5151,
+      "review": true
+    },
+    {
+      "start": 1078.97,
+      "end": 1080.79,
+      "text": "市场最有逻辑要不要记下来",
+      "avg_logprob": -0.1167,
+      "no_speech_prob": 0.5151,
+      "review": true
+    },
+    {
+      "start": 1080.79,
+      "end": 1081.97,
+      "text": "那么好",
+      "avg_logprob": -0.1167,
+      "no_speech_prob": 0.5151,
+      "review": true
+    },
+    {
+      "start": 1081.97,
+      "end": 1082.89,
+      "text": "我们再来继续",
+      "avg_logprob": -0.1167,
+      "no_speech_prob": 0.5151,
+      "review": true
+    },
+    {
+      "start": 1082.89,
+      "end": 1086.33,
+      "text": "这个我不分析",
+      "avg_logprob": -0.1167,
+      "no_speech_prob": 0.5151,
+      "review": true
+    },
+    {
+      "start": 1086.33,
+      "end": 1087.29,
+      "text": "今天不分析其他市场",
+      "avg_logprob": -0.1167,
+      "no_speech_prob": 0.5151,
+      "review": true
+    },
+    {
+      "start": 1087.29,
+      "end": 1089.51,
+      "text": "我就是给会员展示",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.4336,
+      "review": false
+    },
+    {
+      "start": 1089.51,
+      "end": 1092.11,
+      "text": "我是如何每天做这个A股的复盘的",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.4336,
+      "review": false
+    },
+    {
+      "start": 1092.11,
+      "end": 1092.37,
+      "text": "好不好",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.4336,
+      "review": false
+    },
+    {
+      "start": 1092.37,
+      "end": 1093.89,
+      "text": "现在上午不分析了",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.4336,
+      "review": false
+    },
+    {
+      "start": 1093.89,
+      "end": 1094.97,
+      "text": "我们以后再直播啊",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.4336,
+      "review": false
+    },
+    {
+      "start": 1094.97,
+      "end": 1096.93,
+      "text": "所以其他视频的朋友可以先不看了",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.4336,
+      "review": false
+    },
+    {
+      "start": 1096.93,
+      "end": 1097.57,
+      "text": "好",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.4336,
+      "review": false
+    },
+    {
+      "start": 1097.57,
+      "end": 1099.59,
+      "text": "我们把这个看完之后啊",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.4336,
+      "review": false
+    },
+    {
+      "start": 1099.59,
+      "end": 1100.47,
+      "text": "你看新闻看完了",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.4336,
+      "review": false
+    },
+    {
+      "start": 1100.47,
+      "end": 1101.51,
+      "text": "软件题材",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.4336,
+      "review": false
+    },
+    {
+      "start": 1101.51,
+      "end": 1103.03,
+      "text": "当然我这个是收费的",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.4336,
+      "review": false
+    },
+    {
+      "start": 1103.03,
+      "end": 1104.67,
+      "text": "你们也可以去用开盘的呀",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.4336,
+      "review": false
+    },
+    {
+      "start": 1104.67,
+      "end": 1105.71,
+      "text": "九言公社啊",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.4336,
+      "review": false
+    },
+    {
+      "start": 1105.71,
+      "end": 1106.65,
+      "text": "这是免费的啊",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.4336,
+      "review": false
+    },
+    {
+      "start": 1106.65,
+      "end": 1107.77,
+      "text": "他们也可以的啊",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.4336,
+      "review": false
+    },
+    {
+      "start": 1107.77,
+      "end": 1108.15,
+      "text": "好",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.4336,
+      "review": false
+    },
+    {
+      "start": 1108.15,
+      "end": 1108.77,
+      "text": "然后呢",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.4336,
+      "review": false
+    },
+    {
+      "start": 1108.77,
+      "end": 1111.85,
+      "text": "第三步我就看交易软件的涨跌",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.4336,
+      "review": false
+    },
+    {
+      "start": 1111.85,
+      "end": 1113.25,
+      "text": "今天哪些涨哪些跌",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.4336,
+      "review": false
+    },
+    {
+      "start": 1113.25,
+      "end": 1114.47,
+      "text": "交易软件你可以用大智慧",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.4336,
+      "review": false
+    },
+    {
+      "start": 1114.47,
+      "end": 1114.87,
+      "text": "同样顺",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.4336,
+      "review": false
+    },
+    {
+      "start": 1114.87,
+      "end": 1116.67,
+      "text": "我自己就是用国信就行了啊",
+      "avg_logprob": -0.1289,
+      "no_speech_prob": 0.4336,
+      "review": false
+    },
+    {
+      "start": 1116.67,
+      "end": 1118.61,
+      "text": "因为我自己就是做交易用国系",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.4373,
+      "review": false
+    },
+    {
+      "start": 1118.61,
+      "end": 1119.77,
+      "text": "所以我就比较习惯了",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.4373,
+      "review": false
+    },
+    {
+      "start": 1119.77,
+      "end": 1120.13,
+      "text": "好",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.4373,
+      "review": false
+    },
+    {
+      "start": 1120.13,
+      "end": 1122.23,
+      "text": "那么我现在看肯定是要看涨跌吗",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.4373,
+      "review": false
+    },
+    {
+      "start": 1122.23,
+      "end": 1122.45,
+      "text": "是不是",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.4373,
+      "review": false
+    },
+    {
+      "start": 1122.45,
+      "end": 1124.71,
+      "text": "首先大概看一下板块",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.4373,
+      "review": false
+    },
+    {
+      "start": 1124.71,
+      "end": 1126.83,
+      "text": "首先看一下市场的板块",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.4373,
+      "review": false
+    },
+    {
+      "start": 1126.83,
+      "end": 1127.81,
+      "text": "等我一下",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.4373,
+      "review": false
+    },
+    {
+      "start": 1127.81,
+      "end": 1129.55,
+      "text": "这个今天忘了打开了",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.4373,
+      "review": false
+    },
+    {
+      "start": 1129.55,
+      "end": 1141.05,
+      "text": "我们在境外打开国内的炒股软件是很慢的",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.4373,
+      "review": false
+    },
+    {
+      "start": 1141.05,
+      "end": 1141.87,
+      "text": "在国内无所谓",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.4373,
+      "review": false
+    },
+    {
+      "start": 1141.87,
+      "end": 1143.15,
+      "text": "好",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.4373,
+      "review": false
+    },
+    {
+      "start": 1143.15,
+      "end": 1145.57,
+      "text": "我们看一下板块二级行业呢",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.4373,
+      "review": false
+    },
+    {
+      "start": 1145.57,
+      "end": 1152.99,
+      "text": "好",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.4373,
+      "review": false
+    },
+    {
+      "start": 1152.99,
+      "end": 1154.13,
+      "text": "电网电网设备",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.4373,
+      "review": false
+    },
+    {
+      "start": 1154.13,
+      "end": 1155.75,
+      "text": "刚才其实我们其他地方也看到了",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.4373,
+      "review": false
+    },
+    {
+      "start": 1155.75,
+      "end": 1156.25,
+      "text": "也知道了",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.4373,
+      "review": false
+    },
+    {
+      "start": 1156.25,
+      "end": 1157.11,
+      "text": "只不过我们再确认一下",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.4373,
+      "review": false
+    },
+    {
+      "start": 1157.11,
+      "end": 1158.09,
+      "text": "电网设备",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.4373,
+      "review": false
+    },
+    {
+      "start": 1158.09,
+      "end": 1159.13,
+      "text": "航空设备",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.4373,
+      "review": false
+    },
+    {
+      "start": 1159.13,
+      "end": 1160.23,
+      "text": "汽车服务",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.4373,
+      "review": false
+    },
+    {
+      "start": 1160.23,
+      "end": 1160.83,
+      "text": "餐饮",
+      "avg_logprob": -0.1252,
+      "no_speech_prob": 0.4373,
+      "review": false
+    },
+    {
+      "start": 1160.83,
+      "end": 1161.39,
+      "text": "化鲜",
+      "avg_logprob": -0.1268,
+      "no_speech_prob": 0.6719,
+      "review": true
+    },
+    {
+      "start": 1161.39,
+      "end": 1162.71,
+      "text": "硅金属",
+      "avg_logprob": -0.1268,
+      "no_speech_prob": 0.6719,
+      "review": true
+    },
+    {
+      "start": 1162.71,
+      "end": 1163.33,
+      "text": "铁钢",
+      "avg_logprob": -0.1268,
+      "no_speech_prob": 0.6719,
+      "review": true
+    },
+    {
+      "start": 1163.33,
+      "end": 1164.37,
+      "text": "好这些在涨",
+      "avg_logprob": -0.1268,
+      "no_speech_prob": 0.6719,
+      "review": true
+    },
+    {
+      "start": 1164.37,
+      "end": 1165.77,
+      "text": "那么最主要的电网设备",
+      "avg_logprob": -0.1268,
+      "no_speech_prob": 0.6719,
+      "review": true
+    },
+    {
+      "start": 1165.77,
+      "end": 1167.85,
+      "text": "但是其实我们不知道会不会持续",
+      "avg_logprob": -0.1268,
+      "no_speech_prob": 0.6719,
+      "review": true
+    },
+    {
+      "start": 1167.85,
+      "end": 1169.45,
+      "text": "但是那你当天可以跟一下",
+      "avg_logprob": -0.1268,
+      "no_speech_prob": 0.6719,
+      "review": true
+    },
+    {
+      "start": 1169.45,
+      "end": 1171.45,
+      "text": "你就是不持续算了嘛",
+      "avg_logprob": -0.1268,
+      "no_speech_prob": 0.6719,
+      "review": true
+    },
+    {
+      "start": 1171.45,
+      "end": 1171.63,
+      "text": "是不是",
+      "avg_logprob": -0.1268,
+      "no_speech_prob": 0.6719,
+      "review": true
+    },
+    {
+      "start": 1171.63,
+      "end": 1172.53,
+      "text": "那持续的话",
+      "avg_logprob": -0.1268,
+      "no_speech_prob": 0.6719,
+      "review": true
+    },
+    {
+      "start": 1172.53,
+      "end": 1173.51,
+      "text": "你不就一直赚钱吗",
+      "avg_logprob": -0.1268,
+      "no_speech_prob": 0.6719,
+      "review": true
+    },
+    {
+      "start": 1173.51,
+      "end": 1173.67,
+      "text": "是不是",
+      "avg_logprob": -0.1268,
+      "no_speech_prob": 0.6719,
+      "review": true
+    },
+    {
+      "start": 1173.67,
+      "end": 1175.85,
+      "text": "所以说你比如今天最热的电网设备",
+      "avg_logprob": -0.1268,
+      "no_speech_prob": 0.6719,
+      "review": true
+    },
+    {
+      "start": 1175.85,
+      "end": 1177.63,
+      "text": "那你可以当时跟一下电网设备",
+      "avg_logprob": -0.1268,
+      "no_speech_prob": 0.6719,
+      "review": true
+    },
+    {
+      "start": 1177.63,
+      "end": 1178.81,
+      "text": "第二个概念",
+      "avg_logprob": -0.1268,
+      "no_speech_prob": 0.6719,
+      "review": true
+    },
+    {
+      "start": 1178.81,
+      "end": 1180.91,
+      "text": "概念里面是特高压",
+      "avg_logprob": -0.1268,
+      "no_speech_prob": 0.6719,
+      "review": true
+    },
+    {
+      "start": 1180.91,
+      "end": 1183.28,
+      "text": "聚氨酯",
+      "avg_logprob": -0.1268,
+      "no_speech_prob": 0.6719,
+      "review": true
+    },
+    {
+      "start": 1183.28,
+      "end": 1184.48,
+      "text": "草干磷",
+      "avg_logprob": -0.1268,
+      "no_speech_prob": 0.6719,
+      "review": true
+    },
+    {
+      "start": 1184.48,
+      "end": 1185.62,
+      "text": "智能电网",
+      "avg_logprob": -0.1268,
+      "no_speech_prob": 0.6719,
+      "review": true
+    },
+    {
+      "start": 1185.62,
+      "end": 1187.66,
+      "text": "那么一般的就像我",
+      "avg_logprob": -0.1268,
+      "no_speech_prob": 0.6719,
+      "review": true
+    },
+    {
+      "start": 1187.66,
+      "end": 1189.16,
+      "text": "比如昨天如果我要排队啊",
+      "avg_logprob": -0.1268,
+      "no_speech_prob": 0.6719,
+      "review": true
+    },
+    {
+      "start": 1189.16,
+      "end": 1190.64,
+      "text": "我要去排队涨停啊",
+      "avg_logprob": -0.1268,
+      "no_speech_prob": 0.6719,
+      "review": true
+    },
+    {
+      "start": 1190.64,
+      "end": 1191.24,
+      "text": "或者是我要买",
+      "avg_logprob": -0.1561,
+      "no_speech_prob": 0.0057,
+      "review": false
+    },
+    {
+      "start": 1191.24,
+      "end": 1192.58,
+      "text": "那我基本上就会买特高压",
+      "avg_logprob": -0.1561,
+      "no_speech_prob": 0.0057,
+      "review": false
+    },
+    {
+      "start": 1192.58,
+      "end": 1193.9,
+      "text": "或者智能电网",
+      "avg_logprob": -0.1561,
+      "no_speech_prob": 0.0057,
+      "review": false
+    },
+    {
+      "start": 1193.9,
+      "end": 1195.74,
+      "text": "因为有的会员他会说",
+      "avg_logprob": -0.1561,
+      "no_speech_prob": 0.0057,
+      "review": false
+    },
+    {
+      "start": 1195.74,
+      "end": 1198.02,
+      "text": "有的题材的只持续一天",
+      "avg_logprob": -0.1561,
+      "no_speech_prob": 0.0057,
+      "review": false
+    },
+    {
+      "start": 1198.02,
+      "end": 1198.68,
+      "text": "是啊",
+      "avg_logprob": -0.1561,
+      "no_speech_prob": 0.0057,
+      "review": false
+    },
+    {
+      "start": 1198.68,
+      "end": 1200.72,
+      "text": "不是就是一句话说完",
+      "avg_logprob": -0.1561,
+      "no_speech_prob": 0.0057,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 59.92
+}

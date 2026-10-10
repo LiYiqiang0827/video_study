@@ -1,0 +1,552 @@
+{
+  "begin": 300.0,
+  "finish": 600.0,
+  "segments": [
+    {
+      "start": 299.28,
+      "end": 310.54,
+      "text": "我因为我在看我这个盘啊",
+      "avg_logprob": -0.1766,
+      "no_speech_prob": 0.7202,
+      "review": true
+    },
+    {
+      "start": 310.54,
+      "end": 311.46,
+      "text": "所以我把你们的",
+      "avg_logprob": -0.1766,
+      "no_speech_prob": 0.7202,
+      "review": true
+    },
+    {
+      "start": 311.46,
+      "end": 312.52,
+      "text": "你们的这个",
+      "avg_logprob": -0.1766,
+      "no_speech_prob": 0.7202,
+      "review": true
+    },
+    {
+      "start": 312.52,
+      "end": 313.38,
+      "text": "你看在这儿",
+      "avg_logprob": -0.1766,
+      "no_speech_prob": 0.7202,
+      "review": true
+    },
+    {
+      "start": 313.38,
+      "end": 314.16,
+      "text": "我放到这儿来啊",
+      "avg_logprob": -0.1766,
+      "no_speech_prob": 0.7202,
+      "review": true
+    },
+    {
+      "start": 314.16,
+      "end": 314.9,
+      "text": "你们的问题",
+      "avg_logprob": -0.1766,
+      "no_speech_prob": 0.7202,
+      "review": true
+    },
+    {
+      "start": 314.9,
+      "end": 316.46,
+      "text": "巴西现在几点",
+      "avg_logprob": -0.1766,
+      "no_speech_prob": 0.7202,
+      "review": true
+    },
+    {
+      "start": 316.46,
+      "end": 319.28,
+      "text": "巴西现在晚上的十点半",
+      "avg_logprob": -0.1766,
+      "no_speech_prob": 0.7202,
+      "review": true
+    },
+    {
+      "start": 319.28,
+      "end": 321.04,
+      "text": "晚上十点半",
+      "avg_logprob": -0.1766,
+      "no_speech_prob": 0.7202,
+      "review": true
+    },
+    {
+      "start": 321.04,
+      "end": 326.88,
+      "text": "好",
+      "avg_logprob": -0.1766,
+      "no_speech_prob": 0.7202,
+      "review": true
+    },
+    {
+      "start": 326.88,
+      "end": 327.96,
+      "text": "开始咯",
+      "avg_logprob": -0.1766,
+      "no_speech_prob": 0.7202,
+      "review": true
+    },
+    {
+      "start": 327.96,
+      "end": 330.0,
+      "text": "就要到二十了",
+      "avg_logprob": -0.1766,
+      "no_speech_prob": 0.7202,
+      "review": true
+    },
+    {
+      "start": 330.0,
+      "end": 330.7,
+      "text": "开始准备",
+      "avg_logprob": -0.1766,
+      "no_speech_prob": 0.7202,
+      "review": true
+    },
+    {
+      "start": 330.7,
+      "end": 332.42,
+      "text": "以仓走人了",
+      "avg_logprob": -0.1766,
+      "no_speech_prob": 0.7202,
+      "review": true
+    },
+    {
+      "start": 332.42,
+      "end": 337.26,
+      "text": "这些没亏没赚的",
+      "avg_logprob": -0.1766,
+      "no_speech_prob": 0.7202,
+      "review": true
+    },
+    {
+      "start": 337.26,
+      "end": 338.1,
+      "text": "基本上都要走了",
+      "avg_logprob": -0.1766,
+      "no_speech_prob": 0.7202,
+      "review": true
+    },
+    {
+      "start": 338.1,
+      "end": 340.32,
+      "text": "特别是这几个医药股",
+      "avg_logprob": -0.1766,
+      "no_speech_prob": 0.7202,
+      "review": true
+    },
+    {
+      "start": 340.32,
+      "end": 341.64,
+      "text": "它只要不高开",
+      "avg_logprob": -0.1766,
+      "no_speech_prob": 0.7202,
+      "review": true
+    },
+    {
+      "start": 341.64,
+      "end": 342.16,
+      "text": "我就该走了",
+      "avg_logprob": -0.1766,
+      "no_speech_prob": 0.7202,
+      "review": true
+    },
+    {
+      "start": 342.16,
+      "end": 365.44,
+      "text": "好,康诺化尘、凯带一、002",
+      "avg_logprob": -0.2516,
+      "no_speech_prob": 0.9922,
+      "review": true
+    },
+    {
+      "start": 365.44,
+      "end": 367.84,
+      "text": "这个走了",
+      "avg_logprob": -0.2516,
+      "no_speech_prob": 0.9922,
+      "review": true
+    },
+    {
+      "start": 367.84,
+      "end": 397.02,
+      "text": "赵云新药、蓝色光标",
+      "avg_logprob": -0.2516,
+      "no_speech_prob": 0.9922,
+      "review": true
+    },
+    {
+      "start": 397.02,
+      "end": 451.02,
+      "text": "除了这个药不走啊",
+      "avg_logprob": -0.2516,
+      "no_speech_prob": 0.9922,
+      "review": true
+    },
+    {
+      "start": 451.02,
+      "end": 452.16,
+      "text": "我手里全部走完了",
+      "avg_logprob": -0.2516,
+      "no_speech_prob": 0.9922,
+      "review": true
+    },
+    {
+      "start": 452.16,
+      "end": 454.74,
+      "text": "手里全部走完了",
+      "avg_logprob": -0.2516,
+      "no_speech_prob": 0.9922,
+      "review": true
+    },
+    {
+      "start": 454.74,
+      "end": 459.44,
+      "text": "这个石油也是",
+      "avg_logprob": -0.2516,
+      "no_speech_prob": 0.9922,
+      "review": true
+    },
+    {
+      "start": 459.44,
+      "end": 464.42,
+      "text": "这个石油不走吧",
+      "avg_logprob": -0.2516,
+      "no_speech_prob": 0.9922,
+      "review": true
+    },
+    {
+      "start": 464.42,
+      "end": 465.5,
+      "text": "这个石油先不管它",
+      "avg_logprob": -0.2516,
+      "no_speech_prob": 0.9922,
+      "review": true
+    },
+    {
+      "start": 465.5,
+      "end": 467.1,
+      "text": "这个石油还剩下来的",
+      "avg_logprob": -0.2516,
+      "no_speech_prob": 0.9922,
+      "review": true
+    },
+    {
+      "start": 467.1,
+      "end": 468.02,
+      "text": "这个石油不管它",
+      "avg_logprob": -0.2516,
+      "no_speech_prob": 0.9922,
+      "review": true
+    },
+    {
+      "start": 468.02,
+      "end": 469.02,
+      "text": "医药都走完了",
+      "avg_logprob": -0.2516,
+      "no_speech_prob": 0.9922,
+      "review": true
+    },
+    {
+      "start": 469.02,
+      "end": 471.6,
+      "text": "医药今天没有高开",
+      "avg_logprob": -0.2516,
+      "no_speech_prob": 0.9922,
+      "review": true
+    },
+    {
+      "start": 471.6,
+      "end": 474.7,
+      "text": "他说只要高开,除了这个博记医药",
+      "avg_logprob": -0.2307,
+      "no_speech_prob": 0.0565,
+      "review": false
+    },
+    {
+      "start": 474.7,
+      "end": 476.8,
+      "text": "这个博记医药等着看看吧",
+      "avg_logprob": -0.2307,
+      "no_speech_prob": 0.0565,
+      "review": false
+    },
+    {
+      "start": 476.8,
+      "end": 477.9,
+      "text": "看这个到底怎么样",
+      "avg_logprob": -0.2307,
+      "no_speech_prob": 0.0565,
+      "review": false
+    },
+    {
+      "start": 477.9,
+      "end": 490.44,
+      "text": "凯莱因的这个票基本上没赚没赔",
+      "avg_logprob": -0.2307,
+      "no_speech_prob": 0.0565,
+      "review": false
+    },
+    {
+      "start": 490.44,
+      "end": 491.96,
+      "text": "我在这一层位置买的",
+      "avg_logprob": -0.2307,
+      "no_speech_prob": 0.0565,
+      "review": false
+    },
+    {
+      "start": 491.96,
+      "end": 497.48,
+      "text": "这个赵燕新药也是差不多没赚没赔",
+      "avg_logprob": -0.2307,
+      "no_speech_prob": 0.0565,
+      "review": false
+    },
+    {
+      "start": 497.48,
+      "end": 498.66,
+      "text": "就走了",
+      "avg_logprob": -0.2307,
+      "no_speech_prob": 0.0565,
+      "review": false
+    },
+    {
+      "start": 498.66,
+      "end": 501.22,
+      "text": "就不管他,不要有任何的幻想",
+      "avg_logprob": -0.2307,
+      "no_speech_prob": 0.0565,
+      "review": false
+    },
+    {
+      "start": 501.22,
+      "end": 505.54,
+      "text": "康龙化成这是赚了很多",
+      "avg_logprob": -0.2307,
+      "no_speech_prob": 0.0565,
+      "review": false
+    },
+    {
+      "start": 505.54,
+      "end": 507.84,
+      "text": "蓝色光标也赚了",
+      "avg_logprob": -0.2307,
+      "no_speech_prob": 0.0565,
+      "review": false
+    },
+    {
+      "start": 507.84,
+      "end": 509.16,
+      "text": "但是这两天也回来了",
+      "avg_logprob": -0.2307,
+      "no_speech_prob": 0.0565,
+      "review": false
+    },
+    {
+      "start": 509.16,
+      "end": 509.92,
+      "text": "也有回抽",
+      "avg_logprob": -0.1901,
+      "no_speech_prob": 0.1157,
+      "review": false
+    },
+    {
+      "start": 509.92,
+      "end": 510.88,
+      "text": "基本上",
+      "avg_logprob": -0.1901,
+      "no_speech_prob": 0.1157,
+      "review": false
+    },
+    {
+      "start": 510.88,
+      "end": 512.26,
+      "text": "OK",
+      "avg_logprob": -0.1901,
+      "no_speech_prob": 0.1157,
+      "review": false
+    },
+    {
+      "start": 512.26,
+      "end": 513.48,
+      "text": "好",
+      "avg_logprob": -0.1901,
+      "no_speech_prob": 0.1157,
+      "review": false
+    },
+    {
+      "start": 513.48,
+      "end": 514.7,
+      "text": "基本上这些票我都走了",
+      "avg_logprob": -0.1901,
+      "no_speech_prob": 0.1157,
+      "review": false
+    },
+    {
+      "start": 514.7,
+      "end": 515.98,
+      "text": "我都走了",
+      "avg_logprob": -0.1901,
+      "no_speech_prob": 0.1157,
+      "review": false
+    },
+    {
+      "start": 515.98,
+      "end": 517.68,
+      "text": "我等会儿开盘之后就把它删掉了",
+      "avg_logprob": -0.1901,
+      "no_speech_prob": 0.1157,
+      "review": false
+    },
+    {
+      "start": 517.68,
+      "end": 518.6,
+      "text": "就不用看了",
+      "avg_logprob": -0.1901,
+      "no_speech_prob": 0.1157,
+      "review": false
+    },
+    {
+      "start": 518.6,
+      "end": 519.8,
+      "text": "博记一二",
+      "avg_logprob": -0.1901,
+      "no_speech_prob": 0.1157,
+      "review": false
+    },
+    {
+      "start": 519.8,
+      "end": 521.38,
+      "text": "这个我只有等到9点25了",
+      "avg_logprob": -0.1901,
+      "no_speech_prob": 0.1157,
+      "review": false
+    },
+    {
+      "start": 521.38,
+      "end": 523.12,
+      "text": "它如果高开3-4个点",
+      "avg_logprob": -0.1901,
+      "no_speech_prob": 0.1157,
+      "review": false
+    },
+    {
+      "start": 523.12,
+      "end": 524.14,
+      "text": "5-6个点我还买",
+      "avg_logprob": -0.1901,
+      "no_speech_prob": 0.1157,
+      "review": false
+    },
+    {
+      "start": 524.14,
+      "end": 526.36,
+      "text": "高开10个点太夸张了",
+      "avg_logprob": -0.1901,
+      "no_speech_prob": 0.1157,
+      "review": false
+    },
+    {
+      "start": 526.36,
+      "end": 527.34,
+      "text": "10个点太夸张了",
+      "avg_logprob": -0.1901,
+      "no_speech_prob": 0.1157,
+      "review": false
+    },
+    {
+      "start": 527.34,
+      "end": 527.72,
+      "text": "说实话",
+      "avg_logprob": -0.1901,
+      "no_speech_prob": 0.1157,
+      "review": false
+    },
+    {
+      "start": 527.72,
+      "end": 528.84,
+      "text": "这个有点过了",
+      "avg_logprob": -0.1901,
+      "no_speech_prob": 0.1157,
+      "review": false
+    },
+    {
+      "start": 528.84,
+      "end": 530.16,
+      "text": "它有点过了",
+      "avg_logprob": -0.1901,
+      "no_speech_prob": 0.1157,
+      "review": false
+    },
+    {
+      "start": 530.92,
+      "end": 531.52,
+      "text": "有点过了",
+      "avg_logprob": -0.1901,
+      "no_speech_prob": 0.1157,
+      "review": false
+    },
+    {
+      "start": 531.52,
+      "end": 536.06,
+      "text": "我还是不会买的",
+      "avg_logprob": -0.1901,
+      "no_speech_prob": 0.1157,
+      "review": false
+    },
+    {
+      "start": 536.06,
+      "end": 536.96,
+      "text": "我要走",
+      "avg_logprob": -0.1901,
+      "no_speech_prob": 0.1157,
+      "review": false
+    },
+    {
+      "start": 536.96,
+      "end": 537.9,
+      "text": "你们不一定走",
+      "avg_logprob": -0.1901,
+      "no_speech_prob": 0.1157,
+      "review": false
+    },
+    {
+      "start": 537.9,
+      "end": 539.2,
+      "text": "我不知道你们的这个情况",
+      "avg_logprob": -0.1901,
+      "no_speech_prob": 0.1157,
+      "review": false
+    },
+    {
+      "start": 539.2,
+      "end": 539.94,
+      "text": "反正我是要走的",
+      "avg_logprob": -0.1901,
+      "no_speech_prob": 0.1157,
+      "review": false
+    },
+    {
+      "start": 539.94,
+      "end": 541.0,
+      "text": "我说走的",
+      "avg_logprob": -0.1901,
+      "no_speech_prob": 0.1157,
+      "review": false
+    },
+    {
+      "start": 541.0,
+      "end": 600.3,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0915,
+      "no_speech_prob": 0.0556,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 10.98
+}

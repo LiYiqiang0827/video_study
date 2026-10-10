@@ -1,0 +1,37 @@
+{
+  "task_id": "MKT-R4-20261007",
+  "updated_at": "2026-10-07",
+  "status": "root_accepted",
+  "methodology_review": "project_review_accepted",
+  "authorization": "See USER_CHANGE_R4.md",
+  "decision": "Retain descriptive three-reading/weather definitions; complete without human labels; adopt factual explanation and diagnostics improvements",
+  "model_execution_evidence": "Both native spawn calls explicitly requested gpt-6.1-sol/xhigh and returned task names; no model swap",
+  "worker_contracts": [
+    {"task":"r4_sources","input":"fixed spec and opened primary public sources","write_scope":"bounded revision_r4 run, sources JSON only","deadline":"10 minutes or explicit unfinished result","stop":"source results delivered; no thresholds or Git writes"},
+    {"task":"r4_reacceptance","input":"published raw/calibration and formal_corrected events/cohorts","write_scope":"bounded revision_r4 execution directory","deadline":"15 minutes or specific progress","stop":"checks delivered; two attempts maximum per failure"},
+    {"task":"r4_sources follow-up","input":"new review.py/run.py/test_review.py and published daily","write_scope":"bounded code-review JSON and scratch","deadline":"10 minutes","stop":"specific findings delivered; no source edits"},
+    {"task":"r4_reacceptance follow-up","input":"legacy synthetic tests and original-DB recomputed derived daily","write_scope":"bounded legacy-tests evidence","deadline":"10 minutes","stop":"test and 181-day comparison result; no raw writes"}
+  ],
+  "human_labels_as_ground_truth": false,
+  "public_methods_reviewed": 5,
+  "primary_method_comparisons_adopted": 4,
+  "thresholds_weights_priors_anchors_unchanged": true,
+  "threshold_revision_counts": {"hit":0,"cont":0,"act":0},
+  "root_reviewed_changed_code": true,
+  "root_arithmetic_and_source_checks": "revision_r4_root_checks.json",
+  "weather_pytest_cases": 82,
+  "weather_subtests": 8,
+  "legacy_f1_tests": 37,
+  "native_review_boundary_checks": 1053,
+  "baseline_full_event_prefix_days": [299,359,410],
+  "daily_explanations": 424,
+  "component_contribution_rows": 3816,
+  "publication": "implementation_pushed_verified_b7338a6",
+  "remaining_research_items": [],
+  "remaining_operational_items": [
+    "Calendar missing 20261007 prevents original-DB today completion",
+    "Upstream scheduler remains Disabled in its owner state; weather hook not enabled",
+    "First postholiday unattended update not yet observed"
+  ],
+  "outside_scope_preserved": ["raw databases","credentials","trading","returns tuning","old F1 artifacts","old decks","main workspace uncommitted changes"]
+}

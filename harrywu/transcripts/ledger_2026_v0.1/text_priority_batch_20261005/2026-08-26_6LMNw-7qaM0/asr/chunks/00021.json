@@ -1,0 +1,880 @@
+{
+  "begin": 6300.0,
+  "finish": 6600.0,
+  "segments": [
+    {
+      "start": 6300.08,
+      "end": 6302.88,
+      "text": "大家一对全是前言不达后语",
+      "avg_logprob": -0.1056,
+      "no_speech_prob": 0.7905,
+      "review": true
+    },
+    {
+      "start": 6302.88,
+      "end": 6304.26,
+      "text": "这个采访说",
+      "avg_logprob": -0.1056,
+      "no_speech_prob": 0.7905,
+      "review": true
+    },
+    {
+      "start": 6304.26,
+      "end": 6306.48,
+      "text": "什么多少岁随奶奶在北京住",
+      "avg_logprob": -0.1056,
+      "no_speech_prob": 0.7905,
+      "review": true
+    },
+    {
+      "start": 6306.48,
+      "end": 6307.82,
+      "text": "那一个采访又说",
+      "avg_logprob": -0.1056,
+      "no_speech_prob": 0.7905,
+      "review": true
+    },
+    {
+      "start": 6307.82,
+      "end": 6309.46,
+      "text": "我从来没见过我奶奶",
+      "avg_logprob": -0.1056,
+      "no_speech_prob": 0.7905,
+      "review": true
+    },
+    {
+      "start": 6309.46,
+      "end": 6311.24,
+      "text": "在十岁之前没见过奶奶",
+      "avg_logprob": -0.1056,
+      "no_speech_prob": 0.7905,
+      "review": true
+    },
+    {
+      "start": 6311.24,
+      "end": 6313.0,
+      "text": "这就是谎话随口",
+      "avg_logprob": -0.1056,
+      "no_speech_prob": 0.7905,
+      "review": true
+    },
+    {
+      "start": 6313.0,
+      "end": 6313.68,
+      "text": "就是编",
+      "avg_logprob": -0.1056,
+      "no_speech_prob": 0.7905,
+      "review": true
+    },
+    {
+      "start": 6313.68,
+      "end": 6315.72,
+      "text": "编谎话随口就编",
+      "avg_logprob": -0.1056,
+      "no_speech_prob": 0.7905,
+      "review": true
+    },
+    {
+      "start": 6315.72,
+      "end": 6316.28,
+      "text": "还有什么",
+      "avg_logprob": -0.1056,
+      "no_speech_prob": 0.7905,
+      "review": true
+    },
+    {
+      "start": 6316.28,
+      "end": 6319.7,
+      "text": "特别是有一次他说他上过哈佛给了他通知书",
+      "avg_logprob": -0.1056,
+      "no_speech_prob": 0.7905,
+      "review": true
+    },
+    {
+      "start": 6319.7,
+      "end": 6320.48,
+      "text": "他不去",
+      "avg_logprob": -0.1056,
+      "no_speech_prob": 0.7905,
+      "review": true
+    },
+    {
+      "start": 6320.48,
+      "end": 6322.8,
+      "text": "他一个初中毕业的人啊",
+      "avg_logprob": -0.1056,
+      "no_speech_prob": 0.7905,
+      "review": true
+    },
+    {
+      "start": 6322.8,
+      "end": 6324.34,
+      "text": "敢这么吹牛啊",
+      "avg_logprob": -0.1056,
+      "no_speech_prob": 0.7905,
+      "review": true
+    },
+    {
+      "start": 6324.34,
+      "end": 6326.36,
+      "text": "说哈佛大学给我发了通知书",
+      "avg_logprob": -0.1056,
+      "no_speech_prob": 0.7905,
+      "review": true
+    },
+    {
+      "start": 6326.36,
+      "end": 6327.24,
+      "text": "但是我不去",
+      "avg_logprob": -0.1056,
+      "no_speech_prob": 0.7905,
+      "review": true
+    },
+    {
+      "start": 6327.24,
+      "end": 6328.84,
+      "text": "我愿意在中国留在中国",
+      "avg_logprob": -0.1224,
+      "no_speech_prob": 0.0912,
+      "review": false
+    },
+    {
+      "start": 6328.84,
+      "end": 6330.04,
+      "text": "我的天",
+      "avg_logprob": -0.1224,
+      "no_speech_prob": 0.0912,
+      "review": false
+    },
+    {
+      "start": 6330.04,
+      "end": 6331.2,
+      "text": "所以他那个翻",
+      "avg_logprob": -0.1224,
+      "no_speech_prob": 0.0912,
+      "review": false
+    },
+    {
+      "start": 6331.2,
+      "end": 6333.28,
+      "text": "他这种口无遮拦",
+      "avg_logprob": -0.1224,
+      "no_speech_prob": 0.0912,
+      "review": false
+    },
+    {
+      "start": 6333.28,
+      "end": 6334.16,
+      "text": "谎话随时的",
+      "avg_logprob": -0.1224,
+      "no_speech_prob": 0.0912,
+      "review": false
+    },
+    {
+      "start": 6334.16,
+      "end": 6335.62,
+      "text": "而且是在中央电视台",
+      "avg_logprob": -0.1224,
+      "no_speech_prob": 0.0912,
+      "review": false
+    },
+    {
+      "start": 6335.62,
+      "end": 6337.32,
+      "text": "这种大的电视台采访的时候",
+      "avg_logprob": -0.1224,
+      "no_speech_prob": 0.0912,
+      "review": false
+    },
+    {
+      "start": 6337.32,
+      "end": 6338.46,
+      "text": "谎话随口就来",
+      "avg_logprob": -0.1224,
+      "no_speech_prob": 0.0912,
+      "review": false
+    },
+    {
+      "start": 6338.46,
+      "end": 6340.74,
+      "text": "所以他这种人迟早要翻车了",
+      "avg_logprob": -0.1224,
+      "no_speech_prob": 0.0912,
+      "review": false
+    },
+    {
+      "start": 6340.74,
+      "end": 6342.38,
+      "text": "迟早要翻车",
+      "avg_logprob": -0.1224,
+      "no_speech_prob": 0.0912,
+      "review": false
+    },
+    {
+      "start": 6342.38,
+      "end": 6343.02,
+      "text": "没办法",
+      "avg_logprob": -0.1224,
+      "no_speech_prob": 0.0912,
+      "review": false
+    },
+    {
+      "start": 6343.02,
+      "end": 6344.04,
+      "text": "他这种人迟早要翻车",
+      "avg_logprob": -0.1224,
+      "no_speech_prob": 0.0912,
+      "review": false
+    },
+    {
+      "start": 6344.04,
+      "end": 6346.62,
+      "text": "根本他不是那一句话是霉运",
+      "avg_logprob": -0.1224,
+      "no_speech_prob": 0.0912,
+      "review": false
+    },
+    {
+      "start": 6346.62,
+      "end": 6348.46,
+      "text": "是他只不过碰巧",
+      "avg_logprob": -0.1224,
+      "no_speech_prob": 0.0912,
+      "review": false
+    },
+    {
+      "start": 6348.46,
+      "end": 6350.64,
+      "text": "一直以来没有人去揭露他",
+      "avg_logprob": -0.1224,
+      "no_speech_prob": 0.0912,
+      "review": false
+    },
+    {
+      "start": 6350.64,
+      "end": 6353.3,
+      "text": "他这种人迟早会出问题的",
+      "avg_logprob": -0.1224,
+      "no_speech_prob": 0.0912,
+      "review": false
+    },
+    {
+      "start": 6353.3,
+      "end": 6356.68,
+      "text": "这个巴西的有一句谚语叫",
+      "avg_logprob": -0.1224,
+      "no_speech_prob": 0.0912,
+      "review": false
+    },
+    {
+      "start": 6356.68,
+      "end": 6361.06,
+      "text": "就什么意思呢",
+      "avg_logprob": -0.1248,
+      "no_speech_prob": 0.2413,
+      "review": false
+    },
+    {
+      "start": 6361.06,
+      "end": 6364.48,
+      "text": "就是说谎言的腿非常短",
+      "avg_logprob": -0.1248,
+      "no_speech_prob": 0.2413,
+      "review": false
+    },
+    {
+      "start": 6364.48,
+      "end": 6365.18,
+      "text": "跑不快",
+      "avg_logprob": -0.1248,
+      "no_speech_prob": 0.2413,
+      "review": false
+    },
+    {
+      "start": 6365.18,
+      "end": 6366.64,
+      "text": "就是说你说个谎",
+      "avg_logprob": -0.1248,
+      "no_speech_prob": 0.2413,
+      "review": false
+    },
+    {
+      "start": 6366.64,
+      "end": 6368.26,
+      "text": "迟早有一天人家会发现的",
+      "avg_logprob": -0.1248,
+      "no_speech_prob": 0.2413,
+      "review": false
+    },
+    {
+      "start": 6368.26,
+      "end": 6369.62,
+      "text": "你不要以为人家没发现",
+      "avg_logprob": -0.1248,
+      "no_speech_prob": 0.2413,
+      "review": false
+    },
+    {
+      "start": 6369.62,
+      "end": 6376.02,
+      "text": "好师傅的台湾",
+      "avg_logprob": -0.1248,
+      "no_speech_prob": 0.2413,
+      "review": false
+    },
+    {
+      "start": 6376.02,
+      "end": 6376.7,
+      "text": "那可不是",
+      "avg_logprob": -0.1248,
+      "no_speech_prob": 0.2413,
+      "review": false
+    },
+    {
+      "start": 6376.7,
+      "end": 6378.12,
+      "text": "好师傅一定是在国内的",
+      "avg_logprob": -0.1248,
+      "no_speech_prob": 0.2413,
+      "review": false
+    },
+    {
+      "start": 6378.12,
+      "end": 6379.42,
+      "text": "国内我们有十二亿人",
+      "avg_logprob": -0.1248,
+      "no_speech_prob": 0.2413,
+      "review": false
+    },
+    {
+      "start": 6379.42,
+      "end": 6382.04,
+      "text": "你怎么不相信我们的力量呢",
+      "avg_logprob": -0.1248,
+      "no_speech_prob": 0.2413,
+      "review": false
+    },
+    {
+      "start": 6382.04,
+      "end": 6382.34,
+      "text": "是吧",
+      "avg_logprob": -0.1248,
+      "no_speech_prob": 0.2413,
+      "review": false
+    },
+    {
+      "start": 6382.34,
+      "end": 6383.98,
+      "text": "台湾才多少人",
+      "avg_logprob": -0.1248,
+      "no_speech_prob": 0.2413,
+      "review": false
+    },
+    {
+      "start": 6383.98,
+      "end": 6392.2,
+      "text": "和尚本来就不会看八字",
+      "avg_logprob": -0.1248,
+      "no_speech_prob": 0.2413,
+      "review": false
+    },
+    {
+      "start": 6392.2,
+      "end": 6393.08,
+      "text": "八字这个东西",
+      "avg_logprob": -0.1248,
+      "no_speech_prob": 0.2413,
+      "review": false
+    },
+    {
+      "start": 6393.08,
+      "end": 6394.46,
+      "text": "本来理论上说",
+      "avg_logprob": -0.1248,
+      "no_speech_prob": 0.2413,
+      "review": false
+    },
+    {
+      "start": 6394.46,
+      "end": 6398.02,
+      "text": "他都是道士,就是以前是道士来主吗?那肯定不是",
+      "avg_logprob": -0.1597,
+      "no_speech_prob": 0.9341,
+      "review": true
+    },
+    {
+      "start": 6398.02,
+      "end": 6409.74,
+      "text": "那你上面这个问题啊,我还没有时间给你看",
+      "avg_logprob": -0.1597,
+      "no_speech_prob": 0.9341,
+      "review": true
+    },
+    {
+      "start": 6409.74,
+      "end": 6411.9,
+      "text": "我知道你在我的那个玄学频道留言了",
+      "avg_logprob": -0.1597,
+      "no_speech_prob": 0.9341,
+      "review": true
+    },
+    {
+      "start": 6411.9,
+      "end": 6415.4,
+      "text": "本来我是计划明天看的,今天我因为很忙嘛,今天我做了很多事情",
+      "avg_logprob": -0.1597,
+      "no_speech_prob": 0.9341,
+      "review": true
+    },
+    {
+      "start": 6415.4,
+      "end": 6423.08,
+      "text": "明后天看吧,这个,呃,我,你想吧,你是记水土嘛",
+      "avg_logprob": -0.1597,
+      "no_speech_prob": 0.9341,
+      "review": true
+    },
+    {
+      "start": 6423.08,
+      "end": 6426.14,
+      "text": "这个亥马卫三合目嘛,亥马卫是合的目",
+      "avg_logprob": -0.1597,
+      "no_speech_prob": 0.9341,
+      "review": true
+    },
+    {
+      "start": 6426.14,
+      "end": 6428.66,
+      "text": "所以说也无所谓啊,你又不记是吧",
+      "avg_logprob": -0.1597,
+      "no_speech_prob": 0.9341,
+      "review": true
+    },
+    {
+      "start": 6428.66,
+      "end": 6431.18,
+      "text": "丑区域三型肯定是不太好",
+      "avg_logprob": -0.1773,
+      "no_speech_prob": 0.194,
+      "review": false
+    },
+    {
+      "start": 6431.18,
+      "end": 6433.7,
+      "text": "你又记住丑区域三型碰来碰去的",
+      "avg_logprob": -0.1773,
+      "no_speech_prob": 0.194,
+      "review": false
+    },
+    {
+      "start": 6433.7,
+      "end": 6434.9,
+      "text": "这个肯定是不太好",
+      "avg_logprob": -0.1773,
+      "no_speech_prob": 0.194,
+      "review": false
+    },
+    {
+      "start": 6434.9,
+      "end": 6436.7,
+      "text": "这个到时候再看吧",
+      "avg_logprob": -0.1773,
+      "no_speech_prob": 0.194,
+      "review": false
+    },
+    {
+      "start": 6436.7,
+      "end": 6438.52,
+      "text": "这个看你到时候硬事是因哪方面",
+      "avg_logprob": -0.1773,
+      "no_speech_prob": 0.194,
+      "review": false
+    },
+    {
+      "start": 6438.52,
+      "end": 6442.36,
+      "text": "但是三型的年份你就小心一点",
+      "avg_logprob": -0.1773,
+      "no_speech_prob": 0.194,
+      "review": false
+    },
+    {
+      "start": 6442.36,
+      "end": 6445.18,
+      "text": "比如说谭生义那些",
+      "avg_logprob": -0.1773,
+      "no_speech_prob": 0.194,
+      "review": false
+    },
+    {
+      "start": 6445.18,
+      "end": 6446.28,
+      "text": "那比如说我举个例子",
+      "avg_logprob": -0.1773,
+      "no_speech_prob": 0.194,
+      "review": false
+    },
+    {
+      "start": 6446.28,
+      "end": 6447.32,
+      "text": "什么叫小心一点",
+      "avg_logprob": -0.1773,
+      "no_speech_prob": 0.194,
+      "review": false
+    },
+    {
+      "start": 6447.32,
+      "end": 6450.48,
+      "text": "我从9月7号开始",
+      "avg_logprob": -0.1773,
+      "no_speech_prob": 0.194,
+      "review": false
+    },
+    {
+      "start": 6450.48,
+      "end": 6453.72,
+      "text": "将是我这一年第二个倒霉的月",
+      "avg_logprob": -0.1773,
+      "no_speech_prob": 0.194,
+      "review": false
+    },
+    {
+      "start": 6453.72,
+      "end": 6455.66,
+      "text": "上一个倒霉月我车丢了",
+      "avg_logprob": -0.1773,
+      "no_speech_prob": 0.194,
+      "review": false
+    },
+    {
+      "start": 6455.66,
+      "end": 6457.84,
+      "text": "我下个倒霉月我都不知道发生啥事",
+      "avg_logprob": -0.1773,
+      "no_speech_prob": 0.194,
+      "review": false
+    },
+    {
+      "start": 6457.84,
+      "end": 6459.62,
+      "text": "但是呢至少要倒霉",
+      "avg_logprob": -0.109,
+      "no_speech_prob": 0.4893,
+      "review": false
+    },
+    {
+      "start": 6459.62,
+      "end": 6460.16,
+      "text": "那我干嘛",
+      "avg_logprob": -0.109,
+      "no_speech_prob": 0.4893,
+      "review": false
+    },
+    {
+      "start": 6460.16,
+      "end": 6461.42,
+      "text": "第一个晚上我别出去",
+      "avg_logprob": -0.109,
+      "no_speech_prob": 0.4893,
+      "review": false
+    },
+    {
+      "start": 6461.42,
+      "end": 6461.96,
+      "text": "是吧",
+      "avg_logprob": -0.109,
+      "no_speech_prob": 0.4893,
+      "review": false
+    },
+    {
+      "start": 6461.96,
+      "end": 6464.78,
+      "text": "第二个不要去谈合同签合同",
+      "avg_logprob": -0.109,
+      "no_speech_prob": 0.4893,
+      "review": false
+    },
+    {
+      "start": 6464.78,
+      "end": 6468.58,
+      "text": "比如下个月本来我想把我这个house前面那个花园整一整",
+      "avg_logprob": -0.109,
+      "no_speech_prob": 0.4893,
+      "review": false
+    },
+    {
+      "start": 6468.58,
+      "end": 6470.72,
+      "text": "还有好多一些事情我要不要整一整",
+      "avg_logprob": -0.109,
+      "no_speech_prob": 0.4893,
+      "review": false
+    },
+    {
+      "start": 6470.72,
+      "end": 6472.22,
+      "text": "后面我全都不整了",
+      "avg_logprob": -0.109,
+      "no_speech_prob": 0.4893,
+      "review": false
+    },
+    {
+      "start": 6472.22,
+      "end": 6473.84,
+      "text": "就不完全不整了",
+      "avg_logprob": -0.109,
+      "no_speech_prob": 0.4893,
+      "review": false
+    },
+    {
+      "start": 6473.84,
+      "end": 6475.58,
+      "text": "我等10月7号之后再整",
+      "avg_logprob": -0.109,
+      "no_speech_prob": 0.4893,
+      "review": false
+    },
+    {
+      "start": 6475.58,
+      "end": 6477.82,
+      "text": "反正9月7号到10月7号",
+      "avg_logprob": -0.109,
+      "no_speech_prob": 0.4893,
+      "review": false
+    },
+    {
+      "start": 6477.82,
+      "end": 6479.9,
+      "text": "是我比较倒霉的这一个月",
+      "avg_logprob": -0.109,
+      "no_speech_prob": 0.4893,
+      "review": false
+    },
+    {
+      "start": 6479.9,
+      "end": 6483.66,
+      "text": "那么我做投资我也要非常非常非常非常非常小心",
+      "avg_logprob": -0.109,
+      "no_speech_prob": 0.4893,
+      "review": false
+    },
+    {
+      "start": 6483.66,
+      "end": 6486.06,
+      "text": "你们也尽量不要跟我的票",
+      "avg_logprob": -0.109,
+      "no_speech_prob": 0.4893,
+      "review": false
+    },
+    {
+      "start": 6486.06,
+      "end": 6516.04,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0902,
+      "no_speech_prob": 0.6851,
+      "review": true
+    },
+    {
+      "start": 6516.06,
+      "end": 6553.55,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0804,
+      "no_speech_prob": 0.5576,
+      "review": true
+    },
+    {
+      "start": 6553.57,
+      "end": 6555.91,
+      "text": "那么白龙王那种他是神通",
+      "avg_logprob": -0.1244,
+      "no_speech_prob": 0.9541,
+      "review": true
+    },
+    {
+      "start": 6555.91,
+      "end": 6557.31,
+      "text": "神通是另外一种",
+      "avg_logprob": -0.1244,
+      "no_speech_prob": 0.9541,
+      "review": true
+    },
+    {
+      "start": 6557.31,
+      "end": 6560.49,
+      "text": "这种呢一般的其实这种人都很惨的我跟你说",
+      "avg_logprob": -0.1244,
+      "no_speech_prob": 0.9541,
+      "review": true
+    },
+    {
+      "start": 6560.49,
+      "end": 6561.77,
+      "text": "有神通的人都很惨",
+      "avg_logprob": -0.1244,
+      "no_speech_prob": 0.9541,
+      "review": true
+    },
+    {
+      "start": 6561.77,
+      "end": 6562.65,
+      "text": "为什么呢",
+      "avg_logprob": -0.1244,
+      "no_speech_prob": 0.9541,
+      "review": true
+    },
+    {
+      "start": 6562.65,
+      "end": 6564.39,
+      "text": "有神通的人真正有神通的人",
+      "avg_logprob": -0.1244,
+      "no_speech_prob": 0.9541,
+      "review": true
+    },
+    {
+      "start": 6564.39,
+      "end": 6565.73,
+      "text": "第一个不会收你很多钱",
+      "avg_logprob": -0.1244,
+      "no_speech_prob": 0.9541,
+      "review": true
+    },
+    {
+      "start": 6565.73,
+      "end": 6568.45,
+      "text": "第二个呢他有很多的责任要去做",
+      "avg_logprob": -0.1244,
+      "no_speech_prob": 0.9541,
+      "review": true
+    },
+    {
+      "start": 6568.45,
+      "end": 6570.91,
+      "text": "一般的有神通的人都是得上大病",
+      "avg_logprob": -0.1244,
+      "no_speech_prob": 0.9541,
+      "review": true
+    },
+    {
+      "start": 6570.91,
+      "end": 6573.99,
+      "text": "什么被什么狐仙啊这样令到仙儿上身呢",
+      "avg_logprob": -0.1244,
+      "no_speech_prob": 0.9541,
+      "review": true
+    },
+    {
+      "start": 6573.99,
+      "end": 6575.95,
+      "text": "上身了之后呢他就会看一些事情",
+      "avg_logprob": -0.1244,
+      "no_speech_prob": 0.9541,
+      "review": true
+    },
+    {
+      "start": 6575.95,
+      "end": 6577.07,
+      "text": "他就会开天眼",
+      "avg_logprob": -0.1244,
+      "no_speech_prob": 0.9541,
+      "review": true
+    },
+    {
+      "start": 6577.07,
+      "end": 6579.29,
+      "text": "但是他是有责任的",
+      "avg_logprob": -0.1244,
+      "no_speech_prob": 0.9541,
+      "review": true
+    },
+    {
+      "start": 6579.29,
+      "end": 6581.31,
+      "text": "就是你有义务要做这些事情",
+      "avg_logprob": -0.1244,
+      "no_speech_prob": 0.9541,
+      "review": true
+    },
+    {
+      "start": 6581.31,
+      "end": 6583.87,
+      "text": "而且你这一辈子身体也不会太好",
+      "avg_logprob": -0.0962,
+      "no_speech_prob": 0.079,
+      "review": false
+    },
+    {
+      "start": 6583.87,
+      "end": 6586.11,
+      "text": "而且你也做不了其他的了",
+      "avg_logprob": -0.0962,
+      "no_speech_prob": 0.079,
+      "review": false
+    },
+    {
+      "start": 6586.11,
+      "end": 6588.49,
+      "text": "所以说这种就是被人上身啊",
+      "avg_logprob": -0.0962,
+      "no_speech_prob": 0.079,
+      "review": false
+    },
+    {
+      "start": 6588.49,
+      "end": 6591.37,
+      "text": "这种就是给就是你做一个管道",
+      "avg_logprob": -0.0962,
+      "no_speech_prob": 0.079,
+      "review": false
+    },
+    {
+      "start": 6591.37,
+      "end": 6593.25,
+      "text": "这种情况下其实是不好",
+      "avg_logprob": -0.0962,
+      "no_speech_prob": 0.079,
+      "review": false
+    },
+    {
+      "start": 6593.25,
+      "end": 6594.31,
+      "text": "真的是不好的",
+      "avg_logprob": -0.0962,
+      "no_speech_prob": 0.079,
+      "review": false
+    },
+    {
+      "start": 6594.31,
+      "end": 6595.61,
+      "text": "像我们这些啊",
+      "avg_logprob": -0.0962,
+      "no_speech_prob": 0.079,
+      "review": false
+    },
+    {
+      "start": 6595.61,
+      "end": 6597.81,
+      "text": "就是相当于说自己通过学习啊",
+      "avg_logprob": -0.0962,
+      "no_speech_prob": 0.079,
+      "review": false
+    },
+    {
+      "start": 6597.81,
+      "end": 6599.51,
+      "text": "我们去进行一些计算的",
+      "avg_logprob": -0.0962,
+      "no_speech_prob": 0.079,
+      "review": false
+    },
+    {
+      "start": 6599.51,
+      "end": 6600.27,
+      "text": "我们没有神通",
+      "avg_logprob": -0.0962,
+      "no_speech_prob": 0.079,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 25.41
+}

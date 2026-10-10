@@ -1,0 +1,297 @@
+{
+  "schema_version": "1.0",
+  "media_asset": {
+    "source_path": "D:\\YuncongVideoAnalysis\\2026-01-01_to_2026-10-03\\A股 交易策略 实盘直播（1月9日）.mp4",
+    "source_sha256": "686fe6e957c25ff6e6ebdb8f94200c8b6fb803bafde54f8b2bc3f7ad0c74721b",
+    "size_bytes": 323507441,
+    "playable_duration_seconds": 8710.222948,
+    "selected_interval": [
+      0.0,
+      90.0
+    ],
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "Main",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "mime_codec_string": "avc1.4d401f",
+        "width": 1280,
+        "height": 720,
+        "coded_width": 1280,
+        "coded_height": 720,
+        "has_b_frames": 1,
+        "sample_aspect_ratio": "1:1",
+        "display_aspect_ratio": "16:9",
+        "pix_fmt": "yuv420p",
+        "level": 31,
+        "color_range": "tv",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709",
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "time_base": "1/15360",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 133787648,
+        "duration": "8710.133333",
+        "bit_rate": "160873",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "261304",
+        "extradata_size": 43,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "ISO Media file produced by Google Inc."
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "mime_codec_string": "mp4a.40.2",
+        "sample_fmt": "fltp",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 0,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/44100",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 384120832,
+        "duration": "8710.222948",
+        "bit_rate": "128000",
+        "nb_frames": "375118",
+        "extradata_size": 16,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "eng",
+          "handler_name": "ISO Media file produced by Google Inc."
+        }
+      }
+    ]
+  },
+  "speech_segments": [
+    {
+      "id": "s00001",
+      "start": 0.0,
+      "end": 29.98,
+      "text": "中文字幕提供",
+      "speaker_id": null,
+      "confidence": {
+        "avg_logprob": -0.6883,
+        "no_speech_prob": 0.4077
+      },
+      "review_required": false,
+      "evidence": {
+        "source_sha256": "686fe6e957c25ff6e6ebdb8f94200c8b6fb803bafde54f8b2bc3f7ad0c74721b",
+        "modality": "audio",
+        "start": 0.0,
+        "end": 29.98,
+        "artifact": null,
+        "artifact_sha256": null
+      }
+    },
+    {
+      "id": "s00002",
+      "start": 60.0,
+      "end": 70.32,
+      "text": "好",
+      "speaker_id": null,
+      "confidence": {
+        "avg_logprob": -0.6172,
+        "no_speech_prob": 0.1853
+      },
+      "review_required": false,
+      "evidence": {
+        "source_sha256": "686fe6e957c25ff6e6ebdb8f94200c8b6fb803bafde54f8b2bc3f7ad0c74721b",
+        "modality": "audio",
+        "start": 60.0,
+        "end": 70.32,
+        "artifact": null,
+        "artifact_sha256": null
+      }
+    },
+    {
+      "id": "s00003",
+      "start": 70.32,
+      "end": 70.9,
+      "text": "大家等一下",
+      "speaker_id": null,
+      "confidence": {
+        "avg_logprob": -0.6172,
+        "no_speech_prob": 0.1853
+      },
+      "review_required": false,
+      "evidence": {
+        "source_sha256": "686fe6e957c25ff6e6ebdb8f94200c8b6fb803bafde54f8b2bc3f7ad0c74721b",
+        "modality": "audio",
+        "start": 70.32,
+        "end": 70.9,
+        "artifact": null,
+        "artifact_sha256": null
+      }
+    },
+    {
+      "id": "s00004",
+      "start": 70.9,
+      "end": 72.32,
+      "text": "不知道今天马上开始",
+      "speaker_id": null,
+      "confidence": {
+        "avg_logprob": -0.6172,
+        "no_speech_prob": 0.1853
+      },
+      "review_required": false,
+      "evidence": {
+        "source_sha256": "686fe6e957c25ff6e6ebdb8f94200c8b6fb803bafde54f8b2bc3f7ad0c74721b",
+        "modality": "audio",
+        "start": 70.9,
+        "end": 72.32,
+        "artifact": null,
+        "artifact_sha256": null
+      }
+    },
+    {
+      "id": "s00005",
+      "start": 72.32,
+      "end": 89.98,
+      "text": "嗯",
+      "speaker_id": null,
+      "confidence": {
+        "avg_logprob": -0.8374,
+        "no_speech_prob": 0.8301
+      },
+      "review_required": true,
+      "evidence": {
+        "source_sha256": "686fe6e957c25ff6e6ebdb8f94200c8b6fb803bafde54f8b2bc3f7ad0c74721b",
+        "modality": "audio",
+        "start": 72.32,
+        "end": 89.98,
+        "artifact": null,
+        "artifact_sha256": null
+      }
+    }
+  ],
+  "visual_events": [],
+  "derived_artifacts": [
+    {
+      "path": "speech.json",
+      "sha256": "a7358ceca4b24ca0937ca17e865eec7a946c792d317097946e9c7c4dc46c07e1",
+      "kind": "extraction"
+    },
+    {
+      "path": "speech.md",
+      "sha256": "4b58a800584f56204e4f7ee137824d2781ffde0bed4173eb2dc62ba2b2bd8e2a",
+      "kind": "extraction"
+    }
+  ],
+  "run_manifest": {
+    "extraction_version": "2.0",
+    "params_sha256": "67167966a55f263c3facb3d8ce4c937516251c0f013ea053338dc386af5c5b8c",
+    "params": {
+      "model": "large-v3",
+      "language": "zh",
+      "device": "cuda",
+      "compute_type": "float16",
+      "start": 0.0,
+      "end": 90.0,
+      "vad": "off",
+      "chunk_seconds": 300,
+      "no_audio": false,
+      "no_video": true,
+      "no_ocr": false,
+      "frame_interval": null,
+      "change_threshold": 0.004,
+      "max_frames": 300,
+      "perspective": false,
+      "selected_audio_stream": 1,
+      "profile_sha256": "7dd677164d7ee353da6ed2b3230e9d9233ad7f441e963494d32ff75247b45c97"
+    },
+    "steps": {
+      "audio": "complete",
+      "video": "skipped",
+      "evidence": "complete"
+    },
+    "model": {
+      "id": "large-v3",
+      "revision": "not pinned"
+    },
+    "chunks": [
+      {
+        "index": 0,
+        "sha256": "31bf9f6de055351707fa8932783820b70f9352549de1614f0a827f51e603ba84",
+        "device": "cuda",
+        "compute_type": "float16",
+        "resources_before": {
+          "ram_free_gib": 17.82,
+          "cpu_percent": 29.5,
+          "vram_free_gib": 6.01,
+          "vram_total_gib": 8.0,
+          "vram_used_gib": 1.82
+        },
+        "elapsed_seconds": 2.45
+      }
+    ]
+  },
+  "limitations": [
+    "ASR text and OCR are unverified; speaker IDs and continuous actions are not inferred"
+  ]
+}

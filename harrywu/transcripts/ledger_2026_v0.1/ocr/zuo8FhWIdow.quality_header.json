@@ -1,0 +1,99 @@
+{
+  "stream_id": "zuo8FhWIdow",
+  "region": [
+    975,
+    18,
+    1130,
+    40
+  ],
+  "upscale": 3,
+  "scope": "Main Tongdaxin title only; not whole-frame OCR",
+  "limitation": "Other layouts, prices, holding tables and clocks require separate OCR/review. No stock identity matching or event classification is done.",
+  "frames": [
+    {
+      "time": 600.0,
+      "frame": "D:\\YuncongVideoAnalysis\\ledger_2026_v0.1\\quality_frames\\zuo8FhWIdow\\frame_00000_000600000.jpg",
+      "frame_sha256": "2997335a5fa3c1896a377f1d519ba8621cc5369192a5bfdbd5df4e5c06057515",
+      "ocr": []
+    },
+    {
+      "time": 3600.0,
+      "frame": "D:\\YuncongVideoAnalysis\\ledger_2026_v0.1\\quality_frames\\zuo8FhWIdow\\frame_00001_003600000.jpg",
+      "frame_sha256": "046b74fabccad0501fdcb2e23e348fbe7aeaec17eb83af2dedee3084948803b3",
+      "ocr": [
+        {
+          "text": "悦康药业",
+          "confidence": 0.9967951476573944,
+          "box_original_pixels": [
+            [
+              1027.0,
+              18.0
+            ],
+            [
+              1077.67,
+              18.33
+            ],
+            [
+              1077.67,
+              36.67
+            ],
+            [
+              1027.0,
+              36.67
+            ]
+          ]
+        },
+        {
+          "text": "KR",
+          "confidence": 0.7614971101284027,
+          "box_original_pixels": [
+            [
+              984.67,
+              22.0
+            ],
+            [
+              996.0,
+              22.67
+            ],
+            [
+              995.67,
+              27.33
+            ],
+            [
+              984.67,
+              26.67
+            ]
+          ]
+        },
+        {
+          "text": "688658",
+          "confidence": 0.9976430237293243,
+          "box_original_pixels": [
+            [
+              995.33,
+              21.67
+            ],
+            [
+              1031.67,
+              21.33
+            ],
+            [
+              1031.67,
+              33.0
+            ],
+            [
+              995.67,
+              33.33
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "time": 6600.0,
+      "frame": "D:\\YuncongVideoAnalysis\\ledger_2026_v0.1\\quality_frames\\zuo8FhWIdow\\frame_00002_006600000.jpg",
+      "frame_sha256": "0da85d9dce8119162beb296a5e69790281ed668faf1bf59a561dbe43ed7856f2",
+      "ocr": []
+    }
+  ]
+}

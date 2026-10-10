@@ -1,0 +1,904 @@
+{
+  "begin": 1800.0,
+  "finish": 2100.0,
+  "segments": [
+    {
+      "start": 1798.0,
+      "end": 1829.12,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1117,
+      "no_speech_prob": 0.1936,
+      "review": false
+    },
+    {
+      "start": 1829.14,
+      "end": 1832.94,
+      "text": "就是这样子的,因为你越完美你后面就越会亏钱",
+      "avg_logprob": -0.1078,
+      "no_speech_prob": 0.1155,
+      "review": false
+    },
+    {
+      "start": 1832.94,
+      "end": 1837.85,
+      "text": "我看在哪里,我看在哪里,我专门说这句话",
+      "avg_logprob": -0.1078,
+      "no_speech_prob": 0.1155,
+      "review": false
+    },
+    {
+      "start": 1837.85,
+      "end": 1842.31,
+      "text": "我说因为最近做得太好了,所以我最近马上可能会亏钱了",
+      "avg_logprob": -0.1078,
+      "no_speech_prob": 0.1155,
+      "review": false
+    },
+    {
+      "start": 1842.31,
+      "end": 1846.88,
+      "text": "我在我会议里面说过这句话,我记得非常清楚",
+      "avg_logprob": -0.1078,
+      "no_speech_prob": 0.1155,
+      "review": false
+    },
+    {
+      "start": 1846.88,
+      "end": 1849.72,
+      "text": "因为我就感觉到我要亏钱了",
+      "avg_logprob": -0.1078,
+      "no_speech_prob": 0.1155,
+      "review": false
+    },
+    {
+      "start": 1849.72,
+      "end": 1852.24,
+      "text": "我就是因为我最近做得太完美了,特别是美股",
+      "avg_logprob": -0.1078,
+      "no_speech_prob": 0.1155,
+      "review": false
+    },
+    {
+      "start": 1852.24,
+      "end": 1854.84,
+      "text": "就是美股那一波我做得太完美了",
+      "avg_logprob": -0.1078,
+      "no_speech_prob": 0.1155,
+      "review": false
+    },
+    {
+      "start": 1854.84,
+      "end": 1858.56,
+      "text": "所以说我就知道后面就要亏钱了",
+      "avg_logprob": -0.1078,
+      "no_speech_prob": 0.1155,
+      "review": false
+    },
+    {
+      "start": 1858.56,
+      "end": 1866.24,
+      "text": "那么果然就是,你看,就是因为美股我在这一波,我几乎把所有的这些高低点抓得都非常好",
+      "avg_logprob": -0.0975,
+      "no_speech_prob": 0.0674,
+      "review": false
+    },
+    {
+      "start": 1866.24,
+      "end": 1873.18,
+      "text": "就是因为我在这一波做得太好了,所以我就老是想等那个完美的位置",
+      "avg_logprob": -0.0975,
+      "no_speech_prob": 0.0674,
+      "review": false
+    },
+    {
+      "start": 1873.18,
+      "end": 1877.26,
+      "text": "结果这个完美的位置在这儿,没等到,我就把这一波错过了",
+      "avg_logprob": -0.0975,
+      "no_speech_prob": 0.0674,
+      "review": false
+    },
+    {
+      "start": 1877.26,
+      "end": 1883.08,
+      "text": "所以交易就是越完美,你肯定就越出问题,你越完美反倒越出问题",
+      "avg_logprob": -0.0975,
+      "no_speech_prob": 0.0674,
+      "review": false
+    },
+    {
+      "start": 1883.08,
+      "end": 1886.64,
+      "text": "越完美,越出问题",
+      "avg_logprob": -0.0975,
+      "no_speech_prob": 0.0674,
+      "review": false
+    },
+    {
+      "start": 1886.64,
+      "end": 1889.5,
+      "text": "所以这就是我为什么现在一看到这些人说",
+      "avg_logprob": -0.117,
+      "no_speech_prob": 0.2988,
+      "review": false
+    },
+    {
+      "start": 1889.5,
+      "end": 1892.06,
+      "text": "啊我精确的知道我在哪个点位跑",
+      "avg_logprob": -0.117,
+      "no_speech_prob": 0.2988,
+      "review": false
+    },
+    {
+      "start": 1892.06,
+      "end": 1894.44,
+      "text": "我精确知道大盘会涨到哪跌到哪",
+      "avg_logprob": -0.117,
+      "no_speech_prob": 0.2988,
+      "review": false
+    },
+    {
+      "start": 1894.44,
+      "end": 1895.0,
+      "text": "我就想笑",
+      "avg_logprob": -0.117,
+      "no_speech_prob": 0.2988,
+      "review": false
+    },
+    {
+      "start": 1895.0,
+      "end": 1896.32,
+      "text": "我真的说这些话",
+      "avg_logprob": -0.117,
+      "no_speech_prob": 0.2988,
+      "review": false
+    },
+    {
+      "start": 1896.32,
+      "end": 1899.32,
+      "text": "你越精确你后面亏的越大",
+      "avg_logprob": -0.117,
+      "no_speech_prob": 0.2988,
+      "review": false
+    },
+    {
+      "start": 1899.32,
+      "end": 1903.06,
+      "text": "反正我当然说这句话可能你们还是不能理解",
+      "avg_logprob": -0.117,
+      "no_speech_prob": 0.2988,
+      "review": false
+    },
+    {
+      "start": 1903.06,
+      "end": 1904.76,
+      "text": "我毫不夸张的说",
+      "avg_logprob": -0.117,
+      "no_speech_prob": 0.2988,
+      "review": false
+    },
+    {
+      "start": 1904.76,
+      "end": 1907.46,
+      "text": "只有做了十年以上老教育员才知道我这句话",
+      "avg_logprob": -0.117,
+      "no_speech_prob": 0.2988,
+      "review": false
+    },
+    {
+      "start": 1907.46,
+      "end": 1909.34,
+      "text": "有时候你越完美越出问题",
+      "avg_logprob": -0.117,
+      "no_speech_prob": 0.2988,
+      "review": false
+    },
+    {
+      "start": 1909.34,
+      "end": 1912.38,
+      "text": "你反倒笨一点你还能赚大钱",
+      "avg_logprob": -0.117,
+      "no_speech_prob": 0.2988,
+      "review": false
+    },
+    {
+      "start": 1912.38,
+      "end": 1914.2,
+      "text": "过于完美不好的",
+      "avg_logprob": -0.117,
+      "no_speech_prob": 0.2988,
+      "review": false
+    },
+    {
+      "start": 1914.2,
+      "end": 1915.74,
+      "text": "你看我就是过于完美",
+      "avg_logprob": -0.117,
+      "no_speech_prob": 0.2988,
+      "review": false
+    },
+    {
+      "start": 1915.74,
+      "end": 1917.54,
+      "text": "这次这一波机会就错过了",
+      "avg_logprob": -0.1281,
+      "no_speech_prob": 0.47,
+      "review": false
+    },
+    {
+      "start": 1917.54,
+      "end": 1918.08,
+      "text": "是不是",
+      "avg_logprob": -0.1281,
+      "no_speech_prob": 0.47,
+      "review": false
+    },
+    {
+      "start": 1918.08,
+      "end": 1919.74,
+      "text": "这波机会就错过了",
+      "avg_logprob": -0.1281,
+      "no_speech_prob": 0.47,
+      "review": false
+    },
+    {
+      "start": 1919.74,
+      "end": 1920.96,
+      "text": "很可惜很可惜",
+      "avg_logprob": -0.1281,
+      "no_speech_prob": 0.47,
+      "review": false
+    },
+    {
+      "start": 1920.96,
+      "end": 1924.6,
+      "text": "就差那么一丁点一丁点",
+      "avg_logprob": -0.1281,
+      "no_speech_prob": 0.47,
+      "review": false
+    },
+    {
+      "start": 1924.6,
+      "end": 1926.96,
+      "text": "所以说其实你当时如果没有那么完美的话",
+      "avg_logprob": -0.1281,
+      "no_speech_prob": 0.47,
+      "review": false
+    },
+    {
+      "start": 1926.96,
+      "end": 1928.06,
+      "text": "我就提前先买一点点",
+      "avg_logprob": -0.1281,
+      "no_speech_prob": 0.47,
+      "review": false
+    },
+    {
+      "start": 1928.06,
+      "end": 1928.62,
+      "text": "怕什么嘛",
+      "avg_logprob": -0.1281,
+      "no_speech_prob": 0.47,
+      "review": false
+    },
+    {
+      "start": 1928.62,
+      "end": 1928.82,
+      "text": "是不是",
+      "avg_logprob": -0.1281,
+      "no_speech_prob": 0.47,
+      "review": false
+    },
+    {
+      "start": 1928.82,
+      "end": 1930.78,
+      "text": "我先买一个一周的期权",
+      "avg_logprob": -0.1281,
+      "no_speech_prob": 0.47,
+      "review": false
+    },
+    {
+      "start": 1930.78,
+      "end": 1933.24,
+      "text": "那可能至少翻十倍这一次",
+      "avg_logprob": -0.1281,
+      "no_speech_prob": 0.47,
+      "review": false
+    },
+    {
+      "start": 1933.24,
+      "end": 1934.2,
+      "text": "最少最少十倍",
+      "avg_logprob": -0.1281,
+      "no_speech_prob": 0.47,
+      "review": false
+    },
+    {
+      "start": 1934.2,
+      "end": 1936.42,
+      "text": "但是就是因为太完美了",
+      "avg_logprob": -0.1281,
+      "no_speech_prob": 0.47,
+      "review": false
+    },
+    {
+      "start": 1936.42,
+      "end": 1937.6,
+      "text": "我做的太好了",
+      "avg_logprob": -0.1281,
+      "no_speech_prob": 0.47,
+      "review": false
+    },
+    {
+      "start": 1937.6,
+      "end": 1939.22,
+      "text": "结果我说肯定会到",
+      "avg_logprob": -0.1281,
+      "no_speech_prob": 0.47,
+      "review": false
+    },
+    {
+      "start": 1939.22,
+      "end": 1941.52,
+      "text": "那么人都是这样子",
+      "avg_logprob": -0.1281,
+      "no_speech_prob": 0.47,
+      "review": false
+    },
+    {
+      "start": 1941.52,
+      "end": 1942.28,
+      "text": "没办法",
+      "avg_logprob": -0.1281,
+      "no_speech_prob": 0.47,
+      "review": false
+    },
+    {
+      "start": 1942.28,
+      "end": 1946.55,
+      "text": "不是不交易啊",
+      "avg_logprob": -0.1281,
+      "no_speech_prob": 0.47,
+      "review": false
+    },
+    {
+      "start": 1946.55,
+      "end": 1947.25,
+      "text": "不着急嘛",
+      "avg_logprob": -0.1281,
+      "no_speech_prob": 0.47,
+      "review": false
+    },
+    {
+      "start": 1947.25,
+      "end": 1948.07,
+      "text": "十点再说",
+      "avg_logprob": -0.1281,
+      "no_speech_prob": 0.47,
+      "review": false
+    },
+    {
+      "start": 1948.07,
+      "end": 1963.41,
+      "text": "大家不要着急,你越着急越赚不了钱,不要着急,不要着急,十点再看,如果你要新买,你就十点看,你要新买就十点看",
+      "avg_logprob": -0.1376,
+      "no_speech_prob": 0.103,
+      "review": false
+    },
+    {
+      "start": 1963.41,
+      "end": 1978.79,
+      "text": "这样子,速率啊,这个很遗憾,说句实在话,因为国内的政策啊,国内的政策现在砍得太严,太严,太严了",
+      "avg_logprob": -0.1376,
+      "no_speech_prob": 0.103,
+      "review": false
+    },
+    {
+      "start": 1978.79,
+      "end": 1980.97,
+      "text": "所以说我跟你很抱歉",
+      "avg_logprob": -0.1479,
+      "no_speech_prob": 0.1451,
+      "review": false
+    },
+    {
+      "start": 1980.97,
+      "end": 1983.61,
+      "text": "而且我以后明年",
+      "avg_logprob": -0.1479,
+      "no_speech_prob": 0.1451,
+      "review": false
+    },
+    {
+      "start": 1983.61,
+      "end": 1986.01,
+      "text": "今年我是因为实在没办法",
+      "avg_logprob": -0.1479,
+      "no_speech_prob": 0.1451,
+      "review": false
+    },
+    {
+      "start": 1986.01,
+      "end": 1988.23,
+      "text": "大家还因为都是老朋友嘛",
+      "avg_logprob": -0.1479,
+      "no_speech_prob": 0.1451,
+      "review": false
+    },
+    {
+      "start": 1988.23,
+      "end": 1989.99,
+      "text": "所以我还坚持做一年",
+      "avg_logprob": -0.1479,
+      "no_speech_prob": 0.1451,
+      "review": false
+    },
+    {
+      "start": 1989.99,
+      "end": 1990.65,
+      "text": "做到年底",
+      "avg_logprob": -0.1479,
+      "no_speech_prob": 0.1451,
+      "review": false
+    },
+    {
+      "start": 1990.65,
+      "end": 1992.57,
+      "text": "我明年国内都不做了",
+      "avg_logprob": -0.1479,
+      "no_speech_prob": 0.1451,
+      "review": false
+    },
+    {
+      "start": 1992.57,
+      "end": 1994.73,
+      "text": "我明年国内网站都关闭了",
+      "avg_logprob": -0.1479,
+      "no_speech_prob": 0.1451,
+      "review": false
+    },
+    {
+      "start": 1994.73,
+      "end": 1996.11,
+      "text": "不是我不想做",
+      "avg_logprob": -0.1479,
+      "no_speech_prob": 0.1451,
+      "review": false
+    },
+    {
+      "start": 1996.11,
+      "end": 1997.27,
+      "text": "而是不能做啊",
+      "avg_logprob": -0.1479,
+      "no_speech_prob": 0.1451,
+      "review": false
+    },
+    {
+      "start": 1997.27,
+      "end": 1999.27,
+      "text": "你叫我该怎么办嘛",
+      "avg_logprob": -0.1479,
+      "no_speech_prob": 0.1451,
+      "review": false
+    },
+    {
+      "start": 1999.27,
+      "end": 1999.99,
+      "text": "没办法做啊",
+      "avg_logprob": -0.1479,
+      "no_speech_prob": 0.1451,
+      "review": false
+    },
+    {
+      "start": 1999.99,
+      "end": 2000.77,
+      "text": "我做不了",
+      "avg_logprob": -0.1479,
+      "no_speech_prob": 0.1451,
+      "review": false
+    },
+    {
+      "start": 2000.77,
+      "end": 2002.09,
+      "text": "国内都不能做啊",
+      "avg_logprob": -0.1479,
+      "no_speech_prob": 0.1451,
+      "review": false
+    },
+    {
+      "start": 2002.09,
+      "end": 2004.31,
+      "text": "他每个这些都不让做啊",
+      "avg_logprob": -0.1479,
+      "no_speech_prob": 0.1451,
+      "review": false
+    },
+    {
+      "start": 2004.31,
+      "end": 2005.27,
+      "text": "我没办法",
+      "avg_logprob": -0.1479,
+      "no_speech_prob": 0.1451,
+      "review": false
+    },
+    {
+      "start": 2005.27,
+      "end": 2007.25,
+      "text": "以后我可能国内都不做了",
+      "avg_logprob": -0.1479,
+      "no_speech_prob": 0.1451,
+      "review": false
+    },
+    {
+      "start": 2007.25,
+      "end": 2008.65,
+      "text": "而且明年油管",
+      "avg_logprob": -0.1479,
+      "no_speech_prob": 0.1451,
+      "review": false
+    },
+    {
+      "start": 2008.65,
+      "end": 2010.43,
+      "text": "我都是每周只做一两期了",
+      "avg_logprob": -0.0985,
+      "no_speech_prob": 0.1692,
+      "review": false
+    },
+    {
+      "start": 2010.43,
+      "end": 2011.71,
+      "text": "就是明年油管",
+      "avg_logprob": -0.0985,
+      "no_speech_prob": 0.1692,
+      "review": false
+    },
+    {
+      "start": 2011.71,
+      "end": 2013.07,
+      "text": "反正你们愿意继续支持我",
+      "avg_logprob": -0.0985,
+      "no_speech_prob": 0.1692,
+      "review": false
+    },
+    {
+      "start": 2013.07,
+      "end": 2013.67,
+      "text": "你支持我",
+      "avg_logprob": -0.0985,
+      "no_speech_prob": 0.1692,
+      "review": false
+    },
+    {
+      "start": 2013.67,
+      "end": 2015.27,
+      "text": "然后不愿意继续支持我也无所谓",
+      "avg_logprob": -0.0985,
+      "no_speech_prob": 0.1692,
+      "review": false
+    },
+    {
+      "start": 2015.27,
+      "end": 2017.25,
+      "text": "因为明年慢慢都有转向了",
+      "avg_logprob": -0.0985,
+      "no_speech_prob": 0.1692,
+      "review": false
+    },
+    {
+      "start": 2017.25,
+      "end": 2018.37,
+      "text": "我明年想休息一年",
+      "avg_logprob": -0.0985,
+      "no_speech_prob": 0.1692,
+      "review": false
+    },
+    {
+      "start": 2018.37,
+      "end": 2018.67,
+      "text": "好不好",
+      "avg_logprob": -0.0985,
+      "no_speech_prob": 0.1692,
+      "review": false
+    },
+    {
+      "start": 2018.67,
+      "end": 2020.21,
+      "text": "明年我要休息一年",
+      "avg_logprob": -0.0985,
+      "no_speech_prob": 0.1692,
+      "review": false
+    },
+    {
+      "start": 2020.21,
+      "end": 2021.09,
+      "text": "做做其他的事情",
+      "avg_logprob": -0.0985,
+      "no_speech_prob": 0.1692,
+      "review": false
+    },
+    {
+      "start": 2021.09,
+      "end": 2022.99,
+      "text": "然后我要陪父母",
+      "avg_logprob": -0.0985,
+      "no_speech_prob": 0.1692,
+      "review": false
+    },
+    {
+      "start": 2022.99,
+      "end": 2025.81,
+      "text": "到处在国内房车旅游啊那些",
+      "avg_logprob": -0.0985,
+      "no_speech_prob": 0.1692,
+      "review": false
+    },
+    {
+      "start": 2025.81,
+      "end": 2027.69,
+      "text": "或者我陪父母准备国内",
+      "avg_logprob": -0.0985,
+      "no_speech_prob": 0.1692,
+      "review": false
+    },
+    {
+      "start": 2027.69,
+      "end": 2029.21,
+      "text": "国内到处走一圈",
+      "avg_logprob": -0.0985,
+      "no_speech_prob": 0.1692,
+      "review": false
+    },
+    {
+      "start": 2029.21,
+      "end": 2030.87,
+      "text": "然后呢国外走一圈",
+      "avg_logprob": -0.0985,
+      "no_speech_prob": 0.1692,
+      "review": false
+    },
+    {
+      "start": 2030.87,
+      "end": 2033.09,
+      "text": "所以说明年主要的是陪父母",
+      "avg_logprob": -0.0985,
+      "no_speech_prob": 0.1692,
+      "review": false
+    },
+    {
+      "start": 2033.09,
+      "end": 2033.41,
+      "text": "哎呀",
+      "avg_logprob": -0.0985,
+      "no_speech_prob": 0.1692,
+      "review": false
+    },
+    {
+      "start": 2033.41,
+      "end": 2035.11,
+      "text": "我爸爸年龄太大了",
+      "avg_logprob": -0.0985,
+      "no_speech_prob": 0.1692,
+      "review": false
+    },
+    {
+      "start": 2035.11,
+      "end": 2035.65,
+      "text": "我爸爸",
+      "avg_logprob": -0.0985,
+      "no_speech_prob": 0.1692,
+      "review": false
+    },
+    {
+      "start": 2035.65,
+      "end": 2037.73,
+      "text": "我爸爸都七十大寿了",
+      "avg_logprob": -0.0985,
+      "no_speech_prob": 0.1692,
+      "review": false
+    },
+    {
+      "start": 2037.73,
+      "end": 2041.39,
+      "text": "然后我妈妈也是快70了",
+      "avg_logprob": -0.1453,
+      "no_speech_prob": 0.2085,
+      "review": false
+    },
+    {
+      "start": 2041.39,
+      "end": 2045.85,
+      "text": "说这一辈子我再不陪他们以后都没有机会了",
+      "avg_logprob": -0.1453,
+      "no_speech_prob": 0.2085,
+      "review": false
+    },
+    {
+      "start": 2045.85,
+      "end": 2050.97,
+      "text": "我爸爸是因为他太喜欢工作了",
+      "avg_logprob": -0.1453,
+      "no_speech_prob": 0.2085,
+      "review": false
+    },
+    {
+      "start": 2050.97,
+      "end": 2053.91,
+      "text": "所以你说我为什么这么喜欢工作",
+      "avg_logprob": -0.1453,
+      "no_speech_prob": 0.2085,
+      "review": false
+    },
+    {
+      "start": 2053.91,
+      "end": 2056.55,
+      "text": "我为什么工作狂可能也是受我爸影响",
+      "avg_logprob": -0.1453,
+      "no_speech_prob": 0.2085,
+      "review": false
+    },
+    {
+      "start": 2056.55,
+      "end": 2059.09,
+      "text": "我爸都70岁了他还要天天干",
+      "avg_logprob": -0.1453,
+      "no_speech_prob": 0.2085,
+      "review": false
+    },
+    {
+      "start": 2059.09,
+      "end": 2061.69,
+      "text": "今年我就说了我说你不要干了",
+      "avg_logprob": -0.1453,
+      "no_speech_prob": 0.2085,
+      "review": false
+    },
+    {
+      "start": 2061.69,
+      "end": 2063.27,
+      "text": "今年我陪你出去玩",
+      "avg_logprob": -0.1453,
+      "no_speech_prob": 0.2085,
+      "review": false
+    },
+    {
+      "start": 2063.27,
+      "end": 2066.07,
+      "text": "我都说的",
+      "avg_logprob": -0.1455,
+      "no_speech_prob": 0.2368,
+      "review": false
+    },
+    {
+      "start": 2066.07,
+      "end": 2067.83,
+      "text": "我不好意思说这个话",
+      "avg_logprob": -0.1455,
+      "no_speech_prob": 0.2368,
+      "review": false
+    },
+    {
+      "start": 2067.83,
+      "end": 2070.69,
+      "text": "反正我就想说你还有多少年嘛",
+      "avg_logprob": -0.1455,
+      "no_speech_prob": 0.2368,
+      "review": false
+    },
+    {
+      "start": 2070.69,
+      "end": 2072.87,
+      "text": "你还有多少年你何必呢",
+      "avg_logprob": -0.1455,
+      "no_speech_prob": 0.2368,
+      "review": false
+    },
+    {
+      "start": 2072.87,
+      "end": 2073.17,
+      "text": "是不是",
+      "avg_logprob": -0.1455,
+      "no_speech_prob": 0.2368,
+      "review": false
+    },
+    {
+      "start": 2073.17,
+      "end": 2075.33,
+      "text": "但是呢我爸还是想工作",
+      "avg_logprob": -0.1455,
+      "no_speech_prob": 0.2368,
+      "review": false
+    },
+    {
+      "start": 2075.33,
+      "end": 2078.15,
+      "text": "因为医生这个职业",
+      "avg_logprob": -0.1455,
+      "no_speech_prob": 0.2368,
+      "review": false
+    },
+    {
+      "start": 2078.15,
+      "end": 2080.37,
+      "text": "是非常有成就感的",
+      "avg_logprob": -0.1455,
+      "no_speech_prob": 0.2368,
+      "review": false
+    },
+    {
+      "start": 2080.37,
+      "end": 2082.33,
+      "text": "就是他给病人看了病",
+      "avg_logprob": -0.1455,
+      "no_speech_prob": 0.2368,
+      "review": false
+    },
+    {
+      "start": 2082.33,
+      "end": 2083.67,
+      "text": "病人感谢他",
+      "avg_logprob": -0.1455,
+      "no_speech_prob": 0.2368,
+      "review": false
+    },
+    {
+      "start": 2083.67,
+      "end": 2085.87,
+      "text": "他自己会每天觉得自己很幸福",
+      "avg_logprob": -0.1455,
+      "no_speech_prob": 0.2368,
+      "review": false
+    },
+    {
+      "start": 2085.87,
+      "end": 2087.21,
+      "text": "他活得很开心",
+      "avg_logprob": -0.1455,
+      "no_speech_prob": 0.2368,
+      "review": false
+    },
+    {
+      "start": 2087.21,
+      "end": 2088.89,
+      "text": "所以他就愿意做",
+      "avg_logprob": -0.1455,
+      "no_speech_prob": 0.2368,
+      "review": false
+    },
+    {
+      "start": 2088.89,
+      "end": 2090.83,
+      "text": "我劝他好多次了",
+      "avg_logprob": -0.1455,
+      "no_speech_prob": 0.2368,
+      "review": false
+    },
+    {
+      "start": 2090.83,
+      "end": 2091.71,
+      "text": "我说你不要做了",
+      "avg_logprob": -0.1455,
+      "no_speech_prob": 0.2368,
+      "review": false
+    },
+    {
+      "start": 2091.71,
+      "end": 2092.75,
+      "text": "你做什么嘛",
+      "avg_logprob": -0.1455,
+      "no_speech_prob": 0.2368,
+      "review": false
+    },
+    {
+      "start": 2092.75,
+      "end": 2101.99,
+      "text": "他都70岁了,他还在做,他今年跟我说他明年不做了,他明年一定要出来,我说你一定要出来啊,说话算数啊,我说你是一定要出来,",
+      "avg_logprob": -0.1705,
+      "no_speech_prob": 0.751,
+      "review": true
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 41.03
+}

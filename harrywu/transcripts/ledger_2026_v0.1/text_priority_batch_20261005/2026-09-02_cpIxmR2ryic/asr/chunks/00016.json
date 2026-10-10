@@ -1,0 +1,592 @@
+{
+  "begin": 4800.0,
+  "finish": 5100.0,
+  "segments": [
+    {
+      "start": 4801.24,
+      "end": 4802.32,
+      "text": "咋回事",
+      "avg_logprob": -0.1321,
+      "no_speech_prob": 0.0005,
+      "review": false
+    },
+    {
+      "start": 4802.32,
+      "end": 4808.32,
+      "text": "咋回事",
+      "avg_logprob": -0.1321,
+      "no_speech_prob": 0.0005,
+      "review": false
+    },
+    {
+      "start": 4808.32,
+      "end": 4844.67,
+      "text": "现在大家一定要充分利用这个AI",
+      "avg_logprob": -0.1321,
+      "no_speech_prob": 0.0005,
+      "review": false
+    },
+    {
+      "start": 4844.67,
+      "end": 4846.11,
+      "text": "真的很好",
+      "avg_logprob": -0.1321,
+      "no_speech_prob": 0.0005,
+      "review": false
+    },
+    {
+      "start": 4846.11,
+      "end": 4847.33,
+      "text": "真的很好用",
+      "avg_logprob": -0.1321,
+      "no_speech_prob": 0.0005,
+      "review": false
+    },
+    {
+      "start": 4847.33,
+      "end": 4849.25,
+      "text": "当然我没有自己部署",
+      "avg_logprob": -0.1321,
+      "no_speech_prob": 0.0005,
+      "review": false
+    },
+    {
+      "start": 4849.25,
+      "end": 4851.15,
+      "text": "我觉得也没有那个必要",
+      "avg_logprob": -0.1321,
+      "no_speech_prob": 0.0005,
+      "review": false
+    },
+    {
+      "start": 4851.15,
+      "end": 4851.91,
+      "text": "我们看看",
+      "avg_logprob": -0.1321,
+      "no_speech_prob": 0.0005,
+      "review": false
+    },
+    {
+      "start": 4851.91,
+      "end": 4853.47,
+      "text": "2015年6月到8月",
+      "avg_logprob": -0.1321,
+      "no_speech_prob": 0.0005,
+      "review": false
+    },
+    {
+      "start": 4853.47,
+      "end": 4854.09,
+      "text": "恒宝",
+      "avg_logprob": -0.1321,
+      "no_speech_prob": 0.0005,
+      "review": false
+    },
+    {
+      "start": 4854.09,
+      "end": 4855.85,
+      "text": "政策红利",
+      "avg_logprob": -0.1321,
+      "no_speech_prob": 0.0005,
+      "review": false
+    },
+    {
+      "start": 4855.85,
+      "end": 4857.17,
+      "text": "小市值筹码",
+      "avg_logprob": -0.1321,
+      "no_speech_prob": 0.0005,
+      "review": false
+    },
+    {
+      "start": 4857.17,
+      "end": 4858.75,
+      "text": "油资疯狂点火",
+      "avg_logprob": -0.1321,
+      "no_speech_prob": 0.0005,
+      "review": false
+    },
+    {
+      "start": 4858.75,
+      "end": 4861.97,
+      "text": "人民币试点",
+      "avg_logprob": -0.1321,
+      "no_speech_prob": 0.0005,
+      "review": false
+    },
+    {
+      "start": 4861.97,
+      "end": 4863.13,
+      "text": "数字人民币试点",
+      "avg_logprob": -0.1321,
+      "no_speech_prob": 0.0005,
+      "review": false
+    },
+    {
+      "start": 4863.13,
+      "end": 4866.07,
+      "text": "央行推出扩大数字人民币的研发",
+      "avg_logprob": -0.1321,
+      "no_speech_prob": 0.0005,
+      "review": false
+    },
+    {
+      "start": 4866.07,
+      "end": 4868.59,
+      "text": "恒宝作为国内智能卡龙头",
+      "avg_logprob": -0.1321,
+      "no_speech_prob": 0.0005,
+      "review": false
+    },
+    {
+      "start": 4868.59,
+      "end": 4873.33,
+      "text": "参与数字人民币试点",
+      "avg_logprob": -0.1275,
+      "no_speech_prob": 0.1912,
+      "review": false
+    },
+    {
+      "start": 4873.33,
+      "end": 4875.81,
+      "text": "他那个智能卡有啥呀",
+      "avg_logprob": -0.1275,
+      "no_speech_prob": 0.1912,
+      "review": false
+    },
+    {
+      "start": 4875.81,
+      "end": 4877.49,
+      "text": "智能卡按我说应该没有",
+      "avg_logprob": -0.1275,
+      "no_speech_prob": 0.1912,
+      "review": false
+    },
+    {
+      "start": 4877.49,
+      "end": 4881.19,
+      "text": "绝对的小盘低价油资黄金壳",
+      "avg_logprob": -0.1275,
+      "no_speech_prob": 0.1912,
+      "review": false
+    },
+    {
+      "start": 4881.19,
+      "end": 4884.32,
+      "text": "股价只有7块钱50亿",
+      "avg_logprob": -0.1275,
+      "no_speech_prob": 0.1912,
+      "review": false
+    },
+    {
+      "start": 4884.32,
+      "end": 4886.65,
+      "text": "基本面的改善",
+      "avg_logprob": -0.1275,
+      "no_speech_prob": 0.1912,
+      "review": false
+    },
+    {
+      "start": 4886.65,
+      "end": 4890.02,
+      "text": "你看2020年9月是否拥有类似的东西",
+      "avg_logprob": -0.1275,
+      "no_speech_prob": 0.1912,
+      "review": false
+    },
+    {
+      "start": 4890.02,
+      "end": 4891.78,
+      "text": "表面上有题材催化",
+      "avg_logprob": -0.1275,
+      "no_speech_prob": 0.1912,
+      "review": false
+    },
+    {
+      "start": 4891.78,
+      "end": 4895.36,
+      "text": "但由于基本面严重恶化市场流动性分配",
+      "avg_logprob": -0.1275,
+      "no_speech_prob": 0.1912,
+      "review": false
+    },
+    {
+      "start": 4895.36,
+      "end": 4898.12,
+      "text": "很难复制2025年夏天的这种大行情",
+      "avg_logprob": -0.1275,
+      "no_speech_prob": 0.1912,
+      "review": false
+    },
+    {
+      "start": 4898.12,
+      "end": 4900.68,
+      "text": "即便暴雷,主业大幅失速",
+      "avg_logprob": -0.1534,
+      "no_speech_prob": 0.1498,
+      "review": false
+    },
+    {
+      "start": 4900.68,
+      "end": 4904.41,
+      "text": "暴跌,你看主业暴跌",
+      "avg_logprob": -0.1534,
+      "no_speech_prob": 0.1498,
+      "review": false
+    },
+    {
+      "start": 4904.41,
+      "end": 4908.19,
+      "text": "第一个,传统制卡行业进入饱和期",
+      "avg_logprob": -0.1534,
+      "no_speech_prob": 0.1498,
+      "review": false
+    },
+    {
+      "start": 4908.19,
+      "end": 4909.57,
+      "text": "对啊,中国的这个信用卡",
+      "avg_logprob": -0.1534,
+      "no_speech_prob": 0.1498,
+      "review": false
+    },
+    {
+      "start": 4909.57,
+      "end": 4911.25,
+      "text": "因为我以前中国一年的嘛",
+      "avg_logprob": -0.1534,
+      "no_speech_prob": 0.1498,
+      "review": false
+    },
+    {
+      "start": 4911.25,
+      "end": 4913.81,
+      "text": "我知道信用卡呢,这个卡片根本不行的",
+      "avg_logprob": -0.1534,
+      "no_speech_prob": 0.1498,
+      "review": false
+    },
+    {
+      "start": 4913.81,
+      "end": 4915.87,
+      "text": "你看所有时候暴跌嘛",
+      "avg_logprob": -0.1534,
+      "no_speech_prob": 0.1498,
+      "review": false
+    },
+    {
+      "start": 4915.87,
+      "end": 4920.7,
+      "text": "恒宝再度涨停,是什么呢",
+      "avg_logprob": -0.1534,
+      "no_speech_prob": 0.1498,
+      "review": false
+    },
+    {
+      "start": 4920.7,
+      "end": 4922.9,
+      "text": "2025年是实际性推进",
+      "avg_logprob": -0.1534,
+      "no_speech_prob": 0.1498,
+      "review": false
+    },
+    {
+      "start": 4922.9,
+      "end": 4926.28,
+      "text": "2029年是宏观行业新闻的情绪风",
+      "avg_logprob": -0.1534,
+      "no_speech_prob": 0.1498,
+      "review": false
+    },
+    {
+      "start": 4926.28,
+      "end": 4928.96,
+      "text": "工信部上半年数字产业大增",
+      "avg_logprob": -0.1534,
+      "no_speech_prob": 0.1498,
+      "review": false
+    },
+    {
+      "start": 4928.96,
+      "end": 4972.42,
+      "text": "人民币运营机构扩容",
+      "avg_logprob": -0.1116,
+      "no_speech_prob": 0.0745,
+      "review": false
+    },
+    {
+      "start": 4972.44,
+      "end": 5006.85,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0889,
+      "no_speech_prob": 0.3677,
+      "review": false
+    },
+    {
+      "start": 5006.87,
+      "end": 5038.78,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0547,
+      "no_speech_prob": 0.002,
+      "review": false
+    },
+    {
+      "start": 5038.8,
+      "end": 5040.68,
+      "text": "但是你要知道,这个也不是百分之百准",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.1595,
+      "review": false
+    },
+    {
+      "start": 5040.68,
+      "end": 5045.0,
+      "text": "有些时候今天主力在跑了,但是明天他又进了,好不好",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.1595,
+      "review": false
+    },
+    {
+      "start": 5045.0,
+      "end": 5046.86,
+      "text": "他明天可能又进了,这个说不清楚",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.1595,
+      "review": false
+    },
+    {
+      "start": 5046.86,
+      "end": 5050.3,
+      "text": "但是我自己,我一定要看的,好不好",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.1595,
+      "review": false
+    },
+    {
+      "start": 5050.3,
+      "end": 5052.5,
+      "text": "所以你自己决定,好不好,你自己决定",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.1595,
+      "review": false
+    },
+    {
+      "start": 5052.5,
+      "end": 5057.06,
+      "text": "就是我自己一定要看主力资金当天进的,又涨停了,这种才排",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.1595,
+      "review": false
+    },
+    {
+      "start": 5057.06,
+      "end": 5066.06,
+      "text": "夜地正好,多得有命,沈红",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.1595,
+      "review": false
+    },
+    {
+      "start": 5066.06,
+      "end": 5068.66,
+      "text": "所以你才看我选股吗",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.1595,
+      "review": false
+    },
+    {
+      "start": 5068.66,
+      "end": 5071.6,
+      "text": "先看题材,先看题材,先看宏观嘛",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.1595,
+      "review": false
+    },
+    {
+      "start": 5071.6,
+      "end": 5072.52,
+      "text": "红官现在不好",
+      "avg_logprob": -0.1124,
+      "no_speech_prob": 0.9961,
+      "review": true
+    },
+    {
+      "start": 5072.52,
+      "end": 5074.54,
+      "text": "美联储又要加息",
+      "avg_logprob": -0.1124,
+      "no_speech_prob": 0.9961,
+      "review": true
+    },
+    {
+      "start": 5074.54,
+      "end": 5075.96,
+      "text": "所以整体红官不好",
+      "avg_logprob": -0.1124,
+      "no_speech_prob": 0.9961,
+      "review": true
+    },
+    {
+      "start": 5075.96,
+      "end": 5077.92,
+      "text": "如果看红官就现在根本就休息",
+      "avg_logprob": -0.1124,
+      "no_speech_prob": 0.9961,
+      "review": true
+    },
+    {
+      "start": 5077.92,
+      "end": 5079.0,
+      "text": "一点都不该买",
+      "avg_logprob": -0.1124,
+      "no_speech_prob": 0.9961,
+      "review": true
+    },
+    {
+      "start": 5079.0,
+      "end": 5080.5,
+      "text": "你看我不是做了短视频吗",
+      "avg_logprob": -0.1124,
+      "no_speech_prob": 0.9961,
+      "review": true
+    },
+    {
+      "start": 5080.5,
+      "end": 5081.38,
+      "text": "先看红官",
+      "avg_logprob": -0.1124,
+      "no_speech_prob": 0.9961,
+      "review": true
+    },
+    {
+      "start": 5081.38,
+      "end": 5082.02,
+      "text": "是吧",
+      "avg_logprob": -0.1124,
+      "no_speech_prob": 0.9961,
+      "review": true
+    },
+    {
+      "start": 5082.02,
+      "end": 5083.14,
+      "text": "红官美联储政策",
+      "avg_logprob": -0.1124,
+      "no_speech_prob": 0.9961,
+      "review": true
+    },
+    {
+      "start": 5083.14,
+      "end": 5084.52,
+      "text": "那如果现在看红官的话",
+      "avg_logprob": -0.1124,
+      "no_speech_prob": 0.9961,
+      "review": true
+    },
+    {
+      "start": 5084.52,
+      "end": 5085.5,
+      "text": "我们绝对不该买股",
+      "avg_logprob": -0.1124,
+      "no_speech_prob": 0.9961,
+      "review": true
+    },
+    {
+      "start": 5085.5,
+      "end": 5086.36,
+      "text": "一只股票都不该买",
+      "avg_logprob": -0.1124,
+      "no_speech_prob": 0.9961,
+      "review": true
+    },
+    {
+      "start": 5086.36,
+      "end": 5087.5,
+      "text": "我们就该睡觉",
+      "avg_logprob": -0.1124,
+      "no_speech_prob": 0.9961,
+      "review": true
+    },
+    {
+      "start": 5087.5,
+      "end": 5088.32,
+      "text": "我们就该睡觉",
+      "avg_logprob": -0.1124,
+      "no_speech_prob": 0.9961,
+      "review": true
+    },
+    {
+      "start": 5088.32,
+      "end": 5090.08,
+      "text": "但是我因为我有笔记录做节目",
+      "avg_logprob": -0.1124,
+      "no_speech_prob": 0.9961,
+      "review": true
+    },
+    {
+      "start": 5090.08,
+      "end": 5091.44,
+      "text": "所以我还可以带着大家一下",
+      "avg_logprob": -0.1124,
+      "no_speech_prob": 0.9961,
+      "review": true
+    },
+    {
+      "start": 5091.44,
+      "end": 5093.18,
+      "text": "但是正常的我不做节目",
+      "avg_logprob": -0.1124,
+      "no_speech_prob": 0.9961,
+      "review": true
+    },
+    {
+      "start": 5093.18,
+      "end": 5094.44,
+      "text": "我现在就应该出去旅游",
+      "avg_logprob": -0.1124,
+      "no_speech_prob": 0.9961,
+      "review": true
+    },
+    {
+      "start": 5094.44,
+      "end": 5095.22,
+      "text": "出去钓鱼",
+      "avg_logprob": -0.1124,
+      "no_speech_prob": 0.9961,
+      "review": true
+    },
+    {
+      "start": 5095.22,
+      "end": 5096.04,
+      "text": "根本就不要买",
+      "avg_logprob": -0.1124,
+      "no_speech_prob": 0.9961,
+      "review": true
+    },
+    {
+      "start": 5096.04,
+      "end": 5096.96,
+      "text": "因为现在红官不好",
+      "avg_logprob": -0.1124,
+      "no_speech_prob": 0.9961,
+      "review": true
+    },
+    {
+      "start": 5096.96,
+      "end": 5098.02,
+      "text": "先看红官",
+      "avg_logprob": -0.1124,
+      "no_speech_prob": 0.9961,
+      "review": true
+    },
+    {
+      "start": 5098.02,
+      "end": 5099.48,
+      "text": "再看题材",
+      "avg_logprob": -0.1124,
+      "no_speech_prob": 0.9961,
+      "review": true
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 20.61
+}

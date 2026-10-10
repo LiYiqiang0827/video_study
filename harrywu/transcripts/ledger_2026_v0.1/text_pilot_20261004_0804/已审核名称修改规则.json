@@ -1,0 +1,1074 @@
+{
+  "source_stream_id": "-9HY0rxruC0",
+  "corrections": [
+    {
+      "raw": "光讯科技",
+      "replacement": "光迅科技",
+      "canonical": "光迅科技",
+      "segment_ids": [
+        "s00006",
+        "s00013"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "中芯通讯",
+      "replacement": "中兴通讯",
+      "canonical": "中兴通讯",
+      "segment_ids": [
+        "s00013"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "中心通讯",
+      "replacement": "中兴通讯",
+      "canonical": "中兴通讯",
+      "segment_ids": [
+        "s00081"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "红博",
+      "replacement": "鸿博股份",
+      "canonical": "鸿博股份",
+      "segment_ids": [
+        "s00019"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "红波",
+      "replacement": "鸿博股份",
+      "canonical": "鸿博股份",
+      "segment_ids": [
+        "s00746"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "杭刚",
+      "replacement": "杭钢股份",
+      "canonical": "杭钢股份",
+      "segment_ids": [
+        "s00019"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "优克德",
+      "replacement": "优刻得",
+      "canonical": "优刻得",
+      "segment_ids": [
+        "s00019",
+        "s00143"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "赵延新药",
+      "replacement": "昭衍新药",
+      "canonical": "昭衍新药",
+      "segment_ids": [
+        "s00026"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "药敏康德",
+      "replacement": "药明康德",
+      "canonical": "药明康德",
+      "segment_ids": [
+        "s00026",
+        "s00032"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "药米康德",
+      "replacement": "药明康德",
+      "canonical": "药明康德",
+      "segment_ids": [
+        "s00234"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "亚美康德",
+      "replacement": "药明康德",
+      "canonical": "药明康德",
+      "segment_ids": [
+        "s00589",
+        "s00590",
+        "s01584"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "要没康德",
+      "replacement": "药明康德",
+      "canonical": "药明康德",
+      "segment_ids": [
+        "s00830"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "康乐花城",
+      "replacement": "康龙化成",
+      "canonical": "康龙化成",
+      "segment_ids": [
+        "s00081",
+        "s01542"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "抗农化成",
+      "replacement": "康龙化成",
+      "canonical": "康龙化成",
+      "segment_ids": [
+        "s00470"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "高龙化城",
+      "replacement": "康龙化成",
+      "canonical": "康龙化成",
+      "segment_ids": [
+        "s00853"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "中国合建",
+      "replacement": "中国核建",
+      "canonical": "中国核建",
+      "segment_ids": [
+        "s00035",
+        "s00047",
+        "s00207",
+        "s00212",
+        "s00225",
+        "s00288",
+        "s01001",
+        "s01003"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "中国合金",
+      "replacement": "中国核建",
+      "canonical": "中国核建",
+      "segment_ids": [
+        "s00547"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "税油",
+      "replacement": "税友股份",
+      "canonical": "税友股份",
+      "segment_ids": [
+        "s00052",
+        "s00062"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "税有",
+      "replacement": "税友股份",
+      "canonical": "税友股份",
+      "segment_ids": [
+        "s00217",
+        "s00949",
+        "s01339"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "税用",
+      "replacement": "税友股份",
+      "canonical": "税友股份",
+      "segment_ids": [
+        "s00711",
+        "s00713"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "用油",
+      "replacement": "用友网络",
+      "canonical": "用友网络",
+      "segment_ids": [
+        "s00063",
+        "s00064"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "拥有网络",
+      "replacement": "用友网络",
+      "canonical": "用友网络",
+      "segment_ids": [
+        "s00942"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "塞里斯",
+      "replacement": "赛力斯",
+      "canonical": "赛力斯",
+      "segment_ids": [
+        "s00068",
+        "s00069"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "赛利斯",
+      "replacement": "赛力斯",
+      "canonical": "赛力斯",
+      "segment_ids": [
+        "s00911",
+        "s01269"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "华风科技",
+      "replacement": "华丰科技",
+      "canonical": "华丰科技",
+      "segment_ids": [
+        "s00081"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "力讯精密",
+      "replacement": "立讯精密",
+      "canonical": "立讯精密",
+      "segment_ids": [
+        "s00081"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "云南储业",
+      "replacement": "云南锗业",
+      "canonical": "云南锗业",
+      "segment_ids": [
+        "s00120",
+        "s00122",
+        "s00127",
+        "s00128",
+        "s00129",
+        "s00130",
+        "s00133",
+        "s00135",
+        "s00136",
+        "s00341",
+        "s00360",
+        "s00361",
+        "s00667"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "云南哲业",
+      "replacement": "云南锗业",
+      "canonical": "云南锗业",
+      "segment_ids": [
+        "s00787",
+        "s00789",
+        "s00831"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "云南者业",
+      "replacement": "云南锗业",
+      "canonical": "云南锗业",
+      "segment_ids": [
+        "s00896"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "金东方",
+      "replacement": "京东方",
+      "canonical": "京东方A",
+      "segment_ids": [
+        "s00196",
+        "s00197",
+        "s00198",
+        "s00199",
+        "s00201",
+        "s00997",
+        "s00998",
+        "s01262",
+        "s01264",
+        "s01266",
+        "s01633",
+        "s01634"
+      ],
+      "basis": "本场同时出现京东方，持仓问答上下文一致；只校公司称呼，未确定A/B股",
+      "security_class_confirmed": false
+    },
+    {
+      "raw": "网速科技",
+      "replacement": "网宿科技",
+      "canonical": "网宿科技",
+      "segment_ids": [
+        "s00143"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "圆结科技",
+      "replacement": "源杰科技",
+      "canonical": "源杰科技",
+      "segment_ids": [
+        "s00318"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "天赋通讯",
+      "replacement": "天孚通信",
+      "canonical": "天孚通信",
+      "segment_ids": [
+        "s00322",
+        "s00411",
+        "s00412"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "泰城光",
+      "replacement": "太辰光",
+      "canonical": "太辰光",
+      "segment_ids": [
+        "s00328",
+        "s00330",
+        "s00331",
+        "s00332",
+        "s00804",
+        "s00805",
+        "s00806",
+        "s00810",
+        "s00812",
+        "s01242",
+        "s01251"
+      ],
+      "basis": "同场口述证券代码支持名称；对应段落上下文连续",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "泰晨光",
+      "replacement": "太辰光",
+      "canonical": "太辰光",
+      "segment_ids": [
+        "s00497",
+        "s00500",
+        "s00503"
+      ],
+      "basis": "同场口述证券代码支持名称；对应段落上下文连续",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "太成光",
+      "replacement": "太辰光",
+      "canonical": "太辰光",
+      "segment_ids": [
+        "s00731",
+        "s00738",
+        "s00854",
+        "s00855",
+        "s00856",
+        "s00857",
+        "s00860",
+        "s00862"
+      ],
+      "basis": "同场口述证券代码支持名称；对应段落上下文连续",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "太成功",
+      "replacement": "太辰光",
+      "canonical": "太辰光",
+      "segment_ids": [
+        "s00867"
+      ],
+      "basis": "同场口述证券代码支持名称；对应段落上下文连续",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "公益福利",
+      "replacement": "工业富联",
+      "canonical": "工业富联",
+      "segment_ids": [
+        "s00342"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "生育科技",
+      "replacement": "生益科技",
+      "canonical": "生益科技",
+      "segment_ids": [
+        "s00342"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "生意科技",
+      "replacement": "生益科技",
+      "canonical": "生益科技",
+      "segment_ids": [
+        "s00393"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "永顶",
+      "replacement": "永鼎股份",
+      "canonical": "永鼎股份",
+      "segment_ids": [
+        "s00389",
+        "s00390",
+        "s01586",
+        "s01587"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "永迪",
+      "replacement": "永鼎股份",
+      "canonical": "永鼎股份",
+      "segment_ids": [
+        "s00342"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "普罗要要",
+      "replacement": "普洛药业",
+      "canonical": "普洛药业",
+      "segment_ids": [
+        "s00596"
+      ],
+      "basis": "同场口述证券代码支持名称；对应段落上下文连续",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "洛普药业",
+      "replacement": "普洛药业",
+      "canonical": "普洛药业",
+      "segment_ids": [
+        "s00897",
+        "s01000"
+      ],
+      "basis": "同场口述证券代码支持名称；对应段落上下文连续",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "百利电器",
+      "replacement": "百利电气",
+      "canonical": "百利电气",
+      "segment_ids": [
+        "s00557",
+        "s00558"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "凯莱因",
+      "replacement": "凯莱英",
+      "canonical": "凯莱英",
+      "segment_ids": [
+        "s00462",
+        "s00490",
+        "s00491",
+        "s00896",
+        "s01000",
+        "s01720"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "凯兰因",
+      "replacement": "凯莱英",
+      "canonical": "凯莱英",
+      "segment_ids": [
+        "s00799"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "华盛天成",
+      "replacement": "华胜天成",
+      "canonical": "华胜天成",
+      "segment_ids": [
+        "s00449",
+        "s00451",
+        "s00691",
+        "s00692",
+        "s00751",
+        "s01720"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "华盛天真",
+      "replacement": "华胜天成",
+      "canonical": "华胜天成",
+      "segment_ids": [
+        "s00722"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "华盛天城",
+      "replacement": "华胜天成",
+      "canonical": "华胜天成",
+      "segment_ids": [
+        "s00749",
+        "s00843"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "许记电器",
+      "replacement": "许继电气",
+      "canonical": "许继电气",
+      "segment_ids": [
+        "s00977"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "许愚电器",
+      "replacement": "许继电气",
+      "canonical": "许继电气",
+      "segment_ids": [
+        "s00995"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "四元电器",
+      "replacement": "思源电气",
+      "canonical": "思源电气",
+      "segment_ids": [
+        "s00978",
+        "s00995"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "东方天气",
+      "replacement": "东方电气",
+      "canonical": "东方电气",
+      "segment_ids": [
+        "s01022",
+        "s01024",
+        "s01029",
+        "s01031"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "陈飞极臣",
+      "replacement": "成飞集成",
+      "canonical": "成飞集成",
+      "segment_ids": [
+        "s00963",
+        "s00964"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "塞利斯",
+      "replacement": "赛力斯",
+      "canonical": "赛力斯",
+      "segment_ids": [
+        "s01112"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "三阳光电",
+      "replacement": "三安光电",
+      "canonical": "三安光电",
+      "segment_ids": [
+        "s01181"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "绿色鞋脖",
+      "replacement": "绿的谐波",
+      "canonical": "绿的谐波",
+      "segment_ids": [
+        "s01202"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "三魂集团",
+      "replacement": "三环集团",
+      "canonical": "三环集团",
+      "segment_ids": [
+        "s01388",
+        "s01389"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "东方电器",
+      "replacement": "东方电气",
+      "canonical": "东方电气",
+      "segment_ids": [
+        "s01519",
+        "s01520"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "中务高薪",
+      "replacement": "中钨高新",
+      "canonical": "中钨高新",
+      "segment_ids": [
+        "s01522",
+        "s01662"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "恒通光电",
+      "replacement": "亨通光电",
+      "canonical": "亨通光电",
+      "segment_ids": [
+        "s01629",
+        "s01630"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "郑华科技",
+      "replacement": "振华科技",
+      "canonical": "振华科技",
+      "segment_ids": [
+        "s01554",
+        "s01555"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "云南折叶",
+      "replacement": "云南锗业",
+      "canonical": "云南锗业",
+      "segment_ids": [
+        "s01593"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "康伦化成",
+      "replacement": "康龙化成",
+      "canonical": "康龙化成",
+      "segment_ids": [
+        "s01463"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "洛普药也",
+      "replacement": "普洛药业",
+      "canonical": "普洛药业",
+      "segment_ids": [
+        "s00800"
+      ],
+      "basis": "同场口述证券代码支持名称；对应段落上下文连续",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "诺普耀业",
+      "replacement": "普洛药业",
+      "canonical": "普洛药业",
+      "segment_ids": [
+        "s01720"
+      ],
+      "basis": "同场口述证券代码支持名称；对应段落上下文连续",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "太生光",
+      "replacement": "太辰光",
+      "canonical": "太辰光",
+      "segment_ids": [
+        "s01722"
+      ],
+      "basis": "同场口述证券代码支持名称；对应段落上下文连续",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "凯因网络",
+      "replacement": "恺英网络",
+      "canonical": "恺英网络",
+      "segment_ids": [
+        "s01677",
+        "s01728"
+      ],
+      "basis": "同场口述证券代码支持名称；对应段落上下文连续",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "长征汽车",
+      "replacement": "长城汽车",
+      "canonical": "长城汽车",
+      "segment_ids": [
+        "s01739"
+      ],
+      "basis": "同音错字与本场股票讨论上下文一致；标准名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "光讯",
+      "replacement": "光迅科技",
+      "canonical": "光迅科技",
+      "segment_ids": [
+        "s00081",
+        "s00306",
+        "s00431",
+        "s01596"
+      ],
+      "basis": "本场连续个股语境确认的简称或同音错字；名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "天赋",
+      "replacement": "天孚通信",
+      "canonical": "天孚通信",
+      "segment_ids": [
+        "s00359"
+      ],
+      "basis": "本场连续个股语境确认的简称或同音错字；名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "天福",
+      "replacement": "天孚通信",
+      "canonical": "天孚通信",
+      "segment_ids": [
+        "s00341"
+      ],
+      "basis": "本场连续个股语境确认的简称或同音错字；名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "拥有软件",
+      "replacement": "用友网络",
+      "canonical": "用友网络",
+      "segment_ids": [
+        "s00173"
+      ],
+      "basis": "本场连续个股语境确认的简称或同音错字；名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "拥有",
+      "replacement": "用友网络",
+      "canonical": "用友网络",
+      "segment_ids": [
+        "s00706",
+        "s00709",
+        "s00713",
+        "s00935",
+        "s00936",
+        "s00937"
+      ],
+      "basis": "本场连续个股语境确认的简称或同音错字；名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "用有",
+      "replacement": "用友",
+      "canonical": "用友网络",
+      "segment_ids": [
+        "s01339"
+      ],
+      "basis": "本场连续个股语境确认的简称或同音错字；名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "合建",
+      "replacement": "中国核建",
+      "canonical": "中国核建",
+      "segment_ids": [
+        "s00166",
+        "s00167",
+        "s00175",
+        "s00176"
+      ],
+      "basis": "本场连续个股语境确认的简称或同音错字；名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "许记",
+      "replacement": "许继电气",
+      "canonical": "许继电气",
+      "segment_ids": [
+        "s00984"
+      ],
+      "basis": "本场连续个股语境确认的简称或同音错字；名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "许致",
+      "replacement": "许继电气",
+      "canonical": "许继电气",
+      "segment_ids": [
+        "s00996"
+      ],
+      "basis": "本场连续个股语境确认的简称或同音错字；名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "四元",
+      "replacement": "思源电气",
+      "canonical": "思源电气",
+      "segment_ids": [
+        "s00984",
+        "s00996"
+      ],
+      "basis": "本场连续个股语境确认的简称或同音错字；名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "光酷",
+      "replacement": "光库科技",
+      "canonical": "光库科技",
+      "segment_ids": [
+        "s01256"
+      ],
+      "basis": "本场连续个股语境确认的简称或同音错字；名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "中大利德",
+      "replacement": "中大力德",
+      "canonical": "中大力德",
+      "segment_ids": [
+        "s00555"
+      ],
+      "basis": "本场连续个股语境确认的简称或同音错字；名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "丰范",
+      "replacement": "风范股份",
+      "canonical": "风范股份",
+      "segment_ids": [
+        "s00549",
+        "s00550"
+      ],
+      "basis": "本场连续个股语境确认的简称或同音错字；名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "底龙股份",
+      "replacement": "鼎龙股份",
+      "canonical": "鼎龙股份",
+      "segment_ids": [
+        "s01446"
+      ],
+      "basis": "本场连续个股语境确认的简称或同音错字；名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "新一盛",
+      "replacement": "新易盛",
+      "canonical": "新易盛",
+      "segment_ids": [
+        "s01581"
+      ],
+      "basis": "本场连续个股语境确认的简称或同音错字；名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "华盛",
+      "replacement": "华胜天成",
+      "canonical": "华胜天成",
+      "segment_ids": [
+        "s01653"
+      ],
+      "basis": "本场连续个股语境确认的简称或同音错字；名称匹配本地证券清单",
+      "security_class_confirmed": true
+    },
+    {
+      "raw": "郑华",
+      "replacement": "振华科技",
+      "canonical": "振华科技",
+      "segment_ids": [
+        "s01546"
+      ],
+      "basis": "本场连续个股语境确认的简称或同音错字；名称匹配本地证券清单",
+      "security_class_confirmed": true
+    }
+  ],
+  "pending": [
+    {
+      "raw": "素签联盟",
+      "segment_ids": [
+        "s00123"
+      ],
+      "candidates": [
+        "宿迁联盛"
+      ],
+      "reason": "同音候选，文本上下文不足以确认"
+    },
+    {
+      "raw": "苏千联盟",
+      "segment_ids": [
+        "s00130"
+      ],
+      "candidates": [
+        "宿迁联盛"
+      ],
+      "reason": "同音候选，文本上下文不足以确认"
+    },
+    {
+      "raw": "苏千联盛",
+      "segment_ids": [
+        "s00132"
+      ],
+      "candidates": [
+        "宿迁联盛"
+      ],
+      "reason": "同音候选，文本上下文不足以确认"
+    },
+    {
+      "raw": "力通",
+      "segment_ids": [
+        "s00342"
+      ],
+      "candidates": [
+        "利通电子",
+        "利通科技"
+      ],
+      "reason": "简称可对应两只证券"
+    },
+    {
+      "raw": "新疆时代",
+      "segment_ids": [
+        "s00721"
+      ],
+      "candidates": [],
+      "reason": "识别不清，无法确认是否为股票名称"
+    },
+    {
+      "raw": "新云乐高,阳电,太阳,莲花",
+      "segment_ids": [
+        "s00727"
+      ],
+      "candidates": [],
+      "reason": "连续股票名或简称识别不清，保留片段"
+    },
+    {
+      "raw": "诺布克特",
+      "segment_ids": [
+        "s00848"
+      ],
+      "candidates": [
+        "罗博特科"
+      ],
+      "reason": "名称音序不清，保留候选"
+    },
+    {
+      "raw": "山东新密",
+      "segment_ids": [
+        "s01579"
+      ],
+      "candidates": [],
+      "reason": "名称识别不清，不能确定对应股票"
+    },
+    {
+      "raw": "文艺招新",
+      "segment_ids": [
+        "s01595"
+      ],
+      "candidates": [],
+      "reason": "连续名称识别不清，不能确定拆分"
+    },
+    {
+      "raw": "职业园",
+      "segment_ids": [
+        "s01597"
+      ],
+      "candidates": [],
+      "reason": "连续名称识别不清，不能确定拆分"
+    }
+  ]
+}

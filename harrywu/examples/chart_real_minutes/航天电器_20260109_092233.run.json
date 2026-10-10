@@ -1,0 +1,130 @@
+{
+  "status": "ok",
+  "png": "C:\\Project Rocket\\outputs\\chart_tool_minutes_enabled_20261009\\charts\\航天电器_20260109_092233.png",
+  "views": {
+    "daily": "C:\\Project Rocket\\outputs\\chart_tool_minutes_enabled_20261009\\charts\\航天电器_20260109_092233.daily.view.json",
+    "15m": "C:\\Project Rocket\\outputs\\chart_tool_minutes_enabled_20261009\\charts\\航天电器_20260109_092233.15m.view.json",
+    "1m": "C:\\Project Rocket\\outputs\\chart_tool_minutes_enabled_20261009\\charts\\航天电器_20260109_092233.1m.view.json",
+    "intraday": "C:\\Project Rocket\\outputs\\chart_tool_minutes_enabled_20261009\\charts\\航天电器_20260109_092233.intraday.view.json"
+  },
+  "manifest": "C:\\Project Rocket\\outputs\\chart_tool_minutes_enabled_20261009\\charts\\航天电器_20260109_092233.manifest.json",
+  "rows": {
+    "daily": 2236,
+    "15m": 80,
+    "1m": 240,
+    "intraday": 240
+  },
+  "stage": "restore",
+  "requested_cutoff": "2026-01-09T09:22:33+08:00",
+  "timings": {
+    "reading_seconds": 0.833303799998248,
+    "conversion_seconds": 0.8269505999924149,
+    "drawing_seconds": 0.435739000007743,
+    "encoding_seconds": 0.20648910000454634,
+    "pipeline_total_seconds": 2.6760754999995697
+  },
+  "warnings": [
+    "AUCTION_NOT_YET_REVEALED",
+    "AUCTION_UNAVAILABLE",
+    "DISPLAY_SESSION_PREVIOUS",
+    "HISTORICAL_CALENDAR_COVERAGE_UNAVAILABLE",
+    "DISPLAY_ZOOM_WITHIN_CUTOFF",
+    "FIFTEEN_MINUTES_DERIVED_FROM_ONE_MINUTE"
+  ],
+  "request": {
+    "ts_code": "002025.SZ",
+    "cutoff": "2026-01-09T09:22:33+08:00",
+    "cutoff_source": {
+      "calibration_segment": "XSFwu5KOo5Y at video632s; screen09:22:33 vs offset09:23:06; use earlier; preopen daily-only",
+      "candidates": [
+        {
+          "cutoff": "2026-01-09T09:22:33+08:00",
+          "evidence_ref": "inputs/source_frame_000632.jpg"
+        },
+        {
+          "cutoff": "2026-01-09T09:23:06+08:00",
+          "evidence_ref": "stream inventory verified start plus video offset632s"
+        }
+      ],
+      "confidence": "medium",
+      "evidence_refs": [
+        "inputs/source_frame_000632.jpg",
+        "inputs/transcript_excerpt.md"
+      ],
+      "kind": "screen_clock"
+    },
+    "stage": "restore",
+    "window": "10y",
+    "periods": [
+      "daily",
+      "15m",
+      "1m",
+      "intraday"
+    ],
+    "minute_start": "2025-12-31",
+    "include_partial": true,
+    "contract_version": "chart.v1"
+  },
+  "geometry": "C:\\Project Rocket\\outputs\\chart_tool_minutes_enabled_20261009\\charts\\航天电器_20260109_092233.geometry.json",
+  "pixel": "C:\\Project Rocket\\outputs\\chart_tool_minutes_enabled_20261009\\charts\\航天电器_20260109_092233.pixel.json",
+  "pixel_check": {
+    "status": "pass",
+    "panels": {
+      "daily": {
+        "status": "pass",
+        "mode": "normal",
+        "bars": 250,
+        "volume_expected": 250,
+        "volume_visible": 250,
+        "candle_visible": 250,
+        "line_visible": 0,
+        "colored_right_of_last_bar": 0,
+        "colored_in_fixed_slot_tail": 0,
+        "duplicate_columns": 0,
+        "failures": []
+      },
+      "15m": {
+        "status": "pass",
+        "mode": "normal",
+        "bars": 80,
+        "volume_expected": 80,
+        "volume_visible": 80,
+        "candle_visible": 80,
+        "line_visible": 0,
+        "colored_right_of_last_bar": 0,
+        "colored_in_fixed_slot_tail": 0,
+        "duplicate_columns": 0,
+        "failures": []
+      },
+      "1m": {
+        "status": "pass",
+        "mode": "normal",
+        "bars": 240,
+        "volume_expected": 238,
+        "volume_visible": 238,
+        "candle_visible": 240,
+        "line_visible": 0,
+        "colored_right_of_last_bar": 0,
+        "colored_in_fixed_slot_tail": 0,
+        "duplicate_columns": 0,
+        "failures": []
+      },
+      "intraday": {
+        "status": "pass",
+        "mode": "line",
+        "bars": 240,
+        "volume_expected": 238,
+        "volume_visible": 238,
+        "candle_visible": 0,
+        "line_visible": 240,
+        "colored_right_of_last_bar": 0,
+        "colored_in_fixed_slot_tail": 0,
+        "duplicate_columns": 0,
+        "failures": []
+      }
+    }
+  },
+  "canvas_width_px": 5600,
+  "process_to_png_and_sidecars_seconds": 3.3936211000109324,
+  "png_sha256": "17c603a688f54163b5a95d2aa5bdc93cbd17cf13d357d5a09cdcdd08a27c2efa"
+}

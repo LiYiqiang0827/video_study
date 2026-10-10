@@ -1,0 +1,112 @@
+{
+  "begin": 169.0,
+  "finish": 189.0,
+  "segments": [
+    {
+      "start": 169.0,
+      "end": 170.06,
+      "text": "以趋势线的划法",
+      "avg_logprob": -0.1588,
+      "no_speech_prob": 0.9253,
+      "review": true
+    },
+    {
+      "start": 170.06,
+      "end": 171.34,
+      "text": "趋势线的划法",
+      "avg_logprob": -0.1588,
+      "no_speech_prob": 0.9253,
+      "review": true
+    },
+    {
+      "start": 171.34,
+      "end": 172.68,
+      "text": "这个我们知道",
+      "avg_logprob": -0.1588,
+      "no_speech_prob": 0.9253,
+      "review": true
+    },
+    {
+      "start": 172.68,
+      "end": 174.58,
+      "text": "如果一个行情开始走",
+      "avg_logprob": -0.1588,
+      "no_speech_prob": 0.9253,
+      "review": true
+    },
+    {
+      "start": 174.58,
+      "end": 176.0,
+      "text": "走上来",
+      "avg_logprob": -0.1588,
+      "no_speech_prob": 0.9253,
+      "review": true
+    },
+    {
+      "start": 176.0,
+      "end": 177.24,
+      "text": "这个是一个低点",
+      "avg_logprob": -0.1588,
+      "no_speech_prob": 0.9253,
+      "review": true
+    },
+    {
+      "start": 177.24,
+      "end": 179.18,
+      "text": "收回了第二个低点",
+      "avg_logprob": -0.1588,
+      "no_speech_prob": 0.9253,
+      "review": true
+    },
+    {
+      "start": 179.18,
+      "end": 180.42,
+      "text": "那么我们要知道",
+      "avg_logprob": -0.1588,
+      "no_speech_prob": 0.9253,
+      "review": true
+    },
+    {
+      "start": 180.42,
+      "end": 181.82,
+      "text": "这个行情以后怎么走",
+      "avg_logprob": -0.1588,
+      "no_speech_prob": 0.9253,
+      "review": true
+    },
+    {
+      "start": 181.82,
+      "end": 183.0,
+      "text": "那么我们就在",
+      "avg_logprob": -0.1588,
+      "no_speech_prob": 0.9253,
+      "review": true
+    },
+    {
+      "start": 183.0,
+      "end": 184.9,
+      "text": "这两个低点之间",
+      "avg_logprob": -0.1588,
+      "no_speech_prob": 0.9253,
+      "review": true
+    },
+    {
+      "start": 184.9,
+      "end": 187.24,
+      "text": "进行连了一条线",
+      "avg_logprob": -0.1588,
+      "no_speech_prob": 0.9253,
+      "review": true
+    },
+    {
+      "start": 187.24,
+      "end": 188.98,
+      "text": "两个点",
+      "avg_logprob": -0.1588,
+      "no_speech_prob": 0.9253,
+      "review": true
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 2.12
+}

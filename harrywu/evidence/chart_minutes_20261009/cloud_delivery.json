@@ -1,0 +1,110 @@
+{
+  "uploads": [
+    {
+      "accepted_input": "file_uri",
+      "success": true,
+      "id": "1u3m8xSKUVffrO7Sfk0LkF-mxtN-jMDL_",
+      "title": "看图工具_真实分钟_002025_20260918_100730.png",
+      "file_name": "看图工具_真实分钟_002025_20260918_100730.png",
+      "mime_type": "image/png",
+      "url": "https://drive.google.com/file/d/1u3m8xSKUVffrO7Sfk0LkF-mxtN-jMDL_/view?usp=drivesdk",
+      "parent_id": "1ArXaNgsTbk5ThawYLGgeVCi5K9n9cNh0",
+      "structuredContent": {
+        "accepted_input": "file_uri",
+        "success": true,
+        "id": "1u3m8xSKUVffrO7Sfk0LkF-mxtN-jMDL_",
+        "title": "看图工具_真实分钟_002025_20260918_100730.png",
+        "file_name": "看图工具_真实分钟_002025_20260918_100730.png",
+        "mime_type": "image/png",
+        "url": "https://drive.google.com/file/d/1u3m8xSKUVffrO7Sfk0LkF-mxtN-jMDL_/view?usp=drivesdk",
+        "parent_id": "1ArXaNgsTbk5ThawYLGgeVCi5K9n9cNh0"
+      }
+    },
+    {
+      "accepted_input": "file_uri",
+      "success": true,
+      "id": "1Ubc_z5ROs3vNN28852WudS4bD7sH6Eac",
+      "title": "看图工具_真实分钟_航天电器_20260109_092233.png",
+      "file_name": "看图工具_真实分钟_航天电器_20260109_092233.png",
+      "mime_type": "image/png",
+      "url": "https://drive.google.com/file/d/1Ubc_z5ROs3vNN28852WudS4bD7sH6Eac/view?usp=drivesdk",
+      "parent_id": "1ArXaNgsTbk5ThawYLGgeVCi5K9n9cNh0",
+      "structuredContent": {
+        "accepted_input": "file_uri",
+        "success": true,
+        "id": "1Ubc_z5ROs3vNN28852WudS4bD7sH6Eac",
+        "title": "看图工具_真实分钟_航天电器_20260109_092233.png",
+        "file_name": "看图工具_真实分钟_航天电器_20260109_092233.png",
+        "mime_type": "image/png",
+        "url": "https://drive.google.com/file/d/1Ubc_z5ROs3vNN28852WudS4bD7sH6Eac/view?usp=drivesdk",
+        "parent_id": "1ArXaNgsTbk5ThawYLGgeVCi5K9n9cNh0"
+      }
+    }
+  ],
+  "readback": [
+    {
+      "status": "fulfilled",
+      "value": {
+        "content": [
+          {
+            "type": "text",
+            "text": "Action completed."
+          }
+        ],
+        "structuredContent": {
+          "id": "1u3m8xSKUVffrO7Sfk0LkF-mxtN-jMDL_",
+          "title": "看图工具_真实分钟_002025_20260918_100730.png",
+          "mime_type": "image/png",
+          "size": "290440",
+          "url": "https://drive.google.com/file/d/1u3m8xSKUVffrO7Sfk0LkF-mxtN-jMDL_/view?usp=drivesdk",
+          "display_url": "https://drive.google.com/file/d/1u3m8xSKUVffrO7Sfk0LkF-mxtN-jMDL_/view?usp=drivesdk",
+          "file_or_folder": "file",
+          "created_time": null,
+          "modified_time": null,
+          "parent_ids": [
+            "1ArXaNgsTbk5ThawYLGgeVCi5K9n9cNh0"
+          ],
+          "drive_id": null,
+          "current_user_can_share": null,
+          "has_augmented_permissions": null,
+          "shared": null,
+          "permissions": null,
+          "source_visibility_status": "access_not_verified"
+        },
+        "isError": false
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "content": [
+          {
+            "type": "text",
+            "text": "Action completed."
+          }
+        ],
+        "structuredContent": {
+          "id": "1Ubc_z5ROs3vNN28852WudS4bD7sH6Eac",
+          "title": "看图工具_真实分钟_航天电器_20260109_092233.png",
+          "mime_type": "image/png",
+          "size": "300011",
+          "url": "https://drive.google.com/file/d/1Ubc_z5ROs3vNN28852WudS4bD7sH6Eac/view?usp=drivesdk",
+          "display_url": "https://drive.google.com/file/d/1Ubc_z5ROs3vNN28852WudS4bD7sH6Eac/view?usp=drivesdk",
+          "file_or_folder": "file",
+          "created_time": null,
+          "modified_time": null,
+          "parent_ids": [
+            "1ArXaNgsTbk5ThawYLGgeVCi5K9n9cNh0"
+          ],
+          "drive_id": null,
+          "current_user_can_share": null,
+          "has_augmented_permissions": null,
+          "shared": null,
+          "permissions": null,
+          "source_visibility_status": "access_not_verified"
+        },
+        "isError": false
+      }
+    }
+  ]
+}

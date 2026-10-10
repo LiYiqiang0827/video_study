@@ -1,0 +1,256 @@
+{
+  "begin": 3600.0,
+  "finish": 3900.0,
+  "segments": [
+    {
+      "start": 3601.92,
+      "end": 3626.9,
+      "text": "啊,19510,哦,哦,等一等啊,等一等,看他会不会跌到这儿来,因为他现在还在跌嘛,还在跌,等一等",
+      "avg_logprob": -0.1062,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3626.9,
+      "end": 3658.78,
+      "text": "如果跌透了,那就基本上跌到这儿来了,他不跌透的话,我们就先买,哦,还在跌,还在跌,还在跌就等一等啊,反正,反正耐心",
+      "avg_logprob": -0.1062,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3658.78,
+      "end": 3663.52,
+      "text": "我这边它没有跌了就开始买了",
+      "avg_logprob": -0.1893,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3663.52,
+      "end": 3668.83,
+      "text": "我右边看那个",
+      "avg_logprob": -0.1893,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3668.83,
+      "end": 3673.19,
+      "text": "看那个深圳的这个K线图啊",
+      "avg_logprob": -0.1893,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3673.19,
+      "end": 3676.54,
+      "text": "这边看一下深圳城市的K线图",
+      "avg_logprob": -0.1893,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3676.54,
+      "end": 3678.24,
+      "text": "我的另外一个里面去看",
+      "avg_logprob": -0.1893,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3678.24,
+      "end": 3681.93,
+      "text": "一个定了半导体",
+      "avg_logprob": -0.1893,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3681.93,
+      "end": 3683.53,
+      "text": "一个定了深圳的K线图",
+      "avg_logprob": -0.1893,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3683.53,
+      "end": 3685.63,
+      "text": "哦哦这个跑这边来了",
+      "avg_logprob": -0.1893,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3685.63,
+      "end": 3687.05,
+      "text": "跑这边来",
+      "avg_logprob": -0.1893,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3687.05,
+      "end": 3687.95,
+      "text": "这个电脑里面的",
+      "avg_logprob": -0.1893,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3687.95,
+      "end": 3707.74,
+      "text": "哦差不多了",
+      "avg_logprob": -0.1893,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3707.74,
+      "end": 3709.02,
+      "text": "可以买了可以买了可以买了",
+      "avg_logprob": -0.1893,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3709.02,
+      "end": 3710.36,
+      "text": "不管了可以买了",
+      "avg_logprob": -0.1893,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3710.36,
+      "end": 3717.65,
+      "text": "好",
+      "avg_logprob": -0.1893,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3717.65,
+      "end": 3722.49,
+      "text": "一个是半导体的设备",
+      "avg_logprob": -0.1421,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3722.49,
+      "end": 3723.39,
+      "text": "一个是芯片",
+      "avg_logprob": -0.1421,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3723.39,
+      "end": 3725.52,
+      "text": "芯片",
+      "avg_logprob": -0.1421,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3725.52,
+      "end": 3727.7,
+      "text": "15999",
+      "avg_logprob": -0.1421,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3727.7,
+      "end": 3746.95,
+      "text": "可这个这么快",
+      "avg_logprob": -0.1421,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3746.95,
+      "end": 3760.78,
+      "text": "还有一个啥呢",
+      "avg_logprob": -0.1421,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3760.78,
+      "end": 3761.56,
+      "text": "我三个都买",
+      "avg_logprob": -0.1421,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3761.56,
+      "end": 3763.46,
+      "text": "半导体设备、芯片、磕窗",
+      "avg_logprob": -0.1421,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3763.46,
+      "end": 3781.4,
+      "text": "不要一笔买进去",
+      "avg_logprob": -0.1421,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3781.4,
+      "end": 3784.92,
+      "text": "你还给自己一个回抽的空间",
+      "avg_logprob": -0.1421,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3784.92,
+      "end": 3786.56,
+      "text": "千万不要一笔买进去",
+      "avg_logprob": -0.1421,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3786.56,
+      "end": 3788.56,
+      "text": "一定要给自己一个回抽的空间",
+      "avg_logprob": -0.1421,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3790.14,
+      "end": 3792.88,
+      "text": "不是说它一定会暴涨",
+      "avg_logprob": -0.1421,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 3792.88,
+      "end": 3877.3,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.084,
+      "no_speech_prob": 0.2351,
+      "review": false
+    },
+    {
+      "start": 3877.32,
+      "end": 3901.99,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1114,
+      "no_speech_prob": 0.9468,
+      "review": true
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 15.27
+}

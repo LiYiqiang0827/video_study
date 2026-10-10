@@ -1,0 +1,898 @@
+{
+  "task_id": "V2-L4",
+  "contract_version": "chart.v1",
+  "status": "failed",
+  "targets_path": "C:\\Project Rocket\\outputs\\chart_tool_v2_20261009\\W5\\verify_targets.json",
+  "snapshot_dir": "C:\\Project Rocket\\outputs\\chart_tool_development_20261009\\inputs",
+  "limitations": [
+    "reveal_result checks support daily-only mention policies; minute-split and lunch-split paths are rejected as unverified"
+  ],
+  "target_count": 14,
+  "check_count": 56,
+  "checks": [
+    {
+      "target": "daily_10y.png",
+      "check": "view_schema",
+      "status": "passed",
+      "detail": {
+        "periods": {
+          "daily": {
+            "code": "002025.SZ",
+            "rows": 2236
+          }
+        }
+      }
+    },
+    {
+      "target": "daily_10y.png",
+      "check": "cutoff_daily",
+      "status": "passed",
+      "detail": {
+        "period": "daily",
+        "bars": 2236,
+        "requested": "2026-01-09T09:22:33+08:00",
+        "effective": "2026-01-08T15:00:00+08:00",
+        "anchor_trade_date": "2026-01-08",
+        "auctions_checked": 0
+      }
+    },
+    {
+      "target": "daily_10y.png",
+      "check": "daily_price_and_volume",
+      "status": "passed",
+      "detail": {
+        "source": "SNAP raw daily × factor / anchor",
+        "price_rtol": 1e-12,
+        "price_atol": 1e-10,
+        "volume": "exact raw lots × 100",
+        "rows_checked": 2236,
+        "legacy_partial_rows_rebuilt_from_1m": null
+      }
+    },
+    {
+      "target": "daily_10y.png",
+      "check": "geometry_and_independent_pixel_probe",
+      "status": "passed",
+      "detail": {
+        "png_size": [
+          7538,
+          1600
+        ],
+        "panels": [
+          {
+            "panel": "daily",
+            "view_period": "daily",
+            "geometry_bars": 2236,
+            "displayed_rows": 2236,
+            "unique_floor_x": 2236,
+            "positive_volume_probes": 2236,
+            "right_of_last_bar_color_pixels": 0
+          }
+        ],
+        "probe": "center column, one pixel above volume baseline; background-only test"
+      }
+    },
+    {
+      "target": "daily_10y_log.png",
+      "check": "view_schema",
+      "status": "passed",
+      "detail": {
+        "periods": {
+          "daily": {
+            "code": "002025.SZ",
+            "rows": 2236
+          }
+        }
+      }
+    },
+    {
+      "target": "daily_10y_log.png",
+      "check": "cutoff_daily",
+      "status": "passed",
+      "detail": {
+        "period": "daily",
+        "bars": 2236,
+        "requested": "2026-01-09T09:22:33+08:00",
+        "effective": "2026-01-08T15:00:00+08:00",
+        "anchor_trade_date": "2026-01-08",
+        "auctions_checked": 0
+      }
+    },
+    {
+      "target": "daily_10y_log.png",
+      "check": "daily_price_and_volume",
+      "status": "passed",
+      "detail": {
+        "source": "SNAP raw daily × factor / anchor",
+        "price_rtol": 1e-12,
+        "price_atol": 1e-10,
+        "volume": "exact raw lots × 100",
+        "rows_checked": 2236,
+        "legacy_partial_rows_rebuilt_from_1m": null
+      }
+    },
+    {
+      "target": "daily_10y_log.png",
+      "check": "geometry_and_independent_pixel_probe",
+      "status": "passed",
+      "detail": {
+        "png_size": [
+          7538,
+          1600
+        ],
+        "panels": [
+          {
+            "panel": "daily",
+            "view_period": "daily",
+            "geometry_bars": 2236,
+            "displayed_rows": 2236,
+            "unique_floor_x": 2236,
+            "positive_volume_probes": 2236,
+            "right_of_last_bar_color_pixels": 0
+          }
+        ],
+        "probe": "center column, one pixel above volume baseline; background-only test"
+      }
+    },
+    {
+      "target": "daily_recent.png",
+      "check": "view_schema",
+      "status": "passed",
+      "detail": {
+        "periods": {
+          "daily": {
+            "code": "002025.SZ",
+            "rows": 130
+          }
+        }
+      }
+    },
+    {
+      "target": "daily_recent.png",
+      "check": "cutoff_daily",
+      "status": "passed",
+      "detail": {
+        "period": "daily",
+        "bars": 130,
+        "requested": "2026-01-09T09:22:33+08:00",
+        "effective": "2026-01-08T15:00:00+08:00",
+        "anchor_trade_date": "2026-01-08",
+        "auctions_checked": 0
+      }
+    },
+    {
+      "target": "daily_recent.png",
+      "check": "daily_price_and_volume",
+      "status": "passed",
+      "detail": {
+        "source": "SNAP raw daily × factor / anchor",
+        "price_rtol": 1e-12,
+        "price_atol": 1e-10,
+        "volume": "exact raw lots × 100",
+        "rows_checked": 130,
+        "legacy_partial_rows_rebuilt_from_1m": null
+      }
+    },
+    {
+      "target": "daily_recent.png",
+      "check": "geometry_and_independent_pixel_probe",
+      "status": "passed",
+      "detail": {
+        "png_size": [
+          3840,
+          1600
+        ],
+        "panels": [
+          {
+            "panel": "daily",
+            "view_period": "daily",
+            "geometry_bars": 130,
+            "displayed_rows": 130,
+            "unique_floor_x": 130,
+            "positive_volume_probes": 130,
+            "right_of_last_bar_color_pixels": 0
+          }
+        ],
+        "probe": "center column, one pixel above volume baseline; background-only test"
+      }
+    },
+    {
+      "target": "daily_last200.png",
+      "check": "view_schema",
+      "status": "passed",
+      "detail": {
+        "periods": {
+          "daily": {
+            "code": "002025.SZ",
+            "rows": 200
+          }
+        }
+      }
+    },
+    {
+      "target": "daily_last200.png",
+      "check": "cutoff_daily",
+      "status": "passed",
+      "detail": {
+        "period": "daily",
+        "bars": 200,
+        "requested": "2026-01-09T09:22:33+08:00",
+        "effective": "2026-01-08T15:00:00+08:00",
+        "anchor_trade_date": "2026-01-08",
+        "auctions_checked": 0
+      }
+    },
+    {
+      "target": "daily_last200.png",
+      "check": "daily_price_and_volume",
+      "status": "passed",
+      "detail": {
+        "source": "SNAP raw daily × factor / anchor",
+        "price_rtol": 1e-12,
+        "price_atol": 1e-10,
+        "volume": "exact raw lots × 100",
+        "rows_checked": 200,
+        "legacy_partial_rows_rebuilt_from_1m": null
+      }
+    },
+    {
+      "target": "daily_last200.png",
+      "check": "geometry_and_independent_pixel_probe",
+      "status": "passed",
+      "detail": {
+        "png_size": [
+          3840,
+          1600
+        ],
+        "panels": [
+          {
+            "panel": "daily",
+            "view_period": "daily",
+            "geometry_bars": 200,
+            "displayed_rows": 200,
+            "unique_floor_x": 200,
+            "positive_volume_probes": 200,
+            "right_of_last_bar_color_pixels": 0
+          }
+        ],
+        "probe": "center column, one pixel above volume baseline; background-only test"
+      }
+    },
+    {
+      "target": "daily_last250.png",
+      "check": "view_schema",
+      "status": "passed",
+      "detail": {
+        "periods": {
+          "daily": {
+            "code": "002025.SZ",
+            "rows": 250
+          }
+        }
+      }
+    },
+    {
+      "target": "daily_last250.png",
+      "check": "cutoff_daily",
+      "status": "passed",
+      "detail": {
+        "period": "daily",
+        "bars": 250,
+        "requested": "2026-01-09T09:22:33+08:00",
+        "effective": "2026-01-08T15:00:00+08:00",
+        "anchor_trade_date": "2026-01-08",
+        "auctions_checked": 0
+      }
+    },
+    {
+      "target": "daily_last250.png",
+      "check": "daily_price_and_volume",
+      "status": "passed",
+      "detail": {
+        "source": "SNAP raw daily × factor / anchor",
+        "price_rtol": 1e-12,
+        "price_atol": 1e-10,
+        "volume": "exact raw lots × 100",
+        "rows_checked": 250,
+        "legacy_partial_rows_rebuilt_from_1m": null
+      }
+    },
+    {
+      "target": "daily_last250.png",
+      "check": "geometry_and_independent_pixel_probe",
+      "status": "passed",
+      "detail": {
+        "png_size": [
+          3840,
+          1600
+        ],
+        "panels": [
+          {
+            "panel": "daily",
+            "view_period": "daily",
+            "geometry_bars": 250,
+            "displayed_rows": 250,
+            "unique_floor_x": 250,
+            "positive_volume_probes": 250,
+            "right_of_last_bar_color_pixels": 0
+          }
+        ],
+        "probe": "center column, one pixel above volume baseline; background-only test"
+      }
+    },
+    {
+      "target": "daily_last300.png",
+      "check": "view_schema",
+      "status": "passed",
+      "detail": {
+        "periods": {
+          "daily": {
+            "code": "002025.SZ",
+            "rows": 300
+          }
+        }
+      }
+    },
+    {
+      "target": "daily_last300.png",
+      "check": "cutoff_daily",
+      "status": "passed",
+      "detail": {
+        "period": "daily",
+        "bars": 300,
+        "requested": "2026-01-09T09:22:33+08:00",
+        "effective": "2026-01-08T15:00:00+08:00",
+        "anchor_trade_date": "2026-01-08",
+        "auctions_checked": 0
+      }
+    },
+    {
+      "target": "daily_last300.png",
+      "check": "daily_price_and_volume",
+      "status": "passed",
+      "detail": {
+        "source": "SNAP raw daily × factor / anchor",
+        "price_rtol": 1e-12,
+        "price_atol": 1e-10,
+        "volume": "exact raw lots × 100",
+        "rows_checked": 300,
+        "legacy_partial_rows_rebuilt_from_1m": null
+      }
+    },
+    {
+      "target": "daily_last300.png",
+      "check": "geometry_and_independent_pixel_probe",
+      "status": "passed",
+      "detail": {
+        "png_size": [
+          3840,
+          1600
+        ],
+        "panels": [
+          {
+            "panel": "daily",
+            "view_period": "daily",
+            "geometry_bars": 300,
+            "displayed_rows": 300,
+            "unique_floor_x": 300,
+            "positive_volume_probes": 300,
+            "right_of_last_bar_color_pixels": 0
+          }
+        ],
+        "probe": "center column, one pixel above volume baseline; background-only test"
+      }
+    },
+    {
+      "target": "daily_last350.png",
+      "check": "view_schema",
+      "status": "passed",
+      "detail": {
+        "periods": {
+          "daily": {
+            "code": "002025.SZ",
+            "rows": 350
+          }
+        }
+      }
+    },
+    {
+      "target": "daily_last350.png",
+      "check": "cutoff_daily",
+      "status": "passed",
+      "detail": {
+        "period": "daily",
+        "bars": 350,
+        "requested": "2026-01-09T09:22:33+08:00",
+        "effective": "2026-01-08T15:00:00+08:00",
+        "anchor_trade_date": "2026-01-08",
+        "auctions_checked": 0
+      }
+    },
+    {
+      "target": "daily_last350.png",
+      "check": "daily_price_and_volume",
+      "status": "passed",
+      "detail": {
+        "source": "SNAP raw daily × factor / anchor",
+        "price_rtol": 1e-12,
+        "price_atol": 1e-10,
+        "volume": "exact raw lots × 100",
+        "rows_checked": 350,
+        "legacy_partial_rows_rebuilt_from_1m": null
+      }
+    },
+    {
+      "target": "daily_last350.png",
+      "check": "geometry_and_independent_pixel_probe",
+      "status": "passed",
+      "detail": {
+        "png_size": [
+          3840,
+          1600
+        ],
+        "panels": [
+          {
+            "panel": "daily",
+            "view_period": "daily",
+            "geometry_bars": 350,
+            "displayed_rows": 350,
+            "unique_floor_x": 350,
+            "positive_volume_probes": 350,
+            "right_of_last_bar_color_pixels": 0
+          }
+        ],
+        "probe": "center column, one pixel above volume baseline; background-only test"
+      }
+    },
+    {
+      "target": "multi.png",
+      "check": "view_schema",
+      "status": "passed",
+      "detail": {
+        "periods": {
+          "daily": {
+            "code": "002025.SZ",
+            "rows": 2240
+          },
+          "15m": {
+            "code": "002025.SZ",
+            "rows": 3
+          },
+          "1m": {
+            "code": "002025.SZ",
+            "rows": 37
+          },
+          "intraday": {
+            "code": "002025.SZ",
+            "rows": 37
+          }
+        }
+      }
+    },
+    {
+      "target": "multi.png",
+      "check": "cutoff_daily",
+      "status": "passed",
+      "detail": {
+        "period": "daily",
+        "bars": 2240,
+        "requested": "2026-09-18T10:07:30+08:00",
+        "effective": "2026-09-18T10:07:30+08:00",
+        "anchor_trade_date": "2026-09-17",
+        "auctions_checked": 0
+      }
+    },
+    {
+      "target": "multi.png",
+      "check": "daily_price_and_volume",
+      "status": "passed",
+      "detail": {
+        "source": "SNAP raw daily × factor / anchor",
+        "price_rtol": 1e-12,
+        "price_atol": 1e-10,
+        "volume": "exact raw lots × 100",
+        "rows_checked": 2239,
+        "legacy_partial_rows_rebuilt_from_1m": {
+          "trade_date": "2026-09-18",
+          "minute_rows": 37,
+          "auction_folded": false,
+          "ohlc_volume_amount_rebuilt": true
+        }
+      }
+    },
+    {
+      "target": "multi.png",
+      "check": "cutoff_15m",
+      "status": "passed",
+      "detail": {
+        "period": "15m",
+        "bars": 3,
+        "requested": "2026-09-18T10:07:30+08:00",
+        "effective": "2026-09-18T10:07:30+08:00",
+        "anchor_trade_date": "2026-09-17",
+        "auctions_checked": 0
+      }
+    },
+    {
+      "target": "multi.png",
+      "check": "cutoff_1m",
+      "status": "passed",
+      "detail": {
+        "period": "1m",
+        "bars": 37,
+        "requested": "2026-09-18T10:07:30+08:00",
+        "effective": "2026-09-18T10:07:30+08:00",
+        "anchor_trade_date": "2026-09-17",
+        "auctions_checked": 0
+      }
+    },
+    {
+      "target": "multi.png",
+      "check": "cutoff_intraday",
+      "status": "passed",
+      "detail": {
+        "period": "intraday",
+        "bars": 37,
+        "requested": "2026-09-18T10:07:30+08:00",
+        "effective": "2026-09-18T10:07:30+08:00",
+        "anchor_trade_date": "2026-09-17",
+        "auctions_checked": 0
+      }
+    },
+    {
+      "target": "multi.png",
+      "check": "fifteen_minute_reaggregation",
+      "status": "passed",
+      "detail": {
+        "rows": 3,
+        "source": "target 1m rows plus view auction metadata",
+        "auction_days_used": []
+      }
+    },
+    {
+      "target": "multi.png",
+      "check": "intraday_average_price",
+      "status": "passed",
+      "detail": {
+        "days_checked": [],
+        "legacy_compatibility": [
+          {
+            "period": "intraday",
+            "compatibility": "legacy intraday schema omits avg_price"
+          }
+        ],
+        "formula": "cumulative amount / volume × day factor / anchor factor"
+      }
+    },
+    {
+      "target": "multi.png",
+      "check": "previous_close",
+      "status": "passed",
+      "detail": {
+        "entries_checked": [],
+        "legacy_compatibility": [
+          "daily",
+          "15m",
+          "1m",
+          "intraday"
+        ]
+      }
+    },
+    {
+      "target": "multi.png",
+      "check": "geometry_and_independent_pixel_probe",
+      "status": "passed",
+      "detail": {
+        "png_size": [
+          3840,
+          2400
+        ],
+        "panels": [
+          {
+            "panel": "daily",
+            "view_period": "daily",
+            "geometry_bars": 250,
+            "displayed_rows": 250,
+            "unique_floor_x": 250,
+            "positive_volume_probes": 250,
+            "right_of_last_bar_color_pixels": 0
+          },
+          {
+            "panel": "15m",
+            "view_period": "15m",
+            "geometry_bars": 3,
+            "displayed_rows": 3,
+            "unique_floor_x": 3,
+            "positive_volume_probes": 3,
+            "right_of_last_bar_color_pixels": 0
+          },
+          {
+            "panel": "1m",
+            "view_period": "1m",
+            "geometry_bars": 37,
+            "displayed_rows": 37,
+            "unique_floor_x": 37,
+            "positive_volume_probes": 37,
+            "right_of_last_bar_color_pixels": 0
+          },
+          {
+            "panel": "intraday",
+            "view_period": "intraday",
+            "geometry_bars": 37,
+            "displayed_rows": 37,
+            "unique_floor_x": 37,
+            "positive_volume_probes": 37,
+            "right_of_last_bar_color_pixels": 0
+          }
+        ],
+        "probe": "center column, one pixel above volume baseline; background-only test"
+      }
+    },
+    {
+      "target": "replica.png",
+      "check": "view_schema",
+      "status": "passed",
+      "detail": {
+        "periods": {
+          "daily": {
+            "code": "002025.SZ",
+            "rows": 350
+          }
+        }
+      }
+    },
+    {
+      "target": "replica.png",
+      "check": "cutoff_daily",
+      "status": "passed",
+      "detail": {
+        "period": "daily",
+        "bars": 350,
+        "requested": "2026-01-09T09:22:33+08:00",
+        "effective": "2026-01-08T15:00:00+08:00",
+        "anchor_trade_date": "2026-01-08",
+        "auctions_checked": 0
+      }
+    },
+    {
+      "target": "replica.png",
+      "check": "daily_price_and_volume",
+      "status": "passed",
+      "detail": {
+        "source": "SNAP raw daily × factor / anchor",
+        "price_rtol": 1e-12,
+        "price_atol": 1e-10,
+        "volume": "exact raw lots × 100",
+        "rows_checked": 350,
+        "legacy_partial_rows_rebuilt_from_1m": null
+      }
+    },
+    {
+      "target": "replica.png",
+      "check": "geometry_and_independent_pixel_probe",
+      "status": "passed",
+      "detail": {
+        "png_size": [
+          3840,
+          1600
+        ],
+        "panels": [
+          {
+            "panel": "daily",
+            "view_period": "daily",
+            "geometry_bars": 350,
+            "displayed_rows": 350,
+            "unique_floor_x": 350,
+            "positive_volume_probes": 350,
+            "right_of_last_bar_color_pixels": 0
+          }
+        ],
+        "probe": "center column, one pixel above volume baseline; background-only test"
+      }
+    },
+    {
+      "target": "reveal_10y.png",
+      "check": "view_schema",
+      "status": "passed",
+      "detail": {
+        "periods": {
+          "daily": {
+            "code": "002025.SZ",
+            "rows": 2247
+          }
+        }
+      }
+    },
+    {
+      "target": "reveal_10y.png",
+      "check": "cutoff_daily",
+      "status": "passed",
+      "detail": {
+        "period": "daily",
+        "bars": 2247,
+        "requested": "2026-09-30T15:00:00+08:00",
+        "effective": "2026-09-30T15:00:00+08:00",
+        "anchor_trade_date": "2026-01-08",
+        "auctions_checked": 0
+      }
+    },
+    {
+      "target": "reveal_10y.png",
+      "check": "daily_price_and_volume",
+      "status": "passed",
+      "detail": {
+        "source": "SNAP raw daily × factor / anchor",
+        "price_rtol": 1e-12,
+        "price_atol": 1e-10,
+        "volume": "exact raw lots × 100",
+        "rows_checked": 2247,
+        "legacy_partial_rows_rebuilt_from_1m": null
+      }
+    },
+    {
+      "target": "reveal_10y.png",
+      "check": "geometry_and_independent_pixel_probe",
+      "status": "passed",
+      "detail": {
+        "png_size": [
+          7575,
+          1600
+        ],
+        "panels": [
+          {
+            "panel": "daily",
+            "view_period": "daily",
+            "geometry_bars": 2247,
+            "displayed_rows": 2247,
+            "unique_floor_x": 2247,
+            "positive_volume_probes": 2247,
+            "right_of_last_bar_color_pixels": 0
+          }
+        ],
+        "probe": "center column, one pixel above volume baseline; background-only test"
+      }
+    },
+    {
+      "target": "reveal_first20.png",
+      "check": "view_schema",
+      "status": "passed",
+      "detail": {
+        "periods": {
+          "daily": {
+            "code": "002025.SZ",
+            "rows": 40
+          }
+        }
+      }
+    },
+    {
+      "target": "reveal_first20.png",
+      "check": "cutoff_daily",
+      "status": "passed",
+      "detail": {
+        "period": "daily",
+        "bars": 40,
+        "requested": "2026-09-30T15:00:00+08:00",
+        "effective": "2026-09-30T15:00:00+08:00",
+        "anchor_trade_date": "2026-01-08",
+        "auctions_checked": 0
+      }
+    },
+    {
+      "target": "reveal_first20.png",
+      "check": "daily_price_and_volume",
+      "status": "passed",
+      "detail": {
+        "source": "SNAP raw daily × factor / anchor",
+        "price_rtol": 1e-12,
+        "price_atol": 1e-10,
+        "volume": "exact raw lots × 100",
+        "rows_checked": 40,
+        "legacy_partial_rows_rebuilt_from_1m": null
+      }
+    },
+    {
+      "target": "reveal_first20.png",
+      "check": "geometry_and_independent_pixel_probe",
+      "status": "passed",
+      "detail": {
+        "png_size": [
+          3840,
+          1600
+        ],
+        "panels": [
+          {
+            "panel": "daily",
+            "view_period": "daily",
+            "geometry_bars": 40,
+            "displayed_rows": 40,
+            "unique_floor_x": 40,
+            "positive_volume_probes": 40,
+            "right_of_last_bar_color_pixels": 0
+          }
+        ],
+        "probe": "center column, one pixel above volume baseline; background-only test"
+      }
+    },
+    {
+      "target": "reveal_to_0930.png",
+      "check": "view_schema",
+      "status": "passed",
+      "detail": {
+        "periods": {
+          "daily": {
+            "code": "002025.SZ",
+            "rows": 177
+          }
+        }
+      }
+    },
+    {
+      "target": "reveal_to_0930.png",
+      "check": "cutoff_daily",
+      "status": "passed",
+      "detail": {
+        "period": "daily",
+        "bars": 177,
+        "requested": "2026-09-30T15:00:00+08:00",
+        "effective": "2026-09-30T15:00:00+08:00",
+        "anchor_trade_date": "2026-01-08",
+        "auctions_checked": 0
+      }
+    },
+    {
+      "target": "reveal_to_0930.png",
+      "check": "daily_price_and_volume",
+      "status": "passed",
+      "detail": {
+        "source": "SNAP raw daily × factor / anchor",
+        "price_rtol": 1e-12,
+        "price_atol": 1e-10,
+        "volume": "exact raw lots × 100",
+        "rows_checked": 177,
+        "legacy_partial_rows_rebuilt_from_1m": null
+      }
+    },
+    {
+      "target": "reveal_to_0930.png",
+      "check": "geometry_and_independent_pixel_probe",
+      "status": "passed",
+      "detail": {
+        "png_size": [
+          3840,
+          1600
+        ],
+        "panels": [
+          {
+            "panel": "daily",
+            "view_period": "daily",
+            "geometry_bars": 177,
+            "displayed_rows": 177,
+            "unique_floor_x": 177,
+            "positive_volume_probes": 177,
+            "right_of_last_bar_color_pixels": 0
+          }
+        ],
+        "probe": "center column, one pixel above volume baseline; background-only test"
+      }
+    },
+    {
+      "target": "result-1.json",
+      "check": "reveal_anchor_reference_horizons_events",
+      "status": "failed",
+      "detail": {
+        "error": "AssertionError",
+        "message": "subsequent_daily.json has no rows"
+      }
+    },
+    {
+      "target": "result-2.json",
+      "check": "reveal_anchor_reference_horizons_events",
+      "status": "failed",
+      "detail": {
+        "error": "AssertionError",
+        "message": "subsequent_daily.json has no rows"
+      }
+    }
+  ]
+}

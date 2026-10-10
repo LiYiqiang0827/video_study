@@ -1,0 +1,624 @@
+{
+  "begin": 2400.0,
+  "finish": 2700.0,
+  "segments": [
+    {
+      "start": 2401.72,
+      "end": 2449.45,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0892,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 2449.47,
+      "end": 2485.85,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0915,
+      "no_speech_prob": 0.4836,
+      "review": false
+    },
+    {
+      "start": 2485.87,
+      "end": 2519.16,
+      "text": "但是流通值太小了,流通值31个亿,像这些资金排队的话,我看我们买到了没有,我排的那么早,我看看,我有买到吗?没有,还没买到,没有买到,要彻底打开才能买到",
+      "avg_logprob": -0.1376,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 2519.16,
+      "end": 2535.26,
+      "text": "万华化学其实是好公司,中国最优秀最优秀的公司之一,但是特别慢,那些公司太慢了",
+      "avg_logprob": -0.1376,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 2535.26,
+      "end": 2536.8,
+      "text": "赚钱特别难",
+      "avg_logprob": -0.1305,
+      "no_speech_prob": 0.112,
+      "review": false
+    },
+    {
+      "start": 2536.8,
+      "end": 2550.16,
+      "text": "弗莱特这一看就要涨停",
+      "avg_logprob": -0.1305,
+      "no_speech_prob": 0.112,
+      "review": false
+    },
+    {
+      "start": 2550.16,
+      "end": 2550.92,
+      "text": "但是算了",
+      "avg_logprob": -0.1305,
+      "no_speech_prob": 0.112,
+      "review": false
+    },
+    {
+      "start": 2550.92,
+      "end": 2552.76,
+      "text": "这东西不知道是光伏",
+      "avg_logprob": -0.1305,
+      "no_speech_prob": 0.112,
+      "review": false
+    },
+    {
+      "start": 2552.76,
+      "end": 2554.48,
+      "text": "好奇怪啊",
+      "avg_logprob": -0.1305,
+      "no_speech_prob": 0.112,
+      "review": false
+    },
+    {
+      "start": 2554.48,
+      "end": 2557.1,
+      "text": "美国对中国光伏征税",
+      "avg_logprob": -0.1305,
+      "no_speech_prob": 0.112,
+      "review": false
+    },
+    {
+      "start": 2557.1,
+      "end": 2558.46,
+      "text": "光伏还涨起来了",
+      "avg_logprob": -0.1305,
+      "no_speech_prob": 0.112,
+      "review": false
+    },
+    {
+      "start": 2558.46,
+      "end": 2559.56,
+      "text": "这个逻辑是个啥",
+      "avg_logprob": -0.1305,
+      "no_speech_prob": 0.112,
+      "review": false
+    },
+    {
+      "start": 2559.56,
+      "end": 2560.44,
+      "text": "啥逻辑",
+      "avg_logprob": -0.1305,
+      "no_speech_prob": 0.112,
+      "review": false
+    },
+    {
+      "start": 2560.44,
+      "end": 2569.0,
+      "text": "你看一笑神就下来了",
+      "avg_logprob": -0.1305,
+      "no_speech_prob": 0.112,
+      "review": false
+    },
+    {
+      "start": 2569.0,
+      "end": 2569.42,
+      "text": "是吧",
+      "avg_logprob": -0.1305,
+      "no_speech_prob": 0.112,
+      "review": false
+    },
+    {
+      "start": 2569.42,
+      "end": 2571.76,
+      "text": "所以追高就是怕这个",
+      "avg_logprob": -0.1305,
+      "no_speech_prob": 0.112,
+      "review": false
+    },
+    {
+      "start": 2571.76,
+      "end": 2572.66,
+      "text": "我们等会中午再看",
+      "avg_logprob": -0.1305,
+      "no_speech_prob": 0.112,
+      "review": false
+    },
+    {
+      "start": 2572.66,
+      "end": 2574.18,
+      "text": "好",
+      "avg_logprob": -0.1305,
+      "no_speech_prob": 0.112,
+      "review": false
+    },
+    {
+      "start": 2574.18,
+      "end": 2575.84,
+      "text": "马上再过三分钟就不看了啊",
+      "avg_logprob": -0.1305,
+      "no_speech_prob": 0.112,
+      "review": false
+    },
+    {
+      "start": 2575.84,
+      "end": 2576.54,
+      "text": "今天还是医药",
+      "avg_logprob": -0.1305,
+      "no_speech_prob": 0.112,
+      "review": false
+    },
+    {
+      "start": 2576.54,
+      "end": 2577.28,
+      "text": "还是涨医药",
+      "avg_logprob": -0.1305,
+      "no_speech_prob": 0.112,
+      "review": false
+    },
+    {
+      "start": 2577.28,
+      "end": 2578.66,
+      "text": "今天如果你要想赚钱",
+      "avg_logprob": -0.1305,
+      "no_speech_prob": 0.112,
+      "review": false
+    },
+    {
+      "start": 2578.66,
+      "end": 2579.44,
+      "text": "你买医药是",
+      "avg_logprob": -0.1305,
+      "no_speech_prob": 0.112,
+      "review": false
+    },
+    {
+      "start": 2579.44,
+      "end": 2581.0,
+      "text": "就是基本上买医药",
+      "avg_logprob": -0.1305,
+      "no_speech_prob": 0.112,
+      "review": false
+    },
+    {
+      "start": 2581.0,
+      "end": 2582.0,
+      "text": "还是比较好一点的",
+      "avg_logprob": -0.1305,
+      "no_speech_prob": 0.112,
+      "review": false
+    },
+    {
+      "start": 2582.0,
+      "end": 2584.46,
+      "text": "买其他的比较难赚钱",
+      "avg_logprob": -0.1262,
+      "no_speech_prob": 0.3401,
+      "review": false
+    },
+    {
+      "start": 2584.46,
+      "end": 2588.6,
+      "text": "我觉得科技",
+      "avg_logprob": -0.1262,
+      "no_speech_prob": 0.3401,
+      "review": false
+    },
+    {
+      "start": 2588.6,
+      "end": 2590.8,
+      "text": "你看医药今天涨停股很多",
+      "avg_logprob": -0.1262,
+      "no_speech_prob": 0.3401,
+      "review": false
+    },
+    {
+      "start": 2590.8,
+      "end": 2592.34,
+      "text": "今天的这个",
+      "avg_logprob": -0.1262,
+      "no_speech_prob": 0.3401,
+      "review": false
+    },
+    {
+      "start": 2592.34,
+      "end": 2594.42,
+      "text": "你看为什么要看它的气啊",
+      "avg_logprob": -0.1262,
+      "no_speech_prob": 0.3401,
+      "review": false
+    },
+    {
+      "start": 2594.42,
+      "end": 2596.22,
+      "text": "就是什么叫关那个气啊",
+      "avg_logprob": -0.1262,
+      "no_speech_prob": 0.3401,
+      "review": false
+    },
+    {
+      "start": 2596.22,
+      "end": 2596.8,
+      "text": "关气",
+      "avg_logprob": -0.1262,
+      "no_speech_prob": 0.3401,
+      "review": false
+    },
+    {
+      "start": 2596.8,
+      "end": 2598.56,
+      "text": "关这个气的意思就是说",
+      "avg_logprob": -0.1262,
+      "no_speech_prob": 0.3401,
+      "review": false
+    },
+    {
+      "start": 2598.56,
+      "end": 2601.26,
+      "text": "你随时随地你要明确的感受到",
+      "avg_logprob": -0.1262,
+      "no_speech_prob": 0.3401,
+      "review": false
+    },
+    {
+      "start": 2601.26,
+      "end": 2602.8,
+      "text": "今天市场在炒啥",
+      "avg_logprob": -0.1262,
+      "no_speech_prob": 0.3401,
+      "review": false
+    },
+    {
+      "start": 2602.8,
+      "end": 2604.26,
+      "text": "今天市场在炒啥",
+      "avg_logprob": -0.1262,
+      "no_speech_prob": 0.3401,
+      "review": false
+    },
+    {
+      "start": 2604.26,
+      "end": 2605.68,
+      "text": "什么东西有机会",
+      "avg_logprob": -0.1262,
+      "no_speech_prob": 0.3401,
+      "review": false
+    },
+    {
+      "start": 2605.68,
+      "end": 2607.76,
+      "text": "你看我们今天通过资金流啊",
+      "avg_logprob": -0.1262,
+      "no_speech_prob": 0.3401,
+      "review": false
+    },
+    {
+      "start": 2607.76,
+      "end": 2608.84,
+      "text": "通过各方面看得出来",
+      "avg_logprob": -0.1262,
+      "no_speech_prob": 0.3401,
+      "review": false
+    },
+    {
+      "start": 2608.84,
+      "end": 2611.62,
+      "text": "今天这个市场的资金明显在医药股上面",
+      "avg_logprob": -0.1262,
+      "no_speech_prob": 0.3401,
+      "review": false
+    },
+    {
+      "start": 2611.62,
+      "end": 2616.14,
+      "text": "我前段时间好像说过凯莱因",
+      "avg_logprob": -0.1518,
+      "no_speech_prob": 0.1727,
+      "review": false
+    },
+    {
+      "start": 2616.14,
+      "end": 2616.78,
+      "text": "你们记得没有",
+      "avg_logprob": -0.1518,
+      "no_speech_prob": 0.1727,
+      "review": false
+    },
+    {
+      "start": 2616.78,
+      "end": 2619.08,
+      "text": "这个位置我排过凯莱因",
+      "avg_logprob": -0.1518,
+      "no_speech_prob": 0.1727,
+      "review": false
+    },
+    {
+      "start": 2619.08,
+      "end": 2620.68,
+      "text": "你看今天又起来了",
+      "avg_logprob": -0.1518,
+      "no_speech_prob": 0.1727,
+      "review": false
+    },
+    {
+      "start": 2620.68,
+      "end": 2622.24,
+      "text": "我会放到里面吧",
+      "avg_logprob": -0.1518,
+      "no_speech_prob": 0.1727,
+      "review": false
+    },
+    {
+      "start": 2622.24,
+      "end": 2624.48,
+      "text": "凯莱因也是一个好票的",
+      "avg_logprob": -0.1518,
+      "no_speech_prob": 0.1727,
+      "review": false
+    },
+    {
+      "start": 2624.48,
+      "end": 2625.28,
+      "text": "等会看看",
+      "avg_logprob": -0.1518,
+      "no_speech_prob": 0.1727,
+      "review": false
+    },
+    {
+      "start": 2625.28,
+      "end": 2628.59,
+      "text": "凯莱因还是有机会的",
+      "avg_logprob": -0.1518,
+      "no_speech_prob": 0.1727,
+      "review": false
+    },
+    {
+      "start": 2628.59,
+      "end": 2645.56,
+      "text": "现在如果要涨停的话是有机会的",
+      "avg_logprob": -0.1518,
+      "no_speech_prob": 0.1727,
+      "review": false
+    },
+    {
+      "start": 2645.56,
+      "end": 2646.56,
+      "text": "扣两元起来了",
+      "avg_logprob": -0.1518,
+      "no_speech_prob": 0.1727,
+      "review": false
+    },
+    {
+      "start": 2646.56,
+      "end": 2657.3,
+      "text": "好",
+      "avg_logprob": -0.1518,
+      "no_speech_prob": 0.1727,
+      "review": false
+    },
+    {
+      "start": 2657.3,
+      "end": 2658.22,
+      "text": "基本上行了",
+      "avg_logprob": -0.1518,
+      "no_speech_prob": 0.1727,
+      "review": false
+    },
+    {
+      "start": 2658.22,
+      "end": 2658.84,
+      "text": "我知道了",
+      "avg_logprob": -0.1518,
+      "no_speech_prob": 0.1727,
+      "review": false
+    },
+    {
+      "start": 2658.84,
+      "end": 2659.7,
+      "text": "大概今天的市场",
+      "avg_logprob": -0.1518,
+      "no_speech_prob": 0.1727,
+      "review": false
+    },
+    {
+      "start": 2659.7,
+      "end": 2662.04,
+      "text": "还有一些是半导体的一些票的",
+      "avg_logprob": -0.1518,
+      "no_speech_prob": 0.1727,
+      "review": false
+    },
+    {
+      "start": 2662.04,
+      "end": 2663.6,
+      "text": "它的一些超级反弹",
+      "avg_logprob": -0.1518,
+      "no_speech_prob": 0.1727,
+      "review": false
+    },
+    {
+      "start": 2663.6,
+      "end": 2665.58,
+      "text": "然后呢就是医药股",
+      "avg_logprob": -0.1518,
+      "no_speech_prob": 0.1727,
+      "review": false
+    },
+    {
+      "start": 2665.58,
+      "end": 2666.72,
+      "text": "今天主要是医药股",
+      "avg_logprob": -0.1518,
+      "no_speech_prob": 0.1727,
+      "review": false
+    },
+    {
+      "start": 2666.72,
+      "end": 2668.26,
+      "text": "那么通过我这个选呢",
+      "avg_logprob": -0.1976,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 2668.26,
+      "end": 2669.2,
+      "text": "今天我选了这几只",
+      "avg_logprob": -0.1976,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 2669.2,
+      "end": 2670.34,
+      "text": "给大家看一下啊",
+      "avg_logprob": -0.1976,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 2670.34,
+      "end": 2671.8,
+      "text": "第一个就海镇",
+      "avg_logprob": -0.1976,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 2671.8,
+      "end": 2672.82,
+      "text": "这个打开了是吧",
+      "avg_logprob": -0.1976,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 2672.82,
+      "end": 2674.44,
+      "text": "打开了打开了",
+      "avg_logprob": -0.1976,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 2674.44,
+      "end": 2675.16,
+      "text": "打开了",
+      "avg_logprob": -0.1976,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 2675.16,
+      "end": 2675.86,
+      "text": "砸得很厉害",
+      "avg_logprob": -0.1976,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 2675.86,
+      "end": 2676.88,
+      "text": "我还要加仓",
+      "avg_logprob": -0.1976,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 2676.88,
+      "end": 2678.46,
+      "text": "这个刚砸下来了",
+      "avg_logprob": -0.1976,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 2678.46,
+      "end": 2679.42,
+      "text": "砸下来了",
+      "avg_logprob": -0.1976,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 2679.42,
+      "end": 2680.75,
+      "text": "砸下来了",
+      "avg_logprob": -0.1976,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 2680.75,
+      "end": 2681.41,
+      "text": "我还要加",
+      "avg_logprob": -0.1976,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 2681.41,
+      "end": 2685.65,
+      "text": "赶快赶快",
+      "avg_logprob": -0.1976,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 2685.65,
+      "end": 2688.22,
+      "text": "我不怕",
+      "avg_logprob": -0.1976,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 2688.22,
+      "end": 2688.86,
+      "text": "我不怕",
+      "avg_logprob": -0.1976,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 2688.86,
+      "end": 2689.36,
+      "text": "我要买",
+      "avg_logprob": -0.1976,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 2689.36,
+      "end": 2697.58,
+      "text": "这个位置我根本不怕",
+      "avg_logprob": -0.1976,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 2697.58,
+      "end": 2700.15,
+      "text": "我不怕啊",
+      "avg_logprob": -0.1976,
+      "no_speech_prob": 0.0,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 19.41
+}

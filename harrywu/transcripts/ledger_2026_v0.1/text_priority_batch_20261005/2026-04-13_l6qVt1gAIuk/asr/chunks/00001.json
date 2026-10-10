@@ -1,0 +1,736 @@
+{
+  "begin": 300.0,
+  "finish": 600.0,
+  "segments": [
+    {
+      "start": 298.0,
+      "end": 329.21,
+      "text": "我的麦克风设置有问题,不会的,我的麦克风现在是最大了,音量也是最大,什么都是最大,不可能的,那你们放大一点嘛,是不是,没问题啊,人家说没问题啊,你看其他朋友都说没问题啊,那我也不知道怎么办啊,我解决不了啊,我现在你看,我把这个声音放最大,我的麦克风已经调最大,而且中间这些麦克风的设置全调完了,好不好,我的软件检测出你的麦克风,左伸到视红关了,",
+      "avg_logprob": -0.0631,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 329.33,
+      "end": 332.41,
+      "text": "好,你等一下吧,等一下吧,你们都觉得声音不行啊,我调一下",
+      "avg_logprob": -0.1144,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 332.41,
+      "end": 336.45,
+      "text": "好,那我现在把这个声音调了,我也不知道这个什么声音",
+      "avg_logprob": -0.1144,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 336.45,
+      "end": 341.63,
+      "text": "呃,75150,我也不知道这个什么声音,我又重新调了",
+      "avg_logprob": -0.1144,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 341.63,
+      "end": 348.34,
+      "text": "哎呀,只有一个声道啊,那没办法啊,我也不会,我也不知道怎么调",
+      "avg_logprob": -0.1144,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 348.34,
+      "end": 355.05,
+      "text": "你看我调这个声音更小,我调这个,我调这个看行不行啊,调这个看行不行",
+      "avg_logprob": -0.1144,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 355.05,
+      "end": 359.3,
+      "text": "哎呀,测和用吧,我也,我也没办法了,我现在已经调完了",
+      "avg_logprob": -0.1144,
+      "no_speech_prob": 0.0,
+      "review": false
+    },
+    {
+      "start": 359.3,
+      "end": 391.31,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1032,
+      "no_speech_prob": 0.0978,
+      "review": false
+    },
+    {
+      "start": 391.33,
+      "end": 420.83,
+      "text": "上周我说了几只A股,大家可能知道,有一个是盛扬,盛扬呢,上周有的朋友,因为我强调了,我在这个地方选的,我强调了如果开盘低开就不要买,那么盛扬呢,它开盘没有高开,小幅低开,但是低开之后它上去涨上去了呀,就是说你如果低开一直都在开盘价值下,那就不能买。",
+      "avg_logprob": -0.0956,
+      "no_speech_prob": 0.2429,
+      "review": false
+    },
+    {
+      "start": 420.83,
+      "end": 423.85,
+      "text": "所以这里面我还是要给我的会员朋友强调一下",
+      "avg_logprob": -0.1435,
+      "no_speech_prob": 0.1771,
+      "review": false
+    },
+    {
+      "start": 423.85,
+      "end": 424.83,
+      "text": "因为你看",
+      "avg_logprob": -0.1435,
+      "no_speech_prob": 0.1771,
+      "review": false
+    },
+    {
+      "start": 424.83,
+      "end": 426.63,
+      "text": "盛扬上周是涨停了",
+      "avg_logprob": -0.1435,
+      "no_speech_prob": 0.1771,
+      "review": false
+    },
+    {
+      "start": 426.63,
+      "end": 427.99,
+      "text": "所以有的会员朋友就说",
+      "avg_logprob": -0.1435,
+      "no_speech_prob": 0.1771,
+      "review": false
+    },
+    {
+      "start": 427.99,
+      "end": 429.75,
+      "text": "你看云彩老师你说盛扬不能买",
+      "avg_logprob": -0.1435,
+      "no_speech_prob": 0.1771,
+      "review": false
+    },
+    {
+      "start": 429.75,
+      "end": 431.57,
+      "text": "怎么又涨停呢",
+      "avg_logprob": -0.1435,
+      "no_speech_prob": 0.1771,
+      "review": false
+    },
+    {
+      "start": 431.57,
+      "end": 433.07,
+      "text": "我不是说不能买",
+      "avg_logprob": -0.1435,
+      "no_speech_prob": 0.1771,
+      "review": false
+    },
+    {
+      "start": 433.07,
+      "end": 433.79,
+      "text": "就是有的东西",
+      "avg_logprob": -0.1435,
+      "no_speech_prob": 0.1771,
+      "review": false
+    },
+    {
+      "start": 433.79,
+      "end": 434.41,
+      "text": "你看",
+      "avg_logprob": -0.1435,
+      "no_speech_prob": 0.1771,
+      "review": false
+    },
+    {
+      "start": 434.41,
+      "end": 437.79,
+      "text": "这是我的会员的节目里面说的",
+      "avg_logprob": -0.1435,
+      "no_speech_prob": 0.1771,
+      "review": false
+    },
+    {
+      "start": 437.79,
+      "end": 440.81,
+      "text": "你看上周我是说的盛扬和城市",
+      "avg_logprob": -0.1435,
+      "no_speech_prob": 0.1771,
+      "review": false
+    },
+    {
+      "start": 440.81,
+      "end": 445.01,
+      "text": "那么城市它就是低开之后不能买",
+      "avg_logprob": -0.1435,
+      "no_speech_prob": 0.1771,
+      "review": false
+    },
+    {
+      "start": 445.01,
+      "end": 446.41,
+      "text": "但是盛扬可以买",
+      "avg_logprob": -0.1435,
+      "no_speech_prob": 0.1771,
+      "review": false
+    },
+    {
+      "start": 446.41,
+      "end": 447.03,
+      "text": "我们来看",
+      "avg_logprob": -0.1435,
+      "no_speech_prob": 0.1771,
+      "review": false
+    },
+    {
+      "start": 447.03,
+      "end": 448.11,
+      "text": "盛扬我都买了",
+      "avg_logprob": -0.1435,
+      "no_speech_prob": 0.1771,
+      "review": false
+    },
+    {
+      "start": 448.11,
+      "end": 448.95,
+      "text": "盛扬可以买",
+      "avg_logprob": -0.1435,
+      "no_speech_prob": 0.1771,
+      "review": false
+    },
+    {
+      "start": 448.95,
+      "end": 449.57,
+      "text": "我们看城市",
+      "avg_logprob": -0.1435,
+      "no_speech_prob": 0.1771,
+      "review": false
+    },
+    {
+      "start": 449.57,
+      "end": 452.13,
+      "text": "诚挚股份",
+      "avg_logprob": -0.1434,
+      "no_speech_prob": 0.1597,
+      "review": false
+    },
+    {
+      "start": 452.13,
+      "end": 454.11,
+      "text": "我跟你说一下它们的区别在哪",
+      "avg_logprob": -0.1434,
+      "no_speech_prob": 0.1597,
+      "review": false
+    },
+    {
+      "start": 454.11,
+      "end": 454.85,
+      "text": "你看嘛",
+      "avg_logprob": -0.1434,
+      "no_speech_prob": 0.1597,
+      "review": false
+    },
+    {
+      "start": 454.85,
+      "end": 457.79,
+      "text": "你看诚挚它就不能买",
+      "avg_logprob": -0.1434,
+      "no_speech_prob": 0.1597,
+      "review": false
+    },
+    {
+      "start": 457.79,
+      "end": 459.49,
+      "text": "为什么诚挚不能买",
+      "avg_logprob": -0.1434,
+      "no_speech_prob": 0.1597,
+      "review": false
+    },
+    {
+      "start": 459.49,
+      "end": 462.99,
+      "text": "诚挚是因为它低开了之后",
+      "avg_logprob": -0.1434,
+      "no_speech_prob": 0.1597,
+      "review": false
+    },
+    {
+      "start": 462.99,
+      "end": 466.41,
+      "text": "你看这就是你完全没有学我的课程",
+      "avg_logprob": -0.1434,
+      "no_speech_prob": 0.1597,
+      "review": false
+    },
+    {
+      "start": 466.41,
+      "end": 470.19,
+      "text": "你稍微稍微稍微学了我的短线交易秘诀",
+      "avg_logprob": -0.1434,
+      "no_speech_prob": 0.1597,
+      "review": false
+    },
+    {
+      "start": 470.19,
+      "end": 472.79,
+      "text": "你稍微学了短线交易秘诀",
+      "avg_logprob": -0.1434,
+      "no_speech_prob": 0.1597,
+      "review": false
+    },
+    {
+      "start": 472.79,
+      "end": 473.87,
+      "text": "你就应该知道啊",
+      "avg_logprob": -0.1434,
+      "no_speech_prob": 0.1597,
+      "review": false
+    },
+    {
+      "start": 473.87,
+      "end": 476.67,
+      "text": "我的短线交易秘诀是怎么说的",
+      "avg_logprob": -0.1434,
+      "no_speech_prob": 0.1597,
+      "review": false
+    },
+    {
+      "start": 476.67,
+      "end": 480.47,
+      "text": "只要是今天在开盘价之下",
+      "avg_logprob": -0.1791,
+      "no_speech_prob": 0.225,
+      "review": false
+    },
+    {
+      "start": 480.47,
+      "end": 482.73,
+      "text": "那么我们是不能动的",
+      "avg_logprob": -0.1791,
+      "no_speech_prob": 0.225,
+      "review": false
+    },
+    {
+      "start": 482.73,
+      "end": 483.03,
+      "text": "是不是",
+      "avg_logprob": -0.1791,
+      "no_speech_prob": 0.225,
+      "review": false
+    },
+    {
+      "start": 483.03,
+      "end": 483.93,
+      "text": "是吧",
+      "avg_logprob": -0.1791,
+      "no_speech_prob": 0.225,
+      "review": false
+    },
+    {
+      "start": 483.93,
+      "end": 486.77,
+      "text": "它全天都在开盘价之下",
+      "avg_logprob": -0.1791,
+      "no_speech_prob": 0.225,
+      "review": false
+    },
+    {
+      "start": 486.77,
+      "end": 488.39,
+      "text": "那你不要动啊",
+      "avg_logprob": -0.1791,
+      "no_speech_prob": 0.225,
+      "review": false
+    },
+    {
+      "start": 488.39,
+      "end": 490.71,
+      "text": "所以陈值是不能买的",
+      "avg_logprob": -0.1791,
+      "no_speech_prob": 0.225,
+      "review": false
+    },
+    {
+      "start": 490.71,
+      "end": 492.27,
+      "text": "当然虽然现在涨起来了啊",
+      "avg_logprob": -0.1791,
+      "no_speech_prob": 0.225,
+      "review": false
+    },
+    {
+      "start": 492.27,
+      "end": 493.49,
+      "text": "但是实际上是不能买的",
+      "avg_logprob": -0.1791,
+      "no_speech_prob": 0.225,
+      "review": false
+    },
+    {
+      "start": 493.49,
+      "end": 495.05,
+      "text": "但是这个不一样啊",
+      "avg_logprob": -0.1791,
+      "no_speech_prob": 0.225,
+      "review": false
+    },
+    {
+      "start": 495.05,
+      "end": 496.81,
+      "text": "这个生涯不一样啊",
+      "avg_logprob": -0.1791,
+      "no_speech_prob": 0.225,
+      "review": false
+    },
+    {
+      "start": 496.81,
+      "end": 497.63,
+      "text": "生涯你看",
+      "avg_logprob": -0.1791,
+      "no_speech_prob": 0.225,
+      "review": false
+    },
+    {
+      "start": 497.63,
+      "end": 499.35,
+      "text": "它虽然是低开",
+      "avg_logprob": -0.1791,
+      "no_speech_prob": 0.225,
+      "review": false
+    },
+    {
+      "start": 499.35,
+      "end": 502.09,
+      "text": "但是它马上就突破开盘价了呀",
+      "avg_logprob": -0.1791,
+      "no_speech_prob": 0.225,
+      "review": false
+    },
+    {
+      "start": 502.09,
+      "end": 504.01,
+      "text": "这两个是不一样的呀",
+      "avg_logprob": -0.1791,
+      "no_speech_prob": 0.225,
+      "review": false
+    },
+    {
+      "start": 504.01,
+      "end": 506.99,
+      "text": "那么如果你虽然小幅低开",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.1206,
+      "review": false
+    },
+    {
+      "start": 506.99,
+      "end": 509.79,
+      "text": "但是如果你突破了开盘价",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.1206,
+      "review": false
+    },
+    {
+      "start": 509.79,
+      "end": 511.87,
+      "text": "你愿意买还是可以买的呀",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.1206,
+      "review": false
+    },
+    {
+      "start": 511.87,
+      "end": 512.91,
+      "text": "这没问题呀",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.1206,
+      "review": false
+    },
+    {
+      "start": 512.91,
+      "end": 514.69,
+      "text": "证明它这个低开是假的嘛",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.1206,
+      "review": false
+    },
+    {
+      "start": 514.69,
+      "end": 515.61,
+      "text": "明白吧",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.1206,
+      "review": false
+    },
+    {
+      "start": 515.61,
+      "end": 518.31,
+      "text": "所以说生涯它是不一样的",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.1206,
+      "review": false
+    },
+    {
+      "start": 518.31,
+      "end": 519.09,
+      "text": "我说了两只",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.1206,
+      "review": false
+    },
+    {
+      "start": 519.09,
+      "end": 520.89,
+      "text": "这一只它是可以买的",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.1206,
+      "review": false
+    },
+    {
+      "start": 520.89,
+      "end": 522.27,
+      "text": "我是买了",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.1206,
+      "review": false
+    },
+    {
+      "start": 522.27,
+      "end": 523.09,
+      "text": "我是买了",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.1206,
+      "review": false
+    },
+    {
+      "start": 523.09,
+      "end": 524.09,
+      "text": "然后买了之后呢",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.1206,
+      "review": false
+    },
+    {
+      "start": 524.09,
+      "end": 524.89,
+      "text": "它基本上上去了",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.1206,
+      "review": false
+    },
+    {
+      "start": 524.89,
+      "end": 525.77,
+      "text": "我也是",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.1206,
+      "review": false
+    },
+    {
+      "start": 525.77,
+      "end": 526.97,
+      "text": "但是我也没有开盘买",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.1206,
+      "review": false
+    },
+    {
+      "start": 526.97,
+      "end": 528.43,
+      "text": "我也没有集合金价买",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.1206,
+      "review": false
+    },
+    {
+      "start": 528.43,
+      "end": 532.01,
+      "text": "我也是在集合金价之后突破之后再去买的",
+      "avg_logprob": -0.1457,
+      "no_speech_prob": 0.1206,
+      "review": false
+    },
+    {
+      "start": 532.01,
+      "end": 535.31,
+      "text": "我也是严格按照我的这个交易计划来执行的",
+      "avg_logprob": -0.1835,
+      "no_speech_prob": 0.162,
+      "review": false
+    },
+    {
+      "start": 535.31,
+      "end": 537.23,
+      "text": "盛扬现在看起来是不错的",
+      "avg_logprob": -0.1835,
+      "no_speech_prob": 0.162,
+      "review": false
+    },
+    {
+      "start": 537.23,
+      "end": 539.33,
+      "text": "然后呢还有几个",
+      "avg_logprob": -0.1835,
+      "no_speech_prob": 0.162,
+      "review": false
+    },
+    {
+      "start": 539.33,
+      "end": 540.81,
+      "text": "一个我看看五方光电",
+      "avg_logprob": -0.1835,
+      "no_speech_prob": 0.162,
+      "review": false
+    },
+    {
+      "start": 540.81,
+      "end": 541.47,
+      "text": "我看一下",
+      "avg_logprob": -0.1835,
+      "no_speech_prob": 0.162,
+      "review": false
+    },
+    {
+      "start": 541.47,
+      "end": 543.63,
+      "text": "好还有一个五方光电",
+      "avg_logprob": -0.1835,
+      "no_speech_prob": 0.162,
+      "review": false
+    },
+    {
+      "start": 543.63,
+      "end": 544.91,
+      "text": "五方光电我是说了吗",
+      "avg_logprob": -0.1835,
+      "no_speech_prob": 0.162,
+      "review": false
+    },
+    {
+      "start": 544.91,
+      "end": 545.63,
+      "text": "我应该是说",
+      "avg_logprob": -0.1835,
+      "no_speech_prob": 0.162,
+      "review": false
+    },
+    {
+      "start": 545.63,
+      "end": 547.09,
+      "text": "我看看啊",
+      "avg_logprob": -0.1835,
+      "no_speech_prob": 0.162,
+      "review": false
+    },
+    {
+      "start": 547.09,
+      "end": 547.57,
+      "text": "五方光电",
+      "avg_logprob": -0.1835,
+      "no_speech_prob": 0.162,
+      "review": false
+    },
+    {
+      "start": 547.57,
+      "end": 549.19,
+      "text": "我说了应该是没买到吧",
+      "avg_logprob": -0.1835,
+      "no_speech_prob": 0.162,
+      "review": false
+    },
+    {
+      "start": 549.19,
+      "end": 550.35,
+      "text": "五方光电排队了",
+      "avg_logprob": -0.1835,
+      "no_speech_prob": 0.162,
+      "review": false
+    },
+    {
+      "start": 550.35,
+      "end": 551.69,
+      "text": "我看我有没有买到啊",
+      "avg_logprob": -0.1835,
+      "no_speech_prob": 0.162,
+      "review": false
+    },
+    {
+      "start": 551.69,
+      "end": 552.47,
+      "text": "五方光电我看有",
+      "avg_logprob": -0.1835,
+      "no_speech_prob": 0.162,
+      "review": false
+    },
+    {
+      "start": 552.47,
+      "end": 553.35,
+      "text": "我也没买到",
+      "avg_logprob": -0.1835,
+      "no_speech_prob": 0.162,
+      "review": false
+    },
+    {
+      "start": 553.35,
+      "end": 557.4,
+      "text": "我都不一定能买到",
+      "avg_logprob": -0.1835,
+      "no_speech_prob": 0.162,
+      "review": false
+    },
+    {
+      "start": 557.4,
+      "end": 558.58,
+      "text": "我看一下我买到了吗",
+      "avg_logprob": -0.1835,
+      "no_speech_prob": 0.162,
+      "review": false
+    },
+    {
+      "start": 558.58,
+      "end": 559.4,
+      "text": "等一下",
+      "avg_logprob": -0.1835,
+      "no_speech_prob": 0.162,
+      "review": false
+    },
+    {
+      "start": 559.4,
+      "end": 562.04,
+      "text": "你看这个买到了就这边涨停了",
+      "avg_logprob": -0.1835,
+      "no_speech_prob": 0.162,
+      "review": false
+    },
+    {
+      "start": 562.04,
+      "end": 595.42,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1163,
+      "no_speech_prob": 0.3215,
+      "review": false
+    },
+    {
+      "start": 595.44,
+      "end": 597.32,
+      "text": "我是排队了,但是我也没买到",
+      "avg_logprob": -0.2583,
+      "no_speech_prob": 0.1383,
+      "review": false
+    },
+    {
+      "start": 597.32,
+      "end": 601.44,
+      "text": "然后呢,我看看啊,五方光店、国玄高科",
+      "avg_logprob": -0.2583,
+      "no_speech_prob": 0.1383,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 28.34
+}

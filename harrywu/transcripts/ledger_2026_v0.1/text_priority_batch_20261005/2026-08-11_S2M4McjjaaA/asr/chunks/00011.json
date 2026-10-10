@@ -1,0 +1,488 @@
+{
+  "begin": 3300.0,
+  "finish": 3600.0,
+  "segments": [
+    {
+      "start": 3298.0,
+      "end": 3336.4,
+      "text": "软件的原因是什么呢?",
+      "avg_logprob": -0.4375,
+      "no_speech_prob": 0.1454,
+      "review": false
+    },
+    {
+      "start": 3336.5,
+      "end": 3337.84,
+      "text": "也没有大亏啊",
+      "avg_logprob": -0.1688,
+      "no_speech_prob": 0.0862,
+      "review": false
+    },
+    {
+      "start": 3337.84,
+      "end": 3339.14,
+      "text": "从买入的位置没大亏",
+      "avg_logprob": -0.1688,
+      "no_speech_prob": 0.0862,
+      "review": false
+    },
+    {
+      "start": 3339.14,
+      "end": 3340.04,
+      "text": "但是呢",
+      "avg_logprob": -0.1688,
+      "no_speech_prob": 0.0862,
+      "review": false
+    },
+    {
+      "start": 3340.04,
+      "end": 3341.98,
+      "text": "现在可能如果是我",
+      "avg_logprob": -0.1688,
+      "no_speech_prob": 0.0862,
+      "review": false
+    },
+    {
+      "start": 3341.98,
+      "end": 3342.96,
+      "text": "我是要走了",
+      "avg_logprob": -0.1688,
+      "no_speech_prob": 0.0862,
+      "review": false
+    },
+    {
+      "start": 3342.96,
+      "end": 3344.38,
+      "text": "我是觉得这个要走了",
+      "avg_logprob": -0.1688,
+      "no_speech_prob": 0.0862,
+      "review": false
+    },
+    {
+      "start": 3344.38,
+      "end": 3345.38,
+      "text": "容认实话可能要走了",
+      "avg_logprob": -0.1688,
+      "no_speech_prob": 0.0862,
+      "review": false
+    },
+    {
+      "start": 3345.38,
+      "end": 3346.12,
+      "text": "走吧走吧",
+      "avg_logprob": -0.1688,
+      "no_speech_prob": 0.0862,
+      "review": false
+    },
+    {
+      "start": 3346.12,
+      "end": 3346.74,
+      "text": "容认实话没问题",
+      "avg_logprob": -0.1688,
+      "no_speech_prob": 0.0862,
+      "review": false
+    },
+    {
+      "start": 3346.74,
+      "end": 3349.5,
+      "text": "可能是实话是不是期货在跌啊",
+      "avg_logprob": -0.1688,
+      "no_speech_prob": 0.0862,
+      "review": false
+    },
+    {
+      "start": 3349.5,
+      "end": 3351.14,
+      "text": "容认实话要走",
+      "avg_logprob": -0.1688,
+      "no_speech_prob": 0.0862,
+      "review": false
+    },
+    {
+      "start": 3351.14,
+      "end": 3351.84,
+      "text": "要走要走",
+      "avg_logprob": -0.1688,
+      "no_speech_prob": 0.0862,
+      "review": false
+    },
+    {
+      "start": 3351.84,
+      "end": 3352.76,
+      "text": "容认实话要走啊",
+      "avg_logprob": -0.1688,
+      "no_speech_prob": 0.0862,
+      "review": false
+    },
+    {
+      "start": 3352.76,
+      "end": 3354.3,
+      "text": "要走要走",
+      "avg_logprob": -0.1688,
+      "no_speech_prob": 0.0862,
+      "review": false
+    },
+    {
+      "start": 3354.3,
+      "end": 3355.04,
+      "text": "容认实话要走",
+      "avg_logprob": -0.1688,
+      "no_speech_prob": 0.0862,
+      "review": false
+    },
+    {
+      "start": 3355.04,
+      "end": 3356.48,
+      "text": "我知道了",
+      "avg_logprob": -0.1688,
+      "no_speech_prob": 0.0862,
+      "review": false
+    },
+    {
+      "start": 3356.48,
+      "end": 3357.94,
+      "text": "为什么今天这个没涨了",
+      "avg_logprob": -0.1688,
+      "no_speech_prob": 0.0862,
+      "review": false
+    },
+    {
+      "start": 3357.94,
+      "end": 3359.56,
+      "text": "因为这个期货在跌",
+      "avg_logprob": -0.1688,
+      "no_speech_prob": 0.0862,
+      "review": false
+    },
+    {
+      "start": 3359.56,
+      "end": 3362.53,
+      "text": "这个通元石油没有涨了",
+      "avg_logprob": -0.1688,
+      "no_speech_prob": 0.0862,
+      "review": false
+    },
+    {
+      "start": 3362.53,
+      "end": 3363.43,
+      "text": "因为期货在跌",
+      "avg_logprob": -0.1688,
+      "no_speech_prob": 0.0862,
+      "review": false
+    },
+    {
+      "start": 3363.43,
+      "end": 3363.99,
+      "text": "估计是",
+      "avg_logprob": -0.1688,
+      "no_speech_prob": 0.0862,
+      "review": false
+    },
+    {
+      "start": 3363.99,
+      "end": 3365.81,
+      "text": "容认实话没法留了啊",
+      "avg_logprob": -0.1688,
+      "no_speech_prob": 0.0862,
+      "review": false
+    },
+    {
+      "start": 3365.81,
+      "end": 3366.93,
+      "text": "容认实话也没亏钱呢",
+      "avg_logprob": -0.1688,
+      "no_speech_prob": 0.0862,
+      "review": false
+    },
+    {
+      "start": 3366.93,
+      "end": 3428.2,
+      "text": "任子行这个公司是个什么公司啊",
+      "avg_logprob": -0.1892,
+      "no_speech_prob": 0.2961,
+      "review": false
+    },
+    {
+      "start": 3428.2,
+      "end": 3428.94,
+      "text": "我研究一下",
+      "avg_logprob": -0.1892,
+      "no_speech_prob": 0.2961,
+      "review": false
+    },
+    {
+      "start": 3428.94,
+      "end": 3433.08,
+      "text": "软件里面它算不算龙头啊",
+      "avg_logprob": -0.1892,
+      "no_speech_prob": 0.2961,
+      "review": false
+    },
+    {
+      "start": 3433.08,
+      "end": 3436.17,
+      "text": "它算Token经济",
+      "avg_logprob": -0.1892,
+      "no_speech_prob": 0.2961,
+      "review": false
+    },
+    {
+      "start": 3436.17,
+      "end": 3436.69,
+      "text": "我看看",
+      "avg_logprob": -0.1892,
+      "no_speech_prob": 0.2961,
+      "review": false
+    },
+    {
+      "start": 3436.69,
+      "end": 3438.63,
+      "text": "他们现在不把它搞软件",
+      "avg_logprob": -0.1892,
+      "no_speech_prob": 0.2961,
+      "review": false
+    },
+    {
+      "start": 3438.63,
+      "end": 3440.13,
+      "text": "把它搞Token经济里面去了",
+      "avg_logprob": -0.1892,
+      "no_speech_prob": 0.2961,
+      "review": false
+    },
+    {
+      "start": 3440.13,
+      "end": 3441.53,
+      "text": "我看是不是啊",
+      "avg_logprob": -0.1892,
+      "no_speech_prob": 0.2961,
+      "review": false
+    },
+    {
+      "start": 3441.53,
+      "end": 3443.71,
+      "text": "有可能不是软件是token经济了",
+      "avg_logprob": -0.2104,
+      "no_speech_prob": 0.9385,
+      "review": true
+    },
+    {
+      "start": 3443.71,
+      "end": 3445.87,
+      "text": "我看哪里面把任志兴排进去了",
+      "avg_logprob": -0.2104,
+      "no_speech_prob": 0.9385,
+      "review": true
+    },
+    {
+      "start": 3445.87,
+      "end": 3447.23,
+      "text": "有没有任志兴",
+      "avg_logprob": -0.2104,
+      "no_speech_prob": 0.9385,
+      "review": true
+    },
+    {
+      "start": 3447.23,
+      "end": 3451.28,
+      "text": "没有",
+      "avg_logprob": -0.2104,
+      "no_speech_prob": 0.9385,
+      "review": true
+    },
+    {
+      "start": 3451.28,
+      "end": 3452.48,
+      "text": "这里面都没有任志兴",
+      "avg_logprob": -0.2104,
+      "no_speech_prob": 0.9385,
+      "review": true
+    },
+    {
+      "start": 3452.48,
+      "end": 3454.02,
+      "text": "他啥都不算",
+      "avg_logprob": -0.2104,
+      "no_speech_prob": 0.9385,
+      "review": true
+    },
+    {
+      "start": 3454.02,
+      "end": 3459.0,
+      "text": "那他炒啥呢",
+      "avg_logprob": -0.2104,
+      "no_speech_prob": 0.9385,
+      "review": true
+    },
+    {
+      "start": 3459.0,
+      "end": 3461.61,
+      "text": "他是什么原因呢",
+      "avg_logprob": -0.2104,
+      "no_speech_prob": 0.9385,
+      "review": true
+    },
+    {
+      "start": 3461.61,
+      "end": 3463.21,
+      "text": "算力排行肯定没有他",
+      "avg_logprob": -0.2104,
+      "no_speech_prob": 0.9385,
+      "review": true
+    },
+    {
+      "start": 3463.21,
+      "end": 3468.78,
+      "text": "美利云、利亚肯定对啊",
+      "avg_logprob": -0.2104,
+      "no_speech_prob": 0.9385,
+      "review": true
+    },
+    {
+      "start": 3468.78,
+      "end": 3470.02,
+      "text": "肯定没有他",
+      "avg_logprob": -0.2104,
+      "no_speech_prob": 0.9385,
+      "review": true
+    },
+    {
+      "start": 3470.02,
+      "end": 3474.34,
+      "text": "今天还在炒算力",
+      "avg_logprob": -0.2104,
+      "no_speech_prob": 0.9385,
+      "review": true
+    },
+    {
+      "start": 3474.34,
+      "end": 3476.82,
+      "text": "今天有炒算力",
+      "avg_logprob": -0.2104,
+      "no_speech_prob": 0.9385,
+      "review": true
+    },
+    {
+      "start": 3476.82,
+      "end": 3479.16,
+      "text": "但是那几个都不好",
+      "avg_logprob": -0.2104,
+      "no_speech_prob": 0.9385,
+      "review": true
+    },
+    {
+      "start": 3479.16,
+      "end": 3481.59,
+      "text": "那算力有几个都不好",
+      "avg_logprob": -0.2104,
+      "no_speech_prob": 0.9385,
+      "review": true
+    },
+    {
+      "start": 3481.59,
+      "end": 3533.02,
+      "text": "数据港是机会投产第二的",
+      "avg_logprob": -0.188,
+      "no_speech_prob": 0.4023,
+      "review": false
+    },
+    {
+      "start": 3533.04,
+      "end": 3534.14,
+      "text": "任子欣",
+      "avg_logprob": -0.1856,
+      "no_speech_prob": 0.0583,
+      "review": false
+    },
+    {
+      "start": 3534.14,
+      "end": 3541.12,
+      "text": "看看啊",
+      "avg_logprob": -0.1856,
+      "no_speech_prob": 0.0583,
+      "review": false
+    },
+    {
+      "start": 3541.12,
+      "end": 3551.03,
+      "text": "中国最早涉足网络安全的企业之一",
+      "avg_logprob": -0.1856,
+      "no_speech_prob": 0.0583,
+      "review": false
+    },
+    {
+      "start": 3551.03,
+      "end": 3554.24,
+      "text": "搞网络安全的",
+      "avg_logprob": -0.1856,
+      "no_speech_prob": 0.0583,
+      "review": false
+    },
+    {
+      "start": 3554.24,
+      "end": 3574.29,
+      "text": "公共安全、审计、治理、特种行业准入、避雷、网信办、公安部、通信管理局、核心安全机构",
+      "avg_logprob": -0.1856,
+      "no_speech_prob": 0.0583,
+      "review": false
+    },
+    {
+      "start": 3574.29,
+      "end": 3578.33,
+      "text": "国家主权",
+      "avg_logprob": -0.1856,
+      "no_speech_prob": 0.0583,
+      "review": false
+    },
+    {
+      "start": 3578.33,
+      "end": 3579.43,
+      "text": "哦,这还是那个",
+      "avg_logprob": -0.1856,
+      "no_speech_prob": 0.0583,
+      "review": false
+    },
+    {
+      "start": 3579.43,
+      "end": 3580.71,
+      "text": "涉密的",
+      "avg_logprob": -0.1856,
+      "no_speech_prob": 0.0583,
+      "review": false
+    },
+    {
+      "start": 3580.71,
+      "end": 3584.26,
+      "text": "哦,他这个还是可以的,涉密的",
+      "avg_logprob": -0.1856,
+      "no_speech_prob": 0.0583,
+      "review": false
+    },
+    {
+      "start": 3584.26,
+      "end": 3588.75,
+      "text": "网络犯罪、反诈骗、反回产",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.1516,
+      "review": false
+    },
+    {
+      "start": 3588.75,
+      "end": 3591.36,
+      "text": "极端",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.1516,
+      "review": false
+    },
+    {
+      "start": 3591.36,
+      "end": 3600.51,
+      "text": "垂直领域还是可以的",
+      "avg_logprob": -0.1598,
+      "no_speech_prob": 0.1516,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 13.19
+}

@@ -1,0 +1,21 @@
+{
+  "method_version": "MKT-v0.2-20261005",
+  "threshold_version": "initial-v1",
+  "threshold_revision_count": 0,
+  "calibration_year": 2025,
+  "pseudocount": 5,
+  "quantile_method": "linear",
+  "constant_anchor_value": 50,
+  "readings": {
+    "hit": {"all_drop": 0.40, "chain_drop": 0.35, "ddens": 0.25},
+    "cont": {"m1raw": 0.40, "ladder": 0.30, "max_height": 0.30},
+    "act": {"log_ratio20": 0.40, "advance_pct": 0.30, "udens": 0.30}
+  },
+  "weather_thresholds": {"hit": 60, "cont_hit_high": 40, "cont_hit_low": 50, "act": 35},
+  "human_bins": [35, 65],
+  "weather_order": ["sunny", "cloudy", "overcast", "thunder", "storm"],
+  "weather_labels": {"sunny": "晴", "cloudy": "多云", "overcast": "阴", "thunder": "雷阵雨", "storm": "暴雨"},
+  "weather_colors": {"sunny": "#E9B949", "cloudy": "#81B29A", "overcast": "#9CA3AF", "thunder": "#8B78B8", "storm": "#3265A8"},
+  "forecast": {"small_n": 10, "smoothing": false, "tie_break": "prefer_current_then_weather_order"},
+  "human_seed": 20261005
+}

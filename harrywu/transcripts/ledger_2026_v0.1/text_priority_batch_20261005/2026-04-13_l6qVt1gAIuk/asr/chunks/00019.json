@@ -1,0 +1,856 @@
+{
+  "begin": 5700.0,
+  "finish": 6000.0,
+  "segments": [
+    {
+      "start": 5698.0,
+      "end": 5737.66,
+      "text": "也不能碰它了",
+      "avg_logprob": -0.3641,
+      "no_speech_prob": 0.3665,
+      "review": false
+    },
+    {
+      "start": 5737.68,
+      "end": 5738.96,
+      "text": "美国股市又不是水",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.095,
+      "review": false
+    },
+    {
+      "start": 5738.96,
+      "end": 5742.18,
+      "text": "他那个定用神就有问题",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.095,
+      "review": false
+    },
+    {
+      "start": 5742.18,
+      "end": 5744.5,
+      "text": "就知道说服不了我",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.095,
+      "review": false
+    },
+    {
+      "start": 5744.5,
+      "end": 5746.86,
+      "text": "但是很神奇的是",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.095,
+      "review": false
+    },
+    {
+      "start": 5746.86,
+      "end": 5748.34,
+      "text": "的的确确",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.095,
+      "review": false
+    },
+    {
+      "start": 5748.34,
+      "end": 5751.76,
+      "text": "他以前预测的年份又是对的",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.095,
+      "review": false
+    },
+    {
+      "start": 5751.76,
+      "end": 5753.34,
+      "text": "这东西说不清楚了",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.095,
+      "review": false
+    },
+    {
+      "start": 5753.34,
+      "end": 5755.28,
+      "text": "说不清楚了",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.095,
+      "review": false
+    },
+    {
+      "start": 5755.28,
+      "end": 5756.74,
+      "text": "我们只能说参考一下",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.095,
+      "review": false
+    },
+    {
+      "start": 5756.74,
+      "end": 5757.62,
+      "text": "参考一下",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.095,
+      "review": false
+    },
+    {
+      "start": 5757.62,
+      "end": 5760.28,
+      "text": "到底会不会是这样子就不知道了",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.095,
+      "review": false
+    },
+    {
+      "start": 5761.4,
+      "end": 5763.8,
+      "text": "跳空高开回补缺口算走弱吗",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.095,
+      "review": false
+    },
+    {
+      "start": 5763.8,
+      "end": 5765.18,
+      "text": "不好说",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.095,
+      "review": false
+    },
+    {
+      "start": 5765.18,
+      "end": 5768.56,
+      "text": "就是关键是回补缺口了之后",
+      "avg_logprob": -0.1491,
+      "no_speech_prob": 0.095,
+      "review": false
+    },
+    {
+      "start": 5768.56,
+      "end": 5770.62,
+      "text": "他能够站住还能向上",
+      "avg_logprob": -0.1506,
+      "no_speech_prob": 0.0526,
+      "review": false
+    },
+    {
+      "start": 5770.62,
+      "end": 5774.52,
+      "text": "他回不完缺口再跌破缺口才算走路",
+      "avg_logprob": -0.1506,
+      "no_speech_prob": 0.0526,
+      "review": false
+    },
+    {
+      "start": 5774.52,
+      "end": 5786.48,
+      "text": "谢谢能科",
+      "avg_logprob": -0.1506,
+      "no_speech_prob": 0.0526,
+      "review": false
+    },
+    {
+      "start": 5786.48,
+      "end": 5789.82,
+      "text": "谢谢能科",
+      "avg_logprob": -0.1506,
+      "no_speech_prob": 0.0526,
+      "review": false
+    },
+    {
+      "start": 5789.82,
+      "end": 5793.97,
+      "text": "这个票我也不知道",
+      "avg_logprob": -0.1506,
+      "no_speech_prob": 0.0526,
+      "review": false
+    },
+    {
+      "start": 5793.97,
+      "end": 5796.11,
+      "text": "这种票好难好难好难",
+      "avg_logprob": -0.1506,
+      "no_speech_prob": 0.0526,
+      "review": false
+    },
+    {
+      "start": 5796.11,
+      "end": 5796.39,
+      "text": "好不好",
+      "avg_logprob": -0.1506,
+      "no_speech_prob": 0.0526,
+      "review": false
+    },
+    {
+      "start": 5796.39,
+      "end": 5798.31,
+      "text": "你没办法我也没办法",
+      "avg_logprob": -0.1506,
+      "no_speech_prob": 0.0526,
+      "review": false
+    },
+    {
+      "start": 5798.31,
+      "end": 5799.79,
+      "text": "相信这种票",
+      "avg_logprob": -0.1506,
+      "no_speech_prob": 0.0526,
+      "review": false
+    },
+    {
+      "start": 5799.79,
+      "end": 5801.53,
+      "text": "我说说我的观点",
+      "avg_logprob": -0.1506,
+      "no_speech_prob": 0.0526,
+      "review": false
+    },
+    {
+      "start": 5801.53,
+      "end": 5803.71,
+      "text": "我的观点是如果我这一天没买",
+      "avg_logprob": -0.1506,
+      "no_speech_prob": 0.0526,
+      "review": false
+    },
+    {
+      "start": 5803.71,
+      "end": 5804.75,
+      "text": "我几乎都不会买了",
+      "avg_logprob": -0.1506,
+      "no_speech_prob": 0.0526,
+      "review": false
+    },
+    {
+      "start": 5804.75,
+      "end": 5805.01,
+      "text": "好不好",
+      "avg_logprob": -0.1506,
+      "no_speech_prob": 0.0526,
+      "review": false
+    },
+    {
+      "start": 5805.01,
+      "end": 5807.43,
+      "text": "这一天太完美太完美太完美了",
+      "avg_logprob": -0.1506,
+      "no_speech_prob": 0.0526,
+      "review": false
+    },
+    {
+      "start": 5807.43,
+      "end": 5808.89,
+      "text": "如果这一天我没有排队",
+      "avg_logprob": -0.1506,
+      "no_speech_prob": 0.0526,
+      "review": false
+    },
+    {
+      "start": 5808.89,
+      "end": 5809.41,
+      "text": "我没有买",
+      "avg_logprob": -0.1506,
+      "no_speech_prob": 0.0526,
+      "review": false
+    },
+    {
+      "start": 5809.41,
+      "end": 5811.53,
+      "text": "我后面几乎不会买了",
+      "avg_logprob": -0.1506,
+      "no_speech_prob": 0.0526,
+      "review": false
+    },
+    {
+      "start": 5811.53,
+      "end": 5813.97,
+      "text": "像这些位置都是说不清楚的",
+      "avg_logprob": -0.1544,
+      "no_speech_prob": 0.0825,
+      "review": false
+    },
+    {
+      "start": 5813.97,
+      "end": 5815.95,
+      "text": "都是说不清楚的",
+      "avg_logprob": -0.1544,
+      "no_speech_prob": 0.0825,
+      "review": false
+    },
+    {
+      "start": 5815.95,
+      "end": 5816.65,
+      "text": "不好说",
+      "avg_logprob": -0.1544,
+      "no_speech_prob": 0.0825,
+      "review": false
+    },
+    {
+      "start": 5816.65,
+      "end": 5818.49,
+      "text": "不好说",
+      "avg_logprob": -0.1544,
+      "no_speech_prob": 0.0825,
+      "review": false
+    },
+    {
+      "start": 5818.49,
+      "end": 5821.45,
+      "text": "我个人觉得你可以试着去做一下",
+      "avg_logprob": -0.1544,
+      "no_speech_prob": 0.0825,
+      "review": false
+    },
+    {
+      "start": 5821.45,
+      "end": 5823.29,
+      "text": "但是你把你的止损放在16",
+      "avg_logprob": -0.1544,
+      "no_speech_prob": 0.0825,
+      "review": false
+    },
+    {
+      "start": 5823.29,
+      "end": 5827.21,
+      "text": "你愿意承担16的止损的风险",
+      "avg_logprob": -0.1544,
+      "no_speech_prob": 0.0825,
+      "review": false
+    },
+    {
+      "start": 5827.21,
+      "end": 5830.49,
+      "text": "你可以做一下止损16好不好",
+      "avg_logprob": -0.1544,
+      "no_speech_prob": 0.0825,
+      "review": false
+    },
+    {
+      "start": 5830.49,
+      "end": 5832.31,
+      "text": "止损16",
+      "avg_logprob": -0.1544,
+      "no_speech_prob": 0.0825,
+      "review": false
+    },
+    {
+      "start": 5832.31,
+      "end": 5834.07,
+      "text": "然后14又买回来",
+      "avg_logprob": -0.1544,
+      "no_speech_prob": 0.0825,
+      "review": false
+    },
+    {
+      "start": 5834.07,
+      "end": 5835.83,
+      "text": "假设跌到14",
+      "avg_logprob": -0.1544,
+      "no_speech_prob": 0.0825,
+      "review": false
+    },
+    {
+      "start": 5835.83,
+      "end": 5836.67,
+      "text": "你再买回来",
+      "avg_logprob": -0.1544,
+      "no_speech_prob": 0.0825,
+      "review": false
+    },
+    {
+      "start": 5836.67,
+      "end": 5839.67,
+      "text": "我个人觉得你这样子一个交易计划是可以的",
+      "avg_logprob": -0.1544,
+      "no_speech_prob": 0.0825,
+      "review": false
+    },
+    {
+      "start": 5839.67,
+      "end": 5840.71,
+      "text": "那么你可以今天做",
+      "avg_logprob": -0.1544,
+      "no_speech_prob": 0.0825,
+      "review": false
+    },
+    {
+      "start": 5840.71,
+      "end": 5843.47,
+      "text": "如果你没有考虑到它会跌到16、14",
+      "avg_logprob": -0.1156,
+      "no_speech_prob": 0.1957,
+      "review": false
+    },
+    {
+      "start": 5843.47,
+      "end": 5844.87,
+      "text": "你最后就别做了",
+      "avg_logprob": -0.1156,
+      "no_speech_prob": 0.1957,
+      "review": false
+    },
+    {
+      "start": 5844.87,
+      "end": 5847.33,
+      "text": "就是你先想这个位置可以买",
+      "avg_logprob": -0.1156,
+      "no_speech_prob": 0.1957,
+      "review": false
+    },
+    {
+      "start": 5847.33,
+      "end": 5849.35,
+      "text": "但是它很有可能会跌到16",
+      "avg_logprob": -0.1156,
+      "no_speech_prob": 0.1957,
+      "review": false
+    },
+    {
+      "start": 5849.35,
+      "end": 5850.67,
+      "text": "那么我是不是止损",
+      "avg_logprob": -0.1156,
+      "no_speech_prob": 0.1957,
+      "review": false
+    },
+    {
+      "start": 5850.67,
+      "end": 5851.31,
+      "text": "第二个",
+      "avg_logprob": -0.1156,
+      "no_speech_prob": 0.1957,
+      "review": false
+    },
+    {
+      "start": 5851.31,
+      "end": 5853.85,
+      "text": "如果跌到16之后再往下跌到14",
+      "avg_logprob": -0.1156,
+      "no_speech_prob": 0.1957,
+      "review": false
+    },
+    {
+      "start": 5853.85,
+      "end": 5855.31,
+      "text": "那要不要我会加仓",
+      "avg_logprob": -0.1156,
+      "no_speech_prob": 0.1957,
+      "review": false
+    },
+    {
+      "start": 5855.31,
+      "end": 5857.03,
+      "text": "或者是我在14再买入",
+      "avg_logprob": -0.1156,
+      "no_speech_prob": 0.1957,
+      "review": false
+    },
+    {
+      "start": 5857.03,
+      "end": 5858.23,
+      "text": "你把这些想好",
+      "avg_logprob": -0.1156,
+      "no_speech_prob": 0.1957,
+      "review": false
+    },
+    {
+      "start": 5858.23,
+      "end": 5858.99,
+      "text": "你就可以做",
+      "avg_logprob": -0.1156,
+      "no_speech_prob": 0.1957,
+      "review": false
+    },
+    {
+      "start": 5858.99,
+      "end": 5861.35,
+      "text": "你不要想我说买了就给你暴涨",
+      "avg_logprob": -0.1156,
+      "no_speech_prob": 0.1957,
+      "review": false
+    },
+    {
+      "start": 5861.35,
+      "end": 5861.87,
+      "text": "我觉得",
+      "avg_logprob": -0.1156,
+      "no_speech_prob": 0.1957,
+      "review": false
+    },
+    {
+      "start": 5861.87,
+      "end": 5864.42,
+      "text": "因为在我看来",
+      "avg_logprob": -0.1156,
+      "no_speech_prob": 0.1957,
+      "review": false
+    },
+    {
+      "start": 5864.42,
+      "end": 5865.56,
+      "text": "在我看来",
+      "avg_logprob": -0.1156,
+      "no_speech_prob": 0.1957,
+      "review": false
+    },
+    {
+      "start": 5865.56,
+      "end": 5866.52,
+      "text": "它这个位置",
+      "avg_logprob": -0.1156,
+      "no_speech_prob": 0.1957,
+      "review": false
+    },
+    {
+      "start": 5866.52,
+      "end": 5868.24,
+      "text": "它其实只有50%的概率",
+      "avg_logprob": -0.1156,
+      "no_speech_prob": 0.1957,
+      "review": false
+    },
+    {
+      "start": 5868.24,
+      "end": 5872.64,
+      "text": "因为我至少要做70%的概率",
+      "avg_logprob": -0.1215,
+      "no_speech_prob": 0.0693,
+      "review": false
+    },
+    {
+      "start": 5872.64,
+      "end": 5874.7,
+      "text": "像这个位置有70%的概率",
+      "avg_logprob": -0.1215,
+      "no_speech_prob": 0.0693,
+      "review": false
+    },
+    {
+      "start": 5874.7,
+      "end": 5876.92,
+      "text": "所以我做票一定要做这个位置",
+      "avg_logprob": -0.1215,
+      "no_speech_prob": 0.0693,
+      "review": false
+    },
+    {
+      "start": 5876.92,
+      "end": 5878.28,
+      "text": "所以为什么说",
+      "avg_logprob": -0.1215,
+      "no_speech_prob": 0.0693,
+      "review": false
+    },
+    {
+      "start": 5878.28,
+      "end": 5880.6,
+      "text": "好,你看今天我只做了这一只",
+      "avg_logprob": -0.1215,
+      "no_speech_prob": 0.0693,
+      "review": false
+    },
+    {
+      "start": 5880.6,
+      "end": 5882.8,
+      "text": "虽然它明天我也不一定涨",
+      "avg_logprob": -0.1215,
+      "no_speech_prob": 0.0693,
+      "review": false
+    },
+    {
+      "start": 5882.8,
+      "end": 5884.38,
+      "text": "但是在我看来这一只",
+      "avg_logprob": -0.1215,
+      "no_speech_prob": 0.0693,
+      "review": false
+    },
+    {
+      "start": 5884.38,
+      "end": 5886.68,
+      "text": "至少它这个形态",
+      "avg_logprob": -0.1215,
+      "no_speech_prob": 0.0693,
+      "review": false
+    },
+    {
+      "start": 5886.68,
+      "end": 5887.84,
+      "text": "它这个价格",
+      "avg_logprob": -0.1215,
+      "no_speech_prob": 0.0693,
+      "review": false
+    },
+    {
+      "start": 5887.84,
+      "end": 5888.96,
+      "text": "它这个主力金额",
+      "avg_logprob": -0.1215,
+      "no_speech_prob": 0.0693,
+      "review": false
+    },
+    {
+      "start": 5888.96,
+      "end": 5890.9,
+      "text": "它就至少有70%的概率会涨",
+      "avg_logprob": -0.1215,
+      "no_speech_prob": 0.0693,
+      "review": false
+    },
+    {
+      "start": 5890.9,
+      "end": 5894.34,
+      "text": "那你问我的这个伊维克",
+      "avg_logprob": -0.1215,
+      "no_speech_prob": 0.0693,
+      "review": false
+    },
+    {
+      "start": 5894.34,
+      "end": 5896.88,
+      "text": "现在我不认为它有70%的概率会涨",
+      "avg_logprob": -0.1215,
+      "no_speech_prob": 0.0693,
+      "review": false
+    },
+    {
+      "start": 5896.88,
+      "end": 5898.64,
+      "text": "我认为50%是50吧",
+      "avg_logprob": -0.1215,
+      "no_speech_prob": 0.0693,
+      "review": false
+    },
+    {
+      "start": 5898.64,
+      "end": 5899.42,
+      "text": "现在这个位置",
+      "avg_logprob": -0.1215,
+      "no_speech_prob": 0.0693,
+      "review": false
+    },
+    {
+      "start": 5899.42,
+      "end": 5902.08,
+      "text": "九鼎新彩",
+      "avg_logprob": -0.2341,
+      "no_speech_prob": 0.0725,
+      "review": false
+    },
+    {
+      "start": 5902.08,
+      "end": 5910.14,
+      "text": "九鼎呢",
+      "avg_logprob": -0.2341,
+      "no_speech_prob": 0.0725,
+      "review": false
+    },
+    {
+      "start": 5910.14,
+      "end": 5912.38,
+      "text": "现在它是跟着这个航天走的",
+      "avg_logprob": -0.2341,
+      "no_speech_prob": 0.0725,
+      "review": false
+    },
+    {
+      "start": 5912.38,
+      "end": 5914.28,
+      "text": "我觉得啊",
+      "avg_logprob": -0.2341,
+      "no_speech_prob": 0.0725,
+      "review": false
+    },
+    {
+      "start": 5914.28,
+      "end": 5915.44,
+      "text": "你问我啊",
+      "avg_logprob": -0.2341,
+      "no_speech_prob": 0.0725,
+      "review": false
+    },
+    {
+      "start": 5915.44,
+      "end": 5917.2,
+      "text": "我觉得九鼎",
+      "avg_logprob": -0.2341,
+      "no_speech_prob": 0.0725,
+      "review": false
+    },
+    {
+      "start": 5917.2,
+      "end": 5921.1,
+      "text": "它上涨的概率是60%到70%",
+      "avg_logprob": -0.2341,
+      "no_speech_prob": 0.0725,
+      "review": false
+    },
+    {
+      "start": 5921.1,
+      "end": 5923.16,
+      "text": "至少大于50%",
+      "avg_logprob": -0.2341,
+      "no_speech_prob": 0.0725,
+      "review": false
+    },
+    {
+      "start": 5923.16,
+      "end": 5924.22,
+      "text": "绝对大于50%",
+      "avg_logprob": -0.2341,
+      "no_speech_prob": 0.0725,
+      "review": false
+    },
+    {
+      "start": 5924.22,
+      "end": 5925.44,
+      "text": "为什么呢",
+      "avg_logprob": -0.2341,
+      "no_speech_prob": 0.0725,
+      "review": false
+    },
+    {
+      "start": 5925.44,
+      "end": 5926.8,
+      "text": "因为它基本面好",
+      "avg_logprob": -0.2341,
+      "no_speech_prob": 0.0725,
+      "review": false
+    },
+    {
+      "start": 5926.8,
+      "end": 5930.24,
+      "text": "你看它2025年财务数据暴涨",
+      "avg_logprob": -0.2341,
+      "no_speech_prob": 0.0725,
+      "review": false
+    },
+    {
+      "start": 5930.24,
+      "end": 5932.1,
+      "text": "用基本面做支撑",
+      "avg_logprob": -0.2341,
+      "no_speech_prob": 0.0725,
+      "review": false
+    },
+    {
+      "start": 5932.1,
+      "end": 5932.82,
+      "text": "这是第一点",
+      "avg_logprob": -0.2341,
+      "no_speech_prob": 0.0725,
+      "review": false
+    },
+    {
+      "start": 5932.82,
+      "end": 5934.8,
+      "text": "第二点呢",
+      "avg_logprob": -0.2341,
+      "no_speech_prob": 0.0725,
+      "review": false
+    },
+    {
+      "start": 5934.8,
+      "end": 5937.4,
+      "text": "他回抽的也是比较好的",
+      "avg_logprob": -0.2077,
+      "no_speech_prob": 0.0609,
+      "review": false
+    },
+    {
+      "start": 5937.4,
+      "end": 5939.42,
+      "text": "16块钱回抽到11",
+      "avg_logprob": -0.2077,
+      "no_speech_prob": 0.0609,
+      "review": false
+    },
+    {
+      "start": 5939.42,
+      "end": 5946.0,
+      "text": "第三个就是他基本上盘整结构走完了",
+      "avg_logprob": -0.2077,
+      "no_speech_prob": 0.0609,
+      "review": false
+    },
+    {
+      "start": 5946.0,
+      "end": 5946.56,
+      "text": "是不是",
+      "avg_logprob": -0.2077,
+      "no_speech_prob": 0.0609,
+      "review": false
+    },
+    {
+      "start": 5946.56,
+      "end": 5951.52,
+      "text": "第一波回抽再来盘整结构走得差不多了",
+      "avg_logprob": -0.2077,
+      "no_speech_prob": 0.0609,
+      "review": false
+    },
+    {
+      "start": 5951.52,
+      "end": 5953.24,
+      "text": "所以如果你问我的话",
+      "avg_logprob": -0.2077,
+      "no_speech_prob": 0.0609,
+      "review": false
+    },
+    {
+      "start": 5953.24,
+      "end": 5956.42,
+      "text": "我认为九鼎今天是一个机会",
+      "avg_logprob": -0.2077,
+      "no_speech_prob": 0.0609,
+      "review": false
+    },
+    {
+      "start": 5956.42,
+      "end": 5957.1,
+      "text": "好不好",
+      "avg_logprob": -0.2077,
+      "no_speech_prob": 0.0609,
+      "review": false
+    },
+    {
+      "start": 5957.1,
+      "end": 5958.24,
+      "text": "九鼎是一个机会",
+      "avg_logprob": -0.2077,
+      "no_speech_prob": 0.0609,
+      "review": false
+    },
+    {
+      "start": 5958.24,
+      "end": 5960.2,
+      "text": "九鼎是一个机会",
+      "avg_logprob": -0.2077,
+      "no_speech_prob": 0.0609,
+      "review": false
+    },
+    {
+      "start": 5974.14,
+      "end": 5975.3,
+      "text": "海特高兴",
+      "avg_logprob": -0.2077,
+      "no_speech_prob": 0.0609,
+      "review": false
+    },
+    {
+      "start": 5975.3,
+      "end": 5982.41,
+      "text": "海特的问题是今天",
+      "avg_logprob": -0.2077,
+      "no_speech_prob": 0.0609,
+      "review": false
+    },
+    {
+      "start": 5982.41,
+      "end": 6012.39,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1134,
+      "no_speech_prob": 0.0693,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 20.52
+}

@@ -1,0 +1,1344 @@
+{
+  "begin": 900.0,
+  "finish": 1200.0,
+  "segments": [
+    {
+      "start": 899.52,
+      "end": 900.58,
+      "text": "就是要注意了",
+      "avg_logprob": -0.1339,
+      "no_speech_prob": 0.6641,
+      "review": true
+    },
+    {
+      "start": 900.58,
+      "end": 901.84,
+      "text": "看看有没有2B",
+      "avg_logprob": -0.1339,
+      "no_speech_prob": 0.6641,
+      "review": true
+    },
+    {
+      "start": 901.84,
+      "end": 903.26,
+      "text": "有没有二次回测",
+      "avg_logprob": -0.1339,
+      "no_speech_prob": 0.6641,
+      "review": true
+    },
+    {
+      "start": 903.26,
+      "end": 904.24,
+      "text": "有没有假又空",
+      "avg_logprob": -0.1339,
+      "no_speech_prob": 0.6641,
+      "review": true
+    },
+    {
+      "start": 904.24,
+      "end": 906.2,
+      "text": "好抛售高潮",
+      "avg_logprob": -0.1339,
+      "no_speech_prob": 0.6641,
+      "review": true
+    },
+    {
+      "start": 906.2,
+      "end": 909.68,
+      "text": "然后2B模式是概率最大的",
+      "avg_logprob": -0.1339,
+      "no_speech_prob": 0.6641,
+      "review": true
+    },
+    {
+      "start": 909.68,
+      "end": 912.42,
+      "text": "假又空模式也是概率很大的",
+      "avg_logprob": -0.1339,
+      "no_speech_prob": 0.6641,
+      "review": true
+    },
+    {
+      "start": 912.42,
+      "end": 915.6,
+      "text": "这个假又空其实就是我们其他的一些",
+      "avg_logprob": -0.1339,
+      "no_speech_prob": 0.6641,
+      "review": true
+    },
+    {
+      "start": 915.6,
+      "end": 917.84,
+      "text": "就是一些优秀交易员",
+      "avg_logprob": -0.1339,
+      "no_speech_prob": 0.6641,
+      "review": true
+    },
+    {
+      "start": 917.84,
+      "end": 919.46,
+      "text": "就是一些美国优秀交易员",
+      "avg_logprob": -0.1339,
+      "no_speech_prob": 0.6641,
+      "review": true
+    },
+    {
+      "start": 919.46,
+      "end": 921.92,
+      "text": "澳大利亚他们的presensing中间的fake模式",
+      "avg_logprob": -0.1339,
+      "no_speech_prob": 0.6641,
+      "review": true
+    },
+    {
+      "start": 921.92,
+      "end": 923.56,
+      "text": "也是假动作模式",
+      "avg_logprob": -0.1339,
+      "no_speech_prob": 0.6641,
+      "review": true
+    },
+    {
+      "start": 923.56,
+      "end": 925.44,
+      "text": "好这三种模式",
+      "avg_logprob": -0.1339,
+      "no_speech_prob": 0.6641,
+      "review": true
+    },
+    {
+      "start": 925.44,
+      "end": 927.26,
+      "text": "我们就基本上讲完了",
+      "avg_logprob": -0.1339,
+      "no_speech_prob": 0.6641,
+      "review": true
+    },
+    {
+      "start": 927.26,
+      "end": 930.62,
+      "text": "后面我们再给大家继续讲解其他的模式",
+      "avg_logprob": -0.0886,
+      "no_speech_prob": 0.8262,
+      "review": true
+    },
+    {
+      "start": 930.62,
+      "end": 931.96,
+      "text": "好 谢谢 我们下期再见",
+      "avg_logprob": -0.0886,
+      "no_speech_prob": 0.8262,
+      "review": true
+    },
+    {
+      "start": 931.96,
+      "end": 940.96,
+      "text": "我们现在来开始讲后面的一些高概率的买点",
+      "avg_logprob": -0.0886,
+      "no_speech_prob": 0.8262,
+      "review": true
+    },
+    {
+      "start": 940.96,
+      "end": 943.1,
+      "text": "在每一期节目前",
+      "avg_logprob": -0.0886,
+      "no_speech_prob": 0.8262,
+      "review": true
+    },
+    {
+      "start": 943.1,
+      "end": 944.12,
+      "text": "我先跟大家说一下",
+      "avg_logprob": -0.0886,
+      "no_speech_prob": 0.8262,
+      "review": true
+    },
+    {
+      "start": 944.12,
+      "end": 947.4,
+      "text": "就是为了避免我们这个被快速的截屏",
+      "avg_logprob": -0.0886,
+      "no_speech_prob": 0.8262,
+      "review": true
+    },
+    {
+      "start": 947.4,
+      "end": 948.94,
+      "text": "或者是流传出去",
+      "avg_logprob": -0.0886,
+      "no_speech_prob": 0.8262,
+      "review": true
+    },
+    {
+      "start": 948.94,
+      "end": 950.04,
+      "text": "所以我们加了一个水印",
+      "avg_logprob": -0.0886,
+      "no_speech_prob": 0.8262,
+      "review": true
+    },
+    {
+      "start": 950.04,
+      "end": 952.36,
+      "text": "可能会对你的观感有一定的影响",
+      "avg_logprob": -0.0886,
+      "no_speech_prob": 0.8262,
+      "review": true
+    },
+    {
+      "start": 952.36,
+      "end": 953.36,
+      "text": "但是没关系 是吧",
+      "avg_logprob": -0.0886,
+      "no_speech_prob": 0.8262,
+      "review": true
+    },
+    {
+      "start": 953.36,
+      "end": 954.74,
+      "text": "这个是保护大家的利益",
+      "avg_logprob": -0.0886,
+      "no_speech_prob": 0.8262,
+      "review": true
+    },
+    {
+      "start": 954.74,
+      "end": 958.04,
+      "text": "你们也不想付费的这个会被快速流出去 是吧",
+      "avg_logprob": -0.0886,
+      "no_speech_prob": 0.8262,
+      "review": true
+    },
+    {
+      "start": 958.04,
+      "end": 959.76,
+      "text": "好 所以请大家理解",
+      "avg_logprob": -0.0886,
+      "no_speech_prob": 0.8262,
+      "review": true
+    },
+    {
+      "start": 959.76,
+      "end": 961.32,
+      "text": "好 我们来看看顺势头肩",
+      "avg_logprob": -0.0886,
+      "no_speech_prob": 0.8262,
+      "review": true
+    },
+    {
+      "start": 961.32,
+      "end": 963.76,
+      "text": "当然顺势头肩我们前面讲的非常的详细",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.7954,
+      "review": true
+    },
+    {
+      "start": 963.76,
+      "end": 964.94,
+      "text": "那么多的案例",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.7954,
+      "review": true
+    },
+    {
+      "start": 964.94,
+      "end": 967.06,
+      "text": "那么多的详细讲解我们就不多说了",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.7954,
+      "review": true
+    },
+    {
+      "start": 967.06,
+      "end": 969.34,
+      "text": "关键呢就是我就发现一个问题",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.7954,
+      "review": true
+    },
+    {
+      "start": 969.34,
+      "end": 971.78,
+      "text": "很多的朋友都喜欢做逆势头肩",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.7954,
+      "review": true
+    },
+    {
+      "start": 971.78,
+      "end": 973.54,
+      "text": "什么是逆势头肩呢",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.7954,
+      "review": true
+    },
+    {
+      "start": 973.54,
+      "end": 976.8,
+      "text": "就是说它就是一波大的这个行情",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.7954,
+      "review": true
+    },
+    {
+      "start": 976.8,
+      "end": 978.78,
+      "text": "在暴跌跌跌跌跌一直在跌",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.7954,
+      "review": true
+    },
+    {
+      "start": 978.78,
+      "end": 979.86,
+      "text": "一直在跌一直在跌是吧",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.7954,
+      "review": true
+    },
+    {
+      "start": 979.86,
+      "end": 982.4,
+      "text": "那么逆势最后出了一个头肩",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.7954,
+      "review": true
+    },
+    {
+      "start": 982.4,
+      "end": 984.54,
+      "text": "然后就是这样子",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.7954,
+      "review": true
+    },
+    {
+      "start": 984.54,
+      "end": 985.84,
+      "text": "然后呢那个朋友过来说",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.7954,
+      "review": true
+    },
+    {
+      "start": 985.84,
+      "end": 988.52,
+      "text": "你这个头肩好像没有概率那么高嘛",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.7954,
+      "review": true
+    },
+    {
+      "start": 988.52,
+      "end": 989.58,
+      "text": "然后我就告诉他",
+      "avg_logprob": -0.096,
+      "no_speech_prob": 0.7954,
+      "review": true
+    },
+    {
+      "start": 989.58,
+      "end": 992.98,
+      "text": "头肩形态关键概率高",
+      "avg_logprob": -0.0644,
+      "no_speech_prob": 0.7715,
+      "review": true
+    },
+    {
+      "start": 992.98,
+      "end": 994.66,
+      "text": "要顺势头肩",
+      "avg_logprob": -0.0644,
+      "no_speech_prob": 0.7715,
+      "review": true
+    },
+    {
+      "start": 994.66,
+      "end": 997.2,
+      "text": "就是顺大逆小找头肩",
+      "avg_logprob": -0.0644,
+      "no_speech_prob": 0.7715,
+      "review": true
+    },
+    {
+      "start": 997.2,
+      "end": 998.56,
+      "text": "概率相当高",
+      "avg_logprob": -0.0644,
+      "no_speech_prob": 0.7715,
+      "review": true
+    },
+    {
+      "start": 998.56,
+      "end": 1000.66,
+      "text": "你要去找这个逆势头肩",
+      "avg_logprob": -0.0644,
+      "no_speech_prob": 0.7715,
+      "review": true
+    },
+    {
+      "start": 1000.66,
+      "end": 1002.2,
+      "text": "也不是说不高",
+      "avg_logprob": -0.0644,
+      "no_speech_prob": 0.7715,
+      "review": true
+    },
+    {
+      "start": 1002.2,
+      "end": 1005.02,
+      "text": "你就要准备这个逆势",
+      "avg_logprob": -0.0644,
+      "no_speech_prob": 0.7715,
+      "review": true
+    },
+    {
+      "start": 1005.02,
+      "end": 1006.8,
+      "text": "它可能会被打回来",
+      "avg_logprob": -0.0644,
+      "no_speech_prob": 0.7715,
+      "review": true
+    },
+    {
+      "start": 1006.8,
+      "end": 1007.7,
+      "text": "大家明白吗",
+      "avg_logprob": -0.0644,
+      "no_speech_prob": 0.7715,
+      "review": true
+    },
+    {
+      "start": 1007.7,
+      "end": 1010.44,
+      "text": "所以说一定要注意找顺势头肩",
+      "avg_logprob": -0.0644,
+      "no_speech_prob": 0.7715,
+      "review": true
+    },
+    {
+      "start": 1010.44,
+      "end": 1011.72,
+      "text": "当然顺势头肩",
+      "avg_logprob": -0.0644,
+      "no_speech_prob": 0.7715,
+      "review": true
+    },
+    {
+      "start": 1011.72,
+      "end": 1013.9,
+      "text": "你就必须要顺大逆小",
+      "avg_logprob": -0.0644,
+      "no_speech_prob": 0.7715,
+      "review": true
+    },
+    {
+      "start": 1013.9,
+      "end": 1014.56,
+      "text": "什么意思呢",
+      "avg_logprob": -0.0644,
+      "no_speech_prob": 0.7715,
+      "review": true
+    },
+    {
+      "start": 1014.56,
+      "end": 1015.8,
+      "text": "比如现在你们看到",
+      "avg_logprob": -0.0644,
+      "no_speech_prob": 0.7715,
+      "review": true
+    },
+    {
+      "start": 1015.8,
+      "end": 1016.88,
+      "text": "这个是日线级别的",
+      "avg_logprob": -0.0644,
+      "no_speech_prob": 0.7715,
+      "review": true
+    },
+    {
+      "start": 1016.88,
+      "end": 1018.62,
+      "text": "那么我这个日线找不到",
+      "avg_logprob": -0.0644,
+      "no_speech_prob": 0.7715,
+      "review": true
+    },
+    {
+      "start": 1018.62,
+      "end": 1020.28,
+      "text": "我可能从60分钟找头肩",
+      "avg_logprob": -0.1008,
+      "no_speech_prob": 0.7603,
+      "review": true
+    },
+    {
+      "start": 1020.28,
+      "end": 1022.0,
+      "text": "那如果你是做短线",
+      "avg_logprob": -0.1008,
+      "no_speech_prob": 0.7603,
+      "review": true
+    },
+    {
+      "start": 1022.0,
+      "end": 1024.16,
+      "text": "60分钟级别的K线向上",
+      "avg_logprob": -0.1008,
+      "no_speech_prob": 0.7603,
+      "review": true
+    },
+    {
+      "start": 1024.16,
+      "end": 1025.04,
+      "text": "那么你找头肩",
+      "avg_logprob": -0.1008,
+      "no_speech_prob": 0.7603,
+      "review": true
+    },
+    {
+      "start": 1025.04,
+      "end": 1026.54,
+      "text": "可能从5分钟去找头肩",
+      "avg_logprob": -0.1008,
+      "no_speech_prob": 0.7603,
+      "review": true
+    },
+    {
+      "start": 1026.54,
+      "end": 1027.46,
+      "text": "大家明白了吗",
+      "avg_logprob": -0.1008,
+      "no_speech_prob": 0.7603,
+      "review": true
+    },
+    {
+      "start": 1027.46,
+      "end": 1030.14,
+      "text": "你始终顺大逆小找头肩",
+      "avg_logprob": -0.1008,
+      "no_speech_prob": 0.7603,
+      "review": true
+    },
+    {
+      "start": 1030.14,
+      "end": 1031.38,
+      "text": "你就能赚钱",
+      "avg_logprob": -0.1008,
+      "no_speech_prob": 0.7603,
+      "review": true
+    },
+    {
+      "start": 1031.38,
+      "end": 1034.28,
+      "text": "你就只不过就是有和没有的问题",
+      "avg_logprob": -0.1008,
+      "no_speech_prob": 0.7603,
+      "review": true
+    },
+    {
+      "start": 1034.28,
+      "end": 1034.96,
+      "text": "好",
+      "avg_logprob": -0.1008,
+      "no_speech_prob": 0.7603,
+      "review": true
+    },
+    {
+      "start": 1034.96,
+      "end": 1038.28,
+      "text": "所以我们这边就给大家也不多说了",
+      "avg_logprob": -0.1008,
+      "no_speech_prob": 0.7603,
+      "review": true
+    },
+    {
+      "start": 1038.28,
+      "end": 1039.62,
+      "text": "我们就看看能不能再找到一个",
+      "avg_logprob": -0.1008,
+      "no_speech_prob": 0.7603,
+      "review": true
+    },
+    {
+      "start": 1039.62,
+      "end": 1041.48,
+      "text": "顺大逆小头肩的例子",
+      "avg_logprob": -0.1008,
+      "no_speech_prob": 0.7603,
+      "review": true
+    },
+    {
+      "start": 1041.48,
+      "end": 1042.46,
+      "text": "好",
+      "avg_logprob": -0.1008,
+      "no_speech_prob": 0.7603,
+      "review": true
+    },
+    {
+      "start": 1042.46,
+      "end": 1044.24,
+      "text": "我们给大家举这个股票的例子",
+      "avg_logprob": -0.1008,
+      "no_speech_prob": 0.7603,
+      "review": true
+    },
+    {
+      "start": 1044.24,
+      "end": 1045.92,
+      "text": "这个股票大家可以看",
+      "avg_logprob": -0.1008,
+      "no_speech_prob": 0.7603,
+      "review": true
+    },
+    {
+      "start": 1045.92,
+      "end": 1049.08,
+      "text": "它不是一个绝对的一个上升趋势",
+      "avg_logprob": -0.088,
+      "no_speech_prob": 0.6108,
+      "review": true
+    },
+    {
+      "start": 1049.08,
+      "end": 1049.44,
+      "text": "是吧",
+      "avg_logprob": -0.088,
+      "no_speech_prob": 0.6108,
+      "review": true
+    },
+    {
+      "start": 1049.44,
+      "end": 1051.58,
+      "text": "它这个是在走一个箱体啊",
+      "avg_logprob": -0.088,
+      "no_speech_prob": 0.6108,
+      "review": true
+    },
+    {
+      "start": 1051.58,
+      "end": 1053.94,
+      "text": "但是它至少不是一个下降趋势嘛",
+      "avg_logprob": -0.088,
+      "no_speech_prob": 0.6108,
+      "review": true
+    },
+    {
+      "start": 1053.94,
+      "end": 1056.0,
+      "text": "为什么我判断它不是个下降趋势呢",
+      "avg_logprob": -0.088,
+      "no_speech_prob": 0.6108,
+      "review": true
+    },
+    {
+      "start": 1056.0,
+      "end": 1058.12,
+      "text": "因为我把它看这个大的箱体",
+      "avg_logprob": -0.088,
+      "no_speech_prob": 0.6108,
+      "review": true
+    },
+    {
+      "start": 1058.12,
+      "end": 1059.56,
+      "text": "它这个大的箱体",
+      "avg_logprob": -0.088,
+      "no_speech_prob": 0.6108,
+      "review": true
+    },
+    {
+      "start": 1059.56,
+      "end": 1060.9,
+      "text": "它只要没有被跌破",
+      "avg_logprob": -0.088,
+      "no_speech_prob": 0.6108,
+      "review": true
+    },
+    {
+      "start": 1060.9,
+      "end": 1063.9,
+      "text": "我仍然认为它还是在盘整啊",
+      "avg_logprob": -0.088,
+      "no_speech_prob": 0.6108,
+      "review": true
+    },
+    {
+      "start": 1063.9,
+      "end": 1064.18,
+      "text": "好",
+      "avg_logprob": -0.088,
+      "no_speech_prob": 0.6108,
+      "review": true
+    },
+    {
+      "start": 1064.18,
+      "end": 1066.9,
+      "text": "那么它在盘整的过程中间",
+      "avg_logprob": -0.088,
+      "no_speech_prob": 0.6108,
+      "review": true
+    },
+    {
+      "start": 1066.9,
+      "end": 1068.18,
+      "text": "大家有没有看到",
+      "avg_logprob": -0.088,
+      "no_speech_prob": 0.6108,
+      "review": true
+    },
+    {
+      "start": 1068.18,
+      "end": 1071.34,
+      "text": "它这边有一个非常明显的头肩呢",
+      "avg_logprob": -0.088,
+      "no_speech_prob": 0.6108,
+      "review": true
+    },
+    {
+      "start": 1071.34,
+      "end": 1072.98,
+      "text": "如果大家可以注意到",
+      "avg_logprob": -0.088,
+      "no_speech_prob": 0.6108,
+      "review": true
+    },
+    {
+      "start": 1072.98,
+      "end": 1075.42,
+      "text": "你看下来再上去",
+      "avg_logprob": -0.088,
+      "no_speech_prob": 0.6108,
+      "review": true
+    },
+    {
+      "start": 1075.42,
+      "end": 1077.16,
+      "text": "再下来再上去",
+      "avg_logprob": -0.0986,
+      "no_speech_prob": 0.8999,
+      "review": true
+    },
+    {
+      "start": 1077.16,
+      "end": 1080.3,
+      "text": "这个地方有一个非常明显的",
+      "avg_logprob": -0.0986,
+      "no_speech_prob": 0.8999,
+      "review": true
+    },
+    {
+      "start": 1080.3,
+      "end": 1081.42,
+      "text": "这么一个头肩形态",
+      "avg_logprob": -0.0986,
+      "no_speech_prob": 0.8999,
+      "review": true
+    },
+    {
+      "start": 1081.42,
+      "end": 1081.66,
+      "text": "是不是",
+      "avg_logprob": -0.0986,
+      "no_speech_prob": 0.8999,
+      "review": true
+    },
+    {
+      "start": 1081.66,
+      "end": 1084.96,
+      "text": "这个头肩形态的颈线是非常难画的",
+      "avg_logprob": -0.0986,
+      "no_speech_prob": 0.8999,
+      "review": true
+    },
+    {
+      "start": 1084.96,
+      "end": 1086.76,
+      "text": "它的颈线实际上就这么画",
+      "avg_logprob": -0.0986,
+      "no_speech_prob": 0.8999,
+      "review": true
+    },
+    {
+      "start": 1086.76,
+      "end": 1089.0,
+      "text": "那么它们颈线突破",
+      "avg_logprob": -0.0986,
+      "no_speech_prob": 0.8999,
+      "review": true
+    },
+    {
+      "start": 1089.0,
+      "end": 1090.76,
+      "text": "你要等它颈线突破",
+      "avg_logprob": -0.0986,
+      "no_speech_prob": 0.8999,
+      "review": true
+    },
+    {
+      "start": 1090.76,
+      "end": 1092.2,
+      "text": "其实已经比较高了",
+      "avg_logprob": -0.0986,
+      "no_speech_prob": 0.8999,
+      "review": true
+    },
+    {
+      "start": 1092.2,
+      "end": 1093.42,
+      "text": "那么你等它的这个",
+      "avg_logprob": -0.0986,
+      "no_speech_prob": 0.8999,
+      "review": true
+    },
+    {
+      "start": 1093.42,
+      "end": 1094.94,
+      "text": "这个突破",
+      "avg_logprob": -0.0986,
+      "no_speech_prob": 0.8999,
+      "review": true
+    },
+    {
+      "start": 1094.94,
+      "end": 1095.92,
+      "text": "那么实际上",
+      "avg_logprob": -0.0986,
+      "no_speech_prob": 0.8999,
+      "review": true
+    },
+    {
+      "start": 1095.92,
+      "end": 1098.22,
+      "text": "它颈线和这个双突破的时候",
+      "avg_logprob": -0.0986,
+      "no_speech_prob": 0.8999,
+      "review": true
+    },
+    {
+      "start": 1098.22,
+      "end": 1098.84,
+      "text": "是这个点",
+      "avg_logprob": -0.0986,
+      "no_speech_prob": 0.8999,
+      "review": true
+    },
+    {
+      "start": 1098.84,
+      "end": 1100.16,
+      "text": "当然你做第一次",
+      "avg_logprob": -0.0986,
+      "no_speech_prob": 0.8999,
+      "review": true
+    },
+    {
+      "start": 1100.16,
+      "end": 1101.0,
+      "text": "可能会被止损",
+      "avg_logprob": -0.0986,
+      "no_speech_prob": 0.8999,
+      "review": true
+    },
+    {
+      "start": 1101.0,
+      "end": 1102.36,
+      "text": "那么你第二次",
+      "avg_logprob": -0.0986,
+      "no_speech_prob": 0.8999,
+      "review": true
+    },
+    {
+      "start": 1102.36,
+      "end": 1103.12,
+      "text": "你在做的时候",
+      "avg_logprob": -0.0986,
+      "no_speech_prob": 0.8999,
+      "review": true
+    },
+    {
+      "start": 1103.12,
+      "end": 1104.52,
+      "text": "那你可能就会有引力",
+      "avg_logprob": -0.0986,
+      "no_speech_prob": 0.8999,
+      "review": true
+    },
+    {
+      "start": 1104.52,
+      "end": 1105.04,
+      "text": "好",
+      "avg_logprob": -0.0986,
+      "no_speech_prob": 0.8999,
+      "review": true
+    },
+    {
+      "start": 1105.04,
+      "end": 1105.9,
+      "text": "那么这种",
+      "avg_logprob": -0.1015,
+      "no_speech_prob": 0.7334,
+      "review": true
+    },
+    {
+      "start": 1105.9,
+      "end": 1107.54,
+      "text": "因为它这个为什么有震荡呢",
+      "avg_logprob": -0.1015,
+      "no_speech_prob": 0.7334,
+      "review": true
+    },
+    {
+      "start": 1107.54,
+      "end": 1109.84,
+      "text": "因为它毕竟还是一个箱体里面嘛",
+      "avg_logprob": -0.1015,
+      "no_speech_prob": 0.7334,
+      "review": true
+    },
+    {
+      "start": 1109.84,
+      "end": 1112.06,
+      "text": "所以说它你在这做一次",
+      "avg_logprob": -0.1015,
+      "no_speech_prob": 0.7334,
+      "review": true
+    },
+    {
+      "start": 1112.06,
+      "end": 1113.04,
+      "text": "被止损之后呢",
+      "avg_logprob": -0.1015,
+      "no_speech_prob": 0.7334,
+      "review": true
+    },
+    {
+      "start": 1113.04,
+      "end": 1114.22,
+      "text": "你做第二次啊",
+      "avg_logprob": -0.1015,
+      "no_speech_prob": 0.7334,
+      "review": true
+    },
+    {
+      "start": 1114.22,
+      "end": 1115.9,
+      "text": "你基本上这一波行情",
+      "avg_logprob": -0.1015,
+      "no_speech_prob": 0.7334,
+      "review": true
+    },
+    {
+      "start": 1115.9,
+      "end": 1117.92,
+      "text": "你应该能够往上赚到",
+      "avg_logprob": -0.1015,
+      "no_speech_prob": 0.7334,
+      "review": true
+    },
+    {
+      "start": 1117.92,
+      "end": 1120.18,
+      "text": "但它后面有一个很巨的下跌啊",
+      "avg_logprob": -0.1015,
+      "no_speech_prob": 0.7334,
+      "review": true
+    },
+    {
+      "start": 1120.18,
+      "end": 1121.02,
+      "text": "股票里面呢",
+      "avg_logprob": -0.1015,
+      "no_speech_prob": 0.7334,
+      "review": true
+    },
+    {
+      "start": 1121.02,
+      "end": 1122.68,
+      "text": "日线级别的头肩",
+      "avg_logprob": -0.1015,
+      "no_speech_prob": 0.7334,
+      "review": true
+    },
+    {
+      "start": 1122.68,
+      "end": 1124.24,
+      "text": "其实真的不多啊",
+      "avg_logprob": -0.1015,
+      "no_speech_prob": 0.7334,
+      "review": true
+    },
+    {
+      "start": 1124.24,
+      "end": 1124.8,
+      "text": "真的不多",
+      "avg_logprob": -0.1015,
+      "no_speech_prob": 0.7334,
+      "review": true
+    },
+    {
+      "start": 1124.8,
+      "end": 1126.16,
+      "text": "其实60分钟啊",
+      "avg_logprob": -0.1015,
+      "no_speech_prob": 0.7334,
+      "review": true
+    },
+    {
+      "start": 1126.16,
+      "end": 1126.92,
+      "text": "那些比较多一点",
+      "avg_logprob": -0.1015,
+      "no_speech_prob": 0.7334,
+      "review": true
+    },
+    {
+      "start": 1126.92,
+      "end": 1128.32,
+      "text": "所以比如说举个例子",
+      "avg_logprob": -0.1015,
+      "no_speech_prob": 0.7334,
+      "review": true
+    },
+    {
+      "start": 1128.32,
+      "end": 1129.18,
+      "text": "大家看到这个",
+      "avg_logprob": -0.1015,
+      "no_speech_prob": 0.7334,
+      "review": true
+    },
+    {
+      "start": 1129.18,
+      "end": 1131.14,
+      "text": "首先它的大势是什么",
+      "avg_logprob": -0.1015,
+      "no_speech_prob": 0.7334,
+      "review": true
+    },
+    {
+      "start": 1131.14,
+      "end": 1132.1,
+      "text": "上涨的嘛",
+      "avg_logprob": -0.1015,
+      "no_speech_prob": 0.7334,
+      "review": true
+    },
+    {
+      "start": 1132.1,
+      "end": 1134.82,
+      "text": "在上涨的过程中间开始回调",
+      "avg_logprob": -0.1015,
+      "no_speech_prob": 0.7334,
+      "review": true
+    },
+    {
+      "start": 1134.82,
+      "end": 1137.12,
+      "text": "回调大家可以看到",
+      "avg_logprob": -0.1176,
+      "no_speech_prob": 0.7207,
+      "review": true
+    },
+    {
+      "start": 1137.12,
+      "end": 1139.66,
+      "text": "那么这个地方是不是一个头肩",
+      "avg_logprob": -0.1176,
+      "no_speech_prob": 0.7207,
+      "review": true
+    },
+    {
+      "start": 1139.66,
+      "end": 1140.86,
+      "text": "这是左肩",
+      "avg_logprob": -0.1176,
+      "no_speech_prob": 0.7207,
+      "review": true
+    },
+    {
+      "start": 1140.86,
+      "end": 1142.58,
+      "text": "头部右肩",
+      "avg_logprob": -0.1176,
+      "no_speech_prob": 0.7207,
+      "review": true
+    },
+    {
+      "start": 1142.58,
+      "end": 1143.94,
+      "text": "什么时候突破颈线",
+      "avg_logprob": -0.1176,
+      "no_speech_prob": 0.7207,
+      "review": true
+    },
+    {
+      "start": 1143.94,
+      "end": 1147.84,
+      "text": "在这个时候突破的颈线是不是",
+      "avg_logprob": -0.1176,
+      "no_speech_prob": 0.7207,
+      "review": true
+    },
+    {
+      "start": 1147.84,
+      "end": 1150.2,
+      "text": "那么突破之后你看后面是不是",
+      "avg_logprob": -0.1176,
+      "no_speech_prob": 0.7207,
+      "review": true
+    },
+    {
+      "start": 1150.2,
+      "end": 1151.16,
+      "text": "虽然有一个回调",
+      "avg_logprob": -0.1176,
+      "no_speech_prob": 0.7207,
+      "review": true
+    },
+    {
+      "start": 1151.16,
+      "end": 1152.24,
+      "text": "但是最后还是上去了",
+      "avg_logprob": -0.1176,
+      "no_speech_prob": 0.7207,
+      "review": true
+    },
+    {
+      "start": 1152.24,
+      "end": 1154.56,
+      "text": "因为你的股票止损可以设大一点",
+      "avg_logprob": -0.1176,
+      "no_speech_prob": 0.7207,
+      "review": true
+    },
+    {
+      "start": 1154.56,
+      "end": 1155.62,
+      "text": "你设在这儿是吧",
+      "avg_logprob": -0.1176,
+      "no_speech_prob": 0.7207,
+      "review": true
+    },
+    {
+      "start": 1155.62,
+      "end": 1157.72,
+      "text": "因为股票又不是期货",
+      "avg_logprob": -0.1176,
+      "no_speech_prob": 0.7207,
+      "review": true
+    },
+    {
+      "start": 1157.72,
+      "end": 1158.92,
+      "text": "又不会被爆仓",
+      "avg_logprob": -0.1176,
+      "no_speech_prob": 0.7207,
+      "review": true
+    },
+    {
+      "start": 1158.92,
+      "end": 1160.04,
+      "text": "那么你设在这儿",
+      "avg_logprob": -0.1176,
+      "no_speech_prob": 0.7207,
+      "review": true
+    },
+    {
+      "start": 1160.04,
+      "end": 1161.44,
+      "text": "这路上去是不是就赚钱了",
+      "avg_logprob": -0.1176,
+      "no_speech_prob": 0.7207,
+      "review": true
+    },
+    {
+      "start": 1161.44,
+      "end": 1163.88,
+      "text": "所以顺这就是顺大",
+      "avg_logprob": -0.1176,
+      "no_speech_prob": 0.7207,
+      "review": true
+    },
+    {
+      "start": 1163.88,
+      "end": 1165.98,
+      "text": "一小找头肩",
+      "avg_logprob": -0.1096,
+      "no_speech_prob": 0.6182,
+      "review": true
+    },
+    {
+      "start": 1165.98,
+      "end": 1168.2,
+      "text": "你不要去找这种一直跌跌跌",
+      "avg_logprob": -0.1096,
+      "no_speech_prob": 0.6182,
+      "review": true
+    },
+    {
+      "start": 1168.2,
+      "end": 1169.86,
+      "text": "一直这样子跌跌跌",
+      "avg_logprob": -0.1096,
+      "no_speech_prob": 0.6182,
+      "review": true
+    },
+    {
+      "start": 1169.86,
+      "end": 1170.72,
+      "text": "跌在最后",
+      "avg_logprob": -0.1096,
+      "no_speech_prob": 0.6182,
+      "review": true
+    },
+    {
+      "start": 1170.72,
+      "end": 1173.36,
+      "text": "它这种东西也有可能会起来",
+      "avg_logprob": -0.1096,
+      "no_speech_prob": 0.6182,
+      "review": true
+    },
+    {
+      "start": 1173.36,
+      "end": 1175.94,
+      "text": "但是它一完完全全可以在这做个相提吧",
+      "avg_logprob": -0.1096,
+      "no_speech_prob": 0.6182,
+      "review": true
+    },
+    {
+      "start": 1175.94,
+      "end": 1177.18,
+      "text": "震荡很长时间",
+      "avg_logprob": -0.1096,
+      "no_speech_prob": 0.6182,
+      "review": true
+    },
+    {
+      "start": 1177.18,
+      "end": 1178.12,
+      "text": "最后又怎么样",
+      "avg_logprob": -0.1096,
+      "no_speech_prob": 0.6182,
+      "review": true
+    },
+    {
+      "start": 1178.12,
+      "end": 1178.94,
+      "text": "又下来",
+      "avg_logprob": -0.1096,
+      "no_speech_prob": 0.6182,
+      "review": true
+    },
+    {
+      "start": 1178.94,
+      "end": 1180.14,
+      "text": "完全可以的啊",
+      "avg_logprob": -0.1096,
+      "no_speech_prob": 0.6182,
+      "review": true
+    },
+    {
+      "start": 1180.14,
+      "end": 1182.92,
+      "text": "好我们看看能不能再在30分钟60分钟",
+      "avg_logprob": -0.1096,
+      "no_speech_prob": 0.6182,
+      "review": true
+    },
+    {
+      "start": 1182.92,
+      "end": 1183.92,
+      "text": "给大家找一个头肩啊",
+      "avg_logprob": -0.1096,
+      "no_speech_prob": 0.6182,
+      "review": true
+    },
+    {
+      "start": 1183.92,
+      "end": 1184.7,
+      "text": "我们找一个外汇",
+      "avg_logprob": -0.1096,
+      "no_speech_prob": 0.6182,
+      "review": true
+    },
+    {
+      "start": 1184.7,
+      "end": 1188.8,
+      "text": "好我们现在给大家看一个外汇的15分钟啊",
+      "avg_logprob": -0.1096,
+      "no_speech_prob": 0.6182,
+      "review": true
+    },
+    {
+      "start": 1188.8,
+      "end": 1190.24,
+      "text": "外汇的15分钟在这儿",
+      "avg_logprob": -0.1096,
+      "no_speech_prob": 0.6182,
+      "review": true
+    },
+    {
+      "start": 1190.24,
+      "end": 1190.74,
+      "text": "大家可以看到",
+      "avg_logprob": -0.1096,
+      "no_speech_prob": 0.6182,
+      "review": true
+    },
+    {
+      "start": 1190.74,
+      "end": 1193.12,
+      "text": "首先请问什么趋势上涨吗",
+      "avg_logprob": -0.1096,
+      "no_speech_prob": 0.6182,
+      "review": true
+    },
+    {
+      "start": 1193.12,
+      "end": 1195.06,
+      "text": "肯定是大的上涨趋势",
+      "avg_logprob": -0.1249,
+      "no_speech_prob": 0.1141,
+      "review": false
+    },
+    {
+      "start": 1195.06,
+      "end": 1196.96,
+      "text": "现在做逆势回调",
+      "avg_logprob": -0.1249,
+      "no_speech_prob": 0.1141,
+      "review": false
+    },
+    {
+      "start": 1196.96,
+      "end": 1197.2,
+      "text": "是不是",
+      "avg_logprob": -0.1249,
+      "no_speech_prob": 0.1141,
+      "review": false
+    },
+    {
+      "start": 1197.2,
+      "end": 1198.82,
+      "text": "回调了之后",
+      "avg_logprob": -0.1249,
+      "no_speech_prob": 0.1141,
+      "review": false
+    },
+    {
+      "start": 1198.82,
+      "end": 1199.84,
+      "text": "再回调到这",
+      "avg_logprob": -0.1249,
+      "no_speech_prob": 0.1141,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 77.55
+}

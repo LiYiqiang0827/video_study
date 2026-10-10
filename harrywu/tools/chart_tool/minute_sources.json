@@ -1,0 +1,91 @@
+{
+  "registry_version": "minute-src-v1",
+  "generated_at": "2026-10-09T16:06:00+08:00",
+  "sources": [
+    {
+      "source_id": "csv_1min_original",
+      "family": "original_csv",
+      "kind": "csv",
+      "layout": "per_day_all_stocks",
+      "root": "D:/ProjectRocketData/legacy_C_Project_Rocket/Trading Agent Database/A Share Miniutes Data/1min",
+      "path_template": "{yyyy}/{yyyymmdd}_A股1分钟K线@余哈哈的数据仓库 原创整理.csv",
+      "row_filter": "证券代码 == {ts_code} and 交易日期 == {yyyymmdd}; never treat all rows as the requested stock.",
+      "coverage": {
+        "first_date": "2009-01-05",
+        "last_date": "2026-09-18",
+        "gaps_note": "已按2026-10-09用户指定机械规则启用：完整241行把09:30并入09:31；完整240行起始时间网格整体后移一分钟。timestamp_semantics='bar_end'指归一化输出；不判断09:30是否纯竞价，不提供独立竞价，警告AUCTION_UNAVAILABLE。两张目标图所需10股日逐日数值核对通过，运行时每股日继续核对；日期范围仅据目录，未验证全覆盖。"
+      },
+      "encoding": "utf-8",
+      "columns": {
+        "datetime": "分钟时间",
+        "open": "开盘价（元）",
+        "high": "最高价（元）",
+        "low": "最低价（元）",
+        "close": "收盘价（元）",
+        "vol": "成交量",
+        "amount": "成交额",
+        "code": "证券代码",
+        "name": "证券名称"
+      },
+      "timestamp_semantics": "bar_end",
+      "has_auction_row": true,
+      "auction_row_time": "09:30",
+      "vol_unit": "shares",
+      "amount_unit": "CNY",
+      "price_basis": "unadjusted",
+      "evidence_refs": [
+        "C:/Project Rocket/outputs/chart_tool_v2_20261009/X1/measurements.json#inventory",
+        "C:/Project Rocket/outputs/chart_tool_v2_20261009/X1/measurements.json#source_reads",
+        "C:/Project Rocket/outputs/chart_tool_v2_20261009/X1/measurements.json#stock_days",
+        "C:/Project Rocket/outputs/chart_tool_minutes_enabled_20261009/daily_overlap.json",
+        "offlineDataManager/scripts/core/one_min_store.py#CSV_COLUMNS"
+      ]
+    },
+    {
+      "source_id": "one_min_parquet_processed",
+      "family": "one_min_ohlc",
+      "kind": "parquet",
+      "layout": "per_day_all_stocks",
+      "root": "D:/ProjectRocketData/processed/TradingAgent/oneMinute/parquet/schema_v2",
+      "path_template": "year={yyyy}/month={mm}/trade_date={yyyymmdd}/part-000.parquet",
+      "row_filter": "ts_code == {ts_code} and trade_date == {yyyymmdd}; require documented per-stock source_lineage before asserting TDX/CSV origin.",
+      "coverage": {
+        "first_date": "2009-01-05",
+        "last_date": "2026-09-18",
+        "gaps_note": "非生产候选，未列入priority。覆盖边界是one_min_ingest_catalog记录(4304日期)；未逐文件核覆盖。样本2021-06-25/2026-01-08/2026-09-18继承CSV时间，删除09:30且逐项相同；240行结束时间网格不符合本轮240行起始时间规则，缺少09:30对应成交量；旧manifest无逐股血缘。"
+      },
+      "encoding": null,
+      "columns": {
+        "datetime": "datetime",
+        "open": "open",
+        "high": "high",
+        "low": "low",
+        "close": "close",
+        "vol": "vol",
+        "amount": "amount",
+        "code": "ts_code",
+        "name": "name"
+      },
+      "timestamp_semantics": "bar_end",
+      "has_auction_row": false,
+      "auction_row_time": "09:30",
+      "vol_unit": "shares",
+      "amount_unit": "CNY",
+      "price_basis": "unadjusted",
+      "evidence_refs": [
+        "offlineDataManager/docs/代码详细设计/one_min_parquet.md#查询",
+        "C:/Project Rocket/outputs/chart_tool_v2_20261009/X1/measurements.json#catalog",
+        "C:/Project Rocket/outputs/chart_tool_v2_20261009/X1/measurements.json#processed_comparisons",
+        "C:/Project Rocket/outputs/chart_tool_v2_20261009/X1/measurements.json#production_decision"
+      ]
+    }
+  ],
+  "priority": ["csv_1min_original"],
+  "thresholds": {
+    "vol_rel": 0.005,
+    "amount_rel": 0.005,
+    "price_abs": 0.005,
+    "auction_open_abs": 0.005
+  },
+  "threshold_evidence": "C:/Project Rocket/outputs/chart_tool_v2_20261009/X1/measurements.json#thresholds"
+}

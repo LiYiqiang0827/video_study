@@ -1,0 +1,880 @@
+{
+  "begin": 6000.0,
+  "finish": 6300.0,
+  "segments": [
+    {
+      "start": 6000.1,
+      "end": 6002.92,
+      "text": "它可能会跌到10块06毛",
+      "avg_logprob": -0.1202,
+      "no_speech_prob": 0.0735,
+      "review": false
+    },
+    {
+      "start": 6002.92,
+      "end": 6004.2,
+      "text": "可能跌到10块4",
+      "avg_logprob": -0.1202,
+      "no_speech_prob": 0.0735,
+      "review": false
+    },
+    {
+      "start": 6004.2,
+      "end": 6007.7,
+      "text": "那我愿不愿意在这再买一点",
+      "avg_logprob": -0.1202,
+      "no_speech_prob": 0.0735,
+      "review": false
+    },
+    {
+      "start": 6007.7,
+      "end": 6012.93,
+      "text": "就是像这种一旦错过了这一天买入机会",
+      "avg_logprob": -0.1202,
+      "no_speech_prob": 0.0735,
+      "review": false
+    },
+    {
+      "start": 6012.93,
+      "end": 6014.35,
+      "text": "那么你就告诉自己",
+      "avg_logprob": -0.1202,
+      "no_speech_prob": 0.0735,
+      "review": false
+    },
+    {
+      "start": 6014.35,
+      "end": 6016.59,
+      "text": "它非常有可能会跌到这来",
+      "avg_logprob": -0.1202,
+      "no_speech_prob": 0.0735,
+      "review": false
+    },
+    {
+      "start": 6016.59,
+      "end": 6018.35,
+      "text": "那么跌到这我该怎么办",
+      "avg_logprob": -0.1202,
+      "no_speech_prob": 0.0735,
+      "review": false
+    },
+    {
+      "start": 6018.35,
+      "end": 6019.23,
+      "text": "我是止损吗",
+      "avg_logprob": -0.1202,
+      "no_speech_prob": 0.0735,
+      "review": false
+    },
+    {
+      "start": 6019.23,
+      "end": 6020.15,
+      "text": "我是加仓吗",
+      "avg_logprob": -0.1202,
+      "no_speech_prob": 0.0735,
+      "review": false
+    },
+    {
+      "start": 6020.15,
+      "end": 6021.11,
+      "text": "那如果我加仓",
+      "avg_logprob": -0.1202,
+      "no_speech_prob": 0.0735,
+      "review": false
+    },
+    {
+      "start": 6021.11,
+      "end": 6022.39,
+      "text": "我的仓位该怎么控制",
+      "avg_logprob": -0.1202,
+      "no_speech_prob": 0.0735,
+      "review": false
+    },
+    {
+      "start": 6022.39,
+      "end": 6022.73,
+      "text": "好不好",
+      "avg_logprob": -0.1202,
+      "no_speech_prob": 0.0735,
+      "review": false
+    },
+    {
+      "start": 6022.73,
+      "end": 6024.17,
+      "text": "所以风险第一",
+      "avg_logprob": -0.1202,
+      "no_speech_prob": 0.0735,
+      "review": false
+    },
+    {
+      "start": 6024.17,
+      "end": 6026.11,
+      "text": "也就是说这些位置",
+      "avg_logprob": -0.1202,
+      "no_speech_prob": 0.0735,
+      "review": false
+    },
+    {
+      "start": 6026.11,
+      "end": 6029.09,
+      "text": "你们其实你们天天看我的直播应该都知道了",
+      "avg_logprob": -0.1861,
+      "no_speech_prob": 0.0993,
+      "review": false
+    },
+    {
+      "start": 6029.09,
+      "end": 6030.23,
+      "text": "我永远都是这样子",
+      "avg_logprob": -0.1861,
+      "no_speech_prob": 0.0993,
+      "review": false
+    },
+    {
+      "start": 6030.23,
+      "end": 6031.83,
+      "text": "只要错过这个点",
+      "avg_logprob": -0.1861,
+      "no_speech_prob": 0.0993,
+      "review": false
+    },
+    {
+      "start": 6031.83,
+      "end": 6034.17,
+      "text": "你首先想风险",
+      "avg_logprob": -0.1861,
+      "no_speech_prob": 0.0993,
+      "review": false
+    },
+    {
+      "start": 6034.17,
+      "end": 6035.21,
+      "text": "首先想风险",
+      "avg_logprob": -0.1861,
+      "no_speech_prob": 0.0993,
+      "review": false
+    },
+    {
+      "start": 6035.21,
+      "end": 6035.73,
+      "text": "咋到这来",
+      "avg_logprob": -0.1861,
+      "no_speech_prob": 0.0993,
+      "review": false
+    },
+    {
+      "start": 6035.73,
+      "end": 6037.97,
+      "text": "你说又不是说不能买",
+      "avg_logprob": -0.1861,
+      "no_speech_prob": 0.0993,
+      "review": false
+    },
+    {
+      "start": 6037.97,
+      "end": 6039.01,
+      "text": "那万一上去了呢",
+      "avg_logprob": -0.1861,
+      "no_speech_prob": 0.0993,
+      "review": false
+    },
+    {
+      "start": 6039.01,
+      "end": 6039.39,
+      "text": "是不是",
+      "avg_logprob": -0.1861,
+      "no_speech_prob": 0.0993,
+      "review": false
+    },
+    {
+      "start": 6039.39,
+      "end": 6042.07,
+      "text": "所以你可以先买一点点",
+      "avg_logprob": -0.1861,
+      "no_speech_prob": 0.0993,
+      "review": false
+    },
+    {
+      "start": 6042.07,
+      "end": 6042.73,
+      "text": "然后在这",
+      "avg_logprob": -0.1861,
+      "no_speech_prob": 0.0993,
+      "review": false
+    },
+    {
+      "start": 6042.73,
+      "end": 6046.07,
+      "text": "我有些时候就是过于完美",
+      "avg_logprob": -0.1861,
+      "no_speech_prob": 0.0993,
+      "review": false
+    },
+    {
+      "start": 6046.07,
+      "end": 6047.61,
+      "text": "那我也会错过很多机会",
+      "avg_logprob": -0.1861,
+      "no_speech_prob": 0.0993,
+      "review": false
+    },
+    {
+      "start": 6047.61,
+      "end": 6049.43,
+      "text": "特别是像我说的美股",
+      "avg_logprob": -0.1861,
+      "no_speech_prob": 0.0993,
+      "review": false
+    },
+    {
+      "start": 6049.43,
+      "end": 6052.57,
+      "text": "这一次那肯定你还是有一点点",
+      "avg_logprob": -0.1861,
+      "no_speech_prob": 0.0993,
+      "review": false
+    },
+    {
+      "start": 6052.57,
+      "end": 6054.13,
+      "text": "有一点点遗憾",
+      "avg_logprob": -0.1861,
+      "no_speech_prob": 0.0993,
+      "review": false
+    },
+    {
+      "start": 6054.13,
+      "end": 6054.61,
+      "text": "是吧",
+      "avg_logprob": -0.1861,
+      "no_speech_prob": 0.0993,
+      "review": false
+    },
+    {
+      "start": 6054.61,
+      "end": 6061.83,
+      "text": "虽然我觉得我能力很强,有点遗憾,但是为什么呢?因为就差这么一点点,就是因为我老要找到最完美的点,那结果呢?错过这一步",
+      "avg_logprob": -0.1029,
+      "no_speech_prob": 0.168,
+      "review": false
+    },
+    {
+      "start": 6061.83,
+      "end": 6070.05,
+      "text": "所以你们不用找到最完美的点,但是你要承担风险,好不好?你不能说我又不承担风险,那肯定是不可能的",
+      "avg_logprob": -0.1029,
+      "no_speech_prob": 0.168,
+      "review": false
+    },
+    {
+      "start": 6070.05,
+      "end": 6085.68,
+      "text": "跌的还涨,肯定啊,回补缺口都涨,回补缺口啊,回补缺口,热热灵,回补缺口,这是我非常明确的呀,回补缺口",
+      "avg_logprob": -0.1029,
+      "no_speech_prob": 0.168,
+      "review": false
+    },
+    {
+      "start": 6085.68,
+      "end": 6088.38,
+      "text": "588、589左右",
+      "avg_logprob": -0.1591,
+      "no_speech_prob": 0.0848,
+      "review": false
+    },
+    {
+      "start": 6088.38,
+      "end": 6089.98,
+      "text": "只要跌到589左右",
+      "avg_logprob": -0.1591,
+      "no_speech_prob": 0.0848,
+      "review": false
+    },
+    {
+      "start": 6089.98,
+      "end": 6091.94,
+      "text": "大概率是一定会反弹的",
+      "avg_logprob": -0.1591,
+      "no_speech_prob": 0.0848,
+      "review": false
+    },
+    {
+      "start": 6091.94,
+      "end": 6100.99,
+      "text": "马斯克的八字我要去找出来",
+      "avg_logprob": -0.1591,
+      "no_speech_prob": 0.0848,
+      "review": false
+    },
+    {
+      "start": 6100.99,
+      "end": 6102.19,
+      "text": "下次给大家说",
+      "avg_logprob": -0.1591,
+      "no_speech_prob": 0.0848,
+      "review": false
+    },
+    {
+      "start": 6102.19,
+      "end": 6103.17,
+      "text": "因为这次我没有",
+      "avg_logprob": -0.1591,
+      "no_speech_prob": 0.0848,
+      "review": false
+    },
+    {
+      "start": 6103.17,
+      "end": 6104.61,
+      "text": "一定要找到最真实的",
+      "avg_logprob": -0.1591,
+      "no_speech_prob": 0.0848,
+      "review": false
+    },
+    {
+      "start": 6104.61,
+      "end": 6105.95,
+      "text": "一定要找到最真实的",
+      "avg_logprob": -0.1591,
+      "no_speech_prob": 0.0848,
+      "review": false
+    },
+    {
+      "start": 6105.95,
+      "end": 6107.43,
+      "text": "马斯克是南非出生的",
+      "avg_logprob": -0.1591,
+      "no_speech_prob": 0.0848,
+      "review": false
+    },
+    {
+      "start": 6107.43,
+      "end": 6109.37,
+      "text": "有没有他的八字还不知道呢",
+      "avg_logprob": -0.1591,
+      "no_speech_prob": 0.0848,
+      "review": false
+    },
+    {
+      "start": 6109.37,
+      "end": 6110.69,
+      "text": "有没有他的八字是不是",
+      "avg_logprob": -0.1591,
+      "no_speech_prob": 0.0848,
+      "review": false
+    },
+    {
+      "start": 6110.69,
+      "end": 6112.57,
+      "text": "有没有他的八字还真不知道",
+      "avg_logprob": -0.1591,
+      "no_speech_prob": 0.0848,
+      "review": false
+    },
+    {
+      "start": 6112.57,
+      "end": 6115.65,
+      "text": "生猪别看了吧",
+      "avg_logprob": -0.1591,
+      "no_speech_prob": 0.0848,
+      "review": false
+    },
+    {
+      "start": 6115.65,
+      "end": 6116.69,
+      "text": "一直都不行了",
+      "avg_logprob": -0.1591,
+      "no_speech_prob": 0.0848,
+      "review": false
+    },
+    {
+      "start": 6116.69,
+      "end": 6118.15,
+      "text": "不是很差很差很差吗",
+      "avg_logprob": -0.1591,
+      "no_speech_prob": 0.0848,
+      "review": false
+    },
+    {
+      "start": 6118.15,
+      "end": 6120.49,
+      "text": "如果很差的话咱们就别做了",
+      "avg_logprob": -0.1591,
+      "no_speech_prob": 0.0848,
+      "review": false
+    },
+    {
+      "start": 6120.49,
+      "end": 6121.99,
+      "text": "马斯克我真不知道",
+      "avg_logprob": -0.1591,
+      "no_speech_prob": 0.0848,
+      "review": false
+    },
+    {
+      "start": 6121.99,
+      "end": 6158.16,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1084,
+      "no_speech_prob": 0.091,
+      "review": false
+    },
+    {
+      "start": 6158.18,
+      "end": 6188.16,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "avg_logprob": -0.2232,
+      "no_speech_prob": 0.3696,
+      "review": false
+    },
+    {
+      "start": 6188.18,
+      "end": 6190.22,
+      "text": "谈恋爱不可能三角",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.2988,
+      "review": false
+    },
+    {
+      "start": 6190.22,
+      "end": 6192.36,
+      "text": "一个男人又要帅",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.2988,
+      "review": false
+    },
+    {
+      "start": 6192.36,
+      "end": 6194.32,
+      "text": "又要脾气好",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.2988,
+      "review": false
+    },
+    {
+      "start": 6194.32,
+      "end": 6196.82,
+      "text": "又要高富帅",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.2988,
+      "review": false
+    },
+    {
+      "start": 6196.82,
+      "end": 6197.66,
+      "text": "又要多精",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.2988,
+      "review": false
+    },
+    {
+      "start": 6197.66,
+      "end": 6198.84,
+      "text": "又要对你专一",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.2988,
+      "review": false
+    },
+    {
+      "start": 6198.84,
+      "end": 6199.84,
+      "text": "不存在",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.2988,
+      "review": false
+    },
+    {
+      "start": 6199.84,
+      "end": 6201.9,
+      "text": "这个是不可能的事情",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.2988,
+      "review": false
+    },
+    {
+      "start": 6201.9,
+      "end": 6203.72,
+      "text": "他如果很有钱",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.2988,
+      "review": false
+    },
+    {
+      "start": 6203.72,
+      "end": 6204.8,
+      "text": "他又很帅",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.2988,
+      "review": false
+    },
+    {
+      "start": 6204.8,
+      "end": 6206.32,
+      "text": "那一定不可能专一的",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.2988,
+      "review": false
+    },
+    {
+      "start": 6206.32,
+      "end": 6207.2,
+      "text": "为什么呀",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.2988,
+      "review": false
+    },
+    {
+      "start": 6207.2,
+      "end": 6208.74,
+      "text": "他身边女人太多了",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.2988,
+      "review": false
+    },
+    {
+      "start": 6208.74,
+      "end": 6209.7,
+      "text": "怎么可能专一呢",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.2988,
+      "review": false
+    },
+    {
+      "start": 6209.7,
+      "end": 6210.16,
+      "text": "是不是",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.2988,
+      "review": false
+    },
+    {
+      "start": 6210.16,
+      "end": 6213.1,
+      "text": "那么如果他不帅",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.2988,
+      "review": false
+    },
+    {
+      "start": 6213.1,
+      "end": 6213.62,
+      "text": "他丑",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.2988,
+      "review": false
+    },
+    {
+      "start": 6213.62,
+      "end": 6214.38,
+      "text": "他有钱",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.2988,
+      "review": false
+    },
+    {
+      "start": 6214.38,
+      "end": 6215.76,
+      "text": "他可能会对你专一",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.2988,
+      "review": false
+    },
+    {
+      "start": 6215.76,
+      "end": 6216.08,
+      "text": "是吧",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.2988,
+      "review": false
+    },
+    {
+      "start": 6216.08,
+      "end": 6217.06,
+      "text": "假设啊",
+      "avg_logprob": -0.1427,
+      "no_speech_prob": 0.2988,
+      "review": false
+    },
+    {
+      "start": 6217.06,
+      "end": 6219.78,
+      "text": "就是说它永远不可能三角",
+      "avg_logprob": -0.1495,
+      "no_speech_prob": 0.1173,
+      "review": false
+    },
+    {
+      "start": 6219.78,
+      "end": 6220.46,
+      "text": "那同一个道理",
+      "avg_logprob": -0.1495,
+      "no_speech_prob": 0.1173,
+      "review": false
+    },
+    {
+      "start": 6220.46,
+      "end": 6222.3,
+      "text": "那么做基本面技术分析也是",
+      "avg_logprob": -0.1495,
+      "no_speech_prob": 0.1173,
+      "review": false
+    },
+    {
+      "start": 6222.3,
+      "end": 6224.4,
+      "text": "有些时候你不要追求完美",
+      "avg_logprob": -0.1495,
+      "no_speech_prob": 0.1173,
+      "review": false
+    },
+    {
+      "start": 6224.4,
+      "end": 6225.26,
+      "text": "没有办法完美",
+      "avg_logprob": -0.1495,
+      "no_speech_prob": 0.1173,
+      "review": false
+    },
+    {
+      "start": 6225.26,
+      "end": 6226.86,
+      "text": "那如果你非要追求完美",
+      "avg_logprob": -0.1495,
+      "no_speech_prob": 0.1173,
+      "review": false
+    },
+    {
+      "start": 6226.86,
+      "end": 6228.02,
+      "text": "那就会放弃这些东西",
+      "avg_logprob": -0.1495,
+      "no_speech_prob": 0.1173,
+      "review": false
+    },
+    {
+      "start": 6228.02,
+      "end": 6234.0,
+      "text": "那你说英特尔既然不符合你的基本面",
+      "avg_logprob": -0.1495,
+      "no_speech_prob": 0.1173,
+      "review": false
+    },
+    {
+      "start": 6234.0,
+      "end": 6234.94,
+      "text": "那就别看了呗",
+      "avg_logprob": -0.1495,
+      "no_speech_prob": 0.1173,
+      "review": false
+    },
+    {
+      "start": 6234.94,
+      "end": 6235.56,
+      "text": "看看干嘛",
+      "avg_logprob": -0.1495,
+      "no_speech_prob": 0.1173,
+      "review": false
+    },
+    {
+      "start": 6235.56,
+      "end": 6237.22,
+      "text": "那巴菲特你看巴菲特",
+      "avg_logprob": -0.1495,
+      "no_speech_prob": 0.1173,
+      "review": false
+    },
+    {
+      "start": 6237.22,
+      "end": 6238.26,
+      "text": "他其他票都看都不看",
+      "avg_logprob": -0.1495,
+      "no_speech_prob": 0.1173,
+      "review": false
+    },
+    {
+      "start": 6238.26,
+      "end": 6238.84,
+      "text": "是不是",
+      "avg_logprob": -0.1495,
+      "no_speech_prob": 0.1173,
+      "review": false
+    },
+    {
+      "start": 6238.84,
+      "end": 6240.18,
+      "text": "巴菲特不看的",
+      "avg_logprob": -0.1495,
+      "no_speech_prob": 0.1173,
+      "review": false
+    },
+    {
+      "start": 6240.18,
+      "end": 6241.96,
+      "text": "大部分票都看都不看",
+      "avg_logprob": -0.1495,
+      "no_speech_prob": 0.1173,
+      "review": false
+    },
+    {
+      "start": 6241.96,
+      "end": 6242.6,
+      "text": "一个道理",
+      "avg_logprob": -0.1495,
+      "no_speech_prob": 0.1173,
+      "review": false
+    },
+    {
+      "start": 6242.6,
+      "end": 6243.5,
+      "text": "没有办法",
+      "avg_logprob": -0.1495,
+      "no_speech_prob": 0.1173,
+      "review": false
+    },
+    {
+      "start": 6243.5,
+      "end": 6245.58,
+      "text": "有些东西一定会错过",
+      "avg_logprob": -0.1495,
+      "no_speech_prob": 0.1173,
+      "review": false
+    },
+    {
+      "start": 6245.58,
+      "end": 6246.24,
+      "text": "一定会错",
+      "avg_logprob": -0.1495,
+      "no_speech_prob": 0.1173,
+      "review": false
+    },
+    {
+      "start": 6246.24,
+      "end": 6246.9,
+      "text": "我也说",
+      "avg_logprob": -0.1495,
+      "no_speech_prob": 0.1173,
+      "review": false
+    },
+    {
+      "start": 6246.9,
+      "end": 6248.4,
+      "text": "这是核心的核心",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.0237,
+      "review": false
+    },
+    {
+      "start": 6248.4,
+      "end": 6250.6,
+      "text": "做交易如果你是一个完美主义者",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.0237,
+      "review": false
+    },
+    {
+      "start": 6250.6,
+      "end": 6251.52,
+      "text": "你一定会很痛苦",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.0237,
+      "review": false
+    },
+    {
+      "start": 6251.52,
+      "end": 6253.66,
+      "text": "天天你估计要得抑郁症",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.0237,
+      "review": false
+    },
+    {
+      "start": 6253.66,
+      "end": 6255.02,
+      "text": "百分之百得抑郁症",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.0237,
+      "review": false
+    },
+    {
+      "start": 6255.02,
+      "end": 6257.38,
+      "text": "因为你每天都在错过行情",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.0237,
+      "review": false
+    },
+    {
+      "start": 6257.38,
+      "end": 6259.34,
+      "text": "你每天都在错过好股票",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.0237,
+      "review": false
+    },
+    {
+      "start": 6259.34,
+      "end": 6261.68,
+      "text": "永远都是遗憾的",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.0237,
+      "review": false
+    },
+    {
+      "start": 6261.68,
+      "end": 6264.0,
+      "text": "永远都是遗憾的",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.0237,
+      "review": false
+    },
+    {
+      "start": 6264.0,
+      "end": 6270.35,
+      "text": "你这个大流人看股票",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.0237,
+      "review": false
+    },
+    {
+      "start": 6270.35,
+      "end": 6272.01,
+      "text": "还要等到明年去了",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.0237,
+      "review": false
+    },
+    {
+      "start": 6272.01,
+      "end": 6272.89,
+      "text": "今年不行",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.0237,
+      "review": false
+    },
+    {
+      "start": 6272.89,
+      "end": 6275.89,
+      "text": "今年我的计划是把八字全部讲完",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.0237,
+      "review": false
+    },
+    {
+      "start": 6275.89,
+      "end": 6278.93,
+      "text": "明年呢我就用大流人来看股票",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.0237,
+      "review": false
+    },
+    {
+      "start": 6278.93,
+      "end": 6312.58,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.1176,
+      "no_speech_prob": 0.0757,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 24.97
+}

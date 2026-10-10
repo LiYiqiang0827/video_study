@@ -1,0 +1,520 @@
+{
+  "begin": 900.0,
+  "finish": 1200.0,
+  "segments": [
+    {
+      "start": 898.0,
+      "end": 930.3,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0717,
+      "no_speech_prob": 0.0618,
+      "review": false
+    },
+    {
+      "start": 930.32,
+      "end": 987.31,
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "avg_logprob": -0.0909,
+      "no_speech_prob": 0.9932,
+      "review": true
+    },
+    {
+      "start": 987.33,
+      "end": 989.81,
+      "text": "有动荡,他还是好票,说实话",
+      "avg_logprob": -0.1022,
+      "no_speech_prob": 0.0107,
+      "review": false
+    },
+    {
+      "start": 989.81,
+      "end": 996.56,
+      "text": "但是,其实中国飞策这个公司挺好的,一直都挺好的,但是现在这个位置也不好",
+      "avg_logprob": -0.1022,
+      "no_speech_prob": 0.0107,
+      "review": false
+    },
+    {
+      "start": 996.56,
+      "end": 1001.44,
+      "text": "这个三角形啊,还是没有,风险还是有的,但是公司是很好的",
+      "avg_logprob": -0.1022,
+      "no_speech_prob": 0.0107,
+      "review": false
+    },
+    {
+      "start": 1001.44,
+      "end": 1006.34,
+      "text": "这个就是昨天技术形态特别的好,你看今天就涨停了",
+      "avg_logprob": -0.1022,
+      "no_speech_prob": 0.0107,
+      "review": false
+    },
+    {
+      "start": 1006.34,
+      "end": 1010.04,
+      "text": "这种技术形态特别好的票,一般的是可以排队的",
+      "avg_logprob": -0.1022,
+      "no_speech_prob": 0.0107,
+      "review": false
+    },
+    {
+      "start": 1010.04,
+      "end": 1033.2,
+      "text": "什么破公司啊,财务数据这么差",
+      "avg_logprob": -0.1022,
+      "no_speech_prob": 0.0107,
+      "review": false
+    },
+    {
+      "start": 1033.2,
+      "end": 1047.25,
+      "text": "凯雷因这个位置就比较尴尬,其他的没有啥,这个位置太尴尬了",
+      "avg_logprob": -0.1022,
+      "no_speech_prob": 0.0107,
+      "review": false
+    },
+    {
+      "start": 1047.25,
+      "end": 1051.14,
+      "text": "位置不尴尬的话也还可以",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.4707,
+      "review": false
+    },
+    {
+      "start": 1051.14,
+      "end": 1052.2,
+      "text": "位置太尴尬了",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.4707,
+      "review": false
+    },
+    {
+      "start": 1052.2,
+      "end": 1056.59,
+      "text": "今天整体还是有涨的",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.4707,
+      "review": false
+    },
+    {
+      "start": 1056.59,
+      "end": 1063.15,
+      "text": "但是像终于达这个花工产品不好",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.4707,
+      "review": false
+    },
+    {
+      "start": 1063.15,
+      "end": 1065.21,
+      "text": "但是像前段时间我们说了",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.4707,
+      "review": false
+    },
+    {
+      "start": 1065.21,
+      "end": 1066.69,
+      "text": "它这个量还是很漂亮的",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.4707,
+      "review": false
+    },
+    {
+      "start": 1066.69,
+      "end": 1067.53,
+      "text": "这个量很漂亮",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.4707,
+      "review": false
+    },
+    {
+      "start": 1067.53,
+      "end": 1068.87,
+      "text": "这个量堆很漂亮",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.4707,
+      "review": false
+    },
+    {
+      "start": 1068.87,
+      "end": 1071.47,
+      "text": "它主要是这个如果是炒这个基乌四醇",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.4707,
+      "review": false
+    },
+    {
+      "start": 1071.47,
+      "end": 1073.63,
+      "text": "我们说过基乌四醇现在价格不涨了",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.4707,
+      "review": false
+    },
+    {
+      "start": 1073.63,
+      "end": 1076.73,
+      "text": "它这一波要是当时基乌四醇价格暴涨的时候",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.4707,
+      "review": false
+    },
+    {
+      "start": 1076.73,
+      "end": 1077.43,
+      "text": "在这些位置",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.4707,
+      "review": false
+    },
+    {
+      "start": 1077.43,
+      "end": 1080.33,
+      "text": "就是基本面、题材面、技术面完美结合",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.4707,
+      "review": false
+    },
+    {
+      "start": 1080.33,
+      "end": 1081.45,
+      "text": "那就赚大钱",
+      "avg_logprob": -0.1269,
+      "no_speech_prob": 0.4707,
+      "review": false
+    },
+    {
+      "start": 1081.45,
+      "end": 1084.07,
+      "text": "所以说赚大钱几乎就只有这么一点点",
+      "avg_logprob": -0.1708,
+      "no_speech_prob": 0.3398,
+      "review": false
+    },
+    {
+      "start": 1084.07,
+      "end": 1085.93,
+      "text": "你看现在这个就是技术面好",
+      "avg_logprob": -0.1708,
+      "no_speech_prob": 0.3398,
+      "review": false
+    },
+    {
+      "start": 1085.93,
+      "end": 1087.03,
+      "text": "但是基本面不行",
+      "avg_logprob": -0.1708,
+      "no_speech_prob": 0.3398,
+      "review": false
+    },
+    {
+      "start": 1087.03,
+      "end": 1088.87,
+      "text": "因为他炒的这个题材",
+      "avg_logprob": -0.1708,
+      "no_speech_prob": 0.3398,
+      "review": false
+    },
+    {
+      "start": 1088.87,
+      "end": 1089.91,
+      "text": "这个叫纪务四纯",
+      "avg_logprob": -0.1708,
+      "no_speech_prob": 0.3398,
+      "review": false
+    },
+    {
+      "start": 1089.91,
+      "end": 1091.71,
+      "text": "纪务四纯又涨价吗",
+      "avg_logprob": -0.1708,
+      "no_speech_prob": 0.3398,
+      "review": false
+    },
+    {
+      "start": 1091.71,
+      "end": 1093.53,
+      "text": "8月24号又涨了吗",
+      "avg_logprob": -0.1708,
+      "no_speech_prob": 0.3398,
+      "review": false
+    },
+    {
+      "start": 1093.53,
+      "end": 1095.43,
+      "text": "纪务四纯又涨价吗",
+      "avg_logprob": -0.1708,
+      "no_speech_prob": 0.3398,
+      "review": false
+    },
+    {
+      "start": 1095.43,
+      "end": 1096.13,
+      "text": "就查一查",
+      "avg_logprob": -0.1708,
+      "no_speech_prob": 0.3398,
+      "review": false
+    },
+    {
+      "start": 1096.13,
+      "end": 1100.06,
+      "text": "纪务四纯",
+      "avg_logprob": -0.1708,
+      "no_speech_prob": 0.3398,
+      "review": false
+    },
+    {
+      "start": 1100.06,
+      "end": 1101.43,
+      "text": "我看看",
+      "avg_logprob": -0.1708,
+      "no_speech_prob": 0.3398,
+      "review": false
+    },
+    {
+      "start": 1101.43,
+      "end": 1103.94,
+      "text": "问一问",
+      "avg_logprob": -0.1708,
+      "no_speech_prob": 0.3398,
+      "review": false
+    },
+    {
+      "start": 1103.94,
+      "end": 1105.08,
+      "text": "问一问AI",
+      "avg_logprob": -0.1708,
+      "no_speech_prob": 0.3398,
+      "review": false
+    },
+    {
+      "start": 1105.08,
+      "end": 1108.79,
+      "text": "纪务四纯有没有可能涨价",
+      "avg_logprob": -0.1708,
+      "no_speech_prob": 0.3398,
+      "review": false
+    },
+    {
+      "start": 1108.79,
+      "end": 1112.56,
+      "text": "你看我现在就查呢",
+      "avg_logprob": -0.1708,
+      "no_speech_prob": 0.3398,
+      "review": false
+    },
+    {
+      "start": 1112.56,
+      "end": 1113.68,
+      "text": "什么偏三甲本",
+      "avg_logprob": -0.1708,
+      "no_speech_prob": 0.3398,
+      "review": false
+    },
+    {
+      "start": 1113.68,
+      "end": 1116.12,
+      "text": "基务思纯",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.3789,
+      "review": false
+    },
+    {
+      "start": 1116.12,
+      "end": 1142.92,
+      "text": "你看",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.3789,
+      "review": false
+    },
+    {
+      "start": 1142.92,
+      "end": 1144.18,
+      "text": "2008年的事",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.3789,
+      "review": false
+    },
+    {
+      "start": 1144.18,
+      "end": 1145.14,
+      "text": "基务思纯",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.3789,
+      "review": false
+    },
+    {
+      "start": 1145.14,
+      "end": 1147.34,
+      "text": "绝对没有大幅涨价的可能",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.3789,
+      "review": false
+    },
+    {
+      "start": 1147.34,
+      "end": 1152.02,
+      "text": "前期暴涨的泡沫正在破裂",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.3789,
+      "review": false
+    },
+    {
+      "start": 1152.02,
+      "end": 1154.02,
+      "text": "大幅涨价的概率极低",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.3789,
+      "review": false
+    },
+    {
+      "start": 1154.02,
+      "end": 1155.2,
+      "text": "那算了",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.3789,
+      "review": false
+    },
+    {
+      "start": 1155.2,
+      "end": 1155.84,
+      "text": "一般的",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.3789,
+      "review": false
+    },
+    {
+      "start": 1155.84,
+      "end": 1156.7,
+      "text": "不会你看",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.3789,
+      "review": false
+    },
+    {
+      "start": 1156.7,
+      "end": 1158.46,
+      "text": "所以以后我们哪一个东西",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.3789,
+      "review": false
+    },
+    {
+      "start": 1158.46,
+      "end": 1160.18,
+      "text": "如果你突然发现在暴涨",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.3789,
+      "review": false
+    },
+    {
+      "start": 1160.18,
+      "end": 1161.76,
+      "text": "咱们就可以去买",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.3789,
+      "review": false
+    },
+    {
+      "start": 1161.76,
+      "end": 1163.22,
+      "text": "特别是涨价概念",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.3789,
+      "review": false
+    },
+    {
+      "start": 1163.22,
+      "end": 1165.14,
+      "text": "下次如果有涨价概念",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.3789,
+      "review": false
+    },
+    {
+      "start": 1165.14,
+      "end": 1165.76,
+      "text": "大胆的买",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.3789,
+      "review": false
+    },
+    {
+      "start": 1165.76,
+      "end": 1166.84,
+      "text": "绝对赚大钱",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.3789,
+      "review": false
+    },
+    {
+      "start": 1166.84,
+      "end": 1168.74,
+      "text": "但是如果没有涨价概念",
+      "avg_logprob": -0.1416,
+      "no_speech_prob": 0.3789,
+      "review": false
+    },
+    {
+      "start": 1168.74,
+      "end": 1171.12,
+      "text": "不要搞了,这个东西算了,它有可能只是一个",
+      "avg_logprob": -0.0974,
+      "no_speech_prob": 0.0006,
+      "review": false
+    },
+    {
+      "start": 1171.12,
+      "end": 1179.58,
+      "text": "它随时在变化,题材都在变化,所以你随时要看",
+      "avg_logprob": -0.0974,
+      "no_speech_prob": 0.0006,
+      "review": false
+    },
+    {
+      "start": 1179.58,
+      "end": 1182.62,
+      "text": "随时要看看这个板块啊,题材啊",
+      "avg_logprob": -0.0974,
+      "no_speech_prob": 0.0006,
+      "review": false
+    },
+    {
+      "start": 1182.62,
+      "end": 1186.58,
+      "text": "我这边有一个屏幕专门看指数的啊,所以无所谓,只是我也在观望的",
+      "avg_logprob": -0.0974,
+      "no_speech_prob": 0.0006,
+      "review": false
+    },
+    {
+      "start": 1186.58,
+      "end": 1194.3,
+      "text": "你看开盘的时候,封装啊,光刻机啊,还有一点亮点",
+      "avg_logprob": -0.0974,
+      "no_speech_prob": 0.0006,
+      "review": false
+    },
+    {
+      "start": 1194.3,
+      "end": 1196.72,
+      "text": "你看现在马上全部下来了,半导体啊",
+      "avg_logprob": -0.0974,
+      "no_speech_prob": 0.0006,
+      "review": false
+    },
+    {
+      "start": 1196.72,
+      "end": 1202.0,
+      "text": "你看啊,如果这些全在跌,什么半导体啊,玻璃基板啊",
+      "avg_logprob": -0.0974,
+      "no_speech_prob": 0.0006,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 17.22
+}

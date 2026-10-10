@@ -1,0 +1,1440 @@
+{
+  "begin": 7500.0,
+  "finish": 7800.0,
+  "segments": [
+    {
+      "start": 7499.92,
+      "end": 7500.52,
+      "text": "哎呀",
+      "avg_logprob": -0.1312,
+      "no_speech_prob": 0.8936,
+      "review": true
+    },
+    {
+      "start": 7500.52,
+      "end": 7501.7,
+      "text": "反正就是这后面就是玩了",
+      "avg_logprob": -0.1312,
+      "no_speech_prob": 0.8936,
+      "review": true
+    },
+    {
+      "start": 7501.7,
+      "end": 7502.48,
+      "text": "我这后面",
+      "avg_logprob": -0.1312,
+      "no_speech_prob": 0.8936,
+      "review": true
+    },
+    {
+      "start": 7502.48,
+      "end": 7505.1,
+      "text": "这后面这几年的整个过程是这样子的",
+      "avg_logprob": -0.1312,
+      "no_speech_prob": 0.8936,
+      "review": true
+    },
+    {
+      "start": 7505.1,
+      "end": 7506.44,
+      "text": "先在巴西境内玩",
+      "avg_logprob": -0.1312,
+      "no_speech_prob": 0.8936,
+      "review": true
+    },
+    {
+      "start": 7506.44,
+      "end": 7507.18,
+      "text": "积累经验",
+      "avg_logprob": -0.1312,
+      "no_speech_prob": 0.8936,
+      "review": true
+    },
+    {
+      "start": 7507.18,
+      "end": 7509.0,
+      "text": "然后咱们就去亚马逊穿越",
+      "avg_logprob": -0.1312,
+      "no_speech_prob": 0.8936,
+      "review": true
+    },
+    {
+      "start": 7509.0,
+      "end": 7510.74,
+      "text": "亚马逊穿越完了之后呢",
+      "avg_logprob": -0.1312,
+      "no_speech_prob": 0.8936,
+      "review": true
+    },
+    {
+      "start": 7510.74,
+      "end": 7512.74,
+      "text": "就去阿根廷穿越南极",
+      "avg_logprob": -0.1312,
+      "no_speech_prob": 0.8936,
+      "review": true
+    },
+    {
+      "start": 7512.74,
+      "end": 7513.3,
+      "text": "啊",
+      "avg_logprob": -0.1312,
+      "no_speech_prob": 0.8936,
+      "review": true
+    },
+    {
+      "start": 7513.3,
+      "end": 7514.34,
+      "text": "到了这个乌斯怀亚",
+      "avg_logprob": -0.1312,
+      "no_speech_prob": 0.8936,
+      "review": true
+    },
+    {
+      "start": 7514.34,
+      "end": 7516.08,
+      "text": "南极玩完了之后呢",
+      "avg_logprob": -0.1312,
+      "no_speech_prob": 0.8936,
+      "review": true
+    },
+    {
+      "start": 7516.08,
+      "end": 7517.82,
+      "text": "我又从南极准备啊",
+      "avg_logprob": -0.1312,
+      "no_speech_prob": 0.8936,
+      "review": true
+    },
+    {
+      "start": 7517.82,
+      "end": 7518.62,
+      "text": "先是这样子玩",
+      "avg_logprob": -0.1312,
+      "no_speech_prob": 0.8936,
+      "review": true
+    },
+    {
+      "start": 7518.62,
+      "end": 7520.68,
+      "text": "然后然后这样子玩",
+      "avg_logprob": -0.1312,
+      "no_speech_prob": 0.8936,
+      "review": true
+    },
+    {
+      "start": 7520.68,
+      "end": 7523.36,
+      "text": "然后亚马逊亚马逊玩完了之后呢",
+      "avg_logprob": -0.1312,
+      "no_speech_prob": 0.8936,
+      "review": true
+    },
+    {
+      "start": 7523.36,
+      "end": 7524.52,
+      "text": "我们就去进秘鲁啊",
+      "avg_logprob": -0.1312,
+      "no_speech_prob": 0.8936,
+      "review": true
+    },
+    {
+      "start": 7524.52,
+      "end": 7527.4,
+      "text": "从秘鲁到波罗维亚这一波啊",
+      "avg_logprob": -0.1312,
+      "no_speech_prob": 0.8936,
+      "review": true
+    },
+    {
+      "start": 7527.4,
+      "end": 7528.56,
+      "text": "这一波",
+      "avg_logprob": -0.1692,
+      "no_speech_prob": 0.8301,
+      "review": true
+    },
+    {
+      "start": 7528.56,
+      "end": 7529.34,
+      "text": "然后呢",
+      "avg_logprob": -0.1692,
+      "no_speech_prob": 0.8301,
+      "review": true
+    },
+    {
+      "start": 7529.34,
+      "end": 7530.5,
+      "text": "最后我又回圣保罗",
+      "avg_logprob": -0.1692,
+      "no_speech_prob": 0.8301,
+      "review": true
+    },
+    {
+      "start": 7530.5,
+      "end": 7531.6,
+      "text": "回来圣保罗之后",
+      "avg_logprob": -0.1692,
+      "no_speech_prob": 0.8301,
+      "review": true
+    },
+    {
+      "start": 7531.6,
+      "end": 7533.1,
+      "text": "又到阿根廷到南极",
+      "avg_logprob": -0.1692,
+      "no_speech_prob": 0.8301,
+      "review": true
+    },
+    {
+      "start": 7533.1,
+      "end": 7533.86,
+      "text": "南极",
+      "avg_logprob": -0.1692,
+      "no_speech_prob": 0.8301,
+      "review": true
+    },
+    {
+      "start": 7533.86,
+      "end": 7534.36,
+      "text": "然后走",
+      "avg_logprob": -0.1692,
+      "no_speech_prob": 0.8301,
+      "review": true
+    },
+    {
+      "start": 7534.36,
+      "end": 7535.76,
+      "text": "走这个泛美公路",
+      "avg_logprob": -0.1692,
+      "no_speech_prob": 0.8301,
+      "review": true
+    },
+    {
+      "start": 7535.76,
+      "end": 7536.56,
+      "text": "然后一直走",
+      "avg_logprob": -0.1692,
+      "no_speech_prob": 0.8301,
+      "review": true
+    },
+    {
+      "start": 7536.56,
+      "end": 7537.52,
+      "text": "看到美国啊",
+      "avg_logprob": -0.1692,
+      "no_speech_prob": 0.8301,
+      "review": true
+    },
+    {
+      "start": 7537.52,
+      "end": 7538.06,
+      "text": "那些啊",
+      "avg_logprob": -0.1692,
+      "no_speech_prob": 0.8301,
+      "review": true
+    },
+    {
+      "start": 7538.06,
+      "end": 7539.76,
+      "text": "大概是这样子一个情况",
+      "avg_logprob": -0.1692,
+      "no_speech_prob": 0.8301,
+      "review": true
+    },
+    {
+      "start": 7539.76,
+      "end": 7542.18,
+      "text": "现在的规划啊",
+      "avg_logprob": -0.1692,
+      "no_speech_prob": 0.8301,
+      "review": true
+    },
+    {
+      "start": 7542.18,
+      "end": 7542.64,
+      "text": "希望这个",
+      "avg_logprob": -0.1692,
+      "no_speech_prob": 0.8301,
+      "review": true
+    },
+    {
+      "start": 7542.64,
+      "end": 7544.56,
+      "text": "这个能够顺利的实现啊",
+      "avg_logprob": -0.1692,
+      "no_speech_prob": 0.8301,
+      "review": true
+    },
+    {
+      "start": 7544.56,
+      "end": 7545.96,
+      "text": "现在的规划",
+      "avg_logprob": -0.1692,
+      "no_speech_prob": 0.8301,
+      "review": true
+    },
+    {
+      "start": 7545.96,
+      "end": 7546.98,
+      "text": "所以为什么",
+      "avg_logprob": -0.1692,
+      "no_speech_prob": 0.8301,
+      "review": true
+    },
+    {
+      "start": 7546.98,
+      "end": 7548.0,
+      "text": "我不做",
+      "avg_logprob": -0.1692,
+      "no_speech_prob": 0.8301,
+      "review": true
+    },
+    {
+      "start": 7548.0,
+      "end": 7548.76,
+      "text": "后面会",
+      "avg_logprob": -0.1692,
+      "no_speech_prob": 0.8301,
+      "review": true
+    },
+    {
+      "start": 7548.76,
+      "end": 7549.68,
+      "text": "主要做这个事情",
+      "avg_logprob": -0.1692,
+      "no_speech_prob": 0.8301,
+      "review": true
+    },
+    {
+      "start": 7549.68,
+      "end": 7551.83,
+      "text": "肯定有啊",
+      "avg_logprob": -0.1692,
+      "no_speech_prob": 0.8301,
+      "review": true
+    },
+    {
+      "start": 7551.83,
+      "end": 7553.13,
+      "text": "我专门会做个视频啊",
+      "avg_logprob": -0.1692,
+      "no_speech_prob": 0.8301,
+      "review": true
+    },
+    {
+      "start": 7553.13,
+      "end": 7553.91,
+      "text": "专门做个视频",
+      "avg_logprob": -0.1692,
+      "no_speech_prob": 0.8301,
+      "review": true
+    },
+    {
+      "start": 7553.91,
+      "end": 7557.62,
+      "text": "没有女朋友",
+      "avg_logprob": -0.1692,
+      "no_speech_prob": 0.8301,
+      "review": true
+    },
+    {
+      "start": 7557.62,
+      "end": 7558.18,
+      "text": "没意思",
+      "avg_logprob": -0.1692,
+      "no_speech_prob": 0.8301,
+      "review": true
+    },
+    {
+      "start": 7558.18,
+      "end": 7559.52,
+      "text": "能接受过女朋友吗",
+      "avg_logprob": -0.1552,
+      "no_speech_prob": 0.8271,
+      "review": true
+    },
+    {
+      "start": 7559.52,
+      "end": 7559.8,
+      "text": "是不是",
+      "avg_logprob": -0.1552,
+      "no_speech_prob": 0.8271,
+      "review": true
+    },
+    {
+      "start": 7559.8,
+      "end": 7562.54,
+      "text": "又不是天上掉的女朋友",
+      "avg_logprob": -0.1552,
+      "no_speech_prob": 0.8271,
+      "review": true
+    },
+    {
+      "start": 7562.54,
+      "end": 7562.86,
+      "text": "是不是",
+      "avg_logprob": -0.1552,
+      "no_speech_prob": 0.8271,
+      "review": true
+    },
+    {
+      "start": 7562.86,
+      "end": 7565.52,
+      "text": "没有方言",
+      "avg_logprob": -0.1552,
+      "no_speech_prob": 0.8271,
+      "review": true
+    },
+    {
+      "start": 7565.52,
+      "end": 7567.34,
+      "text": "整个的国家都没啥问题",
+      "avg_logprob": -0.1552,
+      "no_speech_prob": 0.8271,
+      "review": true
+    },
+    {
+      "start": 7567.34,
+      "end": 7569.06,
+      "text": "都能够一样的",
+      "avg_logprob": -0.1552,
+      "no_speech_prob": 0.8271,
+      "review": true
+    },
+    {
+      "start": 7569.06,
+      "end": 7572.05,
+      "text": "对语气的时候呢",
+      "avg_logprob": -0.1552,
+      "no_speech_prob": 0.8271,
+      "review": true
+    },
+    {
+      "start": 7572.05,
+      "end": 7572.99,
+      "text": "就很麻烦",
+      "avg_logprob": -0.1552,
+      "no_speech_prob": 0.8271,
+      "review": true
+    },
+    {
+      "start": 7572.99,
+      "end": 7573.75,
+      "text": "语气的时候",
+      "avg_logprob": -0.1552,
+      "no_speech_prob": 0.8271,
+      "review": true
+    },
+    {
+      "start": 7573.75,
+      "end": 7575.85,
+      "text": "那你就要尽量避开语气",
+      "avg_logprob": -0.1552,
+      "no_speech_prob": 0.8271,
+      "review": true
+    },
+    {
+      "start": 7575.85,
+      "end": 7576.91,
+      "text": "不然那泥巴的话",
+      "avg_logprob": -0.1552,
+      "no_speech_prob": 0.8271,
+      "review": true
+    },
+    {
+      "start": 7576.91,
+      "end": 7578.15,
+      "text": "如果你玩越野",
+      "avg_logprob": -0.1552,
+      "no_speech_prob": 0.8271,
+      "review": true
+    },
+    {
+      "start": 7578.15,
+      "end": 7579.39,
+      "text": "你的车特别特别特别好",
+      "avg_logprob": -0.1552,
+      "no_speech_prob": 0.8271,
+      "review": true
+    },
+    {
+      "start": 7579.39,
+      "end": 7579.89,
+      "text": "那还可以",
+      "avg_logprob": -0.1552,
+      "no_speech_prob": 0.8271,
+      "review": true
+    },
+    {
+      "start": 7579.89,
+      "end": 7581.27,
+      "text": "你的车没有那么好",
+      "avg_logprob": -0.1552,
+      "no_speech_prob": 0.8271,
+      "review": true
+    },
+    {
+      "start": 7581.27,
+      "end": 7582.29,
+      "text": "就要避开语气",
+      "avg_logprob": -0.1552,
+      "no_speech_prob": 0.8271,
+      "review": true
+    },
+    {
+      "start": 7582.29,
+      "end": 7592.24,
+      "text": "对除了巴西都是西班牙语",
+      "avg_logprob": -0.1552,
+      "no_speech_prob": 0.8271,
+      "review": true
+    },
+    {
+      "start": 7592.24,
+      "end": 7596.6,
+      "text": "我是正宗的北二外西班牙语专业的",
+      "avg_logprob": -0.1028,
+      "no_speech_prob": 0.7837,
+      "review": true
+    },
+    {
+      "start": 7596.6,
+      "end": 7598.64,
+      "text": "所以说我还怕什么西班牙语",
+      "avg_logprob": -0.1028,
+      "no_speech_prob": 0.7837,
+      "review": true
+    },
+    {
+      "start": 7598.64,
+      "end": 7601.24,
+      "text": "我是后面又是做到普语高翻",
+      "avg_logprob": -0.1028,
+      "no_speech_prob": 0.7837,
+      "review": true
+    },
+    {
+      "start": 7601.24,
+      "end": 7603.02,
+      "text": "我后面拿到普语的高级翻译证",
+      "avg_logprob": -0.1028,
+      "no_speech_prob": 0.7837,
+      "review": true
+    },
+    {
+      "start": 7603.02,
+      "end": 7605.52,
+      "text": "所以说但是我的老本行是",
+      "avg_logprob": -0.1028,
+      "no_speech_prob": 0.7837,
+      "review": true
+    },
+    {
+      "start": 7605.52,
+      "end": 7608.72,
+      "text": "我老本行可是西班牙语",
+      "avg_logprob": -0.1028,
+      "no_speech_prob": 0.7837,
+      "review": true
+    },
+    {
+      "start": 7608.72,
+      "end": 7615.47,
+      "text": "所以你放心",
+      "avg_logprob": -0.1028,
+      "no_speech_prob": 0.7837,
+      "review": true
+    },
+    {
+      "start": 7615.47,
+      "end": 7618.25,
+      "text": "整个的拉美我是完全不怕的",
+      "avg_logprob": -0.1028,
+      "no_speech_prob": 0.7837,
+      "review": true
+    },
+    {
+      "start": 7618.25,
+      "end": 7621.38,
+      "text": "但是我是毕业了之后",
+      "avg_logprob": -0.1028,
+      "no_speech_prob": 0.7837,
+      "review": true
+    },
+    {
+      "start": 7621.38,
+      "end": 7623.0,
+      "text": "就没有怎么用过西班牙语了",
+      "avg_logprob": -0.1028,
+      "no_speech_prob": 0.7837,
+      "review": true
+    },
+    {
+      "start": 7623.0,
+      "end": 7625.64,
+      "text": "所以说后面我基本上",
+      "avg_logprob": -0.1028,
+      "no_speech_prob": 0.7837,
+      "review": true
+    },
+    {
+      "start": 7625.64,
+      "end": 7627.36,
+      "text": "所以后面好多年了",
+      "avg_logprob": -0.1545,
+      "no_speech_prob": 0.6323,
+      "review": true
+    },
+    {
+      "start": 7627.36,
+      "end": 7628.92,
+      "text": "后面一直都是用了葡萄牙语",
+      "avg_logprob": -0.1545,
+      "no_speech_prob": 0.6323,
+      "review": true
+    },
+    {
+      "start": 7628.92,
+      "end": 7630.44,
+      "text": "后面再研究交易",
+      "avg_logprob": -0.1545,
+      "no_speech_prob": 0.6323,
+      "review": true
+    },
+    {
+      "start": 7630.44,
+      "end": 7631.86,
+      "text": "再去读金融",
+      "avg_logprob": -0.1545,
+      "no_speech_prob": 0.6323,
+      "review": true
+    },
+    {
+      "start": 7631.86,
+      "end": 7633.16,
+      "text": "后面就再没有搞过",
+      "avg_logprob": -0.1545,
+      "no_speech_prob": 0.6323,
+      "review": true
+    },
+    {
+      "start": 7633.16,
+      "end": 7634.0,
+      "text": "那些老本行了",
+      "avg_logprob": -0.1545,
+      "no_speech_prob": 0.6323,
+      "review": true
+    },
+    {
+      "start": 7634.0,
+      "end": 7635.1,
+      "text": "但是你想",
+      "avg_logprob": -0.1545,
+      "no_speech_prob": 0.6323,
+      "review": true
+    },
+    {
+      "start": 7635.1,
+      "end": 7636.18,
+      "text": "学了那么多年",
+      "avg_logprob": -0.1545,
+      "no_speech_prob": 0.6323,
+      "review": true
+    },
+    {
+      "start": 7636.18,
+      "end": 7637.54,
+      "text": "要恢复起来是很容易的",
+      "avg_logprob": -0.1545,
+      "no_speech_prob": 0.6323,
+      "review": true
+    },
+    {
+      "start": 7637.54,
+      "end": 7639.56,
+      "text": "基本上你听懂了",
+      "avg_logprob": -0.1545,
+      "no_speech_prob": 0.6323,
+      "review": true
+    },
+    {
+      "start": 7639.56,
+      "end": 7640.16,
+      "text": "会说话",
+      "avg_logprob": -0.1545,
+      "no_speech_prob": 0.6323,
+      "review": true
+    },
+    {
+      "start": 7640.16,
+      "end": 7641.2,
+      "text": "这是没有任何问题的",
+      "avg_logprob": -0.1545,
+      "no_speech_prob": 0.6323,
+      "review": true
+    },
+    {
+      "start": 7641.2,
+      "end": 7645.36,
+      "text": "所以很多事情是阴错阳差",
+      "avg_logprob": -0.1545,
+      "no_speech_prob": 0.6323,
+      "review": true
+    },
+    {
+      "start": 7645.36,
+      "end": 7646.34,
+      "text": "人生有些时候",
+      "avg_logprob": -0.1545,
+      "no_speech_prob": 0.6323,
+      "review": true
+    },
+    {
+      "start": 7646.34,
+      "end": 7647.6,
+      "text": "就是这样子的",
+      "avg_logprob": -0.1545,
+      "no_speech_prob": 0.6323,
+      "review": true
+    },
+    {
+      "start": 7647.6,
+      "end": 7651.27,
+      "text": "反正我就是整个拉美",
+      "avg_logprob": -0.1545,
+      "no_speech_prob": 0.6323,
+      "review": true
+    },
+    {
+      "start": 7651.27,
+      "end": 7652.07,
+      "text": "整个拉美",
+      "avg_logprob": -0.1545,
+      "no_speech_prob": 0.6323,
+      "review": true
+    },
+    {
+      "start": 7652.07,
+      "end": 7654.47,
+      "text": "但是就是我又要不敢去",
+      "avg_logprob": -0.1545,
+      "no_speech_prob": 0.6323,
+      "review": true
+    },
+    {
+      "start": 7654.47,
+      "end": 7655.87,
+      "text": "我又要还太乱了",
+      "avg_logprob": -0.1545,
+      "no_speech_prob": 0.6323,
+      "review": true
+    },
+    {
+      "start": 7655.87,
+      "end": 7657.15,
+      "text": "我又要特乱了",
+      "avg_logprob": -0.1545,
+      "no_speech_prob": 0.6323,
+      "review": true
+    },
+    {
+      "start": 7657.15,
+      "end": 7658.57,
+      "text": "其他的我觉得没有啥",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.4604,
+      "review": false
+    },
+    {
+      "start": 7658.57,
+      "end": 7659.87,
+      "text": "哥伦比亚现在没那么乱了",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.4604,
+      "review": false
+    },
+    {
+      "start": 7659.87,
+      "end": 7661.49,
+      "text": "因为很有意思",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.4604,
+      "review": false
+    },
+    {
+      "start": 7661.49,
+      "end": 7662.55,
+      "text": "南美都没有网红",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.4604,
+      "review": false
+    },
+    {
+      "start": 7662.55,
+      "end": 7662.97,
+      "text": "是吧",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.4604,
+      "review": false
+    },
+    {
+      "start": 7662.97,
+      "end": 7664.43,
+      "text": "没有一个人专门跑南美",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.4604,
+      "review": false
+    },
+    {
+      "start": 7664.43,
+      "end": 7665.57,
+      "text": "那么我现在就是一个",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.4604,
+      "review": false
+    },
+    {
+      "start": 7665.57,
+      "end": 7667.95,
+      "text": "从今年以后开始",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.4604,
+      "review": false
+    },
+    {
+      "start": 7667.95,
+      "end": 7670.13,
+      "text": "我以后就是立志做拉美的",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.4604,
+      "review": false
+    },
+    {
+      "start": 7670.13,
+      "end": 7671.63,
+      "text": "因为拉美为什么没人做",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.4604,
+      "review": false
+    },
+    {
+      "start": 7671.63,
+      "end": 7672.21,
+      "text": "哎呀",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.4604,
+      "review": false
+    },
+    {
+      "start": 7672.21,
+      "end": 7672.97,
+      "text": "没人关心",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.4604,
+      "review": false
+    },
+    {
+      "start": 7672.97,
+      "end": 7674.37,
+      "text": "你做的视频没人看",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.4604,
+      "review": false
+    },
+    {
+      "start": 7674.37,
+      "end": 7675.59,
+      "text": "大家做的就不想做了",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.4604,
+      "review": false
+    },
+    {
+      "start": 7675.59,
+      "end": 7676.73,
+      "text": "因为视频你花了精力",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.4604,
+      "review": false
+    },
+    {
+      "start": 7676.73,
+      "end": 7677.29,
+      "text": "花了什么呀",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.4604,
+      "review": false
+    },
+    {
+      "start": 7677.29,
+      "end": 7677.55,
+      "text": "是吧",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.4604,
+      "review": false
+    },
+    {
+      "start": 7677.55,
+      "end": 7678.55,
+      "text": "你又没钱赚",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.4604,
+      "review": false
+    },
+    {
+      "start": 7678.55,
+      "end": 7680.19,
+      "text": "那我现在不考虑赚钱",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.4604,
+      "review": false
+    },
+    {
+      "start": 7680.19,
+      "end": 7680.83,
+      "text": "无所谓的",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.4604,
+      "review": false
+    },
+    {
+      "start": 7680.83,
+      "end": 7682.09,
+      "text": "我不考虑赚钱",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.4604,
+      "review": false
+    },
+    {
+      "start": 7682.09,
+      "end": 7682.27,
+      "text": "是吧",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.4604,
+      "review": false
+    },
+    {
+      "start": 7682.27,
+      "end": 7683.25,
+      "text": "我也不靠这个赚钱",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.4604,
+      "review": false
+    },
+    {
+      "start": 7683.25,
+      "end": 7684.27,
+      "text": "所以现在对我来说",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.4604,
+      "review": false
+    },
+    {
+      "start": 7684.27,
+      "end": 7685.11,
+      "text": "是最完美的时候",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.4604,
+      "review": false
+    },
+    {
+      "start": 7685.11,
+      "end": 7686.41,
+      "text": "那我就开始做拉美",
+      "avg_logprob": -0.105,
+      "no_speech_prob": 0.4604,
+      "review": false
+    },
+    {
+      "start": 7686.41,
+      "end": 7687.63,
+      "text": "我就开始做拉美",
+      "avg_logprob": -0.1805,
+      "no_speech_prob": 0.8452,
+      "review": true
+    },
+    {
+      "start": 7687.63,
+      "end": 7690.91,
+      "text": "我不靠这个赚钱",
+      "avg_logprob": -0.1805,
+      "no_speech_prob": 0.8452,
+      "review": true
+    },
+    {
+      "start": 7690.91,
+      "end": 7705.41,
+      "text": "大自然比较无常",
+      "avg_logprob": -0.1805,
+      "no_speech_prob": 0.8452,
+      "review": true
+    },
+    {
+      "start": 7705.41,
+      "end": 7705.69,
+      "text": "对",
+      "avg_logprob": -0.1805,
+      "no_speech_prob": 0.8452,
+      "review": true
+    },
+    {
+      "start": 7705.69,
+      "end": 7705.99,
+      "text": "是的",
+      "avg_logprob": -0.1805,
+      "no_speech_prob": 0.8452,
+      "review": true
+    },
+    {
+      "start": 7705.99,
+      "end": 7707.59,
+      "text": "反正注意一下",
+      "avg_logprob": -0.1805,
+      "no_speech_prob": 0.8452,
+      "review": true
+    },
+    {
+      "start": 7707.59,
+      "end": 7709.43,
+      "text": "注意一下",
+      "avg_logprob": -0.1805,
+      "no_speech_prob": 0.8452,
+      "review": true
+    },
+    {
+      "start": 7709.43,
+      "end": 7711.13,
+      "text": "也没有那么乱",
+      "avg_logprob": -0.1805,
+      "no_speech_prob": 0.8452,
+      "review": true
+    },
+    {
+      "start": 7711.13,
+      "end": 7712.03,
+      "text": "说句真心话",
+      "avg_logprob": -0.1805,
+      "no_speech_prob": 0.8452,
+      "review": true
+    },
+    {
+      "start": 7712.03,
+      "end": 7712.87,
+      "text": "这个世界上",
+      "avg_logprob": -0.1805,
+      "no_speech_prob": 0.8452,
+      "review": true
+    },
+    {
+      "start": 7712.87,
+      "end": 7713.89,
+      "text": "也没有想到",
+      "avg_logprob": -0.1805,
+      "no_speech_prob": 0.8452,
+      "review": true
+    },
+    {
+      "start": 7713.89,
+      "end": 7714.55,
+      "text": "也想那么乱",
+      "avg_logprob": -0.1805,
+      "no_speech_prob": 0.8452,
+      "review": true
+    },
+    {
+      "start": 7714.55,
+      "end": 7718.92,
+      "text": "但是人总是要",
+      "avg_logprob": -0.1805,
+      "no_speech_prob": 0.8452,
+      "review": true
+    },
+    {
+      "start": 7718.92,
+      "end": 7720.0,
+      "text": "只要出去",
+      "avg_logprob": -0.1805,
+      "no_speech_prob": 0.8452,
+      "review": true
+    },
+    {
+      "start": 7720.0,
+      "end": 7720.74,
+      "text": "是吧",
+      "avg_logprob": -0.1805,
+      "no_speech_prob": 0.8452,
+      "review": true
+    },
+    {
+      "start": 7720.74,
+      "end": 7722.04,
+      "text": "我现在都40多岁了",
+      "avg_logprob": -0.1805,
+      "no_speech_prob": 0.8452,
+      "review": true
+    },
+    {
+      "start": 7722.04,
+      "end": 7722.72,
+      "text": "我现在再不出去",
+      "avg_logprob": -0.1805,
+      "no_speech_prob": 0.8452,
+      "review": true
+    },
+    {
+      "start": 7722.72,
+      "end": 7723.48,
+      "text": "以后真出不去了",
+      "avg_logprob": -0.1805,
+      "no_speech_prob": 0.8452,
+      "review": true
+    },
+    {
+      "start": 7723.48,
+      "end": 7724.6,
+      "text": "以后想跑也跑不动了",
+      "avg_logprob": -0.1805,
+      "no_speech_prob": 0.8452,
+      "review": true
+    },
+    {
+      "start": 7724.6,
+      "end": 7726.26,
+      "text": "人的有些时候",
+      "avg_logprob": -0.1805,
+      "no_speech_prob": 0.8452,
+      "review": true
+    },
+    {
+      "start": 7726.26,
+      "end": 7727.06,
+      "text": "就是没有勇气",
+      "avg_logprob": -0.1805,
+      "no_speech_prob": 0.8452,
+      "review": true
+    },
+    {
+      "start": 7727.06,
+      "end": 7728.72,
+      "text": "我爸都70岁了",
+      "avg_logprob": -0.1444,
+      "no_speech_prob": 0.938,
+      "review": true
+    },
+    {
+      "start": 7728.72,
+      "end": 7729.84,
+      "text": "我爸70岁了",
+      "avg_logprob": -0.1444,
+      "no_speech_prob": 0.938,
+      "review": true
+    },
+    {
+      "start": 7729.84,
+      "end": 7732.24,
+      "text": "他想去自家游都没有勇气出去",
+      "avg_logprob": -0.1444,
+      "no_speech_prob": 0.938,
+      "review": true
+    },
+    {
+      "start": 7732.24,
+      "end": 7734.8,
+      "text": "他以后可能更没有勇气了",
+      "avg_logprob": -0.1444,
+      "no_speech_prob": 0.938,
+      "review": true
+    },
+    {
+      "start": 7734.8,
+      "end": 7736.6,
+      "text": "我今年我先自己出去",
+      "avg_logprob": -0.1444,
+      "no_speech_prob": 0.938,
+      "review": true
+    },
+    {
+      "start": 7736.6,
+      "end": 7738.26,
+      "text": "我看着一些比较安全的地方",
+      "avg_logprob": -0.1444,
+      "no_speech_prob": 0.938,
+      "review": true
+    },
+    {
+      "start": 7738.26,
+      "end": 7739.34,
+      "text": "我爸妈明年来了",
+      "avg_logprob": -0.1444,
+      "no_speech_prob": 0.938,
+      "review": true
+    },
+    {
+      "start": 7739.34,
+      "end": 7740.44,
+      "text": "我就带他们一起出去",
+      "avg_logprob": -0.1444,
+      "no_speech_prob": 0.938,
+      "review": true
+    },
+    {
+      "start": 7740.44,
+      "end": 7742.62,
+      "text": "我今年我先自己出去探",
+      "avg_logprob": -0.1444,
+      "no_speech_prob": 0.938,
+      "review": true
+    },
+    {
+      "start": 7742.62,
+      "end": 7744.88,
+      "text": "我爸妈如果他愿意出去的话",
+      "avg_logprob": -0.1444,
+      "no_speech_prob": 0.938,
+      "review": true
+    },
+    {
+      "start": 7744.88,
+      "end": 7745.62,
+      "text": "我们就一起出去",
+      "avg_logprob": -0.1444,
+      "no_speech_prob": 0.938,
+      "review": true
+    },
+    {
+      "start": 7745.62,
+      "end": 7747.72,
+      "text": "所以人有时候",
+      "avg_logprob": -0.1444,
+      "no_speech_prob": 0.938,
+      "review": true
+    },
+    {
+      "start": 7747.72,
+      "end": 7749.8,
+      "text": "你没有勇气出去",
+      "avg_logprob": -0.1444,
+      "no_speech_prob": 0.938,
+      "review": true
+    },
+    {
+      "start": 7749.8,
+      "end": 7750.9,
+      "text": "你后面就更不敢出去了",
+      "avg_logprob": -0.1444,
+      "no_speech_prob": 0.938,
+      "review": true
+    },
+    {
+      "start": 7750.9,
+      "end": 7757.55,
+      "text": "感觉用外语做演讲什么好难",
+      "avg_logprob": -0.1444,
+      "no_speech_prob": 0.938,
+      "review": true
+    },
+    {
+      "start": 7757.55,
+      "end": 7759.13,
+      "text": "你为什么用外语做演讲呢",
+      "avg_logprob": -0.1444,
+      "no_speech_prob": 0.938,
+      "review": true
+    },
+    {
+      "start": 7759.13,
+      "end": 7760.37,
+      "text": "你是工作需要吗",
+      "avg_logprob": -0.1444,
+      "no_speech_prob": 0.938,
+      "review": true
+    },
+    {
+      "start": 7760.37,
+      "end": 7762.11,
+      "text": "你不需要用外语做演讲",
+      "avg_logprob": -0.0935,
+      "no_speech_prob": 0.7148,
+      "review": true
+    },
+    {
+      "start": 7762.11,
+      "end": 7763.49,
+      "text": "外语不就实用吗",
+      "avg_logprob": -0.0935,
+      "no_speech_prob": 0.7148,
+      "review": true
+    },
+    {
+      "start": 7763.49,
+      "end": 7765.89,
+      "text": "你的目的不就是能够和别人沟通吗",
+      "avg_logprob": -0.0935,
+      "no_speech_prob": 0.7148,
+      "review": true
+    },
+    {
+      "start": 7765.89,
+      "end": 7767.99,
+      "text": "你为什么非要达到做演讲的地步呢",
+      "avg_logprob": -0.0935,
+      "no_speech_prob": 0.7148,
+      "review": true
+    },
+    {
+      "start": 7767.99,
+      "end": 7768.31,
+      "text": "是不是",
+      "avg_logprob": -0.0935,
+      "no_speech_prob": 0.7148,
+      "review": true
+    },
+    {
+      "start": 7768.31,
+      "end": 7770.39,
+      "text": "那么如果提高很简单",
+      "avg_logprob": -0.0935,
+      "no_speech_prob": 0.7148,
+      "review": true
+    },
+    {
+      "start": 7770.39,
+      "end": 7771.75,
+      "text": "我告诉你一个外语提高的方法",
+      "avg_logprob": -0.0935,
+      "no_speech_prob": 0.7148,
+      "review": true
+    },
+    {
+      "start": 7771.75,
+      "end": 7775.47,
+      "text": "一定不是说啊读啊",
+      "avg_logprob": -0.0935,
+      "no_speech_prob": 0.7148,
+      "review": true
+    },
+    {
+      "start": 7775.47,
+      "end": 7777.57,
+      "text": "而是一定要从听入手",
+      "avg_logprob": -0.0935,
+      "no_speech_prob": 0.7148,
+      "review": true
+    },
+    {
+      "start": 7777.57,
+      "end": 7779.83,
+      "text": "一定一定要从听入手",
+      "avg_logprob": -0.0935,
+      "no_speech_prob": 0.7148,
+      "review": true
+    },
+    {
+      "start": 7779.83,
+      "end": 7783.15,
+      "text": "就是你至少要把一些材料听到想吐为止",
+      "avg_logprob": -0.0935,
+      "no_speech_prob": 0.7148,
+      "review": true
+    },
+    {
+      "start": 7783.15,
+      "end": 7784.85,
+      "text": "就是你要精读了一些",
+      "avg_logprob": -0.0935,
+      "no_speech_prob": 0.7148,
+      "review": true
+    },
+    {
+      "start": 7784.85,
+      "end": 7786.49,
+      "text": "但是你要听到想吐为止",
+      "avg_logprob": -0.0935,
+      "no_speech_prob": 0.7148,
+      "review": true
+    },
+    {
+      "start": 7786.49,
+      "end": 7787.49,
+      "text": "首先你得感兴趣",
+      "avg_logprob": -0.0935,
+      "no_speech_prob": 0.7148,
+      "review": true
+    },
+    {
+      "start": 7787.49,
+      "end": 7788.95,
+      "text": "所以你先找一个",
+      "avg_logprob": -0.0726,
+      "no_speech_prob": 0.0248,
+      "review": false
+    },
+    {
+      "start": 7788.95,
+      "end": 7790.41,
+      "text": "你觉得你很喜欢的小说",
+      "avg_logprob": -0.0726,
+      "no_speech_prob": 0.0248,
+      "review": false
+    },
+    {
+      "start": 7790.41,
+      "end": 7791.97,
+      "text": "你很喜欢的文字",
+      "avg_logprob": -0.0726,
+      "no_speech_prob": 0.0248,
+      "review": false
+    },
+    {
+      "start": 7791.97,
+      "end": 7793.71,
+      "text": "你很喜欢的一堆内容",
+      "avg_logprob": -0.0726,
+      "no_speech_prob": 0.0248,
+      "review": false
+    },
+    {
+      "start": 7793.71,
+      "end": 7794.57,
+      "text": "内容无所谓",
+      "avg_logprob": -0.0726,
+      "no_speech_prob": 0.0248,
+      "review": false
+    },
+    {
+      "start": 7794.57,
+      "end": 7795.99,
+      "text": "比如说你喜欢量子物理",
+      "avg_logprob": -0.0726,
+      "no_speech_prob": 0.0248,
+      "review": false
+    },
+    {
+      "start": 7795.99,
+      "end": 7796.71,
+      "text": "你听量子物理",
+      "avg_logprob": -0.0726,
+      "no_speech_prob": 0.0248,
+      "review": false
+    },
+    {
+      "start": 7796.71,
+      "end": 7798.99,
+      "text": "你喜欢爱情小说",
+      "avg_logprob": -0.0726,
+      "no_speech_prob": 0.0248,
+      "review": false
+    },
+    {
+      "start": 7798.99,
+      "end": 7799.87,
+      "text": "听爱情小说",
+      "avg_logprob": -0.0726,
+      "no_speech_prob": 0.0248,
+      "review": false
+    }
+  ],
+  "language": "zh",
+  "elapsed_seconds": 43.59
+}
