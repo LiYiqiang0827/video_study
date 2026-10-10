@@ -184,10 +184,23 @@ def build_analysis(video_dir: Path, output_dir: Path, content_path: Path,
                                            selection.get(segment_id), frames_per_segment)
             for frame in media['frames']:
                 frame.update(dual_time(alignment, float(frame['video_seconds'])))
+                # Edited/speed-changed videos may lack a reliable global clock
+                # offset. A reviewed clock visible in this exact frame remains
+                # useful without interpolating other frames or segment times.
+                if frame.get('desktop_clock_verified') is True:
+                    visible_time = frame.get('desktop_time_text')
+                    if not isinstance(visible_time, str) or not frame.get('visual_verified'):
+                        raise ValueError('direct desktop time needs a verified frame and time text')
+                    datetime.strptime(visible_time, '%Y-%m-%d %H:%M')
+                    frame['beijing_time_text'] = visible_time
+                    frame['beijing_range_text'] = visible_time
+                    frame['beijing_time_basis'] = 'direct_visible_desktop_minute'
             media['clip']['vtt_text'] = (output_dir / media['clip']['subtitle_path']).read_text(encoding='utf-8')
             segment.update(media)
             if segment_id in selection:
                 segment['visual_review'] = selection[segment_id].get('notes', [])
+                if selection[segment_id].get('ppt_clip_bounds') is not None:
+                    segment['ppt_clip_bounds'] = copy.deepcopy(selection[segment_id]['ppt_clip_bounds'])
             timeline.append({
                 'entity_id': entity['id'], 'entity_name': entity['name'], 'segment_id': segment_id,
                 'start_seconds': a, 'end_seconds': b, 'summary': segment.get('summary', ''),
@@ -197,7 +210,7 @@ def build_analysis(video_dir: Path, output_dir: Path, content_path: Path,
     entities.sort(key=lambda e: min((s['start_seconds'] for s in e['segments']), default=float('inf')))
     timeline.sort(key=lambda s: (s['start_seconds'], s['end_seconds'], s['entity_id']))
     assembled['timeline'] = timeline
-    if not any(e.get('kind') == 'index' for e in entities):
+    if not any(e.get('kind') in {'index', 'market'} for e in entities):
         assembled['coverage_notes'] = ['本片字幕没有单独形成可引用的指数观点；桌面上的指数行情没有被当作讲者判断。']
     frame_manifest = output_dir / 'clock' / 'frame_manifest.json'
     if frame_manifest.exists():

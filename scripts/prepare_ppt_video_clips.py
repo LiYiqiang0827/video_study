@@ -172,9 +172,11 @@ def prepare(args: argparse.Namespace) -> dict:
             verify_clip(path, clip['end_seconds'] - clip['start_seconds'], options, ffmpeg, ffprobe)
         return saved
     output.mkdir(parents=True, exist_ok=True)
-    clips = []
+    clips, omissions = [], []
     seen = set()
-    for stock in plan['stocks']:
+    if not isinstance(plan.get('stocks'), list) or not isinstance(plan.get('market_items', []), list):
+        raise ValueError('Expected stocks and optional market_items arrays')
+    for stock in [*plan.get('market_items', []), *plan['stocks']]:
         entity = entities[stock['entity_id']]
         for detail in stock['details']:
             frame_path = detail['frame_path']
@@ -185,16 +187,40 @@ def prepare(args: argparse.Namespace) -> dict:
             matching = [(segment, frame) for segment in entity['segments']
                         for frame in segment.get('frames', []) if frame['path'] == frame_path]
             if len(matching) != 1:
-                raise ValueError(f'Screenshot lacks a unique same-stock segment: {frame_path}')
+                raise ValueError(f'Screenshot lacks a unique same-entity segment: {frame_path}')
             segment, frame = matching[0]
             if not frame.get('visual_verified'):
                 raise ValueError(f'Screenshot needs visual identity verification: {frame_path}')
-            if frame.get('visible_stock_name') and frame['visible_stock_name'] != entity['name']:
-                raise ValueError(f'Screenshot displays a different stock: {frame_path}')
+            identity = entity.get('visual_identity', {})
+            display_name = identity.get('display_name') if identity.get('visual_verified') else None
+            visible_name = frame.get('visible_entity_name') or frame.get('visible_stock_name')
+            if visible_name and visible_name not in {entity['name'], display_name}:
+                raise ValueError(f'Screenshot displays a different entity: {frame_path}')
+            if entity.get('kind') in {'index', 'market'} and not frame.get('chart_verified'):
+                raise ValueError(f'Market screenshot needs chart verification: {frame_path}')
             frame_file = local_asset(base, frame_path)
             frame_hash = sha256(frame_file)
             frame_seconds = finite(frame['video_seconds'], 'frame time')
-            start, end, rule = select_window(segment, frame_seconds, cues, args.duration)
+            if type(detail.get('embed_video', True)) is not bool:
+                raise ValueError('embed_video must be a boolean')
+            if detail.get('embed_video', True) is False:
+                reason = detail.get('video_omission_reason')
+                if not isinstance(reason, str) or not reason.strip():
+                    raise ValueError('Screenshot-only detail needs a recorded video omission reason')
+                omissions.append({'entity_id': entity['id'], 'frame_path': frame_path,
+                                  'frame_sha256': frame_hash, 'reason': reason})
+                continue
+            bounds = segment.get('ppt_clip_bounds')
+            window_segment = segment
+            if bounds is not None:
+                if not isinstance(bounds, dict) or bounds.get('visual_verified') is not True or not bounds.get('basis'):
+                    raise ValueError('PPT clip bounds need original-frame visual verification and basis')
+                lower = finite(bounds['start_seconds'], 'reviewed clip start')
+                upper = finite(bounds['end_seconds'], 'reviewed clip end')
+                if not float(segment['start_seconds']) <= lower <= frame_seconds < upper <= float(segment['end_seconds']):
+                    raise ValueError('Reviewed clip bounds must remain inside their segment and contain the frame')
+                window_segment = {**segment, 'start_seconds': lower, 'end_seconds': upper}
+            start, end, rule = select_window(window_segment, frame_seconds, cues, args.duration)
             if end > source_duration + .03:
                 raise ValueError('Registered commentary interval exceeds source duration')
             existing = segment.get('clip')
@@ -214,7 +240,7 @@ def prepare(args: argparse.Namespace) -> dict:
             checkpoint = output / f'{slug}.json'
             specification = {'contract': contract, 'entity_id': entity['id'], 'frame_path': frame_path,
                              'frame_sha256': frame_hash, 'segment_id': segment['id'],
-                             'start_seconds': start, 'end_seconds': end}
+                             'start_seconds': start, 'end_seconds': end, 'reviewed_bounds': bounds}
             saved_clip = None
             if checkpoint.exists():
                 cached = json.loads(checkpoint.read_text(encoding='utf-8'))
@@ -242,7 +268,7 @@ def prepare(args: argparse.Namespace) -> dict:
                 validation['ffprobe']['format']['filename'] = str(target)
                 saved_clip = {'entity_id': entity['id'], 'entity_name': entity['name'],
                               'frame_path': frame_path, 'frame_sha256': frame_hash, 'frame_seconds': frame_seconds,
-                              'segment_id': segment['id'], 'segment_start_seconds': segment['start_seconds'],
+                              'segment_id': segment['id'], 'reviewed_bounds': bounds, 'segment_start_seconds': segment['start_seconds'],
                               'segment_end_seconds': segment['end_seconds'], 'path': target.relative_to(base).as_posix(),
                               'start_seconds': start, 'end_seconds': end,
                               'duration_seconds': float(validation['ffprobe']['format']['duration']),
@@ -254,7 +280,7 @@ def prepare(args: argparse.Namespace) -> dict:
             print(f"{entity['name']}: {start:.2f}–{end:.2f}s, {target.stat().st_size / 1048576:.2f} MiB", flush=True)
     if sha256(analysis_path) != analysis_hash or sha256(plan_path) != plan_hash or sha256(source) != source_hash or sha256(transcript_path) != transcript_hash:
         raise ValueError('An input changed while encoding; final manifest not published')
-    for clip in clips:
+    for clip in [*clips, *omissions]:
         if sha256(local_asset(base, clip['frame_path'])) != clip['frame_sha256']:
             raise ValueError('A screenshot changed while encoding; final manifest not published')
     manifest = {'schema_version': 'yuncong_ppt_media_v1', 'state': 'completed',
@@ -262,7 +288,8 @@ def prepare(args: argparse.Namespace) -> dict:
                 'analysis_path': str(analysis_path), 'analysis_sha256': analysis_hash, 'plan_sha256': plan_hash,
                 'source_video_path': str(source), 'source_video_sha256': source_hash, 'source_ffprobe': source_probe,
                 'ffmpeg_version': run([ffmpeg, '-version']).splitlines()[0],
-                'clips': clips, 'clip_count': len(clips), 'total_bytes': sum(c['bytes'] for c in clips),
+                'clips': clips, 'clip_count': len(clips), 'omissions': omissions,
+                'total_bytes': sum(c['bytes'] for c in clips),
                 'total_duration_seconds': sum(c['duration_seconds'] for c in clips)}
     dump(manifest_path, manifest)
     return manifest

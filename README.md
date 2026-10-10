@@ -2,7 +2,7 @@
 
 云聪视频下载后的纯工具工程：音频提取、Qwen MLX 转写与对齐、自动字幕、Mac mini 结果同步及统一归档。此仓库同时是 `yuncong-video-subtitles` 技能包，入口为 [SKILL.md](SKILL.md)。
 
-已完成字幕的视频还可提炼观点，默认交付可编辑 PPT：先列大盘、主动讲股和网友提问大纲，再逐股配原始画线截图与简要说明。截图嵌入文件，可离线阅读；可选将截图附近的有声短片压缩后一起嵌入，点击画面播放，不增加详情页。同时可保留带双时间的本地解析与视频切片，见 [视频解析工作流](references/video_analysis.md)。
+已完成字幕的视频还可提炼观点，默认交付含原声片段的可编辑 PPT：先列大盘、主动讲股和网友提问大纲，再配指数及个股的原始画线截图与简要说明。截图与压缩短片嵌入文件，不需视频外链。PPT与源视频同名，放在源视频同一目录；中间材料在解析子目录。同时保留带双时间的本地解析与切片，见 [视频解析工作流](references/video_analysis.md)。
 
 代码位于 `/Users/nickzhang/YuncongVideoTools`；媒体与运行资料默认位于 `/Users/nickzhang/YuncongVideoAnalysis`。默认路径可通过 `YUNCONG_DATA_ROOT` 修改。代码库不包含视频、音频、模型、虚拟环境、处理结果、测试脚本或临时脚本。
 
@@ -26,12 +26,13 @@
 | `scripts/export_video_analysis_pptx.mjs` | 从既有分析和精简大纲生成可编辑文字、离线截图的 PPT |
 | `scripts/prepare_ppt_video_clips.py` | 在同票同段内选择截图附近短片，压缩、解码核验并登记媒体清单 |
 | `scripts/embed_ppt_videos.py` | 给已导出的 PPT 截图附加内部视频关系与点击播放时序，不做转写或压缩 |
+| `scripts/build_video_ppt.py` | 从冻结分析与大纲完成压缩、嵌入和验证；默认同视频名同目录，带状态锁与哈希复用 |
 
 其余 Python 文件是以上入口实际调用的字幕、来源、媒体与路径模块，不是独立试验。使用方式见 [workflow](references/workflow.md)，环境与模型见 [runtime](references/runtime.md)。
 
-PPT 入口接受 `--analysis`、`--plan`、`--output`、`--build-dir`，可选 `--media-manifest`。大纲使用 [video_ppt_outline](prompts/video_ppt_outline.md) 的 `yuncong_ppt_plan_v1` 结构，来源为已有 `analysis.json`，按原文区分主动讲股和网友提问；每票一个态度关键词、一句话结论，每个详情配同票截图和 2—4 个短点。条件买入保留“计划”，资金举例保留“假设”；大盘没有独立判断时只写“本片未作独立判断”。运行时通过 `RUNTIME_NODE_MODULES`、`PRESENTATIONS_SKILL_DIR`、`RUNTIME_PYTHON` 指定现成的外置依赖，命令示例见视频解析工作流。
+默认入口 `build_video_ppt.py` 接受 `--analysis`、`--plan`、`--build-dir`，可选 `--output` 覆盖同视频名同目录的默认位置。底层PPT导出器保留原参数。大纲使用 [video_ppt_outline](prompts/video_ppt_outline.md) 的 `yuncong_ppt_plan_v1` 结构，来源为已有 `analysis.json`，股票放 `stocks`，实际指数/大盘K线图解放 `market_items`；按原文区分主动讲股和网友提问；每票一个态度关键词、一句话结论，每个详情配同对象截图和 2—4 个短点。条件买入保留“计划”，资金举例保留“假设”；大盘没有独立判断时只写“本片未作独立判断”。运行时通过 `RUNTIME_NODE`、`RUNTIME_NODE_MODULES`、`PRESENTATIONS_SKILL_DIR`、`RUNTIME_PYTHON` 指定现成的外置依赖，命令示例见视频解析工作流。
 
-短片默认不放大原视频，最高 1280×720、15 fps、H.264 CRF 24、AAC 64 kbps，保留声音和原图范围。每段以截图为中心选取约 32 秒，优先字幕句界；较短讲解保留全段，不跨话题凑长度。媒体清单绑定分析、大纲和每段文件哈希，可续用相同输入；参数变化用新目录。嵌入不等于播放验收：必须在本地演示软件实际点击验证后才称为可播放。本机没有 PowerPoint，Keynote/WPS 的实际试播结果单独记录，不用媒体数量替代播放证明。
+短片默认不放大原视频，最高 1280×720、15 fps、H.264 CRF 28、AAC 64 kbps，保留声音和原图范围。每段以截图为中心选取约 32 秒，优先字幕句界；较短讲解保留全段，不跨话题凑长度。媒体清单绑定分析、大纲和每段文件哈希，可续用相同输入；参数变化用新目录。嵌入不等于播放验收：必须在本地演示软件实际点击验证后才称为可播放。本机没有 PowerPoint，Keynote/WPS 的实际试播结果单独记录，不用媒体数量替代播放证明。
 
 ## 安装技能
 
