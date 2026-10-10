@@ -2,7 +2,7 @@
 
 ## HarryWu 分支：云聪研究、转录与基础设施交接
 
-当前是本地待推送交付；GitHub 对账户 `Stochastius` 返回无写权限。见 [发布状态](harrywu/docs/PUBLISH_STATUS.md)，权限开通后可继续推送。
+已发布至 GitHub 的 `HarryWu` 分支，main 保持原样。见 [发布状态与交付记录](harrywu/docs/PUBLISH_STATUS.md)。
 
 **李老师及 AI 请先读 [Harry 的交接入口](harrywu/README.md)**。2026-10-10 按云盘新版路线图整理：20 场直播的 140 份文本交付、课程/双突破研究与画面证据、ASR 与抽帧实现、看图工具源码及真实样例、天气标签与行情接口说明。运行步骤见 [快速开始](harrywu/docs/QUICKSTART.md)，两套方法的衔接见 [源码对照](harrywu/docs/TEACHER_METHOD_COMPARISON.md)。
 

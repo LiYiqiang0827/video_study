@@ -1,20 +1,15 @@
-# 发布状态：本地交付完成，GitHub 等待写权限
+# 发布状态：HarryWu 分支已推送
 
-2026-10-10（JST）。本地已创建 `HarryWu` 分支，首份完整交接提交为 `952898bd9b16c4d852f8945ee26cb22cc7ee7590`。后续提交仅补充发布状态及校验表。
+2026-10-10（JST）。用户确认仓库权限已处理后，普通推送成功建立远端 `HarryWu`；连接器再次核实当前账户 `Stochastius` 的 `push=true`。首次成功上传的提交是 `90d1b4fe07a4d8d291aacc9cf156d64034d0363b`，后续提交只更新本发布说明、入口状态和对应校验表。
 
-向 `LiYiqiang0827/video_study` 推送时，GitHub 返回 HTTP 403：`Permission ... denied to Stochastius`。连接器随后核实：当前登录 `Stochastius`，仓库权限 `pull=true, push=false`。因此 **远端 HarryWu 尚未由本次任务创建，不能称为已上传 GitHub**。main 未修改。
+- [GitHub 交接入口](https://github.com/LiYiqiang0827/video_study/tree/HarryWu/harrywu)
+- [完整资料云盘快照](https://drive.google.com/drive/folders/1Io2F_wFZZpd_cJwKNIA39_A4L0EPUZU_)
+- [李老师原始方法与源码对照](https://drive.google.com/drive/folders/18YibvrGSf2OGPh0RH4D4YvKEbhMT91hz)
 
-用户同时提供的 SSH 地址也检查过；本机没有已知 GitHub ED25519 主机键，严格主机校验停止。没有更改 SSH 信任、账号凭据或仓库权限。
+云盘ZIP和Git bundle固定在 `90d1b4f`：包含全部本次资料和代码，内部“等待权限”说明是发布前状态，已由本页及云盘交付报告取代。方法档案则固定在上游main `003ff7fed1b03360dda6053c63f4e53dd033d001`，未混入Harry新增内容。
 
-当前需要仓库所有者给 `Stochastius` 开通写权限，并由用户接受待处理邀请（如有）。权限就绪后，在本地交接仓库核对状态并执行：
+源文本140份、1,796份搬运来源、50项独立测试和424日350列天气重算均已核验。详见源清单、`SHA256SUMS.json`、`evidence/migration_20261010/`。新目录日线可独立运行；完整历史看图测试与生产分钟数据依赖仍见QUICKSTART。
 
-```powershell
-git branch --show-current
-git status --short
-git push -u origin HEAD:refs/heads/HarryWu
-git ls-remote --heads origin HarryWu main
-```
+最初推送曾因403权限失败；权限补齐后已解决，没有改变凭据、SSH信任或main。所有提交只在用户指定的HarryWu分支，未创建或合并PR。
 
-期望当前分支为 HarryWu、工作树干净。只做普通推送；如远端分支已有其他更改，先读取并协调，不强推。
-
-资料、来源清单、140份文本校验、50项独立测试及424日天气复算均已完成。完整文件快照与Git提交包将作为云盘交付保存；本地证据目录为 `C:/Project Rocket/outputs/yuncong_github_handoff_20261010/`。后续成功推送时请追加回执并更新本状态。
+本地工作树为 `C:/Project Rocket/worktrees/video-study-harrywu`；最终远端SHA与云盘回读证据保存于 `C:/Project Rocket/outputs/yuncong_github_handoff_20261010/`。后续修改请先读取最新远端，普通推送，不强推。
