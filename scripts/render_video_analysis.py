@@ -14,6 +14,7 @@ import json
 import math
 import os
 from pathlib import Path
+import re
 import sys
 import tempfile
 from urllib.parse import quote, urlsplit
@@ -21,14 +22,13 @@ from urllib.parse import quote, urlsplit
 sys.dont_write_bytecode = True
 from tool_paths import external_path
 
-DISCLAIMER = "本页是视频中讲者观点的整理，未将讲者判断核实为客观事实，也不是 AI 投资建议或自动跟单指令。"
-UNKNOWN_BJ = "未知（缺少可靠录制时刻，不以上传时间推算）"
+UNKNOWN_BJ = "未知"
 RECORDING_KINDS = {"intraday_live": "盘中直播", "postmarket_review": "盘后复盘", "mixed": "混合内容", "unknown": "未明确"}
 ENTITY_KINDS = {"stock": "股票", "index": "指数", "method": "分析方法", "market": "市场与题材", "other": "其他", "unknown": "未明确"}
-ACTION_KINDS = {"actual_action": "已执行动作（讲者叙述）", "conditional_plan": "条件计划，未视为已执行",
-                "historical_review": "历史交易回顾", "unclear": "是否执行未明确",
-                "historical": "历史叙述", "historical_trade": "历史交易叙述", "plan": "计划，非已执行",
-                "current_plan": "当前计划，非已执行", "conditional": "条件计划", "conditional_future": "未来条件计划",
+ACTION_KINDS = {"actual_action": "已操作", "conditional_plan": "计划",
+                "historical_review": "交易回顾", "unclear": "未明确",
+                "historical": "历史叙述", "historical_trade": "交易回顾", "plan": "计划",
+                "current_plan": "当前计划", "conditional": "条件计划", "conditional_future": "未来计划",
                 "pass": "不参与", "educational": "示例说明"}
 
 
@@ -49,15 +49,8 @@ def _session_dates(value):
             date = _string(item.get("date")) or "未明确"
             if date in {"unknown", "unclear"}:
                 date = "未明确"
-            raw = _string(item.get("raw_expression"))
-            basis = _string(item.get("basis"))
-            parts = [date]
-            if raw:
-                parts.append("讲者表述：“" + raw + "”")
-            if basis:
-                parts.append("判断依据：" + _kind_text(basis, {"explicit": "明确日期表述", "inferred": "按上下文推定", "unknown": "未明确"}))
-            result.append("；".join(parts))
-    return " / ".join(result) or "未明确"
+            result.append(date)
+    return " / ".join(dict.fromkeys(result)) or "未明确"
 
 
 def _number(value):
@@ -90,11 +83,9 @@ def _lines(value):
             result = [value["text"]]
             if value.get("classification"):
                 result[0] += "（" + _kind_text(value["classification"], ACTION_KINDS) + "）"
-            if value.get("cue_ids"):
-                result[0] += " [字幕 " + "、".join(map(str, _array(value["cue_ids"]))) + "]"
             return result
         if any(key in value for key in ["summary", "points", "uncertainties"]):
-            return _lines(value.get("summary")) + _lines(value.get("points")) + ["不确定性：" + line for line in _lines(value.get("uncertainties"))]
+            return _lines(value.get("summary")) + _lines(value.get("points"))
         labels = {"start": "开始", "end": "结束", "start_time": "开始时间", "end_time": "结束时间",
                   "estimated_start": "估计开始", "estimated_end": "估计结束", "timezone": "时区",
                   "timezone_assumption": "时区假设", "assumption": "假设", "earliest": "最早", "latest": "最晚",
@@ -124,12 +115,28 @@ def _end(segment):
 
 
 def _video_range(segment):
-    supplied = _string(segment.get("video_range_text"))
-    return supplied or _clock(_start(segment)) + " — " + _clock(_end(segment))
+    if _start(segment) is not None and _end(segment) is not None:
+        return _clock(_start(segment)) + " — " + _clock(_end(segment))
+    return _string(segment.get("video_range_text")) or "未知"
+
+
+def _display_time(value):
+    """Hide clock-audit annotations without changing the underlying mapping."""
+    text = _string(value)
+    text = re.sub(r"[（(][^）)]*(?:时钟映射|误差区间|不确定性|北京时间假设)[^）)]*[）)]", "", text)
+    text = re.sub(r"^约[，,\s]*", "", text)
+    return text.strip() or UNKNOWN_BJ
+
+
+def _recording_kind(analysis):
+    value = _metadata(analysis).get("recording_kind_display")
+    if not value:
+        return _kind_text(analysis.get("recording_kind"), RECORDING_KINDS)
+    return re.sub(r"[（(][^）)]*(?:桌面时钟|时区|北京时间)[^）)]*[）)]", "", str(value)).strip()
 
 
 def _beijing_range(segment):
-    return _string(segment.get("beijing_range_text")) or UNKNOWN_BJ
+    return _display_time(segment.get("beijing_range_text"))
 
 
 def _metadata(analysis):
@@ -308,15 +315,15 @@ def _media_html(segment, output_dir):
                 continue
             src = _asset_url(frame.get("path"), output_dir)
             caption = _string(frame.get("caption")) or "代表画面"
-            time = _string(frame.get("video_time_text")) or _clock(frame.get("video_seconds"))
-            bj = _string(frame.get("beijing_time_text")) or UNKNOWN_BJ
-            state = "画面已核对" if frame.get("visual_verified") is True else "画面信息待核对"
+            time = (_clock(frame.get("video_seconds")) if _number(frame.get("video_seconds")) is not None
+                    else _string(frame.get("video_time_text")) or "未知")
+            bj = _display_time(frame.get("beijing_time_text"))
             result.append("<figure>")
             if src:
                 result.append(f'<button class="image-button" data-preview="{_escape(src)}" data-caption="{_escape(caption)}" aria-label="放大画面"><img src="{_escape(src)}" alt="{_escape(caption)}" loading="lazy"></button>')
             else:
                 result.append('<p class="muted">画面路径不可用或超出本地视频目录</p>')
-            result.append(f'<figcaption>{_escape(caption)}<br>视频：{_escape(time)} · 北京时间：{_escape(bj)}<br><span class="muted">{state}</span></figcaption></figure>')
+            result.append(f'<figcaption>{_escape(caption)}<br>视频：{_escape(time)} · 北京时间：{_escape(bj)}</figcaption></figure>')
         result.append("</div>")
     clip = segment.get("clip")
     if isinstance(clip, dict):
@@ -366,18 +373,17 @@ def render_summary(analysis):
     """A reading summary; exhaustive excerpts and media remain in HTML/JSON."""
     metadata, groups = _metadata(analysis), _entities(analysis)
     text = [_string(metadata.get("title")) or "视频观点整理", "",
-            "录制类型：" + (metadata.get("recording_kind_display") or _kind_text(analysis.get("recording_kind"), RECORDING_KINDS)),
-            "录制北京时间：" + (_string(metadata.get("recording_time")) or UNKNOWN_BJ),
-            "上传北京时间：" + (_string(metadata.get("upload_time_beijing")) or "未知") + "（不作为录制时间）",
+            "录制类型：" + _recording_kind(analysis),
+            "录制北京时间：" + _display_time(metadata.get("recording_time")),
+            "上传北京时间：" + (_string(metadata.get("upload_time_beijing")) or "未知"),
             "讨论日期：" + _session_dates(analysis.get("discussed_session_dates"))]
     context = analysis.get("visual_context", {})
     if context.get("latest_visible_trade_date"):
-        text.append("画面最近交易日：" + str(context['latest_visible_trade_date']) + "（与录制日分开）")
-    text.extend(_lines(analysis.get("coverage_notes")))
+        text.append("画面最近交易日：" + str(context['latest_visible_trade_date']))
     text += ["", "整体观点："] + _lines(analysis.get("overview", {}).get("summary"))
     for point in _array(analysis.get("overview", {}).get("points")):
         text.append("- " + (_string(point.get("text")) if isinstance(point, dict) else str(point)))
-    text += ["", "讨论时间线（重复提及分别保留；比较段可能重叠）："]
+    text += ["", "讨论时间线："]
     for row in _timeline(analysis, groups):
         text.append(f'{row["name"]} | 视频 {_video_range(row)} | 北京时间 {_beijing_range(row)}')
     fields = [("buy_conditions", "买入/再参与条件"), ("sell_conditions", "退出/目标条件"),
@@ -393,13 +399,6 @@ def render_summary(analysis):
                 if statements:
                     text.append(label + "：")
                     text.extend("- " + statement for statement in statements)
-    text += ["", "来源与不确定性："] + _lines(analysis.get('warnings'))
-    uncertain = _lines(analysis.get('overview', {}).get('uncertainties'))
-    for group in groups:
-        for segment in group['segments']:
-            uncertain.extend(_lines(segment.get('uncertainties')))
-    text.extend("- " + item for item in dict.fromkeys(uncertain))
-    text.append("关键截图、视频片段、完整原文引述及逐项出处见同目录 index.html 与 analysis.json。")
     return "\n".join(map(str, text)) + "\n"
 
 
@@ -410,21 +409,19 @@ def render_html(analysis, output_dir):
     title = _string(metadata.get("title")) or "视频观点整理"
     duration = _number(metadata.get("duration_seconds", metadata.get("duration"))) or None
     scale = duration or max((_end(row) or 0 for row in timeline), default=1) or 1
-    alignment = analysis.get("alignment", {})
-    alignment_note = (_string(alignment.get("display_summary")) or "时间映射未知") if isinstance(alignment, dict) else "时间映射未知"
     result = ["<!doctype html><html lang=\"zh-CN\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\">",
               "<title>" + _escape(title) + " · 讲者观点整理</title><style>" + _CSS + "</style></head><body>",
               '<header><div class="eyebrow">云聪视频解析 · 本地离线</div><h1>' + _escape(title) + "</h1>",
-              '<p class="notice">' + DISCLAIMER + "</p><div class=\"metadata\"><span>时长：" + _escape(_clock(duration)) + "</span><span>录制类型：" + _escape(metadata.get("recording_kind_display") or _kind_text(analysis.get("recording_kind"), RECORDING_KINDS)) + "</span><span>讨论日期：" + _escape(_session_dates(analysis.get("discussed_session_dates"))) + "</span></div>",
-              '<p class="small">录制时间范围（含假设 / 不确定性）：' + _escape("；".join(_lines(metadata.get("recording_time"))) or "未知") + '</p><p class="small">时间映射：' + _escape(alignment_note) + '</p>' + _clock_frames_html(analysis, output_dir) + '<p><a href="summary.txt">打开纯文本全文</a></p></header>',
+              '<div class="metadata"><span>时长：' + _escape(_clock(duration)) + "</span><span>录制类型：" + _escape(_recording_kind(analysis)) + "</span><span>讨论日期：" + _escape(_session_dates(analysis.get("discussed_session_dates"))) + "</span></div>",
+              '<p class="small">录制北京时间：' + _escape(_display_time(metadata.get("recording_time"))) + '</p><p><a href="summary.txt">打开纯文本摘要</a></p></header>',
               '<div class="layout"><aside><h2>实体 / 股票目录</h2><input id="entity-search" type="search" placeholder="检索名称" aria-label="检索实体目录"><nav>']
     context = analysis.get("visual_context", {})
     if context.get("latest_visible_trade_date"):
         result[-2] = (result[-2].removesuffix('</header>') + '<p class="small">画面中最近可见交易日：' +
-                      _escape(context['latest_visible_trade_date']) + '（与录制日分开记录）</p></header>')
+                      _escape(context['latest_visible_trade_date']) + '</p></header>')
     if metadata.get('upload_time_beijing'):
         result[-2] = (result[-2].removesuffix('</header>') + '<p class="small">上传北京时间：' +
-                      _escape(metadata['upload_time_beijing']) + '（不作为录制时间）</p></header>')
+                      _escape(metadata['upload_time_beijing']) + '</p></header>')
     for group in groups:
         result.append(f'<div class="index-item" data-name="{_escape(group["name"].casefold())}"><a href="#{group["anchor"]}">{_escape(group["name"])}</a><span class="tag">{_escape(_kind_text(group["kind"], ENTITY_KINDS))}</span>')
         reasons = _pass_reasons(group)
@@ -436,10 +433,8 @@ def render_html(analysis, output_dir):
         result.append(f'<video id="source-video" controls playsinline preload="metadata" src="{_escape(source)}">浏览器不支持视频播放。</video><p class="small"><a href="{_escape(source)}">单独打开源视频</a> · 片段的“从这里播放”会定位此播放器。</p>')
     else:
         result.append('<p class="muted">源视频文件名未知；未创建猜测链接。</p>')
-    result += ['</section><section class="panel"><h2>总览 · 讲者观点</h2>', _list_html(analysis.get("overview")),
-               _list_html(analysis.get("coverage_notes"), "") if analysis.get("coverage_notes") else '',
-               '<h3>注意与不确定性</h3>', _list_html(analysis.get("warnings"), "未额外列明；不代表内容已被证实。"), '</section><section class="panel"><h2>完整视频时间线</h2>']
-    result.append('<p class="small">时间线按视频时间排序。每段同时保留北京时间；无法可靠映射时明确显示未知。' + ("时长未知，比例以片段最晚结束时间为基准。" if duration is None else "") + "</p>")
+    result += ['</section><section class="panel"><h2>总览 · 云聪观点</h2>', _list_html(analysis.get("overview")),
+               '</section><section class="panel"><h2>视频时间线</h2>']
     result.append(f'<div class="axis"><span>00:00:00</span><span>{_escape(_clock(scale))}</span></div>')
     for row in timeline:
         begin, end = _start(row), _end(row)
@@ -449,7 +444,7 @@ def render_html(analysis, output_dir):
         result.append(f'<article class="timeline-row"><a href="#{row["anchor"]}">{_escape(row["name"])}</a><div class="time-pair">视频：{_escape(_video_range(row))}<br>北京时间：{_escape(_beijing_range(row))}</div><div class="timeline-track"><a class="timeline-bar" href="#{row["anchor"]}" style="left:{left:.4f}%;width:{width:.4f}%" aria-label="查看片段"></a></div><p>{_escape("；".join(_lines(row.get("summary"))))}</p></article>')
     result.append("</section>")
     labels = [("views", "讲者观点"), ("buy_conditions", "讲者买入条件"), ("sell_conditions", "讲者卖出条件"),
-              ("actions", "讲者动作与计划"), ("pass_reason", "讲者跳过原因"), ("visual_focus", "需要查看的图表信息"), ("uncertainties", "不确定性")]
+              ("actions", "讲者动作与计划"), ("pass_reason", "讲者跳过原因")]
     for group in groups:
         result.append(f'<section class="entity panel" id="{group["anchor"]}"><div class="section-heading"><h2>{_escape(group["name"])}</h2><span class="tag">{_escape(_kind_text(group["kind"], ENTITY_KINDS))}</span><a href="#entity-search">回到目录</a></div><h3>综合表述 · 讲者观点</h3>{_list_html(group["views"])}')
         for index, segment in enumerate(group["segments"], 1):
@@ -467,7 +462,7 @@ def render_html(analysis, output_dir):
             quotes = _segment_quotes(segment)
             for item in quotes if isinstance(quotes, list) else []:
                 if isinstance(item, dict):
-                    result.append(f'<blockquote><span class="small">字幕 {_escape(item.get("cue_id", "未知"))}</span><p>{_escape(_string(item.get("text"))).replace(chr(10), "<br>")}</p></blockquote>')
+                    result.append(f'<blockquote><p>{_escape(_string(item.get("text"))).replace(chr(10), "<br>")}</p></blockquote>')
             if not quotes:
                 result.append('<p class="muted">未提供来源引述；不能据此补写讲者原话。</p>')
             result.append("</details>" + _media_html(segment, output_dir) + "</article>")
