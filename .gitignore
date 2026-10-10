@@ -6,6 +6,7 @@
 !requirements*.txt
 !scripts/
 !scripts/*.py
+!scripts/export_video_analysis_pptx.mjs
 !agents/
 !agents/*.yaml
 !references/

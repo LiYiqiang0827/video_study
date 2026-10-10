@@ -2,7 +2,7 @@
 
 云聪视频下载后的纯工具工程：音频提取、Qwen MLX 转写与对齐、自动字幕、Mac mini 结果同步及统一归档。此仓库同时是 `yuncong-video-subtitles` 技能包，入口为 [SKILL.md](SKILL.md)。
 
-已完成字幕的视频还可生成带北京时间的观点解析、原始画线截图与视频切片，见 [视频解析工作流](references/video_analysis.md)。
+已完成字幕的视频还可提炼观点，默认交付可编辑 PPT：先列大盘、主动讲股和网友提问大纲，再逐股配原始画线截图与简要说明。截图嵌入文件，可离线阅读；同时可保留带双时间的本地解析与视频切片，见 [视频解析工作流](references/video_analysis.md)。
 
 代码位于 `/Users/nickzhang/YuncongVideoTools`；媒体与运行资料默认位于 `/Users/nickzhang/YuncongVideoAnalysis`。默认路径可通过 `YUNCONG_DATA_ROOT` 修改。代码库不包含视频、音频、模型、虚拟环境、处理结果、测试脚本或临时脚本。
 
@@ -23,8 +23,11 @@
 | `scripts/build_video_analysis.py` | 组装双时间、截图与切片，再生成解析产物 |
 | `scripts/render_video_analysis.py` | 从既有分析生成离线 HTML 与纯文本摘要 |
 | `scripts/serve_video_analysis.py` | 本地预览解析页面，支持源视频跳转和拖动 |
+| `scripts/export_video_analysis_pptx.mjs` | 从既有分析和精简大纲生成可编辑文字、离线截图的 PPT |
 
 其余 Python 文件是以上入口实际调用的字幕、来源、媒体与路径模块，不是独立试验。使用方式见 [workflow](references/workflow.md)，环境与模型见 [runtime](references/runtime.md)。
+
+PPT 入口接受 `--analysis`、`--plan`、`--output`、`--build-dir`。大纲使用 [video_ppt_outline](prompts/video_ppt_outline.md) 的 `yuncong_ppt_plan_v1` 结构，来源为已有 `analysis.json`，按原文区分主动讲股和网友提问；每票一个态度关键词、一句话结论，每个详情配同票截图和 2—4 个短点。条件买入保留“计划”，资金举例保留“假设”；大盘没有独立判断时只写“本片未作独立判断”。运行时通过 `RUNTIME_NODE_MODULES`、`PRESENTATIONS_SKILL_DIR`、`RUNTIME_PYTHON` 指定现成的外置依赖，命令示例见视频解析工作流。
 
 ## 安装技能
 
@@ -38,7 +41,7 @@ ln -s /Users/nickzhang/YuncongVideoTools /Users/nickzhang/.codex/skills/yuncong-
 
 ## 代码与数据隔离
 
-所有 CLI 输出目录位于工程外；模型缓存和推理临时文件使用外置 runtime。`.gitignore` 仅开放正式 Python、依赖声明、技能元数据与 Markdown 文档。现有 `YuncongVideoAnalysis/asr_tools` 的历史试验和闭合产物仍保留，未迁入本工程。
+所有 CLI 输出目录位于工程外；模型缓存、PPT 构建预览和推理临时文件使用外置 runtime。`.gitignore` 仅开放正式 Python/Node 入口、依赖声明、技能元数据与 Markdown 文档。现有 `YuncongVideoAnalysis/asr_tools` 的历史试验和闭合产物仍保留，未迁入本工程。
 
 仅本地 Git 管理不等同于已上传远端。分享此工程时，不附带登录状态、下载凭据或媒体资料。
 
