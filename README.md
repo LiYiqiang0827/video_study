@@ -1,15 +1,28 @@
-# YuncongVideoTools
+# 云聪股票交易分析 · video_study
 
 云聪视频下载后的纯工具工程：音频提取、Qwen MLX 转写与对齐、自动字幕、Mac mini 结果同步及统一归档。此仓库同时是 `yuncong-video-subtitles` 技能包，入口为 [SKILL.md](SKILL.md)。
 
 已完成字幕的视频还可提炼观点，默认交付含原声片段的可编辑 PPT：先列大盘、主动讲股和网友提问大纲，再配指数及个股的原始画线截图与简要说明。截图与压缩短片嵌入文件，不需视频外链。PPT与源视频同名，放在源视频同一目录；中间材料在解析子目录。同时保留带双时间的本地解析与切片，见 [视频解析工作流](references/video_analysis.md)。
 
-代码位于 `/Users/nickzhang/YuncongVideoTools`；媒体与运行资料默认位于 `/Users/nickzhang/YuncongVideoAnalysis`。默认路径可通过 `YUNCONG_DATA_ROOT` 修改。代码库不包含视频、音频、模型、虚拟环境、处理结果、测试脚本或临时脚本。
+GitHub 仓库：[LiYiqiang0827/video_study](https://github.com/LiYiqiang0827/video_study)。本机代码位于 `/Users/nickzhang/Documents/ChatGPT/云聪股票交易分析`；媒体与运行资料位于 `/Users/nickzhang/YuncongVideoAnalysis`。其他用户的默认资料目录为其主目录下的 `YuncongVideoAnalysis`，可通过 `YUNCONG_DATA_ROOT` 修改。代码库不包含视频、音频、模型、虚拟环境、处理结果、测试脚本或临时脚本。
+
+## 开始使用
+
+已有本机工程可直接运行下面的检查。另一台机器先克隆本仓库，并将 `TOOLS` 改为实际克隆目录；模型、算力和资料目录按 [运行环境](references/runtime.md) 配置。
+
+```sh
+TOOLS='/Users/nickzhang/Documents/ChatGPT/云聪股票交易分析'
+export YUNCONG_DATA_ROOT='/Users/nickzhang/YuncongVideoAnalysis'
+python3 "$TOOLS/scripts/check_environment.py" --mode basic
+```
+
+基础检查验证 Python、FFmpeg/FFprobe 和资料路径；`--mode asr` 检查指定解释器与本地模型存在性，`--mode ppt` 检查外置 PPT 运行依赖。检查不加载模型、不访问网络、不产生媒体。环境通过后选择 [音频与字幕工作流](references/workflow.md) 或 [单视频观点PPT工作流](references/video_analysis.md)。已有字幕直接用于观点提炼，已有冻结分析和大纲直接用于 PPT 构建。
 
 ## 正式入口
 
 | 脚本 | 用途 |
 | --- | --- |
+| `scripts/check_environment.py` | 只读检查基础、ASR或PPT依赖，迁移后核对路径 |
 | `scripts/build_manifest.py` | 从完成下载的结果构建经 SHA 核验的批次清单 |
 | `scripts/extract_audio.py` | 原音轨 M4A 与识别用 WAV 提取 |
 | `scripts/asr_engine.py` | Qwen ASR、连续分块与 ForcedAligner |
@@ -39,16 +52,20 @@
 本机只维护这一份正式代码，技能目录指向此工程：
 
 ```sh
-ln -s /Users/nickzhang/YuncongVideoTools /Users/nickzhang/.codex/skills/yuncong-video-subtitles
+ln -s '/Users/nickzhang/Documents/ChatGPT/云聪股票交易分析' /Users/nickzhang/.codex/skills/yuncong-video-subtitles
 ```
 
-若目标已存在，先检查它，不覆盖已有技能。整个工程包含 `SKILL.md`、`agents/`、`references/` 与 `scripts/`，可连同 Git 历史复制到另一台机器；技能名称使用 `yuncong-video-subtitles`。
+若目标已存在，先检查它，不覆盖已有技能。本机技能链接已随项目迁移更新；旧代码路径 `/Users/nickzhang/YuncongVideoTools` 保留为新工程的兼容链接，用于仍引用旧路径的已有任务。整个工程包含 `SKILL.md`、`agents/`、`references/` 与 `scripts/`，可连同 Git 历史复制到另一台机器；技能名称使用 `yuncong-video-subtitles`。在其他机器上用实际主目录与克隆位置创建技能链接。
 
 ## 代码与数据隔离
 
 所有 CLI 输出目录位于工程外；模型缓存、PPT 构建预览和推理临时文件使用外置 runtime。`.gitignore` 仅开放正式 Python/Node 入口、依赖声明、技能元数据与 Markdown 文档。现有 `YuncongVideoAnalysis/asr_tools` 的历史试验和闭合产物仍保留，未迁入本工程。
 
-仅本地 Git 管理不等同于已上传远端。分享此工程时，不附带登录状态、下载凭据或媒体资料。
+远端为本 README 顶部链接的 `video_study` 仓库。分享此工程时，不附带登录状态、下载凭据或媒体资料。
+
+## 当前工具覆盖
+
+音频、字幕、录制时钟、观点分析与带原声片段的 PPT 入口已包含在仓库中。视频下载由独立的 `yuncong-member-video-download` 技能负责。观点提炼支持 Qwen vLLM 和 Hermes MiniMax，PPT 构建本身不调用大模型；Hermes/Qwen 从原字幕自动做到整份 PPT 的试跑仍需按单项结果验收，不将这套工具的存在视为全库自动分析已通过。PPT 依赖外置 Codex Artifact Tool 与演示文稿辅助工具，`requirements-presentation.txt` 只提供 Python 视频嵌入适配依赖，不能单独安装完整 PPT 运行环境。
 
 ## 整理验证
 

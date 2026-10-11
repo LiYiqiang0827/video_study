@@ -52,7 +52,7 @@ MP4 直接存入 PPT 包内，移动 PPT 不需要旁边附带视频文件。先
 以下变量必须换成实际路径。工程不保存任何输入、输出、模型或凭据。
 
 ```sh
-TOOLS=/Users/nickzhang/YuncongVideoTools
+TOOLS='/Users/nickzhang/Documents/ChatGPT/云聪股票交易分析'
 VIDEO_DIR='/用户指定的数据目录/日期_时间_视频标题'
 STEM="$(basename "$VIDEO_DIR")"
 OUT="$VIDEO_DIR/解析"

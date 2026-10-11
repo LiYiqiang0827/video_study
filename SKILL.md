@@ -5,10 +5,11 @@ description: 将已下载的云聪中文财经视频提取为音频，使用本�
 
 # 云聪视频音频、字幕与观点PPT工具
 
-正式代码集中在本技能根目录的 `scripts/`。本机工程为 `/Users/nickzhang/YuncongVideoTools`；默认数据根为 `/Users/nickzhang/YuncongVideoAnalysis`，可用 `YUNCONG_DATA_ROOT` 改变。工程由 Git 管理，仅保留生产代码、依赖声明和使用文档。运行环境、模型、缓存、视频、音频、日志及转写结果都在工程外；脚本会拒绝把输出写入代码工程。
+正式代码集中在本技能根目录的 `scripts/`。本机工程为 `/Users/nickzhang/Documents/ChatGPT/云聪股票交易分析`，GitHub 仓库为 `LiYiqiang0827/video_study`；默认数据根为当前用户主目录的 `YuncongVideoAnalysis`，本机即 `/Users/nickzhang/YuncongVideoAnalysis`，可用 `YUNCONG_DATA_ROOT` 改变。工程由 Git 管理，仅保留生产代码、依赖声明和使用文档。运行环境、模型、缓存、视频、音频、日志及转写结果都在工程外；脚本会拒绝把输出写入代码工程。迁移与安装入口见 [README.md](README.md)。
 
 ## 选择入口
 
+- 新机器、迁移后或依赖报错：先用 `scripts/check_environment.py --mode basic`；需要本机 ASR 或 PPT 时分别用 `--mode asr` 或 `--mode ppt`。检查仅报告依赖，不安装、不下载、不调用模型；参数与外置运行环境见 [references/runtime.md](references/runtime.md)。含中文或空格的工程路径在命令中必须加引号。
 - 完整的下载后批处理：阅读 [references/workflow.md](references/workflow.md)，先从已完成下载的 `result.json` 建清单，再运行 `batch_asr.py`、`export_subtitles.py`、`organize_video_collection.py`。
 - 仅提取音频：`scripts/extract_audio.py --video 本地视频 --output-dir 工程外新目录`。
 - 已有完整 Qwen 原始结果，只重建字幕：`scripts/export_subtitles.py --run-dir 原始RUN --output-dir 工程外新目录 --video-id 视频ID`。这一步不调用模型。

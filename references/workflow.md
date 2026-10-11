@@ -2,12 +2,19 @@
 
 所有示例均在本机或 Mac mini 执行。数据目录可通过 `YUNCONG_DATA_ROOT` 修改；先确认实际机器的路径与已有环境。示例中的 `new_batch` 是新任务目录，不能直接对已完成的老批次重新建池。
 
+在同一终端先设置代码目录；在 Mac mini 或其他机器改为实际 Git 克隆路径。路径有中文或空格时必须保留引号。
+
+```sh
+TOOLS='/Users/nickzhang/Documents/ChatGPT/云聪股票交易分析'
+python3 "$TOOLS/scripts/check_environment.py" --mode basic
+```
+
 ## 一、从完整下载建立清单
 
 用单个结果或用户指定的本地下载目录，读取完成状态、实际上传时刻、时长、字节数和 SHA。不联网发现其他视频。
 
 ```sh
-python3 /Users/nickzhang/YuncongVideoTools/scripts/build_manifest.py \
+python3 "$TOOLS/scripts/build_manifest.py" \
   --download-root /Users/nickzhang/YuncongVideoAnalysis/batches/新下载批次/items \
   --output /Users/nickzhang/YuncongVideoAnalysis/asr_batches/new_batch/input_manifest.json
 ```
@@ -17,7 +24,7 @@ python3 /Users/nickzhang/YuncongVideoTools/scripts/build_manifest.py \
 ## 二、批量音频提取、转写与对齐
 
 ```sh
-python3 /Users/nickzhang/YuncongVideoTools/scripts/batch_asr.py \
+python3 "$TOOLS/scripts/batch_asr.py" \
   --manifest /Users/nickzhang/YuncongVideoAnalysis/asr_batches/new_batch/input_manifest.json \
   --job-root /Users/nickzhang/YuncongVideoAnalysis/asr_batches/new_batch/job \
   --python /Users/nickzhang/YuncongVideoAnalysis/runtime/asr/venv/bin/python \
@@ -33,7 +40,7 @@ python3 /Users/nickzhang/YuncongVideoTools/scripts/batch_asr.py \
 任务完成后在计算机本地运行，或先镜像到本机再运行。为旧原始结果重建时使用新的导出目录：
 
 ```sh
-python3 /Users/nickzhang/YuncongVideoTools/scripts/export_subtitles.py \
+python3 "$TOOLS/scripts/export_subtitles.py" \
   --job-root /Users/nickzhang/YuncongVideoAnalysis/asr_batches/new_batch/job \
   --output-root /Users/nickzhang/YuncongVideoAnalysis/asr_batches/new_batch/subtitle_exports \
   --once
@@ -44,7 +51,7 @@ python3 /Users/nickzhang/YuncongVideoTools/scripts/export_subtitles.py \
 单个已有 RUN：
 
 ```sh
-python3 /Users/nickzhang/YuncongVideoTools/scripts/export_subtitles.py \
+python3 "$TOOLS/scripts/export_subtitles.py" \
   --run-dir /Users/nickzhang/YuncongVideoAnalysis/asr_results/完整原始RUN \
   --output-dir /Users/nickzhang/YuncongVideoAnalysis/asr_results/新的字幕目录 \
   --video-id R76cFJaOYoo
@@ -55,7 +62,7 @@ python3 /Users/nickzhang/YuncongVideoTools/scripts/export_subtitles.py \
 ## 四、统一七文件目录
 
 ```sh
-python3 /Users/nickzhang/YuncongVideoTools/scripts/organize_video_collection.py \
+python3 "$TOOLS/scripts/organize_video_collection.py" \
   --job-root /Users/nickzhang/YuncongVideoAnalysis/asr_batches/new_batch/job \
   --export-status /Users/nickzhang/YuncongVideoAnalysis/asr_batches/new_batch/subtitle_exports/SUBTITLE_AUTO_STATUS.json \
   --output-root /Users/nickzhang/YuncongVideoAnalysis/云聪视频全集_新批次
@@ -68,7 +75,7 @@ python3 /Users/nickzhang/YuncongVideoTools/scripts/organize_video_collection.py 
 仅归档单视频时，`--job-root` 可指定新的工程外报告目录，不必构造批次状态；在没有批次快照时，工具仅处理明确传入的附加列表，报告目录保存 `COLLECTION_LAYOUT.json`：
 
 ```sh
-python3 /Users/nickzhang/YuncongVideoTools/scripts/organize_video_collection.py \
+python3 "$TOOLS/scripts/organize_video_collection.py" \
   --job-root /Users/nickzhang/YuncongVideoAnalysis/asr_reviews/单视频归档报告 \
   --extra-items-json /Users/nickzhang/YuncongVideoAnalysis/asr_results/单视频归档清单.json \
   --output-root /Users/nickzhang/YuncongVideoAnalysis/云聪视频全集_单视频
@@ -79,7 +86,7 @@ python3 /Users/nickzhang/YuncongVideoTools/scripts/organize_video_collection.py 
 同步代码工程可使用普通代码复制或 Git 克隆；模型、源视频和 runtime 另行复用或配置。已有 SSH 别名 `macmini` 时：
 
 ```sh
-python3 /Users/nickzhang/YuncongVideoTools/scripts/sync_asr_batch.py \
+python3 "$TOOLS/scripts/sync_asr_batch.py" \
   --host macmini \
   --remote-root /Users/nickzhang/YuncongVideoAnalysis/asr_batches/new_batch/job \
   --job-root /Users/nickzhang/YuncongVideoAnalysis/asr_batches/new_batch/mirror \
