@@ -65,6 +65,8 @@ ln -s '/Users/nickzhang/Documents/ChatGPT/云聪股票交易分析' /Users/nickz
 
 ## 当前工具覆盖
 
+本机的 `member_video_download/` 子目录保存会员视频下载的正式代码与技能，拥有独立的本地 Git 历史，没有远端，并安装阻止推送的本地钩子。父仓库明确忽略整个子目录，不建立子模块，因此 GitHub 上的 `video_study` 仅包含音频、字幕与视频解析工具。下载代码、Cookie和媒体不随父仓库上传；Cookie、环境和下载结果继续留在外置资料目录。
+
 音频、字幕、录制时钟、观点分析与带原声片段的 PPT 入口已包含在仓库中。视频下载由独立的 `yuncong-member-video-download` 技能负责。观点提炼支持 Qwen vLLM 和 Hermes MiniMax，PPT 构建本身不调用大模型；Hermes/Qwen 从原字幕自动做到整份 PPT 的试跑仍需按单项结果验收，不将这套工具的存在视为全库自动分析已通过。PPT 依赖外置 Codex Artifact Tool 与演示文稿辅助工具，`requirements-presentation.txt` 只提供 Python 视频嵌入适配依赖，不能单独安装完整 PPT 运行环境。
 
 ## 整理验证

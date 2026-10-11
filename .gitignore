@@ -16,3 +16,6 @@
 **/__pycache__/
 **/*.pyc
 **/.DS_Store
+
+# Private downloader: independent local Git only, never a submodule.
+/member_video_download/
