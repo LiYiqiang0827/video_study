@@ -12,26 +12,21 @@ REMOTE_TOOLS='/Users/nickzhang/YuncongVideoAnalysis/runtime/video_study/audio_su
 rsync -a --exclude '__pycache__/' --exclude '*.pyc' "$PROJECT/audio_subtitles/" "macmini:$REMOTE_TOOLS/"
 ```
 
-把明确授权的MP4也同步到Mini本地资料目录后，在Mini SSH任务中构建清单并启动处理：
+把明确授权的MP4也同步到Mini本地资料目录后，用已完整验收且位于Mini的 `result.json` 建单项清单。确保清单引用的是Mini本地视频绝对路径。下面的 SSH 命令在Mini运行清单构建、音频提取、模型推理、对齐和字幕导出：
 
 ```sh
-ssh -T macmini
-```
+ssh macmini 'bash -s' <<'REMOTE'
+TOOLS=/Users/nickzhang/YuncongVideoAnalysis/runtime/video_study/audio_subtitles
+PYTHON=/Users/nickzhang/YuncongVideoAnalysis/asr_tools/venv/bin/python
+ROOT=/Users/nickzhang/YuncongVideoAnalysis/asr_batches/new_batch
+RESULT=/Users/nickzhang/YuncongVideoAnalysis/batches/本批次/items/视频ID/result.json
 
-进入Mac mini终端后，用已完整验收的 `result.json` 建单项清单。确保清单里的源视频路径也是Mini本地的实际路径：
-
-```sh
-TOOLS='/Users/nickzhang/YuncongVideoAnalysis/runtime/video_study/audio_subtitles'
-PYTHON='/Users/nickzhang/YuncongVideoAnalysis/asr_tools/venv/bin/python'
-RESULT='/Users/nickzhang/YuncongVideoAnalysis/batches/本批次/items/视频ID/result.json'
-python3 "$TOOLS/scripts/build_manifest.py" --result "$RESULT" \\
-  --output /Users/nickzhang/YuncongVideoAnalysis/asr_batches/新批次/input_manifest.json
-python3 "$TOOLS/scripts/batch_asr.py" \\
-  --manifest /Users/nickzhang/YuncongVideoAnalysis/asr_batches/新批次/input_manifest.json \\
-  --job-root /Users/nickzhang/YuncongVideoAnalysis/asr_batches/新批次/job \\
-  --python "$PYTHON" \\
-  --models-dir /Users/nickzhang/YuncongVideoAnalysis/asr_tools/models \\
+python3 "$TOOLS/scripts/build_manifest.py" --result "$RESULT" --output "$ROOT/input_manifest.json"
+"$PYTHON" -B "$TOOLS/scripts/batch_asr.py" \\
+  --manifest "$ROOT/input_manifest.json" --job-root "$ROOT/job" \\
+  --python "$PYTHON" --models-dir /Users/nickzhang/YuncongVideoAnalysis/asr_tools/models \\
   --ffmpeg /opt/homebrew/bin/ffmpeg --ffprobe /opt/homebrew/bin/ffprobe --limit 1
+REMOTE
 ```
 
 Mac mini上的 `mlx-audio` 加载 `Qwen3-ASR-1.7B-8bit` 与 `Qwen3-ForcedAligner-0.6B-8bit`。一次真实新推理需先完成该任务；依赖与模型清单检查只验证配置及文件是否存在，不会实际加载模型。
