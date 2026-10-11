@@ -1,0 +1,4 @@
+interface:
+  display_name: "云聪观点分析与PPT"
+  short_description: "复用云聪字幕提炼个股与指数观点，核对原始截图，生成可编辑原声PPT"
+  default_prompt: "使用 $yuncong-video-analysis 分析我已转写的云聪视频，制作含原始画线截图与原声片段的可编辑PPT。"

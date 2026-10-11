@@ -1,0 +1,4 @@
+interface:
+  display_name: "云聪音频与字幕"
+  short_description: "提取云聪视频音轨与Qwen字幕，支持批量转写、时间对齐、同步和统一归档"
+  default_prompt: "使用 $yuncong-video-subtitles 提取我已下载视频的音频与字幕，复用现有环境并按上传时间归档。"

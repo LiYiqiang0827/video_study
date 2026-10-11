@@ -1,9 +1,10 @@
-"""Keep runtime data outside the version-controlled tool directory."""
+"""Resolve module paths and keep runtime data outside the entire repository."""
 from __future__ import annotations
 import os
 from pathlib import Path
 
-PROJECT_ROOT = Path(__file__).resolve().parent.parent
+MODULE_ROOT = Path(__file__).resolve().parents[1]
+PROJECT_ROOT = MODULE_ROOT.parent
 
 
 def data_root() -> Path:

@@ -1,0 +1,4 @@
+interface:
+  display_name: "云聪会员视频下载"
+  short_description: "按单视频或清单下载云聪会员回放，支持日期发现、暂停续跑与完整性核验"
+  default_prompt: "使用 $yuncong-member-video-download 下载我指定的云聪会员视频，复用现有登录状态并核验完整性。"

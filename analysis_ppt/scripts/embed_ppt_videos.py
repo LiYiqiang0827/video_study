@@ -26,7 +26,7 @@ NS = {
 }
 VIDEO_REL = NS["r"] + "/video"
 MEDIA_REL = "http://schemas.microsoft.com/office/2007/relationships/media"
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parents[2]
 PARSER = ET.XMLParser(resolve_entities=False, no_network=True, remove_blank_text=False)
 
 

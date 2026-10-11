@@ -23,7 +23,7 @@ from urllib.request import Request, urlopen
 
 sys.dont_write_bytecode = True
 
-from batch_storage import ExportError, atomic_json, now, read_json, sha256_file
+from analysis_storage import ExportError, atomic_json, now, read_json, sha256_file
 from tool_paths import external_path
 
 PROMPT = Path(__file__).resolve().parent.parent / "prompts/video_analysis.md"

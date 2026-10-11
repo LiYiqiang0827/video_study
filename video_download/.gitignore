@@ -1,0 +1,15 @@
+# Local-only source repository. Runtime files and authentication stay outside.
+*
+!.gitignore
+!README.md
+!SKILL.md
+!agents/
+!agents/*.yaml
+!references/
+!references/*.md
+!scripts/
+!scripts/*.py
+!scripts/requirements.txt
+**/__pycache__/
+**/*.pyc
+**/.DS_Store

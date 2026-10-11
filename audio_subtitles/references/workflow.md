@@ -1,11 +1,43 @@
 # 下载后的正式工作流程
 
-所有示例均在本机或 Mac mini 执行。数据目录可通过 `YUNCONG_DATA_ROOT` 修改；先确认实际机器的路径与已有环境。示例中的 `new_batch` 是新任务目录，不能直接对已完成的老批次重新建池。
+正式Qwen通过SSH在Mac mini启动Python任务：本流程没有常驻HTTP服务，也不通过oMLX。运行脚本、manifest和完整源视频都必须预先位于Mini本地；闭合结果再经SSH同步回本机核对SHA。数据目录可通过 `YUNCONG_DATA_ROOT` 修改；示例中的 `new_batch` 是新任务目录，不能直接对已完成的老批次重新建池。
 
-在同一终端先设置代码目录；在 Mac mini 或其他机器改为实际 Git 克隆路径。路径有中文或空格时必须保留引号。
+先把本板块 `audio_subtitles/` 代码和用户授权的视频同步到Mac mini，在Mini本地启动批次。Mac mini已配好的环境使用以下远端代码路径。路径有中文或空格时必须保留引号。
+
+本机把代码同步到Mini（不带入Cookie、模型、视频或处理结果）：
 
 ```sh
-TOOLS='/Users/nickzhang/Documents/ChatGPT/云聪股票交易分析'
+PROJECT='/本机实际克隆目录/video_study'
+REMOTE_TOOLS='/Users/nickzhang/YuncongVideoAnalysis/runtime/video_study/audio_subtitles'
+rsync -a --exclude '__pycache__/' --exclude '*.pyc' "$PROJECT/audio_subtitles/" "macmini:$REMOTE_TOOLS/"
+```
+
+把明确授权的MP4也同步到Mini本地资料目录后，在Mini SSH任务中构建清单并启动处理：
+
+```sh
+ssh -T macmini
+```
+
+进入Mac mini终端后，用已完整验收的 `result.json` 建单项清单。确保清单里的源视频路径也是Mini本地的实际路径：
+
+```sh
+TOOLS='/Users/nickzhang/YuncongVideoAnalysis/runtime/video_study/audio_subtitles'
+PYTHON='/Users/nickzhang/YuncongVideoAnalysis/asr_tools/venv/bin/python'
+RESULT='/Users/nickzhang/YuncongVideoAnalysis/batches/本批次/items/视频ID/result.json'
+python3 "$TOOLS/scripts/build_manifest.py" --result "$RESULT" \\
+  --output /Users/nickzhang/YuncongVideoAnalysis/asr_batches/新批次/input_manifest.json
+python3 "$TOOLS/scripts/batch_asr.py" \\
+  --manifest /Users/nickzhang/YuncongVideoAnalysis/asr_batches/新批次/input_manifest.json \\
+  --job-root /Users/nickzhang/YuncongVideoAnalysis/asr_batches/新批次/job \\
+  --python "$PYTHON" \\
+  --models-dir /Users/nickzhang/YuncongVideoAnalysis/asr_tools/models \\
+  --ffmpeg /opt/homebrew/bin/ffmpeg --ffprobe /opt/homebrew/bin/ffprobe --limit 1
+```
+
+Mac mini上的 `mlx-audio` 加载 `Qwen3-ASR-1.7B-8bit` 与 `Qwen3-ForcedAligner-0.6B-8bit`。一次真实新推理需先完成该任务；依赖与模型清单检查只验证配置及文件是否存在，不会实际加载模型。
+
+```sh
+TOOLS='/Users/nickzhang/YuncongVideoAnalysis/runtime/video_study/audio_subtitles'
 python3 "$TOOLS/scripts/check_environment.py" --mode basic
 ```
 
@@ -27,11 +59,11 @@ python3 "$TOOLS/scripts/build_manifest.py" \
 python3 "$TOOLS/scripts/batch_asr.py" \
   --manifest /Users/nickzhang/YuncongVideoAnalysis/asr_batches/new_batch/input_manifest.json \
   --job-root /Users/nickzhang/YuncongVideoAnalysis/asr_batches/new_batch/job \
-  --python /Users/nickzhang/YuncongVideoAnalysis/runtime/asr/venv/bin/python \
-  --models-dir /Users/nickzhang/YuncongVideoAnalysis/runtime/asr/models
+  --python /Users/nickzhang/YuncongVideoAnalysis/asr_tools/venv/bin/python \
+  --models-dir /Users/nickzhang/YuncongVideoAnalysis/asr_tools/models
 ```
 
-本步会复用正式 `extract_audio.py`、`asr_engine.py` 和 `export_subtitles.py`，不需要先手工提取每个音频。默认块长最大 180 秒，保留完整时间轴；不能为节省时间只转写开头却声称完整。模型及 Python 参数可指向已有 Mac mini 环境，见 runtime 文档。
+本步会复用正式 `extract_audio.py`、`asr_engine.py` 和 `export_subtitles.py`，不需要先手工提取每个音频。默认块长最大 180 秒，保留完整时间轴；不能为节省时间只转写开头却声称完整。正式任务在Mac mini通过SSH启动Python，使用 `~/YuncongVideoAnalysis/asr_tools/venv/bin/python` 和同目录 `models/` 中的Qwen ASR、ForcedAligner，由 `mlx-audio` 在Apple Silicon运行。任务脚本、manifest及完整视频须先存在Mini本地。本流程没有常驻HTTP服务，也不使用oMLX；运行前确认没有重复worker。具体参数见runtime文档。
 
 `state.json`、`events.jsonl` 和每个 `视频ID/attempt_NNN/` 均在任务目录内。重试保留旧尝试。`--resume` 续跑；诊断后 `--resume --retry-failed` 可重试，单次不无限重试，每个视频最多两个尝试。`--limit 1` 可先验证单项，`--status` 只读进度。创建任务目录内的 `STOP_REQUESTED` 可停止当前子进程，移除后再续跑。已有 worker 或 GPU 子进程未结束时不另起重复任务。
 

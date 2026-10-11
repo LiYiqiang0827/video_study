@@ -1,4 +1,0 @@
-interface:
-  display_name: "云聪字幕与观点PPT"
-  short_description: "生成云聪视频字幕，提炼个股与指数观点，制作含原图和原声片段的PPT"
-  default_prompt: "使用 $yuncong-video-subtitles 处理我已下载的云聪视频，复用字幕整理个股和指数观点，制作含截图与原声片段的PPT，与视频同名保存在同一目录。"

@@ -7,7 +7,7 @@
 本机工程已迁到 `Documents/ChatGPT/云聪股票交易分析`。以下命令在同一终端先设置 `TOOLS`，其他机器改为实际克隆路径；所有脚本路径使用引号以支持中文与空格。
 
 ```sh
-TOOLS='/Users/nickzhang/Documents/ChatGPT/云聪股票交易分析'
+TOOLS='/Users/nickzhang/Documents/ChatGPT/云聪股票交易分析/audio_subtitles'
 python3 "$TOOLS/scripts/check_environment.py" --mode basic
 ```
 
@@ -30,7 +30,15 @@ python3 "$TOOLS/scripts/prepare_asr_models.py" --check
 
 ## 复用已配好的 Mac mini
 
-已有验证环境位于 Mac mini 的 `/Users/nickzhang/YuncongVideoAnalysis/asr_tools/venv/bin/python`，模型位于同目录的 `models/`。正式工程与旧环境分离；这些路径是既有实例，不是新工程内部目录。
+字幕转写在Mac mini的Apple Silicon上通过 `mlx-audio` 运行。操作方式是SSH启动Python任务；本流程没有常驻HTTP服务，不通过oMLX。已核实的正式环境与模型路径为：
+
+```text
+~/YuncongVideoAnalysis/asr_tools/venv/bin/python
+~/YuncongVideoAnalysis/asr_tools/models/Qwen3-ASR-1.7B-8bit
+~/YuncongVideoAnalysis/asr_tools/models/Qwen3-ForcedAligner-0.6B-8bit
+```
+
+ASR模型识别中文，ForcedAligner把原文与音频对齐。通过SSH启动前，应同步本板块的脚本、依赖和文档到Mini；manifest、源视频及脚本引用的全部文件也必须能被Mini本机读取。
 
 批次参数用：
 
@@ -39,7 +47,7 @@ python3 "$TOOLS/scripts/prepare_asr_models.py" --check
 --models-dir /Users/nickzhang/YuncongVideoAnalysis/asr_tools/models
 ```
 
-默认外置 runtime 继续保存新缓存和临时文件。实际执行前核对 Mini 环境仍存在、当前没有重复 worker，不移动旧模型、不重建旧成品。
+批次脚本会经SSH在Mac mini上运行指定的Python；该命令中的manifest与manifest引用的视频路径须是Mac mini本地路径。运行前检查Mini模型环境及正在运行的worker；任务结果闭合后用本机 `sync_asr_batch.py` 同步并按SHA核对。不要把本机Qwen服务或oMLX写作此流程的调用方式。
 
 ## 仅提取音频
 
@@ -62,26 +70,12 @@ python3 "$TOOLS/scripts/extract_audio.py" \
 
 标准自动字幕允许非关键口头语近似显示，无须逐条人工确认；词汇准确率仍未由文件检查证明。报告测试范围时区分实际音频提取、从既有原始结果导出、CPU 模拟与真实新模型推理。
 
-## ASR 与 PPT 环境检查
-
-在实际执行 ASR 的机器上检查现有解释器和模型目录；远程 Mac mini 的路径不代表本机已经可推理。
+## ASR 环境检查
 
 ```sh
 python3 "$TOOLS/scripts/check_environment.py" --mode asr \
-  --asr-python '/Users/nickzhang/YuncongVideoAnalysis/asr_tools/venv/bin/python' \
-  --models-dir '/Users/nickzhang/YuncongVideoAnalysis/asr_tools/models'
+  --asr-python '/实际外置环境/bin/python' \
+  --models-dir '/实际外置模型目录'
 ```
 
-模型检查只确认配置与权重文件存在；完整权重哈希检查仍使用 `prepare_asr_models.py --check --models-dir 实际目录`。检查器不加载 MLX 模型，不调用 Qwen/MiniMax。
-
-PPT 导出依赖外置 Node、Artifact Tool、演示文稿辅助模块与 Python。由当前 Codex 的 `load_workspace_dependencies` 获取 `RUNTIME_NODE`、`RUNTIME_NODE_MODULES`、`RUNTIME_PYTHON`；将 `PRESENTATIONS_SKILL_DIR` 指向当前安装版本的 presentations 技能根，不能固定沿用旧版本目录。按实际返回的绝对路径设置：
-
-```sh
-export RUNTIME_NODE='/实际外置运行环境/node/bin/node'
-export RUNTIME_NODE_MODULES='/实际外置运行环境/node/node_modules'
-export RUNTIME_PYTHON='/实际外置运行环境/python/bin/python3'
-export PRESENTATIONS_SKILL_DIR='/实际当前版本/presentations技能目录'
-python3 "$TOOLS/scripts/check_environment.py" --mode ppt
-```
-
-`requirements-presentation.txt` 仅提供 Python `lxml` 适配依赖；PPT 渲染与验收还需要 Artifact Tool、Skia、辅助模块和 Pillow。Git 克隆及 Python 安装均不能替代这些外置组件。检查报告只验证依赖存在与解释器可执行，实际截图、媒体、版式和原生播放器仍按视频解析工作流验收。可加 `--json` 将只读结果输出为 JSON；退出码为 0 表示该检查模式通过，1 表示有缺项。
+依赖检查不加载模型。`prepare_asr_models.py --check --models-dir 实际目录` 负责权重核验。观点与PPT已拆到相邻的 `analysis_ppt/` 板块，运行方法见其 README。

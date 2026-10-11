@@ -25,6 +25,7 @@ if (args.help) {
 const sha = bytes => createHash('sha256').update(bytes).digest('hex');
 const inside = (file, dir) => file === dir || file.startsWith(dir + path.sep);
 const toolRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+const projectRoot = path.resolve(toolRoot, '..');
 const clock = seconds => {
   const n = Math.floor(seconds);
   return [Math.floor(n / 3600), Math.floor(n / 60) % 60, n % 60].map(v => String(v).padStart(2, '0')).join(':');
@@ -50,11 +51,11 @@ async function main() {
   const analysisPath = await fs.realpath(args.analysis), planPath = await fs.realpath(args.plan);
   const output = path.resolve(args.output), build = path.resolve(args['build-dir']);
   if (!output.endsWith('.pptx')) throw new Error('Output must be a .pptx');
-  for (const dest of [output, build]) if (inside(dest, toolRoot)) throw new Error('Outputs must remain outside the tools checkout');
+  for (const dest of [output, build]) if (inside(dest, projectRoot)) throw new Error('Outputs must remain outside the tools checkout');
   try { await fs.lstat(output); throw new Error('Existing output preserved; use a new filename'); } catch (error) { if (error.code !== 'ENOENT') throw error; }
   await fs.mkdir(build, { recursive: true }); await fs.mkdir(path.dirname(output), { recursive: true });
   const buildReal = await fs.realpath(build), parentReal = await fs.realpath(path.dirname(output));
-  if (inside(buildReal, toolRoot) || inside(parentReal, toolRoot)) throw new Error('Output symlink points into tools checkout');
+  if (inside(buildReal, projectRoot) || inside(parentReal, projectRoot)) throw new Error('Output symlink points into tools checkout');
   if (inside(buildReal, parentReal)) throw new Error('The private build directory must be outside the final output directory');
   const candidate = path.join(buildReal, 'candidate.pptx');
   try { await fs.lstat(candidate); throw new Error('Existing build preserved; use a new build directory'); } catch (error) { if (error.code !== 'ENOENT') throw error; }

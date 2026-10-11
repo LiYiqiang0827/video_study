@@ -11,7 +11,7 @@ import subprocess
 import sys
 
 sys.dont_write_bytecode = True
-from tool_paths import PROJECT_ROOT, data_root, external_path
+from tool_paths import MODULE_ROOT, PROJECT_ROOT, data_root, external_path
 
 
 def inspect(args: argparse.Namespace) -> dict:
@@ -44,12 +44,12 @@ def inspect(args: argparse.Namespace) -> dict:
     executable("ffmpeg", args.ffmpeg)
     executable("ffprobe", args.ffprobe)
 
-    if args.mode in ("asr", "all"):
+    if args.mode == "asr":
         python = executable("asr_python", args.asr_python or sys.executable)
         if python:
             try:
                 result = subprocess.run(
-                    [python, "-B", str(PROJECT_ROOT / "scripts/asr_engine.py"),
+                    [python, "-B", str(MODULE_ROOT / "scripts/asr_engine.py"),
                      "--check-dependencies", "--ffmpeg", args.ffmpeg],
                     capture_output=True, text=True, timeout=30,
                 )
@@ -69,32 +69,8 @@ def inspect(args: argparse.Namespace) -> dict:
             present = path and (path / "config.json").is_file() and any(path.glob("*.safetensors"))
             record(name, present, f"{path or 'unset'}; presence only, no weight loading/hash verification")
 
-    if args.mode in ("ppt", "all"):
-        executable("ppt_node", os.environ.get("RUNTIME_NODE") or shutil.which("node"))
-        requirements = {
-            "RUNTIME_NODE_MODULES": [
-                "@oai/artifact-tool/dist/artifact_tool.mjs",
-                "@oai/artifact-tool/node_modules/skia-canvas/lib/index.mjs",
-            ],
-            "PRESENTATIONS_SKILL_DIR": ["container_tools/artifact_tool_utils.mjs"],
-        }
-        for name, files in requirements.items():
-            value = os.environ.get(name)
-            paths = [Path(value).expanduser() / f for f in files] if value else []
-            record(name, bool(paths) and all(p.is_file() for p in paths),
-                   value or "Environment variable unset; see references/runtime.md")
-        python = executable("ppt_python", os.environ.get("RUNTIME_PYTHON"))
-        if python:
-            probe = "import importlib.util,json; print(json.dumps({m:importlib.util.find_spec(m) is not None for m in ('lxml','PIL')}))"
-            try:
-                result = subprocess.run([python, "-B", "-c", probe], capture_output=True, text=True, timeout=15)
-                value = json.loads(result.stdout)
-                record("ppt_python_packages", result.returncode == 0 and all(value.values()), value)
-            except (OSError, subprocess.SubprocessError, ValueError) as error:
-                record("ppt_python_packages", False, type(error).__name__)
-
     return {"schema_version": "yuncong_environment_v1", "mode": args.mode,
-            "project_root": str(PROJECT_ROOT), "data_root": str(root) if root else None,
+            "project_root": str(PROJECT_ROOT), "module_root": str(MODULE_ROOT), "data_root": str(root) if root else None,
             "passed": all(c["passed"] for c in checks), "checks": checks,
             "model_calls": 0, "network_calls": 0,
             "scope": "Dependency preflight only; does not verify transcription accuracy or PPT playback"}
@@ -102,7 +78,7 @@ def inspect(args: argparse.Namespace) -> dict:
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--mode", choices=("basic", "asr", "ppt", "all"), default="basic")
+    parser.add_argument("--mode", choices=("basic", "asr"), default="basic")
     parser.add_argument("--asr-python", help="Existing external inference interpreter; may point to a Mac mini checkout when run there")
     parser.add_argument("--models-dir", type=Path, help="Existing model parent directory; default: data root/runtime/asr/models")
     parser.add_argument("--ffmpeg", default="ffmpeg")
