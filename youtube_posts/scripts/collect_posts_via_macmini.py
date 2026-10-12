@@ -14,7 +14,7 @@ from pathlib import Path, PurePosixPath
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
-ARCHIVE_ROOT = Path.home() / "云聪视频全集" / "youtube_posts"
+ARCHIVE_ROOT = Path.home() / "云聪帖子全集"
 COLLECTOR = Path(__file__).resolve().with_name("collect_posts.py")
 REMOTE_ROOT = "/Users/nickzhang/YuncongVideoAnalysis/posts_tools"
 REMOTE_SCRIPT = REMOTE_ROOT + "/project_scripts/collect_posts.py"
@@ -64,7 +64,7 @@ def verify_manifest(folder):
 def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--channel-url", required=True)
-    parser.add_argument("--output-dir", required=True, type=Path, help="New formal archive directory on this Mac")
+    parser.add_argument("--archive-root", type=Path, default=ARCHIVE_ROOT, help="Monthly archive root on this Mac")
     parser.add_argument("--max-posts", type=int)
     parser.add_argument("--download-images", action="store_true")
     parser.add_argument("--ssh-host", default="macmini")
@@ -78,15 +78,9 @@ def main(argv=None):
         parser.error("--max-posts must be positive")
     if args.timeout < 1:
         parser.error("--timeout must be positive")
-    output = args.output_dir.expanduser().resolve()
-    try:
-        relative_output = output.relative_to(ARCHIVE_ROOT.resolve())
-    except ValueError:
-        parser.error(f"Output must be inside {ARCHIVE_ROOT}")
-    if not relative_output.parts:
-        parser.error("Output must be a new per-channel/per-run subdirectory")
-    if output.exists():
-        parser.error("Output directory already exists; choose a fresh archive path")
+    archive_root = args.archive_root.expanduser().resolve()
+    if archive_root != ARCHIVE_ROOT.resolve():
+        parser.error(f"Archive root must be {ARCHIVE_ROOT}")
 
     job_id = uuid.uuid4().hex
     remote_job = f"{REMOTE_ROOT}/jobs/{job_id}"
@@ -95,7 +89,6 @@ def main(argv=None):
     ssh = ["ssh", "-o", "BatchMode=yes", "-o", "ConnectTimeout=10", args.ssh_host]
     scp = ["scp", "-o", "BatchMode=yes", "-o", "ConnectTimeout=10"]
     remote_cookie = Path(args.remote_cookie_file)
-    output_created = False
     try:
         local_stage.mkdir(parents=True, mode=0o700)
         setup = "mkdir -p " + shlex.quote(str(PurePosixPath(REMOTE_SCRIPT).parent)) + " " + shlex.quote(str(PurePosixPath(REMOTE_ROOT + "/jobs")))
@@ -118,21 +111,15 @@ def main(argv=None):
         manifest = verify_manifest(local_stage)
         if not (local_stage / "posts.json").is_file():
             raise CollectionError("posts_snapshot_missing")
-        output.parent.mkdir(parents=True, exist_ok=True)
-        shutil.copytree(local_stage, output)
-        output_created = True
-        copied = verify_manifest(output)
-        if copied != manifest:
-            raise CollectionError("archive_copy_manifest_changed")
-        posts = json.loads((output / "posts.json").read_text(encoding="utf-8"))
-        print(json.dumps({"state": "collected_and_synced", "post_count": posts.get("post_count"),
-                          "image_download_failures": posts.get("image_download_failures", 0),
-                          "output_dir": str(output), "manifest_files": len(manifest["files"]),
-                          "manifest_sha256": hashlib.sha256((output / "MANIFEST.json").read_bytes()).hexdigest()}, ensure_ascii=False))
+        sys.path.insert(0, str(Path(__file__).resolve().parent))
+        from archive_posts_by_month import archive_snapshot
+        result = archive_snapshot(local_stage, archive_root)
+        print(json.dumps({"state": "collected_and_archived_by_month", "post_count": result["post_count"],
+                          "image_download_failures": result["image_download_failures"],
+                          "archive_root": str(archive_root), "months": result["months"],
+                          "source_manifest_files": len(manifest["files"])}, ensure_ascii=False))
         return 0
     except Exception as exc:
-        if output_created and output.exists():
-            shutil.rmtree(output, ignore_errors=True)
         print(json.dumps({"state": "failed", "error": type(exc).__name__,
                           "details": str(exc) if isinstance(exc, CollectionError) else "see local SSH/SCP diagnostics",
                           "local_temporary_path": str(local_stage) if local_stage.exists() else None}, ensure_ascii=False), file=sys.stderr)

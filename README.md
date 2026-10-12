@@ -50,7 +50,7 @@ video_study/
 | [视频下载](video_download/README.md) | 用户指定视频或授权清单、外置登录状态 | 下载、续传、真实上传时间命名、时长/轨道/完整解码核验 | MP4、`result.json`及来源信息，交给音频板块 |
 | [音频与字幕](audio_subtitles/README.md) | 完整本地视频或冻结下载清单 | M4A/WAV提取、Qwen ASR与ForcedAligner、字幕导出、同步与归档 | MP4/M4A/SRT/VTT/MD/JSON/来源JSON七文件集合 |
 | [观点与PPT](analysis_ppt/README.md) | 已有字幕、原视频与来源记录 | 原句引用、时钟核对、同对象截图、观点与大纲、原声短片及PPT | 可编辑离线PPT、分析JSON、截图切片与可选本地阅读页 |
-| [频道 Posts](youtube_posts/README.md) | 指定频道 Posts 页；Mac mini 已登录 YouTube 账号 | 本机 SSH 到 Mini 抓取，再同步回本机并按文件哈希验收；观点归纳调用远端 GPU Qwen | Posts JSON、可选图片文件、附帖子 ID 的分析记录 |
+| [频道 Posts](youtube_posts/README.md) | 指定频道 Posts 页；Mac mini 已登录 YouTube 账号 | 本机 SSH 到 Mini 抓取、哈希验收，按北京时间月份归档并生成图文 PPT；观点归纳调用远端 GPU Qwen | `/Users/nickzhang/云聪帖子全集/YYYY-MM/` 下 JSON、原图、月度 PPT、哈希清单和分析记录 |
 
 下载由 `download_video.py` 或 `download_batch.py` 处理，新清单使用通用批次入口。Mac mini频繁TLS断连时使用 `run_resilient_batch.py`，它将8、9月成功的系统curl媒体传输和按时长设置的60～600次有限总重连预算用于任意授权冻结清单，仍完整解码并核对时长、轨道和SHA256。三个历史34视频批次专用脚本保留原清单哈希和执行边界，只用于原批次，不作为新任务默认入口。
 
@@ -64,13 +64,13 @@ video_study/
 
 ## 代码、资料与运行环境
 
-本机代码目录是 `/Users/nickzhang/Documents/ChatGPT/云聪股票交易分析`。项目内 `tmp/` 是唯一的本机临时验证位置，已由根 `.gitignore` 排除；存放临时脚本、WAV、下载或同步暂存、测试输出、候选PPT、压缩短片、日志和回执，任务结束后清理。不要将临时产物写入正式视频归档。正式视频、音频字幕、保留的解析证据和最终PPT归档在 `/Users/nickzhang/云聪视频全集/YYYYMMDD_HHMMSS_标题/`；频道 Posts 的正式快照归档在 `/Users/nickzhang/云聪视频全集/youtube_posts/`；字幕归档可通过 `YUNCONG_VIDEO_COLLECTION_ROOT` 修改。
+本机代码目录是 `/Users/nickzhang/Documents/ChatGPT/云聪股票交易分析`。项目内 `tmp/` 是唯一的本机临时验证位置，已由根 `.gitignore` 排除；存放临时脚本、WAV、下载或同步暂存、测试输出、候选PPT、压缩短片、日志和回执，任务结束后清理。不要将临时产物写入正式归档。正式视频、音频字幕、保留的解析证据和视频分析PPT归档在 `/Users/nickzhang/云聪视频全集/YYYYMMDD_HHMMSS_标题/`；频道 Posts 独立归档在 `/Users/nickzhang/云聪帖子全集/YYYY-MM/`，包含当月 JSON、图片、PPT 和哈希清单；字幕归档可通过 `YUNCONG_VIDEO_COLLECTION_ROOT` 修改。
 
 ```text
 项目根目录/tmp/                        本机临时下载暂存、ASR同步、测试脚本和PPT构建（Git忽略）
 Mac mini ~/YuncongVideoAnalysis/posts_tools/jobs/  Posts 抓取隔离任务目录（成功后自动清理）
 
-~/云聪视频全集/                       最终视频归档和可交付分析产物（当前为 /Users/nickzhang/云聪视频全集）
+~/云聪视频全集/                       视频、字幕和视频分析PPT正式归档（/Users/nickzhang/云聪视频全集）
 ├── COLLECTION_LAYOUT_批次名.json      正式批次的文件映射、哈希和自动验收依据
 └── YYYYMMDD_HHMMSS_标题/
     ├── 同名.mp4、.m4a、.srt、.vtt、.md、.json
@@ -80,9 +80,11 @@ Mac mini ~/YuncongVideoAnalysis/posts_tools/jobs/  Posts 抓取隔离任务目�
     └── 解析/                         保留的分析JSON、关键原图和来源证据
 ```
 
-Mac mini 上的 `~/YuncongVideoAnalysis/` 仍是远端下载/Posts执行环境、ASR运行环境和模型路径；SSH命令中的该路径仅指Mac mini。本机同名目录已删除，不要在本机重建，也不要把远端运行路径当作本机临时目录。Posts任务成功后会清理Mini上的唯一任务目录；正式归档始终回到 `/Users/nickzhang/云聪视频全集/`。
+~/云聪帖子全集/                       YouTube Posts 按北京时间月份归档，与视频全集分开
 
-Git只包含正式源码、技能、依赖声明、提示词和文档；本机 `tmp/` 的任何内容均不提交。Cookie、账号凭据和Qwen模型始终保存在项目外。最终交付物进入独立的视频归档目录。工具允许运行暂存写入项目 `tmp/`，其他项目源码路径继续受保护。`.gitignore` 按四个板块开放正式文件，下载代码随父仓库提交，目录内没有独立Git或子模块。
+Mac mini 上的 `~/YuncongVideoAnalysis/` 仍是远端下载/Posts执行环境、ASR运行环境和模型路径；SSH命令中的该路径仅指Mac mini。本机同名目录已删除，不要在本机重建，也不要把远端运行路径当作本机临时目录。Posts任务成功后会清理Mini上的唯一任务目录；帖子正式归档只写入 `/Users/nickzhang/云聪帖子全集/`。
+
+Git只包含正式源码、技能、依赖声明、提示词和文档；本机 `tmp/` 的任何内容均不提交。Cookie、账号凭据和Qwen模型始终保存在项目外。视频及分析交付物进入视频归档，频道 Posts 进入独立帖子归档。工具允许运行暂存写入项目 `tmp/`，其他项目源码路径继续受保护。`.gitignore` 按各板块开放正式文件，代码随父仓库提交，目录内没有独立Git或子模块。
 
 ## 开始使用
 

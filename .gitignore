@@ -64,6 +64,7 @@
 !youtube_posts/prompts/*.md
 !youtube_posts/scripts/
 !youtube_posts/scripts/*.py
+!youtube_posts/scripts/*.mjs
 !youtube_posts/tests/
 !youtube_posts/tests/*.py
 **/__pycache__/

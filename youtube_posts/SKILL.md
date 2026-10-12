@@ -1,22 +1,25 @@
 ---
 name: yuncong-youtube-posts
-description: 采集、归档和分析云聪 YouTube 频道 Posts，包括文字、发布时间、图片和投票等动态；不用于下载频道视频或生成视频字幕/PPT。
+description: 采集、归档和分析云聪 YouTube 频道 Posts，包括文字、发布时间、图片和投票等动态，并按月生成图文 PPT；不用于下载频道视频或生成视频字幕/观点视频 PPT。
 metadata:
-  short-description: 采集云聪频道 Posts 并用远端 GPU Qwen 分析
+  short-description: 采集云聪 Posts，按月归档并生成图文 PPT
 ---
 
 # 云聪 YouTube Posts
 
-通过 SSH 在已登录 YouTube 的 Mac mini 上采集用户指定的云聪频道 Posts，保留帖子原文、原始时间显示、链接、附件元数据和文件哈希；按需保存账号可见的图片，再将闭合结果同步到本机归档。需要模型分析时，复用观点分析板块的远端 GPU Qwen vLLM SSH 连接，按帖子 ID 提供证据，不把模型归纳当作已核实行情。
+通过 SSH 在已登录 YouTube 的 Mac mini 上采集用户指定的云聪频道 Posts，保留帖子原文、原始发布时间、链接、附件元数据和文件哈希。正式归档按北京时间月份写入 `/Users/nickzhang/云聪帖子全集/YYYY-MM/`，每月包括结构化 `posts.json`、原图、`MANIFEST.json` 和图文 PPT。帖子 PPT 是原文与配图的浏览档案，不替代远端 GPU Qwen 观点分析；分析仍复用观点分析板块的 GPU Qwen vLLM SSH 连接，按帖子 ID 提供证据，不把模型归纳当作已核实行情。
 
 开始前阅读 [工作流](references/workflow.md)；需要理解字段时阅读 [数据格式](references/data_schema.md)。
 
-- 只处理用户指定频道和有权访问的 Posts，不猜测或扩展频道/时间范围，不绕过会员、登录、地理或访问限制。
-- YouTube Data API v3 没有公开 Posts 列表方法；采集适配依赖 yt-dlp 的 Posts tab 私有解析逻辑。遇到解析器缺失、登录门槛或页面变更时记录失败，停止并报告，不抓取替代频道/视频来填补。
-- 通过 `collect_posts_via_macmini.py` 从本机 SSH 启动 Mac mini 上的 `collect_posts.py`。默认沿用下载板块记录的 `macmini`、Mini Python 和 Cookie 路径；凭据只在 Mini 本地读取，绝不复制到本机或同步包。
-- Mini 代理只在现有服务可用时使用。认证或访问失败时停止并报告，不反复运行、不尝试读取浏览器配置或绕过登录。
-- 正式快照归档到 `/Users/nickzhang/云聪视频全集/youtube_posts/`。测试、临时脚本、模型原始请求和候选结果放项目根 `tmp/`。不把数据归档进代码板块或 Git。
-- 关联视频只保存引用；视频下载走 `yuncong-member-video-download`。不要从帖子链接推断用户已授权下载帖子中的视频附件。
-- 分析应引用 post ID 与原文证据，保留条件语气，并把缺少来源的判断标为不确定。复核模型输出后再作为正式分析归档。
+- 只处理用户指定频道和本人账号可见的 Posts，不猜测或扩展频道/访问权限，不绕过会员、登录、地理或访问限制。未指定数量上限时，抓取当前可见范围。
+- YouTube Data API v3 没有公开 Posts 列表方法；采集适配依赖 yt-dlp 的 Posts tab 解析逻辑。遇到解析器缺失、登录门槛或页面变更时记录失败并停止，不用其他频道/视频替代。
+- 通过 `collect_posts_via_macmini.py` 从本机 SSH 启动 Mac mini 上的 `collect_posts.py`。默认沿用下载板块记录的 `macmini`、Mini Python、Cookie 和代理；凭据只在 Mini 本地读取，绝不复制到本机或同步包。
+- 正式 Posts 数据必须与 `/Users/nickzhang/云聪视频全集/` 分开，写入 `/Users/nickzhang/云聪帖子全集/YYYY-MM/`。不能把帖子或月度 PPT 写入视频全集。
+- 优先按 `timestampUsec` 换算北京时间月份。若只有分钟/小时/天/周级相对时间，按采集基准计算估算时间区间，记录区间、精度、基准和说明；保留原始相对时间，不能把估算值写成精确 `published_timestamp`。月级相对时间不推算具体日期。
+- 将 `1 year ago` 及更早、无法可靠分月的年份级帖子放入 `未识别日期/`，并合并生成一个 PPT。PPT 封面根据该归档的 `month_assignment_reference` 推断粗略时间边界：采集月份为 2026-10 时，标题标为“约 2025年10月以前（推断）”。每条帖子仍显示 YouTube 原始相对时间并注明精确日期未提供；这个边界仅用于归档分组，不能当作逐条帖子的日期结论。若采集基准缺失或无效，使用“较早年份（推断；具体范围未确认）”，不可伪造边界。
+- 每月目录保存完整正文和附件元数据于 `posts.json`，图片保存于 `media/`，并生成 `云聪帖子_YYYY-MM.pptx` 与 `MANIFEST.json`。PPT 展示原始相对时间、可计算的估算区间及精度说明、帖子 ID、来源链接和可用配图；长文拆页，不删减底稿。估算归档月份不能当作精确发帖日。
+- 本机同步暂存、PPT候选稿、预览图、测试和临时脚本只放项目根 `tmp/`，Git 已忽略此目录。Mini 任务目录成功或中断清理；Cookie 仅留在 Mac mini。
+- 关联视频只保存引用；实际下载继续使用 `yuncong-member-video-download`，不从帖子附件推断用户授权下载。
+- 分析应引用帖子 ID 与原文证据，保留条件语气。模型归纳不能当作已核实行情；需人工复核来源。
 
-使用 `scripts/collect_posts.py` 采集，使用 `scripts/analyze_posts.py` 分析；正式参数与归档约定以板块 README 和 references 为准。
+使用 `scripts/collect_posts_via_macmini.py` 抓取、`scripts/archive_posts_by_month.py` 按月合并 JSON 与原图、`scripts/generate_monthly_posts_ppt.mjs` 生成月度 PPT，使用 `scripts/analyze_posts.py` 做来源可追溯的观点分析；完整参数以板块 README 和 references 为准。

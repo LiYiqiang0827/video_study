@@ -41,8 +41,27 @@ def _image_urls(attachment):
 
     def visit(value, image_context=False):
         if isinstance(value, dict):
+            thumbnails = value.get("thumbnails")
+            if image_context and isinstance(thumbnails, list):
+                candidates = []
+                for index, item in enumerate(thumbnails):
+                    if not isinstance(item, dict) or not isinstance(item.get("url"), str):
+                        continue
+                    url = item["url"]
+                    host = (urlparse(url).hostname or "").lower()
+                    if url.startswith("https://") and any(
+                        host == domain or host.endswith("." + domain)
+                        for domain in ("ytimg.com", "googleusercontent.com", "ggpht.com")
+                    ):
+                        width, height = item.get("width", 0), item.get("height", 0)
+                        area = width * height if isinstance(width, int) and isinstance(height, int) else 0
+                        candidates.append((area, index, url))
+                if candidates:
+                    urls.append(max(candidates)[2])
             for key, child in value.items():
                 in_image = image_context or key.lower() in {"image", "imagerenderer", "backstageimagerenderer", "multiimagerenderer"}
+                if in_image and key == "thumbnails":
+                    continue
                 if in_image and key == "url" and isinstance(child, str) and child.startswith("https://"):
                     host = (urlparse(child).hostname or "").lower()
                     if any(host == domain or host.endswith("." + domain)

@@ -8,6 +8,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
 from collect_posts import download_image, normalize_post
 from collect_posts_via_macmini import CollectionError, verify_manifest
+from archive_posts_by_month import _month, _month_assignment, _relative_time_estimate, archive_snapshot
 
 
 class NormalizePostTests(unittest.TestCase):
@@ -27,6 +28,16 @@ class NormalizePostTests(unittest.TestCase):
         self.assertEqual(post["published_time_raw"], "2天前")
         self.assertEqual(post["video_ids"], ["abc123"])
         self.assertEqual(post["image_urls"], ["https://yt3.ggpht.com/photo.jpg"])
+
+    def test_only_highest_resolution_variant_is_selected(self):
+        thread = {"post": {"backstagePostRenderer": {
+            "backstageAttachment": {"imageRenderer": {"image": {"thumbnails": [
+                {"url": "https://yt3.ggpht.com/photo_small.jpg", "width": 120, "height": 90},
+                {"url": "https://yt3.ggpht.com/photo_large.jpg", "width": 1200, "height": 900},
+            ]}}}
+        }}}
+        post = normalize_post(thread, "https://www.youtube.com/@yuncong")
+        self.assertEqual(post["image_urls"], ["https://yt3.ggpht.com/photo_large.jpg"])
 
     def test_image_download_rejects_non_youtube_host_before_network(self):
         with tempfile.TemporaryDirectory() as temp:
@@ -65,6 +76,65 @@ class SyncManifestTests(unittest.TestCase):
             (folder / "posts.json").write_bytes(content + b" ")
             with self.assertRaises(CollectionError):
                 verify_manifest(folder)
+
+
+class MonthlyArchiveTests(unittest.TestCase):
+    def test_month_uses_youtube_timestamp_in_beijing(self):
+        # 2026-09-30 16:30 UTC is already October 1 in Beijing.
+        self.assertEqual(_month({"published_timestamp": "1790785800000000"}), "2026-10")
+
+    def test_relative_month_is_marked_as_estimated(self):
+        month, precision = _month_assignment(
+            {"published_timestamp": None, "published_time_raw": "1 month ago (edited)"},
+            "2026-10-12T00:00:00+00:00",
+        )
+        self.assertEqual(month, "2026-09")
+        self.assertEqual(precision, "estimated_from_relative_display")
+
+    def test_relative_year_is_not_falsely_assigned_to_a_month(self):
+        month, precision = _month_assignment(
+            {"published_timestamp": None, "published_time_raw": "1 year ago"},
+            "2026-10-12T00:00:00+00:00",
+        )
+        self.assertEqual(month, "未识别日期")
+        self.assertEqual(precision, "unknown")
+
+    def test_relative_hour_produces_an_estimated_range_not_an_exact_timestamp(self):
+        estimate = _relative_time_estimate(
+            {"published_timestamp": None, "published_time_raw": "12 hours ago"},
+            "2026-10-12T15:44:00.097072+00:00",
+        )
+        self.assertEqual(estimate["estimated_published_at_start"], "2026-10-12T10:44+08:00")
+        self.assertEqual(estimate["estimated_published_at_end"], "2026-10-12T11:44+08:00")
+        self.assertEqual(estimate["estimated_published_at_precision"], "relative_hour")
+
+    def test_relative_day_and_week_produce_calendar_date_ranges(self):
+        reference = "2026-10-12T15:44:00+00:00"
+        day = _relative_time_estimate({"published_time_raw": "5 days ago"}, reference)
+        week = _relative_time_estimate({"published_time_raw": "3 weeks ago"}, reference)
+        self.assertEqual(day["estimated_published_at_start"], "2026-10-06T23:44+08:00")
+        self.assertEqual(day["estimated_published_at_end"], "2026-10-07T23:44+08:00")
+        self.assertEqual(week["estimated_published_at_start"], "2026-09-14T23:44+08:00")
+        self.assertEqual(week["estimated_published_at_end"], "2026-09-21T23:44+08:00")
+
+    def test_month_relative_label_does_not_claim_a_specific_date(self):
+        self.assertEqual(_relative_time_estimate({"published_time_raw": "1 month ago"},
+                                                  "2026-10-12T15:44:00+00:00"), {})
+
+    def test_snapshot_is_partitioned_into_month_folders(self):
+        with tempfile.TemporaryDirectory() as temp:
+            root = Path(temp)
+            snapshot = root / "snapshot"
+            snapshot.mkdir()
+            posts = [
+                {"post_id": "one", "published_timestamp": "1790785800000000", "text": "10月"},
+                {"post_id": "two", "published_timestamp": "1789441800000000", "text": "9月"},
+            ]
+            (snapshot / "posts.json").write_text(json.dumps({"channel_url": "https://www.youtube.com/channel/UCg9zI64pEB_3xwJPur6isiQ", "collected_at": "2026-10-12T00:00:00+00:00", "posts": posts}), encoding="utf-8")
+            result = archive_snapshot(snapshot, root / "云聪帖子全集")
+            self.assertEqual([item["month"] for item in result["months"]], ["2026-09", "2026-10"])
+            october = json.loads((root / "云聪帖子全集/2026-10/posts.json").read_text(encoding="utf-8"))
+            self.assertEqual(october["posts"][0]["post_id"], "one")
 
 if __name__ == "__main__":
     unittest.main()
