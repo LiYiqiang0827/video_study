@@ -8,7 +8,9 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
 from collect_posts import download_image, normalize_post
 from collect_posts_via_macmini import CollectionError, verify_manifest
-from archive_posts_by_month import _month, _month_assignment, _relative_time_estimate, archive_snapshot
+from archive_posts_by_month import (
+    _month, _month_assignment, _relative_time_estimate, archive_snapshot, refresh_manifests,
+)
 
 
 class NormalizePostTests(unittest.TestCase):
@@ -135,6 +137,23 @@ class MonthlyArchiveTests(unittest.TestCase):
             self.assertEqual([item["month"] for item in result["months"]], ["2026-09", "2026-10"])
             october = json.loads((root / "云聪帖子全集/2026-10/posts.json").read_text(encoding="utf-8"))
             self.assertEqual(october["posts"][0]["post_id"], "one")
+
+    def test_ppt_manifest_is_at_archive_root_and_month_manifests_stay_monthly(self):
+        with tempfile.TemporaryDirectory() as temp:
+            root = Path(temp) / "云聪帖子全集"
+            month = root / "2026-10"
+            month.mkdir(parents=True)
+            (root / "云聪帖子_2026-10.pptx").write_bytes(b"ppt")
+            (root / ".DS_Store").write_bytes(b"finder metadata")
+            (month / "posts.json").write_text(json.dumps({"posts": []}), encoding="utf-8")
+            (month / "image.jpg").write_bytes(b"image")
+
+            refresh_manifests(root)
+
+            root_manifest = json.loads((root / "MANIFEST.json").read_text(encoding="utf-8"))
+            month_manifest = json.loads((month / "MANIFEST.json").read_text(encoding="utf-8"))
+            self.assertEqual([item["path"] for item in root_manifest["files"]], ["云聪帖子_2026-10.pptx"])
+            self.assertEqual({item["path"] for item in month_manifest["files"]}, {"image.jpg", "posts.json"})
 
 if __name__ == "__main__":
     unittest.main()

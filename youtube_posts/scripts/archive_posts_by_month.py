@@ -119,9 +119,14 @@ def _atomic_json(path, value):
         Path(name).unlink(missing_ok=True)
 
 
-def _manifest(folder):
+def _manifest(folder, *, direct_only=False):
     files = []
-    for path in sorted(p for p in folder.rglob("*") if p.is_file() and p.name != "MANIFEST.json"):
+    candidates = folder.iterdir() if direct_only else folder.rglob("*")
+    for path in sorted(
+        p for p in candidates
+        if p.is_file() and p.name != "MANIFEST.json"
+        and (not direct_only or p.suffix.lower() == ".pptx")
+    ):
         data = path.read_bytes()
         files.append({"path": str(path.relative_to(folder)), "bytes": len(data),
                       "sha256": hashlib.sha256(data).hexdigest()})
@@ -134,6 +139,9 @@ def refresh_manifests(archive_root: Path):
         if (folder / "posts.json").is_file():
             _manifest(folder)
             updated.append(folder.name)
+    if any(path.is_file() and path.suffix.lower() == ".pptx" for path in archive_root.iterdir()):
+        _manifest(archive_root, direct_only=True)
+        updated.append(".")
     return updated
 
 

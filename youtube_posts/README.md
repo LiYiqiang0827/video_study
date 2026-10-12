@@ -41,15 +41,16 @@ python3 "$POSTS/scripts/collect_posts_via_macmini.py" \
 /Users/nickzhang/云聪帖子全集/
 ├── 2026-10/
 │   ├── posts.json
-│   ├── MANIFEST.json
-│   ├── 云聪帖子_2026-10.pptx
 │   └── media/<帖子ID>/image_01.jpg
 └── 未识别日期/
     ├── posts.json
-    └── 云聪帖子_约2025年10月以前（推断）.pptx
+    └── MANIFEST.json
+
+根目录直接放置所有按月 PPT、历史年份合并 PPT 和根级 MANIFEST.json：
+云聪帖子_2026-10.pptx、云聪帖子_约2025年10月以前（推断）.pptx
 ```
 
-PPT 每条帖子单独编排，保留正文、页面显示的相对时间、帖子 ID、来源链接和可用配图。若有分钟/小时/天/周级相对时间，显示按采集基准推算的时间范围，并明确标注“估算”；若精确日期未提供，也会直接注明。年份级旧帖在单一 PPT 中统一显示原始相对时间和推断范围。长文拆页，完整结构化文本仍以 `posts.json` 为准，所有原始图片仍在 `media/`。PPT 是浏览档案，不替代模型观点分析。构建使用 Codex Artifact Tool；候选稿与预览放项目 `tmp/youtube_posts/`，检查后复制到月份目录并刷新清单。
+PPT 每条帖子单独编排，保留正文、页面显示的相对时间、帖子 ID、来源链接和可用配图。若有分钟/小时/天/周级相对时间，显示按采集基准推算的时间范围，并明确标注“估算”；若精确日期未提供，也会直接注明。年份级旧帖在单一 PPT 中统一显示原始相对时间和推断范围。长文拆页，完整结构化文本仍以各月份 `posts.json` 为准，所有原始图片仍在对应 `media/`。PPT 是浏览档案，不替代模型观点分析。构建使用 Codex Artifact Tool；候选稿与预览放项目 `tmp/youtube_posts/`，检查后直接复制到 `/Users/nickzhang/云聪帖子全集/` 根目录，再刷新根级和月份级清单。
 
 ## 观点分析
 

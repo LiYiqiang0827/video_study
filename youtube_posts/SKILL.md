@@ -7,7 +7,7 @@ metadata:
 
 # 云聪 YouTube Posts
 
-通过 SSH 在已登录 YouTube 的 Mac mini 上采集用户指定的云聪频道 Posts，保留帖子原文、原始发布时间、链接、附件元数据和文件哈希。正式归档按北京时间月份写入 `/Users/nickzhang/云聪帖子全集/YYYY-MM/`，每月包括结构化 `posts.json`、原图、`MANIFEST.json` 和图文 PPT。帖子 PPT 是原文与配图的浏览档案，不替代远端 GPU Qwen 观点分析；分析仍复用观点分析板块的 GPU Qwen vLLM SSH 连接，按帖子 ID 提供证据，不把模型归纳当作已核实行情。
+通过 SSH 在已登录 YouTube 的 Mac mini 上采集用户指定的云聪频道 Posts，保留帖子原文、原始发布时间、链接、附件元数据和文件哈希。正式归档根目录为 `/Users/nickzhang/云聪帖子全集/`：所有月份 PPT 和历史合集 PPT 直接放在根目录；各月份子目录只存结构化 `posts.json`、原图和月份级 `MANIFEST.json`，根目录 `MANIFEST.json` 记录根级 PPT。帖子 PPT 是原文与配图的浏览档案，不替代远端 GPU Qwen 观点分析；分析仍复用观点分析板块的 GPU Qwen vLLM SSH 连接，按帖子 ID 提供证据，不把模型归纳当作已核实行情。
 
 开始前阅读 [工作流](references/workflow.md)；需要理解字段时阅读 [数据格式](references/data_schema.md)。
 
@@ -17,7 +17,7 @@ metadata:
 - 正式 Posts 数据必须与 `/Users/nickzhang/云聪视频全集/` 分开，写入 `/Users/nickzhang/云聪帖子全集/YYYY-MM/`。不能把帖子或月度 PPT 写入视频全集。
 - 优先按 `timestampUsec` 换算北京时间月份。若只有分钟/小时/天/周级相对时间，按采集基准计算估算时间区间，记录区间、精度、基准和说明；保留原始相对时间，不能把估算值写成精确 `published_timestamp`。月级相对时间不推算具体日期。
 - 将 `1 year ago` 及更早、无法可靠分月的年份级帖子放入 `未识别日期/`，并合并生成一个 PPT。PPT 封面根据该归档的 `month_assignment_reference` 推断粗略时间边界：采集月份为 2026-10 时，标题标为“约 2025年10月以前（推断）”。每条帖子仍显示 YouTube 原始相对时间并注明精确日期未提供；这个边界仅用于归档分组，不能当作逐条帖子的日期结论。若采集基准缺失或无效，使用“较早年份（推断；具体范围未确认）”，不可伪造边界。
-- 每月目录保存完整正文和附件元数据于 `posts.json`，图片保存于 `media/`，并生成 `云聪帖子_YYYY-MM.pptx` 与 `MANIFEST.json`。PPT 展示原始相对时间、可计算的估算区间及精度说明、帖子 ID、来源链接和可用配图；长文拆页，不删减底稿。估算归档月份不能当作精确发帖日。
+- 每月子目录保存完整正文和附件元数据于 `posts.json`，图片保存于 `media/`，并保留月份级 `MANIFEST.json`。月度 PPT `云聪帖子_YYYY-MM.pptx` 与历史范围 PPT 统一直接放 `/Users/nickzhang/云聪帖子全集/` 根目录，由根级 `MANIFEST.json` 记录。PPT 展示原始相对时间、可计算的估算区间及精度说明、帖子 ID、来源链接和可用配图；长文拆页，不删减底稿。估算归档月份不能当作精确发帖日。
 - 本机同步暂存、PPT候选稿、预览图、测试和临时脚本只放项目根 `tmp/`，Git 已忽略此目录。Mini 任务目录成功或中断清理；Cookie 仅留在 Mac mini。
 - 关联视频只保存引用；实际下载继续使用 `yuncong-member-video-download`，不从帖子附件推断用户授权下载。
 - 分析应引用帖子 ID 与原文证据，保留条件语气。模型归纳不能当作已核实行情；需人工复核来源。

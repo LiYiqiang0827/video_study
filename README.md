@@ -50,7 +50,7 @@ video_study/
 | [视频下载](video_download/README.md) | 用户指定视频或授权清单、外置登录状态 | 下载、续传、真实上传时间命名、时长/轨道/完整解码核验 | MP4、`result.json`及来源信息，交给音频板块 |
 | [音频与字幕](audio_subtitles/README.md) | 完整本地视频或冻结下载清单 | M4A/WAV提取、Qwen ASR与ForcedAligner、字幕导出、同步与归档 | MP4/M4A/SRT/VTT/MD/JSON/来源JSON七文件集合 |
 | [观点与PPT](analysis_ppt/README.md) | 已有字幕、原视频与来源记录 | 原句引用、时钟核对、同对象截图、观点与大纲、原声短片及PPT | 可编辑离线PPT、分析JSON、截图切片与可选本地阅读页 |
-| [频道 Posts](youtube_posts/README.md) | 指定频道 Posts 页；Mac mini 已登录 YouTube 账号 | 本机 SSH 到 Mini 抓取、哈希验收，按北京时间月份归档并生成图文 PPT；观点归纳调用远端 GPU Qwen | `/Users/nickzhang/云聪帖子全集/YYYY-MM/` 下 JSON、原图、月度 PPT、哈希清单和分析记录 |
+| [频道 Posts](youtube_posts/README.md) | 指定频道 Posts 页；Mac mini 已登录 YouTube 账号 | 本机 SSH 到 Mini 抓取、哈希验收，按北京时间月份归档并生成图文 PPT；观点归纳调用远端 GPU Qwen | `/Users/nickzhang/云聪帖子全集/` 根目录存放 PPT，月份子目录存 JSON、原图和清单 |
 
 下载由 `download_video.py` 或 `download_batch.py` 处理，新清单使用通用批次入口。Mac mini频繁TLS断连时使用 `run_resilient_batch.py`，它将8、9月成功的系统curl媒体传输和按时长设置的60～600次有限总重连预算用于任意授权冻结清单，仍完整解码并核对时长、轨道和SHA256。三个历史34视频批次专用脚本保留原清单哈希和执行边界，只用于原批次，不作为新任务默认入口。
 
@@ -80,7 +80,7 @@ Mac mini ~/YuncongVideoAnalysis/posts_tools/jobs/  Posts 抓取隔离任务目�
     └── 解析/                         保留的分析JSON、关键原图和来源证据
 ```
 
-~/云聪帖子全集/                       YouTube Posts 按北京时间月份归档，与视频全集分开
+~/云聪帖子全集/                       YouTube Posts PPT 汇总在根目录，JSON与图片按月放子目录
 
 Mac mini 上的 `~/YuncongVideoAnalysis/` 仍是远端下载/Posts执行环境、ASR运行环境和模型路径；SSH命令中的该路径仅指Mac mini。本机同名目录已删除，不要在本机重建，也不要把远端运行路径当作本机临时目录。Posts任务成功后会清理Mini上的唯一任务目录；帖子正式归档只写入 `/Users/nickzhang/云聪帖子全集/`。
 

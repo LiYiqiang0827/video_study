@@ -7,18 +7,18 @@
 3. Mini 结果位于唯一任务目录 `~/YuncongVideoAnalysis/posts_tools/jobs/<随机ID>/`。遇到登录、会员权限、验证码或地区拒绝即停止，不尝试绕过。
 4. 本机把闭合结果同步到项目 `tmp/youtube_posts/<随机ID>/`，根据 `MANIFEST.json` 核对文件大小与 SHA256。校验成功后按帖子 ID 去重，并优先按 `timestampUsec` 换算的北京时间月份写入 `/Users/nickzhang/云聪帖子全集/YYYY-MM/`。若页面只给分钟/小时/天/周级相对时间，可按采集基准生成估算区间，记录为 `estimated_published_at_start/end` 并附精度、基准和“非精确时间”说明；原始相对文字保留在 `published_time_raw`，不能填入 `published_timestamp`。月级相对时间只用于估算归档月份，不推具体日；`1 year ago` 及更早、无法可靠分月的年份级记录放入 `未识别日期/`。Posts 严禁写进云聪视频全集。
 5. 带 `--download-images` 时，每个图片 renderer 只保存最高分辨率版本。图片下载失败保留在帖子记录内并计入失败数；成功图片保存到月份 `media/<post_id>/` 并记录大小与 SHA256。
-6. 月份目录保存完整 `posts.json`、原图、`MANIFEST.json` 和 `云聪帖子_YYYY-MM.pptx`。PPT 对有分钟/小时/天/周级相对时间的帖子显示推算范围并标“估算”；月/年级相对时间只展示 YouTube 原文并注明精确日期未提供。估算归档月份不能当作精确发帖日。`未识别日期/` 中年份级旧帖统一制作成一个 PPT；根据 `month_assignment_reference` 的采集月份推断粗略边界，例如 2026-10 的归档标为“约 2025年10月以前（推断）”，文件名也体现该边界。每条帖子仍保留原始“1 year ago”等文本，页面明确精确日期由 YouTube 未提供；推断边界只表示归档范围。缺少有效采集基准时不得生成具体年月。月度 JSON 与媒体是可追溯底稿，PPT 是图文浏览文件。
+6. 月份子目录保存完整 `posts.json`、原图和月份级 `MANIFEST.json`；所有月度 PPT 与年份级旧帖合并 PPT 直接放在 `/Users/nickzhang/云聪帖子全集/` 根目录，根级 `MANIFEST.json` 记录这些 PPT。PPT 对有分钟/小时/天/周级相对时间的帖子显示推算范围并标“估算”；月/年级相对时间只展示 YouTube 原文并注明精确日期未提供。估算归档月份不能当作精确发帖日。`未识别日期/` 中年份级旧帖统一制作成一个 PPT；根据 `month_assignment_reference` 的采集月份推断粗略边界，例如 2026-10 的归档标为“约 2025年10月以前（推断）”，文件名也体现该边界。每条帖子仍保留原始“1 year ago”等文本，页面明确精确日期由 YouTube 未提供；推断边界只表示归档范围。缺少有效采集基准时不得生成具体年月。月度 JSON 与媒体是可追溯底稿，PPT 是图文浏览文件。
 7. 完成或中止后清理本机项目 `tmp/youtube_posts/<随机ID>/` 与 Mini 任务目录。不要将账号 Cookie、终端秘密、模型凭据或数据归档提交 Git。
 8. yt-dlp 或 YouTube 页面结构变化时，不把空结果当成功。核对频道 Posts 页小样本、更新适配器和 fixture 测试后再全量采集。
 
-月度 PPT 用 `scripts/generate_monthly_posts_ppt.mjs` 与 Codex Artifact Tool 生成。构建候选与逐页预览保存在项目 `tmp/youtube_posts/monthly_ppt/`，检查内容、图片和文字适配后，复制最终 PPT 到月份目录，再运行：
+月度 PPT 用 `scripts/generate_monthly_posts_ppt.mjs` 与 Codex Artifact Tool 生成。构建候选与逐页预览保存在项目 `tmp/youtube_posts/monthly_ppt/`，检查内容、图片和文字适配后，将最终 PPT 复制到 `/Users/nickzhang/云聪帖子全集/` 根目录，再运行：
 
 ```sh
 python3 youtube_posts/scripts/archive_posts_by_month.py \
   --archive-root '/Users/nickzhang/云聪帖子全集' --refresh-manifests
 ```
 
-该命令刷新包含 PPT、JSON 与图片的 `MANIFEST.json`。新增采集会按帖子 ID 更新月度记录，随后应重建受影响月份 PPT 并刷新清单。
+该命令刷新月份子目录中 JSON 与图片的清单，以及归档根目录中 PPT 的清单。新增采集会按帖子 ID 更新月度记录，随后应重建受影响月份 PPT 并刷新清单。
 
 ## 观点分析
 
