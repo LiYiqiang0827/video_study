@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.json
+*.jsonl
+*.html
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.mp4
+*.log
+media/
+analysis/

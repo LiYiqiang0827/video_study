@@ -1,8 +1,8 @@
 # 云聪股票交易分析 · video_study
 
-本项目把云聪视频研究工具按处理顺序分成三个板块：视频下载、音频与字幕、观点分析与PPT。每个板块包含独立技能、正式脚本、运行说明和所需提示词，可分别使用，也可顺序衔接。三个板块的代码和文档统一上传到 [LiYiqiang0827/video_study](https://github.com/LiYiqiang0827/video_study)。
+本项目把云聪 YouTube 研究工具分为四个板块：视频下载、音频与字幕、观点分析与PPT、频道 Posts。前三个视频处理板块按顺序衔接；Posts 板块独立采集、归档并分析频道文字/图片/投票等动态。各板块包含独立技能、脚本和运行说明。代码与文档统一上传到 [LiYiqiang0827/video_study](https://github.com/LiYiqiang0827/video_study)。
 
-项目帮助用户保存本人可访问的视频、获得带时间的财经字幕，再把讲者的个股与指数观点整理成带原始画线截图及原声短片的可编辑PPT。观点保持讲者原意和条件语气，时间与来源由程序保留，分析过程不补写外部行情或收益结论。
+项目帮助用户保存本人可访问的视频和频道 Posts，获得带时间的财经字幕，再把讲者的个股与指数观点整理成带原始画线截图及原声短片的可编辑PPT。观点保持讲者原意和条件语气，时间与来源由程序保留，分析过程不补写外部行情或收益结论。
 
 ## 文件夹结构
 
@@ -32,16 +32,25 @@ video_study/
 │   ├── scripts/                       时钟、观点、截图、短片与PPT
 │   ├── prompts/                       观点提炼和PPT大纲提示词
 │   └── references/                    视频解析流程与运行依赖
+├── youtube_posts/                     云聪 YouTube 频道 Posts 采集、归档与分析
+│   ├── README.md
+│   ├── SKILL.md
+│   ├── agents/openai.yaml
+│   ├── scripts/                       帖子提取、媒体归档与 GPU 千问分析
+│   ├── prompts/                       Posts 分析提示词
+│   ├── references/                    数据格式、登录与来源边界
+│   └── tests/                         离线结构与归档测试
 └── tmp/                               本机临时文件（Git忽略）
 ```
 
-## 三个板块的输入、处理与输出
+## 四个板块的输入、处理与输出
 
 | 板块 | 输入 | 主要处理 | 输出与下一步 |
 | --- | --- | --- | --- |
 | [视频下载](video_download/README.md) | 用户指定视频或授权清单、外置登录状态 | 下载、续传、真实上传时间命名、时长/轨道/完整解码核验 | MP4、`result.json`及来源信息，交给音频板块 |
 | [音频与字幕](audio_subtitles/README.md) | 完整本地视频或冻结下载清单 | M4A/WAV提取、Qwen ASR与ForcedAligner、字幕导出、同步与归档 | MP4/M4A/SRT/VTT/MD/JSON/来源JSON七文件集合 |
 | [观点与PPT](analysis_ppt/README.md) | 已有字幕、原视频与来源记录 | 原句引用、时钟核对、同对象截图、观点与大纲、原声短片及PPT | 可编辑离线PPT、分析JSON、截图切片与可选本地阅读页 |
+| [频道 Posts](youtube_posts/README.md) | 指定频道 Posts 页和可选的外置登录 Cookie | 提取帖子正文、发布时间、帖子链接与可用媒体附件，按来源归档并调用远端 GPU Qwen 归纳 | Posts JSON、可选图片文件、附帖子 ID 的分析记录 |
 
 下载由 `download_video.py` 或 `download_batch.py` 处理，新清单使用通用批次入口。Mac mini频繁TLS断连时使用 `run_resilient_batch.py`，它将8、9月成功的系统curl媒体传输和按时长设置的60～600次有限总重连预算用于任意授权冻结清单，仍完整解码并核对时长、轨道和SHA256。三个历史34视频批次专用脚本保留原清单哈希和执行边界，只用于原批次，不作为新任务默认入口。
 
@@ -55,7 +64,7 @@ video_study/
 
 ## 代码、资料与运行环境
 
-本机代码目录是 `/Users/nickzhang/Documents/ChatGPT/云聪股票交易分析`。项目内 `tmp/` 是唯一的本机临时验证位置，已由根 `.gitignore` 排除；存放临时脚本、WAV、下载或同步暂存、测试输出、候选PPT、压缩短片、日志和回执，任务结束后清理。不要将临时产物写入正式视频归档。正式视频、音频字幕、保留的解析证据和最终PPT归档在 `/Users/nickzhang/云聪视频全集/YYYYMMDD_HHMMSS_标题/`；字幕归档可通过 `YUNCONG_VIDEO_COLLECTION_ROOT` 修改。
+本机代码目录是 `/Users/nickzhang/Documents/ChatGPT/云聪股票交易分析`。项目内 `tmp/` 是唯一的本机临时验证位置，已由根 `.gitignore` 排除；存放临时脚本、WAV、下载或同步暂存、测试输出、候选PPT、压缩短片、日志和回执，任务结束后清理。不要将临时产物写入正式视频归档。正式视频、音频字幕、保留的解析证据和最终PPT归档在 `/Users/nickzhang/云聪视频全集/YYYYMMDD_HHMMSS_标题/`；频道 Posts 的正式快照归档在 `/Users/nickzhang/云聪视频全集/youtube_posts/`；字幕归档可通过 `YUNCONG_VIDEO_COLLECTION_ROOT` 修改。
 
 ```text
 项目根目录/tmp/                        本机临时下载暂存、ASR同步、测试脚本和PPT构建（Git忽略）
@@ -72,7 +81,7 @@ video_study/
 
 Mac mini 上的 `~/YuncongVideoAnalysis/` 仍是远端Qwen运行环境和模型路径；SSH命令中的该路径仅指Mac mini。本机同名目录已删除，不要在本机重建，也不要把远端运行路径当作本机临时目录。归档始终使用 `/Users/nickzhang/云聪视频全集/`。
 
-Git只包含正式源码、技能、依赖声明、提示词和文档；本机 `tmp/` 的任何内容均不提交。Cookie、账号凭据和Qwen模型始终保存在项目外。最终交付物进入独立的视频归档目录。工具允许运行暂存写入项目 `tmp/`，其他项目源码路径继续受保护。`.gitignore` 按三个板块开放正式文件，下载代码随父仓库提交，目录内没有独立Git或子模块。
+Git只包含正式源码、技能、依赖声明、提示词和文档；本机 `tmp/` 的任何内容均不提交。Cookie、账号凭据和Qwen模型始终保存在项目外。最终交付物进入独立的视频归档目录。工具允许运行暂存写入项目 `tmp/`，其他项目源码路径继续受保护。`.gitignore` 按四个板块开放正式文件，下载代码随父仓库提交，目录内没有独立Git或子模块。
 
 ## 开始使用
 
@@ -124,6 +133,7 @@ python3 "$ANALYSIS/scripts/build_video_ppt.py" \
 ln -s "$PROJECT/video_download" "$HOME/.codex/skills/yuncong-member-video-download"
 ln -s "$PROJECT/audio_subtitles" "$HOME/.codex/skills/yuncong-video-subtitles"
 ln -s "$PROJECT/analysis_ppt" "$HOME/.codex/skills/yuncong-video-analysis"
+ln -s "$PROJECT/youtube_posts" "$HOME/.codex/skills/yuncong-youtube-posts"
 ```
 
 字幕技能只处理音频与字幕，观点与PPT使用新增 `yuncong-video-analysis`。安装入口均带自身脚本与支持资料。
@@ -138,7 +148,7 @@ ln -s "$PROJECT/analysis_ppt" "$HOME/.codex/skills/yuncong-video-analysis"
 | 根目录字幕技能 | `audio_subtitles/SKILL.md` |
 | 根目录提示词与视频解析文档 | `analysis_ppt/prompts/`、`analysis_ppt/references/` |
 
-旧的下载子工程Git历史在本机工程外备份。三个板块统一使用父仓库Git。旧根目录 `scripts/` 已取消，命令应使用对应板块的新路径。`YuncongVideoTools` 旧工程链接继续指向项目根目录；已有旧脚本命令需按上表更新。已部署的三个下载脚本兼容链接和两个已安装技能链接会更新，新观点技能单独安装。
+旧的下载子工程Git历史在本机工程外备份。四个板块统一使用父仓库Git。旧根目录 `scripts/` 已取消，命令应使用对应板块的新路径。`YuncongVideoTools` 旧工程链接继续指向项目根目录；已有旧脚本命令需按上表更新。已部署的三个下载脚本兼容链接和视频处理技能链接已按各自板块维护。
 
 ## 本地复测范围
 
