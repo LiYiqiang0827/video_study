@@ -34,3 +34,7 @@ python3 "$ANALYSIS/scripts/build_video_ppt.py" --analysis '/Users/nickzhang/云�
 PPT正式成品默认同源视频名且在同一目录；可保留的 analysis JSON、审阅大纲和必要截图放在 `解析/`。WAV、压缩短片、候选文件、PPT临时包、构建状态、预览和日志均放项目 `tmp/`，禁止在视频归档里创建测试目录或留下临时构建物。复测时 `--build-dir` 和 `--output` 都使用 `tmp/` 下彼此分开的子目录；确认完成后删除整项测试目录。图片、文字、原声短片均嵌入正式PPT供离线使用。
 
 使用 `load_workspace_dependencies` 提供的外置Node/Python/Artifact Tool，并设置 `RUNTIME_NODE`、`RUNTIME_NODE_MODULES`、`RUNTIME_PYTHON`、`PRESENTATIONS_SKILL_DIR`，详见runtime说明。已有分析与大纲的构建不调用模型；已有模型原响应复验也不代表新模型推理。PPT包验证与实际软件播放分别记录。
+
+观点分析使用本机Hermes已配置的远端GPU千问服务 `llm_server_vllm`，当前模型为 `qwen3.8-27b-fp8`。脚本通过 `ssh llm-server` 调用同一vLLM接口；本机负责截图和PPT构建。Mac mini的Qwen3-ASR与ForcedAligner仅用于音频字幕流程，不用于观点分析。连接核验与调用例子见运行环境。
+
+新批次可在项目 `tmp/` 完成分析、媒体缓存、候选PPT及逐页检查，再发布到源视频的 `解析/` 和同名PPT。分析仍绑定归档视频/字幕真实路径及SHA；压缩缓存可在项目 `tmp/` 的冻结媒体清单目录内，清理暂存后正式分析与PPT仍可使用。

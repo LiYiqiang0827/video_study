@@ -11,7 +11,7 @@ import sys
 from zoneinfo import ZoneInfo
 
 sys.dont_write_bytecode = True
-from tool_paths import external_path
+from tool_paths import external_path, TEMP_ROOT
 from video_analysis_assets import extract_segment_assets, sha256, timestamp, video_duration
 
 
@@ -94,8 +94,8 @@ def build_analysis(video_dir: Path, output_dir: Path, content_path: Path,
                    frames_per_segment: int = 3) -> dict:
     video_dir = Path(video_dir).resolve()
     output_dir = external_path(output_dir)
-    if output_dir.parent != video_dir:
-        raise ValueError('analysis output must be a direct child of the video directory, e.g. 解析 or 解析_v2')
+    if output_dir.parent != video_dir and not output_dir.is_relative_to(TEMP_ROOT.resolve()):
+        raise ValueError('analysis output must be a direct child of the video directory or inside project tmp/')
     output_dir.mkdir(parents=True, exist_ok=True)
     provenance_path = video_dir / f'{video_dir.name}_来源记录.json'
     provenance = read_json(provenance_path)
@@ -126,6 +126,8 @@ def build_analysis(video_dir: Path, output_dir: Path, content_path: Path,
         raise ValueError('content analysis is bound to a different transcript')
     assembled = copy.deepcopy(content)
     assembled['schema_version'] = 1
+    # Bind reusable delivery to the verified archive, even when assets are staged.
+    assembled['source']['input_path'] = str(transcript_path)
     assembled['alignment'] = alignment
     if alignment.get('offset_seconds_range'):
         assembled['alignment']['display_summary'] = (

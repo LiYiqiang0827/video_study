@@ -12,6 +12,7 @@ from datetime import datetime, timezone
 import hashlib
 import json
 import math
+import os
 from pathlib import Path
 import re
 import shutil
@@ -19,7 +20,7 @@ import subprocess
 import sys
 
 sys.dont_write_bytecode = True
-from tool_paths import external_path
+from tool_paths import external_path, TEMP_ROOT
 
 
 def sha256(path: Path) -> str:
@@ -124,8 +125,8 @@ def prepare(args: argparse.Namespace) -> dict:
     analysis_path, plan_path = Path(args.analysis).expanduser().resolve(), Path(args.plan).expanduser().resolve()
     base = analysis_path.parent
     output = external_path(args.output_dir)
-    if not output.is_relative_to(base) or output == base:
-        raise ValueError('Video clips must be in a separate subdirectory of the analysis directory')
+    if (not output.is_relative_to(base) and not output.is_relative_to(TEMP_ROOT.resolve())) or output == base:
+        raise ValueError('Video clips must be in a separate analysis subdirectory or project tmp/')
     if not math.isfinite(args.duration) or args.duration <= 0 or not math.isfinite(args.fps) or not 1 <= args.fps <= 60 or not 0 <= args.crf <= 51:
         raise ValueError('Invalid duration, fps, or CRF')
     if args.max_width < 2 or args.max_height < 2 or args.audio_kbps <= 0:
@@ -269,7 +270,7 @@ def prepare(args: argparse.Namespace) -> dict:
                 saved_clip = {'entity_id': entity['id'], 'entity_name': entity['name'],
                               'frame_path': frame_path, 'frame_sha256': frame_hash, 'frame_seconds': frame_seconds,
                               'segment_id': segment['id'], 'reviewed_bounds': bounds, 'segment_start_seconds': segment['start_seconds'],
-                              'segment_end_seconds': segment['end_seconds'], 'path': target.relative_to(base).as_posix(),
+                              'segment_end_seconds': segment['end_seconds'], 'path': Path(os.path.relpath(target, base)).as_posix(),
                               'start_seconds': start, 'end_seconds': end,
                               'duration_seconds': float(validation['ffprobe']['format']['duration']),
                               'selection_rule': rule, 'sha256': sha256(target), 'bytes': target.stat().st_size,

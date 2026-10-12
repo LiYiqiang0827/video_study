@@ -15,6 +15,7 @@ from pathlib import Path
 from zipfile import ZipFile, ZIP_DEFLATED, ZIP_STORED
 
 from lxml import etree as ET
+from tool_paths import external_path
 
 NS = {
     "p": "http://schemas.openxmlformats.org/presentationml/2006/main",
@@ -47,10 +48,7 @@ def target_part(owner: str, target: str) -> str:
 
 
 def outside_code(path: Path) -> Path:
-    path = path.resolve()
-    if path == ROOT or ROOT in path.parents:
-        raise ValueError("Generated files must remain outside the tools checkout")
-    return path
+    return external_path(path)
 
 
 def embed(input_path: Path, spec_path: Path, output_path: Path, receipt_path: Path) -> dict:

@@ -17,7 +17,7 @@ import subprocess
 import sys
 
 sys.dont_write_bytecode = True
-from tool_paths import external_path
+from tool_paths import external_path, TEMP_ROOT
 
 SCRIPTS = Path(__file__).resolve().parent
 
@@ -75,8 +75,8 @@ def build(args: argparse.Namespace) -> dict:
     content = json.loads(analysis.read_text())
     metadata = content['metadata']
     source = external_path(metadata['source_video_path']).resolve(strict=True)
-    if analysis.parent.parent != source.parent:
-        raise ValueError('Analysis must be in a direct child of the source video folder')
+    if analysis.parent.parent != source.parent and not analysis.is_relative_to(TEMP_ROOT.resolve()):
+        raise ValueError('Analysis must be under the source video folder or project tmp/')
     if sha(source) != metadata['source_video_sha256']:
         raise ValueError('Source video differs from frozen analysis')
     transcript = external_path(content['source']['input_path']).resolve(strict=True)

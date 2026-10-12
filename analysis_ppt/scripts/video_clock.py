@@ -19,6 +19,7 @@ import os
 from pathlib import Path
 import platform
 import re
+import shutil
 import struct
 import subprocess
 import sys
@@ -27,7 +28,23 @@ from zoneinfo import ZoneInfo
 
 sys.dont_write_bytecode = True
 from tool_paths import data_root, external_path
-from extract_audio import executable, local_file, sha256_file, atomic_json
+from analysis_storage import sha256_file, atomic_json
+
+def local_file(value):
+    if "://" in str(value) or "\0" in str(value):
+        raise ValueError("Only local filesystem paths are accepted")
+    path = Path(value).expanduser().resolve(strict=True)
+    if not path.is_file():
+        raise ValueError("Source must be a local file")
+    return path
+
+def executable(value):
+    if "://" in str(value) or "\0" in str(value):
+        raise ValueError("Expected a local executable")
+    resolved = shutil.which(os.path.expanduser(str(value)))
+    if not resolved:
+        raise ValueError(f"Executable unavailable: {value}")
+    return os.path.abspath(resolved)
 
 API_REFERENCES = [
     "https://developer.apple.com/documentation/vision/vnrecognizetextrequest",

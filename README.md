@@ -49,6 +49,8 @@ video_study/
 
 新的Qwen ASR在Mac mini运行：SSH启动Mini上的Python脚本任务。`Qwen3-ASR-1.7B-8bit`识别中文，`Qwen3-ForcedAligner-0.6B-8bit`做时间对齐；两个模型都经 `mlx-audio` 使用Mini的Apple Silicon。本流程没有常驻HTTP服务，不通过oMLX。脚本、manifest及输入视频必须预先在Mini本地。任务结束后，闭合结果经SSH同步回本机并核对SHA。具体远端路径与命令见 [字幕运行环境](audio_subtitles/references/runtime.md)。
 
+观点模型使用远端GPU服务器的Qwen vLLM服务，复用本机Hermes的 `llm_server_vllm` 配置；当前为 `qwen3.8-27b-fp8`，通过 `ssh llm-server` 访问服务器回环接口。Mac mini的Qwen3-ASR与ForcedAligner负责语音识别和时间对齐，本机负责截图、审阅和PPT构建。不要把三个运行位置混淆；GPU服务不可用时不自动改用Mini文本模型。配置与凭据留在工程外，连接方法见 [观点运行环境](analysis_ppt/references/runtime.md)。
+
 观点板块的 `analyze_video_transcript.py` 提炼并校验引用，`build_video_analysis.py` 组装原图、双时间和切片，`build_video_ppt.py` 从冻结分析与大纲生成含声音短片的PPT。已有分析与大纲直接构建，已有模型原响应可离线复验。各板块Python模块在自己目录内调用，不通过旧实验目录或跨板块导入运行。
 
 ## 代码、资料与运行环境

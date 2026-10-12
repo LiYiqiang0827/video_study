@@ -347,7 +347,7 @@ def request_json(route, payload, *, transport, base_url, ssh_host, timeout, api_
     if transport == "ssh":
         if not re.fullmatch(r"[A-Za-z0-9_.@-]+", ssh_host) or ssh_host.startswith("-"):
             raise ExportError("ssh_host_invalid")
-        command = ["curl", "-sS", "--fail-with-body", "--max-time", str(timeout), "-H", "Content-Type:application/json"]
+        command = ["curl", "--noproxy", "127.0.0.1,localhost,::1", "-sS", "--fail-with-body", "--max-time", str(timeout), "-H", "Content-Type:application/json"]
         if data is not None:
             command.extend(["--data-binary", "@-"])
         command.append(url)

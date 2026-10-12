@@ -126,7 +126,8 @@ async function main() {
         if (JSON.stringify(clip.reviewed_bounds ?? null) !== JSON.stringify(segment.ppt_clip_bounds ?? null)) throw new Error('Video reviewed bounds differ from analysis');
         if (segment.ppt_clip_bounds && (clip.start_seconds < segment.ppt_clip_bounds.start_seconds || clip.end_seconds > segment.ppt_clip_bounds.end_seconds)) throw new Error('Video range crosses its visually reviewed bounds');
         const videoPath = await fs.realpath(path.resolve(path.dirname(analysisPath), clip.path));
-        if (!inside(videoPath, path.dirname(analysisPath)) || path.extname(videoPath).toLowerCase() !== '.mp4') throw new Error('Video must be a local MP4 in the analysis folder');
+        const temporaryCache = mediaPath && inside(mediaPath, tempRoot) && inside(videoPath, path.dirname(mediaPath));
+        if ((!inside(videoPath, path.dirname(analysisPath)) && !temporaryCache) || path.extname(videoPath).toLowerCase() !== '.mp4') throw new Error('Video must be a registered MP4 in the analysis folder or its project tmp media cache');
         const clipBytes = await fs.readFile(videoPath);
         if (sha(clipBytes) !== clip.sha256) throw new Error('Video hash differs from the verified manifest');
         detail.video = { ...clip, path: videoPath, poster_sha256: sha(bytes) };
@@ -162,7 +163,7 @@ async function main() {
   const cover = page('云聪视频观点');
   text(cover, plan.title, 56, 170, 1150, 180, 62, true);
   text(cover, plan.overview.focus, 56, 396, 1080, 86, 32);
-  const recordingTime = readingTime(analysis.metadata.recording_time);
+  const recordingTime = analysis.alignment?.timezone_confirmed === true ? readingTime(analysis.metadata.recording_time) : '';
   const visibleDates = [...new Set(analysis.entities.flatMap(e => e.segments.flatMap(s => (s.frames ?? [])
     .filter(f => f.desktop_clock_verified === true && /^\d{4}-\d{2}-\d{2} \d{2}:\d{2}$/.test(f.desktop_time_text ?? ''))
     .map(f => f.desktop_time_text.slice(0, 10)))))].sort();
@@ -171,7 +172,9 @@ async function main() {
   if (coverTime) text(cover, coverTime, 56, 564, 1150, 52, 23, false, colours.muted);
   note(cover);
   const overview = page('本期大纲');
-  const sections = [['大盘整体看法', plan.overview.market], ['云聪主动分析', plan.overview.self_analysis], ['网友提问', plan.overview.viewer_questions]];
+  const sections = [['大盘整体看法', plan.overview.market]];
+  if (plan.stocks.some(s => ['self', 'both'].includes(s.origin))) sections.push(['云聪主动分析', plan.overview.self_analysis]);
+  if (plan.stocks.some(s => ['viewer', 'both'].includes(s.origin))) sections.push(['网友提问', plan.overview.viewer_questions]);
   sections.forEach(([title, body], i) => {
     text(overview, title, 56, 160 + i * 155, 1080, 42, 32, true);
     text(overview, body, 56, 214 + i * 155, 1140, 74, 28);
@@ -208,8 +211,12 @@ async function main() {
     }
     if (y > 670) throw new Error(`Too much slide text: ${detail.title}; shorten before reducing fonts`);
     text(slide, detail.video ? `点击画面播放原讲解（${Math.round(detail.video.end_seconds - detail.video.start_seconds)}秒）` : detail.caption, 56, 643, 815, 33, 22);
-    const frameTime = readingTime(detail.sourceFrame.beijing_time_text);
-    text(slide, `视频 ${clock(detail.sourceFrame.video_seconds)}${frameTime ? `    北京时间 ${frameTime}` : ''}`, 56, 682, 1100, 23, 16, false, colours.muted);
+    const frame = detail.sourceFrame;
+    const confirmedZone = frame.desktop_timezone_confirmed === true || analysis.alignment?.timezone_confirmed === true;
+    const clockLabel = confirmedZone ? '北京时间' : '桌面时间';
+    const frameTime = frame.desktop_clock_verified === true && !confirmedZone
+      ? readingTime(frame.desktop_time_text) : confirmedZone ? readingTime(frame.beijing_time_text) : '';
+    text(slide, `视频 ${clock(frame.video_seconds)}${frameTime ? `    ${clockLabel} ${frameTime}` : ''}`, 56, 682, 1100, 23, 16, false, colours.muted);
     note(slide, detail);
     if (detail.video) {
       embeddingItems.push({ slide: presentation.slides.items.length, entity_id: stock.entity_id, ...detail.video });
