@@ -45,7 +45,7 @@ video_study/
 
 下载由 `download_video.py` 或 `download_batch.py` 处理，新清单使用通用批次入口。Mac mini频繁TLS断连时使用 `run_resilient_batch.py`，它将8、9月成功的系统curl媒体传输和按时长设置的60～600次有限总重连预算用于任意授权冻结清单，仍完整解码并核对时长、轨道和SHA256。三个历史34视频批次专用脚本保留原清单哈希和执行边界，只用于原批次，不作为新任务默认入口。
 
-音频板块的 `build_manifest.py` 消费已验收下载，`batch_asr.py` 调用音频提取和模型推理，`export_subtitles.py` 生成五份字幕产物，`organize_video_collection.py` 完成七文件归档。已有闭合原始结果可直接重建字幕，无须再次调用模型。
+音频板块的 `build_manifest.py` 消费已验收下载，`batch_asr.py` 调用音频提取和模型推理，`export_subtitles.py` 生成五份字幕产物，`organize_video_collection.py` 完成七文件归档。已有闭合原始结果可直接重建字幕，无须再次调用模型。为已下载归档补充字幕时，先在项目 `tmp/` 构建独立七文件包，核对已有视频后只补缺少文件；保留下载来源记录和其他正式交付，内容不同的同名文件不覆盖。正式批次映射及验收依据长期保存在媒体归档根，临时同步、WAV和验证脚本完成后清理。
 
 新的Qwen ASR在Mac mini运行：SSH启动Mini上的Python脚本任务。`Qwen3-ASR-1.7B-8bit`识别中文，`Qwen3-ForcedAligner-0.6B-8bit`做时间对齐；两个模型都经 `mlx-audio` 使用Mini的Apple Silicon。本流程没有常驻HTTP服务，不通过oMLX。脚本、manifest及输入视频必须预先在Mini本地。任务结束后，闭合结果经SSH同步回本机并核对SHA。具体远端路径与命令见 [字幕运行环境](audio_subtitles/references/runtime.md)。
 
@@ -59,9 +59,11 @@ video_study/
 项目根目录/tmp/                        本机临时下载暂存、ASR同步、测试脚本和PPT构建（Git忽略）
 
 ~/云聪视频全集/                       最终视频归档和可交付分析产物（当前为 /Users/nickzhang/云聪视频全集）
+├── COLLECTION_LAYOUT_批次名.json      正式批次的文件映射、哈希和自动验收依据
 └── YYYYMMDD_HHMMSS_标题/
     ├── 同名.mp4、.m4a、.srt、.vtt、.md、.json
     ├── 同名_来源记录.json
+    ├── 同名_下载来源记录.json          已有下载记录保留
     ├── 同名.pptx
     └── 解析/                         保留的分析JSON、关键原图和来源证据
 ```
@@ -141,3 +143,5 @@ ln -s "$PROJECT/analysis_ppt" "$HOME/.codex/skills/yuncong-video-analysis"
 整理后使用 `tmp/` 下的新目录运行音频与字幕、观点与PPT公开入口，保留旧视频、字幕、分析、大纲及PPT。测试报告只放 `tmp/`，闭合后清理；按实际结果记录输入与产物哈希、音轨时长及采样、字幕正时长/重叠/越界、引用覆盖、PPT结构/版式/媒体解码，以及重复运行保护。
 
 从已有Qwen结果导出与已有观点响应复验，只验证离线处理，不宣称发生了新的ASR或观点模型推理。缺少本机模型时不把Mac mini环境算作本地已安装。媒体嵌入与包验证不代表所有演示软件均已试播。临时测试回执在项目 `tmp/`，任务结束后清理。
+
+2026-10-12 实际处理了已下载的2026年7月会员视频15条，总长9,334.259228秒（约155.6分钟）。通过SSH在Mac mini完成完整音频提取、Qwen ASR与ForcedAligner新推理，导出2,332条字幕和全文。正式M4A、SRT、VTT、MD、JSON及来源记录已补入本机原视频目录，保留原下载来源记录；批次映射及自动验收依据见媒体归档根 `COLLECTION_LAYOUT_202607.json`。验收覆盖两端及归档文件SHA、原音轨数据哈希一致、M4A完整解码、字幕正时长/无重叠/无越界和原文映射完整；不代表已经逐条人工听音或核实股票名。

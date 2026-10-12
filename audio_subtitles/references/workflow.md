@@ -73,7 +73,9 @@ python3 "$TOOLS/scripts/export_subtitles.py" \
   --once
 ```
 
-`--watch` 等待当前批次闭合结果，不会重新调用模型。状态写在输出根的 `SUBTITLE_AUTO_STATUS.json`，每项包含真实本机生产目录和当前尝试路径，便于归档。成品为 `transcript.srt/vtt/md/json` 与 `AUTO_EXPORT_PROVENANCE.json`。
+`--watch` 等待当前批次闭合结果，不会重新调用模型。
+
+如果推理和对齐已完整闭合、仅字幕导出失败，可先诊断并修正导出器，在新的输出目录通过单RUN入口重建；严格核对当前尝试、全部声明SHA、RUN闭合和完整Qwen分块，原始文本/units不改，来源记录注明导出恢复原因。不得手工改批次状态伪造成功，也不能把真正缺失识别、对齐或截断的部分结果作为此类导出恢复。工具版本改变后必须使用新导出目录，不能覆盖旧冻结产物。状态写在输出根的 `SUBTITLE_AUTO_STATUS.json`，每项包含真实本机生产目录和当前尝试路径，便于归档。成品为 `transcript.srt/vtt/md/json` 与 `AUTO_EXPORT_PROVENANCE.json`。
 
 单个已有 RUN：
 
@@ -108,6 +110,22 @@ python3 "$TOOLS/scripts/organize_video_collection.py" \
   --output-root /Users/nickzhang/云聪视频全集
 ```
 
+## 给已下载归档补充字幕
+
+若正式目录已经包含MP4和 `_下载来源记录.json`，保留它们；整理器要求独立七文件目录，不能直接对该目录运行。先以本机视频清单、已同步当前尝试和正式导出状态在项目 `tmp/任务/collection_ready` 生成七文件包：
+
+```sh
+python3 "$TOOLS/scripts/organize_video_collection.py" \
+  --job-root /Users/nickzhang/Documents/ChatGPT/云聪股票交易分析/tmp/任务/mirror \
+  --export-status /Users/nickzhang/Documents/ChatGPT/云聪股票交易分析/tmp/任务/exports/SUBTITLE_AUTO_STATUS.json \
+  --media-manifest /Users/nickzhang/Documents/ChatGPT/云聪股票交易分析/tmp/任务/local_media_manifest.json \
+  --output-root /Users/nickzhang/Documents/ChatGPT/云聪股票交易分析/tmp/任务/collection_ready
+```
+
+清单中本机与Mini的ID、视频SHA及字节数必须一致，归档主文件名须与已有目录匹配。整批发布前核对所有既有MP4及下载来源记录SHA，检查待补文件不存在或内容一致；然后仅补入M4A、SRT、VTT、MD、JSON和 `_来源记录.json`，同名不同内容禁止覆盖。临时发布副本留在项目 `tmp/`；最终核对音轨时长/完整解码、字幕时间及原文映射，并把正式批次映射保存为归档根 `COLLECTION_LAYOUT_批次名.json`。它记录原始生产文件名、最终文件名、当前尝试及SHA，不改写冻结来源记录。保留原有下载、分析及PPT资料，因此七份核心文件之外可有正式辅助文件。完成后清理本机和Mini本任务暂存，不删解释器、模型及正式脚本。
+
+已归档视频建立ASR输入清单时，可直接读取已核验的 `_下载来源记录.json`，包含ID、绝对视频路径、SHA、字节、实际时长和秒精度北京时间，并冻结来源记录SHA；不伪造旧下载 `result.json`。同步Mini时另存远端绝对路径清单，按ID和SHA保持两端对应。
+
 ## Mac mini 到本机
 
 同步代码工程可使用普通代码复制或 Git 克隆；模型、源视频和 runtime 另行复用或配置。已有 SSH 别名 `macmini` 时：
@@ -125,3 +143,5 @@ python3 "$TOOLS/scripts/sync_asr_batch.py" \
 ## 现有结果
 
 2026 年 8—9 月 34 个批量视频，加之前单独处理的 R76 样本，已在 `/Users/nickzhang/云聪视频全集` 形成归档。该路径是本机正式媒体与交付目录。Mac mini 上的 `~/YuncongVideoAnalysis` 是远端ASR代码、模型和批次环境；本机同名目录已删除，归档不通过旧路径兼容软链接访问。重新组织应复用原 `COLLECTION_LAYOUT.json`、状态与来源记录；不要因迁入新工具工程或目录移动而重跑模型或覆盖已有成品。目录数和文件数会随新任务变化，汇报时读取当前状态。临时测试放项目 `tmp/`，结束后删除。
+
+2026-10-12 新增2026年7月15条会员视频的完整Qwen转写与对齐，累计9,334.259228秒、2,332条字幕。均归档在本机原有视频目录，未修改MP4或原下载来源记录。两条原始推理完整但导出因浮点边界比较误判失败的结果，在新目录用修正后的导出器恢复，保留原批次状态及来源说明，未重复推理。原音轨数据SHA一致、完整解码、字幕时间和原文映射检查通过；自动成品尚未逐条人工听音审核。正式归档映射与验收信息在 `/Users/nickzhang/云聪视频全集/COLLECTION_LAYOUT_202607.json`。

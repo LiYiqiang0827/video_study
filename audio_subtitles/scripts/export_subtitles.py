@@ -102,10 +102,13 @@ def validate_result(result, original):
     for cue in result.get("cues", []):
         start, end = export_asr._numeric(cue.get("start")), export_asr._numeric(cue.get("end"))
         first, last = cue.get("start_ms"), cue.get("end_ms")
+        # Compare in the same millisecond domain as inward quantization.
+        # Dividing an integer back to seconds can add an IEEE-754 ULP and
+        # incorrectly reject a boundary produced by floor(end * 1000).
         if (not cue.get("exportable") or not cue.get("text", "").strip() or duration is None
                 or start is None or end is None or not 0 <= start < end <= duration
                 or start < prior_end or not isinstance(first, int) or not isinstance(last, int)
-                or not prior_ms <= first < last or first / 1000 < start or last / 1000 > end):
+                or not prior_ms <= first < last or first < start * 1000 or last > end * 1000):
             raise storage.ExportError("display_timing_invalid", cue_id=cue.get("id"))
         prior_end, prior_ms = end, last
 

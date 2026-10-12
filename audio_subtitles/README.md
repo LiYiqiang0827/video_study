@@ -39,7 +39,7 @@ python3 "$SUB/scripts/extract_audio.py" --video '/绝对路径/视频.mp4' --out
 python3 "$SUB/scripts/export_subtitles.py" --run-dir '/已有闭合RUN' --output-dir '/Users/nickzhang/Documents/ChatGPT/云聪股票交易分析/tmp/subtitle_test_任务名' --video-id VIDEO_ID
 ```
 
-M4A复制AAC原音轨，WAV保留完整时间轴。五份字幕产物是 `transcript.json/md/srt/vtt` 和 `AUTO_EXPORT_PROVENANCE.json`。最终归档包含MP4、M4A、SRT、VTT、MD、JSON和来源JSON，七个文件共用上传时间与标题主文件名。
+M4A复制AAC原音轨，WAV保留完整时间轴。五份字幕产物是 `transcript.json/md/srt/vtt` 和 `AUTO_EXPORT_PROVENANCE.json`。最终归档包含MP4、M4A、SRT、VTT、MD、JSON和来源JSON，七个文件共用上传时间与标题主文件名。已有 `_下载来源记录.json` 和分析/PPT正式资料保留；补充字幕时先在项目 `tmp/` 构建独立七文件包，核对已有视频后仅补入缺少产物，禁止覆盖内容不同的同名文件。批次文件映射及哈希长期保存到归档根 `COLLECTION_LAYOUT_批次名.json`，详见工作流程。
 
 已有原始结果导出不等于新ASR推理。复测报告须说明实际运行的是哪条路径。字幕完成后交给相邻 `analysis_ppt/`，不在这里生成观点或PPT。
 

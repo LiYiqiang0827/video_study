@@ -73,7 +73,9 @@ def directory_name(item):
         raise ValueError('Upload time must include a timezone')
     prefix = instant.astimezone(ZoneInfo('Asia/Shanghai')).strftime('%Y%m%d_%H%M%S_')
     title = unicodedata.normalize('NFC', item['title'])
-    title = re.sub(r'[\\/:\x00-\x1f\x7f]', '_', title).strip().rstrip('.')
+    title = re.sub(r'[\\/:\x00-\x1f\x7f]', '_', title)
+    # Match the downloader's whitespace normalization for the shared stem.
+    title = re.sub(r'\s+', ' ', title).strip().rstrip('.')
     if not title or title in ('.', '..'):
         raise ValueError('Video title has no usable characters')
     name = prefix + title
