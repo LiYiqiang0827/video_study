@@ -4,12 +4,12 @@ from __future__ import annotations
 
 import argparse
 import hashlib
+import itertools
 import json
 import mimetypes
-import os
 import re
+import subprocess
 import sys
-import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urlparse
@@ -103,18 +103,35 @@ def normalize_post(thread, channel_url):
     }
 
 
-def download_image(url, target):
+def safe_component(value):
+    value = re.sub(r"[^A-Za-z0-9_-]+", "_", str(value)).strip("._")
+    return value[:100] or "post"
+
+
+def download_image(url, target, proxy=None):
     parsed = urlparse(url)
     host = (parsed.hostname or "").lower()
     if parsed.scheme != "https" or not any(host == domain or host.endswith("." + domain)
                                             for domain in ("ytimg.com", "googleusercontent.com", "ggpht.com")):
         raise ValueError("image_url_host_not_allowed")
-    request = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-    with urllib.request.urlopen(request, timeout=30) as response:
-        data = response.read(25 * 1024 * 1024 + 1)
-        if len(data) > 25 * 1024 * 1024:
-            raise ValueError("image_too_large")
-        content_type = response.headers.get_content_type()
+    target.parent.mkdir(parents=True, exist_ok=True)
+    temp = target.with_name(target.name + ".part")
+    command = ["/usr/bin/curl", "--silent", "--show-error", "--fail", "--location", "--proto-redir", "=https",
+               "--max-time", "30", "--max-filesize", str(25 * 1024 * 1024), "--retry", "2", "--output", str(temp),
+               "--write-out", "%{content_type}"]
+    if proxy:
+        command.extend(["--proxy", proxy])
+    command.append(url)
+    try:
+        result = subprocess.run(command, capture_output=True, timeout=40)
+        if result.returncode:
+            raise ValueError("image_download_failed")
+        content_type = result.stdout.decode("ascii", errors="replace").split(";", 1)[0].strip() or "application/octet-stream"
+        if not temp.is_file() or temp.stat().st_size > 25 * 1024 * 1024:
+            raise ValueError("image_too_large_or_missing")
+        data = temp.read_bytes()
+    finally:
+        temp.unlink(missing_ok=True)
     ext = mimetypes.guess_extension(content_type) or Path(parsed.path).suffix or ".bin"
     if ext == ".jpe":
         ext = ".jpg"
@@ -125,7 +142,7 @@ def download_image(url, target):
     return {"path": str(target), "bytes": len(data), "sha256": hashlib.sha256(data).hexdigest(), "content_type": content_type}
 
 
-def collect(channel_url, cookie_file=None, max_posts=None):
+def collect(channel_url, cookie_file=None, max_posts=None, proxy=None, impersonate_chrome=False):
     try:
         import yt_dlp
         from yt_dlp.extractor.youtube._tab import YoutubeTabIE
@@ -137,32 +154,33 @@ def collect(channel_url, cookie_file=None, max_posts=None):
     def capture(self, thread):
         record = normalize_post(thread, channel_url)
         if record:
-            yield {"_type": "url", "ie_key": "YoutubeTab", "id": record["post_id"],
-                   "url": record["url"] or channel_url, "title": record["text"][:120],
-                   "description": json.dumps(record, ensure_ascii=False)}
+            yield record
 
     YoutubeTabIE._post_thread_entries = capture
-    options = {"quiet": True, "no_warnings": True, "skip_download": True, "extract_flat": "in_playlist",
-               "cachedir": False, "playlistend": max_posts}
+    options = {"quiet": True, "no_warnings": True, "skip_download": True, "cachedir": False,
+               "retries": 2, "extractor_retries": 2,
+               "tls_connection_retries": 2, "socket_timeout": 30}
     if cookie_file:
         options["cookiefile"] = str(cookie_file)
+    if proxy:
+        options["proxy"] = proxy
+    if impersonate_chrome:
+        from yt_dlp.networking.impersonate import ImpersonateTarget
+        options["impersonate"] = ImpersonateTarget.from_str("chrome")
     try:
         with yt_dlp.YoutubeDL(options) as ydl:
-            info = ydl.extract_info(channel_url.rstrip("/") + "/posts", download=False)
+            info = YoutubeTabIE(ydl).extract(channel_url.rstrip("/") + "/posts")
+            iterator = (info or {}).get("entries") or []
+            entries = list(itertools.islice(iterator, max_posts)) if max_posts is not None else list(iterator)
     finally:
         YoutubeTabIE._post_thread_entries = original
-    entries = (info or {}).get("entries") or []
     records, seen = [], set()
     for entry in entries:
-        if not isinstance(entry, dict) or not entry.get("description"):
+        if not isinstance(entry, dict) or not entry.get("post_id"):
             continue
-        try:
-            record = json.loads(entry["description"])
-        except (TypeError, json.JSONDecodeError):
-            continue
-        if record["post_id"] not in seen:
-            seen.add(record["post_id"])
-            records.append(record)
+        if entry["post_id"] not in seen:
+            seen.add(entry["post_id"])
+            records.append(entry)
     if not records:
         raise RuntimeError("posts_not_extracted_check_channel_url_access_and_ytdlp_compatibility")
     return records
@@ -175,41 +193,52 @@ def main(argv=None):
     parser.add_argument("--cookie-file", type=Path, help="Optional user-provided cookie export stored outside the repository")
     parser.add_argument("--max-posts", type=int, help="Upper limit for posts returned by the extractor")
     parser.add_argument("--download-images", action="store_true")
+    parser.add_argument("--proxy", help="Existing proxy on the execution machine")
+    parser.add_argument("--impersonate-chrome", action="store_true")
     args = parser.parse_args(argv)
     url = args.channel_url.rstrip("/")
     if not re.fullmatch(r"https://www\.youtube\.com/(?:@[^/]+|channel/UC[A-Za-z0-9_-]{22}|c/[^/]+|user/[^/]+)", url):
         parser.error("Use an explicit https://www.youtube.com channel URL or handle")
     if args.max_posts is not None and args.max_posts < 1:
         parser.error("--max-posts must be positive")
+    if args.proxy:
+        proxy = urlparse(args.proxy)
+        if proxy.scheme not in {"http", "https", "socks5", "socks5h"} or not proxy.hostname or proxy.username or proxy.password:
+            parser.error("Proxy must be an existing URL without embedded credentials")
     cookie_arg = args.cookie_file.expanduser() if args.cookie_file else None
     if cookie_arg and cookie_arg.is_symlink():
         parser.error("Cookie path must not be a symlink")
     cookie = cookie_arg.resolve(strict=True) if cookie_arg else None
     if cookie and not cookie.is_file():
         parser.error("Cookie path must be a regular file")
-    project_root = Path(__file__).resolve().parents[2]
-    if cookie and cookie.is_relative_to(project_root):
-        parser.error("Cookie file must remain outside the project directory")
     output = args.output_dir.expanduser().resolve()
     if output.exists():
         parser.error("Output directory already exists; choose a fresh path to preserve prior snapshots")
     output.mkdir(parents=True, mode=0o700)
     try:
-        posts = collect(url, cookie, args.max_posts)
+        posts = collect(url, cookie, args.max_posts, args.proxy, args.impersonate_chrome)
         if args.download_images:
             for post in posts:
                 for index, image_url in enumerate(post["image_urls"], 1):
                     try:
-                        saved = download_image(image_url, output / "media" / post["post_id"] / f"image_{index:02d}")
+                        saved = download_image(image_url, output / "media" / safe_component(post["post_id"]) / f"image_{index:02d}", args.proxy)
+                        saved["path"] = str(Path(saved["path"]).relative_to(output))
                         post["downloaded_images"].append(saved)
                     except Exception as exc:
                         post["downloaded_images"].append({"url": image_url, "error": type(exc).__name__})
+        image_failures = sum(1 for post in posts for image in post["downloaded_images"] if image.get("error"))
         value = {"schema_version": 1, "channel_url": url, "collected_at": datetime.now(timezone.utc).isoformat(),
-                 "collector": "yt-dlp YoutubeTabIE Posts renderer adapter", "post_count": len(posts), "posts": posts}
+                 "collector": "yt-dlp YoutubeTabIE Posts renderer adapter", "post_count": len(posts),
+                 "image_download_failures": image_failures, "posts": posts}
         data = json.dumps(value, ensure_ascii=False, indent=2).encode("utf-8")
         path = output / "posts.json"
         with path.open("xb") as stream:
             stream.write(data)
+        files = []
+        for item in sorted(p for p in output.rglob("*") if p.is_file()):
+            files.append({"path": str(item.relative_to(output)), "bytes": item.stat().st_size,
+                          "sha256": hashlib.sha256(item.read_bytes()).hexdigest()})
+        (output / "MANIFEST.json").write_text(json.dumps({"schema_version": 1, "files": files}, indent=2), encoding="utf-8")
         print(json.dumps({"state": "collected", "post_count": len(posts), "path": str(path),
                           "sha256": hashlib.sha256(data).hexdigest()}, ensure_ascii=False))
         return 0
