@@ -52,7 +52,7 @@ video_study/
 
 ## 代码、资料与运行环境
 
-代码默认放在本机 `/Users/nickzhang/Documents/ChatGPT/云聪股票交易分析`。资料根默认 `~/YuncongVideoAnalysis`，本机为 `/Users/nickzhang/YuncongVideoAnalysis`，通过 `YUNCONG_DATA_ROOT` 修改。
+代码默认放在本机 `/Users/nickzhang/Documents/ChatGPT/云聪股票交易分析`。下载、ASR任务、模型和运行环境的资料根默认 `~/YuncongVideoAnalysis`，本机为 `/Users/nickzhang/YuncongVideoAnalysis`，通过 `YUNCONG_DATA_ROOT` 修改。最终视频归档与同目录生成的PPT、解析文件位于独立目录 `~/云聪视频全集`；字幕归档可通过 `YUNCONG_VIDEO_COLLECTION_ROOT` 修改其默认位置。
 
 ```text
 YuncongVideoAnalysis/                  工程外资料，按实际任务创建
@@ -60,14 +60,17 @@ YuncongVideoAnalysis/                  工程外资料，按实际任务创建
 ├── batches/                          下载清单、结果与日志
 ├── asr_batches/、asr_results/         转写任务和原始模型输出
 ├── runtime/                          环境、模型与缓存
-├── asr_reviews/、skill_validation/    内部复验资料
-└── 云聪视频全集/
-    └── YYYYMMDD_HHMMSS_标题/
-        ├── 同名.mp4、.m4a、.srt、.vtt、.md、.json
-        ├── 同名_来源记录.json
-        ├── 同名.pptx
-        └── 解析/                     分析JSON、原图与短片
+└── asr_reviews/、skill_validation/    内部复验资料
+
+~/云聪视频全集/                       最终视频归档和可交付分析产物
+└── YYYYMMDD_HHMMSS_标题/
+    ├── 同名.mp4、.m4a、.srt、.vtt、.md、.json
+    ├── 同名_来源记录.json
+    ├── 同名.pptx
+    └── 解析/                         分析JSON、原图与短片
 ```
+
+旧路径 `~/YuncongVideoAnalysis/云聪视频全集` 保留为兼容软链接，指向新的 `~/云聪视频全集`，以维持归档记录中已有的绝对路径。
 
 代码库只包含正式源码、技能、依赖声明、提示词和文档。Cookie、账号凭据、视频音频、模型、环境、私人任务清单和处理结果存放在工程外。路径保护覆盖整个项目，软链接指向项目内部的输出也会被拒绝。`.gitignore` 按三个板块开放正式文件，下载代码现在随父仓库提交，目录内没有独立Git或子模块。
 

@@ -351,7 +351,9 @@ def organize(job_root, output_root, extra_items_json=None, export_status=None, m
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--job-root', type=Path, default=JOB)
-    parser.add_argument('--output-root', type=Path, default=BASE / '云聪视频全集')
+    default_collection_root = Path(os.environ.get(
+        'YUNCONG_VIDEO_COLLECTION_ROOT', str(Path.home() / '云聪视频全集')))
+    parser.add_argument('--output-root', type=Path, default=default_collection_root)
     parser.add_argument('--extra-items-json', type=Path)
     parser.add_argument('--export-status', type=Path, help='Use a specific subtitle export status')
     parser.add_argument('--media-manifest', type=Path, help='Local verified media paths when remote paths differ')

@@ -5,7 +5,7 @@ description: 基于云聪视频已有字幕提炼个股与指数观点，核对�
 
 # 云聪观点分析与PPT
 
-代码在本技能的 `scripts/`，提示词在 `prompts/`。本机根目录为 `/Users/nickzhang/Documents/ChatGPT/云聪股票交易分析/analysis_ppt`，资料默认在 `~/YuncongVideoAnalysis`。依赖、模型和所有产物均在整个代码工程之外。每个板块可通过技能链接独立发现，不依赖音频板块的Python模块。
+代码在本技能的 `scripts/`，提示词在 `prompts/`。本机根目录为 `/Users/nickzhang/Documents/ChatGPT/云聪股票交易分析/analysis_ppt`，分析任务和运行资料默认在 `~/YuncongVideoAnalysis`。最终视频归档位于 `~/云聪视频全集`；PPT、解析JSON、原图和短片默认与对应视频放在同一视频目录。依赖、模型和所有产物均在整个代码工程之外。每个板块可通过技能链接独立发现，不依赖音频板块的Python模块。
 
 ## 使用流程
 

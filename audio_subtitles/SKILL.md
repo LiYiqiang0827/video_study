@@ -5,7 +5,7 @@ description: 从已下载的云聪中文财经视频提取原音轨和识别音�
 
 # 云聪音频与字幕
 
-正式代码位于本技能的 `scripts/`。本机路径为 `/Users/nickzhang/Documents/ChatGPT/云聪股票交易分析/audio_subtitles`。代码、技能和文档由整个项目统一Git管理。默认资料根为 `~/YuncongVideoAnalysis`，可用 `YUNCONG_DATA_ROOT` 修改；媒体、模型、环境、日志和结果均在整个代码项目之外。
+正式代码位于本技能的 `scripts/`。本机路径为 `/Users/nickzhang/Documents/ChatGPT/云聪股票交易分析/audio_subtitles`。代码、技能和文档由整个项目统一Git管理。下载、ASR任务、模型、环境和日志的资料根为 `~/YuncongVideoAnalysis`，可用 `YUNCONG_DATA_ROOT` 修改。最终视频归档目录独立位于 `~/云聪视频全集`；归档脚本可用 `YUNCONG_VIDEO_COLLECTION_ROOT` 指定其他目录。旧路径 `~/YuncongVideoAnalysis/云聪视频全集` 目前是指向新位置的兼容软链接。所有媒体与处理结果均在整个代码项目之外。
 
 正式ASR在Mac mini上通过SSH启动Python任务，本机不需要Qwen HTTP服务，也不使用oMLX。运行时先把本板块代码同步到Mini，输入视频也必须在Mini上。使用 `~/YuncongVideoAnalysis/asr_tools/venv/bin/python` 和 `~/YuncongVideoAnalysis/asr_tools/models/` 内的 `Qwen3-ASR-1.7B-8bit` 与 `Qwen3-ForcedAligner-0.6B-8bit`；两个模型通过 `mlx-audio` 在Apple Silicon运行。提交任务前确认Mini当前没有重复worker。任务闭合后经SSH同步并核对SHA。命令见 [运行环境](references/runtime.md)。
 
@@ -30,7 +30,7 @@ description: 从已下载的云聪中文财经视频提取原音轨和识别音�
 
 ## 最终交付
 
-`云聪视频全集/YYYYMMDD_HHMMSS_标题/`，日期时间为实际上传北京时间。每个目录七个内容文件共用目录名作为主文件名：
+`~/云聪视频全集/YYYYMMDD_HHMMSS_标题/`，日期时间为实际上传北京时间。每个目录七个内容文件共用目录名作为主文件名：
 
 - `.mp4`：源视频。
 - `.m4a`：可直接播放的原音频。

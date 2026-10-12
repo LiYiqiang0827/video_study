@@ -1,6 +1,6 @@
 # 音频提取与字幕提取
 
-输入是已完整下载的本地视频或冻结下载清单，输出是可播放M4A、识别用WAV、句级字幕和全文。技能为 `yuncong-video-subtitles`。本板块的Python模块全部位于自己的 `scripts/`，不依赖观点板块。
+输入是已完整下载的本地视频或冻结下载清单，输出是可播放M4A、识别用WAV、句级字幕和全文。技能为 `yuncong-video-subtitles`。本板块的Python模块全部位于自己的 `scripts/`，不依赖观点板块。最终七文件归档默认写入 `~/云聪视频全集`，可用 `YUNCONG_VIDEO_COLLECTION_ROOT` 修改；Qwen模型、运行环境和批次工作目录仍在 `~/YuncongVideoAnalysis`。
 
 ## 目录
 

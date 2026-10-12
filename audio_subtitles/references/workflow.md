@@ -92,7 +92,7 @@ python3 "$TOOLS/scripts/export_subtitles.py" \
 python3 "$TOOLS/scripts/organize_video_collection.py" \
   --job-root /Users/nickzhang/YuncongVideoAnalysis/asr_batches/new_batch/job \
   --export-status /Users/nickzhang/YuncongVideoAnalysis/asr_batches/new_batch/subtitle_exports/SUBTITLE_AUTO_STATUS.json \
-  --output-root /Users/nickzhang/YuncongVideoAnalysis/云聪视频全集_新批次
+  --output-root /Users/nickzhang/云聪视频全集_新批次
 ```
 
 目录与文件共用 `YYYYMMDD_HHMMSS_标题`，来源 JSON 加 `_来源记录`。SHA 与当前尝试必须匹配；不能以旧字幕配新的音频。现有旧归档文件可按记录原地迁移命名，内容一致则跳过，不覆盖用户编辑。
@@ -105,7 +105,7 @@ python3 "$TOOLS/scripts/organize_video_collection.py" \
 python3 "$TOOLS/scripts/organize_video_collection.py" \
   --job-root /Users/nickzhang/YuncongVideoAnalysis/asr_reviews/单视频归档报告 \
   --extra-items-json /Users/nickzhang/YuncongVideoAnalysis/asr_results/单视频归档清单.json \
-  --output-root /Users/nickzhang/YuncongVideoAnalysis/云聪视频全集_单视频
+  --output-root /Users/nickzhang/云聪视频全集_单视频
 ```
 
 ## Mac mini 到本机
@@ -124,4 +124,4 @@ python3 "$TOOLS/scripts/sync_asr_batch.py" \
 
 ## 现有结果
 
-2026 年 8—9 月 34 个批量视频，加之前单独处理的 R76 样本，已在 `/Users/nickzhang/YuncongVideoAnalysis/云聪视频全集` 形成 35 个目录、245 个内容文件。重新组织应复用原 `COLLECTION_LAYOUT.json`、状态与来源记录；不要因迁入新工具工程而重跑模型或覆盖已有成品。该数字是工程整理时的实测快照，后续汇报应读当前状态。
+2026 年 8—9 月 34 个批量视频，加之前单独处理的 R76 样本，已在 `/Users/nickzhang/云聪视频全集` 形成归档。旧路径 `/Users/nickzhang/YuncongVideoAnalysis/云聪视频全集` 是兼容软链接。重新组织应复用原 `COLLECTION_LAYOUT.json`、状态与来源记录；不要因迁入新工具工程或目录移动而重跑模型或覆盖已有成品。目录数和文件数会随新任务变化，汇报时读取当前状态。
