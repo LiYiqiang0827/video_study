@@ -32,6 +32,8 @@
 !audio_subtitles/scripts/*.py
 !audio_subtitles/scripts/*.mjs
 !audio_subtitles/scripts/requirements*.txt
+!audio_subtitles/tests/
+!audio_subtitles/tests/*.py
 !analysis_ppt/
 !analysis_ppt/README.md
 !analysis_ppt/SKILL.md

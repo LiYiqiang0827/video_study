@@ -8,6 +8,7 @@
 - `scripts/`：音频提取、Qwen转写对齐、字幕导出、批次管理及来源校验。
 - `references/workflow.md`：完整批次、字幕重建、同步与七文件归档。
 - `references/runtime.md`：本机和Mac mini环境、模型准备与恢复。
+- `tests/`：字幕时间映射、零时长和短碎片整理的回归测试。
 - `requirements-asr.txt`：Apple Silicon MLX推理依赖，安装在工程外。
 
 ## 主要入口
@@ -24,6 +25,12 @@
 | `prepare_asr_models.py` | 正式两个模型准备与核验 |
 
 其余文件是上述入口使用的字幕策略、存储和路径模块。
+
+运行本地回归测试：
+
+```sh
+python3 -m unittest discover -s audio_subtitles/tests -v
+```
 
 ```sh
 SUB='/实际克隆目录/audio_subtitles'
