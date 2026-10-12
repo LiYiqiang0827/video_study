@@ -19,6 +19,7 @@
 | `web_creator` 直链 403 | 它的媒体请求可能需要 GVS Token；先尝试已验证的单独 `web_safari` + HLS。无需为了这条可用路径新增服务 |
 | 单独 Safari 没有 HLS | 保留 `format_unavailable`；默认脚本不偷偷切到 HTTPS/360p。确需改变客户端或格式，先核对官方当前说明，显式指定 `--format-mode auto` 并重新完整验收 |
 | `web_safari` Player API 因 TLS 被跳过 | 先诊断连接；`--tls-connection-retries 2` 只对每请求至多两次瞬时 TLS 重连，整个下载器实例额外重连总数至多六次，HTTP/认证/证书错误不在该重连范围 |
+| 默认6次总重连预算耗尽，且同一Mac mini历史系统curl路径曾通过完整验收 | 对授权冻结清单使用 `run_resilient_batch.py`，复用系统curl及按时长60～600次总预算；先验收一条再恢复批次。不能把检测页200/204说成媒体网络已修复，不能反复盲跑整批 |
 | 视频可解码但实际时长较短 | 不通过完整验收；比较冻结时长、网页时长和每条音视频轨，不把短文件长度重新当成正确答案 |
 | 某条轨道缺时长或起点 | 保留 `stream_timing_requires_review`；不能把未知值当零或直接认定音画一致 |
 | 元数据可读但无媒体 | `probe-only` 不能证明媒体下载或会员权限已完整验证 |

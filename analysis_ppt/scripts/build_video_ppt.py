@@ -123,7 +123,7 @@ def build(args: argparse.Namespace) -> dict:
         if output.exists():
             raise FileExistsError('Existing PPT preserved; inspect its previous receipt or use --output')
         media_key = hashlib.sha256(json.dumps(contract, sort_keys=True).encode()).hexdigest()[:12]
-        media_dir = analysis.parent / f'ppt_media_{media_key}'
+        media_dir = workspace / f'ppt_media_{media_key}'
         state = {'contract': contract, 'state': 'running', 'stage': 'compressing',
                  'media_dir': str(media_dir), 'model_calls': 0}
         dump(state_path, state)

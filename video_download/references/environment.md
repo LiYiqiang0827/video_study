@@ -9,6 +9,7 @@
 | SSH 别名 | `macmini`，用户已授权时可用 |
 | 私人工作目录 | `/Users/nickzhang/YuncongVideoAnalysis` |
 | 独立 Python | `/Users/nickzhang/YuncongVideoAnalysis/download_tools/venv/bin/python` |
+| 正式脚本部署 | `/Users/nickzhang/YuncongVideoAnalysis/download_tools/project_scripts/`，与本项目 `video_download/scripts/` 同步 |
 | 单站导出 | `/Users/nickzhang/YuncongVideoAnalysis/local_auth/www.youtube.com_cookies.txt` |
 | Mac mini 工具路径 | `/opt/homebrew/bin`，备用 Node 在 `~/.local/bin` |
 | 下载网络 | 已有 mixed-port 7890 的 `socks5h://127.0.0.1:7890`，Chrome 网络后端 |
@@ -17,6 +18,8 @@
 | 私人实测记录 | `~/YuncongVideoAnalysis/download_tools/MAC_TEST_RESULT.md` |
 
 上面的代理只在该环境已存在且可用时使用。不更改系统代理、不替用户切换账号或浏览器安全设置。新建独立环境使用随附 `scripts/requirements.txt`，这是已验证版本组合，不是“永远最新版本”。
+
+2026-10-12复核：旧8、9月34条批次使用系统curl媒体路径与按时长放宽的有限TLS重连，已全部通过验收。7月15条会员视频的通用下载器在仅6次总预算下连续失败，恢复同一成功路径后15条全部通过完整解码、时长与轨道核验，并复制到本机视频全集，SHA256一致；其中一条实际重连86次。现有Cookie未更换。新授权批次在此Mac mini环境优先使用 `run_resilient_batch.py`，见 [批次说明](batch.md)；正式入口复跑已完成批次时跳过全部15条，没有新增下载尝试。这说明旧网络处理路径有效，不代表底层TLS断连原因已查明。
 
 ```sh
 python3 -m venv '/absolute/private/root/download_tools/venv'
@@ -28,7 +31,7 @@ Python ≥3.11、Node ≥22；显式配置 Node 是必需步骤，脚本会找�
 
 ## Mac mini 运行方式
 
-把本技能目录同步到 Mac mini 的 `~/.codex/skills/yuncong-member-video-download`，使用那台机器的 Python、Cookie 和代理。也可把完整 `scripts` 目录复制到私人 `download_tools` 并替换调用路径；脚本间有依赖，不能只复制单个文件。不要把 Cookie 复制到本机或另一代理去做下载。
+把本项目 `video_download/scripts/` 完整同步到 Mac mini 的 `~/YuncongVideoAnalysis/download_tools/project_scripts/`，使用那台机器的 Python、Cookie 和代理。也可把本技能目录部署到该机的 `~/.codex/skills/yuncong-member-video-download`；脚本间有依赖，不能只复制单个文件。不要把 Cookie 复制到本机或另一代理去做下载。正式批次调用固定部署目录的 `run_resilient_batch.py`，不依赖任务结束会删除的临时测试脚本。
 
 ```sh
 ssh -o BatchMode=yes -o ConnectTimeout=10 macmini \

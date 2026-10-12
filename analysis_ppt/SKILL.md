@@ -5,7 +5,7 @@ description: 基于云聪视频已有字幕提炼个股与指数观点，核对�
 
 # 云聪观点分析与PPT
 
-代码在本技能的 `scripts/`，提示词在 `prompts/`。本机根目录为 `/Users/nickzhang/Documents/ChatGPT/云聪股票交易分析/analysis_ppt`，分析任务和运行资料默认在 `~/YuncongVideoAnalysis`。最终视频归档位于 `~/云聪视频全集`；PPT、解析JSON、原图和短片默认与对应视频放在同一视频目录。依赖、模型和所有产物均在整个代码工程之外。每个板块可通过技能链接独立发现，不依赖音频板块的Python模块。
+代码在本技能的 `scripts/`，提示词在 `prompts/`。本机根目录为 `/Users/nickzhang/Documents/ChatGPT/云聪股票交易分析/analysis_ppt`。临时分析复测、构建目录、候选PPT、预览图、视频压缩缓存及日志统一放在项目 `/Users/nickzhang/Documents/ChatGPT/云聪股票交易分析/tmp/`，该目录由 `.gitignore` 排除，任务闭合后清理。正式视频归档根目录为 `/Users/nickzhang/云聪视频全集/`；保留的 `analysis.json`、审阅大纲、关键截图、最终PPT和必要来源记录放入对应视频目录的 `解析/` 或同级文件，不把临时构建包与测试产物留在归档中。本机 `~/YuncongVideoAnalysis` 已删除；不得把它当作本机资料根。若观点模型或ASR需在远端运行，须把远端路径明确标注为远端，不能与本机目录混用。
 
 ## 使用流程
 
@@ -15,7 +15,7 @@ description: 基于云聪视频已有字幕提炼个股与指数观点，核对�
 4. `analyze_video_transcript.py` 使用 [观点提示词](prompts/video_analysis.md) 调用Qwen/Hermes或通过 `--raw-response` 离线复验已有响应。模型给引用，程序从字幕推导时间。原响应与审阅修订分开保存。
 5. `build_video_analysis.py` 组装观点、同对象截图与切片；`render_video_analysis.py` 生成本地阅读材料。核对画面对象、股票名、条件语气与片段边界。
 6. 按 [PPT大纲提示词](prompts/video_ppt_outline.md) 从已有分析生成 `yuncong_ppt_plan_v1`。已有冻结分析与大纲时直接复用。
-7. 默认用 `build_video_ppt.py --analysis ... --plan ... --build-dir 工程外新目录` 完成短片准备、嵌入与验证。成品默认同视频名同目录；新测试使用 `--output` 指定新的成品，避免覆盖。逐页检查版式与证据，播放结论按实际使用的软件记录。
+7. 默认用 `build_video_ppt.py --analysis ... --plan ... --build-dir "$PROJECT/tmp/ppt_build_<任务名>/build" --output "$VIDEO_DIR/<成品名>.pptx"` 完成短片准备、嵌入与验证。临时构建、压缩视频、候选文件和回执只在项目 `tmp/`；最终PPT与需保留的分析资料放入对应视频归档目录。新测试的构建目录和PPT输出都必须位于项目 `tmp/`，并放在彼此分开的子目录中，例如 `tmp/ppt_test/build/` 和 `tmp/ppt_test/output/test.pptx`；不能在 `云聪视频全集` 下新建测试目录。逐页检查版式与证据，播放结论按实际使用的软件记录。
 
 ## 内容与交付规则
 
@@ -25,4 +25,4 @@ PPT、阅读页和纯文本摘要保持简洁，不展示注意/不确定性附�
 
 讲者确有指数/大盘K线图解时，在大纲后的 `market_items` 详情中保存原始截图与有声片段，不能只剩一句大盘结论。只看到指数行情不等于讲者作出观点。字幕名与原帧名字不同，保留音频原名和原句，核验后的展示名另存 `visual_identity`；不静默改源字幕。无法形成单一时钟映射时，保留段落时间未知，允许实际核验的关键帧显示其直接可见桌面分钟，不推算未核验片段。
 
-PPT 短片只能来自截图对应的同对象、同段原视频。默认最高 720p 且不放大、15 fps、H.264 CRF 28 和 AAC 64 kbps，保留声音；目标约 32 秒，短段保留全段，不跨话题或凑长度。底层压缩CLI仍默认CRF24，可调。媒体清单冻结 `analysis_sha256`、`plan_sha256`，逐段记录 `entity_id`、`frame_path`、`segment_id`、`path`、`start_seconds`、`end_seconds` 和 `sha256`。原分析、原七文件不改，短片、清单、构建预览与成品都在工程外。相同输入按闭合回执与哈希复用，构建有锁和阶段状态；失败先检查日志，改变输入或参数换新构建目录，不覆盖无匹配回执的既有PPT。检查包内媒体、哈希、完整解码及原生演示软件实际点击播放后才能声称播放成功；媒体计数仅证明导入。当前本机未装 PowerPoint，兼容性按实际试播的软件与版本记录，不推断其他播放器也已通过。
+PPT 专用压缩短片只能来自截图对应的同对象、同段原视频。默认最高 720p 且不放大、15 fps、H.264 CRF 28 和 AAC 64 kbps，保留声音；目标约 32 秒，短段保留全段，不跨话题或凑长度。底层压缩CLI仍默认CRF24，可调。媒体清单冻结 `analysis_sha256`、`plan_sha256`，逐段记录 `entity_id`、`frame_path`、`segment_id`、`path`、`start_seconds`、`end_seconds` 和 `sha256`。原分析、原七文件不改，PPT专用压缩短片、清单、构建预览与临时回执在项目 `tmp/`；正式PPT和需要保留的分析资料放归档目录。相同输入按闭合回执与哈希复用，构建有锁和阶段状态；失败先检查日志，改变输入或参数换新构建目录，不覆盖无匹配回执的既有PPT。检查包内媒体、哈希、完整解码及原生演示软件实际点击播放后才能声称播放成功；媒体计数仅证明导入。当前本机未装 PowerPoint，兼容性按实际试播的软件与版本记录，不推断其他播放器也已通过。

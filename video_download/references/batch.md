@@ -27,6 +27,28 @@ python scripts/download_batch.py run \
 
 Mac mini 实际下载配置需补 `--proxy socks5h://127.0.0.1:7890 --impersonate-chrome --tls-connection-retries 2`，只在现有代理可用时使用。默认720p、Safari/HLS、整段严格解码、保存两帧；每个视频7秒间隔。
 
+## Mac mini 频繁TLS断连时的成功路径
+
+`run_resilient_batch.py` 把此前8、9月批次成功使用的网络实现推广到任意授权冻结清单，调用 `download_resilient_worker.py`，不再绑定旧34条清单。仍先用 `download_batch.py init` 冻结清单，再执行：
+
+```sh
+python scripts/run_resilient_batch.py \
+  --batch-dir '/private/staging/batches/BATCH' \
+  --cookie-file '/private/auth/www.youtube.com_cookies.txt' \
+  --proxy socks5h://127.0.0.1:7890
+# 已处理原因、切换到这一网络路径后，显式恢复此前失败项：
+python scripts/run_resilient_batch.py \
+  --batch-dir '/private/staging/batches/BATCH' \
+  --cookie-file '/private/auth/www.youtube.com_cookies.txt' \
+  --proxy socks5h://127.0.0.1:7890 --retry-failed --max-attempts 5
+```
+
+该入口默认Safari/HLS、Chrome页面网络后端，媒体请求使用系统 `/usr/bin/curl`；每请求最多额外TLS重连6次，视频总额外重连预算 `min(600, 60 × ceil(参考时长/600))`。参考时长≤20分钟时单视频最多10分钟；更长视频按原成功配置增加时限，上限60分钟。整批默认300分钟，可用 `--max-runtime-minutes` 限制。HTTP、认证、证书错误不参加TLS重连；403、证书与认证错误阻断，连续两条传输失败仍暂停。不会关闭TLS验证、跳过缺片段或降低完整验收标准。
+
+Worker核对冻结清单哈希、视频ID、参考时长、画质及任务路径，只处理该清单的条目。已建任务的代理指纹保持一致；同一个本机混合代理的HTTP/SOCKS入口可分别续传既有任务，不静默改用另一台代理。`--native-media-network` 不与此入口组合使用。`pause`、`status` 仍使用 `download_batch.py`；暂停后继续使用同一 `run_resilient_batch.py`。每条每轮最多调度一次，默认生命周期下载调用仍最多3次；确因处理路径改变需恢复时可显式设为5次，不以外层循环规避上限。
+
+状态另保存 `resilient_runtime_policy.json`、`resilient_run_final_status.json`，逐视频回执包含 `transport_trial`、实际系统curl请求数、重连数与冻结清单哈希。浏览器可播放或普通网页返回200不能代替真实媒体下载验收；TLS错误本身不构成要求重新导出Cookie的理由。
+
 ## 状态与续跑
 
 - `manifest.json`：固定清单、参考时长、画质及清单哈希。

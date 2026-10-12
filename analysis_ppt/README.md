@@ -1,6 +1,6 @@
 # 观点分析与PPT生成
 
-输入是已有完整字幕、原视频及来源记录。技能为 `yuncong-video-analysis`，输出是有原句依据的个股与指数观点、同对象截图与切片、可编辑PPT和可选本地阅读页。视频归档默认位于 `~/云聪视频全集`，新PPT与解析产物默认放在对应的视频目录内。
+输入是已有完整字幕、原视频及来源记录。技能为 `yuncong-video-analysis`，输出是有原句依据的个股与指数观点、同对象截图与切片、可编辑PPT和可选本地阅读页。正式归档根目录为 `/Users/nickzhang/云聪视频全集/`，保留的PPT和分析证据放对应视频目录；临时分析测试、压缩短片缓存、PPT候选版、构建状态和日志统一放项目根目录 `tmp/`（Git忽略），完成后清理。
 
 ## 目录与入口
 
@@ -28,9 +28,9 @@
 ANALYSIS='/实际克隆目录/analysis_ppt'
 python3 "$ANALYSIS/scripts/check_environment.py" --mode basic
 python3 "$ANALYSIS/scripts/analyze_video_transcript.py" --help
-python3 "$ANALYSIS/scripts/build_video_ppt.py" --analysis '/视频目录/解析/analysis.json' --plan '/视频目录/解析/ppt_plan.json' --build-dir '/工程外且在视频目录之外/新构建目录'
+python3 "$ANALYSIS/scripts/build_video_ppt.py" --analysis '/Users/nickzhang/云聪视频全集/YYYYMMDD_HHMMSS_标题/解析/analysis.json' --plan '/Users/nickzhang/云聪视频全集/YYYYMMDD_HHMMSS_标题/解析/ppt_plan.json' --build-dir '/项目克隆目录/tmp/ppt_build_任务名/build' --output '/Users/nickzhang/云聪视频全集/YYYYMMDD_HHMMSS_标题/标题.pptx'
 ```
 
-PPT默认同源视频名且在同一目录，中间分析与截图在视频目录的解析子目录，构建预览和日志放在视频目录外。复测使用新的 `--output` 和构建目录，保留旧成品。图片、文字、原声短片均嵌入文件供离线使用。
+PPT正式成品默认同源视频名且在同一目录；可保留的 analysis JSON、审阅大纲和必要截图放在 `解析/`。WAV、压缩短片、候选文件、PPT临时包、构建状态、预览和日志均放项目 `tmp/`，禁止在视频归档里创建测试目录或留下临时构建物。复测时 `--build-dir` 和 `--output` 都使用 `tmp/` 下彼此分开的子目录；确认完成后删除整项测试目录。图片、文字、原声短片均嵌入正式PPT供离线使用。
 
 使用 `load_workspace_dependencies` 提供的外置Node/Python/Artifact Tool，并设置 `RUNTIME_NODE`、`RUNTIME_NODE_MODULES`、`RUNTIME_PYTHON`、`PRESENTATIONS_SKILL_DIR`，详见runtime说明。已有分析与大纲的构建不调用模型；已有模型原响应复验也不代表新模型推理。PPT包验证与实际软件播放分别记录。

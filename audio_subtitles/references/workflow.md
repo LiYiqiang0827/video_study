@@ -1,6 +1,6 @@
 # 下载后的正式工作流程
 
-正式Qwen通过SSH在Mac mini启动Python任务：本流程没有常驻HTTP服务，也不通过oMLX。运行脚本、manifest和完整源视频都必须预先位于Mini本地；闭合结果再经SSH同步回本机核对SHA。数据目录可通过 `YUNCONG_DATA_ROOT` 修改；示例中的 `new_batch` 是新任务目录，不能直接对已完成的老批次重新建池。
+正式Qwen通过SSH在Mac mini启动Python任务：本流程没有常驻HTTP服务，也不通过oMLX。本文命令中 `/Users/nickzhang/YuncongVideoAnalysis/...` 全是Mac mini远端路径；本机旧同名目录已删除。本机的临时清单、同步结果和测试文件只写入 `/Users/nickzhang/Documents/ChatGPT/云聪股票交易分析/tmp/`，正式归档只写入 `/Users/nickzhang/云聪视频全集/`。运行脚本、manifest和完整源视频都必须预先位于Mini本地；闭合结果再经SSH同步回本机核对SHA。数据目录可通过 `YUNCONG_DATA_ROOT` 修改；示例中的 `new_batch` 是新任务目录，不能直接对已完成的老批次重新建池。
 
 先把本板块 `audio_subtitles/` 代码和用户授权的视频同步到Mac mini，在Mini本地启动批次。Mac mini已配好的环境使用以下远端代码路径。路径有中文或空格时必须保留引号。
 
@@ -92,20 +92,20 @@ python3 "$TOOLS/scripts/export_subtitles.py" \
 python3 "$TOOLS/scripts/organize_video_collection.py" \
   --job-root /Users/nickzhang/YuncongVideoAnalysis/asr_batches/new_batch/job \
   --export-status /Users/nickzhang/YuncongVideoAnalysis/asr_batches/new_batch/subtitle_exports/SUBTITLE_AUTO_STATUS.json \
-  --output-root /Users/nickzhang/云聪视频全集_新批次
+  --output-root /Users/nickzhang/云聪视频全集
 ```
 
 目录与文件共用 `YYYYMMDD_HHMMSS_标题`，来源 JSON 加 `_来源记录`。SHA 与当前尝试必须匹配；不能以旧字幕配新的音频。现有旧归档文件可按记录原地迁移命名，内容一致则跳过，不覆盖用户编辑。
 
 已有单视频成品可用 `--extra-items-json 外部列表` 增加，列表条目需包含 `video_id/title/upload_time_beijing/upload_time_precision/video_path/video_sha256/bytes/production_directory/provenance_sha256/audio_path/audio_sha256/audio_bytes`，必要时从实际文件核验生成。这是明确的本地资料清单，不会自行扩展下载范围。
 
-仅归档单视频时，`--job-root` 可指定新的工程外报告目录，不必构造批次状态；在没有批次快照时，工具仅处理明确传入的附加列表，报告目录保存 `COLLECTION_LAYOUT.json`：
+仅归档单视频时，`--job-root` 和清单可放本机项目 `tmp/` 下的新任务目录，不必构造批次状态；在没有批次快照时，工具仅处理明确传入的附加列表，正式视频写入归档根目录，临时报告目录保存 `COLLECTION_LAYOUT.json`：
 
 ```sh
 python3 "$TOOLS/scripts/organize_video_collection.py" \
-  --job-root /Users/nickzhang/YuncongVideoAnalysis/asr_reviews/单视频归档报告 \
-  --extra-items-json /Users/nickzhang/YuncongVideoAnalysis/asr_results/单视频归档清单.json \
-  --output-root /Users/nickzhang/云聪视频全集_单视频
+  --job-root /Users/nickzhang/Documents/ChatGPT/云聪股票交易分析/tmp/asr_reviews/单视频归档报告 \
+  --extra-items-json /Users/nickzhang/Documents/ChatGPT/云聪股票交易分析/tmp/asr_reviews/单视频归档清单.json \
+  --output-root /Users/nickzhang/云聪视频全集
 ```
 
 ## Mac mini 到本机
@@ -116,7 +116,7 @@ python3 "$TOOLS/scripts/organize_video_collection.py" \
 python3 "$TOOLS/scripts/sync_asr_batch.py" \
   --host macmini \
   --remote-root /Users/nickzhang/YuncongVideoAnalysis/asr_batches/new_batch/job \
-  --job-root /Users/nickzhang/YuncongVideoAnalysis/asr_batches/new_batch/mirror \
+  --job-root /Users/nickzhang/Documents/ChatGPT/云聪股票交易分析/tmp/asr_sync/new_batch/mirror \
   --once
 ```
 
@@ -124,4 +124,4 @@ python3 "$TOOLS/scripts/sync_asr_batch.py" \
 
 ## 现有结果
 
-2026 年 8—9 月 34 个批量视频，加之前单独处理的 R76 样本，已在 `/Users/nickzhang/云聪视频全集` 形成归档。旧路径 `/Users/nickzhang/YuncongVideoAnalysis/云聪视频全集` 是兼容软链接。重新组织应复用原 `COLLECTION_LAYOUT.json`、状态与来源记录；不要因迁入新工具工程或目录移动而重跑模型或覆盖已有成品。目录数和文件数会随新任务变化，汇报时读取当前状态。
+2026 年 8—9 月 34 个批量视频，加之前单独处理的 R76 样本，已在 `/Users/nickzhang/云聪视频全集` 形成归档。该路径是本机正式媒体与交付目录。Mac mini 上的 `~/YuncongVideoAnalysis` 是远端ASR代码、模型和批次环境；本机同名目录已删除，归档不通过旧路径兼容软链接访问。重新组织应复用原 `COLLECTION_LAYOUT.json`、状态与来源记录；不要因迁入新工具工程或目录移动而重跑模型或覆盖已有成品。目录数和文件数会随新任务变化，汇报时读取当前状态。临时测试放项目 `tmp/`，结束后删除。

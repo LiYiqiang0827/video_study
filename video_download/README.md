@@ -9,6 +9,7 @@
 | `SKILL.md`、`agents/openai.yaml` | 技能说明与发现配置 |
 | `scripts/download_video.py` | 单视频、续传、音视频完整性核验与命名 |
 | `scripts/download_batch.py` | 明确清单调度、暂停及有限重试 |
+| `scripts/run_resilient_batch.py`、`download_resilient_worker.py` | 通用冻结批次的系统curl下载路径，按时长设置有限重连预算与执行时限 |
 | `scripts/discover_members.py` | 授权频道与日期范围的会员清单发现 |
 | `scripts/video_naming.py` | 真实上传时间与标题命名 |
 | `scripts/system_curl_transport.py` | 系统curl传输模块 |
@@ -27,7 +28,11 @@ PYTHON='/实际外置下载环境/bin/python'
 
 新机器按 [environment](references/environment.md) 准备环境。通用工具可迁移；三个历史批次专用脚本仍绑定原资料目录和冻结清单，不作为任意新批次入口。原部署脚本通过兼容链接指向新位置。整理或检查不启动下载。
 
-输入是用户指定链接、执行范围及必要的外置登录状态。下载脚本和登录状态应在有权限的执行机器上运行。输出在工程外，包括MP4、`result.json`、技术验收和来源信息。完成下载后，由相邻 `audio_subtitles/` 建清单、提取音频与字幕。
+Mac mini 上频繁出现 TLS EOF 时，使用 `run_resilient_batch.py --batch-dir ... --cookie-file ... --proxy socks5h://127.0.0.1:7890`，复用8、9月已验证的系统curl媒体传输。每个请求最多额外重连6次，整条视频总预算按时长为60～600次，另有单视频和整批执行时限。该入口支持任意已授权、已冻结清单，仍执行完整解码、时长、轨道和SHA256核验；不会改变系统代理或自动扩大视频范围。完整命令见 [批次说明](references/batch.md)。
+
+输入是用户指定链接、执行范围及必要的外置登录状态。新下载的暂存、任务状态、验收帧和日志放项目根目录 `tmp/`（Git忽略）；Cookie和登录状态单独保存在项目外。通过验收的视频随后归档至 `/Users/nickzhang/云聪视频全集/YYYYMMDD_HHMMSS_标题/`，再由相邻 `audio_subtitles/` 提取音频与字幕。不要把测试或下载暂存目录建在归档根目录。
+
+下载暂存文件使用 `标题_上传时间.mp4`；正式视频全集沿用现有格式，目录和视频文件共用 `YYYYMMDD_HHMMSS_标题` 主干。归档时仅改用准确上传北京时间作主干，不能用标题日期或下载时间代替。
 
 ## 三板块衔接
 

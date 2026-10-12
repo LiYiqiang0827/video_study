@@ -1,5 +1,7 @@
 # Only maintained code, skill metadata, and Markdown documentation enter Git.
 *
+# Local scratch space is deliberately never versioned.
+/tmp/
 !.gitignore
 !README.md
 !video_download/

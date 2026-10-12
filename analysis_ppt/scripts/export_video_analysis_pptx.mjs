@@ -4,6 +4,7 @@
  * Artifact Tool and validation runtimes remain outside this checkout.
  */
 import fs from 'node:fs/promises';
+import { constants as fsConstants } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import { createHash } from 'node:crypto';
@@ -23,9 +24,13 @@ if (args.help) {
 }
 
 const sha = bytes => createHash('sha256').update(bytes).digest('hex');
-const inside = (file, dir) => file === dir || file.startsWith(dir + path.sep);
+const inside = (file, dir) => {
+  const relative = path.relative(dir, file);
+  return relative === '' || (!path.isAbsolute(relative) && relative !== '..' && !relative.startsWith(`..${path.sep}`));
+};
 const toolRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const projectRoot = path.resolve(toolRoot, '..');
+const tempRoot = path.join(projectRoot, 'tmp');
 const clock = seconds => {
   const n = Math.floor(seconds);
   return [Math.floor(n / 3600), Math.floor(n / 60) % 60, n % 60].map(v => String(v).padStart(2, '0')).join(':');
@@ -51,11 +56,13 @@ async function main() {
   const analysisPath = await fs.realpath(args.analysis), planPath = await fs.realpath(args.plan);
   const output = path.resolve(args.output), build = path.resolve(args['build-dir']);
   if (!output.endsWith('.pptx')) throw new Error('Output must be a .pptx');
-  for (const dest of [output, build]) if (inside(dest, projectRoot)) throw new Error('Outputs must remain outside the tools checkout');
+  if (inside(output, projectRoot) && !inside(output, tempRoot)) throw new Error('Final output inside the checkout is allowed only under project tmp/');
+  if (inside(build, projectRoot) && !inside(build, tempRoot)) throw new Error('Build output inside the checkout is allowed only under project tmp/');
   try { await fs.lstat(output); throw new Error('Existing output preserved; use a new filename'); } catch (error) { if (error.code !== 'ENOENT') throw error; }
   await fs.mkdir(build, { recursive: true }); await fs.mkdir(path.dirname(output), { recursive: true });
   const buildReal = await fs.realpath(build), parentReal = await fs.realpath(path.dirname(output));
-  if (inside(buildReal, projectRoot) || inside(parentReal, projectRoot)) throw new Error('Output symlink points into tools checkout');
+  if ((inside(buildReal, projectRoot) && !inside(buildReal, tempRoot)) ||
+      (inside(parentReal, projectRoot) && !inside(parentReal, tempRoot))) throw new Error('Output symlink points into tools checkout');
   if (inside(buildReal, parentReal)) throw new Error('The private build directory must be outside the final output directory');
   const candidate = path.join(buildReal, 'candidate.pptx');
   try { await fs.lstat(candidate); throw new Error('Existing build preserved; use a new build directory'); } catch (error) { if (error.code !== 'ENOENT') throw error; }
@@ -228,15 +235,22 @@ async function main() {
     candidatePath = path.join(buildReal, 'candidate_embedded.pptx');
     await promisify(execFile)(process.env.RUNTIME_PYTHON, [path.join(toolRoot, 'scripts/embed_ppt_videos.py'), '--input', candidate, '--spec', specPath, '--output', candidatePath, '--receipt', path.join(buildReal, 'MEDIA_EMBEDDING.json')], { maxBuffer: 1048576 });
   }
-  let workspaceDir = parentReal;
-  while (!inside(buildReal, workspaceDir)) workspaceDir = path.dirname(workspaceDir);
-  if (workspaceDir === path.parse(workspaceDir).root) throw new Error('Build and output need a shared data workspace');
-  await finalizePresentation({ workspaceDir, candidatePath, finalPath: output, pythonExecutable: process.env.RUNTIME_PYTHON,
+  const stagedFinalDir = path.join(buildReal, 'finalized');
+  await fs.mkdir(stagedFinalDir, { recursive: true });
+  const stagedFinal = path.join(stagedFinalDir, 'finalized.pptx');
+  await finalizePresentation({ workspaceDir: buildReal, candidatePath, finalPath: stagedFinal, pythonExecutable: process.env.RUNTIME_PYTHON,
     integrityValidatorPath: path.join(skillDir, 'container_tools/inspect_presentation_package_integrity.py'),
     layoutValidatorPath: path.join(skillDir, 'container_tools/inspect_presentation_layout_geometry.py'),
     layoutArgs: ['--expected-slide-size-emu', '12192000,6858000', '--validate-heading-fit', ...outlineOwners.flatMap(n => ['--require-native-table-slide', String(n)])],
     requiredNativeTableOwnerSlides: outlineOwners, fontPolicy: { basis: 'design', families: [args.font] },
     verifyArtifactToolImport: true, receiptPath: path.join(buildReal, 'VALIDATION.json') });
+  try {
+    await fs.link(stagedFinal, output);
+    await fs.unlink(stagedFinal);
+  } catch (error) {
+    if (error.code !== 'EXDEV') throw error;
+    await fs.copyFile(stagedFinal, output, fsConstants.COPYFILE_EXCL);
+  }
   const result = { state: 'exported', output, slides: presentation.slides.items.length, stocks: plan.stocks.length, market_items: marketItems.length,
     screenshot_only_details: items.flatMap(item => item.details).filter(detail => detail.embed_video === false).length,
     sha256: sha(await fs.readFile(output)), embedded_videos: embeddingItems.length, inputs: { analysis_sha256: sha(analysisBytes), plan_sha256: sha(planBytes), frames: frameInputs, videos: videoInputs, ...(mediaPath ? { media_manifest_sha256: sha(mediaBytes) } : {}) }, model_calls: 0 };
