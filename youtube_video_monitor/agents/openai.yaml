@@ -1,0 +1,4 @@
+interface:
+  display_name: "云聪 YouTube 新视频监控"
+  short_description: "以 Mac mini 下载和 Qwen 字幕，远端 GPU Qwen 分析并通过飞书发送 PPT"
+  default_prompt: "使用 $yuncong-youtube-video-monitor 检查云聪频道新视频，并按技能说明完成下载、字幕、观点分析、PPT 与飞书交付。"

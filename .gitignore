@@ -67,6 +67,16 @@
 !youtube_posts/scripts/*.mjs
 !youtube_posts/tests/
 !youtube_posts/tests/*.py
+!youtube_video_monitor/
+!youtube_video_monitor/README.md
+!youtube_video_monitor/SKILL.md
+!youtube_video_monitor/agents/
+!youtube_video_monitor/agents/*.yaml
+!youtube_video_monitor/references/
+!youtube_video_monitor/references/*.md
+!youtube_video_monitor/scripts/
+!youtube_video_monitor/scripts/*.py
+!youtube_video_monitor/scripts/*.swift
 **/__pycache__/
 **/*.pyc
 **/.DS_Store

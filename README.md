@@ -1,6 +1,6 @@
 # 云聪股票交易分析 · video_study
 
-本项目把云聪 YouTube 研究工具分为四个板块：视频下载、音频与字幕、观点分析与PPT、频道 Posts。前三个视频处理板块按顺序衔接；Posts 板块独立采集、归档并分析频道文字/图片/投票等动态。各板块包含独立技能、脚本和运行说明。代码与文档统一上传到 [LiYiqiang0827/video_study](https://github.com/LiYiqiang0827/video_study)。
+本项目把云聪 YouTube 研究工具分为五个板块：视频下载、音频与字幕、观点分析与PPT、新视频监控、频道 Posts。新视频监控按顺序编排前三项视频工具，并在完成后通过飞书发送PPT；Posts 板块独立采集和分析文字/图片/投票等动态。各板块包含独立技能、脚本和运行说明。代码与文档统一上传到 [LiYiqiang0827/video_study](https://github.com/LiYiqiang0827/video_study)。
 
 项目帮助用户保存本人可访问的视频和频道 Posts，获得带时间的财经字幕，再把讲者的个股与指数观点整理成带原始画线截图及原声短片的可编辑PPT。观点保持讲者原意和条件语气，时间与来源由程序保留，分析过程不补写外部行情或收益结论。
 
@@ -40,10 +40,15 @@ video_study/
 │   ├── prompts/                       Posts 分析提示词
 │   ├── references/                    数据格式、登录与来源边界
 │   └── tests/                         离线结构与归档测试
+├── youtube_video_monitor/             新视频监控、流水线编排与飞书交付
+│   ├── README.md
+│   ├── SKILL.md
+│   ├── scripts/                       定时监控入口
+│   └── references/                    流程与运行环境
 └── tmp/                               本机临时文件（Git忽略）
 ```
 
-## 四个板块的输入、处理与输出
+## 五个板块的输入、处理与输出
 
 | 板块 | 输入 | 主要处理 | 输出与下一步 |
 | --- | --- | --- | --- |
@@ -51,6 +56,7 @@ video_study/
 | [音频与字幕](audio_subtitles/README.md) | 完整本地视频或冻结下载清单 | M4A/WAV提取、Qwen ASR与ForcedAligner、字幕导出、同步与归档 | MP4/M4A/SRT/VTT/MD/JSON/来源JSON七文件集合 |
 | [观点与PPT](analysis_ppt/README.md) | 已有字幕、原视频与来源记录 | 原句引用、时钟核对、同对象截图、观点与大纲、原声短片及PPT | 可编辑离线PPT、分析JSON、截图切片与可选本地阅读页 |
 | [频道 Posts](youtube_posts/README.md) | 指定频道 Posts 页；Mac mini 已登录 YouTube 账号 | 本机 SSH 到 Mini 抓取、哈希验收，按北京时间月份归档并生成图文 PPT；观点归纳调用远端 GPU Qwen | `/Users/nickzhang/云聪帖子全集/` 根目录存放 PPT，月份子目录存 JSON、原图和清单 |
+| [新视频监控](youtube_video_monitor/README.md) | 云聪频道最新视频列表；Mac mini 登录态 | 以视频 ID 停止于首个已归档视频，依次调用下载、Mac mini Qwen ASR/ForcedAligner、远端 GPU Qwen 分析与PPT；验收后经Hermes飞书发送 | 正式视频与PPT进入 `/Users/nickzhang/云聪视频全集/`；状态和中间产物在 `tmp/youtube_video_monitor/` |
 
 下载由 `download_video.py` 或 `download_batch.py` 处理，新清单使用通用批次入口。Mac mini频繁TLS断连时使用 `run_resilient_batch.py`，它将8、9月成功的系统curl媒体传输和按时长设置的60～600次有限总重连预算用于任意授权冻结清单，仍完整解码并核对时长、轨道和SHA256。三个历史34视频批次专用脚本保留原清单哈希和执行边界，只用于原批次，不作为新任务默认入口。
 
@@ -128,15 +134,16 @@ python3 "$ANALYSIS/scripts/build_video_ppt.py" \
 
 正式PPT默认与源视频同名且在同一归档目录。复测用新的构建目录和输出文件，放在项目 `tmp/`，不要在归档根目录创建测试目录。候选PPT、压缩短片、临时包、回执和日志在验证完成后从 `tmp/` 清理。每个详情页包含原图和可编辑文字，短片取自同对象同段原视频，默认最高720p、15fps、H.264 CRF28和AAC64kbps，不放大源视频，保留声音。PPT结构与解码检查、逐页视觉检查、演示软件实际点击播放分开验收。
 
-## 安装三个技能
+## 安装项目技能
 
-在用户技能目录创建三个链接，替换为实际克隆位置；若目标存在，先确认其现有指向再更新：
+在用户技能目录创建所需链接，替换为实际克隆位置；若目标已存在，先确认其现有指向再更新：
 
 ```sh
 ln -s "$PROJECT/video_download" "$HOME/.codex/skills/yuncong-member-video-download"
 ln -s "$PROJECT/audio_subtitles" "$HOME/.codex/skills/yuncong-video-subtitles"
 ln -s "$PROJECT/analysis_ppt" "$HOME/.codex/skills/yuncong-video-analysis"
 ln -s "$PROJECT/youtube_posts" "$HOME/.codex/skills/yuncong-youtube-posts"
+ln -s "$PROJECT/youtube_video_monitor" "$HOME/.codex/skills/yuncong-youtube-video-monitor"
 ```
 
 字幕技能只处理音频与字幕，观点与PPT使用新增 `yuncong-video-analysis`。安装入口均带自身脚本与支持资料。
@@ -151,7 +158,7 @@ ln -s "$PROJECT/youtube_posts" "$HOME/.codex/skills/yuncong-youtube-posts"
 | 根目录字幕技能 | `audio_subtitles/SKILL.md` |
 | 根目录提示词与视频解析文档 | `analysis_ppt/prompts/`、`analysis_ppt/references/` |
 
-旧的下载子工程Git历史在本机工程外备份。四个板块统一使用父仓库Git。旧根目录 `scripts/` 已取消，命令应使用对应板块的新路径。`YuncongVideoTools` 旧工程链接继续指向项目根目录；已有旧脚本命令需按上表更新。已部署的三个下载脚本兼容链接和视频处理技能链接已按各自板块维护。
+旧的下载子工程Git历史在本机工程外备份。项目各板块统一使用父仓库Git。旧根目录 `scripts/` 已取消，命令应使用对应板块的新路径。`YuncongVideoTools` 旧工程链接继续指向项目根目录；已有旧脚本命令需按上表更新。已部署的三个下载脚本兼容链接和视频处理技能链接已按各自板块维护。
 
 ## 本地复测范围
 
