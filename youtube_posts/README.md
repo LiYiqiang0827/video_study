@@ -14,6 +14,8 @@ youtube_posts/
 │   ├── collect_posts.py                   Mini 端提取帖子；每张图片只下载最高分辨率版本
 │   ├── archive_posts_by_month.py          按北京时间月份合并 JSON、原图和哈希清单
 │   ├── generate_monthly_posts_ppt.mjs     生成月度图文 PPT
+│   ├── monitor_new_posts.py                增量监控、更新归档/PPT并输出飞书通知
+│   ├── install_posts_monitor.py            安装 Hermes 每半小时脚本任务
 │   └── analyze_posts.py                   调用远端 GPU Qwen，保存分析与原始响应
 ├── prompts/analyze_posts.md               Posts 分析约束与输出格式
 ├── references/                            数据字段、授权边界和工作流程
@@ -24,7 +26,7 @@ youtube_posts/
 
 采集固定在 Mac mini 执行，复用下载板块的 SSH 别名 `macmini`、独立 Python 环境、外置 YouTube Cookie 和代理。抓取脚本由本机临时 SCP 到 Mini，结果放在隔离任务目录，再通过 SCP 回传到项目 `tmp/` 并逐文件核对 SHA256。Cookie 从不传回本机，也不进入项目或 Git。YouTube Posts 使用网页解析适配器，页面或 yt-dlp 更新可能造成变化；不能把未经核对的空结果当成功。[官方 Posts 说明](https://support.google.com/youtube/answer/9409631) · [Data API 资源目录](https://developers.google.com/youtube/v3/docs) · [yt-dlp Posts renderer](https://github.com/yt-dlp/yt-dlp/blob/master/yt_dlp/extractor/youtube/_tab.py)。不得绕过账号权限、登录或地区限制。
 
-云聪金融交易分析频道的已确认 ID 为 `UCg9zI64pEB_3xwJPur6isiQ`。未给数量上限时，抓取当前账号可见的全部 Posts；可用 `--max-posts` 做小样本验证：
+云聪金融交易分析频道的已确认 ID 为 `UCg9zI64pEB_3xwJPur6isiQ`。历史全量归档可用 `--max-posts` 做小样本验证；监控模式从最新帖子开始，遇到首条已归档 ID 后停止：
 
 ```sh
 POSTS='/Users/nickzhang/Documents/ChatGPT/云聪股票交易分析/youtube_posts'
@@ -52,6 +54,20 @@ python3 "$POSTS/scripts/collect_posts_via_macmini.py" \
 
 PPT 每条帖子单独编排，保留正文、页面显示的相对时间、帖子 ID、来源链接和可用配图。若有分钟/小时/天/周级相对时间，显示按采集基准推算的时间范围，并明确标注“估算”；若精确日期未提供，也会直接注明。年份级旧帖在单一 PPT 中统一显示原始相对时间和推断范围。长文拆页，完整结构化文本仍以各月份 `posts.json` 为准，所有原始图片仍在对应 `media/`。PPT 是浏览档案，不替代模型观点分析。构建使用 Codex Artifact Tool；候选稿与预览放项目 `tmp/youtube_posts/`，检查后直接复制到 `/Users/nickzhang/云聪帖子全集/` 根目录，再刷新根级和月份级清单。
 
+## 定时监控新帖子
+
+监控使用 YouTube Posts 页现有解析器，通过 SSH 在已登录的 Mac mini 上拉取最新动态。每条帖子的稳定 `post_id`（YouTube `backstagePostRenderer.postId`）作为去重键；本机各月份 `posts.json` 与归档根目录 `monitor_state.json` 保存已见 ID。每轮从最新帖子向旧帖遍历，遇到第一个已归档 ID 即停止，避免重复扫描历史；缺少历史 ID 时拒绝启动增量模式。采集或 PPT 验收失败会让本轮返回错误，不发新帖通知。
+
+安装创建 Hermes 脚本任务，按 Mac 本机 Asia/Shanghai 时区每天 09:00 至 23:30、每半小时运行（09:00、09:30 … 23:30）。Hermes `--no-agent` 将脚本 stdout 原样送到当前保存的 Feishu 私聊，不调用聊天模型。没有新帖时 stdout 为空，保持静默。发现新帖后会下载配图、更新按月 JSON 和媒体、重建受影响月份的完整图文 PPT 到归档根目录、刷新清单，再发送帖子链接、原始相对时间和正文摘要。
+
+```sh
+POSTS='/Users/nickzhang/Documents/ChatGPT/云聪股票交易分析/youtube_posts'
+python3 "$POSTS/scripts/install_posts_monitor.py"
+hermes cron list
+```
+
+任务名为 `yuncong-youtube-posts-monitor`。Hermes Gateway 和 cron scheduler 必须保持运行且 Feishu 已连接。脚本外壳位于 `~/.hermes/scripts/`，实现仍由本项目管理。ID 状态只保存在 `/Users/nickzhang/云聪帖子全集/monitor_state.json`，锁文件也只在该归档根目录，不进入 Git。运行记录可用 `hermes cron runs` 查看。
+
 ## 观点分析
 
 使用和 `analysis_ppt` 相同的远端 GPU Qwen vLLM SSH 通道；不会调用 Mac mini ASR 模型，也不会自动切换到本机 Hermes 默认聊天模型。
@@ -68,6 +84,6 @@ python3 "$POSTS/scripts/analyze_posts.py" \
 
 ## 路径与保密
 
-正式 Posts 数据与月度 PPT 只放在 `/Users/nickzhang/云聪帖子全集/YYYY-MM/`，绝不写到视频归档 `/Users/nickzhang/云聪视频全集/`。项目临时同步、测试脚本、候选 PPT、预览图和日志放在代码库的 `tmp/`（Git 忽略）。Mac mini 临时任务位于 `~/YuncongVideoAnalysis/posts_tools/jobs/<随机任务ID>/`，完成或中止后清理。分析归档放在对应月份下；Cookie 和模型凭据留在项目外。
+正式 Posts JSON、图片按月放在 `/Users/nickzhang/云聪帖子全集/YYYY-MM/`，全部月度 PPT 直接放在归档根目录，绝不写到视频归档 `/Users/nickzhang/云聪视频全集/`。项目临时同步、测试脚本、候选 PPT、预览图和日志放在代码库的 `tmp/`（Git 忽略）。Mac mini 临时任务位于 `~/YuncongVideoAnalysis/posts_tools/jobs/<随机任务ID>/`，完成或中止后清理。分析归档放在对应月份下；Cookie 和模型凭据留在项目外。
 
 字段和完整操作步骤见 [数据格式](references/data_schema.md) 与 [工作流](references/workflow.md)。

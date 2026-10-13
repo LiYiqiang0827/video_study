@@ -11,6 +11,20 @@
 7. 完成或中止后清理本机项目 `tmp/youtube_posts/<随机ID>/` 与 Mini 任务目录。不要将账号 Cookie、终端秘密、模型凭据或数据归档提交 Git。
 8. yt-dlp 或 YouTube 页面结构变化时，不把空结果当成功。核对频道 Posts 页小样本、更新适配器和 fixture 测试后再全量采集。
 
+## 定时增量监控
+
+安装入口 `scripts/install_posts_monitor.py` 在 Hermes 中创建唯一任务 `yuncong-youtube-posts-monitor`：`*/30 9-23 * * *`，即本机时区 09:00 到 23:30 每 30 分钟。任务采用 Hermes `--no-agent` 和 `--script`，成功时将 stdout 原样发到 Hermes 已保存的 Feishu 私聊，失败目标设为 `local`；空 stdout 不发消息。收件人只从本机 `~/.hermes/channel_directory.json` 读取，不把标识符保存到代码或日志。Gateway/cron scheduler 与 Feishu 连接需要持续可用。
+
+`monitor_new_posts.py` 用文件锁防止上一轮尚未结束时重复运行，然后调用 Mac mini 增量抓取。`collect_posts.py` 按 Posts 页顺序逐条读取，遇到归档 ID 就停止；已见集合来自 `/Users/nickzhang/云聪帖子全集/*/posts.json` 和 `/Users/nickzhang/云聪帖子全集/monitor_state.json`。首次没有历史 ID 时拒绝扫描。新帖子先通过清单哈希验收、按月更新 JSON 和图片，再逐月构建完整 PPT；每个 PPT 的最终 SHA256 和字节数必须与 Artifact Tool 验收回执相符，之后才复制到归档根并刷新清单。只有所有归档与 PPT 步骤成功才输出 Feishu 通知，零新帖则静默。
+
+ID 状态及锁文件均位于 Posts 归档根，不进入 Git。远端抓取仍清理 Mini `jobs/<随机ID>/`，本机所有同步和候选文件只存项目 `tmp/` 并在每次执行后清理。手动查看任务和运行记录：
+
+```sh
+hermes cron list
+hermes cron runs
+hermes cron status
+```
+
 月度 PPT 用 `scripts/generate_monthly_posts_ppt.mjs` 与 Codex Artifact Tool 生成。构建候选与逐页预览保存在项目 `tmp/youtube_posts/monthly_ppt/`，检查内容、图片和文字适配后，将最终 PPT 复制到 `/Users/nickzhang/云聪帖子全集/` 根目录，再运行：
 
 ```sh

@@ -64,7 +64,7 @@ video_study/
 
 ## 代码、资料与运行环境
 
-本机代码目录是 `/Users/nickzhang/Documents/ChatGPT/云聪股票交易分析`。项目内 `tmp/` 是唯一的本机临时验证位置，已由根 `.gitignore` 排除；存放临时脚本、WAV、下载或同步暂存、测试输出、候选PPT、压缩短片、日志和回执，任务结束后清理。不要将临时产物写入正式归档。正式视频、音频字幕、保留的解析证据和视频分析PPT归档在 `/Users/nickzhang/云聪视频全集/YYYYMMDD_HHMMSS_标题/`；频道 Posts 独立归档在 `/Users/nickzhang/云聪帖子全集/YYYY-MM/`，包含当月 JSON、图片、PPT 和哈希清单；字幕归档可通过 `YUNCONG_VIDEO_COLLECTION_ROOT` 修改。
+本机代码目录是 `/Users/nickzhang/Documents/ChatGPT/云聪股票交易分析`。项目内 `tmp/` 是唯一的本机临时验证位置，已由根 `.gitignore` 排除；存放临时脚本、WAV、下载或同步暂存、测试输出、候选PPT、压缩短片、日志和回执，任务结束后清理。不要将临时产物写入正式归档。正式视频、音频字幕、保留的解析证据和视频分析PPT归档在 `/Users/nickzhang/云聪视频全集/YYYYMMDD_HHMMSS_标题/`；频道 Posts 独立归档在 `/Users/nickzhang/云聪帖子全集/`，JSON 与图片按月放在子目录，月度 PPT 和根级清单直接放在 Posts 根目录；字幕归档可通过 `YUNCONG_VIDEO_COLLECTION_ROOT` 修改。
 
 ```text
 项目根目录/tmp/                        本机临时下载暂存、ASR同步、测试脚本和PPT构建（Git忽略）

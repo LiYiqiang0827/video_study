@@ -2,7 +2,10 @@ import fs from "node:fs/promises";
 import path from "node:path";
 import { spawnSync } from "node:child_process";
 import { pathToFileURL } from "node:url";
-import { Presentation, PresentationFile } from "@oai/artifact-tool";
+const runtimeNodeModules = process.env.RUNTIME_NODE_MODULES || process.env.CODEX_PRIMARY_RUNTIME_NODE_MODULES;
+if (!runtimeNodeModules) throw new Error("RUNTIME_NODE_MODULES must point to the workspace dependency node_modules");
+const artifactTool = await import(pathToFileURL(path.join(runtimeNodeModules, "@oai/artifact-tool/dist/artifact_tool.mjs")).href);
+const { Presentation, PresentationFile } = artifactTool;
 
 const [archiveDir, workspaceDir, skillDir, runtimePython] = process.argv.slice(2);
 if (!archiveDir || !workspaceDir || !skillDir || !runtimePython) {

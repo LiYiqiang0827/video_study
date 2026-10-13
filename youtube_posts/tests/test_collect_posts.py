@@ -6,7 +6,7 @@ import unittest
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
-from collect_posts import download_image, normalize_post
+from collect_posts import download_image, normalize_post, take_until_known_post
 from collect_posts_via_macmini import CollectionError, verify_manifest
 from archive_posts_by_month import (
     _month, _month_assignment, _relative_time_estimate, archive_snapshot, refresh_manifests,
@@ -14,6 +14,19 @@ from archive_posts_by_month import (
 
 
 class NormalizePostTests(unittest.TestCase):
+    def test_incremental_collection_stops_at_first_archived_id(self):
+        entries = [{"post_id": value} for value in ("new-2", "new-1", "archived", "gap", "new-too-old")]
+        posts, stopped = take_until_known_post(entries, {"archived", "gap"})
+        self.assertEqual([post["post_id"] for post in posts], ["new-2", "new-1"])
+        self.assertTrue(stopped)
+
+    def test_incremental_collection_deduplicates_new_ids_and_allows_empty_feed(self):
+        entries = [{"post_id": "new"}, {"post_id": "new"}, {"post_id": "old"}]
+        posts, stopped = take_until_known_post(entries, {"old"})
+        self.assertEqual([post["post_id"] for post in posts], ["new"])
+        self.assertTrue(stopped)
+        self.assertEqual(take_until_known_post([{"post_id": "old"}], {"old"}), ([], True))
+
     def test_text_id_video_and_image_are_preserved(self):
         thread = {"post": {"backstagePostRenderer": {
             "postId": "Ugk-test",

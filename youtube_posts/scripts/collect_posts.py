@@ -127,6 +127,27 @@ def safe_component(value):
     return value[:100] or "post"
 
 
+def take_until_known_post(entries, known_post_ids=None, max_posts=None):
+    """Take newest entries until the first previously archived ID is reached."""
+    known = set(known_post_ids or ())
+    posts, seen = [], set()
+    stopped_at_known = False
+    for entry in entries:
+        if not isinstance(entry, dict) or not entry.get("post_id"):
+            continue
+        post_id = str(entry["post_id"])
+        if post_id in known:
+            stopped_at_known = True
+            break
+        if post_id in seen:
+            continue
+        seen.add(post_id)
+        posts.append(entry)
+        if max_posts is not None and len(posts) >= max_posts:
+            break
+    return posts, stopped_at_known
+
+
 def download_image(url, target, proxy=None):
     parsed = urlparse(url)
     host = (parsed.hostname or "").lower()
@@ -161,7 +182,8 @@ def download_image(url, target, proxy=None):
     return {"path": str(target), "bytes": len(data), "sha256": hashlib.sha256(data).hexdigest(), "content_type": content_type}
 
 
-def collect(channel_url, cookie_file=None, max_posts=None, proxy=None, impersonate_chrome=False):
+def collect(channel_url, cookie_file=None, max_posts=None, proxy=None, impersonate_chrome=False,
+            known_post_ids=None):
     try:
         import yt_dlp
         from yt_dlp.extractor.youtube._tab import YoutubeTabIE
@@ -190,17 +212,17 @@ def collect(channel_url, cookie_file=None, max_posts=None, proxy=None, impersona
         with yt_dlp.YoutubeDL(options) as ydl:
             info = YoutubeTabIE(ydl).extract(channel_url.rstrip("/") + "/posts")
             iterator = (info or {}).get("entries") or []
-            entries = list(itertools.islice(iterator, max_posts)) if max_posts is not None else list(iterator)
+            if known_post_ids is not None:
+                entries, stopped_at_known = take_until_known_post(iterator, known_post_ids, max_posts)
+            else:
+                entries = list(itertools.islice(iterator, max_posts)) if max_posts is not None else list(iterator)
+                stopped_at_known = False
     finally:
         YoutubeTabIE._post_thread_entries = original
-    records, seen = [], set()
-    for entry in entries:
-        if not isinstance(entry, dict) or not entry.get("post_id"):
-            continue
-        if entry["post_id"] not in seen:
-            seen.add(entry["post_id"])
-            records.append(entry)
-    if not records:
+    records, _ = take_until_known_post(entries)
+    if known_post_ids is not None and not stopped_at_known:
+        raise RuntimeError("incremental_known_post_boundary_not_found_check_feed_order_or_parser")
+    if not records and known_post_ids is None:
         raise RuntimeError("posts_not_extracted_check_channel_url_access_and_ytdlp_compatibility")
     return records
 
@@ -211,6 +233,8 @@ def main(argv=None):
     parser.add_argument("--output-dir", required=True, type=Path, help="New directory outside the code tree")
     parser.add_argument("--cookie-file", type=Path, help="Optional user-provided cookie export stored outside the repository")
     parser.add_argument("--max-posts", type=int, help="Upper limit for posts returned by the extractor")
+    parser.add_argument("--known-post-ids-file", type=Path,
+                        help="Stop at the first post ID present in this JSON array")
     parser.add_argument("--download-images", action="store_true")
     parser.add_argument("--proxy", help="Existing proxy on the execution machine")
     parser.add_argument("--impersonate-chrome", action="store_true")
@@ -235,7 +259,18 @@ def main(argv=None):
         parser.error("Output directory already exists; choose a fresh path to preserve prior snapshots")
     output.mkdir(parents=True, mode=0o700)
     try:
-        posts = collect(url, cookie, args.max_posts, args.proxy, args.impersonate_chrome)
+        known_post_ids = None
+        if args.known_post_ids_file:
+            if args.known_post_ids_file.is_symlink():
+                parser.error("Known post ID file must not be a symlink")
+            known_path = args.known_post_ids_file.resolve(strict=True)
+            if not known_path.is_file():
+                parser.error("Known post ID file must be a regular file")
+            known_post_ids = json.loads(known_path.read_text(encoding="utf-8"))
+            if not isinstance(known_post_ids, list) or any(not isinstance(item, str) for item in known_post_ids):
+                parser.error("Known post ID file must contain a JSON array of strings")
+        posts = collect(url, cookie, args.max_posts, args.proxy, args.impersonate_chrome,
+                        known_post_ids=known_post_ids)
         if args.download_images:
             for post in posts:
                 for index, image_url in enumerate(post["image_urls"], 1):
@@ -258,7 +293,7 @@ def main(argv=None):
             files.append({"path": str(item.relative_to(output)), "bytes": item.stat().st_size,
                           "sha256": hashlib.sha256(item.read_bytes()).hexdigest()})
         (output / "MANIFEST.json").write_text(json.dumps({"schema_version": 1, "files": files}, indent=2), encoding="utf-8")
-        print(json.dumps({"state": "collected", "post_count": len(posts), "path": str(path),
+        print(json.dumps({"state": "collected" if posts else "no_new_posts", "post_count": len(posts), "path": str(path),
                           "sha256": hashlib.sha256(data).hexdigest()}, ensure_ascii=False))
         return 0
     except Exception as exc:
